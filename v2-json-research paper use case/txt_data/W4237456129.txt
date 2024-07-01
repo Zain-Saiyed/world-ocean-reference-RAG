@@ -1,0 +1,12 @@
+ID: W4237456129
+TITLE: The World’s Cities in 2018
+AUTHOR: []
+ABSTRACT:
+This data booklet highlights current and future trajectories of populations in cities around the globe, drawing on the population estimates and projections published in World Urbanization Prospects: The 2018 Revision.
+
+SOURCE: Statistical papers - United Nations. Series A, Population and vital statistics report
+PDF URL: None
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2018
+TYPE: book
+CONCEPTS: ['History', 'Geography']

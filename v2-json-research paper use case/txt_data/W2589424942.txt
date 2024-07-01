@@ -1,0 +1,12 @@
+ID: W2589424942
+TITLE: Valuing nature’s contributions to people: the IPBES approach
+AUTHOR: ['Unai Pascual', 'Patricia Balvanera', 'Sandra Dı́az', 'György Pataki', 'Eva Roth', 'Marie Stenseke', 'Robert Watson', 'Esra Başak', 'Mine Işlar', 'Eszter Kelemen', 'Virginie Maris', 'Martin Quaas', 'Suneetha M. Subramanian', 'Heidi Wittmer', 'Asia Adlan', 'So Eun Ahn', 'Yousef S. Al‐Hafedh', 'Edward Amankwah', 'Stanley T. Asah', 'Pam Berry', 'Adem Bilgin', 'Sara Jo Breslow', 'Craig Bullock', 'Daniel Cáceres', 'Hamed Daly-Hassen', 'Enrique Figueroa', 'Christopher D. Golden', 'Erik Gómez-Baggethun', 'David González-Jiménez', 'Joël Houdet', 'Hans Keune', 'Ritesh Kumar', 'Keping Ma', 'Peter H. May', 'Aroha Te Pareake Mead', 'Patrick H. O’Farrell', 'Ram Pandit', 'Walter Pengue', 'Ramón Pichis-Madruga', 'Florin Popa', 'Susan Harrington Preston', 'Diego Pacheco-Balanza', 'Heli Saarikoski', 'Bernardo B. N. Strassburg', 'Marjan van den Belt', 'Madhu Verma', 'Fern Wickson', 'Noboyuki Yagi']
+ABSTRACT:
+Nature is perceived and valued in starkly different and often conflicting ways. This paper presents the rationale for the inclusive valuation of nature’s contributions to people (NCP) in decision making, as well as broad methodological steps for doing so. While developed within the context of the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES), this approach is more widely applicable to initiatives at the knowledge–policy interface, which require a pluralistic approach to recognizing the diversity of values. We argue that transformative practices aiming at sustainable futures would benefit from embracing such diversity, which require recognizing and addressing power relationships across stakeholder groups that hold different values on human nature-relations and NCP.
+
+SOURCE: Current opinion in environmental sustainability
+PDF URL: None
+CITED BY COUNT: 1138
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Futures contract', 'Transformative learning', 'Stakeholder', 'Ecosystem services', 'Valuation (finance)', 'Diversity (politics)', 'Convention on Biological Diversity', 'Context (archaeology)', 'Sustainability', 'Knowledge management', 'Political science', 'Environmental resource management', 'Environmental ethics', 'Business', 'Biodiversity', 'Sociology', 'Public relations', 'Computer science', 'Economics', 'Ecosystem', 'Ecology', 'Geography', 'Philosophy', 'Pedagogy', 'Archaeology', 'Finance', 'Law', 'Biology']

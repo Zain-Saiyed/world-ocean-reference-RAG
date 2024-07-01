@@ -1,0 +1,12 @@
+ID: W2948802302
+TITLE: Experimental influence of storm-surge salinity on soil greenhouse gas emissions from a tidal salt marsh
+AUTHOR: ['Margaret Capooci', 'Josep Barba', 'Angelia L. Seyfferth', 'Rodrigo Vargas']
+ABSTRACT:
+Storm surges can substantially alter the water level and salinity in tidal salt marshes. Little is known about how changes experienced during storm surges affect greenhouse gas emissions (GHG; CO2, CH4, N2O) from tidal salt marsh soils. Understanding how storm surges influence ecosystem processes is critical for evaluating the ecosystem's sensitivity to sea level rise. To explore how hurricane-induced changes in salinity affect GHG emissions, we exposed intact soil mesocosms (0-9 cm depth) from a Mid-Atlantic temperate salt marsh to pulse changes in salinity experienced at the site before, during, and after Hurricane Joaquin in 2015. Soil temperature, oxygen, and water level were kept constant to avoid confounding effects throughout the experiment. Automated measurements (hourly resolution) of soil GHG emissions were recorded in control (i.e., no salinity changes) and treatment mesocosms, and combined with soil pore water chemistry (i.e., SO42-, S2-, Fe2+, TNb, redox potential, pH) to characterize the biogeochemical responses. Using mixed effects models, we found that the role of different biogeochemical processes, such as sulfur cycling, changed throughout the experiment, underscoring the complex nature of GHG emissions in tidal salt marsh soils. Overall, soils subjected to a salinity decrease had greater GHG emissions than control soils, which were maintained at 17 ppt. The treatment soils had a 24% and 23% increase in global warming potential (20- and 100-year scenarios, respectively) indicating that storm surges can produce pulses of GHG emissions. However, both CH4 and N2O emissions returned to baseline values (following hysteresis responses) when initial conditions were reestablished. The results support the fact that tidal salt marshes are resilient ecosystems, as soil GHG emissions recovered relatively quickly from the pulse event.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental science', 'Biogeochemical cycle', 'Salt marsh', 'Greenhouse gas', 'Soil water', 'Salinity', 'Mesocosm', 'Hydrology (agriculture)', 'Soil salinity', 'Marsh', 'Ecosystem', 'Oceanography', 'Soil science', 'Wetland', 'Environmental chemistry', 'Ecology', 'Chemistry', 'Geology', 'Geotechnical engineering', 'Biology']

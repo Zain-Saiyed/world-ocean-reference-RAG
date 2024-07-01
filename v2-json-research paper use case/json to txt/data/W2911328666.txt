@@ -1,0 +1,12 @@
+ID: W2911328666
+TITLE: Governance and the coastal condition: Towards new modes of observation, adaptation and integration
+AUTHOR: ['Kristof Van Assche', 'Anna‐Katharina Hornidge', 'Achim Schlüter', 'Natașa Văidianu']
+ABSTRACT:
+The conceptual framework of evolutionary governance theory (EGT) is deployed and extended to rethink the idea of coastal governance and the possibilities of a coastal governance better adapted to challenges of climate change and intensified use of both land and sea. 'The coastal condition' is analysed as a situation where particular modes of observation and coordination were possible and necessary, and those observations (and derived calculations of risk and opportunity) are valuable for the governance of both land and sea. An argument is constructed for a separate arena for coastal governance, without erasing the internal logic of pre-existing governance for land and sea. This entails that coastal governance is destined to be a place of (productive) conflict, as much as of policy integration. Policy integration will be more difficult and more important in coastal governance, as this is an arena where the effects of many land based activities and activities at sea become visible and entangled. Policy integration in coastal governance does, however, require deep knowledge of the governance path and existing forms of integration there (e.g. in planning), and it exists in an uneasy tension with the requirements of adaptive governance. This tension further contributes to the complexity and complex-prone character of coastal governance. Neither complexity nor conflict can be avoided, and coastal governance as an image of balanced decision-making is (positively) presented as a productive fiction.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Corporate governance', 'Argument (complex analysis)', 'Adaptation (eye)', 'Government (linguistics)', 'Environmental resource management', 'Project governance', 'Multi-level governance', 'Environmental planning', 'Business', 'Political science', 'Geography', 'Economics', 'Biology', 'Finance', 'Neuroscience', 'Biochemistry', 'Linguistics', 'Philosophy']

@@ -1,0 +1,12 @@
+ID: W3022932425
+TITLE: Biodiversity Research and Innovation in Antarctica and the Southern Ocean
+AUTHOR: ['Paul Oldham', 'Jasmine Kindness']
+ABSTRACT:
+Abstract This article examines biodiversity research and innovation in Antarctica and the Southern Ocean based on a review of 150,401 scientific articles and 29,690 patent families for Antarctic species. The paper exploits the growing availability of open access databases, such as the Lens and Microsoft Academic Graph, along with taxonomic data from the Global Biodiversity Information Facility (GBIF) to explore the scientific and patent literature for the Antarctic at scale. The paper identifies the main contours of scientific research in Antarctica before exploring commercially oriented biodiversity research and development in the scientific literature and patent publications. The paper argues that biodiversity is not a free good and must be paid for. Ways forward in debates on commercial research and development in Antarctica can be found through increasing attention to the valuation of ecosystem services, new approaches to natural capital accounting and payment for ecosystem services that would bring the Antarctic, and the Antarctic Treaty System, into the wider fold of work on the economics of biodiversity. Economics based approaches can be criticised for reducing biodiversity to monetary exchange values at the expense of recognition of the wider values of biodiversity and its services. However, approaches grounded in the economics of biodiversity provide a transparent framework for approaching commercial activity in the Antarctic and introducing requirements for investments in the conservation of Antarctic biodiversity by those who seek to profit from it.
+
+SOURCE: bioRxiv (Cold Spring Harbor Laboratory)
+PDF URL: https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.03.074849.full.pdf
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2020
+TYPE: preprint
+CONCEPTS: ['Biodiversity', 'Valuation (finance)', 'Environmental resource management', 'Business', 'Ecosystem services', 'Natural resource economics', 'Geography', 'Ecosystem', 'Economics', 'Ecology', 'Accounting', 'Biology']

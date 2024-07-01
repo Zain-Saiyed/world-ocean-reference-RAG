@@ -1,0 +1,12 @@
+ID: W2310649619
+TITLE: Anthropogenic carbon release rate unprecedented during the past 66 million years
+AUTHOR: ['Richard E. Zeebe', 'Andy Ridgwell', 'James C. Zachos']
+ABSTRACT:
+Carbon release rates from anthropogenic sources reached a record high of ∼10 Pg C yr−1 in 2014. Geologic analogues from past transient climate changes could provide invaluable constraints on the response of the climate system to such perturbations, but only if the associated carbon release rates can be reliably reconstructed. The Palaeocene–Eocene Thermal Maximum (PETM) is known at present to have the highest carbon release rates of the past 66 million years, but robust estimates of the initial rate and onset duration are hindered by uncertainties in age models. Here we introduce a new method to extract rates of change from a sedimentary record based on the relative timing of climate and carbon cycle changes, without the need for an age model. We apply this method to stable carbon and oxygen isotope records from the New Jersey shelf using time-series analysis and carbon cycle–climate modelling. We calculate that the initial carbon release during the onset of the PETM occurred over at least 4,000 years. This constrains the maximum sustained PETM carbon release rate to less than 1.1 Pg C yr−1. We conclude that, given currently available records, the present anthropogenic carbon release rate is unprecedented during the past 66 million years. We suggest that such a ‘no-analogue’ state represents a fundamental challenge in constraining future climate projections. Also, future ecosystem disruptions are likely to exceed the relatively limited extinctions observed at the PETM. Carbon release rates during the Palaeocene–Eocene Thermal Maximum are difficult to constrain. Comparing relative rates of carbon cycle and climate change at the event’s onset suggests emissions were much slower than anthropogenic emissions.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 301
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Carbon cycle', 'Environmental science', 'Carbon fibers', 'Climate change', 'Total organic carbon', 'Climatology', 'Isotopes of carbon', 'Ecosystem', 'Atmospheric sciences', 'Geology', 'Oceanography', 'Ecology', 'Chemistry', 'Environmental chemistry', 'Biology', 'Composite number', 'Materials science', 'Composite material']

@@ -1,0 +1,12 @@
+ID: W3014265798
+TITLE: The oceans’ twilight zone must be studied now, before it is too late
+AUTHOR: ['Adrian P. Martin', 'Philip W. Boyd', 'Ken O. Buesseler', 'Ivona Cetinić', 'Hervé Claustre', 'Sari Giering', 'Stephanie Henson', 'Xabier Irigoien', 'Iris Kriest', 'Laurent Mémery', 'Carol Robinson', 'Grace Saba', 'Richard J. Sanders', 'David A. Siegel', 'María Villa-Alfageme', 'Lionel Guidi']
+ABSTRACT:
+Exploitation and degradation of the mysterious layer between the sunlit ocean surface and the abyss jeopardize fish stocks and the climate. Exploitation and degradation of the mysterious layer between the sunlit ocean surface and the abyss jeopardize fish stocks and the climate.
+
+SOURCE: Nature
+PDF URL: https://media.nature.com/original/magazine-assets/d41586-020-00915-7/d41586-020-00915-7.pdf
+CITED BY COUNT: 76
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Oceanography', 'Fish <Actinopterygii>', 'Environmental science', 'Surface layer', 'Twilight', 'Layer (electronics)', 'Climatology', 'Geology', 'Fishery', 'Chemistry', 'Biology', 'Physics', 'Astronomy', 'Organic chemistry']

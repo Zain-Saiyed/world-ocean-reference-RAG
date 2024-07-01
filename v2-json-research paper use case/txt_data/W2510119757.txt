@@ -1,0 +1,12 @@
+ID: W2510119757
+TITLE: The Gulf of Ambracia's Common Bottlenose Dolphins, Tursiops truncatus
+AUTHOR: ['Joan Gonzalvo', 'Giancarlo Lauriano', 'Philip S. Hammond', 'Karine A. Viaud‐Martinez', 'María Cristina Fossi', 'Ada Natoli', 'Letizia Marsili']
+ABSTRACT:
+The common bottlenose dolphin (Tursiops truncatus) is the only cetacean present in the semiclosed waters of the Gulf of Ambracia, Western Greece. This increasingly degraded coastal ecosystem hosts one of the highest observed densities in the Mediterranean Sea for this species. Photo-identification data and tissue samples collected through skin-swabbing and remote biopsy sampling techniques during boat-based surveys conducted between 2006 and 2015 in the Gulf, were used to examine bottlenose dolphin abundance, population trends, site fidelity, genetic differentiation and toxicological status. Bottlenose dolphins showed high levels of year-round site fidelity throughout the 10-year study period. Dolphin population estimates mostly fell between 130 and 170 with CVs averaging about 10%; a trend in population size over the 10 years was a decline of 1.6% per year (but this was not significant). Genetic differentiation between the bottlenose dolphins of the Gulf and their conspecifics from neighbouring populations was detected, and low genetic diversity was found among individuals sampled. In addition, pesticides where identified as factors posing a real toxicological problem for local bottlenose dolphins. Therefore, in the Gulf of Ambracia, high dolphin density does not seem to be indicative of favourable conservation status or pristine habitat.
+
+SOURCE: Advances in marine biology
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['Bottlenose dolphin', 'Fishery', 'Population', 'Biology', 'Geography', 'Habitat', 'Mediterranean climate', 'Ecology', 'Demography', 'Sociology']

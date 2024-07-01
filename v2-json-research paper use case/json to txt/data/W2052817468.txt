@@ -1,0 +1,12 @@
+ID: W2052817468
+TITLE: Linear trends in salinity for the World Ocean, 1955–1998
+AUTHOR: ['Timothy P. Boyer', 'Sydney Levitus', 'John I. Antonov', 'Ricardo A. Locarnini', 'Hernan E. Garcia']
+ABSTRACT:
+Quality controlled oceanographic profile salinity measurements from the World Ocean Database 2001 (WOD01) were used to calculate linear trends of zonally averaged salinity anomalies for running five year periods from 1955–1959 through 1994–1998 for the World Ocean and the Atlantic, Pacific, and Indian Ocean basins from the surface to 3000 meters depth. Each basin exhibits large‐scale, coherent trends. Most of the Pacific is freshening with the exception of the subtropical South Pacific. The Atlantic exhibits a deep freshening in the subpolar gyre and a shallower, more intense increase in salinity in the tropics and subtropics. The Indian Ocean is becoming more saline at all latitudes in the upper 150 meter layer, with a subsurface freshening between 40°S and the equator in the 250–1000 meter layer. There is freshening in both the Weddell and Ross Seas.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2004GL021791
+CITED BY COUNT: 292
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'Oceanography', 'Geology', 'Salinity', 'Equator', 'Subtropics', 'Latitude', 'Thermohaline circulation', 'Climatology', 'Ocean heat content', 'Geodesy', 'Fishery', 'Biology']

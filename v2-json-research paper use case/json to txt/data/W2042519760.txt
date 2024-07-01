@@ -1,0 +1,12 @@
+ID: W2042519760
+TITLE: Criteria for temperature alerts in cod supply chains
+AUTHOR: ['Tómas Hafliðason', 'Guðrún Ólafsdóttir', 'Sigurður G. Bogason', 'Gunnar Stefánsson']
+ABSTRACT:
+Purpose Wireless sensor network (WSN) technologies are now available to implement real time temperature monitoring systems in food supply chains. The aim of this paper is to examine different types of methods and criteria to establish alerts in decision support systems in perishable food supply chains.
+
+SOURCE: International journal of physical distribution & logistics management
+PDF URL: None
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Supply chain', 'Business', 'Supply chain management', 'Wireless sensor network', 'Food supply', 'Computer science', 'Supply chain risk management', 'Environmental economics', 'Risk analysis (engineering)', 'Service management', 'Marketing', 'Environmental science', 'Computer network', 'Agricultural science', 'Economics']

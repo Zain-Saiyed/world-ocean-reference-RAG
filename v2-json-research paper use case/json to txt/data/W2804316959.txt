@@ -1,0 +1,12 @@
+ID: W2804316959
+TITLE: Mediterranean sea turtles: current knowledge and priorities for conservation and research
+AUTHOR: ['Paolo Casale', 'Annette C. Broderick', 'Juan Antonio Camiñas', 'Luís Cardona', 'Carlos Carreras', 'Andreas Demetropoulos', 'Wayne J. Fuller', 'Brendan J. Godley', 'Sandra Hochscheid', 'Yakup Kaska', 'Bojan Lazar', 'Dimitris Margaritoulis', 'Aliki Panagopoulou', 'A Rees', 'Jesús Tomás', 'Oğuz Türkozan']
+ABSTRACT:
+The available information regarding the 2 sea turtle species breeding in the Mediterranean (loggerhead turtle Caretta caretta and green turtle Chelonia mydas) is reviewed, including biometrics and morphology, identification of breeding and foraging areas, ecology and behaviour, abundance and trends, population structure and dynamics, anthropogenic threats and conservation measures.Although a large body of knowledge has been generated, research efforts have been inconsistently allocated across geographic areas, species and topics.Significant gaps still exist, ranging from the most fundamental aspects, such as the distribution of major nesting sites and the total number of clutches laid annually in the region, to more specific topics like age at maturity, survival rates and behavioural ecology, especially for certain areas (e.g.south-eastern Mediterranean).These gaps are particularly marked for the green turtle.The recent positive trends of nest counts at some nesting sites may be the result of the cessation of past exploitation and decades of conservation measures on land, both in the form of national regulations and of continued active protection of clutches.Therefore, the current status should be considered as dependent on such ongoing conservation efforts.Mitigation of incidental catch in fisheries, the main anthropogenic threat at sea, is still in its infancy.From the analysis of the present status a comprehensive list of re search and conservation priorities is proposed.
+
+SOURCE: Endangered species research
+PDF URL: https://www.int-res.com/articles/esr2018/36/n036p229.pdf
+CITED BY COUNT: 152
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Endangered species', 'Turtle (robot)', 'Geography', 'Population', 'Sea turtle', 'Ecology', 'Mediterranean climate', 'Fishery', 'Habitat', 'Biology', 'Demography', 'Sociology']

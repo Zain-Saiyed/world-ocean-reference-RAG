@@ -1,0 +1,12 @@
+ID: W2904074493
+TITLE: Ocean deoxygenation and zooplankton: Very small oxygen differences matter
+AUTHOR: ['Karen F. Wishner', 'Brad A. Seibel', 'Christopher Roman', 'Curtis Deutsch', 'Dawn M. Outram', 'C. Tracy Shaw', 'Matthew A. Birk', 'K. A. S. Mislan', 'Thomas J. Adams', 'D.C. Moore', 'Stephen C. Riley']
+ABSTRACT:
+Oxygen minimum zones (OMZs), large midwater regions of very low oxygen, are expected to expand as a result of climate change. While oxygen is known to be important in structuring midwater ecosystems, a precise and mechanistic understanding of the effects of oxygen on zooplankton is lacking. Zooplankton are important components of midwater food webs and biogeochemical cycles. Here, we show that, in the eastern tropical North Pacific OMZ, previously undescribed submesoscale oxygen variability has a direct effect on the distribution of many major zooplankton groups. Despite extraordinary hypoxia tolerance, many zooplankton live near their physiological limits and respond to slight (≤1%) changes in oxygen. Ocean oxygen loss (deoxygenation) may, thus, elicit major unanticipated changes to midwater ecosystem structure and function.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/4/12/eaau5180.full.pdf
+CITED BY COUNT: 89
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Zooplankton', 'Oxygen minimum zone', 'Deoxygenation', 'Ecosystem', 'Hypoxia (environmental)', 'Biogeochemical cycle', 'Oceanography', 'Environmental science', 'Oxygen', 'Ecology', 'Biology', 'Geology', 'Chemistry', 'Biochemistry', 'Organic chemistry', 'Catalysis', 'Upwelling']

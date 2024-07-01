@@ -1,0 +1,12 @@
+ID: W2100085612
+TITLE: A test of large-scale reproductive migration in females of the amphidromous shrimp Macrobrachium acanthurus (Caridea : Palaemonidae) from south-eastern Brazil
+AUTHOR: ['Giovana Bertini', 'J. Antonio Baeza', 'Eduardo Prados Pérez']
+ABSTRACT:
+Macrobrachium acanthurus inhabits estuaries and rivers in the western Atlantic. It is not clear whether females migrate towards estuaries to hatch larvae, as reported for other congeneric shrimps. We tested whether females of M. acanthurus exhibit reproductive migrations. The population dynamics of this shrimp was studied in the Ribeira de Iguape River, Brazil. Four sites that differ in position with respect to the coast were sampled monthly during 2007. In M. acanthurus, reproduction was seasonal and reproductive intensity did not vary among study sites. Females brooding early and late embryos were found at all study sites during the reproductive season. No disappearance of reproductive females was observed at the study site located furthest away (~150 km) from the coast. Thus, reproductive females of M. acanthurus do not exhibit reproductive migrations towards estuaries to hatch larvae. Maturity in females was reached at smaller body sizes during the austral summer and spring compared with winter and autumn. Growth rate and body size was sex-specific; males grew slower but attained larger average and final body sizes than females. This information needs to be considered in assessing stocks and establishing sustainable management plans for M. acanthurus in Brazil.
+
+SOURCE: Marine and freshwater research
+PDF URL: https://www.publish.csiro.au/mf/pdf/MF13028
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Palaemonidae', 'Caridea', 'Biology', 'Shrimp', 'Estuary', 'Fishery', 'Population', 'Ecology', 'Crustacean', 'Decapoda', 'Demography', 'Sociology']

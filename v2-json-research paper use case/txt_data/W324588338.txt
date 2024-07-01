@@ -1,0 +1,12 @@
+ID: W324588338
+TITLE: Litter and seabirds found across a longitudinal gradient in the South Pacific Ocean
+AUTHOR: ['Diego Miranda‐Urbina', 'Martín Thiel', 'Guillermo Luna‐Jorquera']
+ABSTRACT:
+Abundances and composition of marine litter and seabirds were estimated in the central South Pacific (SP) Ocean between the Chilean continental coast and the Easter Island Ecoregion. Litter was dominated by plastics throughout the study area, but the proportion of plastics was higher at sea and on the oceanic islands than in coastal waters and on continental beaches. Litter densities were higher close to the center of the SP subtropical gyre compared to the continental coast. The seabird assemblage was diverse (28 species), and several endemic species were recorded. Seabird abundances were higher in the coastal waters and around Juan Fernández Islands off the continental coast than in the Oceanic and Polynesian sectors. Endangered species breeding on Salas & Gómez Island were observed in the Polynesian sector, which suggests a high potential for negative interactions between seabirds and floating litter, both occurring in high densities in this sector.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Seabird', 'Continental shelf', 'Oceanography', 'Litter', 'Subtropics', 'Ocean gyre', 'Endangered species', 'Geography', 'Ecoregion', 'Fishery', 'Environmental science', 'Ecology', 'Geology', 'Biology', 'Habitat', 'Predation']

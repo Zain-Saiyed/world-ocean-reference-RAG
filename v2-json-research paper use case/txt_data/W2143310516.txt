@@ -1,0 +1,12 @@
+ID: W2143310516
+TITLE: Interactions between mangroves and exotic <i>Spartina</i> in an anthropogenically disturbed estuary in southern China
+AUTHOR: ['Yihui Zhang', 'Guanmin Huang', 'Wenqing Wang', 'Luzhen Chen', 'Guanghui Lin']
+ABSTRACT:
+Cordgrass (Spartina alterniflora) was introduced to China in 1979 from the United States for reducing coastal erosion. It grows vigorously in China and has spread over much of the Chinese coast, from Leizhou Peninsula to Liaoning, a range of more than 19 degrees of latitude. On the southern coast of China, S. alterniflora has invaded mangrove-dominated habitats during the last two decades, but little is known about interactions between native mangroves and invasive S. alterniflora. We studied the distribution and competitive interactions between native mangroves and S. alterniflora in the Zhangjiang Estuary at four tidal sites along a salinity gradient: oligohaline upstream, mesohaline, polyhaline, and euhaline downstream. S. alterniflora occurred at all four sites, and several mangrove species occurred at all but the downstream euhaline site. S. alterniflora has invaded the estuary widely and has spread to the lower tidal margins of mangroves. It has not invaded mangrove areas with a closed canopy but has established in the mangrove zone where the canopy was opened by human disturbance. Ramets of S. alterniflora transplanted into the understory of mangrove stands with closed canopies died within 10 weeks, but 37.5% survived and grew well on open mud flats. S. alterniflora had virtually no competitive effect on mangrove seedlings planted at the upstream oligohaline site. However, S. alterniflora competitively reduced biomass of mangrove seedlings to 33% over a period of 14 weeks at the mesohaline and polyhaline sites where human disturbance has opened the mangrove canopy. In contrast, S. alterniflora marginally facilitated growth and survival of experimental seedlings at the downstream euhaline site. In China, mangroves occur along the coastline south of Whenzhou, but they have been severely disturbed and removed widely, mainly by mariculture activities. Natural vegetation patterns and our experimental results suggest that, without intervention, S. alterniflora could gradually replace these mangroves in mid-salinity regions of Chinese estuaries.
+
+SOURCE: Ecology
+PDF URL: None
+CITED BY COUNT: 147
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Spartina alterniflora', 'Mangrove', 'Estuary', 'Ecology', 'Environmental science', 'Salt marsh', 'Habitat', 'Biology', 'Wetland', 'Marsh']

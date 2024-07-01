@@ -1,0 +1,12 @@
+ID: W2806290544
+TITLE: The economics of fishing the high seas
+AUTHOR: ['Enric Sala', 'Juan Mayorga', 'Christopher Costello', 'David A. Kroodsma', 'Maria Lourdes D. Palomares', 'Daniel Pauly', 'U. Rashid Sumaila', 'Dirk Zeller']
+ABSTRACT:
+While the ecological impacts of fishing the waters beyond national jurisdiction (the "high seas") have been widely studied, the economic rationale is more difficult to ascertain because of scarce data on the costs and revenues of the fleets that fish there. Newly compiled satellite data and machine learning now allow us to track individual fishing vessels on the high seas in near real time. These technological advances help us quantify high-seas fishing effort, costs, and benefits, and assess whether, where, and when high-seas fishing makes economic sense. We characterize the global high-seas fishing fleet and report the economic benefits of fishing the high seas globally, nationally, and at the scale of individual fleets. Our results suggest that fishing at the current scale is enabled by large government subsidies, without which as much as 54% of the present high-seas fishing grounds would be unprofitable at current fishing rates. The patterns of fishing profitability vary widely between countries, types of fishing, and distance to port. Deep-sea bottom trawling often produces net economic benefits only thanks to subsidies, and much fishing by the world's largest fishing fleets would largely be unprofitable without subsidies and low labor costs. These results support recent calls for subsidy and fishery management reforms on the high seas.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/4/6/eaat2504.full.pdf
+CITED BY COUNT: 204
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishing', 'International waters', 'Fishery', 'Subsidy', 'Bottom trawling', 'Business', 'Trawling', 'Exclusive economic zone', 'Natural resource economics', 'Economics', 'Biology', 'Market economy']

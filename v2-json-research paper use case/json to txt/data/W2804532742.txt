@@ -1,0 +1,12 @@
+ID: W2804532742
+TITLE: Dissolved Organophosphate Esters and Polybrominated Diphenyl Ethers in Remote Marine Environments: Arctic Surface Water Distributions and Net Transport through Fram Strait
+AUTHOR: ['Carrie A. McDonough', 'Amila O. De Silva', 'Caoxin Sun', 'Ana Cabrerizo', 'David E. Adelman', 'Thomas Soltwedel', 'Eduard Bauerfeind', 'Derek C. G. Muir', 'Rainer Lohmann']
+ABSTRACT:
+Organophosphate esters (OPEs) have been found in remote environments at unexpectedly high concentrations, but very few measurements of OPE concentrations in seawater are available, and none are available in subsurface seawater. In this study, passive polyethylene samplers (PEs) deployed on deep-water moorings in the Fram Strait and in surface waters of Canadian Arctic lakes and coastal sites were analyzed for a suite of common OPEs. Total OPEs ( ∑11OPE) at deep-water sites were dominated by chlorinated OPEs, and ranged from 6.3 to 440 pg/L. Concentrations were similar in eastern and western Fram Strait. Chlorinated OPEs were also dominant in Canadian Arctic surface waters (mean concentration ranged from < DL to 4400 pg/L), while nonhalogenated alkyl/aryl-substituted OPEs remained low (1.3–55 pg/L), possibly due to the greater long-range transport potential of chlorinated OPEs. Polybrominated diphenyl ethers (PBDEs) were found at much lower concentrations than OPEs (<DL-14 pg/L). Surface-water concentrations of tris(2-chloroethyl) phosphate (TCEP) and tris(1,3-dichloroisopropyl) phosphate (TDCIPP) were similar for both active and passive sampling approaches. Several OPEs were estimated to be undergoing net transport out of the Arctic, ranging from 17 kg/yr for ethylhexyldiphenylphosphate (EHDPP) to 3400 kg/yr for tris (2-chloroisopropyl) phosphate (TCIPP). This study highlights the importance of OPEs as poorly understood contaminants present at unexpectedly high concentrations in remote marine environments.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Polybrominated diphenyl ethers', 'Environmental chemistry', 'Organophosphate', 'Arctic', 'Seawater', 'Surface water', 'Phosphate', 'Chemistry', 'Environmental science', 'Oceanography', 'Pollutant', 'Environmental engineering', 'Geology', 'Pesticide', 'Ecology', 'Organic chemistry', 'Biology']

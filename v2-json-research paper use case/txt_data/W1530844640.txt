@@ -1,0 +1,12 @@
+ID: W1530844640
+TITLE: Linking Behavior to Vital Rates to Measure the Effects of Non‐Lethal Disturbance on Wildlife
+AUTHOR: ['Fredrik Christiansen', 'David Lusseau']
+ABSTRACT:
+Abstract The need for managing non‐lethal effects on wildlife is becoming increasingly important as global human–wildlife interactions are now more frequent and more diverse. We developed a mechanistic model for minke whales ( Balaenoptera acutorostrata ) to measure the effects of behavioral disturbances caused by whalewatching activities on fetal growth. The model illustrates the pathway through which behaviorally mediated effects of anthropogenic disturbance might influence female reproductive success in an iteroparous capital breeding mammal. We found that although the behavioral disruptions caused by whalewatching interactions were substantial, the cumulative exposure of individuals to whalewatching boats was low, resulting in an effect on fetal growth no different from natural variability. This highlights the importance of considering all aspects of disturbance when evaluating effects of human disturbance on wildlife. Our mechanistic model can also be used to simulate different management scenarios to predict the long‐term consequence of disturbance on vital rates, to help inform management decisions.
+
+SOURCE: Conservation letters
+PDF URL: None
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Disturbance (geology)', 'Wildlife', 'Semelparity and iteroparity', 'Ecology', 'Balaenoptera', 'Cumulative effects', 'Wildlife management', 'Vital rates', 'Biology', 'Environmental resource management', 'Environmental science', 'Reproduction', 'Environmental health', 'Population', 'Whale', 'Medicine', 'Population growth', 'Paleontology']

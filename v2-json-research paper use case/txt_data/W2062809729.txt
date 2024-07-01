@@ -1,0 +1,12 @@
+ID: W2062809729
+TITLE: Microbial Ecology of the Dark Ocean above, at, and below the Seafloor
+AUTHOR: ['Beth N. Orcutt', 'Jason B. Sylvan', 'N. J. Knab', 'Katrina J. Edwards']
+ABSTRACT:
+SUMMARY The majority of life on Earth—notably, microbial life—occurs in places that do not receive sunlight, with the habitats of the oceans being the largest of these reservoirs. Sunlight penetrates only a few tens to hundreds of meters into the ocean, resulting in large-scale microbial ecosystems that function in the dark. Our knowledge of microbial processes in the dark ocean—the aphotic pelagic ocean, sediments, oceanic crust, hydrothermal vents, etc.—has increased substantially in recent decades. Studies that try to decipher the activity of microorganisms in the dark ocean, where we cannot easily observe them, are yielding paradigm-shifting discoveries that are fundamentally changing our understanding of the role of the dark ocean in the global Earth system and its biogeochemical cycles. New generations of researchers and experimental tools have emerged, in the last decade in particular, owing to dedicated research programs to explore the dark ocean biosphere. This review focuses on our current understanding of microbiology in the dark ocean, outlining salient features of various habitats and discussing known and still unexplored types of microbial metabolism and their consequences in global biogeochemical cycling. We also focus on patterns of microbial diversity in the dark ocean and on processes and communities that are characteristic of the different habitats.
+
+SOURCE: Microbiology and molecular biology reviews
+PDF URL: None
+CITED BY COUNT: 562
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Ecology', 'Biosphere', 'Biogeochemistry', 'Biology', 'Microbial mat', 'Pelagic zone', 'Marine ecosystem', 'Ecosystem', 'Oceanography', 'Geomicrobiology', 'Marine habitats', 'Hydrothermal vent', 'Deep sea', 'Habitat', 'Earth science', 'Seafloor spreading', 'Microbial ecology', 'Geology', 'Paleontology', 'Environmental biotechnology', 'Fishery', 'Cyanobacteria', 'Bacteria', 'Hydrothermal circulation']

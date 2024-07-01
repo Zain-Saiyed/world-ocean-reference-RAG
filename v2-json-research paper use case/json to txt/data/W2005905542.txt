@@ -1,0 +1,12 @@
+ID: W2005905542
+TITLE: Mapping cumulative impacts on Hong Kong's pink dolphin population
+AUTHOR: ['Danielle Marcotte', 'Samuel K. Hung', 'Sébastien Caquard']
+ABSTRACT:
+Indo-Pacific humpback dolphins have historically inhabited the northern waters off Lantau Island, Hong Kong; however their numbers have significantly decreased over the past decade, while human pressure has simultaneously increased. Based on a spatio-temporal analysis using a Geographic Information System (GIS), this study aims to assess the cumulative human impacts of local activities on this dolphin population since 1996. After introducing and discussing the multiple approaches, difficulties, and limitations to cumulative effects assessments (CEA), this paper outlines our proposed CEA methodology. Our methodology involves mapping and analysis of anthropogenic marine impacts in relation with historical dolphin distributions in the area. Local scale results show evidence of a relationship between the addition of new high-speed ferry (HSF) routes into the cumulative environment and the decrease in dolphins in a specific region known as the Brothers Islands. These results coincide with past research showing that whales and dolphins are significantly disrupted in the presence of high vessel traffic, which continues to grow in the northern waters off Lantau Island, Hong Kong and in many other places around the world.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Geography', 'Fishery', 'Cumulative effects', 'Population', 'Scale (ratio)', 'Environmental resource management', 'Cartography', 'Ecology', 'Environmental science', 'Biology', 'Demography', 'Sociology']

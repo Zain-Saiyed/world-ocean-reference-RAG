@@ -1,0 +1,12 @@
+ID: W2580552256
+TITLE: Asymmetric response of tropical cyclone activity to global warming over the North Atlantic and western North Pacific from CMIP5 model projections
+AUTHOR: ['Doo‐Sun R. Park', 'Chang-Hoi Ho', 'Johnny C. L. Chan', 'Kyung‐Ja Ha', 'Hyeong‐Seog Kim', 'Jinwon Kim', 'Joo‐Hong Kim']
+ABSTRACT:
+Recent improvements in the theoretical understanding of the relationship between tropical cyclones (TCs) and their large-scale environments have resulted in significant improvements in the skill for forecasting TC activity at daily and seasonal time-scales. However, future changes in TC activity under a warmer climate remain uncertain, particularly in terms of TC genesis locations and subsequent pathways. Applying a track-pattern-based statistical model to 22 Coupled Model Intercomparison Project Phase 5 (CMIP5) model runs for the historical period and the future period corresponding to the Representative Concentration Pathway 8.5 emissions scenarios, this study shows that in future climate conditions, TC passage frequency will decrease over the North Atlantic, particularly in the Gulf of Mexico, but will increase over the western North Pacific, especially that hits Korea and Japan. Unlike previous studies based on fine-resolution models, an ensemble mean of CMIP5 models projects an increase in TC activity in the western North Pacific, which is owing to enhanced subtropical deep convection and favorable dynamic conditions therein in conjunction with the expansion of the tropics and vice versa for the North Atlantic. Our results suggest that North America will experience less TC landfalls, while northeast Asia will experience more TCs than in the present-day climate.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep41354.pdf
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Tropical cyclone', 'Climatology', 'Environmental science', 'Atlantic hurricane', 'Tropical Atlantic', 'Climate change', 'Global warming', 'Oceanography', 'Geography', 'Geology', 'Sea surface temperature']

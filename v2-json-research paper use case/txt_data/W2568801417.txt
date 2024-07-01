@@ -1,0 +1,12 @@
+ID: W2568801417
+TITLE: 40 Years of benthic community change on the Caribbean reefs of Curaçao and Bonaire: the rise of slimy cyanobacterial mats
+AUTHOR: ['Didier M. de Bakker', 'Fleur C. van Duyl', 'Rolf P. M. Bak', 'Maggy M. Nugues', 'G. Nieuwland', 'H.W.G. Meesters']
+ABSTRACT:
+Over the past decades numerous studies have reported declines in stony corals and, in many cases, phase shifts to fleshy macroalgae. However, long-term studies documenting changes in other benthic reef organisms are scarce. Here, we studied changes in cover of corals, algal turfs, benthic cyanobacterial mats, macroalgae, sponges and crustose coralline algae at four reef sites of the Caribbean islands of Curaçao and Bonaire over a time span of 40 yr. Permanent 9 m2 quadrats at 10, 20, 30 and 40 m depth were photographed at 3- to 6-yr intervals from 1973 to 2013. The temporal and spatial dynamics in the six dominant benthic groups were assessed based on image point-analysis. Our results show consistent patterns of benthic community change with a decrease in the cover of calcifying organisms across all sites and depths from 32.6 (1973) to 9.2% (2013) for corals and from 6.4 to 1% for crustose coralline algae. Initially, coral cover was replaced by algal turfs increasing from 24.5 (1973) to 38% around the early 1990s. Fleshy macroalgae, still absent in 1973, also proliferated covering 12% of the substratum approximately 20 yr later. However, these new dominants largely declined in abundance from 2002 to 2013 (11 and 2%, respectively), marking the rise of benthic cyanobacterial mats. Cyanobacterial mats became the most dominant benthic component increasing from a mere 7.1 (2002) to 22.2% (2013). The observed increase was paralleled by a small but significant increase in sponge cover (0.5 to 2.3%). Strikingly, this pattern of degradation and phase change occurred over the reef slope down to mesophotic depths of 40 m. These findings suggest that reefs dominated by algae may be less stable than previously thought and that the next phase may be the dominance of slimy cyanobacterial mats with some sponges.
+
+SOURCE: Coral reefs
+PDF URL: None
+CITED BY COUNT: 128
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Crustose', 'Benthic zone', 'Coralline algae', 'Reef', 'Coral reef', 'Ecology', 'Algae', 'Oceanography', 'Benthos', 'Coral', 'Biology', 'Geography', 'Geology']

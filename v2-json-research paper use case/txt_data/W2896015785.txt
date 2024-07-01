@@ -1,0 +1,12 @@
+ID: W2896015785
+TITLE: Fish and Food Security in Small-Scale Fisheries
+AUTHOR: ['Philip A. Loring', 'David Fazzino', 'Melinda Agapito', 'Ratana Chuenpagdee', 'Glenna Gannon', 'Moenieba Isaacs']
+ABSTRACT:
+Fish is among the most eaten foods and traded commodities in the world, and small-scale fisheries provide food, jobs, and life satisfaction to billions of people worldwide. Yet, they are rarely recognized for these facts in global-level discussions about food systems and security. In this chapter, we argue that any discussion of food security, global or local, is incomplete if fisheries, and small-scale fisheries specifically, are not included. In this chapter, we discuss the many ways that small-scale fisheries contribute to local and global food security and to sustainable livelihoods in coastal communities. These include fish as an object of exchange and a marker of culture identity, and fisheries as a context in which people can connect their own health and well-being to the health of marine and freshwater ecosystems. The chapter begins with an introduction to the concepts of food systems and food security, the latter entailing more than just whether food is available, but also whether people have access to foods that are nutritious and culturally preferred. We conclude by discussing how a rights-based approach to food systems effectively brings these various ways that people engage with fisheries to the fore.
+
+SOURCE: MARE publication series
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Food security', 'Livelihood', 'Scale (ratio)', 'Fishery', 'Context (archaeology)', 'Food systems', 'Business', 'Fish stock', 'Fish <Actinopterygii>', 'Environmental resource management', 'Geography', 'Agriculture', 'Economics', 'Biology', 'Cartography', 'Archaeology']

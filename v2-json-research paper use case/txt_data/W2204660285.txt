@@ -1,0 +1,12 @@
+ID: W2204660285
+TITLE: Dissolved oxygen as a constraint on daytime deep scattering layer depth in the southern California current ecosystem
+AUTHOR: ['Amanda N. Netburn', 'J. Anthony Koslow']
+ABSTRACT:
+Climate change-induced ocean deoxygenation is expected to exacerbate hypoxic conditions in mesopelagic waters off the coast of southern California, with potentially deleterious effects for the resident fauna. In order to understand the possible impacts that the oxygen minimum zone expansion will have on these animals, we investigated the response of the depth of the deep scattering layer (i.e., upper and lower boundaries) to natural variations in midwater oxygen concentrations, light levels, and temperature over time and space in the southern California Current Ecosystem. We found that the depth of the lower boundary of the deep scattering layer (DSL) is most strongly correlated with dissolved oxygen concentration, and irradiance and oxygen concentration are the key variables determining the upper boundary. Based on our correlations and published estimates of annual rates of change to irradiance level and hypoxic boundary, we estimated the corresponding annual rate of change of DSL depths. If past trends continue, the upper boundary is expected to shoal at a faster rate than the lower boundary, effectively widening the DSL under climate change scenarios. These results have important implications for the future of pelagic ecosystems, as a change to the distribution of mesopelagic animals could affect pelagic food webs as well as biogeochemical cycles.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 63
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Mesopelagic zone', 'Pelagic zone', 'Environmental science', 'Biogeochemical cycle', 'Ecosystem', 'Oceanography', 'Atmospheric sciences', 'Climate change', 'Ecology', 'Geology', 'Biology']

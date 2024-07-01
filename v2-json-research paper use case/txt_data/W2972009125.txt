@@ -1,0 +1,12 @@
+ID: W2972009125
+TITLE: Functional responses of filter feeders increase with elevated metal contamination: Are these good or bad signs of environmental health?
+AUTHOR: ['Aline S. Martinez', 'Mariana Mayer‐Pinto', 'Ronaldo Adriano Christofoletti']
+ABSTRACT:
+Fast urbanization in coastal areas has increased the load of contaminants entering estuaries worldwide, threatening the diversity and provision of services by these important systems. Contamination causes structural changes in ecosystems, but the consequences for their functioning are still overlooked. Here we investigated filtration and biodeposition rates of the mussel Mytilaster solisianus across different concentrations of metals, nutrients and suspended material, and levels of urbanization. As expected, filtration rates increased with the number of particles in the water column. However, in areas with low particle concentration, filtering increased in mussels with higher metal concentrations (Cu/Zn/Ni), which were, in turn, related to high urbanization. Similarly, biodeposition rates were positively related to metal concentration in mussels. The increased functional responses observed here is likely a symptom of stress, caused by potential compensatory mechanisms to the energetic costs of cell maintenance and body detoxification of mussels, rather than an indication of healthy systems/organisms. Increased functional responses of mussels can be a sign of environmental stress.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Urbanization', 'Mussel', 'Contamination', 'Environmental science', 'Environmental chemistry', 'Nutrient', 'Ecosystem', 'Filtration (mathematics)', 'Pollutant', 'Pollution', 'Estuary', 'Ecology', 'Biology', 'Chemistry', 'Statistics', 'Mathematics']

@@ -1,0 +1,12 @@
+ID: W2887078825
+TITLE: Microplastics in the Arctic: A case study with sub-surface water and fish samples off Northeast Greenland
+AUTHOR: ['Silvia Morgana', 'Laura Ghigliotti', 'Noelia Estévez-Calvar', 'Roberto Stifanese', 'Alina Wieckzorek', 'Tom Doyle', 'Jørgen S. Christiansen', 'Marco Faimali', 'Francesca Garaventa']
+ABSTRACT:
+The Arctic is a unique and fragile ecosystem that needs to be preserved and protected. Despite its remoteness, plastic pollution has been documented in this region. In the coming years, it is likely to worsen since, with climate changes and the opening of new shipping routes, the human presence is going to increase in the whole area. Here, we investigated the presence of microplastics (MPs) in sub-surface water and in two mid-trophic level Arctic fishes collected off Northeast Greenland: the demersal bigeye sculpin, Triglops nybelini, and the pelagic polar cod, Boreogadus saida. Plastics debris were found in the water samples at a concentration of 2.4 items/m3 ±0.8 SD which is higher than in most seas at lower latitudes. Both fish species had eaten MPs with different proportion among the species, 34% for T. nybelini (n = 71) and 18% for B. saida (n = 85). The significant difference in the occurrence of MPs between the two species is likely a consequence of their feeding behavior and habitat. Polyethylene was the main plastic polymer for water samples (41%, n = 17) and polyester (34%, n = 156) for fish samples as analyzed by Fourier Transformed Infrared (FT-IR) spectroscopy. Our data underscore that the Arctic regions are turning into a hotspot for plastic pollution, and this calls urgently for precautionary measures.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 209
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microplastics', 'Plastic pollution', 'Arctic', 'Environmental science', 'Pelagic zone', 'Trophic level', 'Surface water', 'Fishery', 'Oceanography', 'Pollution', 'Ecology', 'Biology', 'Geology', 'Environmental engineering']

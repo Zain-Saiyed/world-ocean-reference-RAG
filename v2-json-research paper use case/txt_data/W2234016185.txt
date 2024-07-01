@@ -1,0 +1,12 @@
+ID: W2234016185
+TITLE: A holistic framework for identifying human wellbeing indicators for marine policy
+AUTHOR: ['Kelly Biedenweg', 'Kari A. Stiles', 'Katharine F. Wellman']
+ABSTRACT:
+Marine managers increasingly recognize the interconnections between management strategies, ocean health and human wellbeing. While recent trends in marine policy seek to consider the effects of natural resource management on human wellbeing, most resource management agencies have limited indicators of human elements. Part of the difficulty in addressing human wellbeing is that there is no consensus on its definition nor how it can be influenced by marine health. To address this gap, this paper describes a framework that identifies six domains of human wellbeing that are affected by the status of the environment: physical, psychological, cultural, social, economic, and governance. The framework is then applied in two case studies for developing social attributes and indicators from the Pacific Northwest of the United States. The reactions to the framework and examples of using it to inform marine policy are included, demonstrating that it is a broadly useful, scientifically-grounded structure for selecting environmentally related human wellbeing indicators.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Corporate governance', 'Human health', 'Marine conservation', 'Environmental resource management', 'Natural (archaeology)', 'Natural resource', 'Resource (disambiguation)', 'Business', 'Human resources', 'Environmental planning', 'Political science', 'Geography', 'Computer science', 'Economics', 'Medicine', 'Computer network', 'Environmental health', 'Archaeology', 'Finance', 'Law']

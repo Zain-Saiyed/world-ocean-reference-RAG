@@ -1,0 +1,12 @@
+ID: W2983292893
+TITLE: Frontiers in coastal well-being and ecosystem services research: A systematic review
+AUTHOR: ['Jessica Blythe', 'Derek Armitage', 'Georgina Alonso', 'Donovan Campbell', 'Ana Carolina Esteves Dias', 'Graham Epstein', 'Melissa Marschke', 'Prateep Kumar Nayak']
+ABSTRACT:
+Integrated approaches to engage coastal communities in management are urgently needed to address coastal change and associated uncertainty. Towards this aim, understanding the complex relationships between coastal well-being and ecosystem services provides a foundation for a range of management and governance interventions. While these relationships are considered in a growing number of case-based studies, the complexity of these linkages has not been comprehensively assessed. We use a systematic review protocol of 50 articles published between 2008 and 2018 to assess the evidence about the interplay among coastal well-being and ecosystem services. We find that empirical research has fallen behind theoretical development in five key areas: 1) geographic diversity; 2) disaggregated data; 3) temporal dynamics; 4) co-production, and; 5) uncertainty of outcomes. We highlight these gaps as frontiers for interdisciplinary coastal well-being and ecosystem service research. Together, the five frontiers chart a potential new research agenda for coastal well-being and ecosystem services research, namely one that involves more cases and authors from the Global South, that explicitly explores social differentiation and changes overtime, that is collaborative from the start, and that engages empirically with the complexity and uncertainty of well-being-ecosystem service interactions and their implications for enhancing management. Our proposed agenda is vital to inform management that effectively supports the health and sustainability of coastal social-ecological systems.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Sustainability', 'Environmental resource management', 'Corporate governance', 'Coastal management', 'Ecosystem', 'Ecosystem health', 'Service (business)', 'Environmental planning', 'Business', 'Geography', 'Ecology', 'Environmental science', 'Finance', 'Marketing', 'Biology']

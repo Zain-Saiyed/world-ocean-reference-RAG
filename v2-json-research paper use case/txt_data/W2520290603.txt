@@ -1,0 +1,12 @@
+ID: W2520290603
+TITLE: Golden Tides: Problem or Golden Opportunity? The Valorisation of Sargassum from Beach Inundations
+AUTHOR: ['John J. Milledge', 'Patricia J. Harvey']
+ABSTRACT:
+In recent years there have been massive inundations of pelagic Sargassum, known as golden tides, on the beaches of the Caribbean, Gulf of Mexico, and West Africa, causing considerable damage to the local economy and environment. Commercial exploration of this biomass for food, fuel, and pharmaceutical products could fund clean-up and offset the economic impact of these golden tides. This paper reviews the potential uses and obstacles for exploitation of pelagic Sargassum. Although Sargassum has considerable potential as a source of biochemicals, feed, food, fertiliser, and fuel, variable and undefined composition together with the possible presence of marine pollutants may make golden tides unsuitable for food, nutraceuticals, and pharmaceuticals and limit their use in feed and fertilisers. Discontinuous and unreliable supply of Sargassum also presents considerable challenges. Low-cost methods of preservation such as solar drying and ensiling may address the problem of discontinuity. The use of processes that can handle a variety of biological and waste feedstocks in addition to Sargassum is a solution to unreliable supply, and anaerobic digestion for the production of biogas is one such process. More research is needed to characterise golden tides and identify and develop commercial products and processes.
+
+SOURCE: Journal of marine science and engineering
+PDF URL: https://www.mdpi.com/2077-1312/4/3/60/pdf?version=1473750018
+CITED BY COUNT: 149
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Sargassum', 'Environmental science', 'Pelagic zone', 'Biogas', 'Waste management', 'Ecology', 'Engineering', 'Biology', 'Algae']

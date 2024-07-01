@@ -1,0 +1,12 @@
+ID: W2747503920
+TITLE: Coral mound development at the Campeche cold-water coral province, southern Gulf of Mexico: Implications of Antarctic Intermediate Water increased influence during interglacials
+AUTHOR: ['Lélia Matos', 'Claudia Wienberg', 'Jürgen Titschack', 'Gerhard Schmiedl', 'Norbert Frank', 'Fatima F Abrantes', 'Marina R. Cunha', 'Dierk Hebbeln']
+ABSTRACT:
+Coral mounds formed by framework-forming scleractinian cold-water corals (CWC; mainly Lophelia pertusa) are a common seabed feature along the Atlantic continental margins. While coral mound areas in the NE Atlantic reveal a climate-dependent temporal pattern of CWC occurrence and mound aggradation that is related to distinct environmental conditions (e.g., productivity, water mass properties, hydrodynamics), the long-term development of CWC and coral mounds at the western side of the Atlantic is less well documented and understood. Here, we present a 260-kyr coral record from the recently described Campeche CWC province in the southern Gulf of Mexico, combined with a reconstruction of the paleo-environmental conditions for the last 140 kyr. Uranium-series dating of 26 coral samples reveals that CWC growth predominantly coincided with interglacial periods. Highest vertical mound aggradation rates of 34 to 40 cm kyr− 1 occurred during the Holocene. The reduced occurrence of CWC and the concurrent almost complete stagnation in mound aggradation during glacial periods could be linked to a diminished presence of Antarctic Intermediate Water at those intermediate depths in which the coral mounds occur. Such setting would have caused a less dynamic bottom current regime resulting in a reduced food supply to the CWC along the Campeche Bank.
+
+SOURCE: Marine geology
+PDF URL: None
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Aggradation', 'Geology', 'Oceanography', 'Coral', 'Interglacial', 'Holocene', 'Deglaciation', 'Glacial period', 'Paleontology', 'Fluvial', 'Structural basin']

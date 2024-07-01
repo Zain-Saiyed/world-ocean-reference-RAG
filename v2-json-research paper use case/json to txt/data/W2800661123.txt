@@ -1,0 +1,12 @@
+ID: W2800661123
+TITLE: Local Biomass Baselines and the Recovery Potential for Hawaiian Coral Reef Fish Communities
+AUTHOR: ['Kelvin D. Gorospe', 'Megan J. Donahue', 'Adel Heenan', 'Jamison M. Gove', 'Ivor D. Williams', 'Russell E. Brainard']
+ABSTRACT:
+Understanding the influence of multiple ecosystem drivers, both natural and anthropogenic, and how they vary across space is critical to the spatial management of coral reef fisheries. In Hawaii, as elsewhere, there is uncertainty with regards to how areas should be selected for protection, and management efforts prioritized. One strategy is to prioritize efforts based on an area’s biomass baseline, or natural capacity to support reef fish populations. Another strategy is to prioritize areas based on their recovery potential, or in other words, the potential increase in fish biomass from present-day state, should management be effective at restoring assemblages to something more like their baseline state. We used data from 717 fisheries-independent reef fish monitoring surveys from 2012-2015 around the main Hawaiian Islands as well as site-level data on benthic habitat, oceanographic conditions, and human population density, to develop a hierarchical, linear Bayesian model that explains spatial variation in: (1) herbivorous and (2) total reef fish biomass. We found that while human population density negatively affected fish assemblages at all surveyed areas, there was considerable variation in the natural capacity of different areas to support reef fish biomass. For example, some areas were predicted to have the capacity to support ten times as much herbivorous fish biomass as other areas. Overall, the model found human population density to have negatively impacted fish biomass throughout Hawaii, however the magnitude and uncertainty of these impacts varied locally. Results provide part of the basis for marine spatial planning and/or MPA-network design within Hawaii.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00162/pdf
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coral reef', 'Biomass (ecology)', 'Reef', 'Coral reef fish', 'Baseline (sea)', 'Fishery', 'Population', 'Marine protected area', 'Ecosystem', 'Habitat', 'Population dynamics of fisheries', 'Environmental science', 'Benthic zone', 'Ecosystem management', 'Ecology', 'Marine spatial planning', 'Geography', 'Fish <Actinopterygii>', 'Environmental resource management', 'Biology', 'Demography', 'Sociology']

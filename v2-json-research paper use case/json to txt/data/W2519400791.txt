@@ -1,0 +1,12 @@
+ID: W2519400791
+TITLE: Towards 1 kW power production in a reverse electrodialysis pilot plant with saline waters and concentrated brines
+AUTHOR: ['Michele Tedesco', 'Andrea Cipollina', 'Alessandro Tamburini', 'G. Micale']
+ABSTRACT:
+Reverse electrodialysis (RED) is a promising technology to extract energy from salinity gradients, especially in the areas where concentrated brine and saline waters are available as feed streams. A first pilot-scale plant was recently built in Trapani (Italy), and tested with real brackish water and brine from saltworks. The present work focuses on the scale-up of the pilot plant, reaching more than 400 m2 of total membrane area installed and representing the largest operating RED plant so far reported in the literature. With a nominal power capacity of 1 kW, the pilot plant reached almost 700 W of power capacity using artificial brine and brackish water, while a 50% decrease in power output was observed when using real solutions. This reduction was likely due to the presence of non-NaCl ions in relatively large concentration, which negatively affected both the electromotive force and stack resistance. These results provide relevant and unique information for the RED process scale-up, representing the first step for the feasibility assessment of RED technology on large scale.
+
+SOURCE: Journal of membrane science
+PDF URL: None
+CITED BY COUNT: 171
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Reversed electrodialysis', 'Brackish water', 'Brine', 'Pilot plant', 'Saline water', 'Power station', 'Electrodialysis', 'Osmotic power', 'Salinity', 'Electromotive force', 'Environmental science', 'Desalination', 'Environmental engineering', 'Stack (abstract data type)', 'Reverse osmosis', 'Pulp and paper industry', 'Chemistry', 'Waste management', 'Forward osmosis', 'Membrane', 'Engineering', 'Geology', 'Electrical engineering', 'Biochemistry', 'Oceanography', 'Organic chemistry', 'Computer science', 'Programming language']

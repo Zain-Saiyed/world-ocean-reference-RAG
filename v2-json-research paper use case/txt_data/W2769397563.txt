@@ -1,0 +1,12 @@
+ID: W2769397563
+TITLE: A marine heatwave drives massive losses from the world’s largest seagrass carbon stocks
+AUTHOR: ['Ariane Arias‐Ortiz', 'Óscar Serrano', 'Pere Masqué', 'Paul S. Lavery', 'Ute Mueller', 'Gary A. Kendrick', 'Mohammad Rozaimi', 'Antonio Esteban', 'James W. Fourqurean', 'Núria Marbà', 'M.A. Mateo', 'Kevin Murray', 'Michael Rule', 'Carlos M. Duarte']
+ABSTRACT:
+Seagrass ecosystems contain globally significant organic carbon (C) stocks. However, climate change and increasing frequency of extreme events threaten their preservation. Shark Bay, Western Australia, has the largest C stock reported for a seagrass ecosystem, containing up to 1.3% of the total C stored within the top metre of seagrass sediments worldwide. On the basis of field studies and satellite imagery, we estimate that 36% of Shark Bay's seagrass meadows were damaged following a marine heatwave in 2010/2011. Assuming that 10 to 50% of the seagrass sediment C stock was exposed to oxic conditions after disturbance, between 2 and 9 Tg CO2 could have been released to the atmosphere during the following three years, increasing emissions from land-use change in Australia by 4–21% per annum. With heatwaves predicted to increase with further climate warming, conservation of seagrass ecosystems is essential to avoid adverse feedbacks on the climate system. Marine ecosystems and their stored carbon are threatened by warming and marine heatwaves. During a 2010–2011 heatwave, around a third of a Western Australian seagrass ecosystem suffered damage, potentially releasing 2–9 Tg CO2 in the following years.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 308
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seagrass', 'Blue carbon', 'Environmental science', 'Ecosystem', 'Marine ecosystem', 'Climate change', 'Bay', 'Threatened species', 'Oceanography', 'Ecology', 'Habitat', 'Geology', 'Biology']

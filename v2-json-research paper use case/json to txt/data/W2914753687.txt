@@ -1,0 +1,12 @@
+ID: W2914753687
+TITLE: How “The Blob” affected groundfish distributions in the Gulf of Alaska
+AUTHOR: ['Qiong Yang', 'Edward D. Cokelet', 'Phyllis J. Stabeno', 'Lingbo Li', 'Anne B. Hollowed', 'Wayne A. Palsson', 'Nicholas A. Bond', 'Steven J. Barbeaux']
+ABSTRACT:
+Abstract We investigated the distributional shifts of groundfish in response to anomalous ocean conditions, particularly the recent anomalously warm period (2014–2016; “The Blob”), based on data from ten Gulf of Alaska bottom trawl surveys conducted by the Alaska Fisheries Science Center during 1996–2015. Six groundfish species were considered: Pacific cod ( Gadus macrocephalus ), arrowtooth flounder ( Atheresthes stomias ), walleye pollock ( Gadus chalcogrammus ), Pacific ocean perch ( Sebastes alutus ), northern rock sole ( Lepidopsetta polyxystra ), and southern rock sole ( Lepidopsetta bilineata ). Ontogenetic differences were examined by dividing data for each fish species into size classes. Our study demonstrated that after accounting for size‐specific depth preferences, the spatial responses of groundfish to anomalous ocean conditions differed by species and foraging guild in the central Gulf of Alaska. Pacific cod and arrowtooth flounder showed similar responses to ocean warming, but different responses to cooling. In general, Pacific cod moved to deeper depths in warmer years and moved to shallower depths in colder years. Arrowtooth flounder also moved deeper in warmer years. However, in colder years, large arrowtooth flounder (&gt;40 cm) shifted toward shallower depths while smaller‐sized fish shifted toward deeper depths. In warmer years, large pollock (&gt;30 cm) moved to deeper waters while smaller pollock (10–20 cm) moved to shallower waters. Pacific ocean perch exhibited an opposite response to thermal changes in habitat compared with Pacific cod and arrowtooth flounder. They moved deeper in colder years, but there was no clear change in depth as a function of size in response to warmer habitat.
+
+SOURCE: Fisheries oceanography
+PDF URL: None
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Groundfish', 'Pollock', 'Sebastes', 'Gadus', 'Oceanography', 'Fishery', 'Bathythermograph', 'Geology', 'Fishing', 'Fish <Actinopterygii>', 'Fisheries management', 'Biology']

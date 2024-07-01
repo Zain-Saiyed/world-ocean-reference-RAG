@@ -1,0 +1,12 @@
+ID: W2913279248
+TITLE: Transcriptomic response of primary human airway epithelial cells to flavoring chemicals in electronic cigarettes
+AUTHOR: ['Hae‐Ryung Park', 'Michael J. O’Sullivan', 'Jose Vallarino', 'Maya Shumyatcher', 'Blanca E. Himes', 'Jin‐Ah Park', 'David C. Christiani', 'Joseph G. Allen', 'Quan Lu']
+ABSTRACT:
+The widespread use of electronic cigarettes (e-cigarettes or e-cig) is a growing public health concern. Diacetyl and its chemical cousin 2,3-pentanedione are commonly used to add flavors to e-cig; however, little is known about how the flavoring chemicals may impair lung function. Here we report that the flavoring chemicals induce transcriptomic changes and perturb cilia function in the airway epithelium. Using RNA-Seq, we identified a total of 163 and 568 differentially expressed genes in primary normal human bronchial epithelial (NHBE) cells that were exposed to diacetyl and 2,3-pentanedione, respectively. DAVID pathway analysis revealed an enrichment of cellular pathways involved in cytoskeletal and cilia processes among the set of common genes (142 genes) perturbed by both diacetyl and 2,3-pentanedione. Consistent with this, qRT-PCR confirmed that the expression of multiple genes involved in cilia biogenesis was significantly downregulated by diacetyl and 2,3-pentanedione in NHBE cells. Furthermore, immunofluorescence staining showed that the number of ciliated cells was significantly decreased by the flavoring chemicals. Our study indicates that the two widely used e-cig flavoring chemicals impair the cilia function in airway epithelium and likely contribute to the adverse effects of e-cig in the lung.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-37913-9.pdf
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Transcriptome', 'Diacetyl', 'Cilium', 'Ciliogenesis', 'Respiratory epithelium', 'Epithelium', 'Cell biology', 'Biology', 'Gene', 'Chemistry', 'Gene expression', 'Genetics', 'Biochemistry']

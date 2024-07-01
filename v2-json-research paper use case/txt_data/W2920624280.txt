@@ -1,0 +1,12 @@
+ID: W2920624280
+TITLE: Synthesis of Ocean Observations Using Data Assimilation for Operational, Real-Time and Reanalysis Systems: A More Complete Picture of the State of the Ocean
+AUTHOR: ['Andrew M. Moore', 'Matthew J. Martin', 'Santha Akella', 'Hernan G. Arango', 'Magdalena Balmaseda', 'Laurent Bertino', 'Stefano Ciavatta', 'Bruce D. Cornuelle', 'Jim Cummings', 'С. М. Фролов', 'Pierre F. J. Lermusiaux', 'Paolo Oddo', 'Peter R. Oke', 'Andrea Storto', 'Anna Teruzzi', 'Arthur Vidard', 'Anthony Weaver']
+ABSTRACT:
+Ocean data assimilation is increasingly recognized as crucial for the accuracy of real-time ocean prediction systems. Here, the current status of ocean data assimilation in support of the operational demands of analysis and forecasting is reviewed, focusing on the methods currently adopted in operational prediction systems. Significant challenges associated with the most commonly employed approaches are identified and discussed. Overarching issues faced by ocean data assimilation in general are also addressed, and important future directions in response to scientific advances, evolving and forthcoming ocean observing systems and the needs of stakeholders and downstream applications are presented.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00090/pdf
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Data assimilation', 'Ocean observations', 'Assimilation (phonology)', 'Computer science', 'Ocean current', 'Climatology', 'Meteorology', 'Environmental science', 'Data science', 'Geology', 'Geography', 'Philosophy', 'Linguistics']

@@ -1,0 +1,12 @@
+ID: W2790195196
+TITLE: Long-term nutrient reductions lead to the unprecedented recovery of a temperate coastal region
+AUTHOR: ['Jonathan S. Lefcheck', 'Robert J. Orth', 'William C. Dennison', 'David J. Wilcox', 'Rebecca R. Murphy', 'Jennifer Keisman', 'Cassie Gurbisz', 'Michael Hannam', 'J. Brooke Landry', 'Kenneth A. Moore', 'Christopher J. Patrick', 'Jeremy M. Testa', 'Donald E. Weller', 'Richard A. Batiuk']
+ABSTRACT:
+Humans strongly impact the dynamics of coastal systems, yet surprisingly few studies mechanistically link management of anthropogenic stressors and successful restoration of nearshore habitats over large spatial and temporal scales. Such examples are sorely needed to ensure the success of ecosystem restoration efforts worldwide. Here, we unite 30 consecutive years of watershed modeling, biogeochemical data, and comprehensive aerial surveys of Chesapeake Bay, United States to quantify the cascading effects of anthropogenic impacts on submersed aquatic vegetation (SAV), an ecologically and economically valuable habitat. We employ structural equation models to link land use change to higher nutrient loads, which in turn reduce SAV cover through multiple, independent pathways. We also show through our models that high biodiversity of SAV consistently promotes cover, an unexpected finding that corroborates emerging evidence from other terrestrial and marine systems. Due to sustained management actions that have reduced nitrogen concentrations in Chesapeake Bay by 23% since 1984, SAV has regained 17,000 ha to achieve its highest cover in almost half a century. Our study empirically demonstrates that nutrient reductions and biodiversity conservation are effective strategies to aid the successful recovery of degraded systems at regional scales, a finding which is highly relevant to the utility of environmental management programs worldwide.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/115/14/3658.full.pdf
+CITED BY COUNT: 201
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Environmental science', 'Watershed', 'Biogeochemical cycle', 'Biodiversity', 'Habitat', 'Ecosystem', 'Ecology', 'Ecosystem services', 'Temperate climate', 'Coastal management', 'Vegetation (pathology)', 'Chesapeake bay', 'Environmental resource management', 'Estuary', 'Biology', 'Medicine', 'Pathology', 'Machine learning', 'Computer science']

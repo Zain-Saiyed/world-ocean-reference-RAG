@@ -1,0 +1,12 @@
+ID: W2528933300
+TITLE: South Atlantic Rhodolith Beds: Latitudinal Distribution, Species Composition, Structure and Ecosystem Functions, Threats and Conservation Status
+AUTHOR: ['Gilberto M. Amado‐Filho', 'Ricardo G. Bahia', 'Guilherme H. Pereira‐Filho', 'Leila L. Longo']
+ABSTRACT:
+The largest continuous latitudinal distribution of rhodolith beds occur in the South Atlantic Ocean. Up to now rhodolith beds were referred exclusively to the western portion of the South Atlantic. Here we describe the recent advances in the South Atlantic taking into account latitudinal distribution, species composition, structure and ecosystem functions, threats and conservation status. Rhodolith beds have been mapped and ecologically described from extensive areas of the continental shelf (Abrolhos Bank), seamounts tops (Vitoria Trindade Chain), insular shelfs of oceanic islands (Fernando de Noronha Archipelago) and atolls (Rocas Atoll). Thirty three species of crustose coralline algae were recorded forming rhodoliths. Despite some initiatives, the richness of fauna associated with rhodoliths in SW Atlantic is still poorly known. Specific microbiome described associated with rhodoliths indicates important role in biomineralization process. The environmental services provided by the recently described rhodolith beds (Abrolhos Banks and Vitoria Trindade Seamounts) as calcium carbonate production, increase habitat complexity, benthic diversity and associated fish assemblages justify urgent actions to protect these ecosystems.
+
+SOURCE: Coastal research library
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['Seamount', 'Crustose', 'Atoll', 'Oceanography', 'Coralline algae', 'Benthic zone', 'Continental shelf', 'Geography', 'Ecology', 'Habitat', 'Marine reserve', 'Archipelago', 'Marine conservation', 'Species richness', 'Endemism', 'Geology', 'Coral reef', 'Reef', 'Biology']

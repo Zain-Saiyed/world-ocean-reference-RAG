@@ -1,0 +1,12 @@
+ID: W2944733124
+TITLE: Not all who wander are lost: Improving spatial protection for large pelagic fishes
+AUTHOR: ['Kristina Boerder', 'Laurenne Schiller', 'Boris Worm']
+ABSTRACT:
+Spatial protection measures have become ubiquitous in fisheries management and marine conservation. Implemented for diverse objectives from stock rebuilding to biodiversity protection and ecosystem management, spatial measures range from temporary fisheries closures to marine protected areas with varying levels of protection. Ecological and economic benefits from spatial protection have been demonstrated for many reef and demersal species, but remain debated and understudied for highly migratory fishes, such as tunas, billfishes, and pelagic sharks. Here we summarize the spatial extent of fisheries closures implemented by the tuna RFMOs as well as marine protected areas worldwide, which together cover ∼15% of global ocean area. We furthermore synthesize results from modeling and tagging studies as well as fisheries-dependent research to provide an overview of the efficacy and benefits of present spatial protection measures for large pelagic fishes and their associated fisheries. We conclude that (1) many species with known migration routes, aggregating behavior, and philopatry can benefit from spatial protection; but (2) spatial protection alone is insufficient and should be integrated with effective fisheries management to protect and rebuild stocks of highly migratory species. We suggest tailoring spatial protection to the biology of large pelagic fishes, including improved protection for aggregation sites and migration corridors. These features currently appear to be an important—yet overlooked— opportunity to safeguard depleted and recovering stocks and protect pelagic biodiversity. New remote-sensing tools that track pelagic fishes and fishing vessels may provide timely support for improved spatial management in waters that were previously difficult to observe.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Marine protected area', 'Fishery', 'Marine reserve', 'Demersal zone', 'Fishing', 'Fisheries management', 'Biodiversity', 'Spatial ecology', 'Marine conservation', 'Ecology', 'Biology', 'Habitat']

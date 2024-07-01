@@ -1,0 +1,12 @@
+ID: W2108567906
+TITLE: Recent advances in deep-sea natural products
+AUTHOR: ['Danielle Skropeta', 'Liangqian Wei']
+ABSTRACT:
+Review of deep-sea natural products covering the five-year period 2009–2013.
+
+SOURCE: Natural product reports
+PDF URL: None
+CITED BY COUNT: 178
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Bryozoa', 'Deep sea', 'Organism', 'Cnidaria', 'Natural (archaeology)', 'Biology', 'Fauna', 'Mollusca', 'Marine biology', 'Tunicate', 'Ecology', 'Coral', 'Fishery', 'Paleontology', 'Taxonomy (biology)']

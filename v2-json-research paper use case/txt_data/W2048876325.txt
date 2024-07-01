@@ -1,0 +1,12 @@
+ID: W2048876325
+TITLE: Iodine-129 in Seawater Offshore Fukushima: Distribution, Inorganic Speciation, Sources, and Budget
+AUTHOR: ['Xiaolin Hou', 'P. Povinec', 'Luyuan Zhang', 'Keliang Shi', 'D. Biddulph', 'Ching Chih Chang', 'Yukun Fan', 'Robin Golser', 'Yun Hou', 'M. Ješkovský', 'A. J. T. Jull', 'Qi Liu', 'Mai Luo', 'Peter Steier', 'Weijian Zhou']
+ABSTRACT:
+The Fukushima nuclear accident in March 2011 has released a large amount of radioactive pollutants to the environment. Of the pollutants, iodine-129 is a long-lived radionuclide and will remain in the environment for millions of years. This work first report levels and inorganic speciation of (129)I in seawater depth profiles collected offshore Fukushima in June 2011. Significantly elevated (129)I concentrations in surface water were observed with the highest (129)I/(127)I atomic ratio of 2.2 × 10(-9) in the surface seawater 40 km offshore Fukushima. Iodide was found as the dominant species of (129)I, while stable (127)I was mainly in iodate form, reflecting the fact that the major source of (129)I is the direct liquid discharges from the Fukushima NPP. The amount of (129)I directly discharged from the Fukushima Dai-ichi nuclear power plant to the sea was estimated to be 2.35 GBq, and about 1.09 GBq of (129)I released to the atmosphere from the accident was deposited in the sea offshore Fukushima. A total release of 8.06 GBq (or 1.2 kg) of (129)I from the Fukushima accident was estimated. These Fukushima-derived (129)I data provide necessary information for the investigation of water circulation and geochemical cycle of iodine in the northwestern Pacific Ocean in the future.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 191
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Seawater', 'Submarine pipeline', 'Environmental science', 'Genetic algorithm', 'Iodine', 'Environmental chemistry', 'Oceanography', 'Distribution (mathematics)', 'Chemistry', 'Geology', 'Ecology', 'Biology', 'Organic chemistry', 'Mathematical analysis', 'Mathematics']

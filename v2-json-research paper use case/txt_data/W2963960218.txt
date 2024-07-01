@@ -1,0 +1,12 @@
+ID: W2963960218
+TITLE: In-situ adaptation against climate change can enable relocation of impoverished small islands
+AUTHOR: ['Ma. Laurice Jamero', 'Motoharu Onuki', 'Miguel Esteban', 'Christopher Chadwick', 'Nicholson Tan', 'Ven Paolo Valenzuela', 'Richard Crichton', 'John Erick Avelino']
+ABSTRACT:
+In-situ adaptation is commonly perceived to discourage mass migration, instead providing adverse incentives to continue building and living in risky areas. However, evidence from small islands in central Philippines experiencing frequent tidal flooding shows that in-situ adaptation can help enable mass migration by reducing vulnerability and increasing the resources needed for successful relocation. Using ecosystem-based adaptation, the island communities are able to increase their resilience to disasters, which could otherwise drive sudden and unplanned relocation. Using community-based adaptation or no regrets strategies such as education and vocational skills training, the younger generation of residents will be better able to find more mainland-based job opportunities, potentially enabling the natural depopulation of the island in the future.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Relocation', 'Vulnerability (computing)', 'Adaptation (eye)', 'Natural disaster', 'Flooding (psychology)', 'Psychological resilience', 'Resilience (materials science)', 'Mainland', 'Environmental resource management', 'Environmental planning', 'Geography', 'Business', 'Environmental science', 'Psychology', 'Meteorology', 'Computer science', 'Programming language', 'Physics', 'Computer security', 'Archaeology', 'Optics', 'Psychotherapist', 'Thermodynamics']

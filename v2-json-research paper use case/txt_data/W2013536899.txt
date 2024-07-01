@@ -1,0 +1,12 @@
+ID: W2013536899
+TITLE: Review of natural gas hydrates as an energy resource: Prospects and challenges
+AUTHOR: ['Zheng Rong Chong', 'Shen Yang', 'P. Ramesh Babu', 'Praveen Linga', 'Xiao-Sen Li']
+ABSTRACT:
+Natural gas is the cleanest burning fossil fuel and has been identified as a strong candidate for energy resource compared to oil and coal. Natural gas hydrate is an energy resource for methane that has a carbon quantity twice more than all fossil fuels combined and is distributed evenly around the world. Several field trials on energy production from hydrate resources have been conducted, and their outcomes revealed the possibility of energy production from hydrate resources. In this paper, we review various studies on resource potential of natural gas hydrate, the current research progress in laboratory settings, and several recent field trials. Possible limitation in each production method and the challenges to be addressed for large scale production are discussed in detail. Whilst there are no technology stoppers to exploit or produce methane from hydrates, specific technological breakthroughs will depend on the effective management of the sand and water during production, as well as the appropriate mitigation of environmental risks.
+
+SOURCE: Applied energy
+PDF URL: None
+CITED BY COUNT: 1379
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Natural gas', 'Fossil fuel', 'Substitute natural gas', 'Environmental science', 'Coal', 'Resource (disambiguation)', 'Methane', 'Alternative energy', 'Natural resource', 'Production (economics)', 'Clathrate hydrate', 'Natural resource economics', 'Hydrate', 'Petroleum engineering', 'Waste management', 'Engineering', 'Renewable energy', 'Ecology', 'Chemistry', 'Computer science', 'Syngas', 'Economics', 'Organic chemistry', 'Biology', 'Electrical engineering', 'Macroeconomics', 'Hydrogen', 'Computer network']

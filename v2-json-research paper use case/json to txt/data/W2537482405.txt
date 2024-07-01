@@ -1,0 +1,12 @@
+ID: W2537482405
+TITLE: Forecasting geopolitical risks: Oceans as source of instability
+AUTHOR: ['Juan L. Suárez-de Vivero', 'Juan Carlos Rodrı́guez Mateos']
+ABSTRACT:
+The publication of reports on geo-political risks in the world sponsored by intelligence agencies, university institutes and think tanks are valuable instruments in societies that are being increasingly exposed to the effects of globalisation. Although all express mention of geo-political risks of a maritime nature is absent from these documents, it is an interesting exercise to determine: i) Which geo-political risks or threats have a maritime dimension or imply derivations whose occurrence may be linked to maritime space? ii) Which processes or tendencies in the use, occupation and governance of maritime space can fall into the category of geo-political risk? The basic aim is to address the forms that instability and geo-political risks take in the ocean world. If the risks stated in the chosen literature are examined from the maritime perspective, it is possible to perceive ‘secondary’ risks whose size and reach can become major contingencies for international stability. They therefore should not be ignored in the prognosis and evaluation of geo-political risks. In as much as societies' political organisation continues to rest on the nation-State, the dominance of the maritime component in the territorial basis is a permanent source of tensions and conflicts. In parallel with this, the displacement of economic expectations and the supply of traditional and new resources to the marine environment broadens the spectrum of risks and threats.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Geopolitics', 'Politics', 'Political instability', 'Dominance (genetics)', 'Political economy', 'Political science', 'Globalization', 'Development economics', 'Economics', 'Law', 'Biochemistry', 'Chemistry', 'Gene']

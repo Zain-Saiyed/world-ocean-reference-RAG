@@ -1,0 +1,12 @@
+ID: W2143448541
+TITLE: Marsh‐atmosphere CO<sub>2</sub> exchange in a New England salt marsh
+AUTHOR: ['Inke Forbrich', 'Anne E. Giblin']
+ABSTRACT:
+Abstract We studied marsh‐atmosphere exchange of carbon dioxide in a high marsh dominated salt marsh during the months of May to October in 2012–2014. Tidal inundation at the site occurred only during biweekly spring tides, during which we observed a reduction in fluxes during day and night. We estimated net ecosystem exchange (NEE), gross primary production (GPP), and ecosystem respiration (R eco ) using a modified PLIRTLE model, which requires photosynthetically active radiation, temperature, and normalized difference vegetation index (NDVI) as control variables. NDVI decreased during inundation, when the marsh canopy was submerged. Two‐time series of NDVI, including and excluding effects of tidal inundation, allowed us to quantify the flux reduction during inundation. The effect of the flux reduction was small (2–4%) at our site, but is likely higher for marshes at a lower elevation. From May to October, GPP averaged −863 g C m −2 , R eco averaged 591 g C m −2 , and NEE averaged −291 g C m −2 . In 2012, which was an exceptionally warm year, we observed an early start of net carbon uptake but higher respiration than in 2013 and 2014 due to higher‐air temperature in August. This resulted in the lowest NEE during the study period (−255.9±6.9 g C m −2 ). The highest seasonal net uptake (−336.5±6.3 g C m −2 ) was observed in 2013, which was linked to higher rainfall and temperature in July. Mean sea level was very similar during all 3 years which allowed us to isolate the importance of climatic factors.
+
+SOURCE: Journal of geophysical research. Biogeosciences
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015JG003044
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Environmental science', 'Normalized Difference Vegetation Index', 'Marsh', 'Photosynthetically active radiation', 'Primary production', 'Carbon dioxide', 'Atmosphere (unit)', 'Flux (metallurgy)', 'Atmospheric sciences', 'Ecosystem respiration', 'Ecosystem', 'Hydrology (agriculture)', 'Oceanography', 'Wetland', 'Climate change', 'Ecology', 'Geology', 'Chemistry', 'Geography', 'Photosynthesis', 'Biology', 'Meteorology', 'Geotechnical engineering', 'Organic chemistry', 'Biochemistry']

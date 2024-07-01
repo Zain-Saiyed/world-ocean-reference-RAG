@@ -1,0 +1,12 @@
+ID: W2023732529
+TITLE: Whale Watching as Ecotourism: How Sustainable is it?
+AUTHOR: ['Stephen Wearing', 'Paul A. Cunningham', 'Stephen Schweinsberg', 'Chantelle Jobberns']
+ABSTRACT:
+Australia has long tried to portray itself as an environmentally responsible state and has consistently been a strong supporter of Whale Watching as an alternative to the practice of commercial and ‘scientific’ whaling. This paper explores whale watching in an effort to determine the economic and social viability of it as a sustainable marine tourism activity —and whether in the future the whale and the tourist can coexist or will the latter as with previous human activities such as whaling yet again create a ‘tragedy of the commons’ and displace the former. As an ecotourism product, whale watching holds the potential for sustainable practice, one that is both ecological and profitable. Responsible whale watching is seen as a clean, green industry that simultaneously supports local economies and promotes whale education and conservation. The question is can it live up to these expectations?
+
+SOURCE: Cosmopolitan civil societies
+PDF URL: https://epress.lib.uts.edu.au/journals/index.php/mcs/article/download/3714/4018
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Whaling', 'Whale', 'Tragedy of the commons', 'Ecotourism', 'Tourism', 'Product (mathematics)', 'Sustainability', 'Environmental ethics', 'Commodification', 'Wildlife tourism', 'Fishery', 'Business', 'Commons', 'Political science', 'Ecology', 'Economy', 'Economics', 'Law', 'Philosophy', 'Geometry', 'Mathematics', 'Biology']

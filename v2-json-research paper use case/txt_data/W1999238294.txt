@@ -1,0 +1,12 @@
+ID: W1999238294
+TITLE: Epi-benthic megafaunal zonation across an oxygen minimum zone at the Indian continental margin
+AUTHOR: ['William Ross Hunter', 'Kazuta Oguri', 'Hiroshi Kitazato', 'Z.A. Ansari', 'Ursula Witte']
+ABSTRACT:
+The Arabian Sea oxygen minimum zone (OMZ) impinges upon the Indian continental margin at bathyal depths (150–1500 m) producing changes in ambient oxygen availability and sediment geochemistry across the seafloor. The influence of these environmental changes upon the epi-benthic megafaunal assemblage was investigated by video survey at six stations spanning the OMZ core (540 m), lower boundary (800–1100 m) and below the OMZ (2000 m), between September and November 2008. Structural changes in the megafaunal assemblage were observed across the six stations, through changes in both megafaunal abundance and lebensspuren (biogenic traces). Most megafauna were absent in the OMZ core (540 m), where the assemblage was characterised by low densities of fishes (0.02–0.03 m−2). In the lower OMZ boundary, megafaunal abundance peaked at 800 m, where higher densities of ophiuroids (0.20–0.44 m−2) and decapods (0.11–0.15 m−2) were present. Total abundance declined with depth between 800 and 2000 m, as the number of taxa increased. Changes in the megafaunal assemblage were predicted by changes in abundance of seven taxonomic groups, correlated to both oxygen availability and sediment organic matter quality. Lebensspuren densities were highest in the OMZ boundary (800–1100 m) but traces of large infauna (e.g., echiurans and enteropneusts) were only observed between 1100 and 2000 m station, where the influence of the OMZ was reduced. Thus, changes in the megafaunal assemblage across the Indian margin OMZ reflect the responses of specific taxa to food availability and oxygen limitation.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Megafauna', 'Oxygen minimum zone', 'Benthic zone', 'Oceanography', 'Continental margin', 'Bathyal zone', 'Abundance (ecology)', 'Nepheloid layer', 'Geology', 'Ecology', 'Biology', 'Paleontology', 'Pleistocene', 'Tectonics', 'Upwelling']

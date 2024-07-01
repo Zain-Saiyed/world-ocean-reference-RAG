@@ -1,0 +1,12 @@
+ID: W2616577921
+TITLE: Mapping the global value and distribution of coral reef tourism
+AUTHOR: ['Mark Spalding', 'Lauretta Burke', 'Spencer A. Wood', 'Joscelyne E. Ashpole', 'J.B. Hutchison', 'Philine S. E. zu Ermgassen']
+ABSTRACT:
+Global coral reef related tourism is one of the most significant examples of nature-based tourism from a single ecosystem. Coral reefs attract foreign and domestic visitors and generate revenues, including foreign exchange earnings, in over 100 countries and territories. Understanding the full value of coral reefs to tourism, and the spatial distribution of these values, provides an important incentive for sustainable reef management. In the current work, global data from multiple sources, including social media and crowd-sourced datasets, were used to estimate and map two distinct components of reef value. The first component is local “reef-adjacent” value, an overarching term used to capture a range of indirect benefits from coral reefs, including provision of sandy beaches, sheltered water, food, and attractive views. The second component is “on-reef” value, directly associated with in-water activities such diving and snorkelling. Tourism values were estimated as a proportion of the total visits and spending by coastal tourists within 30 km of reefs (excluding urban areas). Reef-adjacent values were set as a fixed proportion of 10% of this expenditure. On-reef values were based on the relative abundance of dive-shops and underwater photos in different countries and territories. Maps of value assigned to specific coral reef locations show considerable spatial variability across distances of just a few kilometres. Some 30% of the world's reefs are of value in the tourism sector, with a total value estimated at nearly US$36 billion, or over 9% of all coastal tourism value in the world's coral reef countries.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 394
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Geography', 'Tourism', 'Fishery', 'Coral reef organizations', 'Fringing reef', 'Coral reef protection', 'Biology', 'Archaeology']

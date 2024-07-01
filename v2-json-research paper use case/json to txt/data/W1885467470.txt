@@ -1,0 +1,12 @@
+ID: W1885467470
+TITLE: A Southeast Atlantic deep‐ocean observatory: first experiences and results
+AUTHOR: ['Michael F. Vardaro', 'P. M. Bagley', 'David M. Bailey', 'Brian J. Bett', 'Daniel O. B. Jones', 'Rosanna Milligan', 'Imants G. Priede', 'Craig M. Risien', 'Gilbert T. Rowe', 'Henry A. Ruhl', 'Bomba Bazika Sangolay', 'Kenneth L. Smith', 'Anne Walls', 'Jim Clarke']
+ABSTRACT:
+The DELOS (Deep‐ocean Environmental Long‐term Observatory System) project is a long‐term research program focused on understanding the impacts of oil and gas extraction on deep‐sea ecosystems. We have installed two seafloor observation platforms, populated with ROV‐serviced sensor modules, at 1400 m water depth in the Southeast Atlantic off the coast of Angola. The ‘impact’ Near‐Field platform is located 50 m from subsea oil production facilities. The ‘control’ Far‐Field platform is 16 km distant from any industry seafloor activity. Each platform includes oceanographic, acoustic, and camera sensor modules. The latter carries two still cameras providing close‐up and wide‐angle views of the seabed. The Far‐Field platform is also equipped with a sediment trap that deploys to 100 m above the seafloor. The instrumented platforms were installed in Feb 2009, and the sensor modules subsequently serviced in Aug 2009, Feb 2010, and Aug 2010. Here, we report on our first experiences of operating the observatories and present some of the first data. The oceanographic data (temperature, salinity, oxygen concentration) and biological observations (demersal fish and benthic invertebrates) suggest that the two study sites have near identical environmental characteristics. We, therefore, believe that these sites are appropriate as control and impact locations for long‐term monitoring of potential anthropogenic effects referenced to natural background environmental variation. We suggest that DELOS‐type observatories, particularly operated as pairs (or in networks), are a highly effective means of appropriately monitoring deep‐water resource exploitation—both hydrocarbon extraction and mineral mining.
+
+SOURCE: Limnology and oceanography, methods
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lom.2013.11.304
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Oceanography', 'Benthic zone', 'Petroleum seep', 'Seafloor spreading', 'Demersal zone', 'Seabed', 'Geology', 'Deep sea', 'Remotely operated vehicle', 'Environmental science', 'Pelagic zone', 'Methane', 'Ecology', 'Biology']

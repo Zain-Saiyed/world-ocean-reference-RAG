@@ -1,0 +1,12 @@
+ID: W2752002282
+TITLE: Submarine canyons along the upper Sardinian slope (Central Western Mediterranean) as repositories for derelict fishing gears
+AUTHOR: ['Alessandro Cau', 'Andrea Alvito', 'Davide Moccia', 'Simonepietro Canese', 'Antonio Pusceddu', 'Rita Cannas', 'Michela Angiolillo', 'María Cristina Follesa']
+ABSTRACT:
+By means of ROV surveys, we assessed the quantity, composition and bathymetric distribution of marine litter in 17 sites along the Sardinian continental margin (Central Western Mediterranean) at depths ranging from 100 to 480 m. None of the investigated sites was litter free, but the mean density of litter (0.0175 ± 0.0022 items m− 2) was lower than that reported from other Tyrrhenian regions. The difference in the total litter density among sites was negligible, but the density of derelict fishing gear (DFG) items (most of which ascribable to small scale fishery) in submarine canyons was higher in submarine canyons than in other habitats. Our result suggest that submarine canyons (known to be highly vulnerable ecosystems) act as major repositories of DFGs, and, therefore, we anticipate the need of specific measures aimed at minimizing the loss and abandonment of DFGs in submarine canyons.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 75
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Submarine canyon', 'Canyon', 'Fishing', 'Continental shelf', 'Mediterranean climate', 'Submarine', 'Benthic zone', 'Oceanography', 'Bathymetry', 'Marine debris', 'Mediterranean sea', 'Litter', 'Continental margin', 'Fishery', 'Environmental science', 'Geology', 'Geography', 'Ecology', 'Debris', 'Geomorphology', 'Paleontology', 'Biology', 'Tectonics', 'Archaeology']

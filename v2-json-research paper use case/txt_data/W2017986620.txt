@@ -1,0 +1,12 @@
+ID: W2017986620
+TITLE: The positive and negative effects of exotic Spartina alterniflora in China
+AUTHOR: ['Shuwen Wan', 'Pei Qin', 'Jine Liu', 'Hongxiang Zhou']
+ABSTRACT:
+Spartina alterniflora is a perennial salt marsh grass native to the Atlantic and Gulf Coasts of North America. Recognized for its effects of diminishing strong tide even storms and accelerating sediment deposition, S. alterniflora was introduced into China in 1979. Now the artificial vegetation of Spartina has expanded to around 50 000 h m2 along the east coast of China due to its strong capability of propagating by seeds and rhizome fragments. Although it was listed among 16 harmful exotic species in China 3 years ago, we need to evaluate its positive and negative effects in the coastal region of China objectively. This paper reviews some major positive effects of S. alterniflora in China, e.g. being a dominant primary producer, buffering against tides, accelerating accretion and reclamation, absorbing nutrients and digesting pollutants, as well as some major negative effects, e.g. occupying the niche of local species, altering the mudflat habitat, changing and even diminishing biodiversity, and damaging the aquiculture in the tidal land. In addition, its biomaterial uses and biological substitution as a means of ecological regulation is also discussed.
+
+SOURCE: Ecological engineering
+PDF URL: None
+CITED BY COUNT: 129
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Spartina alterniflora', 'Salt marsh', 'Ecology', 'Habitat', 'Environmental science', 'Land reclamation', 'Wetland', 'Spartina', 'Biodiversity', 'Marsh', 'Oceanography', 'Geography', 'Biology', 'Geology']

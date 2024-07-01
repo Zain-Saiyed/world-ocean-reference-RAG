@@ -1,0 +1,12 @@
+ID: W2810654022
+TITLE: Vulnerability of Arctic marine mammals to vessel traffic in the increasingly ice-free Northwest Passage and Northern Sea Route
+AUTHOR: ['Donna D. W. Hauser', 'Kristin L. Laidre', 'Harry Stern']
+ABSTRACT:
+The fabled Northwest Passage and Northern Sea Route that were once the quests of early Western explorers are now increasingly sea ice-free, with routine vessel transits expected by midcentury. The potential impacts of this novel vessel traffic on endemic Arctic marine mammal (AMM) species are unknown despite their critical social and ecological roles in the ecosystem and widely recognized susceptibility to ice loss. We developed a vulnerability assessment of 80 subpopulations of seven AMM species to vessel traffic during the ice-free season. Vulnerability scores were based on the combined influence of spatially explicit exposure to the sea routes and a suite of sensitivity variables. More than half of AMM subpopulations (42/80) are exposed to open-water vessel transits in the Arctic sea routes. Narwhals (Monodon monoceros) were estimated to be most vulnerable to vessel impacts, given their high exposure and sensitivity, and polar bears (Ursus maritimus) were estimated to be the least vulnerable because of their low exposure and sensitivity. Regions with geographic bottlenecks, such as the Bering Strait and eastern Canadian Arctic, were characterized by two to three times higher vulnerability than more remote regions. These pinch points are obligatory pathways for both vessels and migratory AMMs, and so represent potentially high conflict areas but also opportunities for conservation-informed planning. Some of the species and regions identified as least vulnerable were also characterized by high uncertainty, highlighting additional data and monitoring needs. Our quantification of the heterogeneity of risk across AMM species provides a necessary first step toward developing best practices for maritime industries poised to advance into this rapidly changing seascape.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/115/29/7617.full.pdf
+CITED BY COUNT: 93
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ursus maritimus', 'Arctic', 'Vulnerability (computing)', 'Sea ice', 'Geography', 'Arctic ice pack', 'Marine mammal', 'Fishery', 'Oceanography', 'Ecology', 'Biology', 'Geology', 'Computer security', 'Computer science', 'Meteorology']

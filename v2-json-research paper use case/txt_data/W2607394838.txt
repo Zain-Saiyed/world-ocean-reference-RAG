@@ -1,0 +1,12 @@
+ID: W2607394838
+TITLE: A comparison of genetic connectivity in two deep sea corals to examine whether seamounts are isolated islands or stepping stones for dispersal
+AUTHOR: ['Karen J. Miller', 'Rasanthi M. Gunasekera']
+ABSTRACT:
+Ecological processes in the deep sea are poorly understood due to the logistical constraints of sampling thousands of metres below the ocean's surface and remote from most land masses. Under such circumstances, genetic data provides unparalleled insight into biological and ecological relationships. We use microsatellite DNA to compare the population structure, reproductive mode and dispersal capacity in two deep sea corals from seamounts in the Southern Ocean. The solitary coral Desmophyllum dianthus has widespread dispersal consistent with its global distribution and resilience to disturbance. In contrast, for the matrix-forming colonial coral Solenosmilia variabilis asexual reproduction is important and the dispersal of sexually produced larvae is negligible, resulting in isolated populations. Interestingly, despite the recognised impacts of fishing on seamount communities, genetic diversity on fished and unfished seamounts was similar for both species, suggesting that evolutionary resilience remains despite reductions in biomass. Our results provide empirical evidence that a group of seamounts can function either as isolated islands or stepping stones for dispersal for different taxa. Furthermore different strategies will be required to protect the two sympatric corals and consequently the recently declared marine reserves in this region may function as a network for D. dianthus, but not for S. variabilis.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep46103.pdf
+CITED BY COUNT: 51
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Seamount', 'Biology', 'Ecology', 'Asexual reproduction', 'Coral', 'Population', 'Paleontology', 'Demography', 'Sociology']

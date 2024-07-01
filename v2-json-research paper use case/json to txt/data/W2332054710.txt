@@ -1,0 +1,12 @@
+ID: W2332054710
+TITLE: Microbial hitchhikers on marine plastic debris: Human exposure risks at bathing waters and beach environments
+AUTHOR: ['Anisha Keswani', 'David M. Oliver', 'Tony Gutiérrez', 'Richard S. Quilliam']
+ABSTRACT:
+Marine plastic debris is well characterized in terms of its ability to negatively impact terrestrial and marine environments, endanger coastal wildlife, and interfere with navigation, tourism and commercial fisheries. However, the impacts of potentially harmful microorganisms and pathogens colonising plastic litter are not well understood. The hard surface of plastics provides an ideal environment for opportunistic microbial colonisers to form biofilms and might offer a protective niche capable of supporting a diversity of different microorganisms, known as the "Plastisphere". This biotope could act as an important vector for the persistence and spread of pathogens, faecal indicator organisms (FIOs) and harmful algal bloom species (HABs) across beach and bathing environments. This review will focus on the existent knowledge and research gaps, and identify the possible consequences of plastic-associated microbes on human health, the spread of infectious diseases and bathing water quality.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 256
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Microplastics', 'Marine debris', 'Bathing', 'Debris', 'Ecology', 'Plastic pollution', 'Environmental science', 'Biotope', 'Biology', 'Geography', 'Habitat', 'Archaeology', 'Meteorology']

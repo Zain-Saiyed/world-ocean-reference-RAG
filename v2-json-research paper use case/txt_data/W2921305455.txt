@@ -1,0 +1,12 @@
+ID: W2921305455
+TITLE: The governance for offshore wind in Japan
+AUTHOR: ['Aitong Li', 'Yuan Xu']
+ABSTRACT:
+Effective governance is crucial for developing various renewable energies, especially in their early stages. After the spectacular growth of onshore wind in the past decade, offshore wind is attracting an increasing amount of attention globally. As an archipelago and facing electricity shortage after the 2011 Fukushima nuclear accident, Japan has been accelerating its pace of developing offshore wind. However, the Japanese government encounters the challenge of adapting its old institution to the new governance demand. This research analyzes the evolution of offshore wind policies and evaluates the progress of inter-ministerial collaboration in Japan. It is found that from the initial potential surveys to the final setting of offshore wind feed-in tariff, the relations between relevant agencies were more characterized by inter-ministerial competitions than collaborations. The deeply rooted traditional sectionalism continues to affect the development of offshore wind and may slow down the progress of energy transition in Japan.
+
+SOURCE: Energy procedia
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Offshore wind power', 'Wind power', 'Tariff', 'Corporate governance', 'Submarine pipeline', 'Renewable energy', 'Business', 'Government (linguistics)', 'Economic shortage', 'Pace', 'Natural resource economics', 'Economy', 'Environmental planning', 'Political science', 'Engineering', 'Geography', 'Finance', 'Economics', 'International trade', 'Linguistics', 'Philosophy', 'Electrical engineering', 'Geotechnical engineering', 'Geodesy']

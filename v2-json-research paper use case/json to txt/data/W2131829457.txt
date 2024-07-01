@@ -1,0 +1,12 @@
+ID: W2131829457
+TITLE: Ocean Deoxygenation in a Warming World
+AUTHOR: ['Ralph F. Keeling', 'Arne Körtzinger', 'Nicolas Gruber']
+ABSTRACT:
+Ocean warming and increased stratification of the upper ocean caused by global climate change will likely lead to declines in dissolved O 2 in the ocean interior (ocean deoxygenation) with implications for ocean productivity, nutrient cycling, carbon cycling, and marine habitat. Ocean models predict declines of 1 to 7% in the global ocean O 2 inventory over the next century, with declines continuing for a thousand years or more into the future. An important consequence may be an expansion in the area and volume of so-called oxygen minimum zones, where O 2 levels are too low to support many macrofauna and profound changes in biogeochemical cycling occur. Significant deoxygenation has occurred over the past 50 years in the North Pacific and tropical oceans, suggesting larger changes are looming. The potential for larger O 2 declines in the future suggests the need for an improved observing system for tracking ocean O 2 changes.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 1288
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Oceanography', 'Ocean heat content', 'Environmental science', 'Effects of global warming on oceans', 'Climate change', 'Cycling', 'Global warming', 'Ocean observations', 'Biogeochemistry', 'Nutrient cycle', 'Ocean current', 'Ecosystem', 'Ecology', 'Geography', 'Geology', 'Biology', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W1485635014
+TITLE: Attenuation of particulate organic carbon flux in the Scotia Sea, Southern Ocean, is controlled by zooplankton fecal pellets
+AUTHOR: ['Emma L. Cavan', 'Frédéric A.C. Le Moigne', 'Alex J. Poulton', 'Geraint A. Tarling', 'Peter Ward', 'Chris J. Daniels', 'Glaucia M. Fragoso', 'Richard Sanders']
+ABSTRACT:
+Abstract The Southern Ocean (SO) is an important CO 2 reservoir, some of which enters via the production, sinking, and remineralization of organic matter. Recent work suggests that the fraction of production that sinks is inversely related to production in the SO, a suggestion that we confirm from 20 stations in the Scotia Sea. The efficiency with which exported material is transferred to depth (transfer efficiency) is believed to be low in high‐latitude systems. However, our estimates of transfer efficiency are bimodal, with stations in the seasonal ice zone showing intense losses and others displaying increases in flux with depth. Zooplankton fecal pellets dominated the organic carbon flux and at stations with transfer efficiency &gt;100% fecal pellets were brown, indicative of fresh phytodetritus. We suggest that active flux mediated by zooplankton vertical migration and the presence of sea ice regulates the transfer of organic carbon into the oceans interior in the Southern Ocean.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2014GL062744
+CITED BY COUNT: 104
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Zooplankton', 'Environmental science', 'Oceanography', 'Phytodetritus', 'Flux (metallurgy)', 'Total organic carbon', 'Organic matter', 'Geology', 'Atmospheric sciences', 'Foraminifera', 'Ecology', 'Environmental chemistry', 'Chemistry', 'Biology', 'Benthic zone', 'Organic chemistry']

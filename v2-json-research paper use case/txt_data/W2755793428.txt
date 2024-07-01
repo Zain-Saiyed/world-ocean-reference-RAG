@@ -1,0 +1,12 @@
+ID: W2755793428
+TITLE: Environmental drivers of distribution and reef development of the Mediterranean coral Cladocora caespitosa
+AUTHOR: ['Rosa M. Chefaoui', 'Pilar Casado-Amezúa', 'José Templado']
+ABSTRACT:
+Cladocora caespitosa is the only Mediterranean scleractinian similar to tropical reef-building corals. While this species is part of the recent fossil history of the Mediterranean Sea, it is currently considered endangered due to its decline during the last decades. Environmental factors affecting the distribution and persistence of extensive bank reefs of this endemic species across its whole geographic range are poorly understood. In this study, we examined the environmental response of C. caespitosa and its main types of assemblages using ecological niche modeling and ordination analysis. We also predicted other suitable areas for the occurrence of the species and assessed the conservation effectiveness of Mediterranean marine protected areas (MPAs) for this coral. We found that phosphate concentration and wave height were factors affecting both the occurrence of this versatile species and the distribution of its extensive bioconstructions in the Mediterranean Sea. A set of factors (diffuse attenuation coefficient, calcite and nitrate concentrations, mean wave height, sea surface temperature, and shape of the coast) likely act as environmental barriers preventing the species from expansion to the Atlantic Ocean and the Black Sea. Uncertainties in our large-scale statistical results and departures from previous physiological and ecological studies are also discussed under an integrative perspective. This study reveals that Mediterranean MPAs encompass eight of the ten banks and 16 of the 21 beds of C. caespitosa. Preservation of water clarity by avoiding phosphate discharges may improve the protection of this emblematic species.
+
+SOURCE: Coral reefs
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Reef', 'Mediterranean sea', 'Mediterranean climate', 'Coral', 'Coral reef', 'Ecology', 'Marine protected area', 'Oceanography', 'Range (aeronautics)', 'Endangered species', 'Species distribution', 'Geography', 'Biology', 'Geology', 'Habitat', 'Materials science', 'Composite material']

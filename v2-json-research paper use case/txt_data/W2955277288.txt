@@ -1,0 +1,12 @@
+ID: W2955277288
+TITLE: Time is running out for sand
+AUTHOR: ['Mette Bendixen', 'James L. Best', 'Christopher Hackney', 'Lars Iversen']
+ABSTRACT:
+Sand and gravel are being extracted faster than they can be replaced. Monitor and manage this resource globally, urge Mette Bendixen and colleagues. Sand and gravel are being extracted faster than they can be replaced. Monitor and manage this resource globally, urge Mette Bendixen and colleagues.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 274
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental science', 'Computer science']

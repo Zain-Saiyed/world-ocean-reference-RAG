@@ -1,0 +1,12 @@
+ID: W4240410675
+TITLE: The First Global Integrated Marine Assessment
+AUTHOR: []
+ABSTRACT:
+The World Ocean Assessment is the culmination of the work of nearly 600 scientists and experts from many countries, representing various disciplines and steered by a 22-member Group of Experts. The Assessment examines the current state of knowledge of the world's oceans and the ways in which humans benefit from and affect them. The Assessment indicates that the oceans' carrying capacity is near or at its limit. It is clear that urgent action on a global scale is needed to protect the world’s oceans from the many pressures they face. The World Ocean Assessment – or, to give its full title, the First Global Integrated Marine Assessment – is the outcome of the first cycle of the United Nations' Regular Process for Global Reporting and Assessment of the State of the Marine Environment, including Socioeconomic Aspects. The Assessment provides vital, scientifically-grounded bases for the consideration of ocean issues, including climate change, by governments, intergovernmental agencies, non-governmental agencies and all other stakeholders and policy-makers involved in ocean affairs. Together with future assessments and related initiatives, it will support the implementation of the recently adopted 2030 Agenda for Sustainable Development, particularly its ocean related goals. Moreover, it will also form an important reference text for marine science courses.
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2017
+TYPE: book
+CONCEPTS: ['Political science', 'Work (physics)', 'Scale (ratio)', 'Environmental planning', 'Process (computing)', 'Environmental resource management', 'Geography', 'Environmental science', 'Engineering', 'Computer science', 'Cartography', 'Mechanical engineering', 'Operating system']

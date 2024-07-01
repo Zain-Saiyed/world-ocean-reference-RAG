@@ -1,0 +1,12 @@
+ID: W3000210510
+TITLE: Aerosolizable Marine Phycotoxins and Human Health Effects: In Vitro Support for the Biogenics Hypothesis
+AUTHOR: ['Emmanuel Van Acker', 'Maarten De Rijcke', 'Jana Asselman', 'Ilse Beck', 'Steve Huysman', 'Lynn Vanhaecke', 'Karel A.C. De Schamphelaere', 'Colin R. Janssen']
+ABSTRACT:
+Respiratory exposure to marine phycotoxins is of increasing concern. Inhalation of sea spray aerosols (SSAs), during harmful Kareniabrevis and Ostreopsisovata blooms induces respiratory distress among others. The biogenics hypothesis, however, suggests that regular airborne exposure to natural products is health promoting via a downregulation of the mechanistic target of rapamycin (mTOR) pathway. Until now, little scientific evidence supported this hypothesis. The current explorative in vitro study investigated both health-affecting and potential health-promoting mechanisms of airborne phycotoxin exposure, by analyzing cell viability effects via cytotoxicity assays and effects on the mTOR pathway via western blotting. To that end, A549 and BEAS-2B lung cells were exposed to increasing concentrations (ng·L-1 - mg·L-1) of (1) pure phycotoxins and (2) an extract of experimental aerosolized homoyessotoxin (hYTX). The lowest cell viability effect concentrations were found for the examined yessotoxins (YTXs). Contradictory to the other phycotoxins, these YTXs only induced a partial cell viability decrease at the highest test concentrations. Growth inhibition and apoptosis, both linked to mTOR pathway activity, may explain these effects, as both YTXs were shown to downregulate this pathway. This proof-of-principle study supports the biogenics hypothesis, as specific aerosolizable marine products (e.g., YTXs) can downregulate the mTOR pathway.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/18/1/46/pdf?version=1579694521
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['PI3K/AKT/mTOR pathway', 'Downregulation and upregulation', 'Viability assay', 'Chemistry', 'Cell growth', 'Blot', 'Pharmacology', 'Apoptosis', 'Cell biology', 'Biology', 'Signal transduction', 'Biochemistry', 'Gene']

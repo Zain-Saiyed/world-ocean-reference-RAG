@@ -1,0 +1,12 @@
+ID: W1573581755
+TITLE: An introduction to Mediterranean deep-sea biology
+AUTHOR: ['Francisco Sardà', 'Antoni Calafat', 'Miquel Canals', 'Manuel Espino', 'Angelo Tursi']
+ABSTRACT:
+This chapter presents the state of the art concerning the deep-sea Mediterranean environment: geology, hydrology, biology and fisheries.These are the fields of study dealt with in the scientific papers of
+
+SOURCE: Scientia marina
+PDF URL: https://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/download/431/1097/1076
+CITED BY COUNT: 106
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Mediterranean climate', 'Oceanography', 'Mediterranean sea', 'Geography', 'Biology', 'Geology', 'Ecology']

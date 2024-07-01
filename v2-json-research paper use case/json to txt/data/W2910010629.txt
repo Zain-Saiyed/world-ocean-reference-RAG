@@ -1,0 +1,12 @@
+ID: W2910010629
+TITLE: Perfluoroalkyl substances (PFASs) in edible fish species from Charleston Harbor and tributaries, South Carolina, United States: Exposure and risk assessment
+AUTHOR: ['Patricia A. Fair', 'Bethany J. Wolf', 'Natasha White', 'Stephen A. Arnott', 'Kurunthachalam Kannan', 'Rajendiran Karthikraj', 'John E. Vena']
+ABSTRACT:
+Concentrations of 11 PFASs were determined in muscle and whole fish for six species collected from Charleston, South Carolina (SC) for the assessment of potential health risks to humans and wildlife. Across all species and capture locations, total PFAS levels in whole fish were significantly higher than fillets by a factor of two- to three-fold. Mean ∑PFAS concentrations varied from 12.7 to 33.0 ng/g wet weight (ww) in whole fish and 6.2–12.7 ng/g ww in fillets. For individual whole fish, ∑PFASs ranged from 12.7 ng/g ww in striped mullet to 85.4 ng/g ww in spotted seatrout, and in fillets individual values ranged from 6.2 ng/g ww in striped mullet to 27.9 ng/g ww in spot. The most abundant compound in each species was perfluorooctane sulfonate (PFOS), comprising 25.5–69.6% of the ∑PFASs. Striped mullet had significantly lower relative amounts of PFOS compared to all other species and higher relative amounts of PFUnDA compared to Atlantic croaker, spotted seatrout, and spot. Unlike whole fish, PFAS levels in fillets varied significantly by location with higher ∑PFOS from the Ashley River than the Cooper River and Charleston Harbor, which reflects the levels of PFASs contamination in these systems. In whole fish, differences in relative concentrations of PFOS, PFNA, and PFDA occurred by capture location, suggestive of different sources. PFOS concentrations for southern flounder and spotted seatrout fillets were within the advisory range to limit fish consumption to 4 meals a month. PFOS levels exceeded screening values to protect mammals in 83% of whole fish examined and represent a potential risk to wildlife predators such as dolphins.
+
+SOURCE: Environmental research
+PDF URL: None
+CITED BY COUNT: 116
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mullet', 'Perfluorooctane', 'Fishery', 'Tributary', 'Sentinel species', 'Fish <Actinopterygii>', 'Flounder', 'Biology', 'Zoology', 'Chemistry', 'Geography', 'Cartography', 'Organic chemistry', 'Sulfonate', 'Sodium']

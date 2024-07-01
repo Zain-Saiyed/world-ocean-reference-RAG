@@ -1,0 +1,12 @@
+ID: W2914670907
+TITLE: Ecological drivers of marine debris ingestion in Procellariiform Seabirds
+AUTHOR: ['Lauren Roman', 'Elizabeth A. Bell', 'Chris Wilcox', 'Britta Denise Hardesty', 'Mark A. Hindell']
+ABSTRACT:
+Procellariiform seabirds are both the most threatened bird group globally, and the group with the highest incidence of marine debris ingestion. We examined the incidence and ecological factors associated with marine debris ingestion in Procellariiformes by examining seabirds collected at a global seabird hotspot, the Australasian - Southern Ocean boundary. We examined marine debris ingestion trends in 1734 individuals of 51 Procellariform species, finding significant variation in the incidence of marine debris abundance among species. Variation in the incidence of marine debris ingestion between species was influenced by the taxonomy, foraging ecology, diet, and foraging range overlaps with oceanic regions polluted with marine debris. Among the ecological drivers of marine debris ingestion variability in Procellariiformes, we demonstrate that the combination of taxonomy, foraging method, diet, and exposure to marine debris are the most important determinants of incidence of ingestion. We use these results to develop a global forecast for Procellariiform taxa at the risk of highest incidence of marine debris ingestion. We find seabirds that forage at the surface; especially by surface seizing, diving and filtering, those with a crustacean dominant diet, and those that forage in or near marine debris hotspots are at highest risk of debris ingestion. We predict that family with the highest risk are the storm petrels (Hydrobatidae and Oceanitidae). We demonstrate that the greater the exposure of high-risk groups to marine debris while foraging, the greater the incidence and number of marine debris items will be ingested.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-37324-w.pdf
+CITED BY COUNT: 56
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine debris', 'Debris', 'Foraging', 'Seabird', 'Ecology', 'Ingestion', 'Biology', 'Threatened species', 'Fishery', 'Oceanography', 'Habitat', 'Geology', 'Predation', 'Biochemistry']

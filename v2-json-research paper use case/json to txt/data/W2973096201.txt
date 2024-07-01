@@ -1,0 +1,12 @@
+ID: W2973096201
+TITLE: Prioritised pharmaceuticals in German estuaries and coastal waters: Occurrence and environmental risk assessment
+AUTHOR: ['Danijela Kötke', 'Juergen Gandrass', 'Zhiyong Xie', 'Ralf Ebinghaus']
+ABSTRACT:
+In this study a target analysis approach with method detection limits down to 0.01 ng L−1 was developed in order to determine ultra-trace pharmaceuticals in seawater of the German coast and their estuaries. The selection of target analytes based on a prioritisation commissioned by the German Environmental Agency considering occurrence in German surface waters, production volumes and ecotoxicological data. Using ultra-high pressure liquid chromatography coupled to a triple quadrupole mass spectrometer equipped with an electrospray ionisation source 21 prioritised pharmaceuticals out of seven therapeutical classes (antibiotics, iodinated X-ray contrast media (ICM), analgesics, lipid reducers, antiepileptics, anticonvulsants, beta-blockers) have been detected in the low to medium ng L−1-range. The most frequently measured substance groups in the German Baltic Sea and German Bight are the ICM, represented by the non-ionic ICM iomeprol (German Bightmax: 207 ng L−1; Baltic Seamax: 34.5 ng L−1) and the ionic ICM amidotrizoic acid (German Bight: 86.9 ng L−1), respectively. The same pattern of substance distribution could be detected in the German Bight, the German Baltic Sea and their inflows with lower concentrations in the offshore region that are partly a result of dilution with marine water. Pharmaceuticals entering the estuaries and coastal regions are an environmental issue since data on the ecotoxicological effects on aquatic marine organisms is limited. Especially the antibiotics clarithromycin and sulfamethoxazole could be ecotoxicologically/environmentally critical.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental science', 'German', 'Estuary', 'Environmental chemistry', 'Seawater', 'Tributyltin', 'Oceanography', 'Chemistry', 'Geography', 'Geology', 'Archaeology']

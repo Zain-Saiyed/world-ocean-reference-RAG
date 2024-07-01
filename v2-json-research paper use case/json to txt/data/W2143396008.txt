@@ -1,0 +1,12 @@
+ID: W2143396008
+TITLE: Global environmental changes: setting priorities for Latin American coastal habitats
+AUTHOR: ['Alexander Turra', 'Aldo Cróquer', 'Alvar Carranza', 'Andrés Mansilla', 'Arsenio J. Areces', 'Camilo Werlinger', 'C Martínez-Bayón', 'Cristina Aparecida Gomes Nassar', 'Estela M. Plastino', 'Evangelina Schwindt', 'Fabrizio Scarabino', 'Fungyi Chow', 'Félix L. Figueroa', 'Flávio Berchez', 'Jason M. Hall‐Spencer', 'Luís A. Soto', 'Marcos Silveira Buckeridge', 'Margareth Copertino', 'Maria Tereza Menezes de Széchy', 'Natalia Pirani Ghilardi‐Lopes', 'Paulo Antunes Horta', 'Ricardo Coutinho', 'Simonetta Fraschetti', 'Zelinda Margarida de Andrade Nery Leão']
+ABSTRACT:
+Abstract As the effects of the Global Climate Changes on the costal regions of Central and South Americas advance, there is proportionally little research being made to understand such impacts. This commentary puts forward a series of propositions of strategies to improve performance of Central and South American science and policy making in order to cope with the future impacts of the Global Climate Changes in their coastal habitats.
+
+SOURCE: Global change biology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.12186
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Latin Americans', 'Habitat', 'Climate change', 'Global change', 'Environmental resource management', 'Geography', 'Global warming', 'Order (exchange)', 'Ecology', 'Environmental planning', 'Environmental science', 'Political science', 'Business', 'Biology', 'Law', 'Finance']

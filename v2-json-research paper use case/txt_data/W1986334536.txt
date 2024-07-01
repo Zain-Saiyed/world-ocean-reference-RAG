@@ -1,0 +1,12 @@
+ID: W1986334536
+TITLE: Impact of oceanic warming on the distribution of seaweeds in polar and cold-temperate waters
+AUTHOR: ['Ruth Müller', 'Thomas Laepple', 'Inka Bartsch', 'Christian Wiencke']
+ABSTRACT:
+Abstract Temperature is one of the most important factors controlling the biogeographic distribution of seaweeds and is expected to increase due to the rise in anthropogenic greenhouse gas concentrations, especially in polar and cold-temperate regions. To estimate prospective distributional shifts in cold-water key structural seaweeds from both hemispheres, we related temperature requirements and recent distributions of seaweeds to observed mean sea surface temperature (SST) isotherms for the periods 1980–1999 (Meteorological Office Hadley Centre's SST data set; HadISST) and to modelled temperatures for 2080–2099 [Coupled Model Intercomparison Project 3 (CMIP3) database prepared for the Intergovernmental Panel on Climate Change Fourth Assessment Report (IPCC AR4) report] based on moderate greenhouse gas emissions Special Report on Emission Scenarios – Scenario B1 (SRESA1B). Under this scenario, North Atlantic polar to cold-temperate seaweeds investigated will extend their distribution into the High Arctic until the end of the 21st century, but retreat along the northeastern Atlantic coastline. In contrast, selected Antarctic seaweeds will probably not significantly alter their latitudinal distributions, as deduced from our presently incomplete knowledge of their temperature requirements. We identified several cold-temperate regions where seaweed composition and abundance will certainly change with elevated temperatures. The results are discussed in the context of local temperature conditions, effects of multifactorial abiotic and biotic interactions and expected ecological consequences for seaweed-dominated ecosystems.
+
+SOURCE: Botanica marina
+PDF URL: None
+CITED BY COUNT: 208
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Temperate climate', 'Environmental science', 'Climate change', 'Context (archaeology)', 'Abiotic component', 'Ecosystem', 'Arctic', 'Greenhouse gas', 'Atmospheric sciences', 'Polar', 'Climatology', 'Oceanography', 'Sea surface temperature', 'Polar night', 'Ecology', 'Geography', 'Biology', 'Geology', 'Physics', 'Archaeology', 'Astronomy']

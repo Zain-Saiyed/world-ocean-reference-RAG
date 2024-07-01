@@ -1,0 +1,12 @@
+ID: W2056014566
+TITLE: Statistical Research on the Bioactivity of New Marine Natural Products Discovered during the 28 Years from 1985 to 2012
+AUTHOR: ['Yiwen Hu', 'Jiahui Chen', 'Guping Hu', 'Jing Yu', 'Xun Zhu', 'Yongcheng Lin', 'Shengping Chen', 'Jie Yuan']
+ABSTRACT:
+Every year, hundreds of new compounds are discovered from the metabolites of marine organisms. Finding new and useful compounds is one of the crucial drivers for this field of research. Here we describe the statistics of bioactive compounds discovered from marine organisms from 1985 to 2012. This work is based on our database, which contains information on more than 15,000 chemical substances including 4196 bioactive marine natural products. We performed a comprehensive statistical analysis to understand the characteristics of the novel bioactive compounds and detail temporal trends, chemical structures, species distribution, and research progress. We hope this meta-analysis will provide useful information for research into the bioactivity of marine natural products and drug development.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/13/1/202/pdf?version=1424783586
+CITED BY COUNT: 199
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Statistical analysis', 'Natural (archaeology)', 'Computational biology', 'Biology', 'Data science', 'Computer science', 'Mathematics', 'Paleontology', 'Statistics']

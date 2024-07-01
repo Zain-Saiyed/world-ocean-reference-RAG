@@ -1,0 +1,12 @@
+ID: W2751730517
+TITLE: A risk-based approach to cumulative effect assessments for marine management
+AUTHOR: ['Vanessa Stelzenmüller', 'Marta Coll', 'Antonios D. Mazaris', 'Sylvaine Giakoumi', 'Stelios Katsanevakis', 'Michelle Ε. Portman', 'Renate Degen', 'Peter Mackelworth', 'Antje Gimpel', 'Paolo G. Albano', 'Vasiliki Almpanidou', 'Joachim Claudet', 'Franz Essl', 'Athanasios Evagelopoulos', 'Johanna J. Heymans', 'Tilen Genov', 'Salit Kark', 'Fiorenza Micheli', 'María Grazia Pennino', 'Gil Rilov', 'B. Rumes', 'Jeroen Steenbeek', 'Henn Ojaveer']
+ABSTRACT:
+Marine ecosystems are increasingly threatened by the cumulative effects of multiple human pressures. Cumulative effect assessments (CEAs) are needed to inform environmental policy and guide ecosystem-based management. Yet, CEAs are inherently complex and seldom linked to real-world management processes. Therefore we propose entrenching CEAs in a risk management process, comprising the steps of risk identification, risk analysis and risk evaluation. We provide guidance to operationalize a risk-based approach to CEAs by describing for each step guiding principles and desired outcomes, scientific challenges and practical solutions. We reviewed the treatment of uncertainty in CEAs and the contribution of different tools and data sources to the implementation of a risk based approach to CEAs. We show that a risk-based approach to CEAs decreases complexity, allows for the transparent treatment of uncertainty and streamlines the uptake of scientific outcomes into the science-policy interface. Hence, its adoption can help bridging the gap between science and decision-making in ecosystem-based management.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 139
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Operationalization', 'Risk management', 'Risk assessment', 'Identification (biology)', 'Risk analysis (engineering)', 'Computer science', 'Environmental resource management', 'Process (computing)', 'Bridging (networking)', 'Cumulative effects', 'Business', 'Environmental science', 'Ecology', 'Computer network', 'Philosophy', 'Computer security', 'Epistemology', 'Finance', 'Biology', 'Operating system']

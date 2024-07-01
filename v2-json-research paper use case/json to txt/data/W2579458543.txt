@@ -1,0 +1,12 @@
+ID: W2579458543
+TITLE: DNA adducts in marine fish as biological marker of genotoxicity in environmental monitoring: The way forward
+AUTHOR: ['Daniela M. Pampanin', 'Steven J. Brooks', 'Bjørn Einar Grøsvik', 'Jérémie Le Goff', 'Sonnich Meier', 'Magne O. Sydnes']
+ABSTRACT:
+DNA adducts in fish represent a very important genotoxicity endpoint in environmental monitoring, being a pre-mutagenic lesion that plays an essential role in the initiation of carcinogenesis. The analysis of DNA adducts is a challenging task due to the low concentration of the analyte. Methods are available to determine the presence of DNA adducts, although further knowledge is required to fully understand the nature of the adducts and responsible xenobiotics (i.e. position of adduct in DNA, most active xenobiotic and metabolite forms, structural information). At present, 32P-postlabeling is the most used method that has the required sensitivity for DNA adduct analyses in both human health and environmental monitoring. Development of new mass spectrometry based methods for identifying DNA adducts in complex matrixes is now considered as a necessary mission in toxicology in order to gain the necessary information regarding adduct formation and facilitate tracking sources of contamination. Mass spectrometry therefore represents the future of DNA adduct detection, bringing along a series of challenges that the scientific community is facing at present.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['DNA adduct', 'Genotoxicity', 'DNA', 'Adduct', 'Xenobiotic', 'Chemistry', 'DNA damage', 'Computational biology', 'Carcinogenesis', 'Analyte', 'Environmental chemistry', 'Biology', 'Biochemistry', 'Gene', 'Chromatography', 'Toxicity', 'Organic chemistry', 'Enzyme']

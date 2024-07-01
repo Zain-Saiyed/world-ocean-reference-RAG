@@ -1,0 +1,12 @@
+ID: W2809418529
+TITLE: Marine microplastic debris: An emerging issue for food security, food safety and human health
+AUTHOR: ['Luís Gabriel Antão Barboza', 'A.D. Vethaak', 'Beatriz R.B.O. Lavorante', 'Anne Katrine Lundebye', 'Lúcia Guilhermino']
+ABSTRACT:
+Recent studies have demonstrated the negative impacts of microplastics on wildlife. Therefore, the presence of microplastics in marine species for human consumption and the high intake of seafood (fish and shellfish) in some countries cause concern about the potential effects of microplastics on human health. In this brief review, the evidence of seafood contamination by microplastics is reviewed, and the potential consequences of the presence of microplastics in the marine environment for human food security, food safety and health are discussed. Furthermore, challenges and gaps in knowledge are identified. The knowledge on the adverse effects on human health due to the consumption of marine organisms containing microplastics is very limited, difficult to assess and still controversial. Thus, assessment of the risk posed to humans is challenging. Research is urgently needed, especially regarding the potential exposure and associated health risk to micro- and nano-sized plastics.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 971
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microplastics', 'Human health', 'Food safety', 'Wildlife', 'Environmental health', 'Shellfish', 'Fishery', 'Environmental science', 'Fish <Actinopterygii>', 'Biology', 'Ecology', 'Aquatic animal', 'Medicine', 'Food science']

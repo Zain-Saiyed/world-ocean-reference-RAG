@@ -1,0 +1,12 @@
+ID: W2539726225
+TITLE: Fisheries enhancement and restoration in a changing world
+AUTHOR: ['Matthew D. Taylor', 'Rowan C. Chick', 'Kai Lorenzen', 'Ann‐Lisbeth Agnalt', 'Kenneth M. Leber', 'H. Lee Blankenship', 'Geraldine Haegen', 'N.R. Loneragan']
+ABSTRACT:
+Fisheries enhancement is an important strategy for maintaining and improving fisheries productivity, and addressing some of the other contemporary challenges facing marine ecosystems. Aquaculture-based enhancement includes stock enhancement, restocking, and sea ranching. Developments in aquaculture techniques, tagging, genetics, modelling and ecology have underpinned growth in this field in the 21st century, particularly in the context of marine recreational fisheries. Marine enhancement practice has now matured to the point that quantitative tools are frequently applied before any fish or shellfish are released into the natural environment, and pilot-scale enhancement scenarios and release strategies are evaluated before full implementation. Social and economic studies are also increasingly important components of this assessment. Here, several case studies from diverse geographic areas exemplify the union of aquaculture technology, quantitative modelling, social science, physiology and ecology to estimate enhancement potential, improve enhancement strategies, assess enhancement outcomes, and support adaptive management. Integrating aquaculture-based enhancement with habitat enhancement presents a remarkable opportunity for future research and development, and offers the potential to further increase the opportunities and associated socio-economic benefits that are available to a broad range of fisheries stakeholders.
+
+SOURCE: Fisheries research
+PDF URL: None
+CITED BY COUNT: 108
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Aquaculture', 'Fishery', 'Marine spatial planning', 'Fisheries science', 'Fisheries management', 'Context (archaeology)', 'Environmental resource management', 'Productivity', 'Recreation', 'Adaptive management', 'Recreational fishing', 'Marine ecosystem', 'Marine habitats', 'Ecosystem-based management', 'Business', 'Environmental planning', 'Ecosystem', 'Habitat', 'Geography', 'Fishing', 'Ecology', 'Environmental science', 'Fish <Actinopterygii>', 'Biology', 'Economics', 'Macroeconomics', 'Archaeology']

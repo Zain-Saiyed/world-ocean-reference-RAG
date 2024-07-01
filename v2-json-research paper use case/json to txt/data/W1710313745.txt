@@ -1,0 +1,12 @@
+ID: W1710313745
+TITLE: The Global Occurrence of Natural Gas Hydrate
+AUTHOR: ['Keith A. Kvenvolden', 'Thomas D. Lorenson']
+ABSTRACT:
+Natural gas hydrate occurs worldwide in oceanic sediment of continental and insular slopes and rises of active and passive margins, in deep-water sediment of inland lakes and seas, and in polar sediment on both continents and continental shelves. In aquatic sediment, where water depths exceed about 300 m and bottom water temperatures approach 0° C, gas hydrate is found at the seafloor to sediment depths of about 1,100 m. In polar continental regions, gas hydrate can be present in sediment at depths between about 150 and 2000 m. Thus, natural gas hydrate is restricted to the shallow geosphere where its presence affects the physical and chemical properties of near-surface sediment. An updated global inventory reports on natural gas hydrate recovered from 19 places worldwide and includes 77 places where the presence of gas hydrate has been inferred from geophysical, geochemical, and geological evidence. The potential amount of methane in natural gas hydrate is enormous, with current estimates converging around about 10 teratonnes (10 19 g) of methane carbon.
+
+SOURCE: Geophysical monograph
+PDF URL: None
+CITED BY COUNT: 241
+PUBLICATION YEAR: 2013
+TYPE: book-chapter
+CONCEPTS: ['Natural gas', 'Clathrate hydrate', 'Hydrate', 'Geology', 'Environmental science', 'Oceanography', 'Chemistry', 'Waste management', 'Engineering', 'Organic chemistry']

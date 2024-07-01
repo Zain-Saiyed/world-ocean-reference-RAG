@@ -1,0 +1,12 @@
+ID: W2000946245
+TITLE: Present and future global distributions of the marine Cyanobacteria <i>Prochlorococcus</i> and <i>Synechococcus</i>
+AUTHOR: ['Pedro Flombaum', 'José L. Gallegos', 'Rodolfo A. Gordillo', 'José Rincón', 'Lina L. Zabala', 'Nianzhi Jiao', 'David M. Karl', 'William K. W. Li', 'Michael W. Lomas', 'Daniele Veneziano', 'Carolina Vera', 'Jasper A. Vrugt', 'Adam C. Martiny']
+ABSTRACT:
+The Cyanobacteria Prochlorococcus and Synechococcus account for a substantial fraction of marine primary production. Here, we present quantitative niche models for these lineages that assess present and future global abundances and distributions. These niche models are the result of neural network, nonparametric, and parametric analyses, and they rely on &gt;35,000 discrete observations from all major ocean regions. The models assess cell abundance based on temperature and photosynthetically active radiation, but the individual responses to these environmental variables differ for each lineage. The models estimate global biogeographic patterns and seasonal variability of cell abundance, with maxima in the warm oligotrophic gyres of the Indian and the western Pacific Oceans and minima at higher latitudes. The annual mean global abundances of Prochlorococcus and Synechococcus are 2.9 ± 0.1 × 10 27 and 7.0 ± 0.3 × 10 26 cells, respectively. Using projections of sea surface temperature as a result of increased concentration of greenhouse gases at the end of the 21st century, our niche models projected increases in cell numbers of 29% and 14% for Prochlorococcus and Synechococcus , respectively. The changes are geographically uneven but include an increase in area. Thus, our global niche models suggest that oceanic microbial communities will experience complex changes as a result of projected future climate conditions. Because of the high abundances and contributions to primary production of Prochlorococcus and Synechococcus , these changes may have large impacts on ocean ecosystems and biogeochemical cycles.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/110/24/9824.full.pdf
+CITED BY COUNT: 1082
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Prochlorococcus', 'Synechococcus', 'Cyanobacteria', 'Biogeochemical cycle', 'Niche', 'Abundance (ecology)', 'Ecology', 'Biology', 'Ocean gyre', 'Environmental science', 'Ecosystem', 'Phytoplankton', 'Oceanography', 'Atmospheric sciences', 'Subtropics', 'Nutrient', 'Geology', 'Genetics', 'Bacteria']

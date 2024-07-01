@@ -1,0 +1,12 @@
+ID: W2181408066
+TITLE: Shoreline changes in a rising sea level context: The example of Grande Glorieuse, Scattered Islands, Western Indian Ocean
+AUTHOR: ['Laurent Testut', 'Virginie Duvat', 'Valérie Ballu', 'Rui Fernandes', 'Frédéric Pouget', 'Camille Salmon', 'J. Dyment']
+ABSTRACT:
+This paper provides baseline data on absolute and relative sea level variations and shoreline changes in the Scattered Islands region of the Indian Ocean, based on aerial image analysis, satellite altimetry and field observations and in situ measurements from the 2009 and 2011 TAAF scientific expeditions. The analysis shows the importance of regular observations and monitoring of these islands to better understand reef island responses to climate stressors. We show that Grande Glorieuse Island has increased in area by 7.5 ha between 1989 and 2003, predominantly as a result of shoreline accretion: accretion occurred over 47% of shoreline length, whereas 26% was stable and 28% was eroded. Topographic transects and field observations show that the accretion is due to sediment transfer from the reef outer slopes to the reef flat and then to the beach. This accretion occurred in a context of sea level rise: sea level has risen by about 6 cm in the last twenty years and the island height is probably stable or very slowly subsiding. This island expansion during a period of rising sea level demonstrates that sea level rise is not the primary factor controlling the shoreline changes. This paper highlights the key role of non-climate factors in changes in island area, especially sediment availability and transport. We also evidence rotation of the island, underscoring the highly dynamic nature of reef islands.
+
+SOURCE: Acta oecologica
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Shore', 'Accretion (finance)', 'Oceanography', 'Geology', 'Reef', 'Transect', 'Context (archaeology)', 'Sea level', 'Climate change', 'Physical geography', 'Geography', 'Paleontology', 'Physics', 'Astrophysics']

@@ -1,0 +1,12 @@
+ID: W2254804242
+TITLE: Enhanced Southern Ocean marine productivity due to fertilization by giant icebergs
+AUTHOR: ['Luis P. A. M. Duprat', 'Grant R. Bigg', 'David J. Wilton']
+ABSTRACT:
+Nutrient input from icebergs can fertilize productivity in the ocean. Ten years of satellite measurements reveal that giant icebergs could be responsible for up to 20% of carbon export to depth in the Southern Ocean. Primary productivity is enhanced within a few kilometres of icebergs in the Weddell Sea1,2 owing to the input of terrigeneous nutrients and trace elements during iceberg melting. However, the influence of giant icebergs, over 18 km in length, on marine primary production in the Southern Ocean is less well studied1,3. Here we present an analysis of 175 satellite images of open ocean colour before and after the passage of 17 giant icebergs between 2003 and 2013. We detect substantially enhanced chlorophyll levels, typically over a radius of at least 4–10 times the iceberg’s length, that can persist for more than a month following passage of a giant iceberg. This area of influence is more than an order of magnitude larger than that found for sub-kilometre scale icebergs2 or in ship-based surveys of giant icebergs1. Assuming that carbon export increases by a factor of 5–10 over the area of influence, we estimate that up to a fifth of the Southern Ocean’s downward carbon flux originates with giant iceberg fertilization. We suggest that, if giant iceberg calving increases this century as expected4, this negative feedback on the carbon cycle may become more important.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 127
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Iceberg', 'Oceanography', 'Productivity', 'Geology', 'Satellite', 'Iron fertilization', 'Environmental science', 'Sea ice', 'Phytoplankton', 'Nutrient', 'Ecology', 'Physics', 'Biology', 'Economics', 'Macroeconomics', 'Astronomy']

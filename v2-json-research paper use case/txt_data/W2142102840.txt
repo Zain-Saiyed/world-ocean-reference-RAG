@@ -1,0 +1,12 @@
+ID: W2142102840
+TITLE: Links between surface productivity and deep ocean particle flux at the Porcupine Abyssal Plain sustained observatory
+AUTHOR: ['Helene Frigstad', 'Stephanie Henson', 'Susan E. Hartman', 'Abdirahman M Omar', 'Emil Jeansson', 'Harriet Cole', 'Corinne Pebody', 'Richard S. Lampitt']
+ABSTRACT:
+Abstract. In this study we present hydrography, biogeochemistry and sediment trap observations between 2003 and 2012 at Porcupine Abyssal Plain (PAP) sustained observatory in the Northeast Atlantic. The time series is valuable as it allows for investigation of the link between surface productivity and deep ocean carbon flux. The region is a perennial sink for CO2, with an average uptake of around 1.5 mmol m−2 day−1. The average monthly drawdowns of inorganic carbon and nitrogen were used to quantify the net community production (NCP) and new production. Seasonal NCP and new production were found to be 4.57 ± 0.85 mol C m−2 and 0.37 ± 0.14 mol N m−2, respectively. The C : N ratio was high (12) compared to the Redfield ratio (6.6), and the production calculated from carbon was higher than production calculated from nitrogen, which is indicative of carbon overconsumption. The export ratio and transfer efficiency were 16 and 4 %, respectively, and the site thereby showed high flux attenuation. Particle tracking was used to examine the source region of material in the sediment trap, and there was large variation in source regions, both between and within years. There were higher correlations between surface productivity and export flux when using the particle-tracking approach, than by comparing with the mean productivity in a 100 km box around the PAP site. However, the differences in correlation coefficients were not significant, and a longer time series is needed to draw conclusions on applying particle tracking in sediment trap analyses.
+
+SOURCE: Biogeosciences
+PDF URL: https://www.biogeosciences.net/12/5885/2015/bg-12-5885-2015.pdf
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Environmental science', 'Sediment trap', 'Redfield ratio', 'Flux (metallurgy)', 'New production', 'Productivity', 'Oceanography', 'Atmospheric sciences', 'Geology', 'Water column', 'Phytoplankton', 'Chemistry', 'Nutrient', 'Organic chemistry', 'Economics', 'Macroeconomics']

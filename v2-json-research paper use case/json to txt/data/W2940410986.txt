@@ -1,0 +1,12 @@
+ID: W2940410986
+TITLE: Eutrophication overrides warming as a stressor for a temperate African seagrass (Zostera capensis)
+AUTHOR: ['Esther F. Mvungi', 'Deena Pillay']
+ABSTRACT:
+Despite knowledge that seagrass meadows are threatened by multiple global change stressors, significant gaps exist in current knowledge. In particular, little is known about the interactive effects of warming and eutrophication on seagrasses globally, or about responses of African seagrasses to global change, despite these ecosystem engineers providing critical goods and services to local livelihoods. Here, we report on laboratory experiment assessing the main and joint effects of warming and nutrient enrichment on Cape eelgrass (Zostera capensis) from the West coast of South Africa, in which morphological attributes, photosynthetic efficiency and elemental content were assessed. Results indicate that shoot density, leaf length, aboveground biomass and effective quantum yield were negatively impacted by both warming and nutrient enrichment. Growth rate, leaf density and leaf width decreased with increasing nutrient levels but not temperature. In addition, epiphytic fouling on seagrass leaves were enhanced by both warming and nutrient enrichment but with warming eliciting a greater response. Collectively, our findings indicate a stronger effect of enrichment on Z. capensis performance relative to warming, suggesting that the upper levels of coastal eutrophication upon which our experiment was based is likely a stronger stressor than warming. Our findings also highlight limited interaction between warming and nutrient enrichment on Z. capensis performance, suggesting that effects of these stressors are likely to be propagated individually and not interactively. Our findings raise awareness of susceptibility of Z. capensis to eutrophication and the need to manage nutrient inputs into coastal ecosystems to preserve meadows of this seagrass and the critical ecosystem functions they provide.
+
+SOURCE: PloS one
+PDF URL: None
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Seagrass', 'Zostera marina', 'Eutrophication', 'Ecosystem', 'Effects of global warming on oceans', 'Global warming', 'Biomass (ecology)', 'Ecology', 'Environmental science', 'Nutrient', 'Biology', 'Climate change', 'Temperate climate']

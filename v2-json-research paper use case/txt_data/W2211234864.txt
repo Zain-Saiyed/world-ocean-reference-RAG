@@ -1,0 +1,12 @@
+ID: W2211234864
+TITLE: Decadal stability of Red Sea mangroves
+AUTHOR: ['Hanan Almahasheer', 'Abdulaziz Aljowair', 'Carlos M. Duarte', 'Xabier Irigoien']
+ABSTRACT:
+Across the Earth, mangroves play an important role in coastal protection, both as nurseries and carbon sinks. However, due to various human and environmental impacts, the coverage of mangroves is declining on a global scale. The Red Sea is in the northern-most area of the distribution range of mangroves. Little is known about the surface covered by mangroves at this northern limit or about the changes experienced by Red Sea mangroves. We sought to study changes in the coverage of Red Sea mangroves by using multi-temporal Landsat data (1972, 2000 and 2013). Interestingly, our results show that there has been no decline in mangrove stands in the Red Sea but rather a slight increase. The area covered by mangroves is about 69 Km2 along the African shore and 51 Km2 along the Arabian Peninsula shore. From 1972 to 2013, the area covered by mangroves increased by about 0.29% y−1. We conclude that the trend exhibited by Red Sea mangroves departs from the general global decline of mangroves. Along the Red Sea, mangroves expanded by 12% over the 41 years from 1972 to 2013. Losses to Red Sea mangroves, mostly due to coastal development, have been compensated by afforestation projects.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 70
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Mangrove', 'Shore', 'Afforestation', 'Peninsula', 'Geography', 'Avicennia marina', 'Environmental science', 'Ecology', 'Oceanography', 'Forestry', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2621244269
+TITLE: Impacts of El Niño events on the Peruvian upwelling system productivity
+AUTHOR: ['Dante Espinoza-Morriberón', 'Vincent Echevín', 'François Colas', 'Jorge Tam', 'Jesús Ledesma', 'Luís Vásquez', 'Michelle Graco']
+ABSTRACT:
+Abstract Every 2–7 years, El Niño events trigger a strong decrease in phytoplankton productivity off Peru, which profoundly alters the environmental landscape and trophic chain of the marine ecosystem. Here we use a regional coupled physical‐biogeochemical model to study the dynamical processes involved in the productivity changes during El Nino, with a focus on the strongest events of the 1958–2008 period. Model evaluation using satellite and in situ observations shows that the model reproduces the surface and subsurface interannual physical and biogeochemical variability. During El Niño, the thermocline and nutricline deepen significantly during the passage of coastal‐trapped waves. While the upwelling‐favorable wind increases, the coastal upwelling is compensated by a shoreward geostrophic near‐surface current. The depth of upwelling source waters remains unchanged during El Niño but their nutrient content decreases dramatically, which, along with a mixed layer depth increase, impacts the phytoplankton growth. Offshore of the coastal zone, enhanced eddy‐induced subduction during El Niño plays a potentially important role in nutrient loss.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: None
+CITED BY COUNT: 62
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Upwelling', 'Oceanography', 'Biogeochemical cycle', 'Phytoplankton', 'Thermocline', 'Productivity', 'Environmental science', 'Trophic level', 'Ecosystem', 'Mixed layer', 'Marine ecosystem', 'La Niña', 'New production', 'Biogeochemistry', 'Submarine pipeline', 'Nutrient', 'Geology', 'Climatology', 'Ecology', 'Environmental chemistry', 'Chemistry', 'Biology', 'Paleontology', 'Macroeconomics', 'Economics', 'El Niño Southern Oscillation']

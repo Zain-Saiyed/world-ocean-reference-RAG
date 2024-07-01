@@ -1,0 +1,12 @@
+ID: W2090382566
+TITLE: Detection of emerging contaminants (UV filters, UV stabilizers and musks) in marine mussels from Portuguese coast by QuEChERS extraction and GC–MS/MS
+AUTHOR: ['M. Groz', 'María Jesús Martínez Bueno', 'David Rosain', 'Hélène Fenet', 'Claude Casellas', 'Catarina Pereira', 'Vera L. Maria', 'Maria João Bebianno', 'Elena Góméz']
+ABSTRACT:
+The UV filters and musk fragrances have come into focus because these compounds are contained and increasingly used not only in sunscreen products but also in many products of daily use, such as cosmetics, skin creams, plastics or varnish. In view of this, the main objective of the present work was to develop and validate a method for the determination of three UV filters, two UV stabilizers and four musks in mussel samples (Mytilus galloprovincialis). The procedure combined a QuEChERS (Quick, Easy, Cheap, Effective, Rugged, and Safe) extraction method with an analysis by gas chromatography–tandem mass spectrometry (GC–MS/MS). The methodology allowed the determination of target analytes at trace concentration levels (ng/g), with mean recoveries ranging from 91 to 112%. A monitoring study was conducted in four beaches in the Portuguese coast which are impacted by recreational activities and outflow of treated waste water effluents in rivers. The results are used to assess the occurrence of UV filters in comparison with UV stabilizers and musk fragrances which indicate other activities than bathing.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 126
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Quechers', 'Mytilus', 'UV filter', 'Environmental chemistry', 'Chemistry', 'Gas chromatography–mass spectrometry', 'Extraction (chemistry)', 'Chromatography', 'Contamination', 'Cosmetics', 'Environmental science', 'Mass spectrometry', 'Fishery', 'Pesticide', 'Biology', 'Ecology', 'Pesticide residue', 'Physics', 'Organic chemistry', 'Optics']

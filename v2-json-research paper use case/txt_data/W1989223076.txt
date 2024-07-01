@@ -1,0 +1,12 @@
+ID: W1989223076
+TITLE: Why behavioural responses may not reflect the population consequences of human disturbance
+AUTHOR: ['Jennifer A. Gill', 'Ken Norris', 'William J. Sutherland']
+ABSTRACT:
+The effect of human disturbance on animals is frequently measured in terms of changes in behaviour in response to human presence. The magnitude of these changes in behaviour is then often used as a measure of the relative susceptibility of species to disturbance; for example species which show strong avoidance of human presence are often considered to be in greater need of protection from disturbance than those which do not. In this paper we discuss whether such changes in behaviour are likely to be good measures of the relative susceptibility of species, and suggest that their use may result in confusion when determining conservation priorities.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 583
+PUBLICATION YEAR: 2001
+TYPE: article
+CONCEPTS: ['Disturbance (geology)', 'Confusion', 'Population', 'Ecology', 'Biology', 'Psychology', 'Medicine', 'Environmental health', 'Paleontology', 'Psychoanalysis']

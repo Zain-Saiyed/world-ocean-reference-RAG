@@ -1,0 +1,12 @@
+ID: W2625357100
+TITLE: Climate change and temperature‐linked hatchling mortality at a globally important sea turtle nesting site
+AUTHOR: ['Jacques‐Olivier Laloë', 'Jacquie Cozens', 'Berta Renom', 'Albert Taxonera', 'Graeme C. Hays']
+ABSTRACT:
+Abstract The study of temperature‐dependent sex determination ( TSD ) in vertebrates has attracted major scientific interest. Recently, concerns for species with TSD in a warming world have increased because imbalanced sex ratios could potentially threaten population viability. In contrast, relatively little attention has been given to the direct effects of increased temperatures on successful embryonic development. Using 6603 days of sand temperature data recorded across 6 years at a globally important loggerhead sea turtle rookery—the Cape Verde Islands—we show the effects of warming incubation temperatures on the survival of hatchlings in nests. Incorporating published data ( n = 110 data points for three species across 12 sites globally), we show the generality of relationships between hatchling mortality and incubation temperature and hence the broad applicability of our findings to sea turtles in general. We use a mechanistic approach supplemented by empirical data to consider the linked effects of warming temperatures on hatchling output and on sex ratios for these species that exhibit TSD . Our results show that higher temperatures increase the natural growth rate of the population as more females are produced. As a result, we project that numbers of nests at this globally important site will increase by approximately 30% by the year 2100. However, as incubation temperatures near lethal levels, the natural growth rate of the population decreases and the long‐term survival of this turtle population is threatened. Our results highlight concerns for species with TSD in a warming world and underline the need for research to extend from a focus on temperature‐dependent sex determination to a focus on temperature‐linked hatchling mortalities.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 88
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Hatchling', 'Global warming', 'Population', 'Sea turtle', 'Nest (protein structural motif)', 'Rookery', 'Turtle (robot)', 'Ecology', 'Biology', 'Climate change', 'Threatened species', 'Effects of global warming on oceans', 'Habitat', 'Demography', 'Hatching', 'Biochemistry', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2017061951
+TITLE: Distribution of Spartina spp. along China's coast
+AUTHOR: ['Ping Zuo', 'Shuming Zhao', 'Changan Liu', 'Chunhong Wang', 'Yanliang Liang']
+ABSTRACT:
+This study investigated changes in the population distribution pattern of Spartina spp. along China's coast over a period of more than 30 years. Remote sensing, in conjunction with geographical information systems (GIS), global positioning systems (GPS), and on-site investigations were used to map salt marsh vegetation along the entire coast. Species recognitions were checked subsequently using in situ field surveys of selected areas. Results showed that the distribution of Spartina anglica has been greatly degraded from 33,333 ha in 1981 to only 16 ha in 2007. By contrast, Spartina alterniflora had spread widely from being absent in 1981 to an area of 34,451 ha by 2007 from Liaoning Province to Guangxi Province. Nearly 94% area of the area covered by S. alterniflora is distributed in Jiangsu, Shanghai, Zhejiang, and Fujian Provinces, representing the most highly concentrated areas in China. Knowing the current expanse of this species, including its quantity and spatial patterns, is useful for predicting the future proliferation of S. alterniflora. Coastal ecosystem health of the China coast can thus be better assessed.
+
+SOURCE: Ecological engineering
+PDF URL: None
+CITED BY COUNT: 150
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Spartina alterniflora', 'Salt marsh', 'Geography', 'Spartina', 'China', 'Marsh', 'Environmental science', 'Distribution (mathematics)', 'Vegetation (pathology)', 'Ecosystem', 'Population', 'Spatial distribution', 'Wetland', 'Physical geography', 'Ecology', 'Remote sensing', 'Biology', 'Mathematical analysis', 'Mathematics', 'Archaeology', 'Medicine', 'Demography', 'Pathology', 'Sociology']

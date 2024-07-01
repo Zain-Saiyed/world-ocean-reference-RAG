@@ -1,0 +1,12 @@
+ID: W2762957894
+TITLE: Trace elements and arsenic speciation in tissues of tube dwelling polychaetes from hydrothermal vent ecosystems (East Pacific Rise): An ecological role as antipredatory strategy?
+AUTHOR: ['Marta Di Carlo', 'Donato Giovannelli', 'Daniele Fattorini', 'Nadine Le Bris', 'Costantino Vetriani', 'Francesco Regoli']
+ABSTRACT:
+Hydrothermal vent systems are inhabited by dense benthic communities adapted to extreme conditions such as high temperature, hydrogen sulphide (H2S) and elevated fluxes of metals. In the present work, a wide range of trace elements (Ag, Al, As, Ba, Cd, Co, Cr, Cu, Fe, Hg, Mn, Ni, Pb, Sb, Se, V and Zn) were measured in tissues of three tube dwelling annelids, Alvinella pompejana, Alvinella caudata and Riftia pachyptila, which colonize distinct habitats of the East Pacific Rise (EPR) at 2500 m depth. Metals concentrations in alvinellids were often 2–4 orders of magnitude higher than those commonly found in marine organisms, while much lower values were observed in the vestimentiferan polychaete. Mobility of trace elements was further characterized in tissues of A. pompejana where metals appeared mostly in insoluble forms, i.e. associated with hydrated oxides and sulphides. Arsenic was mainly present in a weakly insoluble form and with concentrations in the branchial tentacles of alvinellids, approximately 5–15 fold higher than those measured in the thorax. Chemical speciation of this element in tissues of the three polychaete species revealed a major contribution of methylated arsenic compounds, like dimethylarsinate (DMA) and, to a lower extent, monomethylarsonate (MMA) and trimethylarsine oxide (TMAO). Although the biotransformation of inorganic arsenic might represent a detoxification mechanism in polychaetes from hydrothermal vents, the elevated levels of methylated forms of arsenic in branchial tissues also suggest an ecological role of this element as an antipredatory strategy for more vulnerable tissues toward generalist consumers.
+
+SOURCE: Marine environmental research
+PDF URL: http://manuscript.elsevier.com/S0141113617302659/pdf/S0141113617302659.pdf
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Polychaete', 'Hydrothermal vent', 'Biology', 'Benthic zone', 'Trace element', 'Environmental chemistry', 'Arsenic', 'Genetic algorithm', 'Ecology', 'Extreme environment', 'Water column', 'Hydrothermal circulation', 'Chemistry', 'Geochemistry', 'Geology', 'Paleontology', 'Organic chemistry', 'Bacteria']

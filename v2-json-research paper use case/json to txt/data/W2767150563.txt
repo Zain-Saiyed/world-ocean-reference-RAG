@@ -1,0 +1,12 @@
+ID: W2767150563
+TITLE: State of the art of produced water treatment
+AUTHOR: ['Soledad Ballesteros Jiménez', 'María M. Micó', 'Marina Arnaldos', 'Françesc Medina', 'Sandra Contreras']
+ABSTRACT:
+Produced water (PW) is the wastewater generated when water from underground reservoirs is brought to the surface during oil or gas extraction. PW is generated in large amounts and has a complex composition, containing various toxic organic and inorganic compounds. PW is currently treated in conventional trains that include phase separators, decanters, cyclones and coarse filters in order to comply with existing regulation for discharge. These treatment trains do not achieve more restrictive limitations related to the reuse of the effluent (reinjection into extraction wells) or other beneficial uses (e.g., irrigation). Therefore, and to prevent environmental pollution, further polishing processes need to be carried out. Characterization of the PW to determine major constituents is the first step to select the optimum treatment for PW, coupled with environmental factors, economic considerations, and local regulatory framework. This review tries to provide an overview of different treatments that are being applied to polish this type of effluents. These technologies include membranes, physical, biological, thermal or chemical treatments, where special emphasis has been made on advanced oxidation processes due to the advantages offered by these processes. Commercial treatments, based on the combination, modification and improvement of simpler treatments, were also discussed.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 410
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Reuse', 'Effluent', 'Environmental science', 'Water treatment', 'Waste management', 'Pollution', 'Extraction (chemistry)', 'Sewage treatment', 'Wastewater', 'Environmental engineering', 'Process engineering', 'Chemistry', 'Engineering', 'Ecology', 'Chromatography', 'Biology']

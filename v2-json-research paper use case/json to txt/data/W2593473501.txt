@@ -1,0 +1,12 @@
+ID: W2593473501
+TITLE: The impact of experimental impact pile driving on oxygen uptake in black seabream and plaice
+AUTHOR: ['Rick Bruintjes', 'Stephen D. Simpson', 'Harry R. Harding', 'Tom Bunce', 'T. Benson', 'Kate Rossington', 'D I E Jones']
+ABSTRACT:
+Anthropogenic noise is a recognized global pollutant that could potentially impact many organisms, including fishes. One of the acoustic sources producing high impulsive noise and vibration is pile driving. However, the potential impacts of real pile driving on fish species has received little attention, mainly due to the logistical challenges involved. Here, we investigated the impact of pile driving on the oxygen uptake (a secondary stress response) of black seabream Spondyliosoma cantharus and European plaice Pleuronectes platessa using an experimental pile driver setup in a flooded ship-building dock. Each individual fish was tested in ambient and pile driving conditions using a counterbalanced paired design to control for potential order effects. During pile driving, black seabream increased oxygen uptake compared to the ambient control condition suggesting higher stress levels. Plaice did not show differences in oxygen consumption between the pile driving and ambient treatment. These results show the impact of pile driving on secondary stress responses in fish, highlight species-specific differences concerning acoustical impacts, and showcase the possibility of carrying out large-scale semi-field acoustic experiments.
+
+SOURCE: Proceedings of meetings on acoustics
+PDF URL: https://asa.scitation.org/doi/pdf/10.1121/2.0000422
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Pleuronectes', 'Pile', 'Environmental science', 'Fishery', 'Fish <Actinopterygii>', 'Geotechnical engineering', 'Engineering', 'Biology']

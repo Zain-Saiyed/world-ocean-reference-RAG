@@ -1,0 +1,12 @@
+ID: W2150687273
+TITLE: The Study of Species in the Era of Biodiversity: A Tale of Stupidity
+AUTHOR: ['Ferdinando Boero']
+ABSTRACT:
+Research policies ensuing from the Convention on Biological Diversity made huge funds available to study biodiversity. These were mostly dedicated to projects aimed at providing services to taxonomy via information and technology, or to develop "modern", i.e., molecular, approaches to taxonomy. Traditional taxonomy was overly neglected and is in serious distress all over the world. It is argued that both novel and traditional ways to study biodiversity are essential and that the demise of traditional taxonomy (based on phenotypes) in the era of biodiversity is the result of an unwise policy, mainly fostered by portions of the scientific community that aim at taking total advantage of the funds dedicated to the study of biodiversity.
+
+SOURCE: Diversity
+PDF URL: https://www.mdpi.com/1424-2818/2/1/115/pdf?version=1264153014
+CITED BY COUNT: 121
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Convention on Biological Diversity', 'Biodiversity', 'Taxonomy (biology)', 'Stupidity', 'Demise', 'Environmental resource management', 'Molecular taxonomy', 'Global biodiversity', 'Biology', 'Political science', 'Ecology', 'Computer science', 'Economics', 'Phylogenetics', 'Law', 'Artificial intelligence', 'Biochemistry', 'Gene']

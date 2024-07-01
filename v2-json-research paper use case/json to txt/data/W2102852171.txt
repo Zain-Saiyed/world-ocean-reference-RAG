@@ -1,0 +1,12 @@
+ID: W2102852171
+TITLE: A Compendium of Essential Concepts and Terminology in Invasion Ecology
+AUTHOR: ['David M. Richardson', 'Petr Pyšek', 'James T. Carlton']
+ABSTRACT:
+This chapter contains sections titled: Introduction The Way Ahead Overview of Concepts References
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 90
+PUBLICATION YEAR: 2010
+TYPE: other
+CONCEPTS: ['Compendium', 'Terminology', 'Ecology', 'Geography', 'Biology', 'Linguistics', 'Philosophy', 'Archaeology']

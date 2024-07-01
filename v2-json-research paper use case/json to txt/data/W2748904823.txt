@@ -1,0 +1,12 @@
+ID: W2748904823
+TITLE: Arctic marine conservation is not prepared for the coming melt
+AUTHOR: ['Peter T. Harris', 'Miles Macmillan-Lawler', 'Lars Kullerud', 'Jake Rice']
+ABSTRACT:
+Abstract As the summer minimum in Arctic sea ice cover reduces in area year by year due to anthropogenic global climate change, so interest grows in the un-tapped oil, gas and fisheries resources that were previously concealed beneath. We show that existing marine protected areas in the Arctic Ocean offer little or no protection to many habitats and deep seafloor features that coincide spatially with areas likely to be of interest to industry. These habitats are globally unique, hosting Arctic species within pristine environments that are currently undergoing rapid adjustment to climate-induced changes in ocean dynamics, species migration and primary production. They are invaluable as reference points for conservation monitoring and assessment. The existing Arctic marine protected area network needs to be expanded in order to protect these habitats and be fully coordinated with other spatial and non-spatial measures intended to protect Arctic habitats and ensure any uses of Arctic marine or subsea resources are sustainable.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/75/1/61/31237393/fsx153.pdf
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Arctic', 'Marine protected area', 'Marine conservation', 'Habitat', 'The arctic', 'Marine habitats', 'Environmental science', 'Climate change', 'Subsea', 'Oceanography', 'Arctic ice pack', 'Sea ice', 'Fishery', 'Geography', 'Environmental resource management', 'Ecology', 'Geology', 'Biology']

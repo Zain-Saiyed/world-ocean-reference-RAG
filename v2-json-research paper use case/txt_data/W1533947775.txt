@@ -1,0 +1,12 @@
+ID: W1533947775
+TITLE: Look Back at the U.S. Department of Energy's Aquatic Species Program: Biodiesel from Algae; Close-Out Report
+AUTHOR: ['John Sheehan', 'Terri G. Dünahay', 'John R. Benemann', 'Paul G. Roessler']
+ABSTRACT:
+The Aquatic Species Program was a relatively small research effort intended to look at the use of aquatic plants as sources of energy. Its history dates back to 1978, but much of the research from 1978 to 1982 focused on using algae to produce hydrogen. The program switched emphasis to other transportation fuels, particularly biodiesel, beginning in the early 1980's. This report summarizes the research activities carried out from 1980 to 1996, with an emphasis on algae for biodiesel production.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 1137
+PUBLICATION YEAR: 1998
+TYPE: report
+CONCEPTS: ['Biodiesel', 'Algae', 'Environmental science', 'Algae fuel', 'Aquatic ecosystem', 'Ecology', 'Biology', 'Biochemistry', 'Catalysis']

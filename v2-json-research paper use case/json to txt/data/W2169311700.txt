@@ -1,0 +1,12 @@
+ID: W2169311700
+TITLE: Submarine mass failures as tsunami sources: their climate control
+AUTHOR: ['D. R. Tappin']
+ABSTRACT:
+Recent research on submarine mass failures (SMFs) shows that they are a source of hazardous tsunamis, with the tsunami magnitude mainly dependent on water depth of failure, SMF volume and failure mechanism, cohesive slump or fragmental landslide. A major control on the mechanism of SMFs is the sediment type, together with its post-depositional alteration. The type of sediment, fine- or coarse-grained, its rate of deposition together with post-depositional processes may all be influenced by climate. Post-depositional processes, termed sediment ‘preconditioning’, are known to promote instability and failure. Climate may also control the triggering of SMFs, for example through earthquake loading or cyclic loading from storm waves or tides. Instantaneous triggering by other mechanisms such as fluid overpressuring and hydrate instability is controversial, but is here considered unlikely. However, these mechanisms are known to promote sediment instability. SMFs occur in numerous environments, including the open continental shelf, submarine canyon/fan systems, fjords, active river deltas and convergent margins. In all these environments there is a latitudinal variation in the scale of SMFs. The database is limited, but the greatest climate influence appears to be in high latitudes where glacial/interglacial cyclicity has considerable control on sedimentation, preconditioning and triggering. Consideration of the different types of SMFs in the context of their climate controls provides additional insight into their potential hazard in sourcing tsunamis. For example, in the Atlantic, where SMFs are common, the tsunami hazard under the present-day climate may not be as great as their common occurrence suggests.
+
+SOURCE: Philosophical transactions - Royal Society. Mathematical, Physical and engineering sciences/Philosophical transactions - Royal Society. Mathematical, physical and engineering sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2010.0079
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Geology', 'Mass wasting', 'Sedimentary depositional environment', 'Submarine landslide', 'Sediment', 'Context (archaeology)', 'Glacial period', 'Oceanography', 'Geomorphology', 'Landslide', 'Paleontology', 'Structural basin']

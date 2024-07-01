@@ -1,0 +1,12 @@
+ID: W2094176877
+TITLE: Thermal tolerances of sea turtle embryos: current understanding and future directions
+AUTHOR: ['Richard A. Howard', 'Ian P. Bell', 'David A. Pike']
+ABSTRACT:
+Developing sea turtle embryos only successfully hatch within a relatively narrow temperature range, rendering this immobile life stage vulnerable to the vagaries of climate change.To accurately predict the potential impact of climate change on sea turtle egg mortality, we need to fully understand the thermal tolerance of developing embryos.We reviewed the literature on this topic, and found that published studies interpret the primary literature and subsequent reviews very differently.Based on early literature reviews, the maximum thermal tolerance of sea turtle embryos is frequently cited as either 33 or 35°C.In many sea turtle populations, however, nest temperatures often exceed 35°C by up to several degrees (usually just prior to hatchling emergence) and eggs still hatch successfully.Mean incubation temperatures up to 35°C generally produce hatchlings, although leatherback and olive ridley turtle embryos may be less tolerant of high incubation temperatures than green and loggerhead turtle embryos.Sea turtle embryos are likely to be more sensitive to the duration of time spent at potentially stressful temperatures than to the temperature alone.To complicate matters, developing embryos may change their thermal tolerance as they grow.Overall, we are only beginning to understand how exposure to high temperatures experienced in the field influences embryonic development and hatchling production.This knowledge gap is hampering our ability to predict the impacts of climate change on sea turtle populations, and future work should focus on understanding how temperature and other climatic variables influence embryonic development and, thus, crucial population attributes such as hatchling production.
+
+SOURCE: Endangered species research
+PDF URL: https://www.int-res.com/articles/esr2015/26/n026p075.pdf
+CITED BY COUNT: 118
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Hatchling', 'Sea turtle', 'Turtle (robot)', 'Biology', 'Nest (protein structural motif)', 'Endangered species', 'Climate change', 'Ecology', 'Fishery', 'Zoology', 'Habitat', 'Hatching', 'Biochemistry']

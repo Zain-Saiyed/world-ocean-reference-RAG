@@ -1,0 +1,12 @@
+ID: W2098744986
+TITLE: AN ANTEMORTEM GUIDE FOR THE ASSESSMENT OF STRANDED AUSTRALIAN SEA SNAKES (<i>HYDROPHIINAE</i>)
+AUTHOR: ['Amber Gillett', 'Mark Flint', 'Paul C. Mills']
+ABSTRACT:
+Marine snakes of the subfamily Hydrophiinae are obligate ocean dwellers, unlike their amphibious counterparts, the sea kraits (Laticaudinae), and as such they are often referred to as ‘true' sea snakes. This specialization means that the presence of a true sea snake on a beach is atypical and likely indicates disease or injury. Traumatic injuries such as eye, jaw, and spinal lesions have been observed in stranded sea snakes and may present as acute injury or progress to chronic debilitation. Diseases, such as neoplasia, leukemia, and parasite overburden, have also been seen in wild sea snakes, and these animals may present similarly. Sick, moribund, or deceased sea snakes are intermittently found washed ashore along Australian beaches, and these specimens may prove valuable as bioindicators of marine health. This review is intended as a guide to the diagnostic investigation of sick or injured sea snakes by suitably qualified people.
+
+SOURCE: Journal of zoo and wildlife medicine
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Zoology', 'Biology', 'Oceanography', 'Geography', 'Geology']

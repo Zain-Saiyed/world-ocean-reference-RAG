@@ -1,0 +1,12 @@
+ID: W2969495635
+TITLE: The Ocean Decade Heritage Network: Integrating Cultural Heritage Within the UN Decade of Ocean Science 2021–2030
+AUTHOR: ['Athena Trakadas', 'Antony Firth', 'David Gregory', 'Dolores Elkin', 'Ulrike Guérin', 'Janice Henderson', 'Jun Kimura', 'Della A. Scott-Ireton', 'Yvonne Shashoua', 'Chris Underwood', 'Andrew Viduka']
+ABSTRACT:
+The Decade of Ocean Science for Sustainable Development 2021–2030 is a UN initiative that promotes a common framework for supporting stakeholders in studying and assessing the health of the world’s oceans. The initiative also presents a vital opportunity to improve the integration of archaeology within the marine sciences. With the First Global Planning Meeting of the Decade held in Copenhagen at the National Museum of Denmark in May 2019, steps are already being taken to make the best of this opportunity, and the resulting creation of an Ocean Decade Heritage Network is proposed as a way forward to continue to raise awareness in the cultural heritage community about the Decade and to facilitate information sharing regarding this endeavour.
+
+SOURCE: Journal of maritime archaeology
+PDF URL: https://link.springer.com/content/pdf/10.1007/s11457-019-09241-0.pdf
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Cultural heritage', 'Environmental resource management', 'Environmental planning', 'Political science', 'Geography', 'Archaeology', 'Environmental science']

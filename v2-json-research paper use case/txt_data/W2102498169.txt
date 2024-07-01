@@ -1,0 +1,12 @@
+ID: W2102498169
+TITLE: Land-based nutrient loading to LMEs: A global watershed perspective on magnitudes and sources
+AUTHOR: ['Rosalynn Y. Lee', 'Sybil P. Seitzinger', 'Emilio Mayorga']
+ABSTRACT:
+Coastal resource management initiatives in recent years have moved towards ecosystem approaches such as embodied by Large Marine Ecosystems (LMEs). In this study, land-based dissolved inorganic nitrogen (DIN) loading to LMEs was evaluated using a spatially-explicit river export model (Global NEWS 2) for the year 2000 conditions and for a current trends analysis for the year 2050. Watershed export was aggregated by LME to estimate total DIN load and attribution to diffuse and point sources including natural biological fixation, agricultural biological fixation, fertilizer, manure, atmospheric deposition and sewage. Biological fixation in natural landscapes was the primary source of DIN to many LMEs, but in most (73%) LMEs, over half of the total DIN load was related to anthropogenic sources. Most of the anthropogenic DIN load across LMEs was related to agricultural sources especially fertilizer and manure. Fertilizer was the primary source of DIN to LMEs in most of Europe and Asia, while manure was the primary source in most of Central and South America. Agricultural biological fixation, sewage and atmospheric deposition in general supported a minor fraction of the DIN exported to LMEs although each was a dominant source to a few LMEs. If current trends continue, DIN export to coastal systems by 2050 relative to 2000 is predicted to increase by approximately 40–45% from Africa, South America, South Asia and Oceania. Almost half of the total global increase in DIN is from South Asia. Relatively smaller increases are predicted for North America, with slight decreases in Australia and Europe.
+
+SOURCE: Environmental development
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Environmental science', 'Agriculture', 'Watershed', 'Manure', 'Ecosystem', 'Fertilizer', 'Environmental protection', 'Geography', 'Ecology', 'Biology', 'Machine learning', 'Computer science', 'Archaeology']

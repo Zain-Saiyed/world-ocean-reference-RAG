@@ -1,0 +1,12 @@
+ID: W2041773056
+TITLE: A decadal prediction of the quantity of plastic marine debris littered on beaches of the East Asian marginal seas
+AUTHOR: ['Shin’ichiro Kako', 'Atsuhiko Isobe', 'Tomoya Kataoka', 'Hirofumi Hinata']
+ABSTRACT:
+Large quantities of plastic litter are expected to wash ashore along the beaches of the East Asian marginal seas in the coming decade. Litter quantities were predicted using three techniques: a particle tracking model (PTM) used in conjunction with two-way PTM experiments designed to reveal litter sources, an inverse method used to compute litter outflows at each source, and a sequential monitoring system designed to monitor existing beach litter using webcams. Modeled year-to-year variation in litter quantities indicated that the amount of litter would continue to increase in the East Asian marginal seas if the level of outflow remains constant in the coming decade. The study confirms that about 3% of all East Asian beaches may potentially experience a 250-fold increase in the amount of plastic beach litter washed ashore in the next 10 years.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Marine debris', 'Litter', 'Debris', 'Environmental science', 'Plastic pollution', 'East Asia', 'Oceanography', 'Outflow', 'Fishery', 'Hydrology (agriculture)', 'Pollution', 'Ecology', 'Geography', 'Biology', 'Geology', 'Archaeology', 'Geotechnical engineering', 'China']

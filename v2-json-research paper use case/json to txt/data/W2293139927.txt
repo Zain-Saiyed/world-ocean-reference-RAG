@@ -1,0 +1,12 @@
+ID: W2293139927
+TITLE: The ecological impacts of marine debris: unraveling the demonstrated evidence from what is perceived
+AUTHOR: ['Chelsea M. Rochman', 'Mark A. Oakley Browne', 'A. J. Underwood', 'J.A. van Franeker', 'Richard C. Thompson', 'Linda Amaral‐Zettler']
+ABSTRACT:
+Anthropogenic debris contaminates marine habitats globally, leading to several perceived ecological impacts. Here, we critically and systematically review the literature regarding impacts of debris from several scientific fields to understand the weight of evidence regarding the ecological impacts of marine debris. We quantified perceived and demonstrated impacts across several levels of biological organization that make up the ecosystem and found 366 perceived threats of debris across all levels. Two hundred and ninety-six of these perceived threats were tested, 83% of which were demonstrated. The majority (82%) of demonstrated impacts were due to plastic, relative to other materials (e.g., metals, glass) and largely (89%) at suborganismal levels (e.g., molecular, cellular, tissue). The remaining impacts, demonstrated at higher levels of organization (i.e., death to individual organisms, changes in assemblages), were largely due to plastic marine debris (> 1 mm; e.g., rope, straws, and fragments). Thus, we show evidence of ecological impacts from marine debris, but conclude that the quantity and quality of research requires improvement to allow the risk of ecological impacts of marine debris to be determined with precision. Still, our systematic review suggests that sufficient evidence exists for decision makers to begin to mitigate problematic plastic debris now, to avoid risk of irreversible harm.
+
+SOURCE: Ecology
+PDF URL: None
+CITED BY COUNT: 420
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Debris', 'Marine debris', 'Ecology', 'Habitat', 'Marine ecosystem', 'Environmental science', 'Ecosystem', 'Harm', 'Environmental resource management', 'Geography', 'Biology', 'Meteorology', 'Political science', 'Law']

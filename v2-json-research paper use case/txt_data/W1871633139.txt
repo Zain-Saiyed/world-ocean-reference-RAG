@@ -1,0 +1,12 @@
+ID: W1871633139
+TITLE: Contagious exploitation of marine resources
+AUTHOR: ['Hampus Eriksson', 'Henrik Österblom', 'Beatrice Crona', 'Max Troell', 'Neil Andrew', 'James E. Wilen', 'Carl Folke']
+ABSTRACT:
+Global seafood sourcing networks are expanding to meet demand. To describe contemporary fishery expansion patterns, we analyzed the worldwide exploitation of sea cucumber (Echinodermata: Holothuroidea) traded via Hong Kong for consumers in China. In just 15 years (1996–2011), the sea cucumber sourcing network expanded from 35 to 83 countries; sea cucumber fisheries serving the Chinese market now operate within countries cumulatively spanning over 90% of the world's tropical coastlines. The emergence of such fisheries in nations where they were previously absent could not be explained either by their national governance capacity or by their distance from Hong Kong. Surging imports from these new fisheries have compensated for declines in long‐standing fisheries elsewhere. The case of commercial sea cucumber trade for the Chinese market exemplifies a new global extraction phenomenon that we call contagious resource exploitation – a fast‐moving system resembling a disease epidemic, where long‐distance transport expedites large‐scale expansion followed by diffusive local spread into neighboring areas. Multi‐level and multi‐scale decision making is urgently needed to control and mitigate the effects of contagious exploitation.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/140312
+CITED BY COUNT: 75
+PUBLICATION YEAR: 2015
+TYPE: review
+CONCEPTS: ['China', 'Business', 'Fishery', 'Corporate governance', 'Resource (disambiguation)', 'Scale (ratio)', 'Geography', 'Biology', 'Finance', 'Computer network', 'Cartography', 'Archaeology', 'Computer science']

@@ -1,0 +1,12 @@
+ID: W2959142752
+TITLE: Projections of declining fluvial sediment delivery to major deltas worldwide in response to climate change and anthropogenic stress
+AUTHOR: ['Frances Dunn', 'Stephen E. Darby', 'Robert J. Nicholls', 'Sagy Cohen', 'Christiane Zarfl', 'Nir Krakauer']
+ABSTRACT:
+Abstract Deltas are resource rich, low-lying areas where vulnerability to flooding is exacerbated by natural and anthropogenically induced subsidence and geocentric sea-level rise, threatening the large populations often found in these settings. Delta ‘drowning’ is potentially offset by deposition of sediment on the delta surface, making the delivery of fluvial sediment to the delta a key balancing control in offsetting relative sea-level rise, provided that sediment can be dispersed across the subaerial delta. Here we analyse projected changes in fluvial sediment flux over the 21st century to 47 of the world’s major deltas under 12 environmental change scenarios. The 12 scenarios were constructed using four climate pathways (Representative Concentration Pathways 2.6, 4.5, 6.0 and 8.5), three socioeconomic pathways (Shared Socioeconomic Pathways 1, 2 and 3), and one reservoir construction timeline. A majority (33/47) of the investigated deltas are projected to experience reductions in sediment flux by the end of the century, when considering the average of the scenarios, with mean and maximum declines of 38% and 83%, respectively, between 1990–2019 and 2070–2099. These declines are driven by the effects of anthropogenic activities (changing land management practices and dam construction) overwhelming the effects of future climate change. The results frame the extent and magnitude of future sustainability of major global deltas. They highlight the consequences of direct (e.g. damming) and indirect (e.g. climate change) alteration of fluvial sediment flux dynamics and stress the need for further in-depth analysis for individual deltas to aid in developing appropriate management measures.
+
+SOURCE: Environmental research letters
+PDF URL: None
+CITED BY COUNT: 123
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Fluvial', 'Delta', 'Climate change', 'Environmental science', 'Subaerial', 'Sediment', 'River delta', 'Representative Concentration Pathways', 'Sedimentary budget', 'Physical geography', 'Geology', 'Hydrology (agriculture)', 'Sediment transport', 'Geography', 'Oceanography', 'Climate model', 'Geomorphology', 'Geotechnical engineering', 'Geochemistry', 'Structural basin', 'Aerospace engineering', 'Engineering']

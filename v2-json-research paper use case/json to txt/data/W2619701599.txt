@@ -1,0 +1,12 @@
+ID: W2619701599
+TITLE: Coral reefs in the Anthropocene
+AUTHOR: ['Terry P. Hughes', 'Michele L. Barnes', 'David R. Bellwood', 'Joshua E. Cinner', 'Graeme S. Cumming', 'Jeremy B. C. Jackson', 'Joanie Kleypas', 'Ingrid A. van de Leemput', 'Janice Lough', 'Tiffany H. Morrison', 'Stephen R. Palumbi', 'Egbert H. van Nes', 'Marten Scheffer']
+ABSTRACT:
+Coral reefs support immense biodiversity and provide important ecosystem services to many millions of people. Yet reefs are degrading rapidly in response to numerous anthropogenic drivers. In the coming centuries, reefs will run the gauntlet of climate change, and rising temperatures will transform them into new configurations, unlike anything observed previously by humans. Returning reefs to past configurations is no longer an option. Instead, the global challenge is to steer reefs through the Anthropocene era in a way that maintains their biological functions. Successful navigation of this transition will require radical changes in the science, management and governance of coral reefs.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 1370
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Anthropocene', 'Coral reef', 'Reef', 'Resilience of coral reefs', 'Climate change', 'Biodiversity', 'Ecosystem services', 'Ecosystem', 'Geography', 'Environmental resource management', 'Oceanography', 'Ecology', 'Environmental science', 'Geology', 'Biology']

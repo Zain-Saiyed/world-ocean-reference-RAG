@@ -1,0 +1,12 @@
+ID: W2886593315
+TITLE: Influence of deep water formation by open-sea convection on the transport of low hydrophobicity organic pollutants in the NW Mediterranean Sea
+AUTHOR: ['Joan A. Salvadó', 'Joan O. Grimalt', 'Jordi F. López', 'Albert Palanqués', 'Miquel Canals']
+ABSTRACT:
+The significance of the offshore vertical convection currents in the transport and sinking of water-soluble organic pollutants into marine deep basins has been evaluated. For this purpose, sediment cores were collected in the Gulf of Lion (GoL) at sites between 26 and 2330 m water depth. The top core layers were analyzed for aromatic and aliphatic hydrocarbons and organochlorine compounds. Organic compounds with logKAW (air water partition coefficient) between -2 and -4, e.g. lindane, PCB 28, PCB 52, phenanthrene, methylphenanthrenes, dimethylphenanthrenes, C14-C23n-alkanes, are found in higher concentrations or exhibit relative concentration increases in the sediments deposited in the continental rise as consequence of the open-sea convection processes associated with the formation of Western Mediterranean Deep Water (WMDW). In contrast, the organic pollutants with intermediate air-water distribution coefficients, logKAW between -2 and 0, and high octanol water distribution coefficients (logKow > 6), e.g. highly chlorinated PCBs, DDTs, DDEs, DDDs, C25-C35n-alkanes, and polycyclic aromatic hydrocarbons with molecular weight higher than 200, occur in association to sediment particles, which are mainly transported by the Northern current along the continental shelf forming the mud belt. The Rhône prodelta is therefore the area of the GoL showing the highest concentrations of this group of organic compounds, which are preferentially associated with water particles. Overall, the results show that vertical open-sea convection processes related with offshore formation of WMDW may have an important role in the transport and accumulation of water soluble pollutants to deep marine environments of the GoL (>2000 m water depth).
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Pollutant', 'Seawater', 'Mediterranean sea', 'Environmental chemistry', 'Partition coefficient', 'Total organic carbon', 'Sediment', 'Water mass', 'Oceanography', 'Continental shelf', 'Environmental science', 'Mediterranean climate', 'Geology', 'Chemistry', 'Geomorphology', 'Ecology', 'Organic chemistry', 'Chromatography', 'Biology']

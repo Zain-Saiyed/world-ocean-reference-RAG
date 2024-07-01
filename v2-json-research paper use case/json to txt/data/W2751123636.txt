@@ -1,0 +1,12 @@
+ID: W2751123636
+TITLE: Monitoring Ocean Change in the 21st Century
+AUTHOR: ['Susanne Neuer', 'Heather Benway', 'Nicholas R. Bates', 'Craig H. Carlson', 'Matthew J. Church', 'Michael D. DeGrandpre', 'John Dunne', 'Ricardo M. Letelier', 'Michael W. Lomas', 'Laura Lorenzoni', 'Frank Müller‐Karger', 'Mary Jane Perry', 'Paul D. Quay']
+ABSTRACT:
+Time series data sets, which contain measurements repeated over a span of decades, yield important insights into our oceans’ vital signs.
+
+SOURCE: Eos
+PDF URL: http://www.us-ocb.org/wp-content/uploads/sites/43/2017/01/TS_Workshop_report_FINAL.pdf
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Oceanography', 'History', 'Environmental science', 'Geology']

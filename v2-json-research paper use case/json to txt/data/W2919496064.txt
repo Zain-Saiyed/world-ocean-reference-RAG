@@ -1,0 +1,12 @@
+ID: W2919496064
+TITLE: Marine heatwaves threaten global biodiversity and the provision of ecosystem services
+AUTHOR: ['Dan A. Smale', 'Thomas Wernberg', 'Eric C. J. Oliver', 'Mads S. Thomsen', 'Ben P. Harvey', 'Sandra C. Straub', 'Michael T. Burrows', 'Lisa V. Alexander', 'Jessica A. Benthuysen', 'Markus G. Donat', 'Ming Feng', 'Alistair J. Hobday', 'Neil J. Holbrook', 'Sarah E. Perkins‐Kirkpatrick', 'Hillary A. Scannell', 'Alex Sen Gupta', 'Benjamin Payne', 'Pippa J. Moore']
+ABSTRACT:
+The global ocean has warmed substantially over the past century, with far-reaching implications for marine ecosystems1. Concurrent with long-term persistent warming, discrete periods of extreme regional ocean warming (marine heatwaves, MHWs) have increased in frequency2. Here we quantify trends and attributes of MHWs across all ocean basins and examine their biological impacts from species to ecosystems. Multiple regions in the Pacific, Atlantic and Indian Oceans are particularly vulnerable to MHW intensification, due to the co-existence of high levels of biodiversity, a prevalence of species found at their warm range edges or concurrent non-climatic human impacts. The physical attributes of prominent MHWs varied considerably, but all had deleterious impacts across a range of biological processes and taxa, including critical foundation species (corals, seagrasses and kelps). MHWs, which will probably intensify with anthropogenic climate change3, are rapidly emerging as forceful agents of disturbance with the capacity to restructure entire ecosystems and disrupt the provision of ecological goods and services in coming decades. Marine heatwaves are increasing in frequency, but they vary in their manifestation. All events impact ecosystem structure and functioning, with increased risk of negative impacts linked to greater biodiversity, number of species near their thermal limit and additional human impacts.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 896
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Ecosystem', 'Climate change', 'Marine ecosystem', 'Ecology', 'Range (aeronautics)', 'Disturbance (geology)', 'Ecosystem services', 'Geography', 'Global warming', 'Ocean acidification', 'Environmental science', 'Oceanography', 'Biology', 'Geology', 'Paleontology', 'Materials science', 'Composite material']

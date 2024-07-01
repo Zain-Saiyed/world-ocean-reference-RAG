@@ -1,0 +1,12 @@
+ID: W2919708328
+TITLE: Spatio-temporal monitoring of coastal floating marine debris in the Balearic Islands from sea-cleaning boats
+AUTHOR: ['Montserrat Compa', 'David March', 'Salud Deudero']
+ABSTRACT:
+Mismanaged waste is accumulating at an alarming rate in the marine environment. Its presence has caused local authorities in the Balearic Islands to develop a coastal sea-cleaning boat service covering the region, identifying the floating marine debris, and removing it from the coastal areas. This study considered daily monitoring from May to October spanning from 2005 to 2015. Plastic marine debris composed over 54% of all floating marine debris removed daily across the Balearic Islands. The spatio-temporal patterns indicate a heterogeneous distribution of plastic in the coastal areas, with higher concentrations in the north-western and south-eastern regions of the islands and debris peaking during the month of August. Furthermore, floating marine debris was more easily collected during calm seas as well as using an integrated monitoring approach to facilitate its removal. Overall, sea-cleaning boats are highly effective in removing coastal floating marine debris.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Debris', 'Marine debris', 'Environmental science', 'Oceanography', 'Balearic islands', 'Plage', 'Geography', 'Geology', 'Cartography', 'Shore']

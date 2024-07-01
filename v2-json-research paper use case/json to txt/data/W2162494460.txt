@@ -1,0 +1,39 @@
+ID: W2162494460
+TITLE: Mercury in the Southern Ocean
+AUTHOR: ['Daniel Cossa', 'Lars-Éric Heimbürger', 'Delphine Lannuzel', 'Stephen R. Rintoul', 'Edward C. V. Butler', 'Andrew R. Bowie', 'Bernard Averty', 'RJ Watson', 'Tomas A. Remenyi']
+ABSTRACT:
+We present here the first mercury speciation study in the water column of the Southern Ocean, using a high-resolution
+south-to-north section (27 stations from 65.50!S to 44.00!S) with up to 15 depths (0–4440 m) between Antarctica and
+Tasmania (Australia) along the 140!E meridian. In addition, in order to explore the role of sea ice in Hg cycling, a study
+of mercury speciation in the snow–sea ice–seawater continuum was conducted at a coastal site, near the Australian
+Casey station (66.40!S; 101.14!E). In the open ocean waters, total Hg (HgT) concentrations varied from 0.63 to
+2.76 pmol L!1 with transient-type vertical profiles and a latitudinal distribution suggesting an atmospheric mercury
+source south of the Southern Polar Front (SPF) and a surface removal north of the Subantartic Front (SAF). Slightly
+higher mean HgT concentrations (1.35 ± 0.39 pmol L!1) were measured in Antarctic Bottom Water (AABW) compared to
+Antarctic Intermediate water (AAIW) (1.15 ± 0.22 pmol L!1). Labile Hg (HgR) concentrations varied from 0.01 to
+2.28 pmol L!1, with a distribution showing that the HgT enrichment south of the SPF consisted mainly of HgR
+(67 ± 23%), whereas, in contrast, the percentage was half that in surface waters north of PFZ (33 ± 23%). Methylated
+mercury species (MeHgT) concentrations ranged from 0.02 to 0.86 pmol L!1. All vertical MeHgT profiles exhibited
+roughly the same pattern, with low concentrations observed in the surface layer and increasing concentrations with depth
+up to an intermediate depth maximum. As for HgT, low mean MeHgT concentrations were associated with AAIW, and
+higher ones with AABW. The maximum of MeHgT concentration at each station was systematically observed within the
+oxygen minimum zone, with a statistically significant MeHgT vs Apparent Oxygen Utilization (AOU) relationship
+(p < 0.001). The proportion of HgT as methylated species was lower than 5% in the surface waters, around 50% in deep
+waters below 1000 m, reaching a maximum of 78% south of the SPF. At Casey coastal station HgT and HgR concentrations
+found in the snow–sea ice–seawater continuum were one order of magnitude higher than those measured in open
+ocean waters. The distribution of HgT there suggests an atmospheric Hg deposition with snow and a fractionation process
+during sea ice formation, which excludes Hg from the ice with a parallel Hg enrichment of brine, probably concurring
+with the Hg enrichment of AABW observed in the open ocean waters. Contrastingly, MeHgT concentrations in the
+sea ice environment were in the same range as in the open ocean waters, remaining below 0.45 pmol L!1. The MeHgT
+vertical profile through the continuum suggests different sources, including atmosphere, seawater and methylation in basal
+ice. Whereas HgT concentrations in the water samples collected between the Antarctic continent and Tasmania are comparable to recent measurements made in the other parts of the World Ocean (e.g., Soerensen et al., 2010), the Hg
+species distribution suggests distinct features in the Southern Ocean Hg cycle: (i) a net atmospheric Hg deposition on
+surface water near the ice edge, (ii) the Hg enrichment in brine during sea ice formation, and (iii) a net methylation
+of Hg south of the SPF.
+
+SOURCE: Geochimica et cosmochimica acta
+PDF URL: None
+CITED BY COUNT: 211
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Mercury (programming language)', 'Oceanography', 'Geology', 'Astrobiology', 'Environmental science', 'Computer science', 'Programming language', 'Physics']

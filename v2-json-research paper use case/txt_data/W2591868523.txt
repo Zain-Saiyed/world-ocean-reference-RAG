@@ -1,0 +1,12 @@
+ID: W2591868523
+TITLE: Do larvae from deep‐sea hydrothermal vents disperse in surface waters?
+AUTHOR: ['Takuya Yahagi', 'Hiromi Watanabe', 'Soichi Kojima', 'Yasunori Kano']
+ABSTRACT:
+Larval dispersal significantly contributes to the geographic distribution, population dynamics, and evolutionary processes of animals endemic to deep-sea hydrothermal vents. Little is known as to the extent that their larvae migrate vertically to shallower waters and experience stronger currents and richer food supplies. Here, we first provide evidence from early life-history traits and population genetics for the surface dispersal of a vent species. Planktotrophic larvae of a red blood limpet, Shinkailepas myojinensis (Gastropoda: Neritimorpha: Phenacolepadidae), were cultured to observe their swimming behavior and to evaluate the effects of temperature on survival and growth. In addition, the population structure was analyzed based on 1.2-kbp mitochondrial DNA sequences from 77 specimens that cover the geographic and bathymetric distributions of the species (northwest Pacific, 442-1,227 m in depth). Hatched larvae constantly swam upward at 16.6-44.2 mm/min depending on temperature. Vertical migration from hydrothermal vents to the surface, calculated to take ~4-43 d, is attainable given their lengthy survival time without feeding. Fed larvae best survived and grew at 25°C (followed by 20°C), which approximates the sea surface temperature in the geographic range of the species. Little or no growth was observed at the temperature of the vent habitat where adult limpets occur (≤15°C). Population genetic analyses showed no differentiation among localities that are <1,350 km apart. The larvae of S. myojinensis most likely migrate to the surface water, where high phytoplankton biomass and strong currents enable their growth and long distance dispersal over many months. Sea surface temperature may represent a critical factor in determining the geographic distribution of many vent endemic species with a planktotrophic early development, and in turn the faunal composition of individual vent sites and regions.
+
+SOURCE: Ecology
+PDF URL: None
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Hydrothermal vent', 'Limpet', 'Biology', 'Population', 'Ecology', 'Habitat', 'Larva', 'Range (aeronautics)', 'Gastropoda', 'Oceanography', 'Hydrothermal circulation', 'Geology', 'Paleontology', 'Materials science', 'Demography', 'Sociology', 'Composite material']

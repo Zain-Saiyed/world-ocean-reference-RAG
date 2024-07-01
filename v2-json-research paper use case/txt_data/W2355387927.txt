@@ -1,0 +1,12 @@
+ID: W2355387927
+TITLE: Critical Minerals and Energy–Impacts and Limitations of Moving to Unconventional Resources
+AUTHOR: ['Benjamin McLellan', 'Eiji Yamasue', 'T. Tezuka', 'Glen Corder', 'Artem Golev', 'Damien Giurco']
+ABSTRACT:
+The nexus of minerals and energy becomes ever more important as the economic growth and development of countries in the global South accelerates and the needs of new energy technologies expand, while at the same time various important minerals are declining in grade and available reserves from conventional mining. Unconventional resources in the form of deep ocean deposits and urban ores are being widely examined, although exploitation is still limited. This paper examines some of the implications of the transition towards cleaner energy futures in parallel with the shifts through conventional ore decline and the uptake of unconventional mineral resources. Three energy scenarios, each with three levels of uptake of renewable energy, are assessed for the potential of critical minerals to restrict growth under 12 alternative mineral supply patterns. Under steady material intensities per unit of capacity, the study indicates that selenium, indium and tellurium could be barriers in the expansion of thin-film photovoltaics, while neodymium and dysprosium may delay the propagation of wind power. For fuel cells, no restrictions are observed.
+
+SOURCE: Resources
+PDF URL: https://www.mdpi.com/2079-9276/5/2/19/pdf?version=1463122319
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Renewable energy', 'Natural resource economics', 'Futures contract', 'Environmental science', 'Nexus (standard)', 'Earth science', 'Economics', 'Geology', 'Ecology', 'Biology', 'Embedded system', 'Computer science', 'Financial economics']

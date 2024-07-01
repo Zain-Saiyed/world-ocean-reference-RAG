@@ -1,0 +1,12 @@
+ID: W1988807395
+TITLE: Assumptions, challenges, and future directions in cumulative impact analysis
+AUTHOR: ['Benjamin S. Halpern', 'Rod Fujita']
+ABSTRACT:
+Efforts to understand and map cumulative impacts of human activities on ecosystems have gained new interest and relevance as management moves towards ecosystem‐based approaches that require such assessments. The last five years have seen a proliferation of efforts to characterize and map cumulative impacts, providing insight into the strengths and limitations of these efforts and where opportunities lie for progress. Here we provide a review of the key assumptions that underlie most cumulative impact mapping efforts, describing the implications and rationales for the assumptions, and highlight the many challenges cumulative impact mapping efforts face. We end with a brief summary of several future research directions that will help greatly improve application of cumulative impact mapping to resource management and conservation planning efforts.
+
+SOURCE: Ecosphere
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/ES13-00181.1
+CITED BY COUNT: 166
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Cumulative effects', 'Environmental resource management', 'Impact assessment', 'Relevance (law)', 'Resource (disambiguation)', 'Ecosystem management', 'Computer science', 'Environmental planning', 'Risk analysis (engineering)', 'Ecosystem', 'Geography', 'Business', 'Environmental science', 'Political science', 'Ecology', 'Computer network', 'Public administration', 'Law', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2414181796
+TITLE: Improving understanding of the spatial dimensions of biophysical change in atoll island countries and implications for island communities: A Marshall Islands’ case study
+AUTHOR: ['Susan Owen', 'Paul S. Kench', 'Murray R. Ford']
+ABSTRACT:
+Using coarse-scale approaches, existing national assessments of vulnerability and adaptation highlight physical land instability as a major threat to atoll island nationhood. However, such evaluations are bereft of detailed, ground-truthed analyses of the physical impacts of climatic change on reef islands, treating islands as homogenous in both biophysical and social characteristics. The distinct geomorphic context of two proximate reef islands (Jeh and Jabat) in the Marshall Islands was examined through conventional land survey techniques. A template documenting the nuances in island topography was used to evaluate simple inundation scenarios, reflecting current and future sea-level changes under storm surge conditions. The variations in local scale community exposure to inundation were discernible. The study highlights the importance of treating coarse-scale assessments with caution and underscores the need for continued commitment to resolving variations in community experiences to environmental change. Notions of risk and exposure are complex and embedded in both the biophysical and social contexts of each island community. Despite a number of targeted urban vulnerability studies in the Pacific there remains a need for efforts to document localised differences in experience to better inform contemporary adaptation efforts.
+
+SOURCE: Applied geography
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Geography', 'Atoll', 'Vulnerability (computing)', 'Storm surge', 'Context (archaeology)', 'Reef', 'Scale (ratio)', 'Coral reef', 'Environmental resource management', 'Climate change', 'Storm', 'Oceanography', 'Cartography', 'Environmental science', 'Geology', 'Archaeology', 'Computer security', 'Meteorology', 'Computer science']

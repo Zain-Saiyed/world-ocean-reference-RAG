@@ -1,0 +1,12 @@
+ID: W2340716061
+TITLE: Pteropods on the edge: Cumulative effects of ocean acidification, warming, and deoxygenation
+AUTHOR: ['Nina Bednaršek', 'Chris J. Harvey', 'Isaac C. Kaplan', 'Richard A. Feely', 'Jasna Možina']
+ABSTRACT:
+We review the state of knowledge of the individual and community responses of euthecosome (shelled) pteropods in the context of global environmental change. In particular, we focus on their responses to ocean acidification, in combination with ocean warming and ocean deoxygenation, as inferred from a growing body of empirical literature, and their relatively nascent place in ecosystem-scale models. Our objectives are: (1) to summarize the threats that these stressors pose to pteropod populations; (2) to demonstrate that pteropods are strong candidate indicators for cumulative effects of OA, warming, and deoxygenation in marine ecosystems; and (3) to provide insight on incorporating pteropods into population and ecosystem models, which will help inform ecosystem-based management of marine resources under future environmental regimes.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: http://manuscript.elsevier.com/S0079661115300112/pdf/S0079661115300112.pdf
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Marine ecosystem', 'Effects of global warming on oceans', 'Environmental science', 'Ecosystem', 'Oceanography', 'Context (archaeology)', 'Environmental change', 'Pelagic zone', 'Climate change', 'Global warming', 'Population', 'Ecology', 'Geography', 'Biology', 'Geology', 'Demography', 'Archaeology', 'Sociology']

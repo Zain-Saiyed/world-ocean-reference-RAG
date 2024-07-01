@@ -1,0 +1,12 @@
+ID: W2794054200
+TITLE: The ecosystem approach to aquaculture 10 years on - a critical review and consideration of its future role in blue growth
+AUTHOR: ['Cécile Brugere', 'J. Aguilar-Manjarrez', 'M. C. M. Beveridge', 'Doris Soto']
+ABSTRACT:
+Abstract Over a decade ago, the ecosystem approach to aquaculture ( EAA ) emerged from discussions between the Food and Agriculture Organization ( FAO ) of the United Nations and international aquaculture experts on how to move aquaculture development towards greater sustainability. The purpose of this review is to critically examine the use and mainstreaming of the EAA in aquaculture development to date and consider its possible evolution in the next decade. We systematically searched citations of key EAA publications in the academic and related literature for the period 2007–2016 and analysed all relevant FAO publications and project documents. We assessed the lessons learnt from the past decade of EAA experiences, the opportunities the EAA has created and the links between the EAA and the new development agenda. Our review suggests that mainstreaming the EAA in planning processes has raised awareness of the usefulness of holistic and participatory approaches in aquaculture and helped to steer the sector towards greater sustainability. However, the approach has had varying degrees of resonance and uptake with different user groups. The emphasis on spatial planning that has developed as part of the EAA implementation efforts, and close links between the EAA and initiatives such as ‘blue growth’, constitute significant opportunities for the future of the approach, although its ability to tackle increasingly complex governance issues may be limited. Thus, it is now opportune to reconsider the EAA 's raison d’être , taking into account ongoing developments within and outside the aquaculture sector.
+
+SOURCE: Reviews in aquaculture
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/raq.12242
+CITED BY COUNT: 99
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Aquaculture', 'Sustainability', 'Corporate governance', 'Citizen journalism', 'Environmental planning', 'Sustainable development', 'Mainstreaming', 'Business', 'Environmental resource management', 'Political science', 'Geography', 'Fishery', 'Ecology', 'Economics', 'Fish <Actinopterygii>', 'Biology', 'Special education', 'Finance', 'Law']

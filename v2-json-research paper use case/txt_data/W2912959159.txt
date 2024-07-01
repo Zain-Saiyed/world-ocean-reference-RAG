@@ -1,0 +1,12 @@
+ID: W2912959159
+TITLE: Past, present, and future perspectives of environmental DNA (eDNA) metabarcoding: A systematic review in methods, monitoring, and applications of global eDNA
+AUTHOR: ['Krista M. Ruppert', 'Richard J. Kline', 'Saydur Rahman']
+ABSTRACT:
+Environmental DNA (eDNA) metabarcoding is a novel method of assessing biodiversity wherein samples are taken from the environment via water, sediment or air from which DNA is extracted, and then amplified using general or universal primers in polymerase chain reaction and sequenced using next-generation sequencing to generate thousands to millions of reads. From this data, species presence can be determined, and overall biodiversity assessed. It is an interdisciplinary method that brings together traditional field-based ecology with in-depth molecular methods and advanced computational tools. As an emerging monitoring method, there are many pitfalls and roadblocks to be considered and avoided, but the method may still have the ability to revolutionize modern biodiversity surveys for the molecular era. In this paper, we review the basic methodology, benefits, and concerns of eDNA metabarcoding, and systematically cover the applications of the method in global ecology thus far, including biodiversity monitoring across all habitats and taxonomic groups, ancient ecosystem reconstruction, plant-pollinator interactions, diet analysis, invasive species detection, pollution responses, and air quality monitoring. We also discuss the future applications of the method as well as expected technological advances and how they may impact the way that eDNA metabarcoding may used in the future. eDNA metabarcoding is a unique method still in development and will likely remain in flux for some time as technology advances and procedures become standardized. However, as metabarcoding is optimized and its use becomes more widespread, it is likely to become an essential tool for ecological monitoring and global conservation study.
+
+SOURCE: Global ecology and conservation
+PDF URL: None
+CITED BY COUNT: 616
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental DNA', 'Biodiversity', 'Ecology', 'Biology', 'Environmental monitoring', 'Environmental resource management', 'Environmental science']

@@ -1,0 +1,12 @@
+ID: W2892104946
+TITLE: Southern Argentina: The Patagonian Continental Shelf
+AUTHOR: ['Mónica N. Gil', 'Erica Giarratano', 'Vicente Barros', 'Alejandro Bortolus', 'Jorge O. Codignotto', 'Ricardo Delfino Schenke', 'Gongora María Eva Góngora', 'Gustavo A. Lovrich', 'Andrew Monti', 'Marcela Pascual', 'Andrés L. Rivas', 'Alicia Tagliorette']
+ABSTRACT:
+The southeast South American shelf marine ecosystem extends over the entire continental shelf off the eastern shores of Argentina, Uruguay, and southeastern Brazil (23° to 55°S). The region south of 40°S is usually known as Patagonian Continental Shelf of Argentina (PCSA). The intertidal environments of the Patagonian shore are among the most diverse in South America in terms of their environmental heterogeneity. The productivity distribution over the continental shelf is also heterogeneous and is concentrated on the marine frontal zones. The Patagonian coast is one of the richest and most productive temperate marine ecosystems in the world. The sea near the Patagonian coast is one of the ocean regions in the world in which smaller changes to its physical variables have been observed. There has been a sea-level rise in the region offshore of Patagonia, but the change has been more moderate than the global average. Patagonian coasts of Argentina have only 18 cities, many of them growing rapidly. The population density in this area is below 4 inhabitants/km2. Despite increasing industrial activities in coastal cities in last decades, quality of coastal waters remains high. Argentina has extensive legislation to control marine pollution and protect biodiversity. Despite the advances of the last decades, more efforts are needed for the effective conservation of marine ecosystems on the Patagonian coast.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Continental shelf', 'Oceanography', 'Geography', 'Intertidal zone', 'Marine ecosystem', 'Shore', 'Biodiversity', 'Population', 'Ecosystem', 'Productivity', 'Geology', 'Ecology', 'Demography', 'Macroeconomics', 'Sociology', 'Economics', 'Biology']

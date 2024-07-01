@@ -1,0 +1,12 @@
+ID: W862767725
+TITLE: Spatial and temporal changes in cumulative human impacts on the world’s ocean
+AUTHOR: ['Benjamin S. Halpern', 'Melanie Frazier', 'John Potapenko', 'Kenneth S. Casey', 'Kellee Koenig', 'Catherine Longo', 'Julia Stewart Lowndes', 'R. Cotton Rockwood', 'Elizabeth R. Selig', 'Kimberly A. Selkoe', 'Shaun Walbridge']
+ABSTRACT:
+Human pressures on the ocean are thought to be increasing globally, yet we know little about their patterns of cumulative change, which pressures are most responsible for change, and which places are experiencing the greatest increases. Managers and policymakers require such information to make strategic decisions and monitor progress towards management objectives. Here we calculate and map recent change over 5 years in cumulative impacts to marine ecosystems globally from fishing, climate change, and ocean- and land-based stressors. Nearly 66% of the ocean and 77% of national jurisdictions show increased human impact, driven mostly by climate change pressures. Five percent of the ocean is heavily impacted with increasing pressures, requiring management attention. Ten percent has very low impact with decreasing pressures. Our results provide large-scale guidance about where to prioritize management efforts and affirm the importance of addressing climate change to maintain and improve the condition of marine ecosystems.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms8615.pdf
+CITED BY COUNT: 1080
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Climate change', 'Cumulative effects', 'Environmental resource management', 'Fishing', 'Ecosystem', 'Marine spatial planning', 'Marine ecosystem', 'Scale (ratio)', 'Environmental science', 'Marine protected area', 'Global change', 'Natural resource economics', 'Geography', 'Fishery', 'Oceanography', 'Ecology', 'Economics', 'Cartography', 'Habitat', 'Biology', 'Geology']

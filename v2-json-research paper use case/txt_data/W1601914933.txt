@@ -1,0 +1,12 @@
+ID: W1601914933
+TITLE: Observations: Atmosphere and Surface
+AUTHOR: ['Intergovernmental Panel on Climate Change']
+ABSTRACT:
+The evidence of climate change from observations of the atmosphere and surface has grown significantly during recent years. At the same time new improved ways of characterizing and quantifying uncertainty have highlighted the challenges that remain for developing long-term global and regional climate quality data records. Currently, the observations of the atmosphere and surface indicate the following changes:
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 475
+PUBLICATION YEAR: 2014
+TYPE: book-chapter
+CONCEPTS: ['Atmosphere (unit)', 'Environmental science', 'Climate change', 'Climatology', 'Atmospheric sciences', 'Geography', 'Meteorology', 'Geology', 'Oceanography']

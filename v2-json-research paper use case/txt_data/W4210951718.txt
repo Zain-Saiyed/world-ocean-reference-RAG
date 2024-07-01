@@ -1,0 +1,12 @@
+ID: W4210951718
+TITLE: Marine natural products
+AUTHOR: ['John W. Blunt', 'Brent R. Copp', 'Robert A. Keyzers', 'Murray H. G. Munro', 'Michèle R. Prinsep']
+ABSTRACT:
+Covering: 2011. Previous review: Nat. Prod. Rep., 2012, 29, 144–222.
+
+SOURCE: Natural product reports
+PDF URL: None
+CITED BY COUNT: 475
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Natural (archaeology)', 'Computational biology', 'Biochemical engineering', 'Chemistry', 'Biology', 'Engineering', 'Paleontology']

@@ -1,0 +1,12 @@
+ID: W2057312326
+TITLE: Marine Sponge Derived Natural Products between 2001 and 2010: Trends and Opportunities for Discovery of Bioactives
+AUTHOR: ['Mohammad F. Mehbub', 'Jie Liu', 'Christopher M. M. Franco', 'Wei Zhang']
+ABSTRACT:
+Marine sponges belonging to the phylum Porifera (Metazoa), evolutionarily the oldest animals are the single best source of marine natural products.The present review presents a comprehensive overview of the source, taxonomy, country of origin or geographical position, chemical class, and biological activity of sponge-derived new natural products discovered between 2001 and 2010.The data has been analyzed with a view to gaining an outlook on the future trends and opportunities in the search for new compounds and their sources from marine sponges.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/12/8/4539/pdf?version=1424783265
+CITED BY COUNT: 334
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Sponge', 'Phylum', 'Biology', 'Natural (archaeology)', 'Taxonomy (biology)', 'Ecology', 'Geography', 'Paleontology', 'Bacteria']

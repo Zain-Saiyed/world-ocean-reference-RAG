@@ -1,0 +1,12 @@
+ID: W2496371628
+TITLE: Growth Patterns in Long-Lived Coral Species
+AUTHOR: ['Franck Lartaud', 'Giovanni Galli', 'Raza Abid', 'Cristina Priori', 'Maria Carla Benedetti', 'Alessandro Cau', 'G Santangelo', 'Mimmo Iannelli', 'Cosimo Solidoro', 'Lorenzo Bramanti']
+ABSTRACT:
+The knowledge on the growth patterns of organisms constructing complex three-dimensional structures can help in understanding their role as engineering species. Growth and form of several sessile organisms are characterized by different properties; one of those is modularity. Trees in terrestrial habitats and corals in marine environments are sessile modular organisms where growth is regulated by similar processes. Part of forestry's theoretical and practical framework on the study of growth can then be applied to the marine environment. The aim of this chapter is to present an overview of the different growth patterns of corals by applying some of the techniques developed for trees (e.g., annual growth ring count). As growth can be influenced by environmental conditions, understanding the mechanisms and rates of growth can give precious insights on the effects of climate change and anthropogenic disturbances. Annual growth rings of several species of corals act as climatic archive in a similar manner as it happens in trees. Corals grow in winter and summer, but the density of the calcium carbonate depositions in the coral skeleton is different due to seasonal changes in ocean temperature, pH, availability of nutrients, and differences in light irradiance. Examples of different coral species living in different environments (from cold-water corals to tropical coral reef species) will be discussed in order to shed light on the mechanism of formation and development of the so-called animal forests. Field- and laboratory-based knowledge can be integrated within numerical models describing the basic mechanisms of growth and fine-tuned by using observed data. Models are particularly useful as they assess effects that are almost impossible to observe in real time, due to the long life span of some species, as well as impractical experimental setups.
+
+SOURCE: Springer eBooks
+PDF URL: None
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['Coral', 'Geography', 'Oceanography', 'Biology', 'Zoology', 'Ecology', 'Geology']

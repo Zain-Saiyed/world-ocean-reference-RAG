@@ -1,0 +1,12 @@
+ID: W2193173909
+TITLE: Long-term Salinity Changes and Implications for the Global Water Cycle
+AUTHOR: ['Paul J. Durack', 'Susan Wijffels', 'Tim Boyer']
+ABSTRACT:
+Long-term global ocean salinity variation provides an insight into water cycle change. This connection reflects changes to the evaporation and precipitation (E–P) fields along with terrestrial runoff, which comprises the global water cycle and sets the spatial pattern of salinity on the ocean surface. The dynamic nature of the global ocean ensures that along with E–P, temperature and circulation changes also play a role in driving patterns of salinity change. This chapter provides an introduction to the global water cycle, briefly outlines the history of ocean salinity observation, and introduces results that relate resolved salinity change to water cycle change. Because of sparse observational coverage, the use of climate models are necessary to investigate these relationships. Long-term changes to global ocean salinity suggest that an unambiguous and coherent water cycle change has occurred over the twentieth and early twenty-first centuries. Climate model simulations project that such changes will intensify in the twenty-first century in response to continued greenhouse gas emissions.
+
+SOURCE: International geophysics/International geophysics series
+PDF URL: None
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2013
+TYPE: book-chapter
+CONCEPTS: ['Water cycle', 'Salinity', 'Environmental science', 'Climatology', 'Climate change', 'Global warming', 'Precipitation', 'Surface runoff', 'Global change', 'Global temperature', 'Temperature salinity diagrams', 'Greenhouse gas', 'Oceanography', 'Geography', 'Meteorology', 'Geology', 'Ecology', 'Biology']

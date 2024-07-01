@@ -1,0 +1,12 @@
+ID: W4256455931
+TITLE: Deep-Sea Fishes
+AUTHOR: ['Imants G. Priede']
+ABSTRACT:
+The technological advances of the last twenty years have brought huge advances in our understanding of the deep sea and of the species inhabiting this elusive and fascinating environment. Synthesising the very latest research and discoveries, this is a comprehensive and much-needed account of deep-sea fishes. Priede examines all aspects of this incredibly diverse group of animals, reviewing almost 3,500 species and covering deep-sea fish evolution, physiology and ecology as well as charting the history of their discovery from the eighteenth century to the present day. Providing a global account of both pelagic and demersal species, the book ultimately considers the effect of the growing deep-sea fishing industry on sustainability. Copiously illustrated with explanations of the deep-sea environment, drawings of fishes and information on how they adapt to the deep, this is an essential resource for biologists, conservationists, fishery managers and anyone interested in marine evolution and natural history.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2017
+TYPE: book
+CONCEPTS: ['Deep sea', 'Pelagic zone', 'Demersal zone', 'Fishing', 'Fish <Actinopterygii>', 'Geography', 'Demersal fish', 'Ecology', 'Fishery', 'Biology']

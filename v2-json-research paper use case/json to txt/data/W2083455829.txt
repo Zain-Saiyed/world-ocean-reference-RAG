@@ -1,0 +1,12 @@
+ID: W2083455829
+TITLE: On the materials basis of modern society
+AUTHOR: ['T. E. Graedel', 'E. M. Harper', 'Nedal T. Nassar', 'Barbara K. Reck']
+ABSTRACT:
+It is indisputable that modern life is enabled by the use of materials in its technologies. Those technologies do many things very well, largely because each material is used for purposes to which it is exquisitely fitted. The result over time has been a steady increase in product performance. We show that this materials complexity has markedly increased in the past half-century and that elemental life cycle analyses characterize rates of recycling and loss. A further concern is that of possible scarcity of some of the elements as their use increases. Should materials availability constraints occur, the use of substitute materials comes to mind. We studied substitution potential by generating a comprehensive summary of potential substitutes for 62 different metals in all their major uses and of the performance of the substitutes in those applications. As we show herein, for a dozen different metals, the potential substitutes for their major uses are either inadequate or appear not to exist at all. Further, for not 1 of the 62 metals are exemplary substitutes available for all major uses. This situation largely decouples materials substitution from price, thereby forcing material design changes to be primarily transformative rather than incremental. As wealth and population increase worldwide in the next few decades, scientists will be increasingly challenged to maintain and improve product utility by designing new and better materials, but doing so under potential constraints in resource availability.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/112/20/6295.full.pdf
+CITED BY COUNT: 364
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Scarcity', 'Biochemical engineering', 'Product (mathematics)', 'Risk analysis (engineering)', 'Population', 'Dozen', 'Resource (disambiguation)', 'Forcing (mathematics)', 'Industrial ecology', 'Computer science', 'Natural resource economics', 'Nanotechnology', 'Economics', 'Business', 'Engineering', 'Sustainability', 'Materials science', 'Microeconomics', 'Ecology', 'Mathematics', 'Biology', 'Arithmetic', 'Computer network', 'Mathematical analysis', 'Geometry', 'Demography', 'Sociology']

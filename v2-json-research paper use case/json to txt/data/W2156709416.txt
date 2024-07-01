@@ -1,0 +1,12 @@
+ID: W2156709416
+TITLE: Impacts of Biodiversity Loss on Ocean Ecosystem Services
+AUTHOR: ['Boris Worm', 'Edward B. Barbier', 'Nicola Beaumont', 'J. Emmett Duffy', 'Carl Folke', 'Benjamin S. Halpern', 'Jeremy B. C. Jackson', 'Heike K. Lotze', 'Fiorenza Micheli', 'Stephen R. Palumbi', 'Enric Sala', 'Kimberley A. Selkoe', 'John J. Stachowicz', 'Reg Watson']
+ABSTRACT:
+Human-dominated marine ecosystems are experiencing accelerating loss of populations and species, with largely unknown consequences. We analyzed local experiments, long-term regional time series, and global fisheries data to test how biodiversity loss affects marine ecosystem services across temporal and spatial scales. Overall, rates of resource collapse increased and recovery potential, stability, and water quality decreased exponentially with declining diversity. Restoration of biodiversity, in contrast, increased productivity fourfold and decreased variability by 21%, on average. We conclude that marine biodiversity loss is increasingly impairing the ocean's capacity to provide food, maintain water quality, and recover from perturbations. Yet available data suggest that at this point, these trends are still reversible.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 3800
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Ecosystem', 'Marine ecosystem', 'Environmental science', 'Productivity', 'Ecosystem services', 'Resource (disambiguation)', 'Marine biodiversity', 'Ecology', 'Environmental resource management', 'Fishery', 'Oceanography', 'Biology', 'Geology', 'Computer network', 'Computer science', 'Economics', 'Macroeconomics']

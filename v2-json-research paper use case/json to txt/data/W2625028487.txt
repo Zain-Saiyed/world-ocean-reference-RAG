@@ -1,0 +1,12 @@
+ID: W2625028487
+TITLE: Ocean acidification as a driver of community simplification via the collapse of higher-order and rise of lower-order consumers
+AUTHOR: ['Salvatrice Vizzini', 'Begoña Martínez‐Crego', 'Cristina Andolina', 'Alexia Massa-Gallucci', 'Sean D. Connell', 'María Cristina Gambi']
+ABSTRACT:
+Abstract Increasing oceanic uptake of CO 2 is predicted to drive ecological change as both a resource (i.e. CO 2 enrichment on primary producers) and stressor (i.e. lower pH on consumers). We use the natural ecological complexity of a CO 2 vent (i.e. a seagrass system) to assess the potential validity of conceptual models developed from laboratory and mesocosm research. Our observations suggest that the stressor-effect of CO 2 enrichment combined with its resource-effect drives simplified food web structure of lower trophic diversity and shorter length. The transfer of CO 2 enrichment from plants to herbivores through consumption (apparent resource-effect) was not compensated by predation, because carnivores failed to contain herbivore outbreaks. Instead, these higher-order consumers collapsed (apparent stressor-effect on carnivores) suggesting limited trophic propagation to predator populations. The dominance of primary producers and their lower-order consumers along with the loss of carnivores reflects the duality of intensifying ocean acidification acting both as resource-effect (i.e. bottom-up control) and stressor-effect (i.e. top-down control) to simplify community and trophic structure and function. This shifting balance between the propagation of resource enrichment and its consumption across trophic levels provides new insights into how the trophic dynamics might stabilize against or propagate future environmental change.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-03802-w.pdf
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Trophic level', 'Mesocosm', 'Food web', 'Ecology', 'Trophic cascade', 'Herbivore', 'Ocean acidification', 'Apex predator', 'Primary producers', 'Dominance (genetics)', 'Seagrass', 'Predation', 'Environmental science', 'Biology', 'Environmental change', 'Climate change', 'Ecosystem', 'Nutrient', 'Phytoplankton', 'Biochemistry', 'Gene']

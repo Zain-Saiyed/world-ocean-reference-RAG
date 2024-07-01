@@ -1,0 +1,12 @@
+ID: W2090430938
+TITLE: Time series of coccolithophore activity in the Barents Sea, from twenty years of satellite imagery
+AUTHOR: ['Tim Smyth', 'Toby Tyrrell', 'B. Tarrant']
+ABSTRACT:
+Blooms of the coccolithophorid Emiliana huxleyi may be sensitive to climate change. A comparison of global Coastal Zone Color Scanner (CZCS, 1978–1986) and Sea‐viewing Wide Field‐of‐view Sensor (SeaWiFS, 1997–present) imagery appears to show them advancing into some sub‐Arctic seas. To determine when coccolithophore blooms appeared in the Barents Sea this paper makes use of Advanced Very High Resolution Radiometer (AVHRR) visible channel data which bridges the gap between the CZCS and SeaWiFS missions (1981–present). Analysis of over 3700 AVHRR images has shown coccolithophore blooms to be unambiguously present between 1989–1992 but probably absent in other pre‐SeaWiFS years. This paper shows a correlation between positive temperature ‐ negative salinity anomalies in the Barents Sea and bloom occurrence. If global warming continues to trigger increased warmth and freshwater runoff in the region then there may be an increased frequency of coccolithophore blooms within the Barents Sea.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2004GL019735
+CITED BY COUNT: 120
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['SeaWiFS', 'Coccolithophore', 'Advanced very-high-resolution radiometer', 'Oceanography', 'Environmental science', 'Climatology', 'Ocean color', 'Bloom', 'Mediterranean sea', 'Satellite', 'Geology', 'Remote sensing', 'Phytoplankton', 'Mediterranean climate', 'Geography', 'Ecology', 'Archaeology', 'Nutrient', 'Engineering', 'Biology', 'Aerospace engineering']

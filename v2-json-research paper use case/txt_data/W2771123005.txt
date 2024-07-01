@@ -1,0 +1,12 @@
+ID: W2771123005
+TITLE: Larval Behavior and Longevity in the Cold-Water Coral Lophelia pertusa Indicate Potential for Long Distance Dispersal
+AUTHOR: ['Susanna M. Strömberg', 'Ann I. Larsson']
+ABSTRACT:
+The life cycle of many marine benthic species includes a pelagic larval stage that governs the connectivity between populations. Larval transport is a function of hydrodynamic and biological processes. Knowledge of how larval traits affect dispersal will increase the accuracy of biophysical models used to predict connectivity, and is of paramount importance for management and conservation. This study examines the larval traits of the cold-water coral Lophelia pertusa that forms widespread and highly diverse ecosystems in the deep ocean. We monitored development, swimming behaviour, and survival under different environmental conditions. We found that the embryonic development rate doubled when the rearing temperature was increased from normal conditions of 7–8°C to 11–12°C. Pre-competent planulae migrated vertically upwards at a speed of 0.5–0.7 mm s-1 and crossed salinity gradients with a maximum tested difference of 5 psu with no hesitation. At three weeks, planulae had a fully developed mouth and started feeding on animal derivatives, picoplankton, and possibly smaller size microalgae. Presence of food significantly altered the swimming pattern, and feeding was corroborated by direct observation. Planulae survived for up to ten months in a salinity of 25 psu, which together with the vertical migration pattern and feeding indicates that larvae may spend a period of their pelagic phase in the photic zone. After 50 days, larvae were still in a very good condition as deduced by maintained high swimming speed. Survival rate of developed planulae was on average 60% over a 3-month period, and maximum longevity was a full year, in laboratory cultures.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2017.00411/pdf
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Pelagic zone', 'Biology', 'Coral', 'Benthic zone', 'Ecology', 'Larva', 'Plankton', 'Salinity', 'Oceanography', 'Population', 'Demography', 'Sociology', 'Geology']

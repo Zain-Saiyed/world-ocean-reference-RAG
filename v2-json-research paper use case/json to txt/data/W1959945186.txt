@@ -1,0 +1,12 @@
+ID: W1959945186
+TITLE: The vulnerability of Indo-Pacific mangrove forests to sea-level rise
+AUTHOR: ['Catherine E. Lovelock', 'Donald R. Cahoon', 'Daniel A. Friess', 'Glenn R. Guntenspergen', 'Ken W. Krauss', 'Ruth Reef', 'Kerrylee Rogers', 'Megan I. Saunders', 'Frida Sidik', 'Andrew Swales', 'Neil Saintilan', 'Lê Xuân Thuyên', 'Tuan Anh Tran']
+ABSTRACT:
+Sea-level rise can threaten the long-term sustainability of coastal communities and valuable ecosystems such as coral reefs, salt marshes and mangroves. Mangrove forests have the capacity to keep pace with sea-level rise and to avoid inundation through vertical accretion of sediments, which allows them to maintain wetland soil elevations suitable for plant growth. The Indo-Pacific region holds most of the world's mangrove forests, but sediment delivery in this region is declining, owing to anthropogenic activities such as damming of rivers. This decline is of particular concern because the Indo-Pacific region is expected to have variable, but high, rates of future sea-level rise. Here we analyse recent trends in mangrove surface elevation changes across the Indo-Pacific region using data from a network of surface elevation table instruments. We find that sediment availability can enable mangrove forests to maintain rates of soil-surface elevation gain that match or exceed that of sea-level rise, but for 69 per cent of our study sites the current rate of sea-level rise exceeded the soil surface elevation gain. We also present a model based on our field data, which suggests that mangrove forests at sites with low tidal range and low sediment supply could be submerged as early as 2070.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 626
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Mangrove', 'Environmental science', 'Sea level', 'Wetland', 'Sediment', 'Oceanography', 'Elevation (ballistics)', 'Salt marsh', 'Ecosystem', 'Geography', 'Physical geography', 'Geology', 'Ecology', 'Paleontology', 'Geometry', 'Mathematics', 'Biology']

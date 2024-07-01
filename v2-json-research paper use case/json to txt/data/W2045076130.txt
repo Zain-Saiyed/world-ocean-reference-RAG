@@ -1,0 +1,12 @@
+ID: W2045076130
+TITLE: Scales of Mytilus spp. population dynamics: importance of adult displacement and aggregation
+AUTHOR: ['František Petrovič', 'Frédéric Guichard']
+ABSTRACT:
+The control of mussel population dynamics by larval supply and by more local processes affecting post-recruitment survival and growth has received considerable attention.However, immigration and emigration of adults and their contribution to colonization dynamics remain largely unknown.We manipulated the location and density of marked mussels in experimental transplants in the St. Lawrence Estuary (Québec).Our results reveal that colonization by Mytilus spp. is influenced by (1) passive adult movement through wave disturbance and immigration, (2) spatial aggregation and (3) topographic heterogeneity.Results show that ~90% of colonization in experimental plots was by individuals of 4 to 32 mm shell length and was associated with both withintransplant and local (< 0.15 m from transplant) aggregation.Experimental gaps revealed a similarly aggregated wave-disturbance process, propagating small (0.5 m) gaps across >100 m.The passive displacement distribution of marked and wave-dislodged individuals further revealed movement distance ranging from 1 to 150 m and disturbance mortality from < 20 to 40%.Together our results reveal that colonization in subarctic mussel populations can be largely controlled by cycles of adult displacement and further aggregation at the landscape level (~100 m).Such positive feedbacks involved in disturbance and colonization could explain strong fluctuations in abundance and challenge the interpretation of intertidal populations as systems mostly limited by larval supply and post-recruitment survival.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2008/356/m356p203.pdf
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Blue mussel', 'Mytilus', 'Population', 'Ecology', 'Colonization', 'Biology', 'Immigration', 'Emigration', 'Ruditapes', 'Geography', 'Demography', 'Archaeology', 'Sociology']

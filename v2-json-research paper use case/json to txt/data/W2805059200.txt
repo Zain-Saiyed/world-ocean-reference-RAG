@@ -1,0 +1,12 @@
+ID: W2805059200
+TITLE: Future changes in coastal upwelling ecosystems with global warming: The case of the California Current System
+AUTHOR: ['Peng Xiu', 'Fei Chai', 'Enrique Curchitser', 'Frédéric Castruccio']
+ABSTRACT:
+Coastal upwelling ecosystems are among the most productive ecosystems in the world, meaning that their response to climate change is of critical importance. Our understanding of climate change impacts on marine ecosystems is largely limited to the open ocean, mainly because coastal upwelling is poorly reproduced by current earth system models. Here, a high-resolution model is used to examine the response of nutrients and plankton dynamics to future climate change in the California Current System (CCS). The results show increased upwelling intensity associated with stronger alongshore winds in the coastal region, and enhanced upper-ocean stratification in both the CCS and open ocean. Warming of the open ocean forces isotherms downwards, where they make contact with water masses with higher nutrient concentrations, thereby enhancing the nutrient flux to the deep source waters of the CCS. Increased winds and eddy activity further facilitate upward nutrient transport to the euphotic zone. However, the plankton community exhibits a complex and nonlinear response to increased nutrient input, as the food web dynamics tend to interact differently. This analysis highlights the difficulty in understanding how the marine ecosystem responds to a future warming climate, given to range of relevant processes operating at different scales.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-21247-7.pdf
+CITED BY COUNT: 129
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Upwelling', 'Environmental science', 'Photic zone', 'Ecosystem', 'Marine ecosystem', 'Oceanography', 'Plankton', 'Climate change', 'Global warming', 'Pelagic zone', 'Ecosystem model', 'Nutrient', 'Phytoplankton', 'Ecology', 'Geology', 'Biology']

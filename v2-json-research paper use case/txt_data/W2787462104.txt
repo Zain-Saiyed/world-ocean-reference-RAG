@@ -1,0 +1,12 @@
+ID: W2787462104
+TITLE: The North Atlantic Ocean Is in a State of Reduced Overturning
+AUTHOR: ['David A. Smeed', 'Simon A. Josey', 'Claudie Beaulieu', 'William E. Johns', 'Ben Moat', 'Eleanor Frajka‐Williams', 'D. Rayner', 'Christopher S. Meinen', 'Molly O. Baringer', 'Harry L. Bryden', 'Gerard McCarthy']
+ABSTRACT:
+Abstract The Atlantic Meridional Overturning Circulation (AMOC) is responsible for a variable and climatically important northward transport of heat. Using data from an array of instruments that span the Atlantic at 26°N, we show that the AMOC has been in a state of reduced overturning since 2008 as compared to 2004–2008. This change of AMOC state is concurrent with other changes in the North Atlantic such as a northward shift and broadening of the Gulf Stream and altered patterns of heat content and sea surface temperature. These changes resemble the response to a declining AMOC predicted by coupled climate models. Concurrent changes in air‐sea fluxes close to the western boundary reveal that the changes in ocean heat transport and sea surface temperature have altered the pattern of ocean‐atmosphere heat exchange over the North Atlantic. These results provide strong observational evidence that the AMOC is a major factor in decadal‐scale variability of North Atlantic climate.
+
+SOURCE: Geophysical research letters
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2017GL076350
+CITED BY COUNT: 265
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['North Atlantic Deep Water', 'Gulf Stream', 'Climatology', 'Oceanography', 'Thermohaline circulation', 'Shutdown of thermohaline circulation', 'Geology', 'Sea surface temperature', 'Ocean current', 'Climate change', 'Boundary current', 'Atlantic Equatorial mode', 'Atlantic multidecadal oscillation', 'Ocean heat content', 'Environmental science']

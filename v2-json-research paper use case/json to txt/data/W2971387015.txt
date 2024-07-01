@@ -1,0 +1,12 @@
+ID: W2971387015
+TITLE: Interactions in the Marine Benthos
+AUTHOR: []
+ABSTRACT:
+Book summary page views Book summary page views help Close Book summary page views help Book summary views reflect the number of visits to the book and chapter landing pages. Total views: 0 * Loading metrics...
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2019
+TYPE: book
+CONCEPTS: ['Benthos', 'Computer science', 'World Wide Web', 'Information retrieval', 'Geography', 'Library science', 'Oceanography', 'Geology', 'Benthic zone']

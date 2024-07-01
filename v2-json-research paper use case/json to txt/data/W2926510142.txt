@@ -1,0 +1,12 @@
+ID: W2926510142
+TITLE: The use of spatially explicit genetic variation data from four deep-sea sponges to inform the protection of Vulnerable Marine Ecosystems
+AUTHOR: ['Cong Zeng', 'Malcolm R. Clark', 'Ashley A. Rowden', 'Michelle Kelly', 'Jonathan P. A. Gardner']
+ABSTRACT:
+Abstract The United Nations General Assembly has called for greater protection of the world’s deep-sea species and of features such as Vulnerable Marine Ecosystems (VMEs). Sponges are important components of VMEs and information about their spatially explicit genetic diversity can inform management decisions concerning the placement of protected areas. We employed a spatially explicit hierarchical testing framework to examine genetic variation amongst archived samples of four deep-sea sponges in the New Zealand region. For Poecillastra laminaris Sollas 1886, significant mitochondrial ( COI , Cytb ) and nuclear DNA (microsatellite) genetic differences were observed between provinces, amongst north-central-south regions and amongst geomorphic features. For Penares sp. no significant structure was detected ( COI , 12S ) across the same areas. For both Neoaulaxinia persicum Kelly, 2007 ( COI , 12S ) and Pleroma menoui Lévi &amp; Lévi 1983 ( COI ) there was no evidence of genetic differentiation within their northern only regional distributions. Of 10 separate species-by-marker tests for isolation-by-distance and isolation-by-depth, only the isolation-by-depth test for N . persicum for COI was significant. The use of archived samples highlights how historical material may be used to support national and international management decisions. The results are discussed in the broader context of existing marine protected areas, and possible future design of spatial management measures for protecting VMEs in the New Zealand region.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-41877-9.pdf
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Context (archaeology)', 'Marine protected area', 'Marine ecosystem', 'Ecology', 'Isolation by distance', 'Genetic diversity', 'Geography', 'Marine spatial planning', 'Biodiversity', 'Sponge', 'Biology', 'Ecosystem', 'Genetic structure', 'Environmental resource management', 'Genetic variation', 'Environmental planning', 'Archaeology', 'Demography', 'Habitat', 'Population', 'Environmental science', 'Gene', 'Biochemistry', 'Botany', 'Sociology']

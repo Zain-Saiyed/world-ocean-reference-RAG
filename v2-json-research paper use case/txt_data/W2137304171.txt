@@ -1,0 +1,12 @@
+ID: W2137304171
+TITLE: Poleward expansion of mangroves is a threshold response to decreased frequency of extreme cold events
+AUTHOR: ['Kyle C. Cavanaugh', 'James R. Kellner', 'Alexander J. Forde', 'Daniel S. Gruner', 'John D. Parker', 'Wilfrid Rodriguez', 'Ilka C. Feller']
+ABSTRACT:
+Significance Coastal mangrove forests support a diverse array of associated species and provide ecosystem services to human communities. Mangroves cannot tolerate extreme freezing temperatures and so are generally limited to tropical environments. However, climate change in the form of increasing temperatures has the potential to facilitate increases in mangrove abundance near tropical–temperate transition zones. Here, we use 28 y of satellite imagery to demonstrate that increases in mangrove area have already occurred along the northeast coast of Florida. These increases correspond to decreases in the frequency of extreme cold events in this region. We also identify a temperature-related ecological threshold of −4°C. These results suggest that landscape-scale increases in mangrove area may occur in other regions where this threshold is crossed.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/111/2/723.full.pdf
+CITED BY COUNT: 450
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Mangrove', 'Temperate climate', 'Climate change', 'Abundance (ecology)', 'Ecosystem', 'Mangrove ecosystem', 'Ecology', 'Environmental science', 'Tropics', 'Geography', 'Physical geography', 'Biology']

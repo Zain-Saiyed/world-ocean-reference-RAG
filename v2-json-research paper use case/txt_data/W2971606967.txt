@@ -1,0 +1,12 @@
+ID: W2971606967
+TITLE: Non‐native species are a global issue for marine protected areas
+AUTHOR: ['Josephine C. Iacarella', 'Dominique Saheed', 'Anya Dunham', 'Natalie C. Ban']
+ABSTRACT:
+The global extent of marine protected areas ( MPA s) is increasing as nations strive to meet UN conservation targets, yet non‐native species ( NNS ) are a critically overlooked stressor that threatens MPA conservation goals. Despite evidence that marine NNS affect protected species and habitats, there is limited understanding of the pervasiveness of this threat and the extent to which resource managers are responding to it. We disseminated a questionnaire targeting MPA practitioners and scientists to determine the overall state of knowledge and perception of NNS in MPA s. We received 151 responses from individuals in 47 countries and territories, including a total of 116 MPA s of which 73 were reported to have NNS present. Although NNS are a prevalent issue in MPA s and are the subject of some monitoring, management, and research, preventative measures are largely absent, so that more focused attention on NNS will be required to achieve conservation goals.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2019
+TYPE: review
+CONCEPTS: ['Marine protected area', 'Resource (disambiguation)', 'Environmental resource management', 'Stressor', 'Habitat', 'Marine conservation', 'Perception', 'Geography', 'Marine species', 'Environmental planning', 'Invasive species', 'Introduced species', 'Ecology', 'Environmental protection', 'Biology', 'Environmental science', 'Computer science', 'Computer network', 'Neuroscience']

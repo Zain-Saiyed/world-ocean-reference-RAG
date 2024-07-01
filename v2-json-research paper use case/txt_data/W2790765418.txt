@@ -1,0 +1,12 @@
+ID: W2790765418
+TITLE: Current status of emerging hypoxia in a eutrophic estuary: The lower reach of the Pearl River Estuary, China
+AUTHOR: ['Wei Qian', 'Jianping Gan', 'Jinwen Liu', 'Bo He', 'Zhongming Lu', 'Xianghui Guo', 'Deli Wang', 'Liguo Guo', 'Tao Huang', 'Minhan Dai']
+ABSTRACT:
+We examine the current status of dissolved oxygen (DO) and its trend over the past 25 years in the lower Pearl River Estuary, a large eutrophic estuary located in Southern China and surrounded by large cities including Hong Kong, Shenzhen and Guangzhou. Monthly cruises conducted from April 2010 to March 2011 clearly show that DO depletion began to emerge in the bottom layer of the lower estuary off Hong Kong in June, and became fully developed in July and August when oxygen-deficient water occupied ∼1000 km2 before gradually becoming re-oxygenated in September and October. The development of the low oxygen zone was closely coupled with phytoplankton blooms in the surface water, which was supersaturated with respect to DO suggesting the importance of autochthonous organic matter in fueling bottom DO consumption after settling through the pycnocline. Long-term monitoring data collected in the study area adjacent to Hong Kong by the Hong Kong Environmental Protection Department showed a decreasing trend of ∼2 ± 0.9 μmol kg−1 yr−1 in the annual minimum DO concentration in bottom water over the past 25 years. Associated with the decrease in DO was an increase in the annual maximum surface concentration of dissolved inorganic nitrogen (DIN) at a rate of ∼1.4 ± 0.3 μmol kg−1 yr−1, suggesting again that eutrophication is the most plausible driver of oxygen deficiency in this region. Therefore, our monthly cruises, along with the decadal monitoring data, reveal a large low oxygen zone, likely developing into a large hypoxic zone driven primarily by anthropogenic eutrophication. This new development suggests environmental stressors such as eutrophication may have a cascading effect, with important and expensive consequences for the regional environment.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 108
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Estuary', 'Hypoxia (environmental)', 'Environmental science', 'Oceanography', 'Surface water', 'Bottom water', 'Hydrology (agriculture)', 'Phytoplankton', 'Oxygen', 'Nutrient', 'Ecology', 'Geology', 'Environmental engineering', 'Biology', 'Chemistry', 'Geotechnical engineering', 'Organic chemistry']

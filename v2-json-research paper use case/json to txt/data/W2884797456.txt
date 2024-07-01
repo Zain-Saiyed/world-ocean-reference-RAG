@@ -1,0 +1,12 @@
+ID: W2884797456
+TITLE: The first offshore natural gas hydrate production test in South China Sea
+AUTHOR: ['Jinfa Li', 'Jian-liang Ye', 'Xuwen Qin', 'Haijun Qiu', 'Nengyou Wu', 'Hailong Lu', 'Wenwei Xie', 'Jing Lu', 'Fei Peng', 'Zhaokai Xu', 'Cheng Lü', 'Zenggui Kuang', 'Jiangong Wei', 'Qianyong Liang', 'Hongfeng Lu', 'Bei-bei Kou']
+ABSTRACT:
+Natural gas hydrates (NGH) is one of key future clean energy resources. Its industrialized development will help remit the huge demand of global natural gas, relieve the increasing pressure of the environment, and play a vital role in the green sustainable growth of human societies. Based on nearly two decades’ studying on the reservoir characteristics in the South China Sea (SCS) and the knowledge of reservoir system, the China Geological Survey (CGS) conducted the first production test on an optimal target selected in Shenhu area SCS in 2017. Guided by the "three-phase control"exploitation theory which focused on formation stabilization, technologies such as formation fluid extraction, well drilling and completing, reservoir stimulating, sand controlling, environmental monitoring, monitoring and preventing of secondary formation of hydrates were applied. The test lasted for 60 days from May 10<sup>th</sup> when starting to pump, drop pressure and ignite to well killing on July 9<sup>th</sup>, with gas production of 3.09×10<sup>5</sup> m<sup>3</sup> in total, which is a world record with the longest continuous duration of gas production and maximal gas yield. This successful test brings a significant breakthrough on safety control of NGH production.
+
+SOURCE: China geology
+PDF URL: None
+CITED BY COUNT: 676
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Natural gas', 'Drilling', 'Production (economics)', 'Submarine pipeline', 'Petroleum engineering', 'China', 'Environmental science', 'Engineering', 'Geology', 'Waste management', 'Geography', 'Oceanography', 'Archaeology', 'Economics', 'Macroeconomics', 'Mechanical engineering']

@@ -1,0 +1,12 @@
+ID: W2949177418
+TITLE: Review of the Mental Health and Well-being Benefits of Biodiversity
+AUTHOR: ['Melissa R. Marselle', 'Dörte Martens', 'Martin Dallimer', 'Katherine N. Irvine']
+ABSTRACT:
+Little is known about the contribution that biodiversity has on mental health and well-being. To date, only one systematic review has investigated the health and well-being benefits from contact with biodiversity (Lovell et al. J Toxicol Environ Health B Crit Rev 17(1):1–20, 2014). The number of research studies investigating the health and well-being effects of biodiversity has increased since this publication. Here, we provide an update, focusing on the impact of biodiversity on mental health and well-being. Our objectives are to: (i) identify and describe the literature published after 2012; and (ii) synthesise all results from Lovell et al. (J Toxicol Environ Health B Crit Rev 17(1):1–20, 2014) and the more recently published literature to assess whether biodiversity influences mental health and well-being. Sixteen recently published studies met the inclusion criteria. The literature is varied with different study designs, measures of biodiversity, mental health and well-being. The synthesis of results was drawn from 24 studies: nine from Lovell et al. (J Toxicol Environ Health B Crit Rev 17(1):1–20, 2014) and 15 identified by this chapter. There is some evidence to suggest that biodiversity promotes better mental health and well-being. However, more studies reported non-significant results. The evidence is not yet of the extent necessary to characterise the role of biodiversity in relation to mental health or well-being. Future interdisciplinary research directions are discussed.
+
+SOURCE: Springer eBooks
+PDF URL: https://link.springer.com/content/pdf/10.1007%2F978-3-030-02318-8_9.pdf
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Biodiversity', 'Mental health', 'Inclusion (mineral)', 'Geography', 'Environmental health', 'Psychology', 'Medicine', 'Ecology', 'Psychiatry', 'Biology', 'Social psychology']

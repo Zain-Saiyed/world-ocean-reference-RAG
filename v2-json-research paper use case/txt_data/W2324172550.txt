@@ -1,0 +1,12 @@
+ID: W2324172550
+TITLE: Degradation and conservation of Brazilian mangroves, status and perspectives
+AUTHOR: ['Alexander Cesar Ferreira', 'Luiz Drude de Lacerda']
+ABSTRACT:
+Mangroves are one of the most human-affected coastal ecosystems, despite their important social and ecological roles, and after decades of devastation these forests continue facing different processes of conversion, threatening their global future. Brazilian mangroves are not an exception, despite the existence of severe protection legislation. Conversions to aquaculture, industrial and urban development among others, have destroyed more than 50,000 ha (about 4% of the total mangrove area in the country) over the past three decades. Restoration efforts have somewhat minimized losses, but has recuperated only a 5% of the total degraded area. Despite criticized, monospecific plantings have demonstrated return of some ecosystem structure and functioning, and seems to be a starting point in mangrove restoration. Around 70% of Brazilian mangroves are today inside preserved areas, but the effectiveness of these advances continues impaired by bureaucracy, lack of conservation policies and economic interests. We estimate the status of Brazilian mangroves and review some restoration and conservation efforts, suggesting some management measures like restoration and community-based ecosystem management. Based in a reforested stand in Northeastern Brazil, we assess the environmental cost of mangrove clearing and reforestation results.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 118
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Mangrove', 'Reforestation', 'Deforestation (computer science)', 'Environmental degradation', 'Restoration ecology', 'Mangrove ecosystem', 'Ecosystem', 'Geography', 'Agroforestry', 'Ecosystem services', 'Clearing', 'Afforestation', 'Environmental protection', 'Environmental resource management', 'Natural resource economics', 'Ecology', 'Business', 'Forestry', 'Environmental science', 'Economics', 'Computer science', 'Biology', 'Finance', 'Programming language']

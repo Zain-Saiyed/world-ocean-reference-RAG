@@ -1,0 +1,12 @@
+ID: W2896252587
+TITLE: The Global Mangrove Watch—A New 2010 Global Baseline of Mangrove Extent
+AUTHOR: ['Peter Bunting', 'Åke Rosenqvist', 'Richard Lucas', 'Lisa‐Maria Rebelo', 'Lammert Hilarides', 'Nathan Thomas', 'Andrew Hardy', 'Takuya Itoh', 'Masanobu Shimada', 'C. Max Finlayson']
+ABSTRACT:
+This study presents a new global baseline of mangrove extent for 2010 and has been released as the first output of the Global Mangrove Watch (GMW) initiative. This is the first study to apply a globally consistent and automated method for mapping mangroves, identifying a global extent of 137,600 km 2 . The overall accuracy for mangrove extent was 94.0% with a 99% likelihood that the true value is between 93.6–94.5%, using 53,878 accuracy points across 20 sites distributed globally. Using the geographic regions of the Ramsar Convention on Wetlands, Asia has the highest proportion of mangroves with 38.7% of the global total, while Latin America and the Caribbean have 20.3%, Africa has 20.0%, Oceania has 11.9%, North America has 8.4% and the European Overseas Territories have 0.7%. The methodology developed is primarily based on the classification of ALOS PALSAR and Landsat sensor data, where a habitat mask was first generated, within which the classification of mangrove was undertaken using the Extremely Randomized Trees classifier. This new globally consistent baseline will also form the basis of a mangrove monitoring system using JAXA JERS-1 SAR, ALOS PALSAR and ALOS-2 PALSAR-2 radar data to assess mangrove change from 1996 to the present. However, when using the product, users should note that a minimum mapping unit of 1 ha is recommended and that the error increases in regions of disturbance and where narrow strips or smaller fragmented areas of mangroves are present. Artefacts due to cloud cover and the Landsat-7 SLC-off error are also present in some areas, particularly regions of West Africa due to the lack of Landsat-5 data and persistence cloud cover. In the future, consideration will be given to the production of a new global baseline based on 10 m Sentinel-2 composites.
+
+SOURCE: Remote sensing
+PDF URL: https://www.mdpi.com/2072-4292/10/10/1669/pdf?version=1540207964
+CITED BY COUNT: 436
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mangrove', 'Baseline (sea)', 'Wetland', 'Geography', 'Environmental science', 'Remote sensing', 'Forestry', 'Ecology', 'Oceanography', 'Geology', 'Biology']

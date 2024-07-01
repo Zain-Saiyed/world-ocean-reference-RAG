@@ -1,0 +1,12 @@
+ID: W1588527221
+TITLE: Indigenous fish traps and weirs of Queensland
+AUTHOR: ['Michael J. Rowland', 'Sean Ulm']
+ABSTRACT:
+&lt;p&gt;A Queensland state-wide review of coastal and inland fish traps and weirs is undertaken. More than 179 sites are described. For coastal Queensland, it is demonstrated that traps with multiple pens are common in the Torres Strait and at a limited number of locations in the southern Gulf of Carpentaria. Most traps and weirs south of Torres Strait and the Gulf are isolated structures, with traps in most cases having a single pen. Walls of traps are most often in the shape of an arc and found at points and estuaries and only occasionally on open beaches. Some traps and weirs on the coast were built or used by non-Indigenous people, including South Sea Islanders. Less information could be located on traps and weirs of inland Queensland, which appear to have included many organic traps and weirs. It was found that weirs are common east of the Great Dividing Range, while traps were common to the west. The review draws heavily on unpublished data and reports held by the Queensland Department of Environment and Resource Management. The use of this information along with published sources, theses, explorer's diaries and ethnographic accounts allows a comprehensive overview of available information. Fish traps in particular are often found in coastal zones subject to development pressure and this work provides a baseline resource to generate discussion about research and management of this significant site type in these zones.&lt;/p&gt;
+
+SOURCE: Queensland archaeological research
+PDF URL: https://journals.jcu.edu.au/qar/article/download/219/214
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Carpentaria', 'Indigenous', 'Estuary', 'Fishery', 'Geography', 'Fish <Actinopterygii>', 'Resource (disambiguation)', 'Marsh', 'Range (aeronautics)', 'Artisanal fishing', 'Oceanography', 'Archaeology', 'Ecology', 'Geology', 'Wetland', 'Engineering', 'Biology', 'Computer network', 'Computer science', 'Aerospace engineering']

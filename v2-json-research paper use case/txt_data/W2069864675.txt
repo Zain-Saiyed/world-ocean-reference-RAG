@@ -1,0 +1,12 @@
+ID: W2069864675
+TITLE: An extreme event of sea-level rise along the Northeast coast of North America in 2009–2010
+AUTHOR: ['Paul B. Goddard', 'Jingxue Yin', 'Stephen M. Griffies', 'Shaoqing Zhang']
+ABSTRACT:
+The coastal sea levels along the Northeast Coast of North America show significant year-to-year fluctuations in a general upward trend. The analysis of long-term tide gauge records identified an extreme sea-level rise (SLR) event during 2009-10. Within this 2-year period, the coastal sea level north of New York City jumped by 128 mm. This magnitude of interannual SLR is unprecedented (a 1-in-850 year event) during the entire history of the tide gauge records. Here we show that this extreme SLR event is a combined effect of two factors: an observed 30% downturn of the Atlantic meridional overturning circulation during 2009-10, and a significant negative North Atlantic Oscillation index. The extreme nature of the 2009-10 SLR event suggests that such a significant downturn of the Atlantic overturning circulation is very unusual. During the twenty-first century, climate models project an increase in magnitude and frequency of extreme interannual SLR events along this densely populated coast.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms7346.pdf
+CITED BY COUNT: 156
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Tide gauge', 'Climatology', 'North Atlantic oscillation', 'Sea level', 'Oceanography', 'Sea level rise', 'Period (music)', 'Climate change', 'Geography', 'Magnitude (astronomy)', 'Environmental science', 'Geology', 'Physics', 'Astronomy', 'Acoustics']

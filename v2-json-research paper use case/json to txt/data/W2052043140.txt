@@ -1,0 +1,12 @@
+ID: W2052043140
+TITLE: Is the atmosphere really an important source of reactive nitrogen to coastal waters?
+AUTHOR: ['L. Spokes', 'Tim Jickells']
+ABSTRACT:
+Increasing inputs of reactive nitrogen have led to excessive phytoplankton growth in some coastal waters. Until recently, rivers were thought to be the most important nitrogen source but we now know that atmospheric inputs are large and can equal, or exceed, those from the rivers. These atmospheric nitrogen compounds have both agricultural sources (ammonia emitted from animal wastes) and combustion sources (nitrate derived from NOx emitted by vehicles and power stations). Our hypothesis is that atmospheric nitrogen deposition in summer to nutrient depleted, well lit, surface waters in coastal seas stimulates phytoplankton blooms. This paper summarises and compares studies conducted in the North Sea, the North East Atlantic Ocean and the Kattegat Sea. Budgeting approaches imply that the atmosphere can, under certain meteorological conditions and over short time periods, provide enough nitrogen to support a large increase in phytoplankton growth. This is not true in all areas and at all times and this emphasises the highly episodic nature of atmospheric deposition. However, productivity-based approaches suggest that atmospheric nitrogen inputs have little effect on phytoplankton growth. This may be because productivity in the North Sea and the Kattegat is controlled by internal recycling of nitrogen, even in the summer when inorganic nitrogen levels are very low. Over longer time scales, atmospheric inputs do increase the overall nitrogen stock in the water column. Reducing the input of nitrogen from the atmosphere will, therefore, reduce total nitrogen loads to coastal seas and hence may decrease eutrophication problems.
+
+SOURCE: Continental shelf research
+PDF URL: None
+CITED BY COUNT: 70
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Eutrophication', 'Reactive nitrogen', 'Environmental science', 'Oceanography', 'Nitrogen', 'Productivity', 'Biogeochemical cycle', 'Atmosphere (unit)', 'Nitrate', 'Deposition (geology)', 'Water column', 'Nitrogen cycle', 'Nutrient', 'Environmental chemistry', 'Ecology', 'Geology', 'Chemistry', 'Meteorology', 'Geography', 'Organic chemistry', 'Paleontology', 'Macroeconomics', 'Sediment', 'Economics', 'Biology']

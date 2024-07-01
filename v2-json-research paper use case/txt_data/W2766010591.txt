@@ -1,0 +1,12 @@
+ID: W2766010591
+TITLE: Simple family-level parrotfish indicators are robust to survey method
+AUTHOR: ['Henri Vallès', 'Hazel A. Oxenford']
+ABSTRACT:
+Given the current degradation of Caribbean coral reefs, considerable regional emphasis has been put into monitoring the state of key exploited reef fish herbivores, namely surgeonfishes and parrotfishes, through underwater visual fish surveys (UVFS). However, like all survey methods, UVFS suffer from sampling errors that could mask real spatio-temporal trends in fish metrics. Here, we compare trends in simple reef fish herbivore metrics, i.e. average individual fish weight, fish abundance and fish biomass, between UVFS and fish trap surveys, an alternative survey method. Because both methods fundamentally differ in the underlying nature of their sampling errors, we argue that fish metrics exhibiting high consistency between methods will more likely reflect real environmentally-induced trends and should thus be emphasized in monitoring programs. We conducted repeated surveys using both methods concurrently at six sites along a fishing pressure gradient in a Caribbean island. We then examined between-method consistency in fish metric trends across sites and precision in fish metric estimates for each method using surgeonfish and parrotfish data at different levels of aggregation, i.e. species-, family- and functional-level (both herbivorous families combined). We found high and robust between-method consistency only for parrotfish data aggregated at the family level, which also exhibited the highest overall precision in metric estimates. All other fish groups exhibited poorer between-method consistency and poorer precision in their metrics, indicating comparatively higher sensitivity to method-specific sampling errors. Overall, our study supports that family-level parrotfish metrics are particularly robust to survey method, which considerably increases their value as indicators for Caribbean reef monitoring programs.
+
+SOURCE: Ecological indicators
+PDF URL: None
+CITED BY COUNT: 1
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Parrotfish', 'Coral reef fish', 'Coral reef', 'Consistency (knowledge bases)', 'Abundance (ecology)', 'Survey methodology', 'Fishery', 'Metric (unit)', 'Sampling (signal processing)', 'Fishing', 'Ecology', 'Fish <Actinopterygii>', 'Environmental science', 'Geography', 'Statistics', 'Biology', 'Mathematics', 'Computer science', 'Operations management', 'Filter (signal processing)', 'Computer vision', 'Economics', 'Geometry']

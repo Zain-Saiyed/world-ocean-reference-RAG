@@ -1,0 +1,12 @@
+ID: W2829719682
+TITLE: Marine Biotechnology in Brazil: Recent Developments and Its Potential for Innovation
+AUTHOR: ['Fabiano L. Thompson', 'Ricardo Henrique Krüger', 'Cristiane C. Thompson', 'Roberto G. S. Berlinck', 'Ricardo Coutinho', 'Melissa Fontes Landell', 'Mauro S. G. Pavão', 'Paulo A.S. Mourão', 'Ana Carolina Salles', 'Naiane Negri', 'Fabyano Álvares Cardoso Lopes', 'Vítor F. Freire', 'Alexandre José Macêdo', 'Marcelo Maraschin', 'Carlos Daniel Pérez', 'Renato Crespo Pereira', 'Gandhi Rádis‐Baptista', 'Rachel Passos Rezende', 'Wagner C. Valenti', 'Paulo César Abreu']
+ABSTRACT:
+Marine biotechnology is an emerging field in Brazil and includes the exploration of marine microbial products, aquaculture, omics, isolation of biologically active compounds, identification of biosynthetic gene clusters from symbiotic microorganisms, investigation of invertebrate diseases caused by potentially pathogenic marine microbes, and development of antifouling compounds. Furthermore, the field also encompasses description of new biological niches, current threats, preservation strategies as well as its biotechnological potential. Finally, it is important to depict some of the major approaches and tools being employed to such end. To address the challenges of marine biotechnology, the Brazilian government, through the Ministry of Science, Technology, Innovation, and Communication, has established the National Research Network in Marine Biotechnology (BiotecMar) (www.biotecmar.sage.coppe.ufrj.br). Its main objective is to harness marine biodiversity and develop the marine bioeconomy through innovative research.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00236/pdf
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Identification (biology)', 'Biotechnology', 'Biology', 'Christian ministry', 'Marine invertebrates', 'Aquaculture', 'Business', 'Ecology', 'Fishery', 'Fish <Actinopterygii>', 'Political science', 'Law']

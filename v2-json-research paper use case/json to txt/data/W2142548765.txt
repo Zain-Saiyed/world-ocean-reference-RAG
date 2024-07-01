@@ -1,0 +1,12 @@
+ID: W2142548765
+TITLE: Seabird conservation status, threats and priority actions: a global assessment
+AUTHOR: ['John P. Croxall', 'Stuart H. M. Butchart', 'Ben Lascelles', 'Alison J. Stattersfield', 'Ben Sullivan', 'Andy Symes', 'Phil Taylor']
+ABSTRACT:
+Summary We review the conservation status of, and threats to, all 346 species of seabirds, based on BirdLife International’s data and assessments for the 2010 IUCN Red List. We show that overall, seabirds are more threatened than other comparable groups of birds and that their status has deteriorated faster over recent decades. The principal current threats at sea are posed by commercial fisheries (through competition and mortality on fishing gear) and pollution, whereas on land, alien invasive predators, habitat degradation and human disturbance are the main threats. Direct exploitation remains a problem for some species both at sea and ashore. The priority actions needed involve: a) formal and effective site protection, especially for Important Bird Area (IBA) breeding sites and for marine IBA feeding and aggregation sites, as part of national, regional and global networks of Marine Protected Areas; b) removal of invasive, especially predatory, alien species (a list of priority sites is provided), as part of habitat and species recovery initiatives; and c) reduction of bycatch to negligible levels, as part of comprehensive implementation of ecosystem approaches to fisheries. The main knowledge gaps and research priorities relate to the three topics above but new work is needed on impacts of aquaculture, energy generation operations and climate change (especially effects on the distribution of prey species and rise in sea level). We summarise the relevant national and international jurisdictional responsibilities, especially in relation to endemic and globally threatened species.
+
+SOURCE: Bird conservation international
+PDF URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/29944BD8AA1EED41210B777389F34952/S0959270912000020a.pdf/div-class-title-seabird-conservation-status-threats-and-priority-actions-a-global-assessment-div.pdf
+CITED BY COUNT: 896
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Threatened species', 'IUCN Red List', 'Bycatch', 'Habitat destruction', 'Geography', 'Marine protected area', 'Vulnerable species', 'Habitat', 'Conservation status', 'Fishing', 'Fishery', 'Endangered species', 'Data deficient', 'Marine ecosystem', 'Marine conservation', 'Ecology', 'Ecosystem', 'Biology']

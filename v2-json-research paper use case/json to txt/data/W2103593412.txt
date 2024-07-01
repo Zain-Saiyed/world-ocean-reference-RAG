@@ -1,0 +1,12 @@
+ID: W2103593412
+TITLE: Evidence that ship noise increases stress in right whales
+AUTHOR: ['Rosalind M. Rolland', 'Susan E. Parks', 'Kathleen E. Hunt', 'Manuel Castellote', 'Peter J. Corkeron', 'Douglas P. Nowacek', 'Samuel K. Wasser', 'Scott D. Kraus']
+ABSTRACT:
+Baleen whales (Mysticeti) communicate using low-frequency acoustic signals. These long-wavelength sounds can be detected over hundreds of kilometres, potentially allowing contact over large distances. Low-frequency noise from large ships (20-200 Hz) overlaps acoustic signals used by baleen whales, and increased levels of underwater noise have been documented in areas with high shipping traffic. Reported responses of whales to increased noise include: habitat displacement, behavioural changes and alterations in the intensity, frequency and intervals of calls. However, it has been unclear whether exposure to noise results in physiological responses that may lead to significant consequences for individuals or populations. Here, we show that reduced ship traffic in the Bay of Fundy, Canada, following the events of 11 September 2001, resulted in a 6 dB decrease in underwater noise with a significant reduction below 150 Hz. This noise reduction was associated with decreased baseline levels of stress-related faecal hormone metabolites (glucocorticoids) in North Atlantic right whales (Eubalaena glacialis). This is the first evidence that exposure to low-frequency ship noise may be associated with chronic stress in whales, and has implications for all baleen whales in heavy ship traffic areas, and for recovery of this endangered right whale population.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2011.2429
+CITED BY COUNT: 441
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Baleen', 'Right whale', 'Noise (video)', 'Environmental science', 'Ambient noise level', 'Fishery', 'Population', 'Cetacea', 'Bay', 'Biology', 'Oceanography', 'Geography', 'Acoustics', 'Geology', 'Whale', 'Sound (geography)', 'Medicine', 'Physics', 'Environmental health', 'Artificial intelligence', 'Computer science', 'Image (mathematics)']

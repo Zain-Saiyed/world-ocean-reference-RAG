@@ -1,0 +1,12 @@
+ID: W2044276359
+TITLE: An analysis of risks for biodiversity under the DPSIR framework
+AUTHOR: ['Laura Maxim', 'Joachim H. Spangenberg', 'Martin O’Connor']
+ABSTRACT:
+This paper reviews definitions and uses of the Driving Forces–Pressures–State–Impacts–Responses (DPSIR) framework and argues that it is a relevant tool for structuring communication between scientists and end-users of environmental information, while it is inappropriate as an analytical tool. An apparently deterministic ‘causal’ description of environmental issues inevitably downplays the uncertainty and multiple dimensions of causality inherent in complex environmental and socio-economic systems. Consequently, the paper comõplements and reframes ‘DPSIR’ using a complex system methodology based on the distinction between four ‘spheres’ of sustainability (environmental, economic, social and political) and the analysis of their functioning and relationships. The pair-wise interface aspects are characterised through investigation of the ‘demands’ and ‘supply’ of each sphere relative to the others. Within the resulting conceptual framework, each of the five D, P, S, I and R concepts are specified, for application in integrative analysis of relationships between policy, society, economy and biodiversity in one of the world's largest European integrated research projects on biodiversity (ALARM).
+
+SOURCE: Ecological economics
+PDF URL: None
+CITED BY COUNT: 249
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['DPSIR', 'Structuring', 'Causality (physics)', 'Sustainability', 'Environmental resource management', 'Conceptual framework', 'Environmental economics', 'Business', 'Environmental planning', 'Risk analysis (engineering)', 'Economics', 'Management science', 'Ecology', 'Sociology', 'Geography', 'Biology', 'Social science', 'Physics', 'Finance', 'Quantum mechanics']

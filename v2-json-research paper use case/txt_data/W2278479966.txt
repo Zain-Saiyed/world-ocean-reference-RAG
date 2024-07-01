@@ -1,0 +1,12 @@
+ID: W2278479966
+TITLE: Community structure and diversity of scavenging amphipods from bathyal to hadal depths in three South Pacific Trenches
+AUTHOR: ['Nichola C. Lacey', 'Ashley A. Rowden', 'Malcolm R. Clark', 'Niamh M. Kilgallen', 'Thomas D. Linley', 'Daniel J. Mayor', 'Alan J. Jamieson']
+ABSTRACT:
+There are few biological datasets that span large bathymetric ranges with sufficient resolution to identify trends across the abyssal and hadal transition zone, particularly over multiple trenches. Here, scavenging Amphipoda were collected from three trenches in the South Pacific Ocean at bathyal to hadal depths. Diversity and community structure were examined from stations within the Kermadec Trench (1490–9908 m) and New Hebrides Trench (2000–6948 m) and additional data were included from the South Fiji Basin (4000 m) and Peru-Chile Trench (4602–8074 m). The hadal community structure of the Kermadec and New Hebrides trenches were distinct from the surrounding abyssal and bathyal depths and correlated to hydrostatic pressure and POC flux. Low POC flux in the New Hebrides Trench and South Fiji Basin best explained the dissimilarity in abyssal community structure from those of the disparate Kermadec and Peru-Chile trenches. POC flux also best explained patterns in hadal community structure with the Kermadec and New Hebrides Trench communities showing greater similarity to each other than to the eutrophic Peru-Chile Trench. Hydrostatic pressure was the strongest driver of intra-trench assemblage composition in all trench environments. A unimodal pattern of species diversity, peaking between 4000 and 5000 m, was best explained by hydrostatic pressure and temperature.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Geology', 'Bathyal zone', 'Trench', 'Hydrostatic pressure', 'Oceanography', 'Abyssal plain', 'Paleontology', 'Structural basin', 'Benthic zone', 'Chemistry', 'Physics', 'Organic chemistry', 'Layer (electronics)', 'Thermodynamics']

@@ -1,0 +1,12 @@
+ID: W2786828167
+TITLE: Building adaptive capacity to climate change in tropical coastal communities
+AUTHOR: ['Joshua E. Cinner', 'W. Neil Adger', 'Edward H. Allison', 'Michele L. Barnes', 'Katrina Brown', 'Philippa J. Cohen', 'Stefan Gelcich', 'Christina C. Hicks', 'Terry P. Hughes', 'Jacqueline Lau', 'Nadine Marshall', 'Tiffany H. Morrison']
+ABSTRACT:
+To minimize the impacts of climate change on human wellbeing, governments, development agencies, and civil society organizations have made substantial investments in improving people’s capacity to adapt to change. Yet to date, these investments have tended to focus on a very narrow understanding of adaptive capacity. Here, we propose an approach to build adaptive capacity across five domains: the assets that people can draw upon in times of need; the flexibility to change strategies; the ability to organize and act collectively; learning to recognize and respond to change; and the agency to determine whether to change or not. Efforts to improve people’s capacity to adapt to climate change have so far focussed on a relatively narrow understanding of adaptive capacity. In this Perspective, the authors propose an approach to build adaptive capacity across a broader set of domains.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 422
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Adaptive capacity', 'Climate change', 'Flexibility (engineering)', 'Agency (philosophy)', 'Capacity building', 'Perspective (graphical)', 'Environmental resource management', 'Set (abstract data type)', 'Capacity development', 'Business', 'Environmental planning', 'Computer science', 'Geography', 'Economic growth', 'Environmental science', 'Economics', 'Ecology', 'Sociology', 'Social science', 'Management', 'Artificial intelligence', 'Biology', 'Programming language']

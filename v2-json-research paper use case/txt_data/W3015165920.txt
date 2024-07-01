@@ -1,0 +1,12 @@
+ID: W3015165920
+TITLE: Habitat suitability modelling to predict the spatial distribution of cold‐water coral communities affected by the <i>Deepwater Horizon</i> oil spill
+AUTHOR: ['Samuel E. Georgian', 'Kody Kramer', 'Miles Saunders', 'William Shedd', 'Harry H. Roberts', 'Christopher G. Lewis', 'Chuck Fisher', 'Erik E. Cordes']
+ABSTRACT:
+Abstract Aim The Deepwater Horizon disaster resulted in the largest accidental marine oil spill in history and caused extensive injury to deep‐sea habitats, including cold‐water coral communities dominated by Paramuricea species. One of the primary difficulties in assessing the full extent of the injury to cold‐water coral ecosystems is the extreme paucity of observational data and the subsequent lack of knowledge of their distribution within the affected region. The aim of this study was to use habitat suitability modelling to estimate the number of potentially affected Paramuricea sp. corals across the northern Gulf of Mexico. Location Northern Gulf of Mexico. Taxon Cold‐water corals in the genus Paramuricea. Methods High‐resolution (12.5 m) models were built using the maximum entropy (Maxent) approach using remotely sensed data including seafloor topography, seismic reflectivity, temperature and the amount of productivity exported from the surface. Model outputs were used to estimate the number of potential coral sites in the northern Gulf of Mexico, delineated as areas with both high habitat suitability scores and the presence of hard substrate. The number of coral sites was further adjusted using a ground‐truthing procedure using autonomous underwater vehicle‐transect data. Results Across the entire study area in the northern Gulf of Mexico, there were 558 predicted coral sites, covering an area of 14.2 km 2 . Within a 2,291 km 2 region shown to have been directly affected by the spill and subsequent oil plume, there were 66 predicted coral sites covering an area of 1.2 km 2 with an average of 63 corals per site. Main Conclusions Our results indicate that the magnitude of injury stemming from the spill was likely far higher than previously known, and will help quantify the full extent of the losses incurred as well as prioritize disturbed areas for future research and restoration efforts.
+
+SOURCE: Journal of biogeography
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Coral', 'Habitat', 'Environmental science', 'Oceanography', 'Transect', 'Ecology', 'Geology', 'Geography', 'Biology']

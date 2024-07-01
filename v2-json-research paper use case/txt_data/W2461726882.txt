@@ -1,0 +1,12 @@
+ID: W2461726882
+TITLE: Fish Ecology and Evolution in the World's Oxygen Minimum Zones and Implications of Ocean Deoxygenation
+AUTHOR: ['Natalya D. Gallo', 'Lisa A. Levin']
+ABSTRACT:
+Oxygen minimum zones (OMZs) and oxygen limited zones (OLZs) are important oceanographic features in the Pacific, Atlantic, and Indian Ocean, and are characterized by hypoxic conditions that are physiologically challenging for demersal fish. Thickness, depth of the upper boundary, minimum oxygen levels, local temperatures, and diurnal, seasonal, and interannual oxycline variability differ regionally, with the thickest and shallowest OMZs occurring in the subtropics and tropics. Although most fish are not hypoxia-tolerant, at least 77 demersal fish species from 16 orders have evolved physiological, behavioural, and morphological adaptations that allow them to live under the severely hypoxic, hypercapnic, and at times sulphidic conditions found in OMZs. Tolerance to OMZ conditions has evolved multiple times in multiple groups with no single fish family or genus exploiting all OMZs globally. Severely hypoxic conditions in OMZs lead to decreased demersal fish diversity, but fish density trends are variable and dependent on region-specific thresholds. Some OMZ-adapted fish species are more hypoxia-tolerant than most megafaunal invertebrates and are present even when most invertebrates are excluded. Expansions and contractions of OMZs in the past have affected fish evolution and diversity. Current patterns of ocean warming are leading to ocean deoxygenation, causing the expansion and shoaling of OMZs, which is expected to decrease demersal fish diversity and alter trophic pathways on affected margins. Habitat compression is expected for hypoxia-intolerant species, causing increased susceptibility to overfishing for fisheries species. Demersal fisheries are likely to be negatively impacted overall by the expansion of OMZs in a warming world.
+
+SOURCE: Advances in marine biology
+PDF URL: None
+CITED BY COUNT: 74
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['Demersal fish', 'Ecology', 'Hypoxia (environmental)', 'Biology', 'Demersal zone', 'Fishery', 'Overfishing', 'Environmental science', 'Oceanography', 'Pelagic zone', 'Fishing', 'Geology', 'Oxygen', 'Chemistry', 'Organic chemistry']

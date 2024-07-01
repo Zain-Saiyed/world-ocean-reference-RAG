@@ -1,0 +1,12 @@
+ID: W2521432605
+TITLE: Biogeographic variability in the physiological response of the cold‐water coral <i>Lophelia pertusa</i> to ocean acidification
+AUTHOR: ['Samuel E. Georgian', 'Sam Dupont', 'Melissa Kurman', 'Adam Butler', 'Susanna M. Strömberg', 'Ann I. Larsson', 'Erik E. Cordes']
+ABSTRACT:
+Abstract While ocean acidification is a global issue, the severity of ecosystem effects is likely to vary considerably at regional scales. The lack of understanding of how biogeographically separated populations will respond to acidification hampers our ability to predict the future of vital ecosystems. Cold‐water corals are important drivers of biodiversity in ocean basins across the world and are considered one of the most vulnerable ecosystems to ocean acidification. We tested the short‐term physiological response of the cold‐water coral Lophelia pertusa to three pH treatments (pH = 7.9, 7.75 and 7.6) for Gulf of Mexico (USA) and Tisler Reef (Norway) populations, and found that reductions in seawater pH elicited contrasting responses. Gulf of Mexico corals exhibited reductions in net calcification, respiration and prey capture rates with decreasing pH. In contrast, Tisler Reef corals showed only slight reductions in net calcification rates under decreased pH conditions while significantly elevating respiration and capture rates. These differences are likely the result of environmental differences (depth, pH, food supply) between the two regions, invoking the potential for local adaptation or acclimatization to alter their response to global change. However, it is also possible that variations in the methodology used in the experiments contributed to the observed differences. Regardless, these results provide insights into the resilience of L. pertusa to ocean acidification as well as the potential influence of regional differences on the viability of species in future oceans.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Coral', 'Coral reef', 'Ecosystem', 'Acclimatization', 'Reef', 'Oceanography', 'Seawater', 'Ecology', 'Effects of global warming on oceans', 'Environmental science', 'Climate change', 'Biodiversity', 'Anthozoa', 'Marine ecosystem', 'Biology', 'Global warming', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2887501635
+TITLE: Influences of the Local Climate on Loggerhead Hatchling Production in North Florida: Implications From Climate Change
+AUTHOR: ['Natalie Montero', 'Simona A. Ceriani', 'Kelly Graham', 'Mariana M. P. B. Fuentes']
+ABSTRACT:
+The environment and climate in which sea turtle eggs incubate affects how successful and viable hatchlings are. Therefore, it is crucial to understand how local climate impacts sea turtle hatchling production as well as how potential changes in climate may impact future hatchling production. In this study, we investigated the effects of five different climate variables at different temporal scales on loggerhead sea turtle (Caretta caretta) hatchling production from North Florida, USA. Humidity, air temperature, and accumulated precipitation were the main climatic drivers of hatchling production, while sea surface temperature and wind speed did not demonstrate to have strong effects. Climate projections show air temperatures increasing at the nesting beaches throughout the 21st century, while precipitation and humidity projections vary between sites and projection scenarios. Due to the temperate nature of these nesting beaches, increases in hatching success for nests that incubate undisturbed (not affected by depredation and storm-related impacts) are projected for this region by 2100. This study demonstrates how different climate variables and their interactions can have a determining effect on an important marine species.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00262/pdf
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Hatchling', 'Sea turtle', 'Environmental science', 'Climate change', 'Turtle (robot)', 'Precipitation', 'Temperate climate', 'Fishery', 'Ecology', 'Geography', 'Hatching', 'Biology', 'Meteorology']

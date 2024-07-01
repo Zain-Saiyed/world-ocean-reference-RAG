@@ -1,0 +1,12 @@
+ID: W2805797185
+TITLE: Seagrass in Southeast Asia: a review of status and knowledge gaps, and a road map for conservation
+AUTHOR: ['Miguel D. Fortes', 'Jillian Lean Sim Ooi', 'Yi Mei Tan', 'Anchana Prathep', 'Japar Sidik Bujang', 'Siti Maryam Yaakub']
+ABSTRACT:
+Abstract Southeast Asia has the highest diversity of seagrass species and habitat types, but basic information on seagrass habitats is still lacking. This review examines the known distribution, extent, species diversity, and research and knowledge gaps of seagrasses in Southeast Asia by biogeographic region of the Marine Ecoregions of the World (MEOW). The extent of seagrass meadows in Southeast Asia is ~36,762.6 km 2 but this is likely an underestimate as some ecoregions were not well-represented and updated information was lacking. There is a paucity of information from the Western Coral Triangle Province, with no areal extent data available for the Indonesian regions of Kalimantan, Central and Southeast Sulawesi, the Maluku Islands, and West Papua. Regional research output has increased in the last two decades, with a trend towards more experimental, rather than descriptive research. However, there are knowledge gaps in socio-cultural-economic themed research, despite growing awareness of the importance of seagrass-human relationships in this region. Obstacles to advancing seagrass research, knowledge and conservation are rooted in either lack of expertise and training or the failure of effective management and policies. We propose a roadmap for seagrass conservation, with suggested solutions, including 1) encouraging collaboration between research institutions and scientists in the region to build capacity and share knowledge; 2) engaging with policymakers and governments to encourage science-based policies; 3) engaging with communities to raise awareness and foster stewardship of seagrass in the region.
+
+SOURCE: Botanica marina
+PDF URL: https://www.degruyter.com/downloadpdf/journals/botm/61/3/article-p269.pdf
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2018
+TYPE: review
+CONCEPTS: ['Seagrass', 'Geography', 'Habitat', 'Environmental resource management', 'Southeast asia', 'Ecology', 'Biology', 'Environmental science', 'Sociology', 'Ethnology']

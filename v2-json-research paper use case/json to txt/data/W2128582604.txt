@@ -1,0 +1,12 @@
+ID: W2128582604
+TITLE: Macro-Ecology of Gulf of Mexico Cold Seeps
+AUTHOR: ['Erik E. Cordes', 'Derk C. Bergquist', 'Charles R. Fisher']
+ABSTRACT:
+Shortly after the discovery of chemosynthetic ecosystems at deep-sea hydrothermal vents, similar ecosystems were found at cold seeps in the Gulf of Mexico. Over the past two decades, these sites have become model systems for understanding the physiology of the symbiont-containing megafauna and the ecology of seep communities worldwide. Symbiont-containing bivalves and siboglinid polychaetes dominate the communities, including five bathymodiolin mussel species and six vestimentiferan (siboglinid polychaete) species in the Gulf of Mexico. The mussels include the first described examples of methanotrophic symbiosis and dual methanotrophic/thiotrophic symbiosis. Studies with the vestimentiferans have demonstrated their potential for extreme longevity and their ability to use posterior structures for subsurface exchange of dissolved metabolites. Ecological investigations have demonstrated that the vestimentiferans function as ecosystem engineers and identified a community succession sequence from a specialized high-biomass endemic community to a low-biomass community of background fauna over the life of a hydrocarbon seep site.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 151
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Chemosynthesis', 'Cold seep', 'Ecology', 'Hydrothermal vent', 'Fauna', 'Ecosystem', 'Biology', 'Polychaete', 'Biomass (ecology)', 'Ecological succession', 'Ecosystem engineer', 'Petroleum seep', 'Oceanography', 'Geology', 'Paleontology', 'Methane', 'Hydrothermal circulation']

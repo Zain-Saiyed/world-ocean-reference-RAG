@@ -1,0 +1,12 @@
+ID: W1484099348
+TITLE: XBT Science: Assessment of Instrumental Biases and Errors
+AUTHOR: ['Lijing Cheng', 'John Abraham', 'Gustavo Goñi', 'Timothy P. Boyer', 'Susan Wijffels', 'Rebecca Cowley', 'Viktor Gouretski', 'Franco Reseghetti', 'Shoichi Kizu', 'Shenfu Dong', 'Francis Bringas', 'Marlos Góes', 'Loïc Houpert', 'Janet Sprintall', 'Jiang Zhu']
+ABSTRACT:
+Abstract Expendable bathythermograph (XBT) data were the major component of the ocean temperature profile observations from the late 1960s through the early 2000s, and XBTs still continue to provide critical data to monitor surface and subsurface currents, meridional heat transport, and ocean heat content. Systematic errors have been identified in the XBT data, some of which originate from computing the depth in the profile using a theoretically and experimentally derived fall-rate equation (FRE). After in-depth studies of these biases and discussions held in several workshops dedicated to discussing XBT biases, the XBT science community met at the Fourth XBT Science Workshop and concluded that XBT biases consist of 1) errors in depth values due to the inadequacy of the probe motion description done by standard FRE and 2) independent pure temperature biases. The depth error and temperature bias are temperature dependent and may depend on the data acquisition and recording system. In addition, the depth bias also includes an offset term. Some biases affecting the XBT-derived temperature profiles vary with manufacturer/probe type and have been shown to be time dependent. Best practices for historical XBT data corrections, recommendations for future collection of metadata to accompany XBT data, impact of XBT biases on scientific applications, and challenges encountered are presented in this manuscript. Analysis of XBT data shows that, despite the existence of these biases, historical XBT data without bias corrections are still suitable for many scientific applications, and that bias-corrected data can be used for climate research.
+
+SOURCE: Bulletin of the American Meteorological Society
+PDF URL: None
+CITED BY COUNT: 76
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Bathythermograph', 'Offset (computer science)', 'Citizen science', 'Environmental science', 'Computer science', 'Climatology', 'Geology', 'Botany', 'Biology', 'Programming language']

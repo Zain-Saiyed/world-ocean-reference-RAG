@@ -1,0 +1,12 @@
+ID: W2547476835
+TITLE: Developing a new generation of passive acoustics sensors for ocean observing systems
+AUTHOR: ['Eric Delory', 'Daniel Mihai Toma', 'Joaquín Del Río', 'Pablo Ruíz', 'Luigi Corradino', 'Patrice Brault', 'Fabien Fiquet']
+ABSTRACT:
+The objective of the NeXOS project is to develop cost-effective, innovative, and compact multifunctional sensor systems in ocean optics, ocean passive acoustics and for an Ecosystem Approach to Fisheries (EAF), which can be deployed from mobile and fixed platforms, with data services contributing to the GEOSS, the Marine Strategy Framework Directive (MSFD) and the Common Fisheries Policy of the European Union. The development of innovative hydrophones focuses on the pre and post-processing of acoustic information and improved transducer integration, reducing size and overall procurement and operations cost while increasing functionality. An important part of the effort will focus on the need for greater dynamic range and the integration on autonomous platforms, such as gliders and profilers. Embedded processing will be reconfigurable, allowing for the monitoring of MSFD Good Environmental Status descriptors 1 (Biodiversity) and 11 (Underwater Noise) as minimal requirements. The first phase of the project consisted in interacting with scientific communities and the industry in order to narrow down initial requirements and possibly extend the planned functionalities to new applications.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 1
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Marine Strategy Framework Directive', 'Computer science', 'Systems engineering', 'Procurement', 'European union', 'Environmental science', 'Underwater', 'Remote sensing', 'Engineering', 'Oceanography', 'Ecosystem', 'Geography', 'Ecology', 'Business', 'Marketing', 'Biology', 'Economic policy', 'Geology']

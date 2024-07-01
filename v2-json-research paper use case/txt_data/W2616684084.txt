@@ -1,0 +1,12 @@
+ID: W2616684084
+TITLE: Decoding the origins of vertical land motions observed today at coasts
+AUTHOR: ['Julia Pfeffer', 'Giorgio Spada', 'Anthony Mémin', 'Jean‐Paul Boy', 'Pascal Allemand']
+ABSTRACT:
+In recent decades, geodetic techniques have allowed detecting vertical land motions and sea-level changes of a few millimetres per year, based on measurements taken at the coast (tide gauges), on board of satellite platforms (satellite altimetry) or both (Global Navigation Satellite System). Here, contemporary vertical land motions are analysed from January 1993 to July 2013 at 849 globally distributed coastal sites. The vertical displacement of the coastal platform due to surface mass changes is modelled using elastic and viscoelastic Green’s functions. Special attention is paid to the effects of glacial isostatic adjustment induced by past and present-day ice melting. Various rheological and loading parameters are explored to provide a set of scenarios that could explain the coastal observations of vertical land motions globally. In well-instrumented regions, predicted vertical land motions explain more than 80 per cent of the variance observed at scales larger than a few hundred kilometres. Residual vertical land motions show a strong local variability, especially in the vicinity of plate boundaries due to the earthquake cycle. Significant residual signals are also observed at scales of a few hundred kilometres over nine well-instrumented regions forming observation windows on unmodelled geophysical processes. This study highlights the potential of our multitechnique database to detect geodynamical processes, driven by anthropogenic influence, surface mass changes (surface loading and glacial isostatic adjustment) and tectonic activity (including the earthquake cycle, sediment and volcanic loading, as well as regional tectonic constraints). Future improvements should be aimed at densifying the instrumental network and at investigating more thoroughly the uncertainties associated with glacial isostatic adjustment models.
+
+SOURCE: Geophysical journal international
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Geology', 'Post-glacial rebound', 'Tectonics', 'Geodesy', 'Sea level', 'Geodetic datum', 'Vertical displacement', 'Terrain', 'Residual', 'Ice sheet', 'Tectonic uplift', 'Glacial period', 'Tide gauge', 'Seismology', 'Geomorphology', 'Oceanography', 'Geography', 'Cartography', 'Algorithm', 'Computer science']

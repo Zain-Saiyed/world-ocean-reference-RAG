@@ -1,0 +1,12 @@
+ID: W2623670717
+TITLE: Global patterns of aboveground carbon stock and sequestration in mangroves
+AUTHOR: ['Gustavo Calderucio Duque Estrada', 'Mário Luiz Gomes Soares']
+ABSTRACT:
+In order to contribute to understand the factors that control the provisioning of the ecosystem service of carbon storage by mangroves, data on carbon stock and sequestration in the aboveground biomass (AGB) from 73 articles were averaged and tested for the dependence on latitude, climatic parameters, physiographic types and age. Global means of carbon stock (78.0 ± 64.5 tC.ha-1) and sequestration (2.9 ± 2.2 tC.ha-1.yr-1) showed that mangroves are among the forest ecosystems with greater capacity of carbon storage in AGB per area. On the global scale, carbon stock increases toward the equator (R²=0.22) and is dependent on 13 climatic parameters, which can be integrated in the following predictive equation: Carbon Stock in AGB = -16.342 + (8.341 x Isothermality) + (0.021 x Annual Precipitation) [R²=0.34; p < 0.05]. It was shown that almost 70% of carbon stock variability is explained by age. Carbon stock and sequestration also vary according to physiographic types, indicating the importance of hydroperiod and edaphic parameters to the local variability of carbon stock. By demonstrating the contribution of local and regional-global factors to carbon stock, this study provides information to the forecast of the effects of future climate changes and local anthropogenic forcings on this ecosystem service.
+
+SOURCE: Anais da Academia Brasileira de Ciências
+PDF URL: http://www.scielo.br/pdf/aabc/v89n2/0001-3765-aabc-89-02-00973.pdf
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Carbon sequestration', 'Environmental science', 'Mangrove', 'Carbon stock', 'Stock (firearms)', 'Ecosystem', 'Edaphic', 'Carbon cycle', 'Atmospheric sciences', 'Physical geography', 'Climate change', 'Ecology', 'Soil science', 'Geography', 'Geology', 'Carbon dioxide', 'Biology', 'Soil water', 'Archaeology']

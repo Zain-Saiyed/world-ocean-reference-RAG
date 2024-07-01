@@ -1,0 +1,12 @@
+ID: W2086003797
+TITLE: The mucilage phenomenon in the continental coastal waters of the North Sea
+AUTHOR: ['Christiane Lancelot']
+ABSTRACT:
+The basic mechanisms behind the mucilaginous phenomenon in the eutrophicated continental coastal waters of the North Sea are analysed in relation to observed short-term and predicted long-term quantitative and qualitative changes in riverine nutrient delivery to this coastal area. It is shown that foam accumulation observed every spring at sea surface and on the beaches, under windy conditions, results from food chain disruption due to the proliferation of one single phytoplanktonic species, the colony-forming Phaeocystis, peculiar physiology and biochemistry of which make them largely unpalatable for mesozooplankton and refractory to microbial degradation. Based on the knowledge of the carbon and nutrient metabolism of Phaeocystis colonies, making them more competitive than other phytoplankters to utilize nitrate as nitrogen source in dim coastal waters, it is concluded that the massive development of Phaeocystis colonies should have been enhanced by new sources of riverine nutrients, severely deficient in silicate and phosphate with respect to nitrogen and for which nitrate is the dominant form. Accordingly, historical and present-day records of bulky Phaeocystis colony blooms are closely related to those changes in land use and/or hydraulic and waste water managements that have led, over the last 100 years, to increased delivery of nitrates to the coastal area.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 158
+PUBLICATION YEAR: 1995
+TYPE: article
+CONCEPTS: ['Nutrient', 'Phytoplankton', 'Environmental science', 'Mucilage', 'Oceanography', 'Bloom', 'Nitrate', 'Ecology', 'Algal bloom', 'Sediment', 'Biology', 'Geology', 'Paleontology']

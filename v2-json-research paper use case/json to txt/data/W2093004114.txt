@@ -1,0 +1,12 @@
+ID: W2093004114
+TITLE: Long‐term changes in copepod abundance and diversity in the north‐east Atlantic in relation to fluctuations in the hydroclimatic environment
+AUTHOR: ['Grégory Beaugrand']
+ABSTRACT:
+Abstract This study investigates long‐term monthly changes in both the hydroclimatic (sea surface temperature and wind) and biological (calanoid copepod diversity, abundance of Calanus finmarchicus and Calanus helgolandicus ) environment of the north‐east Atlantic. On the basis of the long‐term variability of the hydroclimatic environment, three regions are defined: the west European basin, the subarctic gyre and the North Sea. A numerical procedure, used in climatology and terrestrial ecology to detect stepwise changes, is presented and applied to both hydroclimatic and biological data. This method reveals that a regime shift in the North Sea occurred after a stepwise change in both regional hydroclimatic parameters (wind and temperature) and large‐scale hydroclimatic parameters (e.g. Northern Hemisphere Temperature anomalies). However, it is also suggested that ecological changes (e.g. calanoid copepod diversity, abundance of C. finmarchicus, C. helgolandicus ) observed in the North Sea after the mid‐1980s also resulted from a major structural reorganization in calanoid copepod diversity in the north‐east Atlantic, which has been related to an increasing trend in sea surface temperature in the west European basin. Although from the present study it is difficult to quantify the respective influence of advective processes versus the impact of changes in the regional hydroclimatic environment on Calanus species, it seems likely that both processes can play a substantial role.
+
+SOURCE: Fisheries oceanography
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1365-2419.2003.00248.x
+CITED BY COUNT: 163
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Calanus finmarchicus', 'Copepod', 'Calanus', 'Ocean gyre', 'Oceanography', 'Subarctic climate', 'Environmental science', 'Abundance (ecology)', 'Sea surface temperature', 'Climate change', 'Zooplankton', 'Regime shift', 'Climatology', 'Northern Hemisphere', 'Ecology', 'Geology', 'Biology', 'Subtropics', 'Crustacean', 'Ecosystem']

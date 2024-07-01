@@ -1,0 +1,12 @@
+ID: W2910171742
+TITLE: GPS telemetry for small seabirds: using hidden Markov models to infer foraging behaviour of Common Diving Petrels (<i>Pelecanoides urinatrix urinatrix</i>)
+AUTHOR: ['Jingjing Zhang', 'Matt J. Rayner', 'Shae Vickers', 'Todd J. Landers', 'Rachael Sagar', 'John Stewart', 'Brendon J. Dunphy']
+ABSTRACT:
+Common Diving Petrels (Pelecanoides urinatrix urinatrix) are distributed widely around coastal New Zealand and breed primarily on predator-free offshore islands. Despite their ubiquity, little is known of their at-sea foraging movement, as their small size and frequent diving behaviour have presented logistic challenges to obtaining high-resolution tracking data that reflect detailed movement patterns. We present the first attempt to collect detailed (5 min/fix) movement trajectories of Common Diving Petrels, using miniaturised global positioning system (GPS) loggers. Adult breeding Common Diving Petrels were tracked for single foraging trips from Tiritiri Matangi Island near Auckland, New Zealand. We applied a hidden Markov model to infer behavioural states from the movement data, and a kernel density estimation on the GPS fixes of area-restricted behaviour to characterise feeding hotspots. We found that Common Diving Petrels in the Hauraki Gulf are local foragers during their breeding season, and the model results indicated that foraging accounted for two-thirds of all behaviour states. At-sea foraging activities of the birds were concentrated in areas up to 30 km from their colony. Our findings reveal the utility of combining GPS tracking with behavioural models to infer the foraging behaviours and space-use patterns of small seabird taxa.
+
+SOURCE: Emu
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Foraging', 'Seabird', 'Biology', 'Ecology', 'Global Positioning System', 'Fishery', 'Predation', 'Satellite tracking', 'Telemetry', 'Apex predator', 'Computer science', 'Telecommunications', 'Satellite', 'Engineering', 'Aerospace engineering']

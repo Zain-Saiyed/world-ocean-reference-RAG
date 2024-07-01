@@ -1,0 +1,12 @@
+ID: W2483513376
+TITLE: The conservation status and priorities for albatrosses and large petrels
+AUTHOR: ['Richard A. Phillips', 'Rosemary Gales', 'G. Barry Baker', 'Michael C. Double', 'Marco Favero', 'Flavio Quintana', 'Mark L. Tasker', 'Henri Weimerskirch', 'Marcela Uhart', 'AC Wolfaardt']
+ABSTRACT:
+Seabirds are amongst the most globally-threatened of all groups of birds, and conservation issues specific to albatrosses (Diomedeidae) and large petrels (Procellaria spp. and giant petrels Macronectes spp.) led to drafting of the multi-lateral Agreement on the Conservation of Albatrosses and Petrels (ACAP). Here we review the taxonomy, breeding and foraging distributions, population status and trends, threats and priorities for the 29 species covered by ACAP. Nineteen (66%) are listed as threatened by IUCN, and 11 (38%) are declining. Most have extensive at-sea distributions, and the greatest threat is incidental mortality (bycatch) in industrial pelagic or demersal longline, trawl or artisanal fisheries, often in both national and international waters. Mitigation measures are available that reduce bycatch in most types of fisheries, but some management bodies are yet to make these mandatory, levels of implementation and monitoring of compliance are often inadequate, and there are insufficient observer programmes collecting robust data on bycatch rates. Intentional take, pollution (including plastic ingestion), and threats at colonies affect fewer species than bycatch; however, the impacts of disease (mainly avian cholera) and of predation by introduced species, including feral cats (Felis catus), rats (Rattus spp.) and house mice (Mus musculus), are severe for some breeding populations. Although major progress has been made in recent years in reducing bycatch rates and in controlling or eradicating pests at breeding sites, unless conservation efforts are intensified, the future prospects of many species of albatrosses and large petrels will remain bleak.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 152
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Bycatch', 'Threatened species', 'Conservation status', 'Fishery', 'IUCN Red List', 'Population', 'Endangered species', 'Biology', 'Ecology', 'Predation', 'Pelagic zone', 'Geography', 'Fishing', 'Habitat', 'Demography', 'Sociology']

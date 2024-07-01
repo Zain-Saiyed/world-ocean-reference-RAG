@@ -1,0 +1,12 @@
+ID: W2342821174
+TITLE: Fishing for ecosystem services
+AUTHOR: ['Kevin L. Pope', 'Mark A. Pegg', 'Nicholas W. Cole', 'Stephen F. Siddons', 'Alexis D. Fedele', 'Brian S. Harmon', 'Ryan L. Ruskamp', 'Dylan Turner', 'Caleb C. Uerling']
+ABSTRACT:
+Ecosystems are commonly exploited and manipulated to maximize certain human benefits. Such changes can degrade systems, leading to cascading negative effects that may be initially undetected, yet ultimately result in a reduction, or complete loss, of certain valuable ecosystem services. Ecosystem-based management is intended to maintain ecosystem quality and minimize the risk of irreversible change to natural assemblages of species and to ecosystem processes while obtaining and maintaining long-term socioeconomic benefits. We discuss policy decisions in fishery management related to commonly manipulated environments with a focus on influences to ecosystem services. By focusing on broader scales, managing for ecosystem services, and taking a more proactive approach, we expect sustainable, quality fisheries that are resilient to future disturbances. To that end, we contend that: (1) management always involves tradeoffs; (2) explicit management of fisheries for ecosystem services could facilitate a transition from reactive to proactive management; and (3) adaptive co-management is a process that could enhance management for ecosystem services. We propose adaptive co-management with an ecosystem service framework where actions are implemented within ecosystem boundaries, rather than political boundaries, through strong interjurisdictional relationships.
+
+SOURCE: Journal of environmental management
+PDF URL: http://manuscript.elsevier.com/S0301479716301876/pdf/S0301479716301876.pdf
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Ecosystem management', 'Ecosystem', 'Environmental resource management', 'Ecosystem health', 'Business', 'Adaptive management', 'Fisheries management', 'Total human ecosystem', 'Ecosystem valuation', 'Fishing', 'Environmental science', 'Ecology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2898369943
+TITLE: A global assessment of atoll island planform changes over the past decades
+AUTHOR: ['Virginie Duvat']
+ABSTRACT:
+Over the past decades, atoll islands exhibited no widespread sign of physical destabilization in the face of sea‐level rise. A reanalysis of available data, which cover 30 Pacific and Indian Ocean atolls including 709 islands, reveals that no atoll lost land area and that 88.6% of islands were either stable or increased in area, while only 11.4% contracted. Atoll islands affected by rapid sea‐level rise did not show a distinct behavior compared to islands on other atolls. Island behavior correlated with island size, and no island larger than 10 ha decreased in size. This threshold could be used to define the minimum island size required for human occupancy and to assess atoll countries and territories' vulnerability to climate change. Beyond emphasizing the major role of climate drivers in causing substantial changes in the configuration of islands, this reanalysis of available data indicates that these drivers explain subregional variations in atoll behavior and within‐atoll variations in island and shoreline (lagoon vs. ocean) behavior, following atoll‐specific patterns. Increasing human disturbances, especially land reclamation and human structure construction, operated on atoll‐to‐shoreline spatial scales, explaining marked within‐atoll variations in island and shoreline behavior. Collectively, these findings highlight the heterogeneity of atoll situations. Further research needs include addressing geographical gaps (Indian Ocean, Caribbean, north‐western Pacific atolls), using standardized protocols to allow comparative analyses of island and shoreline behavior across ocean regions, investigating the role of ecological drivers, and promoting interdisciplinary approaches. Such efforts would assist in anticipating potential future changes in the contributions and interactions of key drivers. This article is categorized under: Assessing Impacts of Climate Change &gt; Observed Impacts of Climate Change Paleoclimates and Current Trends &gt; Earth System Behavior
+
+SOURCE: Wiley interdisciplinary reviews. Climate change
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcc.557
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2018
+TYPE: preprint
+CONCEPTS: ['Atoll', 'Shore', 'Geography', 'Oceanography', 'Reef', 'Ecology', 'Physical geography', 'Geology', 'Biology']

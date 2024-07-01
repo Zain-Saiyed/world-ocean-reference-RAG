@@ -1,0 +1,12 @@
+ID: W2735611463
+TITLE: The reconstruction of 2,631 draft metagenome-assembled genomes from the global oceans
+AUTHOR: ['Benjamin Tully', 'Elaina Graham', 'John F. Heidelberg']
+ABSTRACT:
+Microorganisms play a crucial role in mediating global biogeochemical cycles in the marine environment. By reconstructing the genomes of environmental organisms through metagenomics, researchers are able to study the metabolic potential of Bacteria and Archaea that are resistant to isolation in the laboratory. Utilizing the large metagenomic dataset generated from 234 samples collected during the Tara Oceans circumnavigation expedition, we were able to assemble 102 billion paired-end reads into 562 million contigs, which in turn were co-assembled and consolidated in to 7.2 million contigs ≥2 kb in length. Approximately 1 million of these contigs were binned to reconstruct draft genomes. In total, 2,631 draft genomes with an estimated completion of ≥50% were generated (1,491 draft genomes >70% complete; 603 genomes >90% complete). A majority of the draft genomes were manually assigned phylogeny based on sets of concatenated phylogenetic marker genes and/or 16S rRNA gene sequences. The draft genomes are now publically available for the research community at-large.
+
+SOURCE: Scientific data
+PDF URL: https://www.nature.com/articles/sdata2017203.pdf
+CITED BY COUNT: 387
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Metagenomics', 'Contig', 'Genome', 'Biology', 'Evolutionary biology', 'Computational biology', 'Phylum', 'Sequence assembly', 'Phylogenetics', 'Phylogenetic tree', 'Genetics', 'Gene', 'Gene expression', 'Transcriptome']

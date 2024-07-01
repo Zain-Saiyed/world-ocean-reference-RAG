@@ -1,0 +1,12 @@
+ID: W2094367249
+TITLE: Free-Drifting Icebergs: Hot Spots of Chemical and Biological Enrichment in the Weddell Sea
+AUTHOR: ['Kenneth L. Smith', 'Bruce H. Robison', 'J. Helly', 'Ronald S. Kaufmann', 'Henry A. Ruhl', 'Tim Shaw', 'Benjamin S. Twining', 'María Vernet']
+ABSTRACT:
+The proliferation of icebergs from Antarctica over the past decade has raised questions about their potential impact on the surrounding pelagic ecosystem. Two free-drifting icebergs, 0.1 and 30.8 square kilometers in aerial surface area, and the surrounding waters were sampled in the northwest Weddell Sea during austral spring 2005. There was substantial enrichment of terrigenous material, and there were high concentrations of chlorophyll, krill, and seabirds surrounding each iceberg, extending out to a radial distance of approximately 3.7 kilometers. Extrapolating these results to all icebergs in the same size range, with the use of iceberg population estimates from satellite surveys, indicates that they similarly affect 39% of the surface ocean in this region. These results suggest that free-drifting icebergs can substantially affect the pelagic ecosystem of the Southern Ocean and can serve as areas of enhanced production and sequestration of organic carbon to the deep sea.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 223
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Iceberg', 'Oceanography', 'Pelagic zone', 'Ecosystem', 'Environmental science', 'Marine ecosystem', 'Population', 'Geology', 'Sea ice', 'Physical geography', 'Geography', 'Ecology', 'Demography', 'Sociology', 'Biology']

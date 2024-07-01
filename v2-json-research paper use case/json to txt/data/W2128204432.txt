@@ -1,0 +1,12 @@
+ID: W2128204432
+TITLE: Ethnobiology, socio-economics and management of mangrove forests: A review
+AUTHOR: ['Bradley B. Walters', 'Patrik Rönnbäck', 'John M. Kovacs', 'Beatrice Crona', 'Syed Ainul Hussain', 'Ruchi Badola', 'Jurgenne H. Primavera', 'Edward B. Barbier', 'Farid Dahdouh‐Guebas']
+ABSTRACT:
+There is growing research interest in the ethnobiology, socio-economics and management of mangrove forests. Coastal residents who use mangroves and their resources may have considerable botanical and ecological knowledgeable about these forests. A wide variety of forest products are harvested in mangroves, especially wood for fuel and construction, tannins and medicines. Although there are exceptions, mangrove forest products are typically harvested in a small-scale and selective manner, with harvesting efforts and impacts concentrated in stands that are closer to settlements and easiest to access (by land or by sea). Mangroves support diverse, local fisheries, and also provide critical nursery habitat and marine productivity which support wider commercial fisheries. These forests also provide valuable ecosystem services that benefit coastal communities, including coastal land stabilization and storm protection. The overlapping of marine and terrestrial resources in mangroves creates tenure ambiguities that complicate management and may induce conflict between competing interests. Mangroves have been cut and cleared extensively to make way for brackish water aquaculture and infrastructure development. More attention is now given to managing remaining forests sustainably and to restoring those degraded from past use. Recent advances in remotely sensed, geo-spatial monitoring provide opportunities for researchers and planners to better understand and improve the management of these unique forested wetlands.
+
+SOURCE: Aquatic botany
+PDF URL: None
+CITED BY COUNT: 641
+PUBLICATION YEAR: 2008
+TYPE: review
+CONCEPTS: ['Mangrove', 'Sustainability', 'Wetland', 'Geography', 'Ethnobiology', 'Agroforestry', 'Ecosystem services', 'Environmental resource management', 'Habitat', 'Ecology', 'Ecosystem', 'Environmental science', 'Biology']

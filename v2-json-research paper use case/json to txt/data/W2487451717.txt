@@ -1,0 +1,12 @@
+ID: W2487451717
+TITLE: Spatially explicit global population scenarios consistent with the Shared Socioeconomic Pathways
+AUTHOR: ['Benjamin A. Jones', 'Brian C. O’Neill']
+ABSTRACT:
+The projected size and spatial distribution of the future population are important drivers of global change and key determinants of exposure and vulnerability to hazards. Spatial demographic projections are widely used as inputs to spatial projections of land use, energy use, and emissions, as well as to assessments of the impacts of extreme events, sea level rise, and other climate-related outcomes. To date, however, there are very few global-scale, spatially explicit population projections, and those that do exist are often based on simple scaling or trend extrapolation. Here we present a new set of global, spatially explicit population scenarios that are consistent with the new Shared Socioeconomic Pathways (SSPs) developed to facilitate global change research. We use a parameterized gravity-based downscaling model to produce projections of spatial population change that are quantitatively consistent with national population and urbanization projections for the SSPs and qualitatively consistent with assumptions in the SSP narratives regarding spatial development patterns. We show that the five SSPs lead to substantially different spatial population outcomes at the continental, national, and sub-national scale. In general, grid cell-level outcomes are most influenced by national-level population change, second by urbanization rate, and third by assumptions about the spatial style of development. However, the relative importance of these factors is a function of the magnitude of the projected change in total population and urbanization for each country and across SSPs. We also demonstrate variation in outcomes considering the example of population existing in a low-elevation coastal zone under alternative scenarios.
+
+SOURCE: Environmental research letters
+PDF URL: https://iopscience.iop.org/article/10.1088/1748-9326/11/8/084003/pdf
+CITED BY COUNT: 520
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Population', 'Downscaling', 'Urbanization', 'Climate change', 'Geography', 'Spatial ecology', 'Vulnerability (computing)', 'Scale (ratio)', 'Population growth', 'Climatology', 'Physical geography', 'Environmental science', 'Environmental resource management', 'Cartography', 'Computer science', 'Meteorology', 'Demography', 'Ecology', 'Precipitation', 'Geology', 'Computer security', 'Sociology', 'Biology']

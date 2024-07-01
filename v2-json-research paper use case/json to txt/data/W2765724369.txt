@@ -1,0 +1,12 @@
+ID: W2765724369
+TITLE: The Effect of Arc Proximity on Hydrothermal Activity Along Spreading Centers: New Evidence From the Mariana Back Arc (12.7°N–18.3°N)
+AUTHOR: ['Edward T. Baker', 'S. L. Walker', 'J. A. Resing', 'William W. Chadwick', 'S. G. Merle', 'Melissa O. Anderson', 'D. A. Butterfield', 'Nathaniel J. Buck', 'Susanna Michael']
+ABSTRACT:
+Abstract Back‐arc spreading centers (BASCs) form a distinct class of ocean spreading ridges distinguished by steep along‐axis gradients in spreading rate and by additional magma supplied through subduction. These characteristics can affect the population and distribution of hydrothermal activity on BASCs compared to mid‐ocean ridges (MORs). To investigate this hypothesis, we comprehensively explored 600 km of the southern half of the Mariana BASC. We used water column mapping and seafloor imaging to identify 19 active vent sites, an increase of 13 over the current listing in the InterRidge Database (IRDB), on the bathymetric highs of 7 of the 11 segments. We identified both high and low (i.e., characterized by a weak or negligible particle plume) temperature discharge occurring on segment types spanning dominantly magmatic to dominantly tectonic. Active sites are concentrated on the two southernmost segments, where distance to the adjacent arc is shortest (&lt;40 km), spreading rate is highest (&gt;48 mm/yr), and tectonic extension is pervasive. Re‐examination of hydrothermal data from other BASCs supports the generalization that hydrothermal site density increases on segments &lt;90 km from an adjacent arc. Although exploration quality varies greatly among BASCs, present data suggest that, for a given spreading rate, the mean spatial density of hydrothermal activity varies little between MORs and BASCs. The present global database, however, may be misleading. On both BASCs and MORs, the spatial density of hydrothermal sites mapped by high‐quality water‐column surveys is 2–7 times greater than predicted by the existing IRDB trend of site density versus spreading rate.
+
+SOURCE: Geochemistry, geophysics, geosystems
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2017GC007234
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Geology', 'Seafloor spreading', 'Hydrothermal circulation', 'Tectonics', 'Bathymetry', 'Back-arc basin', 'Volcanic arc', 'Subduction', 'Water column', 'Volcano', 'Arc (geometry)', 'Population', 'Geochemistry', 'Paleontology', 'Oceanography', 'Geometry', 'Mathematics', 'Demography', 'Sociology']

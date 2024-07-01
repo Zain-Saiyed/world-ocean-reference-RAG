@@ -1,0 +1,12 @@
+ID: W2050127882
+TITLE: Beach recreation impacts benthic invertebrates on ocean-exposed sandy shores
+AUTHOR: ['Thomas A. Schlacher', 'Luke M. C. Thompson']
+ABSTRACT:
+Ocean beaches are prime recreational assets and are becoming increasingly urbanised: more beaches today front metropolitan regions, are mechanically cleaned, and are used for recreation by increasing numbers of residents and tourists. This 'urbanisation' of beaches presents complex management and conservation challenges, including the accurate determination of ecological effects caused by human beach use. Here we tested whether spatial variation in recreational beach use translates into ecological changes in the benthic invertebrate assemblages inhabiting the intertidal zone in Eastern Australia. Detected faunal changes were consistent with an interpretation of trampling impacts on the lower part of the beach: here, reductions in key ecological measures were significant in terms of total abundance (−72% to −44% lower than control areas), and species richness (−55% to −5%), resulting in significant shifts in community structure. Conversely, upper-shore assemblages were structurally similar between trampling treatments. Because benthic invertebrates are structurally and functionally important in beach ecosystems (e.g. nutrient cycling, trophic links), human impacts from recreation are likely to propagate beyond the macrobenthos and hence require mitigation. Conservation measures for beaches are challenging in urban settings. However, a practicable approach to systematic conservation planning for urban beaches that recognises the social and political reality of beaches having a prime role as recreational assets while maximising environmental outcomes via spatial zoning and visitor management is not unrealistic.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Trampling', 'Recreation', 'Benthic zone', 'Ecology', 'Geography', 'Shore', 'Invertebrate', 'Wader', 'Intertidal zone', 'Environmental science', 'Habitat', 'Fishery', 'Biology', 'Grazing']

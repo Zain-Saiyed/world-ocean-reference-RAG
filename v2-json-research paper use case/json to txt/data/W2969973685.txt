@@ -1,0 +1,12 @@
+ID: W2969973685
+TITLE: Sea Level Rise Explains Changing Carbon Accumulation Rates in a Salt Marsh Over the Past Two Millennia
+AUTHOR: ['Nathan D. McTigue', 'Jenny Davis', 'Antonio B. Rodriguez', 'Brent A. McKee', 'Anna Atencio', 'Carolyn A. Currin']
+ABSTRACT:
+Abstract High rates of carbon burial observed in wetland sediments have garnered attention as a potential “natural fix” to reduce the concentration of carbon dioxide (CO 2 ) in Earth's atmosphere. A carbon accumulation rate (CAR) can be determined through various methods that integrate a carbon stock over different time periods, ranging from decades to millennia. Our goal was to assess how CAR changed over the lifespan of a salt marsh. We applied a geochronology to a series of salt marsh cores using both 14 C and 210 Pb markers to calculate CARs that were integrated between 35 and 2,460 years before present. CAR was 39 g C·m −2 ·year −1 when integrated over millennia but was upward of 148 g C·m −2 ·year −1 for the past century. We present additional evidence to account for this variability by linking it to changes in relative sea level rise (RSLR), where higher rates of RSLR were associated with higher CARs. Thus, the CAR calculated for a wetland should integrate timescales that capture the influence of contemporary RSLR. Therefore, caution should be exercised not to utilize a CAR calculated over inappropriately short or long timescales as a current assessment or forecasting tool for the climate change mitigation potential of a wetland.
+
+SOURCE: Journal of geophysical research. Biogeosciences
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2019JG005207
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Wetland', 'Blue carbon', 'Environmental science', 'Marsh', 'Climate change', 'Carbon dioxide', 'Carbon fibers', 'Oceanography', 'Stock (firearms)', 'Physical geography', 'Ecology', 'Carbon sequestration', 'Geology', 'Geography', 'Archaeology', 'Composite material', 'Biology', 'Materials science', 'Composite number']

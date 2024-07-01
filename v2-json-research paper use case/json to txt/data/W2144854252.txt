@@ -1,0 +1,12 @@
+ID: W2144854252
+TITLE: Sea Snake Harvest in the Gulf of Thailand
+AUTHOR: ['Nguyen Van Cao', 'Nguyen Thien Tao', 'Amelia Moore', 'Alfred Montoya', 'Arne Redsted Rasmussen', 'Kenneth Broad', 'Harold K. Voris', 'Zoltán Takács']
+ABSTRACT:
+Abstract Conservation of sea snakes is virtually nonexistent in Asia, and its role in human–snake interactions in terms of catch, trade, and snakebites as an occupational hazard is mostly unexplored. We collected data on sea snake landings from the Gulf of Thailand, a hotspot for sea snake harvest by squid fishers operating out of the ports of Song Doc and Khanh Hoi, Ca Mau Province, Vietnam. The data were collected during documentation of the steps of the trading process and through interviewers with participants in the trade. Squid vessels return to ports once per lunar synodic cycle and fishers sell snakes to merchants who sort, package, and ship the snakes to various destinations in Vietnam and China for human consumption and as a source of traditional remedies. Annually, 82 t, roughly equal to 225,500 individuals, of live sea snakes are brought to ports. To our knowledge, this rate of harvest constitutes one of the largest venomous snake and marine reptile harvest activities in the world today. Lapemis curtus and Hydrophis cyanocinctus constituted about 85% of the snake biomass, and Acalyptophis peronii, Aipysurus eydouxii, Hydrophis atriceps, H. belcheri, H. lamberti , and H. ornatus made up the remainder. Our results establish a quantitative baseline for characteristics of catch, trade, and uses of sea snakes. Other key observations include the timing of the trade to the lunar cycle, a decline of sea snakes harvested over the study period (approximately 30% decline in mass over 4 years), and the treatment of sea snake bites with rhinoceros horn. Emerging markets in Southeast Asia drive the harvest of venomous sea snakes in the Gulf of Thailand and sea snake bites present a potentially lethal occupational hazard. We call for implementation of monitoring programs to further address the conservation implications of this large‐scale marine reptile exploitation. Cosecha de Serpientes Marinas en el Golfo de Tailandia
+
+SOURCE: Conservation biology
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Fishery', 'Geography', 'Oceanography', 'Biology', 'Geology']

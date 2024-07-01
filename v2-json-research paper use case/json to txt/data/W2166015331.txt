@@ -1,0 +1,12 @@
+ID: W2166015331
+TITLE: Mercury species concentrations and fluxes in the Central Tropical Pacific Ocean
+AUTHOR: ['Kathleen M. Munson', 'Carl H. Lamborg', 'Gretchen J. Swarr', 'Mak A. Saito']
+ABSTRACT:
+Abstract The formation of the toxic and bioaccumulating monomethylmercury (MMHg) in marine systems is poorly understood, due in part to sparse data from many ocean regions. We present dissolved mercury (Hg) speciation data from 10 stations in the North and South Equatorial Pacific spanning large water mass differences and gradients in oxygen utilization. We also compare the mercury content in suspended particles from six stations and sinking particles from three stations to constrain local Hg sources and sinks. Concentrations of total Hg (THg) and methylated Hg in the surface and intermediate waters of the Equatorial and South Pacific suggest Hg cycling distinct from that of the North Pacific gyre. Maximum concentrations of 180 fM for both MMHg and dimethylmercury (DMHg) are observed in the Equatorial Pacific. South of the equator, concentrations of MMHg and DMHg are less than 100 fM. Sinking fluxes of particulate THg can reasonably explain the shape of dissolved THg profiles, but those of MMHg are too low to account for dissolved MMHg profiles. However, methylated Hg species are lower than predicted from remineralization rates based on North Pacific data, consistent with limitation of methylation in Equatorial and South Pacific waters. Full water column depth profiles were also measured for the first time in these regions. Concentrations of THg are elevated in deep waters of the North Pacific, compared to those in the intermediate and surface waters, and taper off in the South Pacific. Comparisons with previous measurements from nearby regions suggest little enrichment of THg or MMHg over the past 20 years.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015GB005120
+CITED BY COUNT: 83
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Oceanography', 'Mercury (programming language)', 'Pacific ocean', 'Methylmercury', 'Water column', 'Equator', 'Particulates', 'Ocean gyre', 'Oxygen minimum zone', 'Surface water', 'Seawater', 'Environmental science', 'Geology', 'Environmental chemistry', 'Latitude', 'Upwelling', 'Chemistry', 'Subtropics', 'Bioaccumulation', 'Ecology', 'Geodesy', 'Organic chemistry', 'Environmental engineering', 'Computer science', 'Biology', 'Programming language']

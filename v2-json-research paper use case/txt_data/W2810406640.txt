@@ -1,0 +1,12 @@
+ID: W2810406640
+TITLE: Risk‐sensitive planning for conserving coral reefs under rapid climate change
+AUTHOR: ['Hawthorne L. Beyer', 'Emma V. Kennedy', 'Maria Beger', 'Chaolun Allen Chen', 'Joshua E. Cinner', 'Emily S. Darling', 'C. Mark Eakin', 'Ruth D. Gates', 'Scott F. Heron', 'Nancy\xad Knowlton\xad', 'David Obura', 'Stephen R. Palumbi', 'Hugh P. Possingham', 'Marji Puotinen', 'Rebecca K. Runting', 'William Skirving', 'Mark Spalding', 'Kerrie A. Wilson', 'S.L. Wood', 'John Veron', 'Ove Hoegh‐Guldberg']
+ABSTRACT:
+Abstract Coral reef ecosystems are seriously threatened by changing conditions in the ocean. Although many factors are implicated, climate change has emerged as a dominant and rapidly growing threat. Developing a long‐term strategic plan for the conservation of coral reefs is urgently needed yet is complicated by significant uncertainty associated with climate change impacts on coral reef ecosystems. We use Modern Portfolio Theory to identify coral reef locations globally that, in the absence of other impacts, are likely to have a heightened chance of surviving projected climate changes relative to other reefs. Long‐term planning that is robust to uncertainty in future conditions provides an objective and transparent framework for guiding conservation action and strategic investment. These locations constitute important opportunities for novel conservation investments to secure less vulnerable yet well‐connected coral reefs that may, in turn, help to repopulate degraded areas in the event that the climate has stabilized.
+
+SOURCE: Conservation letters
+PDF URL: https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/conl.12587
+CITED BY COUNT: 157
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coral reef', 'Climate change', 'Reef', 'Threatened species', 'Resilience of coral reefs', 'Ecosystem', 'Coral reef organizations', 'Coral reef protection', 'Environmental resource management', 'Geography', 'Environmental science', 'Ecology', 'Habitat', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2946874419
+TITLE: At the forefront of the sequencing revolution—notes from the RNGS19 conference
+AUTHOR: ['Sander Wuyts', 'Nicola Segata']
+ABSTRACT:
+Herein we present a meeting report on the third edition of the ‘Revolutionizing Next-Generation Sequencing’ conference, organized by the Flemish life-science research institute VIB and held at Antwerp, Belgium, 25–26 March 2019.
+
+SOURCE: Genome biology
+PDF URL: https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-019-1714-3
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Biology', 'Flemish', 'Library science', 'DNA sequencing', 'Human genetics', 'Evolutionary biology', 'Genealogy', 'History', 'Genetics', 'Computer science', 'Archaeology', 'DNA', 'Gene']

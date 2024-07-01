@@ -1,0 +1,12 @@
+ID: W2985985453
+TITLE: Mystery oil spill threatens marine sanctuary in Brazil
+AUTHOR: ['Herton Escobar']
+ABSTRACT:
+Months after its release, crude oil has reached Abrolhos Bank, a biodiversity hot spot in the southern Atlantic Ocean.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 76
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Oil spill', 'Geography', 'Fishery', 'Oceanography', 'Environmental science', 'Environmental protection', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2954551139
+TITLE: Future ocean climate homogenizes communities across habitats through diversity loss and rise of generalist species
+AUTHOR: ['Marco C. Brustolin', 'Ivan Nagelkerken', 'Camilo M. Ferreira', 'Silvan U. Goldenberg', 'Hadayet Ullah', 'Gustavo Fonseca']
+ABSTRACT:
+Predictions of the effects of global change on ecological communities are largely based on single habitats. Yet in nature, habitats are interconnected through the exchange of energy and organisms, and the responses of local communities may not extend to emerging community networks (i.e., metacommunities). Using large mesocosms and meiofauna communities as a model system, we investigated the interactive effects of ocean warming and acidification on the structure of marine metacommunities from three shallow-water habitats: sandy soft-bottoms, marine vegetation, and rocky reef substrates. Primary producers and detritus-key food sources for meiofauna-increased in biomass under the combined effect of temperature and acidification. The enhanced bottom-up forcing boosted nematode densities but impoverished the functional and trophic diversity of nematode metacommunities. The combined climate stressors further homogenized meiofauna communities across habitats. Under present-day conditions metacommunities were structured by habitat type, but under future conditions they showed an unstructured random pattern with fast-growing generalist species dominating the communities of all habitats. Homogenization was likely driven by local species extinctions, reducing interspecific competition that otherwise could have prevented single species from dominating multiple niches. Our findings reveal that climate change may simplify metacommunity structure and prompt biodiversity loss, which may affect the biological organization and resilience of marine communities.
+
+SOURCE: Global change biology
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1111/gcb.14745
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Generalist and specialist species', 'Climate change', 'Ecology', 'Habitat', 'Diversity (politics)', 'Geography', 'Biodiversity', 'Environmental science', 'Environmental resource management', 'Biology', 'Anthropology', 'Sociology']

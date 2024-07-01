@@ -1,0 +1,12 @@
+ID: W2937662613
+TITLE: Spawning by the European eel across 2000 km of the Sargasso Sea
+AUTHOR: ['Michael J. Miller', 'Håkan Westerberg', 'Henrik Sparholt', 'Klaus Wysujack', 'Sune Riis Sørensen', 'Lasse Marohn', 'Marianne Jacobsen', 'Marko Freese', 'Daniel Jiro Ayala', 'Jan‐Dag Pohlmann', 'Jon Christian Svendsen', 'Shun Watanabe', 'Line Holm Andersen', 'Peter Rask Møller', 'Katsumi Tsukamoto', 'Peter Munk', 'Reinhold Hanel']
+ABSTRACT:
+It has been known for about a century that European eels have a unique life history that includes offshore spawning in the Sargasso Sea about 5000–7000 km away from their juvenile and adult habitats in Europe and northern Africa. Recently hatched eel larvae were historically collected during Danish, German and American surveys in specific areas in the southern Sargasso Sea. During a 31 day period of March and April 2014, Danish and German research ships sampled for European eel larvae along 15 alternating transects of stations across the Sargasso Sea. The collection of recently hatched eel larvae (≤12 mm) from 70° W and eastward to 50° W showed that the European eel had been spawning across a 2000 km wide region of the North Atlantic Ocean. Historical collections made from 1921 to 2007 showed that small larvae had also previously been collected in this wide longitudinal zone, showing that the spatial extent of spawning has not diminished in recent decades, irrespective of the dramatic decline in recruitment. The use of such a wide spawning area may be related to variations in the onset of the silver eel spawning migration, individual differences in their long-term swimming ability, or aspects of larval drift.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2018.0835
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Sargasso sea', 'Transect', 'Oceanography', 'Fishery', 'Biology', 'Juvenile', 'Larva', 'Period (music)', 'Ecology', 'Geology', 'Physics', 'Acoustics']

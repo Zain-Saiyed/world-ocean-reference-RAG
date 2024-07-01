@@ -1,0 +1,12 @@
+ID: W2788474355
+TITLE: Coral reefs will transition to net dissolving before end of century
+AUTHOR: ['Bradley D. Eyre', 'Tyler Cyronak', 'P. S. Drupp', 'Eric H. De Carlo', 'Julian P. Sachs', 'Andréas Andersson']
+ABSTRACT:
+Acid reef-flux The uptake of anthropogenic carbon dioxide from the atmosphere is reducing the pH of the oceans. Ocean acidification means that calcium carbonate—the material with which coral reefs are built—will be more difficult for organisms to generate and will dissolve more quickly. Eyre et al. report that some reefs are already experiencing net sediment dissolution. Worryingly, the rates of loss will increase as ocean acidification intensifies. Science , this issue p. 908
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/359/6378/908.full.pdf
+CITED BY COUNT: 227
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Reef', 'Coral reef', 'Oceanography', 'Environmental science', 'Calcium carbonate', 'Coral', 'Carbon dioxide', 'Dissolution', 'Environmental issues with coral reefs', 'Sediment', 'Carbonate', 'Resilience of coral reefs', "Carbon dioxide in Earth's atmosphere", 'Climate change', 'Geology', 'Ecology', 'Chemistry', 'Biology', 'Paleontology', 'Organic chemistry', 'Physical chemistry']

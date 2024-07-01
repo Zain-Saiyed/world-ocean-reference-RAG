@@ -1,0 +1,12 @@
+ID: W2122532121
+TITLE: Ocean acidification impairs olfactory discrimination and homing ability of a marine fish
+AUTHOR: ['Philip L. Munday', 'Danielle L. Dixson', 'Jennifer M. Donelson', 'Geoffrey P. Jones', 'Morgan S. Pratchett', 'Г. В. Девицина', 'Kjell B. Døving']
+ABSTRACT:
+The persistence of most coastal marine species depends on larvae finding suitable adult habitat at the end of an offshore dispersive stage that can last weeks or months. We tested the effects that ocean acidification from elevated levels of atmospheric carbon dioxide (CO(2)) could have on the ability of larvae to detect olfactory cues from adult habitats. Larval clownfish reared in control seawater (pH 8.15) discriminated between a range of cues that could help them locate reef habitat and suitable settlement sites. This discriminatory ability was disrupted when larvae were reared in conditions simulating CO(2)-induced ocean acidification. Larvae became strongly attracted to olfactory stimuli they normally avoided when reared at levels of ocean pH that could occur ca. 2100 (pH 7.8) and they no longer responded to any olfactory cues when reared at pH levels (pH 7.6) that might be attained later next century on a business-as-usual carbon-dioxide emissions trajectory. If acidification continues unabated, the impairment of sensory ability will reduce population sustainability of many marine species, with potentially profound consequences for marine diversity.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/106/6/1848.full.pdf
+CITED BY COUNT: 641
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Biology', 'Population', 'Habitat', 'Ecology', 'Carbon dioxide', 'Homing (biology)', 'Marine habitats', 'Larva', 'Seawater', 'Zoology', 'Demography', 'Sociology']

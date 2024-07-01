@@ -1,0 +1,12 @@
+ID: W2006067133
+TITLE: The Costs of Respiratory Illnesses Arising from Florida Gulf Coast <i>Karenia brevis</i> Blooms
+AUTHOR: ['Porter Hoagland', 'Di Jin', 'Lara Y. Polansky', 'Barbara Kirkpatrick', 'Gary J. Kirkpatrick', 'Lora E. Fleming', 'Andrew Reich', 'Sharon Watkins', 'Steven G. Ullmann', 'Lorraine C. Backer']
+ABSTRACT:
+Background: Algal blooms of Karenia brevis, a harmful marine algae, occur almost annually off the west coast of Florida.At high concentrations, K. brevis blooms can cause harm through the release of potent toxins, known as brevetoxins, to the atmosphere.Epidemiologic studies suggest that aerosolized brevetoxins are linked to respiratory illnesses in humans.oBjectives: We hypothesized a relationship between K. brevis blooms and respiratory illness visits to hospital emergency departments (EDs) while controlling for environmental factors, disease, and tourism.We sought to use this relationship to estimate the costs of illness associated with aerosolized brevetoxins.Methods: We developed a statistical exposure-response model to express hypotheses about the relationship between respiratory illnesses and bloom events.We estimated the model with data on ED visits, K. brevis cell densities, and measures of pollen, pollutants, respiratory disease, and intraannual population changes.results: We found that lagged K. brevis cell counts, low air temperatures, influenza outbreaks, high pollen counts, and tourist visits helped explain the number of respiratory-specific ED diagnoses.The capitalized estimated marginal costs of illness for ED respiratory illnesses associated with K. brevis blooms in Sarasota County, Florida, alone ranged from $0.5 to $4 million, depending on bloom severity.conclusions: Blooms of K. brevis lead to significant economic impacts.The costs of illness of ED visits are a conservative estimate of the total economic impacts.It will become increasingly necessary to understand the scale of the economic losses associated with K. brevis blooms to make rational choices about appropriate mitigation.
+
+SOURCE: Environmental health perspectives
+PDF URL: None
+CITED BY COUNT: 97
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Bloom', 'Algal bloom', 'Red tide', 'Medicine', 'Environmental health', 'Ecology', 'Biology', 'Phytoplankton', 'Nutrient']

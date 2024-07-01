@@ -1,0 +1,12 @@
+ID: W2789956543
+TITLE: Climatic Constraints on Growth Rate and Geochemistry (Sr/Ca and U/Ca) of the Coral <i>Siderastrea stellata</i> in the Southwest Equatorial Atlantic (Rocas Atoll, Brazil)
+AUTHOR: ['Heitor Evangelista', 'A. Sifeddine', 'Thierry Corrège', 'Jacques Servain', 'Émilie Pauline Dassié', 'R. Logato', 'R. C. Cordeiro', 'Chuan‐Chou Shen', 'Florence Le Cornec', 'Juliana Nogueira', 'Bárbara Segal', 'Alexandre Castagna', 'Bruno Turcq']
+ABSTRACT:
+Abstract Although relatively rare compared to similar latitudes in the Pacific or Indian Oceans, massive coral colonies are present in the Tropical/Equatorial Southwestern Atlantic Ocean. However, detailed geochemical compositions of these corals are still largely unknown. In this work, we present growth rates, Sr/Ca, and U/Ca ratios of the coral colony ( Siderastrea stellata ) sampled at Rocas Atoll, off the Brazilian coast. These variables are primarily affected by sea surface temperature (SST) at seasonal scale, and by wind stress at interannual scale, these results represent a broad new finding. A lower significance at the interannual time scale between Sr/Ca and U/Ca with respect to SST is attributed to the low SST amplitude closed to Equator. An investigation on the dependence of coral growth rates with respect to the “cloud shading effect” promoted by the Intertropical Convergence Zone (ITCZ) does not show significant influence. Additionally, rain seems to act on local geochemistry of Sr/Ca ratios and growth rate at the decadal scale.
+
+SOURCE: Geochemistry, geophysics, geosystems
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Atoll', 'Intertropical Convergence Zone', 'Coral', 'Equator', 'Oceanography', 'Sea surface temperature', 'Latitude', 'Geology', 'Reef', 'Geography', 'Precipitation', 'Geodesy', 'Meteorology']

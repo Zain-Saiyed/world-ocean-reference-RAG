@@ -1,0 +1,12 @@
+ID: W1959354180
+TITLE: First Report of Ciguatoxins in Two Starfish Species: Ophidiaster ophidianus and Marthasterias glacialis
+AUTHOR: ['Marisa Silva', 'Inés Rodríguez', 'Anabela Barreiro', 'Manfred Kaufmann', 'Ana I. Neto', 'Meryem Hassouani', 'Brahim Sabour', 'Amparo Alfonso', 'Luís M. Botana', 'Vı́tor Vasconcelos']
+ABSTRACT:
+Ciguatera fish poisoning (CFP) is a syndrome caused by the ingestion of fish contaminated with Ciguatoxins (CTXs). These phycotoxins are produced mainly by dinoflagellates that belong to the genus Gambierdiscus that are transformed in more toxic forms in predatory fish guts, and are more present in the Indo-Pacific and Caribbean areas. It is estimated that CFP causes per year more than 10,000 intoxications worldwide. With the rise of water temperature and anthropogenic intervention, it is important to study the prevalence of CFP in more temperate waters. Through inter- and subtidal sampling, 22 species of organisms were collected, in Madeira and Azores archipelagos and in the northwestern Moroccan coast, during September of 2012 and June and July of 2013. A total of 94 samples of 22 different species of bivalves, gastropods, echinoderms and crustaceans where analyzed by Ultra Performance Liquid Chromatography-Mass Spectometry-Ion Trap-Time of Flight (UPLC-MS-IT-TOF) and Ultra Performance Chromatography- Mass Spectrometry (UPLC-MS). Our main aim was to detect new vectors and ascertain if there were some geographical differences. We detected for the first time putative CTXs in echinoderms, in two starfish species-M. glacialis and O. ophidianus. We detected differences regarding uptake values by organisms and geographical location. Toxin amounts were significant, showing the importance and the need for continuity of these studies to gain more knowledge about the prevalence of these toxins, in order to better access human health risk. In addition, we suggest monitoring of these toxins should be extended to other vectors, starfish being a good alternative for protecting and accessing human health risk.
+
+SOURCE: Toxins
+PDF URL: https://www.mdpi.com/2072-6651/7/9/3740/pdf?version=1442827033
+CITED BY COUNT: 51
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Ciguatoxin', 'Starfish', 'Ciguatera', 'Biology', 'Zoology', 'Marine toxin', 'Ecology', 'Fishery', 'Toxin', 'Fish <Actinopterygii>', 'Biochemistry']

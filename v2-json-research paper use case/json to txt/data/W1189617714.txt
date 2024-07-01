@@ -1,0 +1,12 @@
+ID: W1189617714
+TITLE: Cephalopods of the Southwest Indian OceanRidge: A hotspot of biological diversity and absence of endemism
+AUTHOR: ['Vladimir Laptikhovsky', 'Philipp H. Boersch‐Supan', 'Kathrin S. R. Bolstad', 'K Kemp', 'Tom B. Letessier', 'Alex D. Rogers']
+ABSTRACT:
+A total of 68 cephalopod species belonging to 26 families (10–11% of the total known cephalopod diversity) were collected onboard R/V Fridtjof Nansen during a research survey on Southwest Indian Ocean Ridge in November–December 2009. This relatively small area extends from the Tropical front to the Subantarctic front with four distinctive cephalopod faunas and represents one of the most outstanding hotspots of cephalopod diversity reported to date. However, most of the species caught there were characterised by circumglobal distribution in the Southern Hemisphere, and no endemic species were unambiguously found, although a number of taxa could not be confidently attributed to known species. Most of the studied area was dominated by squid species reproducing in epipelagic layers (mostly Enoploteuthidae and Pyroteuthidae). Species reproducing in meso-bathypelagial whose juveniles ascend to surface water (Cranchiidae, Histioteuthidae, etc.) became gradually more and more important southward from the Tropical Zone to the Southern Peripheral Ecotone. In the latter region they were joined by near-bottom dwellers of the order Sepiolida. The epipelagic strategy of reproduction disappears completely at the Subpolar Front, where epipelagic waters were inhabited by young members of the Cranchiidae and Gonatidae hatched in deep-seas. This study demonstrated the importance of conservation and management of this high-seas area, with its unique biodiversity and ecological resources, in line with recommendations by the IUCN Seamount project and Global Ocean Biodiversity Initiative.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seamount', 'Endemism', 'Pelagic zone', 'Biodiversity', 'Geography', 'Cephalopod', 'Southern Hemisphere', 'Oceanography', 'Ecology', 'Biodiversity hotspot', 'Biology', 'Geology']

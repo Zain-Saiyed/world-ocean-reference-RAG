@@ -1,0 +1,12 @@
+ID: W2972760887
+TITLE: Climate-Driven Shifts in Marine Species Ranges: Scaling from Organisms to Communities
+AUTHOR: ['Malin L. Pinsky', 'Rebecca L. Selden', 'Zoë J. Kitchel']
+ABSTRACT:
+The geographic distributions of marine species are changing rapidly, with leading range edges following climate poleward, deeper, and in other directions and trailing range edges often contracting in similar directions. These shifts have their roots in fine-scale interactions between organisms and their environment-including mosaics and gradients of temperature and oxygen-mediated by physiology, behavior, evolution, dispersal, and species interactions. These shifts reassemble food webs and can have dramatic consequences. Compared with species on land, marine species are more sensitive to changing climate but have a greater capacity for colonization. These differences suggest that species cope with climate change at different spatial scales in the two realms and that range shifts across wide spatial scales are a key mechanism at sea. Additional research is needed to understand how processes interact to promote or constrain range shifts, how the dominant responses vary among species, and how the emergent communities of the future ocean will function.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 249
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Range (aeronautics)', 'Ecology', 'Climate change', 'Marine species', 'Temporal scales', 'Species distribution', 'Biology', 'Habitat', 'Population', 'Materials science', 'Demography', 'Sociology', 'Composite material']

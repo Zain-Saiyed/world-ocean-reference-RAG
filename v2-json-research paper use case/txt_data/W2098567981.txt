@@ -1,0 +1,12 @@
+ID: W2098567981
+TITLE: Marine Ecoregions of the World: A Bioregionalization of Coastal and Shelf Areas
+AUTHOR: ['Mark Spalding', 'Helen Fox', 'Gerald R. Allen', 'Nick C. Davidson', 'Zach Ferdaña', 'C. Max Finlayson', 'Benjamin S. Halpern', 'Miguel Angel Jorge', 'Al Lombana', 'Sara A. Lourie', 'Kirsten D. Martin', 'Edmund McManus', 'Jennifer Molnar', 'Cheri A. Recchia', 'James Robertson']
+ABSTRACT:
+ABSTRACT The conservation and sustainable use of marine resources is a highlighted goal on a growing number of national and international policy agendas. Unfortunately, efforts to assess progress, as well as to strategically plan and prioritize new marine conservation measures, have been hampered by the lack of a detailed, comprehensive biogeographic system to classify the oceans. Here we report on a new global system for coastal and shelf areas: the Marine Ecoregions of the World, or MEOW, a nested system of 12 realms, 62 provinces, and 232 ecoregions. This system provides considerably better spatial resolution than earlier global systems, yet it preserves many common elements and can be cross-referenced to many regional biogeographic classifications. The designation of terrestrial ecoregions has revolutionized priority setting and planning for terrestrial conservation; we anticipate similar benefits from the use of a coherent and credible marine system.
+
+SOURCE: BioScience/Bioscience
+PDF URL: None
+CITED BY COUNT: 2907
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Geography', 'Fishery', 'Oceanography', 'Biology', 'Geology']

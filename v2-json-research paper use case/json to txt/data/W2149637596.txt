@@ -1,0 +1,12 @@
+ID: W2149637596
+TITLE: Vulnerability and adaptation of US shellfisheries to ocean acidification
+AUTHOR: ['Julia A. Ekstrom', 'Lisa Suatoni', 'Sarah R. Cooley', 'Linwood H. Pendleton', 'George G. Waldbusser', 'Joshua E. Cinner', 'Jessica Ritter', 'Chris Langdon', 'Ruben van Hooidonk', 'D. K. Gledhill', 'Katharine F. Wellman', 'Michael W. Beck', 'Luke Brander', 'Dan Rittschof', 'Carolyn Doherty', 'Peter Edwards', 'Rosimeiry Portela']
+ABSTRACT:
+Understanding the vulnerability of different US coastal communities to the likely harmful effects of ocean acidification on shellfisheries should inform the development of effective adaptation measures. Ocean acidification is a global, long-term problem whose ultimate solution requires carbon dioxide reduction at a scope and scale that will take decades to accomplish successfully. Until that is achieved, feasible and locally relevant adaptation and mitigation measures are needed. To help to prioritize societal responses to ocean acidification, we present a spatially explicit, multidisciplinary vulnerability analysis of coastal human communities in the United States. We focus our analysis on shelled mollusc harvests, which are likely to be harmed by ocean acidification. Our results highlight US regions most vulnerable to ocean acidification (and why), important knowledge and information gaps, and opportunities to adapt through local actions. The research illustrates the benefits of integrating natural and social sciences to identify actions and other opportunities while policy, stakeholders and scientists are still in relatively early stages of developing research plans and responses to ocean acidification.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 276
+PUBLICATION YEAR: 2015
+TYPE: preprint
+CONCEPTS: ['Ocean acidification', 'Scope (computer science)', 'Vulnerability (computing)', 'Adaptation (eye)', 'Environmental resource management', 'Multidisciplinary approach', 'Environmental science', 'Climate change', 'Scale (ratio)', 'Environmental planning', 'Geography', 'Ecology', 'Computer science', 'Political science', 'Biology', 'Computer security', 'Cartography', 'Law', 'Programming language', 'Neuroscience']

@@ -1,0 +1,12 @@
+ID: W3105875081
+TITLE: A call for public archives for biological image data
+AUTHOR: ['Jan Ellenberg', 'Jason R. Swedlow', 'Mary Barlow', 'Charles E. Cook', 'Ugis Sarkans', 'Ardan Patwardhan', 'Alvis Brāzma', 'Ewan Birney']
+ABSTRACT:
+Public data archives are the backbone of modern biological and biomedical research. While archives for biological molecules and structures are well-established, resources for imaging data do not yet cover the full range of spatial and temporal scales or application domains used by the scientific community. In the last few years, the technical barriers to building such resources have been solved and the first examples of scientific outputs from public image data resources, often through linkage to existing molecular resources, have been published. Using the successes of existing biomolecular resources as a guide, we present the rationale and principles for the construction of image data archives and databases that will be the foundation of the next revolution in biological and biomedical informatics and discovery.
+
+SOURCE: Nature methods
+PDF URL: https://www.nature.com/articles/s41592-018-0195-8.pdf
+CITED BY COUNT: 104
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Data science', 'Computer science', 'Biological data', 'Informatics', 'Cover (algebra)', 'World Wide Web', 'Bioinformatics', 'Biology', 'Engineering', 'Mechanical engineering', 'Electrical engineering']

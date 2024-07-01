@@ -1,0 +1,12 @@
+ID: W2787709589
+TITLE: Scientific Considerations for the Assessment and Management of Mine Tailings Disposal in the Deep Sea
+AUTHOR: ['Lindsay L. Vare', 'Maria Baker', 'John Howe', 'Lisa A. Levin', 'Carlos Neira', 'Eva Ramírez-Llodra', 'Amanda Reichelt‐Brushett', 'Ashley A. Rowden', 'Tracy M Shimmield', 'Stuart L. Simpson', 'Eulogio H. Soto']
+ABSTRACT:
+Deep-sea tailing disposal (DSTD) and its shallow water counterpart, submarine tailings disposal (STD), are practiced in many areas of the world, whereby mining industries discharge processed mud- and rock waste slurries (tailings) directly into the marine environment. Pipeline discharges and other land-based sources of marine pollution fall beyond the regulatory scope of the London Convention and the London Protocols (LC/LP). However, guidelines have been developed (Papua New Guinea) to improve tailing waste management frameworks in which mining companies can operate. DSTD can impact ocean ecosystems in addition to other sources of stress, such as from fishing, pollution, energy extraction, tourism, eutrophication, climate change and, potentially in the future, from deep-seabed mining. Environmental management of DSTD may be most effective when placed in a broader context, drawing expertise, data and lessons from multiple sectors (academia, government, society, industry and regulators) and engaging with international deep-ocean observing programs, databases and stewardship consortia. Here, the challenges associated with DSTD are identified, along with possible solutions, based on the results of a number of robust scientific studies. Also highlighted are the key issues, trends of improved practice and techniques that could be used if considering DSTD, such as increased precaution if considering submarine canyon locations and likely cumulative impacts and research needed to address current knowledge gaps.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00017/pdf
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Tailings', 'Context (archaeology)', 'Stewardship (theology)', 'Environmental planning', 'Environmental resource management', 'Government (linguistics)', 'Environmental science', 'Marine pollution', 'Scope (computer science)', 'Environmental protection', 'Pollution', 'Geology', 'Materials science', 'Metallurgy', 'Paleontology', 'Ecology', 'Linguistics', 'Philosophy', 'Politics', 'Political science', 'Computer science', 'Law', 'Biology', 'Programming language']

@@ -1,0 +1,12 @@
+ID: W2560806624
+TITLE: The Arctic Cryosphere in the Twenty‐First Century
+AUTHOR: ['Roger G. Barry']
+ABSTRACT:
+This paper discusses the state of the Arctic cryosphere during the second half of the twentieth century and describes major findings of observational evidence since the 1950s. Although glaciers have been retreating steadily from their Little Ice Age maximum positions for decades, Arctic sea ice extent and thickness began to decline and loss of mass from the Greenland ice sheet accelerated only in the 1990s. Rapid changes in cryospheric components have occurred in this century, affecting snow cover, Arctic sea ice extent, the mass balance of the Greenland ice sheet, and frozen ground temperatures. Projections for this century, based on model results from the Intergovernmental Panel on Climate Change, involve dramatic changes by 2100.
+
+SOURCE: Geographical review
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Cryosphere', 'Arctic ice pack', 'Arctic', 'Ice sheet', 'Greenland ice sheet', 'Glacier', 'Climatology', 'Future sea level', 'Sea ice', 'Glacier mass balance', 'Physical geography', 'Snow', 'Arctic sea ice decline', 'Climate change', 'Geology', 'Antarctic sea ice', 'Oceanography', 'Geography', 'Geomorphology']

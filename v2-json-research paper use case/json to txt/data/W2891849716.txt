@@ -1,0 +1,12 @@
+ID: W2891849716
+TITLE: Global Marine N2 Fixation Estimates: From Observations to Models
+AUTHOR: ['Angela Landolfi', 'Paul Kähler', 'Wolfgang Koeve', 'Andreas Oschlies']
+ABSTRACT:
+Fixed nitrogen (N) limits productivity across much of the low-latitude ocean. The magnitude of its inventory results from the balance of N input and N loss, the latter largely occurring in regionally well-defined low-oxygen waters and sediments (denitrification and anammox). The rate and distribution of N input by biotic N2 fixation, the dominant N source, is not well known. Here we compile N2 fixation estimates from experimental measurements, tracer-based geochemical and modeling approaches, and discuss their limitations and uncertainties. The lack of adequate experimental data coverage and the insufficient understanding of the controls of marine N2 fixation result in high uncertainties, which make the assessment of the current N-balance a challenge. We suggest that a more comprehensive understanding of the environmental and ecological interaction of marine N2 fixers is required to advance the field toward robust N2 fixation rates estimates and predictions.
+
+SOURCE: Frontiers in microbiology
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmicb.2018.02112/pdf
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Environmental science', 'Nitrogen fixation', 'Ecology', 'Denitrification', 'Fixation (population genetics)', 'Atmospheric sciences', 'Nitrogen', 'Biology', 'Geology', 'Chemistry', 'Biochemistry', 'Organic chemistry', 'Gene']

@@ -1,0 +1,12 @@
+ID: W2134241075
+TITLE: Plastics on the Sargasso Sea Surface
+AUTHOR: ['Edward Carpenter', 'Kenneth L. Smith']
+ABSTRACT:
+Plastic particles, in concentrations averaging 3500 pieces and 290 grams per square kilometer, are widespread in the western Sargasso Sea. Pieces are brittle, apparently due to the weathering of the plasticizers, and many are in a pellet shape about 0.25 to 0.5 centimeters in diameter. The particles are surfaces for the attachment of diatoms and hydroids. Increasing production of plastics, combined with present waste-disposal practices, will undoubtedly lead to increases in the concentration of these particles. Plastics could be a source of some of the polychlorinated biphenyls recently observed in oceanic organisms.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 1184
+PUBLICATION YEAR: 1972
+TYPE: article
+CONCEPTS: ['Sargasso sea', 'Pellet', 'Environmental science', 'Oceanography', 'Environmental chemistry', 'Chemistry', 'Geology', 'Ecology', 'Biology']

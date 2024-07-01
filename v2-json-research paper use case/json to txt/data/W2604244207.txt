@@ -1,0 +1,12 @@
+ID: W2604244207
+TITLE: The management of coastal erosion
+AUTHOR: ['Allan Williams', 'Nelson Rangel-Buitrago', 'Enzo Pranzini', 'Giorgio Anfuso']
+ABSTRACT:
+At present, accelerated coastal erosion due to anthropogenic pressure is prevalent. Standard defence techniques to combat erosion include hard/soft protection measures (hold/advance the line), accommodation, managed retreat and sacrifice. To these conventional coastal management practices, is added a further new end point – intervention with respect to the causes, which necessitates further management action. Managed retreat and sacrifice areas are becoming increasingly popular options, which involve the input of communities and many global examples are given of comparative studies geared to combating erosion - including management theory. In particular setback lines and shoreline management plans are emphasised and coastal erosion management policy decisions for the UK are discussed in detail, as well as examples taken on a global basis.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 211
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coastal erosion', 'Environmental resource management', 'Erosion', 'Coastal management', 'Shore', 'Setback', 'Environmental planning', 'Environmental science', 'Business', 'Geology', 'Oceanography', 'Civil engineering', 'Engineering', 'Paleontology']

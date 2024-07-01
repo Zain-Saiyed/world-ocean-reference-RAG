@@ -1,0 +1,12 @@
+ID: W4236702011
+TITLE: Submarine Cables
+AUTHOR: []
+ABSTRACT:
+Submarine fiber optic cables are critical communications infrastructure for States around the world. They are laid on the seabed, are often no bigger than a garden hose, and transmit immense amounts of data across oceans. These cables are the backbone of the internet and phone services and underpin core State interests, such as the finance sector, shipping, commerce and banking industries. Without the capacity to transmit and receive data via submarine cables, the economic security of States would be severely compromised. Despite the fact that 95 per cent of all data and telecommunications between States are transmitted via submarine cables, there is little understanding of how these cables operate. As a result some States have developed policies and laws that undermine the integrity of international telecommunications systems. Submarine Cables: The Handbook of Law and Policy provides a one-stop-shop of essential information relating to the international governance of submarine cables. The Handbook is a unique collaboration between international lawyers and experts from the submarine cable industry. It provides a practical insight into the law and policy issues that affect the protection of submarine cables, as well as the laying, maintenance and operation of such cables. In addition, the law and policy issues in relation to other special purpose cables, such as power cables, marine scientific research cables, military cables, and offshore energy cables, are also addressed.
+
+SOURCE: Brill | Nijhoff eBooks
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2014
+TYPE: book
+CONCEPTS: ['Submarine', 'Telecommunications', 'Engineering', 'State (computer science)', 'Phone', 'Law', 'Business', 'Marine engineering', 'Political science', 'Computer science', 'Linguistics', 'Philosophy', 'Algorithm']

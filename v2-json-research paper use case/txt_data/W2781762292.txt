@@ -1,0 +1,12 @@
+ID: W2781762292
+TITLE: A Comprehensive Database for Antarctic Iceberg Tracking Using Scatterometer Data
+AUTHOR: ['Jeffrey Budge', 'David G. Long']
+ABSTRACT:
+This paper describes the development of, and the methodology for, a new, consolidated Brigham Young University (BYU)/National Ice Center (NIC) Antarctic iceberg tracking database. The new database combines daily positional data from the original BYU daily iceberg tracking database derived from scatterometers, and the NIC's weekly Antarctic iceberg tracking database derived mostly from optical and infrared sensors. Interpolation methods and statistical analyses of iceberg locations are discussed. A new, automated method of using positional data and scatterometer backscatter images to estimate sizes and rotational patterns of icebergs is also developed. This information is included in the new database.
+
+SOURCE: IEEE journal of selected topics in applied earth observations and remote sensing
+PDF URL: None
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Iceberg', 'Tracking (education)', 'Interpolation (computer graphics)', 'Scatterometer', 'Computer science', 'Remote sensing', 'Database', 'Backscatter (email)', 'Sea ice', 'Geology', 'Artificial intelligence', 'Oceanography', 'Motion (physics)', 'Radar', 'Telecommunications', 'Psychology', 'Pedagogy', 'Wireless']

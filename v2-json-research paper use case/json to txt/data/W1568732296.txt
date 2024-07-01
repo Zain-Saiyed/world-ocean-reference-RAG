@@ -1,0 +1,12 @@
+ID: W1568732296
+TITLE: Antibiotic Pollution in the Environment: A Review
+AUTHOR: ['Ritu Gothwal', 'Shashidhar Thatikonda']
+ABSTRACT:
+Antibiotics have been extensively and effectively used in human and veterinary medicines. Their benefits have been recognized in agriculture, aquaculture, bee‐keeping, and livestock as growth promoters. This paper collects information from several investigations on the sources and occurrences of antibiotics in natural and artificial environmental systems. Several antibiotics were reported for their occurrences in water resources, effluent from industries, sludge, manure, soil, plants, and organisms across the globe. Sorption, photo‐degradation, biodegradation, and oxidation were recognized as the main elimination pathways for these compounds and have been discussed in detail. The adverse effects of the pollutants were also highlighted and necessary suggestions were made for effective monitoring and mitigating pollution, which may provide the scope for future research.
+
+SOURCE: Clean
+PDF URL: None
+CITED BY COUNT: 505
+PUBLICATION YEAR: 2014
+TYPE: review
+CONCEPTS: ['Manure', 'Scope (computer science)', 'Pollution', 'Agriculture', 'Environmental science', 'Pollutant', 'Environmental planning', 'Aquaculture', 'Antibiotics', 'Environmental pollution', 'Biodegradation', 'Effluent', 'Environmental protection', 'Biotechnology', 'Environmental engineering', 'Ecology', 'Biology', 'Computer science', 'Fish <Actinopterygii>', 'Fishery', 'Microbiology', 'Programming language']

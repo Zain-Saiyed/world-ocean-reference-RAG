@@ -1,0 +1,12 @@
+ID: W2890425694
+TITLE: Recent Southern Ocean warming and freshening driven by greenhouse gas emissions and ozone depletion
+AUTHOR: ['Neil C. Swart', 'Sarah T. Gille', 'John C. Fyfe', 'Nathan P. Gillett']
+ABSTRACT:
+The Southern Ocean has, on average, warmed and freshened over the past several decades. As a primary global sink for anthropogenic heat and carbon, to understand changes in the Southern Ocean is directly relevant to predicting the future evolution of the global climate system. However, the drivers of these changes are poorly understood, owing to sparse observational sampling, large amplitude internal variability, modelling uncertainties and the competing influence of multiple forcing agents. Here we construct an observational synthesis to quantify the temperature and salinity changes over the Southern Ocean and combine this with an ensemble of co-sampled climate model simulations. Using a detection and attribution analysis, we show that the observed changes are inconsistent with the internal variability or the response to natural forcing alone. Rather, the observed changes are primarily attributable to human-induced greenhouse gas increases, with a secondary role for stratospheric ozone depletion. Physically, the simulated changes are primarily driven by surface fluxes of heat and freshwater. The consistency between the observed changes and our simulations provides increased confidence in the ability of climate models to simulate large-scale thermohaline change in the Southern Ocean. Recent warming and freshening of the Southern Ocean can be attributed to human-induced greenhouse gas emissions, with stratospheric ozone depletion also playing a role, according to a synthesis of observations and climate model simulations.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 154
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Environmental science', 'Greenhouse gas', 'Climatology', 'Thermohaline circulation', 'Ozone depletion', 'Forcing (mathematics)', 'Climate model', 'Climate change', 'Atmospheric sciences', 'Global warming', 'Ocean heat content', 'Effects of global warming on oceans', 'Radiative forcing', 'Abrupt climate change', 'Oceanography', 'Effects of global warming', 'Stratosphere', 'Geology']

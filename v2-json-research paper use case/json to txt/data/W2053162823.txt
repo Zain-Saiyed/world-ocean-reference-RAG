@@ -1,0 +1,12 @@
+ID: W2053162823
+TITLE: Climate change, migration and adaptation in Funafuti, Tuvalu
+AUTHOR: ['Colette Mortreux', 'Jon Barnett']
+ABSTRACT:
+This paper shows the extent to which people in Funafuti – the main island of Tuvalu – are intending to migrate in response to climate change. It presents evidence collected from Funafuti to challenge the widely held assumption that climate change is, will, or should result in large-scale migration from Tuvalu. It shows that for most people climate change is not a reason for concern, let alone a reason to migrate, and that would-be migrants do not cite climate change as a reason to leave. People in Funafuti wish to remain living in Funafuti for reasons of lifestyle, culture and identity. Concerns about the impacts of climate change are not currently a significant driver of migration from Funafuti, and do not appear to be a significant influence on those who intend to migrate in the future.
+
+SOURCE: Global environmental change
+PDF URL: None
+CITED BY COUNT: 457
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Climate change', 'Adaptation (eye)', 'Geography', 'Scale (ratio)', 'Identity change', 'Identity (music)', 'Development economics', 'Environmental resource management', 'Ecology', 'Sociology', 'Economics', 'Psychology', 'Social science', 'Biology', 'Qualitative research', 'Physics', 'Cartography', 'Neuroscience', 'Acoustics']

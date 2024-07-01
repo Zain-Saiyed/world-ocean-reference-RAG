@@ -1,0 +1,12 @@
+ID: W2781290485
+TITLE: The effect of local hydrodynamics on the spatial extent and morphology of cold-water coral habitats at Tisler Reef, Norway
+AUTHOR: ['Laurence H. De Clippele', 'Veerle Huvenne', 'Covadonga Orejas', 'Tomas Lundälv', 'Alan Fox', 'Sebastian Hennige', 'J. Murray Roberts']
+ABSTRACT:
+This study demonstrates how cold-water coral morphology and habitat distribution are shaped by local hydrodynamics, using high-definition video from Tisler Reef, an inshore reef in Norway. A total of 334 video frames collected on the north-west (NW) and south-east (SE) side of the reef were investigated for Lophelia pertusa coral cover and morphology and for the cover of the associated sponges Mycale lingua and Geodia sp. Our results showed that the SE side was a better habitat for L. pertusa (including live and dead colonies). Low cover of Geodia sp. was found on both sides of Tisler Reef. In contrast, Mycale lingua had higher percentage cover, especially on the NW side of the reef. Bush-shaped colonies of L. pertusa with elongated branches were the most abundant coral morphology on Tisler Reef. The highest abundance and density of this morphology were found on the SE side of the reef, while a higher proportion of cauliflower-shaped corals with short branches were found on the NW side. The proportion of very small L. pertusa colonies was also significantly higher on the SE side of the reef. The patterns in coral spatial distribution and morphology were related to local hydrodynamics-there were more frequent periods of downwelling currents on the SE side-and to the availability of suitable settling substrates. These factors make the SE region of Tisler Reef more suitable for coral growth. Understanding the impact of local hydrodynamics on the spatial extent and morphology of coral, and their relation to associated organisms such as sponges, is key to understanding the past and future development of the reef.
+
+SOURCE: Coral reefs
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs00338-017-1653-y.pdf
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Reef', 'Coral', 'Coral reef', 'Habitat', 'Fringing reef', 'Morphology (biology)', 'Ecology', 'Biology', 'Coelenterata', 'Oceanography', 'Cnidaria', 'Geology', 'Zoology']

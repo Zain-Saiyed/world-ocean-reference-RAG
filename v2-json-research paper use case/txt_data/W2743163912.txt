@@ -1,0 +1,12 @@
+ID: W2743163912
+TITLE: Multi-objective spatial tools to inform maritime spatial planning in the Adriatic Sea
+AUTHOR: ['Daniel Depellegrin', 'Stefano Menegon', 'Giulio Farella', 'Michol Ghezzo', 'Elena Gissi', 'Alessandro Sarretta', 'Chiara Venier', 'Andrea Barbanti']
+ABSTRACT:
+This research presents a set of multi-objective spatial tools for sea planning and environmental management in the Adriatic Sea Basin. The tools address four objectives: 1) assessment of cumulative impacts from anthropogenic sea uses on environmental components of marine areas; 2) analysis of sea use conflicts; 3) 3-D hydrodynamic modelling of nutrient dispersion (nitrogen and phosphorus) from riverine sources in the Adriatic Sea Basin and 4) marine ecosystem services capacity assessment from seabed habitats based on an ES matrix approach. Geospatial modelling results were illustrated, analysed and compared on country level and for three biogeographic subdivisions, Northern-Central-Southern Adriatic Sea. The paper discusses model results for their spatial implications, relevance for sea planning, limitations and concludes with an outlook towards the need for more integrated, multi-functional tools development for sea planning.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 62
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine spatial planning', 'Spatial planning', 'Geospatial analysis', 'Mediterranean sea', 'Environmental resource management', 'Environmental science', 'Marine ecosystem', 'Marine protected area', 'Geography', 'Oceanography', 'Ecosystem', 'Habitat', 'Environmental planning', 'Mediterranean climate', 'Ecology', 'Geology', 'Remote sensing', 'Archaeology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2550262140
+TITLE: Effects of sea ice cover on satellite-detected primary production in the Arctic Ocean
+AUTHOR: ['Mati Kahru', 'Zhongping Lee', 'B. Greg Mitchell', 'C. D. Nevison']
+ABSTRACT:
+The influence of decreasing Arctic sea ice on net primary production (NPP) in the Arctic Ocean has been considered in multiple publications but is not well constrained owing to the potentially large errors in satellite algorithms. In particular, the Arctic Ocean is rich in coloured dissolved organic matter (CDOM) that interferes in the detection of chlorophyll a concentration of the standard algorithm, which is the primary input to NPP models. We used the quasi-analytic algorithm (Lee et al . 2002 Appl. Opti. 41 , 5755−5772. ( doi:10.1364/AO.41.005755 )) that separates absorption by phytoplankton from absorption by CDOM and detrital matter. We merged satellite data from multiple satellite sensors and created a 19 year time series (1997–2015) of NPP. During this period, both the estimated annual total and the summer monthly maximum pan-Arctic NPP increased by about 47%. Positive monthly anomalies in NPP are highly correlated with positive anomalies in open water area during the summer months. Following the earlier ice retreat, the start of the high-productivity season has become earlier, e.g. at a mean rate of −3.0 d yr −1 in the northern Barents Sea, and the length of the high-productivity period has increased from 15 days in 1998 to 62 days in 2015. While in some areas, the termination of the productive season has been extended, owing to delayed ice formation, the termination has also become earlier in other areas, likely owing to limited nutrients.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2016.0223
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Colored dissolved organic matter', 'Arctic', 'Sea ice', 'Primary production', 'Environmental science', 'Phytoplankton', 'Satellite', 'Oceanography', 'Arctic ice pack', 'Ocean color', 'Climatology', 'Productivity', 'Arctic sea ice decline', 'Atmospheric sciences', 'Ecosystem', 'Nutrient', 'Biology', 'Ecology', 'Geology', 'Drift ice', 'Macroeconomics', 'Economics', 'Aerospace engineering', 'Engineering']

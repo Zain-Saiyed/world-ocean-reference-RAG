@@ -1,0 +1,12 @@
+ID: W3025460245
+TITLE: Let Nature Be Thy Medicine: A Socioecological Exploration of Green Prescribing in the UK
+AUTHOR: ['Jake M. Robinson', 'Anna Jørgensen', 'Ross Cameron', 'Paul J Brindley']
+ABSTRACT:
+Prescribing nature-based health interventions (green prescribing)—such as therapeutic horticulture or conservation activities—is an emerging transdisciplinary strategy focussed on reducing noncommunicable diseases. However, little is known about the practice of, and socioecological constraints/opportunities associated with, green prescribing in the UK. Furthermore, the distribution of green prescribing has yet to be comprehensively mapped. In this study, we conducted a socioecological exploration of green prescribing. We deployed online questionnaires to collect data from general practitioners (GPs) and nature-based organisations (NBOs) around the UK and conducted spatial analyses. Our results indicate that GPs and NBOs perceive and express some common and distinct constraints to green prescribing. This highlights the need to promote cross-disciplinary communication pathways. Greenspace presence and abundance within close proximity (100 and 250 m) to GP surgeries (but not greenness—as a proxy for vegetation cover) and NBO presence within 5 km were associated with higher levels of green prescribing provision. Lower levels of deprivation were associated with higher frequency of NBOs. This suggests that the availability of greenspaces and NBOs could be important for green prescribing provision, but there could be greater opportunities in less deprived areas. Important foci for future research should be to establish transdisciplinary collaborative pathways, efficient infrastructure management and a common vocabulary in green prescribing—with the overall aim of reducing inequalities and enhancing planetary health.
+
+SOURCE: International journal of environmental  research and public health/International journal of environmental research and public health
+PDF URL: https://www.mdpi.com/1660-4601/17/10/3460/pdf?version=1589955422
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Proxy (statistics)', 'Psychological intervention', 'Green infrastructure', 'Geography', 'Sustainability', 'Environmental planning', 'Medicine', 'Environmental resource management', 'Ecology', 'Nursing', 'Computer science', 'Biology', 'Environmental science', 'Machine learning']

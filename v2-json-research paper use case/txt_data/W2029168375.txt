@@ -1,0 +1,12 @@
+ID: W2029168375
+TITLE: Marine fish may be biochemically constrained from inhabiting the deepest ocean depths
+AUTHOR: ['Paul H. Yancey', 'Mackenzie E. Gerringer', 'Jeffrey C. Drazen', 'Ashley A. Rowden', 'Alan J. Jamieson']
+ABSTRACT:
+No fish have been found in the deepest 25% of the ocean (8,400-11,000 m). This apparent absence has been attributed to hydrostatic pressure, although direct evidence is wanting because of the lack of deepest-living species to study. The common osmolyte trimethylamine N-oxide (TMAO) stabilizes proteins against pressure and increases with depth, going from 40 to 261 mmol/kg in teleost fishes from 0 to 4,850 m. TMAO accumulation with depth results in increasing internal osmolality (typically 350 mOsmol/kg in shallow species compared with seawater's 1,100 mOsmol/kg). Preliminary extrapolation of osmolalities of predicted isosmotic state at 8,000-8,500 m may indicate a possible physiological limit, as greater depths would require reversal of osmotic gradients and, thus, osmoregulatory systems. We tested this prediction by capturing five of the second-deepest known fish, the hadal snailfish (Notoliparis kermadecensis; Liparidae), from 7,000 m in the Kermadec Trench. We found their muscles to have a TMAO content of 386 ± 18 mmol/kg and osmolality of 991 ± 22 mOsmol/kg. These data fit previous extrapolations and, combined with new osmolalities from bathyal and abyssal fishes, predict isosmotic state at 8,200 m. This is previously unidentified evidence that biochemistry could constrain the depth of a large, complex taxonomic group.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/111/12/4461.full.pdf
+CITED BY COUNT: 214
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Bathyal zone', 'Abyssal zone', 'Hydrostatic pressure', 'Osmolyte', 'Deep sea', 'Seawater', 'Biology', 'Fish <Actinopterygii>', 'Oceanography', 'Trimethylamine', 'Chemistry', 'Ecology', 'Fishery', 'Benthic zone', 'Biochemistry', 'Geology', 'Physics', 'Thermodynamics']

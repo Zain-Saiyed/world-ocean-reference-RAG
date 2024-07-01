@@ -1,0 +1,12 @@
+ID: W2913432276
+TITLE: Physical and Numerical Modeling of Infragravity Wave Generation and Transformation on Coral Reef Platforms
+AUTHOR: ['Gerd Masselink', 'Megan E. Tuck', 'Robert McCall', 'Ap van Dongeren', 'Murray R. Ford', 'Paul S. Kench']
+ABSTRACT:
+Abstract Wave transformation across reef platforms strongly controls sediment transport processes and coral reef island morphodynamics with infragravity (IG) waves playing an important contributing role. A small‐scale (1:50) laboratory experiment and prototype numerical modeling are used to explore the characteristics of IG wave motion on coral reefs. The slope of the fore reef is the key factor controlling the mechanism of IG wave generation. Steep slopes (&gt;1/10) are dominated by landward and seaward propagating breakpoint‐forced long waves, whereas incoming and then released bound long waves become increasingly important for slopes &lt;1/20. The breakpoint‐forced long wave mechanism is the more effective generator of IG energy, and the most energetic IG motion (normalized by incident wave motion) is generated on reef platforms with a fore reef slope &gt; 1/6. The water level relative to the reef platform h reef is also a key factor, and the largest IG waves are generated for a ratio between h reef and offshore significant wave height H s,o of −0.25 to 0.75, that is, when most waves break across the reef slope and a fully saturated surf zone extends across the reef platform. An island on the reef platform substantially increases the contribution of IG waves to the total wave spectrum, but increased reef surface roughness reduces IG importance. Under the most optimal conditions, the IG wave height averaged across the platform is 20–30% of the incident offshore wave height. The geomorphic influence of IG waves is considered most significant for reef platforms with energetic waves breaking on the steepest fore reefs.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: None
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Reef', 'Geology', 'Infragravity wave', 'Coral reef', 'Beach morphodynamics', 'Wave height', 'Wave setup', 'Fringing reef', 'Oceanography', 'Seismology', 'Geomorphology', 'Sediment transport', 'Wave propagation', 'Sediment', 'Physics', 'Longitudinal wave', 'Mechanical wave', 'Quantum mechanics']

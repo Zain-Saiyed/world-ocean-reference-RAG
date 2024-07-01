@@ -1,0 +1,12 @@
+ID: W2011908879
+TITLE: Coupled biogeochemical cycles: eutrophication and hypoxia in temperate estuaries and coastal marine ecosystems
+AUTHOR: ['Robert W. Howarth', 'Francis Chan', 'Daniel J. Conley', 'Josette Garnier', 'Scott C. Doney', 'Roxanne Marino', 'Gilles Billen']
+ABSTRACT:
+Nutrient fluxes to coastal areas have risen in recent decades, leading to widespread hypoxia and other ecological damage, particularly from nitrogen (N). Several factors make N more limiting in estuaries and coastal waters than in lakes: desorption (release) of phosphorus (P) bound to clay as salinity increases, lack of planktonic N fixation in most coastal ecosystems, and flux of relatively P‐rich, N‐poor waters from coastal oceans into estuaries. During eutrophication, biogeochemical feedbacks further increase the supply of N and P, but decrease availability of silica – conditions that can favor the formation and persistence of harmful algal blooms. Given sufficient N inputs, estuaries and coastal marine ecosystems can be driven to P limitation. This switch contributes to greater far‐field N pollution; that is, the N moves further and contributes to eutrophication at greater distances. The physical oceanography (extent of stratification, residence time, and so forth) of coastal systems determines their sensitivity to hypoxia, and recent changes in physics have made some ecosystems more sensitive to hypoxia. Coastal hypoxia contributes to ocean acidification, which harms calcifying organisms such as mollusks and some crustaceans.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/100008
+CITED BY COUNT: 656
+PUBLICATION YEAR: 2011
+TYPE: review
+CONCEPTS: ['Eutrophication', 'Biogeochemical cycle', 'Hypoxia (environmental)', 'Estuary', 'Environmental science', 'Oceanography', 'Ecosystem', 'Marine ecosystem', 'Plankton', 'Ecology', 'Ocean acidification', 'Biogeochemistry', 'Temperate climate', 'Climate change', 'Nutrient', 'Biology', 'Geology', 'Chemistry', 'Organic chemistry', 'Oxygen']

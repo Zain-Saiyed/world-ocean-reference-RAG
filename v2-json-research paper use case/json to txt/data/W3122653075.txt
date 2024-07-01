@@ -1,0 +1,12 @@
+ID: W3122653075
+TITLE: A Global Estimate of the Number of Coral Reef Fishers
+AUTHOR: ['Louise Teh', 'Lydia C. L. Teh', 'U. Rashid Sumaila']
+ABSTRACT:
+Overfishing threatens coral reefs worldwide, yet there is no reliable estimate on the number of reef fishers globally. We address this data gap by quantifying the number of reef fishers on a global scale, using two approaches - the first estimates reef fishers as a proportion of the total number of marine fishers in a country, based on the ratio of reef-related to total marine fish landed values. The second estimates reef fishers as a function of coral reef area, rural coastal population, and fishing pressure. In total, we find that there are 6 million reef fishers in 99 reef countries and territories worldwide, of which at least 25% are reef gleaners. Our estimates are an improvement over most existing fisher population statistics, which tend to omit accounting for gleaners and reef fishers. Our results suggest that slightly over a quarter of the world's small-scale fishers fish on coral reefs, and half of all coral reef fishers are in Southeast Asia. Coral reefs evidently support the socio-economic well-being of numerous coastal communities. By quantifying the number of people who are employed as reef fishers, we provide decision-makers with an important input into planning for sustainable coral reef fisheries at the appropriate scale.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0065397&type=printable
+CITED BY COUNT: 185
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Fishery', 'Coral reef protection', 'Coral reef fish', 'Overfishing', 'Aquaculture of coral', 'Environmental issues with coral reefs', 'Coral reef organizations', 'Fishing', 'Geography', 'Resilience of coral reefs', 'Population', 'Marine reserve', 'Fringing reef', 'Ecology', 'Biology', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2895872391
+TITLE: Does the Bari Canyon (Central Mediterranean) influence the fish distribution and abundance?
+AUTHOR: ['Letizia Sión', 'Crescenza Calculli', 'Francesca Capezzuto', 'Roberto Carlucci', 'Angela Carluccio', 'Laura Cornacchia', 'Porzia Maiorano', 'Alessio Pollice', 'Pasquale Ricci', 'Angelo Tursi', 'Gianfranco D’Onghia']
+ABSTRACT:
+The objective of this study was to evaluate whether the Bari Canyon influences the distribution and abundance of fish fauna in the southern Adriatic Sea. Data were collected in the Bari Canyon and in an adjacent area on the continental slope during an experimental longline survey carried out in June 2015. A total of 19 fish species were collected (16 inside and 13 outside the canyon). Differences between the sites were evaluated by means of a set of univariate and multivariate methods (analysis of variance, permutational multivariate analysis of variance, non-metric multidimensional scaling). The abundance and biomass of the whole catch were significantly greater inside than outside the canyon. The most abundant species were the shark Galeus melastomus and the teleost fishes Conger conger, Helicolenus dactylopterus, Merluccius merluccius, Pagellus bogaraveo and Phycis blennoides. All these species were found to be more abundant in the canyon than in the adjacent area. However, a significantly greater abundance inside the canyon than outside was detected for C. conger, while P. blennoides showed both significantly greater abundance and biomass in the canyon than outside. P. bogaraveo was exclusively caught inside the canyon. C. conger and P. blennoides exhibited significant differences in their sizes between the canyon and the adjacent area: a greater number of both smaller and larger individuals were found in the canyon than on the open slope. Mature females and males were mostly observed in the canyon in all the most abundant species, with the exception of P. blennoides due to its autumn-winter spawning. The present study corroborates the role of the Bari Canyon as a refuge area and an Essential Fish Habitat for fish species exploited in the neighbouring fishing grounds, highlighting the need for conservation measures.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Canyon', 'Conger', 'Merluccius merluccius', 'Abundance (ecology)', 'Fishery', 'Oceanography', 'Ecology', 'Geography', 'Hake', 'Biology', 'Geology', 'Fish <Actinopterygii>', 'Cartography']

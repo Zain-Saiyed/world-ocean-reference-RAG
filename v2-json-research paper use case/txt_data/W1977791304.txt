@@ -1,0 +1,12 @@
+ID: W1977791304
+TITLE: Pelagic Sargassum community change over a 40-year period: temporal and spatial variability
+AUTHOR: ['Christine L. Huffard', 'Susan Von Thun', 'Alana Sherman', 'Kathleen Sullivan Sealey', 'Kenneth L. Smith']
+ABSTRACT:
+Pelagic forms of the brown algae (Phaeophyceae) Sargassum spp. and their conspicuous rafts are defining characteristics of the Sargasso Sea in the western North Atlantic. Given rising temperatures and acidity in the surface ocean, we hypothesized that macrofauna associated with Sargassum in the Sargasso Sea have changed with respect to species composition, diversity, evenness, and sessile epibiota coverage since studies were conducted 40 years ago. Sargassum communities were sampled along a transect through the Sargasso Sea in 2011 and 2012 and compared to samples collected in the Sargasso Sea, Gulf Stream, and south of the subtropical convergence zone from 1966 to 1975. Mobile macrofauna communities exhibited changes in community structure and declines in diversity and evenness within a 6-month time period (August 2011-February 2012). Equivalent declines in diversity and evenness were recorded in the same region (Sargasso Sea, 25°-29°N) in 1972-1973. Recent community structures were unlike any documented historically, whether compared to sites of the same latitude range within the Sargasso Sea, or the broader historical dataset of sites ranging across the Sargasso Sea, Gulf Stream, and south of the subtropical convergence zone. Recent samples also recorded low coverage by sessile epibionts, both calcifying forms and hydroids. The diversity and species composition of macrofauna communities associated with Sargassum might be inherently unstable. While several biological and oceanographic factors might have contributed to these observations, including a decline in pH, increase in summer temperatures, and changes in the abundance and distribution of Sargassum seaweed in the area, it is not currently possible to attribute direct causal links.
+
+SOURCE: Marine biology
+PDF URL: https://link.springer.com/content/pdf/10.1007/s00227-014-2539-y.pdf
+CITED BY COUNT: 57
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Sargassum', 'Pelagic zone', 'Oceanography', 'Sargasso sea', 'Species evenness', 'Subtropics', 'Biology', 'Range (aeronautics)', 'Ecology', 'Transect', 'Algae', 'Species diversity', 'Geology', 'Materials science', 'Composite material']

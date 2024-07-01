@@ -1,0 +1,12 @@
+ID: W2769439020
+TITLE: Alginate Oligomers and Their Use as Active Pharmaceutical Drugs
+AUTHOR: ['Phil D. Rye', 'Anne Tøndervik', 'Håvard Sletta', 'Mark Pritchard', 'Arne Kristiansen', 'A. Dessen', 'David W. Thomas']
+ABSTRACT:
+Alginate oligomers retain most of the chemical and physical properties of the higher molecular weight commercial alginates, retaining affinity towards monovalent and divalent ions, which is dependent on the chemical composition of the oligomer. However, due to their low molecular weight, they will normally not form gels in the presence of divalent cations. This property is exploited in biological systems to chelate multivalent ions and disrupt Ca2+-mediated cross-linking. Studies have also identified interactions between alginate oligomers and complex mucin polymer systems, bacteria and extracellular polymeric substance (EPS), which suggests that these interactions are not simply the result of cationic chelation. By virtue of their low molecular weight, alginate oligomers stay in solution at high concentration without significant increase in viscosity and can be tailor-made to precisely defined chemical composition and molecular weight. This affords the opportunity to design effective formulations with precisely defined properties and biological effects. The properties now being identified for alginate oligomers represent a promising new approach in the management of chronic lung diseases, biofilm infections and antibiotic use. This chapter outlines the research performed to date, highlighting the excellent safety profile and novel chemical characteristics of alginate oligomers that emphasize their potential in multiple therapeutic applications.
+
+SOURCE: Springer series in biomaterials science and engineering
+PDF URL: None
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Cationic polymerization', 'Oligomer', 'Divalent', 'Chemistry', 'Chelation', 'Combinatorial chemistry', 'Polymer', 'Drug', 'Nanotechnology', 'Materials science', 'Organic chemistry', 'Biology', 'Pharmacology']

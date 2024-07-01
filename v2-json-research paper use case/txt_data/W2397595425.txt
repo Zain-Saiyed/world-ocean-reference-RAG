@@ -1,0 +1,12 @@
+ID: W2397595425
+TITLE: Seasonal variation of atmospheric particulate mercury over the East China Sea, an outflow region of anthropogenic pollutants to the open Pacific Ocean
+AUTHOR: ['Xiaofei Qin', 'Fengwen Wang', 'Congrui Deng', 'Fujiang Wang', 'Guangyuan Yu']
+ABSTRACT:
+In this study, PM2.5 and total suspended particulate (TSP) aerosol samples were collected to investigate atmospheric mercury pollution on a pristine island in the East China Sea (ECS) from October 2011 to August 2012. The sampling site is located in the downwind path of the outflow of anthropogenic pollutants from East Asia to the Pacific Ocean, driven by the East Asian monsoon. Average concentrations of particulate mercury (PHg, in pg/m3) were 16.6 for PM2.5 and 24.2 for TSP. Particulate mercury was mainly present in the fine mode, with 68.5% of the total PHg being present in PM2.5. Obvious seasonal variations were observed for both PM2.5 and TSP. The dry deposition flux of PHg over the ECS was estimated to be 1.69 μg m−2 yr−1. Three episodes of high PHg concentrations were observed during the sampling period. An episode in fall (84.1 pg/m3 in TSP) was induced by biomass burning in East China, and PHg was more concentrated in the fine mode (PM2.5/TSP = 0.91). An episode in winter was triggered by serious anthropogenic emissions in northern China, with PHg levels reaching 132.7 pg/m3 in TSP. An episode in spring was attributed to the long-range transport of Asian dust mixed with anthropogenic aerosols, with increased levels of PHg in the coarse mode (PM2.5/TSP = 0.61). Principal component analysis (PCA) indicated that fossil fuel combustion and biomass burning from the Asian mainland were the two major sources of atmospheric PHg over the ECS.
+
+SOURCE: Atmospheric pollution research
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Environmental science', 'Particulates', 'Aerosol', 'Pollutant', 'Mercury (programming language)', 'Asian Dust', 'Pollution', 'East Asia', 'Atmospheric sciences', 'East Asian Monsoon', 'Oceanography', 'Monsoon', 'Climatology', 'Environmental chemistry', 'China', 'Meteorology', 'Geography', 'Chemistry', 'Geology', 'Ecology', 'Organic chemistry', 'Archaeology', 'Computer science', 'Biology', 'Programming language']

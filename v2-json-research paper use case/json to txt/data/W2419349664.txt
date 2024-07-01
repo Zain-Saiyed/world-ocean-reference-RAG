@@ -1,0 +1,12 @@
+ID: W2419349664
+TITLE: Effectiveness of a deep-sea cold-water coral Marine Protected Area, following eight years of fisheries closure
+AUTHOR: ['Veerle A.I. Huvenne', 'Brian J. Bett', 'D.G. Masson', 'Tim Le Bas', 'A. Wheeler']
+ABSTRACT:
+Pressure on deep-sea ecosystems continues to increase as anthropogenic activities move into ever deeper waters. To mitigate impacts on vulnerable habitats, various conservation measures exist, such as the designation of Marine Protected Areas (MPAs). So far, however, little evidence is available about their effectiveness. This paper presents a unique follow-up study assessing the status and recovery of a deep-sea fisheries closure and MPA at ~ 1000 m water depth in the NE Atlantic, eight years after designation. The Darwin Mounds cold-water coral ecosystem was discovered in 1998, and closed to all bottom contact fisheries, especially trawling, in 2003. Our repeat survey in 2011 used both high-resolution sidescan sonar data collected by Autonomous Underwater Vehicle (AUV) and video footage from a Remotely Operated Vehicle (ROV) to evaluate recovery. The results demonstrate that (1) protection was successful and fishing impact was largely avoided in the Western Darwin Mounds, which contained similar proportions of live cold-water coral occurrence in 2011 as observed in 1998–2000; however (2) the Eastern Darwin Mounds suffered severe damage pre-closure, and by 2011 showed no coral recolonisation and very little regrowth. These results are further evidence for the low resilience and slow recovery potential of deep-sea ecosystems, and underline once again the importance of the precautionary principle in deep-sea conservation.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 123
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Fishery', 'Marine protected area', 'Coral', 'Trawling', 'Oceanography', 'Fishing', 'Bottom trawling', 'Marine reserve', 'Environmental science', 'Marine ecosystem', 'Benthic zone', 'Ecosystem', 'Habitat', 'Marine conservation', 'Ecology', 'Geology', 'Biology']

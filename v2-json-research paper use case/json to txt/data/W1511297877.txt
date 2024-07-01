@@ -1,0 +1,12 @@
+ID: W1511297877
+TITLE: Merging Socioeconomic Imperatives with Geospatial Data: A Non-Negotiable for Coastal Risk Management in South Africa
+AUTHOR: ['Darryl Colenbrander', 'Merle Sowman']
+ABSTRACT:
+The current approach to coastal development set-back delineation in South Africa is producing high-tech empirical methodologies that attempt to pinpoint areas at risk from physical coastal processes and the subsequent positioning of set-backs in relation to these risk areas. Experience in the Western Cape province of South Africa has shown that this approach contributes only partially to coastal risk management. In the context of an urban and peri-urban environment, and bearing in mind that set-backs have significant socioeconomic implications, the development of a set-back line at the local scale requires an expansion beyond just relying on the numerical modeling of physical coastal processes. This research reveals that such an approach is parochial and socially detached and a more inclusive and integrated approach grounded in and spanning localized social, cultural, economic, political, and ecological intricacies of the coastal space is required. Fundamental to achieving this is a re-consideration of the broader project management processes applied in the development of set-backs. The article concludes with a set of principles and guidelines for determining set-backs in complex coastal contexts at the local scale.
+
+SOURCE: Coastal management
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Geospatial analysis', 'Socioeconomic status', 'Geography', 'Context (archaeology)', 'Coastal management', 'Scale (ratio)', 'Environmental resource management', 'Environmental planning', 'Risk management', 'Set (abstract data type)', 'Relation (database)', 'Politics', 'Business', 'Political science', 'Sociology', 'Cartography', 'Computer science', 'Environmental science', 'Population', 'Demography', 'Archaeology', 'Finance', 'Database', 'Law', 'Programming language']

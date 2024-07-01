@@ -1,0 +1,12 @@
+ID: W2621552039
+TITLE: The Future of Modeling to Support Conservation Decisions in the Anthropocene Ocean
+AUTHOR: ['Éva E. Plagányi', 'Elizabeth A. Fulton']
+ABSTRACT:
+Management and conservation of components of the Anthropocene Ocean are becoming significantly more challenging by ever increasing complexity, as the number and types of ocean users increase in synchrony with growing interdependencies between the ecosystem and human well-being. In addition, climate change and ocean acidification are fundamentally changing ocean conditions. Effective conservation will entail synthesizing information across a broad range of disciplines, dealing with nonstationary complexity and a high degree of uncertainty. Modeling is a valuable tool for synthesizing and analyzing this complexity, as well as simulating alternative scenarios that would be impossible to test empirically. We provide several examples of how socioecological frameworks and two-way dynamic feedbacks can be incorporated into marine conservation models and decision support. Modeling provides a means for initiating and supporting discussions around potential future threats and responses, of identifying risks and trade-offs in meeting multiple and potentially conflicting objectives, and informing on ways to avoid undesirable tipping points.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Anthropocene', 'Interdependence', 'Climate change', 'Environmental resource management', 'Computer science', 'Ocean observations', 'Environmental science', 'Environmental planning', 'Risk analysis (engineering)', 'Geography', 'Ecology', 'Business', 'Oceanography', 'Meteorology', 'Political science', 'Geology', 'Law', 'Biology']

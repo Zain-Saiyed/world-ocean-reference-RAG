@@ -1,0 +1,12 @@
+ID: W1981644934
+TITLE: Plastic debris in the open ocean
+AUTHOR: ['Andrés Cózar', 'Fidel Echevarrı́a', 'J. Ignacio González-Gordillo', 'Xabier Irigoien', 'Bárbara Úbeda', 'Santiago Hernández‐León', 'Álvaro T. Palma', 'Sandra Navarro', 'Juan García-de-Lomas', 'Andrea Ruiz', 'M.L. Fernández-de-Puelles', 'Carlos M. Duarte']
+ABSTRACT:
+There is a rising concern regarding the accumulation of floating plastic debris in the open ocean. However, the magnitude and the fate of this pollution are still open questions. Using data from the Malaspina 2010 circumnavigation, regional surveys, and previously published reports, we show a worldwide distribution of plastic on the surface of the open ocean, mostly accumulating in the convergence zones of each of the five subtropical gyres with comparable density. However, the global load of plastic on the open ocean surface was estimated to be on the order of tens of thousands of tons, far less than expected. Our observations of the size distribution of floating plastic debris point at important size-selective sinks removing millimeter-sized fragments of floating plastic on a large scale. This sink may involve a combination of fast nano-fragmentation of the microplastic into particles of microns or smaller, their transference to the ocean interior by food webs and ballasting processes, and processes yet to be discovered. Resolving the fate of the missing plastic debris is of fundamental importance to determine the nature and significance of the impacts of plastic pollution in the ocean.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/111/28/10239.full.pdf
+CITED BY COUNT: 2236
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Debris', 'Plastic pollution', 'Marine debris', 'Environmental science', 'Pelagic zone', 'Oceanography', 'Litter', 'Abundance (ecology)', 'Pollution', 'Ecology', 'Microplastics', 'Geology', 'Biology']

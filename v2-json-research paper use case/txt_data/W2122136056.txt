@@ -1,0 +1,12 @@
+ID: W2122136056
+TITLE: Phylogeography of the Marine Otter (Lontra felina): Historical and Contemporary Factors Determining Its Distribution
+AUTHOR: ['Juliana A. Vianna', 'Paula Ayerdi', 'Gonzalo Medina‐Vogel', 'Jeffrey C. Mangel', 'Horacio Zeballos', 'Manuel Apaza', 'Sylvain Faugeron']
+ABSTRACT:
+The evolutionary history of a species can be revealed by phylogeographical analysis; nevertheless, not only historical but also contemporary processes can imprint on the distribution of genetic diversity. We report on the phylogeny of Lontra ssp. in South America, and the role of spatial heterogeneity in shaping the distribution and population structure of the endangered marine otter, Lontra felina. Analyzing a total of 2261 bp of mitochondrial DNA (mtDNA) revealed the recent divergence of L. felina from L. provocax. A strong population structure (Φ(st) = 0.83, P < 0.0001) and a significant pattern of isolation by distance were described for L. felina (n = 168) across a wide geographical distribution (13°53'S to 43°36'S). Lontra felina mtDNA phylogeny is composed of 2 main clades: a clade from Peru and another composed of Chilean haplotypes. Northern populations show different divergent lineages and higher genetic diversity when compared with more recently colonized southern populations. Furthermore, long sandy beaches seem to act as barriers to dispersal, creating 2 evolutionary significant units in agreement with subspecies previous description, and at least 5 different management units (MUs). At a fine spatial scale, the size of rocky seashore patches, the distance between patches and anthropogenic factors also play important roles in species gene flow.
+
+SOURCE: Journal of Heredity
+PDF URL: https://academic.oup.com/jhered/article-pdf/101/6/676/14115836/esq088.pdf
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Biology', 'Biological dispersal', 'Phylogeography', 'Subspecies', 'Ecology', 'Population', 'Zoology', 'Phylogenetics', 'Biochemistry', 'Demography', 'Sociology', 'Gene']

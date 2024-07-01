@@ -1,0 +1,12 @@
+ID: W2298983535
+TITLE: Extreme wave activity during 2013/2014 winter and morphological impacts along the Atlantic coast of Europe
+AUTHOR: ['Gerd Masselink', 'Bruno Castelle', 'Tim Scott', 'Guillaume Dodet', 'Serge Suanez', 'Derek Jackson', "France Floc'H"]
+ABSTRACT:
+Abstract Studies of coastal vulnerability due to climate change tend to focus on the consequences of sea level rise, rather than the complex coastal responses resulting from changes to the extreme wave climate. Here we investigate the 2013/2014 winter wave conditions that severely impacted the Atlantic coast of Europe and demonstrate that this winter was the most energetic along most of the Atlantic coast of Europe since at least 1948. Along exposed open‐coast sites, extensive beach and dune erosion occurred due to offshore sediment transport. More sheltered sites experienced less erosion and one of the sites even experienced accretion due to beach rotation induced by alongshore sediment transport. Storm wave conditions such as were encountered during the 2013/2014 winter have the potential to dramatically change the equilibrium state (beach gradient, coastal alignment, and nearshore bar position) of beaches along the Atlantic coast of Europe.
+
+SOURCE: Geophysical research letters
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015GL067492
+CITED BY COUNT: 254
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Oceanography', 'Coastal erosion', 'Storm', 'Climate change', 'Submarine pipeline', 'Geology', 'Accretion (finance)', 'Sediment transport', 'Erosion', 'Winter storm', 'Overwash', 'North Atlantic oscillation', 'Sediment', 'Shore', 'Climatology', 'Barrier island', 'Geomorphology', 'Physics', 'Astrophysics']

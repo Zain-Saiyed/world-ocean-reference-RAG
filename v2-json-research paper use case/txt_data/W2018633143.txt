@@ -1,0 +1,12 @@
+ID: W2018633143
+TITLE: Nematode beta diversity on the continental slope of New Zealand: spatial patterns and environmental drivers
+AUTHOR: ['Daniel Leduc', 'Ashley A. Rowden', 'DA Bowden', 'Scott D. Nodder', 'P. Keith Probert', 'CA Pilditch', 'G.C.A. Duineveld', 'Rob Witbaard']
+ABSTRACT:
+The management of marine biodiversity relies on sound knowledge of beta (or turnover) and gamma (or regional) diversity patterns, but such knowledge is largely lacking for continental slope environments.Here, we used free-living nematodes to investigate spatial and environmental patterns of beta and gamma diversity on 2 major seabed features of the New Zealand continental slope, Chatham Rise and Challenger Plateau.Species gamma diversity on Chatham Rise was about twice that observed on Challenger Plateau, which likely reflected the greater number of sites sampled and greater range of environmental conditions encompassed by our sampling on the former.Mean Bray-Curtis dissimilarity in community structure/composition (i.e.beta diversity) between Chatham Rise and Challenger Plateau, though high (> 80%), was only marginally greater than within-region dissimilarity, and the beta diversity patterns we observed were mainly driven by factors acting at smaller (i.e.among-site) spatial scales.Sediment physicochemical characteristics (i.e.microhabitat heterogeneity) were the main environmental driver of nematode species and genus beta diversity, and explained about a fifth of the variability.Spatial structure explained a similar proportion of species beta diversity, which, because our sampling strategy was designed to maximise the range of environments sampled across the study areas, may suggest an influence of environment at scales beyond that of the individual cores.A similarity profile test (SIMPROF) identified 9 sample groups based on species data, suggesting a relatively high level of heterogeneity on the open slope of New Zealand.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps_oa/m454p037.pdf
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Beta diversity', 'Biodiversity', 'Continental shelf', 'Gamma diversity', 'Ecology', 'Geography', 'Oceanography', 'Diversity (politics)', 'Plateau (mathematics)', 'Marine ecosystem', 'Ecosystem', 'Geology', 'Biology', 'Sociology', 'Mathematical analysis', 'Mathematics', 'Anthropology']

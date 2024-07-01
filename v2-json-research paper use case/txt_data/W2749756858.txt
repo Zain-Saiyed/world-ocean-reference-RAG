@@ -1,0 +1,12 @@
+ID: W2749756858
+TITLE: Seagrass paleo-biogeography: Fossil records reveal the presence of Halodule cf. in the Canary Islands (eastern Atlantic)
+AUTHOR: ['Fernando Tuya', 'Juan F. Betancort', 'Ricardo Haroun', 'Fernando Espino', 'Alejandro Lomoschitz', 'Joaquı́n Meco']
+ABSTRACT:
+The recognition of marine vegetation in the fossil record brings useful information about past environmental conditions. The paleo-biogeography of seagrasses is largely unknown, since fossilized materials are rare. In this study, we report the existence of fossil deposits of a seagrass species, Halodule cf., at Gran Canaria Island (28° N, northeastern Atlantic). The identification was confirmed by the presence of fossilized plagiotrophic rhizomes and fruits/seeds in sedimentary deposits from the early Pliocene. This seagrass fossilized material is the first from the West African coasts. The presence of this seagrass in the Canary Islands is linked with warm-water conditions during the Pliocene.
+
+SOURCE: Aquatic botany
+PDF URL: None
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seagrass', 'Biogeography', 'Oceanography', 'Geography', 'Fossil Record', 'Geology', 'Paleontology', 'Ecology', 'Biology', 'Habitat']

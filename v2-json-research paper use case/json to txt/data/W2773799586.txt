@@ -1,0 +1,12 @@
+ID: W2773799586
+TITLE: Incorporating transparency into the governance of deep-seabed mining in the Area beyond national jurisdiction
+AUTHOR: ['Jeff Ardron', 'Henry A. Ruhl', 'Daniel O. B. Jones']
+ABSTRACT:
+In the governance of natural resources, transparency has been linked to improved accountability, as well as enforceability, compliance, sustainability, and ultimately more equitable outcomes. Here, good practices in transparency relevant to the emerging governance of deep-seabed mining in the Area beyond national jurisdiction are identified and compared with current practices of the International Seabed Authority (ISA). The analysis found six areas of good transparency practice that could improve the accountability of deep-seabed mining: i) access to information; ii) reporting; iii) quality assurance; iv) compliance information / accreditation; v) public participation; and vi) ability to review / appeal decisions. The ISA has in some instances adopted progressive practices regarding its rules, regulations, and procedures (e.g. including the precautionary approach). However, the results here show that overall the ISA will need to consider improvements in each of the six categories above, in order to reflect contemporary best transparency practices, as well as meeting historical expectations embodied in the principle of the ‘common heritage of mankind’. This would involve a revision of its rules and procedures. The ongoing review and drafting of the ISA’s deep-seabed mining exploitation regulations offers a once-in-a-generation opportunity to improve upon the current situation. Findings from this analysis are summarised in 18 recommendations, including publication of annual reports submitted by contractors, publication of annual financial statements, development of a transparency policy, compliance reporting, and dedicated access to Committee meetings.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Transparency (behavior)', 'Accountability', 'Jurisdiction', 'Corporate governance', 'Business', 'Sustainability', 'Accreditation', 'Best practice', 'Political science', 'Accounting', 'Public relations', 'Environmental planning', 'Law', 'Geography', 'Finance', 'Ecology', 'Biology']

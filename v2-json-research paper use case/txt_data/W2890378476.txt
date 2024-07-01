@@ -1,0 +1,12 @@
+ID: W2890378476
+TITLE: Ch. 13: Ocean Acidification and Other Ocean Changes. Climate Science Special Report: Fourth National Climate Assessment, Volume I
+AUTHOR: ['Libby Jewett', 'Anastasia Romanou']
+ABSTRACT:
+This report is an authoritative assessment of the science of climate change, with a focus on the United States. It represents the first of two volumes of the Fourth National Climate Assessment, mandated by the Global Change Research Act of 1990.
+
+SOURCE: None
+PDF URL: https://science2017.globalchange.gov/downloads/CSSR2017_FullReport.pdf
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2017
+TYPE: report
+CONCEPTS: ['Ocean acidification', 'Climatology', 'Environmental science', 'Volume (thermodynamics)', 'Ocean science', 'Oceanography', 'Climate change', 'Geology', 'Physics', 'Quantum mechanics']

@@ -1,0 +1,12 @@
+ID: W2941335811
+TITLE: Vision is highly sensitive to oxygen availability in marine invertebrate larvae
+AUTHOR: ['Lillian R. McCormick', 'Lisa A. Levin', 'Nicholas Oesch']
+ABSTRACT:
+For many animals, evolution has selected for complex visual systems despite the high energetic demands associated with maintaining eyes and their processing structures. Therefore, the metabolic demands of visual systems make them highly sensitive to fluctuations in available oxygen. In the marine environment, oxygen changes over daily, seasonal and inter-annual time scales, and there are large gradients of oxygen with depth. Vision is linked to survival in many marine animals, particularly among the crustaceans, cephalopods and fish, and early life stages of these groups rely on vision for prey capture, predator detection and their distribution in the water column. Using in vivo electroretinogram recordings, we show that there is a decrease in retinal sensitivity to light in marine invertebrates when exposed to reduced oxygen availability. We found a 60-100% reduction in retinal responses in the larvae of cephalopods and crustaceans: the market squid (Doryteuthis opalescens), the two-spot octopus (Octopus bimaculatus), the tuna crab (Pleuroncodes planipes) and the graceful rock crab (Metacarcinus gracilis). A decline in oxygen also decreases the temporal resolution of vision in D. opalescens These results are the first demonstration that vision in marine invertebrates is highly sensitive to oxygen availability and that the thresholds for visual impairment from reduced oxygen are species-specific. Oxygen-impaired retinal function may change the visual behaviors crucial to survival in these marine larvae. These findings may impact our understanding of species' vulnerability to ocean oxygen loss and suggest that researchers conducting electrophysiology experiments should monitor oxygen levels, as even small changes in oxygen may affect the results.
+
+SOURCE: Journal of experimental biology
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Invertebrate', 'Marine invertebrates', 'Larva', 'Biology', 'Fishery', 'Ecology', 'Zoology', 'Oceanography', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2346476325
+TITLE: Unstructured grid modelling of offshore wind farm impacts on seasonally stratified shelf seas
+AUTHOR: ['Pierre Cazenave', 'Ricardo Torres', 'J. Icarus Allen']
+ABSTRACT:
+Shelf seas comprise approximately 7% of the world's oceans and host enormous economic activity. Development of energy installations (e.g. Offshore Wind Farms (OWFs), tidal turbines) in response to increased demand for renewable energy requires a careful analysis of potential impacts. Recent remote sensing observations have identified kilometre-scale impacts from OWFs. Existing modelling evaluating monopile impacts has fallen into two camps: small-scale models with individually resolved turbines looking at local effects; and large-scale analyses but with sub-grid scale turbine parameterisations. This work straddles both scales through a 3D unstructured grid model (FVCOM): wind turbine monopiles in the eastern Irish Sea are explicitly described in the grid whilst the overall grid domain covers the south-western UK shelf. Localised regions of decreased velocity extend up to 250 times the monopile diameter away from the monopile. Shelf-wide, the amplitude of the M2 tidal constituent increases by up to 7%. The turbines enhance localised vertical mixing which decreases seasonal stratification. The spatial extent of this extends well beyond the turbines into the surrounding seas. With significant expansion of OWFs on continental shelves, this work highlights the importance of how OWFs may impact coastal (e.g. increased flooding risk) and offshore (e.g. stratification and nutrient cycling) areas.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 44
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Offshore wind power', 'Environmental science', 'Submarine pipeline', 'Turbine', 'Oceanography', 'Wind power', 'Stratification (seeds)', 'Tidal power', 'Continental shelf', 'Renewable energy', 'Geology', 'Marine engineering', 'Engineering', 'Mechanical engineering', 'Seed dormancy', 'Botany', 'Germination', 'Electrical engineering', 'Dormancy', 'Biology']

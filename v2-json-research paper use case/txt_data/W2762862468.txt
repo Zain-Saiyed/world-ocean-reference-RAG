@@ -1,0 +1,12 @@
+ID: W2762862468
+TITLE: Export of Plastic Debris by Rivers into the Sea
+AUTHOR: ['Christian Schmidt', 'Tobias Krauth', 'Stephan Wagner']
+ABSTRACT:
+A substantial fraction of marine plastic debris originates from land-based sources and rivers potentially act as a major transport pathway for all sizes of plastic debris. We analyzed a global compilation of data on plastic debris in the water column across a wide range of river sizes. Plastic debris loads, both microplastic (particles <5 mm) and macroplastic (particles >5 mm) are positively related to the mismanaged plastic waste (MMPW) generated in the river catchments. This relationship is nonlinear where large rivers with population-rich catchments delivering a disproportionately higher fraction of MMPW into the sea. The 10 top-ranked rivers transport 88–95% of the global load into the sea. Using MMPW as a predictor we calculate the global plastic debris inputs form rivers into the sea to range between 0.41 and 4 × 106 t/y. Due to the limited amount of data high uncertainties were expected and ultimately confirmed. The empirical analysis to quantify plastic loads in rivers can be extended easily by additional potential predictors other than MMPW, for example, hydrological conditions.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 908
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Debris', 'Environmental science', 'Plastic waste', 'Hydrology (agriculture)', 'Range (aeronautics)', 'Population', 'Physical geography', 'Oceanography', 'Geology', 'Geography', 'Geotechnical engineering', 'Waste management', 'Materials science', 'Demography', 'Sociology', 'Engineering', 'Composite material']

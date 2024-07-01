@@ -1,0 +1,12 @@
+ID: W2340321727
+TITLE: Combined impacts of natural and human disturbances on rocky shore communities
+AUTHOR: ['Fiorenza Micheli', 'Kimberly W. Heiman', 'Carrie V. Kappel', 'Rebecca G. Martone', 'Suresh A. Sethi', 'Giacomo Chato Osio', 'Simonetta Fraschetti', 'Andrew Olaf Shelton', 'Jacqui M. Tanner']
+ABSTRACT:
+Most ecosystems are subject to both natural and human disturbances that can combine to influence populations and assemblages in complex ways. Assessing the relative influences and combined impacts of natural and human disturbance is crucial for managing human uses of ecosystems against the backdrop of their natural variability. We evaluated the separate and combined influences of disturbance from storm waves and disturbance associated with human trampling of rocky shores by conducting an experiment mimicking controlled levels of trampling at sites with different wave exposures, and before and after a major storm event in central California, USA. Results show that trampling and storm waves affected the same taxa and have comparable and additive effects on rocky shore assemblages. Both disturbance types caused significant reduction in percent cover of mussels and erect macroalgae, and resulted in significant re-organization of assemblages associated with these habitat-forming taxa. A single extreme storm event caused similar percent cover losses of mussels and erect macroalgae as did 6–12 months of trampling. Contrary to a predicted synergistic effect of trampling and storm damage, we found that impacts from each disturbance combined additively. Mussel beds in wave-exposed sites are more vulnerable to trampling impacts than algal beds at protected sites. Mussels and erect macroalgae recovered within five years after trampling stopped. These results suggest that impacts from local human use can be reversed in relatively short time frames, and that cumulative impacts can be reduced by setting recreational carrying capacities more conservatively when ecosystems are already exposed to frequent and/or intense natural disturbances.
+
+SOURCE: Ocean & coastal management
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S0964569116300394
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Trampling', 'Disturbance (geology)', 'Rocky shore', 'Storm', 'Ecosystem', 'Shore', 'Ecology', 'Natural (archaeology)', 'Environmental science', 'Habitat', 'Geography', 'Fishery', 'Biology', 'Oceanography', 'Geology', 'Grazing', 'Paleontology', 'Archaeology']

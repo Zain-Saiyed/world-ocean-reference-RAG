@@ -1,0 +1,12 @@
+ID: W2915837973
+TITLE: Situating human rights in the context of fishing rights – Contributions and contradictions
+AUTHOR: ['Andrew M. Song', 'Adam Soliman']
+ABSTRACT:
+Human rights have become a salient topic in fisheries governance. There is an increasing call to operationalize human rights principles in management practices. Enthusiastically, human rights-related language has proliferated in policy texts and academic discourses, but seldom with precise understanding. This deficiency can create confusion and conflation on-the-ground, and is likely nowhere more pertinent than at the intersection of human rights and fishing rights with both converging on the application of rights. By applying a legal, applied perspective, this paper advances two aims. First, it distinguishes and clarifies key terms involved in a human rights-based approach, including human right, customary fishing right and constitutionally protected right to fish. Secondly, it exposes dilemmas that can arise when human rights and fishing rights are brought together in situations of rights allocation, that is, universality of human rights vs. exclusivity of fishing rights; rights versus attendant duties; prioritizing amongst competing human-cum-fishing rights; and individual vs. communal rights. Together, we submit that the human rights-based approach to fisheries will be most effective when a human rights-based approach is used to support (1) communal fishing rights rather than individual rights, assuming the community strives to ensure the basic dignity of all members by distributing fishing rights in a manner consistent with human rights principles, and (2) the fishing rights of small-scale fisheries against those of larger industrial fleets, rather than using it between two small-scale fishing groups. We illustrate these essential clarifications by drawing on contemporary examples from the Global South and North.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Human rights', 'Fundamental rights', 'Fishing', 'Rights of Nature', 'International human rights law', 'Linguistic rights', 'Dignity', 'Right to property', 'Political science', 'Reservation of rights', 'Law and economics', 'Law', 'Sociology']

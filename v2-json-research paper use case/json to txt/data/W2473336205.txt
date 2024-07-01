@@ -1,0 +1,12 @@
+ID: W2473336205
+TITLE: Drivers of exceptionally cold North Atlantic Ocean temperatures and their link to the 2015 European heat wave
+AUTHOR: ['Aurélie Duchez', 'Eleanor Frajka‐Williams', 'Simon A. Josey', 'D. Gareth Evans', 'Jeremy P. Grist', 'Robert Marsh', 'Gerard McCarthy', 'Bablu Sinha', 'David I. Berry', 'Joël Hirschi']
+ABSTRACT:
+The North Atlantic and Europe experienced two extreme climate events in 2015: exceptionally cold ocean surface temperatures and a summer heat wave ranked in the top ten over the past 65 years. Here, we show that the cold ocean temperatures were the most extreme in the modern record over much of the mid-high latitude North-East Atlantic. Further, by considering surface heat loss, ocean heat content and wind driven upwelling we explain for the first time the genesis of this cold ocean anomaly. We find that it is primarily due to extreme ocean heat loss driven by atmospheric circulation changes in the preceding two winters combined with the re-emergence of cold ocean water masses. Furthermore, we reveal that a similar cold Atlantic anomaly was also present prior to the most extreme European heat waves since the 1980s indicating that it is a common factor in the development of these events. For the specific case of 2015, we show that the ocean anomaly is linked to a stationary position of the Jet Stream that favours the development of high surface temperatures over Central Europe during the heat wave. Our study calls for an urgent assessment of the impact of ocean drivers on major European summer temperature extremes in order to provide better advance warning measures of these high societal impact events.
+
+SOURCE: Environmental research letters
+PDF URL: None
+CITED BY COUNT: 124
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Climatology', 'Upwelling', 'Ocean heat content', 'Anomaly (physics)', 'Sea surface temperature', 'Environmental science', 'Oceanography', 'Thermohaline circulation', 'Latitude', 'Lead (geology)', 'Jet stream', 'Ocean current', 'North Atlantic Deep Water', 'Geology', 'Jet (fluid)', 'Physics', 'Geodesy', 'Geomorphology', 'Thermodynamics', 'Condensed matter physics']

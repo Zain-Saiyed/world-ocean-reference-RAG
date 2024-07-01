@@ -1,0 +1,12 @@
+ID: W2119423498
+TITLE: Population control to mitigate the spread of marine pests: insights from management of the Asian kelp Undaria pinnatifida and colonial ascidian Didemnum vexillum
+AUTHOR: ['Barrie M. Forrest', 'Grant A. Hopkins']
+ABSTRACT:
+The control of marine pest populations in transport hubs has the potential to contain or limit spread by minimizing the infection of vessels and other vectors. We draw on New Zealand experiences with eradication or population control attempts on two marine pests, the Asian kelp Undaria pinnatifida Harvey Suringar and the colonial ascidian Didemnum vexillum Kott, to evaluate the extent to which vector infection was mitigated by management efforts. For both species we compare two levels of effort: sustained control involving intensive regional-scale eradication programs, and shorter-duration less intensive efforts that we refer to as partial control. The mean monthly proportion of vessels infected by Undaria was ~1% in two regions where sustained control reduced densities in marine habitats to 1–5% of the pre-treatment population. By contrast, 39% of vessels were infected during a partial control effort, which was comparable to the proportion of vessels infected in four ports where Undaria populations were not managed. For Didemnum, a reduction of the population to < 0.1% of the pretreatment level almost completely negated vessel infection, to the extent that few vessels were implicated in the further spread of Didemnum while sustained control was in place. By contrast, partial population control led to limited benefit in terms of vector risk reduction. More importantly, a cessation or reduction in population control efforts resulted in relatively rapid vessel re-infection. Both case studies illustrate that intensive control of marine pest populations can greatly reduce the infection of susceptible vectors, but achieving such an outcome requires an indefinite commitment of resources, and may be impractical for multiple pest species or multiple infested locations. Although slowing the spread of marine pests can lead to demonstrable benefits, for population control to have greater practicality and stakeholder support, there is a need for socially acceptable and affordable control tools that are effective across relatively large spatial scales.
+
+SOURCE: Management of Biological Invasions
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Kelp', 'Biology', 'Fishery', 'Ecology', 'Population', 'Sociology', 'Demography']

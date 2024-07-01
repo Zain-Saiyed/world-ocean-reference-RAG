@@ -1,0 +1,12 @@
+ID: W2788660475
+TITLE: Governance challenges of marine renewable energy developments in the U.S. – Creating the enabling conditions for successful project development
+AUTHOR: ['Marcus Lange', 'Glenn G. Page', 'Valerie Cummins']
+ABSTRACT:
+Increasingly, marine renewable energy developments are viewed as an opportunity to meet climate change obligations, with the added benefit of powering the economy and the creation of jobs. Technical, economic and engineering challenges co-exist with governance challenges in the development of large-scale marine renewable energy projects. This paper addresses the question, if the prerequisites for sustainable project development are evident in selected case studies. It also asks what lessons can be learned from current practice in the context of energy governance at the local level. The authors argue that these lessons can be central enablers to support decision makers in future programmes, to better understand how to build the enabling conditions for programme implementation towards renewable energy at higher spatial scales of governance, importantly the national level. The study builds on a multiple stakeholder approach involving interviews and group discussions with key individuals from industry, government and civil society in emerging pilot programmes along the East Coast of the United States (U.S.). New policy windows were opening at the time of the analysis and ambitious development was underway by a range of actors who are driving progress in the sector and positioning the area to become a major provider of blue energy.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Renewable energy', 'Stakeholder', 'Corporate governance', 'Civil society', 'Context (archaeology)', 'Government (linguistics)', 'Business', 'Stakeholder engagement', 'Sustainable development', 'Collaborative governance', 'Environmental resource management', 'Environmental planning', 'Political science', 'Economics', 'Politics', 'Public relations', 'Engineering', 'Environmental science', 'Finance', 'Paleontology', 'Linguistics', 'Philosophy', 'Law', 'Biology', 'Electrical engineering']

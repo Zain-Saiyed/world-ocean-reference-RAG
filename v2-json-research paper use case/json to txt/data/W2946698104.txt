@@ -1,0 +1,12 @@
+ID: W2946698104
+TITLE: Challenges of decommissioning offshore wind farms: Overview of the European experience
+AUTHOR: ['Eva Topham', 'Elena Gonzalez', 'David McMillan', 'Elsa João']
+ABSTRACT:
+Abstract In the coming years, an important number of offshore wind turbines will reach the end of their initially planned service life. In a wind turbine end-of-life scenario, owners can decide between extending the life of the asset, repowering the site or decommissioning. This decision-making process is affected by important sources of uncertainty, especially in offshore environments. The limited experience makes the decommissioning procedure challenging, as it is still largely unexplored. This work assesses the current state of knowledge about the challenges surrounding the decommissioning process of an offshore wind farm. The four main challenges encountered are identified and analysed in detail, namely the regulatory framework, the overall planning of the process, the logistics and vessels’ availability, and the environmental impacts confronted. Ultimately, this paper aims at stimulating the dialogue among stakeholders and raising the awareness of adequately regulating and preparing the upcoming decommissioning of offshore wind farms in Europe.
+
+SOURCE: Journal of physics. Conference series
+PDF URL: None
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Nuclear decommissioning', 'Offshore wind power', 'Work (physics)', 'Process (computing)', 'Turbine', 'Submarine pipeline', 'Service (business)', 'Environmental planning', 'Business', 'Environmental science', 'Engineering', 'Environmental resource management', 'Computer science', 'Waste management', 'Mechanical engineering', 'Geotechnical engineering', 'Marketing', 'Operating system']

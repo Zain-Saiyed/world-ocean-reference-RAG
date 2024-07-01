@@ -1,0 +1,12 @@
+ID: W2026044415
+TITLE: Improvements to the Red List Index
+AUTHOR: ['Stuart H. M. Butchart', 'H. Reşi̇t Akçakaya', 'Janice Chanson', 'Jonathan Baillie', 'Ben Collen', 'Suhel Quader', 'Will R. Turner', 'Rajan Amin', 'Simon N. Stuart', 'Craig Hilton‐Taylor']
+ABSTRACT:
+The Red List Index uses information from the IUCN Red List to track trends in the projected overall extinction risk of sets of species. It has been widely recognised as an important component of the suite of indicators needed to measure progress towards the international target of significantly reducing the rate of biodiversity loss by 2010. However, further application of the RLI (to non-avian taxa in particular) has revealed some shortcomings in the original formula and approach: It performs inappropriately when a value of zero is reached; RLI values are affected by the frequency of assessments; and newly evaluated species may introduce bias. Here we propose a revision to the formula, and recommend how it should be applied in order to overcome these shortcomings. Two additional advantages of the revisions are that assessment errors are not propagated through time, and the overall level extinction risk can be determined as well as trends in this over time.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0000140&type=printable
+CITED BY COUNT: 287
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['IUCN Red List', 'Extinction (optical mineralogy)', 'Index (typography)', 'Statistics', 'Suite', 'Computer science', 'Econometrics', 'Geography', 'Biology', 'Mathematics', 'Ecology', 'World Wide Web', 'Paleontology', 'Archaeology']

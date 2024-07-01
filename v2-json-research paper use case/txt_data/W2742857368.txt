@@ -1,0 +1,12 @@
+ID: W2742857368
+TITLE: Mapping the global potential for marine aquaculture
+AUTHOR: ['Rebecca R. Gentry', 'Halley E. Froehlich', 'Dietmar Grimm', 'Peter Kareiva', 'Michael Parke', 'Michael Rust', 'Steven D. Gaines', 'Benjamin S. Halpern']
+ABSTRACT:
+Marine aquaculture presents an opportunity for increasing seafood production in the face of growing demand for marine protein and limited scope for expanding wild fishery harvests. However, the global capacity for increased aquaculture production from the ocean and the relative productivity potential across countries are unknown. Here, we map the biological production potential for marine aquaculture across the globe using an innovative approach that draws from physiology, allometry and growth theory. Even after applying substantial constraints based on existing ocean uses and limitations, we find vast areas in nearly every coastal country that are suitable for aquaculture. The development potential far exceeds the space required to meet foreseeable seafood demand; indeed, the current total landings of all wild-capture fisheries could be produced using less than 0.015% of the global ocean area. This analysis demonstrates that suitable space is unlikely to limit marine aquaculture development and highlights the role that other factors, such as economics and governance, play in shaping growth trajectories. We suggest that the vast amount of space suitable for marine aquaculture presents an opportunity for countries to develop aquaculture in a way that aligns with their economic, environmental and social objectives. Marine aquaculture has the potential to improve food security. A global analysis shows that space in coastal areas is unlikely to limit the potential for aquaculture.
+
+SOURCE: Nature ecology & evolution
+PDF URL: None
+CITED BY COUNT: 326
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Aquaculture', 'Fishery', 'Ecosystem-based management', 'Productivity', 'Food security', 'Marine conservation', 'Scope (computer science)', 'Production (economics)', 'Natural resource economics', 'Environmental resource management', 'Business', 'Geography', 'Environmental science', 'Ecology', 'Fish <Actinopterygii>', 'Ecosystem', 'Biology', 'Economics', 'Macroeconomics', 'Computer science', 'Programming language', 'Agriculture']

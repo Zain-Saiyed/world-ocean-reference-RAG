@@ -1,0 +1,12 @@
+ID: W2596630349
+TITLE: Global warming and recurrent mass bleaching of corals
+AUTHOR: ['Terry P. Hughes', 'James T. Kerry', 'Mariana Álvarez‐Noriega', 'Jorge G. Álvarez‐Romero', 'Kristen D. Anderson', 'Andrew H. Baird', 'Russell C. Babcock', 'Maria Beger', 'David R. Bellwood', 'Ray Berkelmans', 'Tom C. L. Bridge', 'Ian R. Butler', 'Maria Byrne', 'Neal Cantin', 'Steeve Comeau', 'Sean R. Connolly', 'Graeme S. Cumming', 'Steven Dalton', 'Guillermo Díaz-Pulido', 'C. Mark Eakin', 'Will F. Figueira', 'James Gilmour', 'Hugo B. Harrison', 'Scott F. Heron', 'Andrew S. Hoey', 'Jean‐Paul A. Hobbs', 'Mia O. Hoogenboom', 'Emma V. Kennedy', 'Chao Yang Kuo', 'Janice Lough', 'Ryan J. Lowe', 'Gang Liu', 'Malcolm T. McCulloch', 'Hamish A. Malcolm', 'Mike McWilliam', 'John M. Pandolfi', 'Rachel Pears', 'Morgan S. Pratchett', 'Verena Schoepf', 'Tristan Simpson', 'William Skirving', 'Brigitte Sommer', 'Gergely Torda', 'David Wachenfeld', 'Bette L. Willis', 'Shaun K. Wilson']
+ABSTRACT:
+During 2015-2016, record temperatures triggered a pan-tropical episode of coral bleaching, the third global-scale event since mass bleaching was first documented in the 1980s. Here we examine how and why the severity of recurrent major bleaching events has varied at multiple scales, using aerial and underwater surveys of Australian reefs combined with satellite-derived sea surface temperatures. The distinctive geographic footprints of recurrent bleaching on the Great Barrier Reef in 1998, 2002 and 2016 were determined by the spatial pattern of sea temperatures in each year. Water quality and fishing pressure had minimal effect on the unprecedented bleaching in 2016, suggesting that local protection of reefs affords little or no resistance to extreme heat. Similarly, past exposure to bleaching in 1998 and 2002 did not lessen the severity of bleaching in 2016. Consequently, immediate global action to curb future warming is essential to secure a future for coral reefs.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 2319
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Coral bleaching', 'Reef', 'Effects of global warming on oceans', 'Environmental science', 'Oceanography', 'Coral reef', 'Global warming', 'Sea surface temperature', 'Great barrier reef', 'Climate change', 'Coral', 'Fishing', 'Fishery', 'Climatology', 'Geology', 'Biology']

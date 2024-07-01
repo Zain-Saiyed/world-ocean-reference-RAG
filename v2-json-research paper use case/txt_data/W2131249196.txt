@@ -1,0 +1,12 @@
+ID: W2131249196
+TITLE: Economic Valuation of Marine and Coastal Ecosystems: Is it currently fit for purpose?
+AUTHOR: ['Nick Hanley', 'Stephen Hynes', 'David Patterson', 'Niels Jobstvogt']
+ABSTRACT:
+In this paper, we consider whether the current “state of the art” of environmental valuation is suitable for producing policy-relevant estimates of the benefits or costs of changes in marine and coastal ecosystems. We review recent changes in European legislation which has meant an increasing demand for economic valuation from the policy and regulatory community. The next section considers, at a more conceptual level, whether the economic “toolbox” and scientific evidence is up to the task of meeting the demand for more evidence-based policy. Finally, three case studies are used to explore the nature of the valuation task and review what is currently known. These case studies are of salt-marsh restoration, marine renewable energy investments, and deep sea conservation.
+
+SOURCE: Journal of ocean and coastal economics
+PDF URL: None
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Valuation (finance)', 'Ecosystem valuation', 'Legislation', 'Natural resource economics', 'Environmental resource management', 'Toolbox', 'Choice modelling', 'Marine ecosystem', 'Marine conservation', 'Ecosystem services', 'Ecosystem', 'Economics', 'Environmental economics', 'Environmental planning', 'Business', 'Environmental science', 'Ecology', 'Political science', 'Computer science', 'Accounting', 'Ecosystem health', 'Biology', 'Marketing', 'Law', 'Programming language']

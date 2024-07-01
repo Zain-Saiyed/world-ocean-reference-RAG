@@ -1,0 +1,12 @@
+ID: W1800927061
+TITLE: Environmental and traffic-related parameters affecting road dust composition: A multi-technique approach applied to Venice area (Italy)
+AUTHOR: ['Gabrio Valotto', 'Giancarlo Rampazzo', 'Flavia Visin', 'F. Gonella', 'E. Cattaruzza', 'Antonella Glisenti', 'Gianni Formenton', 'Paulo Tieppo']
+ABSTRACT:
+Road dust is a non-exhaust source of atmospheric particulate by re-suspension. It is composed of particles originating from natural sources as well as other non-exhaust source such as tire, brake and asphalt wear. The discrimination between atmospheric particles directly emitted from abrasion process and those related to re-suspension is therefore an open issue, as far as the percentage contribution of non-exhaust emissions is becoming more considerable due also to the recent policy actions and the technological upgrades in the automotive field, focused on the reduction of exhaust emissions. In this paper, road dust collected along the bridge that connects Venice (Italy) to the mainland is characterized with a multi-technique approach in order to determine its composition depending on environmental as well as traffic-related conditions. Six pollutant sources of road dust particles were identified by cluster analysis: brake, railway, tire, asphalt, soil + marine, and mixed combustions. Considering the lack of information on this matrix in this area, this study is intended to provide useful information for future identification of road dust re-suspension source in atmospheric particulate.
+
+SOURCE: Atmospheric environment
+PDF URL: None
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Environmental science', 'Road dust', 'Particulates', 'Asphalt', 'Road surface', 'Mineral dust', 'Environmental engineering', 'Air pollution', 'Suspension (topology)', 'Aerosol', 'Meteorology', 'Engineering', 'Civil engineering', 'Geography', 'Ecology', 'Chemistry', 'Cartography', 'Organic chemistry', 'Mathematics', 'Homotopy', 'Pure mathematics', 'Biology']

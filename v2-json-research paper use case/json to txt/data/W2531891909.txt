@@ -1,0 +1,12 @@
+ID: W2531891909
+TITLE: Ecosystem engineering creates a direct nutritional link between 600-m deep cold-water coral mounds and surface productivity
+AUTHOR: ['Karline Soetaert', 'Christian Mohn', 'Anna M. Rengstorf', 'Anthony Grehan', 'Dick van Oevelen']
+ABSTRACT:
+Cold-water corals (CWCs) form large mounds on the seafloor that are hotspots of biodiversity in the deep sea, but it remains enigmatic how CWCs can thrive in this food-limited environment. Here, we infer from model simulations that the interaction between tidal currents and CWC-formed mounds induces downwelling events of surface water that brings organic matter to 600-m deep CWCs. This positive feedback between CWC growth on carbonate mounds and enhanced food supply is essential for their sustenance in the deep sea and represents an example of ecosystem engineering of unparalleled magnitude. This 'topographically-enhanced carbon pump' leaks organic matter that settles at greater depths. The ubiquitous presence of biogenic and geological topographies along ocean margins suggests that carbon sequestration through this pump is of global importance. These results indicate that enhanced stratification and lower surface productivity, both expected consequences of climate change, may negatively impact the energy balance of CWCs.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep35057.pdf
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Environmental science', 'Oceanography', 'Downwelling', 'Overfishing', 'Ecosystem', 'Deep sea', 'Ecology', 'Productivity', 'Geology', 'Earth science', 'Upwelling', 'Biology', 'Fishing', 'Macroeconomics', 'Economics']

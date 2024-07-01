@@ -1,0 +1,12 @@
+ID: W2143892532
+TITLE: The food consumption of the world's seabirds
+AUTHOR: ['M. de L. Brooke']
+ABSTRACT:
+Improving knowledge of the population sizes of all the world's seabirds allows this provisional estimate of their annual food consumption. Knowing the body mass and energy density of prey it is possible to employ standard metabolic equations to estimate daily and hence annual consumption of a seabird. Using this approach, and assuming that, at the least, there are three individuals alive for every recorded breeding pair, the annual food consumption of all the world's seabirds is 70 million tonnes (Mt: 95% CI 55.9-83.7 Mt). The total obviously increases if more liberal assumptions are made about the number of individuals alive per breeding pair. The principal consumers are mostly high-latitude, often pelagic species-penguins, petrels and auks. The total is similar to the global fisheries landings, currently ca. 80 Mt.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: None
+CITED BY COUNT: 174
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Seabird', 'Pelagic zone', 'Consumption (sociology)', 'Latitude', 'Geography', 'Population', 'Fishery', 'Predation', 'Ecology', 'Environmental science', 'Biology', 'Demography', 'Social science', 'Geodesy', 'Sociology']

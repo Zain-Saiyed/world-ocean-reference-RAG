@@ -1,0 +1,12 @@
+ID: W2773635080
+TITLE: Beaked whales demonstrate a marked acoustic response to the use of shipboard echosounders
+AUTHOR: ['Danielle Cholewiak', 'Annamaria I. DeAngelis', 'Debra L. Palka', 'Peter J. Corkeron', 'Sofie M. Van Parijs']
+ABSTRACT:
+The use of commercial echosounders for scientific and industrial purposes is steadily increasing. In addition to traditional navigational and fisheries uses, commercial sonars are used extensively for oceanographic research, benthic habitat mapping, geophysical exploration, and ecosystem studies. Little is known about the effects of these acoustic sources on marine animals, though several studies have already demonstrated behavioural responses of cetaceans to shipboard echosounders. Some species of cetaceans are known to be particularly sensitive to acoustic disturbance, including beaked whales. In 2011 and 2013, we conducted cetacean assessment surveys in the western North Atlantic in which a suite of Simrad EK60 echosounders was used to characterize the distribution of prey along survey tracklines. Echosounders were alternated daily between active and passive mode, to determine whether their use affected visual and acoustic detection rates of beaked whales. A total of 256 groups of beaked whales were sighted, and 118 definitive acoustic detections were recorded. Regression analyses using generalized linear models (GLM) found that sea state and region were primary factors in determining visual sighting rates, while echosounder state was the primary driver for acoustic detections, with significantly fewer detections (only 3%) occurring when echosounders were active. These results indicate that beaked whales both detect and change their behaviour in response to commercial echosounders. The mechanism of this response is unknown, but could indicate interruption of foraging activity or vessel avoidance, with potential implications for management and mitigation of anthropogenic impacts.
+
+SOURCE: Royal Society open science
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Beaked whale', 'Marine mammals and sonar', 'Foraging', 'Oceanography', 'Environmental science', 'Habitat', 'Benthic habitat', 'Benthic zone', 'Marine ecosystem', 'Echo sounding', 'Bioacoustics', 'Sonar', 'Geology', 'Fishery', 'Ecosystem', 'Computer science', 'Ecology', 'Whale', 'Biology', 'Paleontology', 'Telecommunications']

@@ -1,0 +1,12 @@
+ID: W2338447076
+TITLE: Patterns of tourism in the Antarctic Peninsula region: a 20-year analysis
+AUTHOR: ['Nicole Bender', 'Kim Crosbie', 'Heather J. Lynch']
+ABSTRACT:
+Abstract We extend a previous analysis of Antarctic tour ship vessel traffic to include 20 years of commercial cruise activity (1993/94–2012/13) using recently digitized historical records and new data on vessel landings since 2008/09. Using tourism statistics from 1989/90–2013/14, we also examine trends in passenger numbers, landings and the nationalities of passengers travelling to the Antarctic Peninsula region. This study represents the most comprehensive long-term perspective on how tour ship activity has changed spatially and temporally over a period in which visitation has grown ten-fold. Passenger landings and marine traffic are highly concentrated at a few specific locations, particularly along the Peninsula’s south-western coast. Antarctic tourism activity is closely correlated with measures of economic activity in those countries contributing the largest numbers of visitors to the region. The nationalities of Antarctic tourists have shifted over the years, particularly with respect to an increasing number of visitors from China. Since emerging markets for Antarctic travel are probably far from saturated, interest in travelling to Antarctica will probably continue to grow. Understanding visitation patterns will focus efforts to monitor potential anthropogenic impacts and inform management decisions regarding activities in and around the Antarctic region.
+
+SOURCE: Antarctic science
+PDF URL: None
+CITED BY COUNT: 109
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Peninsula', 'Cruise', 'Tourism', 'Geography', 'China', 'Oceanography', 'Physical geography', 'Geology', 'Archaeology']

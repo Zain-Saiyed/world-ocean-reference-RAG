@@ -1,0 +1,12 @@
+ID: W1574899827
+TITLE: Variations in the age of Arctic sea‐ice and summer sea‐ice extent
+AUTHOR: ['Ignatius Rigor', 'John M. Wallace']
+ABSTRACT:
+Three of the past six summers have exhibited record low sea‐ice extent on the Arctic Ocean. These minima may have been dynamically induced by changes in the surface winds. Based on results of a simple model that keeps track of the age of ice as it moves about on the Arctic Ocean, we show that the areal coverage of thick multi‐year ice decreased precipitously during 1989–1990 when the Arctic Oscillation was in an extreme “high index” state, and has remained low since that time. Under these conditions, younger, thinner ice anomalies recirculate back to the Alaskan coast more quickly, decreasing the time that new ice has to ridge and thicken before returning for another melt season. During the 2002 and 2003 summers this anomalously younger, thinner ice was advected into Alaskan coastal waters where extensive melting was observed, even though temperatures were locally colder than normal. The age of sea‐ice explains more than half of the variance in summer sea‐ice extent.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2004GL019492
+CITED BY COUNT: 404
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Sea ice', 'Arctic ice pack', 'Geology', 'Arctic sea ice decline', 'Oceanography', 'Antarctic sea ice', 'Climatology', 'Arctic', 'Cryosphere', 'Drift ice']

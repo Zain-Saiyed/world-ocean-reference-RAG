@@ -1,0 +1,12 @@
+ID: W2621217225
+TITLE: UV filters and benzotriazoles in urban aquatic ecosystems: The footprint of daily use products
+AUTHOR: ['Daniel Molins-Delgado', 'João Távora', 'M. Silvia Díaz‐Cruz', '\u202aDamià Barceló']
+ABSTRACT:
+The increased use of beauty and other daily use products, in particular those containing UV filters (UV-Fs) and benzotriazoles, results in their introduction in significant amounts into the aquatic environment. In this study, we aim to assess the occurrence and impact of UV-Fs and benzotriazoles in aquatic ecosystems in the metropolitan area of Barcelona, Spain. River water samples from the Llobregat and Besòs Rivers were analysed together with sediment, suspended particulate matter, and wastewater samples from 6 wastewater treatment plants (WWTPs) along their basins. The analysis of 6 UV-Fs and 2 benzotriazoles in water samples was performed using an automatized on-line solid phase extraction coupled to liquid chromatography tandem mass spectrometry (SPE-HPLC-MS/MS) method. The analysis of the target compounds in the suspended solids and in the sediments was performed by HPLC-MS/MS. The analysis of the water samples showed the ubiquitous presence of UV-Fs. Benzotriazole (BZT; partition coefficient octanol-water Log Kow = 1.23) and methylbenzotriazole (MeBZT; Log Kow = 1.89) had the highest levels in both river water and wastewater. Removal rates in the selected WWTPs were highly variable (4–100%). Concentrations of lipophilic UV-Fs (Log Kow 4.95–7.53) in suspended particulate matter from wastewaters were high (up to 1,031,868.2 ng g− 1dry weight (dw)), whereas in sediment the concentrations were always below 300 ng g− 1 dw. The risk assessment expressed in terms of hazard quotients (HQs) revealed that most UV-Fs were not likely to produce adverse ecotoxicological effects against the living organisms assayed in river waters and influent wastewaters at the concentrations observed. However, HQs above 1 were obtained for BZT and MeBZT in effluent wastewaters discharged to the river.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 61
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Wastewater', 'Environmental chemistry', 'Aquatic ecosystem', 'Sediment', 'Environmental science', 'Chemistry', 'Contamination', 'Solid phase extraction', 'Particulates', 'Hazard quotient', 'High-performance liquid chromatography', 'Chromatography', 'Environmental engineering', 'Ecology', 'Geology', 'Paleontology', 'Organic chemistry', 'Biology', 'Heavy metals']

@@ -1,0 +1,12 @@
+ID: W2921958789
+TITLE: Ecology of a polymetallic nodule occurrence gradient: Implications for deep‐sea mining
+AUTHOR: ['Erik Simon‐Lledó', 'Brian J. Bett', 'Veerle Huvenne', 'Timm Schoening', 'Noëlie M.A. Benoist', 'Daniel O. B. Jones']
+ABSTRACT:
+Abstract Abyssal polymetallic nodule fields constitute an unusual deep‐sea habitat. The mix of soft sediment and the hard substratum provided by nodules increases the complexity of these environments. Hard substrata typically support a very distinct fauna to that of seabed sediments, and its presence can play a major role in the structuring of benthic assemblages. We assessed the influence of seafloor nodule cover on the megabenthos of a marine conservation area (area of particular environmental interest 6) in the Clarion Clipperton Zone (3950–4250 m water depth) using extensive photographic surveys from an autonomous underwater vehicle. Variations in nodule cover (1–20%) appeared to exert statistically significant differences in faunal standing stocks, some biological diversity attributes, faunal composition, functional group composition, and the distribution of individual species. The standing stock of both the metazoan fauna and the giant protists (xenophyophores) doubled with a very modest initial increase in nodule cover (from 1% to 3%). Perhaps contrary to expectation, we detected little if any substantive variation in biological diversity along the nodule cover gradient. Faunal composition varied continuously along the nodule cover gradient. We discuss these results in the context of potential seabed‐mining operations and the associated sustainable management and conservation plans. We note in particular that successful conservation actions will likely require the preservation of areas comprising the full range of nodule cover and not just the low cover areas that are least attractive to mining.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: None
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Abyssal plain', 'Seabed', 'Nodule (geology)', 'Habitat', 'Benthic zone', 'Ecology', 'Fauna', 'Marine protected area', 'Seafloor spreading', 'Context (archaeology)', 'Marine habitats', 'Deep sea', 'Oceanography', 'Biology', 'Sediment', 'Fishery', 'Geology', 'Paleontology']

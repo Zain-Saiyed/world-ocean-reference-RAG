@@ -1,0 +1,12 @@
+ID: W1913251319
+TITLE: Embracing conservation success of recovering humpback whale populations: Evaluating the case for downlisting their conservation status in Australia
+AUTHOR: ['Michelle Bejder', 'David W. Johnston', 'J. Dungan Smith', 'Ari S. Friedlaender', 'Lars Bejder']
+ABSTRACT:
+Optimism and hope in conservation biology are supported by examples of endangered species recovery, such as the population growth observed in humpback whales in several of the world׳s oceans. In Australia, monitoring data suggest rapid recovery for both east and west coast populations, which are now larger than 50% of their pre-whaling abundance. The measured growth rates exceed known species trends worldwide and have no indication of diminishing. Under Australian Commonwealth legislation and regulations, these populations should be considered for downlisting, as they are not eligible for listing as a threatened species against all statutory criteria. A change in conservation status will produce new challenges for the conservation and management of a recovered species, especially with the Australian economic landscape experiencing large-scale growth and development in recent years. More importantly, a recovered humpback whale population may bring a positive shift in the research goals and objectives throughout Australia by ensuring other endangered species an equal chance of recovery while delivering hope, optimism, and an opportunity to celebrate a conservation success.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 62
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Endangered species', 'Threatened species', 'Whaling', 'Fishery', 'Geography', 'Population', 'Population growth', 'Humpback whale', 'Commonwealth', 'Poaching', 'Optimism', 'Marine conservation', 'Ecology', 'Habitat', 'Wildlife', 'Whale', 'Biology', 'Psychology', 'Social psychology', 'Demography', 'Archaeology', 'Sociology']

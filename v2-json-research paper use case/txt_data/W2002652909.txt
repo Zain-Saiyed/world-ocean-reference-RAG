@@ -1,0 +1,12 @@
+ID: W2002652909
+TITLE: Neustonic microplastic and zooplankton in the North Western Mediterranean Sea
+AUTHOR: ['Amandine Collignon', 'Jean-Henri Hecq', 'François Galgani', 'Pierre Voisin', 'Fabrice Collard', 'Anne Goffart']
+ABSTRACT:
+Neustonic microplastic and zooplankton abundance was determined in the North Western Mediterranean Sea during a summer cruise between July 9th and August 6th 2010, with a break between July 22 th and 25th due to a strong wind event. Ninety percent of the 40 stations contained microplastic particles (size 0.3-5mm) of various compositions: e.g., filaments, polystyrene, thin plastic films. An average concentration of 0.116 particles/m(2) was observed. The highest abundances (>0.36 particles/m(2)) were observed in shelf stations. The neustonic plastic particles concentrations were 5 times higher before than after the strong wind event which increased the mixing and the vertical repartition of plastic particles in the upper layers of the water column. The values rise in the same order of magnitude than in the North Pacific Gyre. The average ratio between microplastics and mesozooplankton weights was 0.5 for the whole survey and might induce a potential confusion for zooplankton feeders.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 493
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Zooplankton', 'Microplastics', 'Oceanography', 'Ocean gyre', 'Mediterranean sea', 'Water column', 'Environmental science', 'Abundance (ecology)', 'Marine debris', 'Mediterranean climate', 'Fishery', 'Debris', 'Ecology', 'Biology', 'Geology', 'Subtropics']

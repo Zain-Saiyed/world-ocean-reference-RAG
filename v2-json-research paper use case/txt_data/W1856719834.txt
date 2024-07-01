@@ -1,0 +1,12 @@
+ID: W1856719834
+TITLE: Direct observations of American eels migrating across the continental shelf to the Sargasso Sea
+AUTHOR: ['Mélanie Béguer‐Pon', 'Martin Castonguay', 'Shiliang Shan', 'José Benchetrit', 'Julian J. Dodson']
+ABSTRACT:
+Since inferring spawning areas from larval distributions in the Sargasso Sea a century ago, the oceanic migration of adult American eels has remained a mystery. No adult eel has ever been observed migrating in the open ocean or in the spawning area. Here, we track movements of maturing eels equipped with pop-up satellite archival tags from the Scotian Shelf (Canada) into the open ocean, with one individual migrating 2,400 km to the northern limit of the spawning site in the Sargasso Sea. The reconstructed routes suggest a migration in two phases: one over the continental shelf and along its edge in shallow waters; the second in deeper waters straight south towards the spawning area. This study is the first direct evidence of adult Anguilla migrating to the Sargasso Sea and represents an important step forward in the understanding of routes and migratory cues.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms9705.pdf
+CITED BY COUNT: 74
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Sargasso sea', 'Oceanography', 'Continental shelf', 'Gulf Stream', 'Geology', 'Pacific ocean', 'Satellite tracking', 'Fishery', 'Geography', 'Satellite', 'Biology', 'Engineering', 'Aerospace engineering']

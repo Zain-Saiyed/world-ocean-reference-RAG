@@ -1,0 +1,12 @@
+ID: W2768682714
+TITLE: Satellite Altimetry in Coastal Regions
+AUTHOR: ['Paolo Cipollini', 'Jérôme Benveniste', 'Florence Birol', 'M. Joana Fernandes', 'E. Obligis', 'Marcello Passaro', 'P. Ted Strub', 'G. Valladeau', 'Stefano Vignudelli', 'John Wilkin']
+ABSTRACT:
+This chapter describes both the improvements in coastal altimetry on the technical side and the ensuing applications, that is, first improvements in retracking and improvements in corrections. Passaro et al. have reviewed the different approaches taken in literature for the processing of coastal pulse-limited waveforms that do not conform to the Brown model. SAR altimetry is intrinsically promising for coastal applications by virtue of the higher signal-to-noise ratio and along-track resolution. The accurate retrieval of sea surface height from satellite altimetry with centimeter-level accuracy requires the knowledge of all terms involved in the altimeter measurement system with similar or better accuracy. Those are satellite height above a reference ellipsoid from precise orbit determination; altimeter range from dedicated retracking, including all instrument effects; and all range and geophysical corrections. The corrections with particular issues in the coastal regions are mainly the wet tropospheric correction, the sea state bias, and to somewhat lesser extent the dry tropospheric correction.
+
+SOURCE: CRC Press eBooks
+PDF URL: None
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Satellite altimetry', 'Satellite', 'Altimeter', 'Remote sensing', 'Geography', 'Geodesy', 'Geology', 'Environmental science', 'Oceanography', 'Engineering', 'Aerospace engineering']

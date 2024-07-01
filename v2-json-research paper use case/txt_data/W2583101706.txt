@@ -1,0 +1,12 @@
+ID: W2583101706
+TITLE: Mangrove expansion into salt marshes alters associated faunal communities
+AUTHOR: ['Delbert L. Smee', 'James A. Sanchez', 'Meredith S. Diskin', 'Carl C. Trettin']
+ABSTRACT:
+Climate change is altering the distribution of foundation species, with potential effects on organisms that inhabit these environments and changes to valuable ecosystem functions. In the Gulf of Mexico, black mangroves (Avicennia germinans) are expanding northward into salt marshes dominated by Spartina alterniflora (hereafter Spartina). Salt marshes are essential habitats for many organisms, including ecologically and economically important species such as blue crabs (Callinectes sapidus) and Penaeid shrimp (e.g., Penaeus aztecus), which may be affected by vegetation changes. Black mangroves occupied higher tidal elevations than Spartina, and Spartina was present only at its lowest tidal elevations in sites when mangroves were established. We compared nekton and infaunal communities within monoculture stands of Spartina that were bordered by mangroves to nearby areas where mangroves had not yet become established. Nekton and infaunal communities were significantly different in Spartina stands bordered by mangroves, even though salinity and temperature were not different. Overall abundance and biomass of nekton and infauna was significantly higher in marshes without mangroves, although crabs and fish were more abundant in mangrove areas. Black mangrove expansion as well as other ongoing vegetation shifts will continue in a warming climate. Understanding how these changes affect associated species is necessary for management, mitigation, and conservation.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Mangrove', 'Salt marsh', 'Marsh', 'Ecology', 'Mangrove ecosystem', 'Environmental science', 'Geography', 'Biology', 'Wetland']

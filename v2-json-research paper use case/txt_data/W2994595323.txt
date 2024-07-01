@@ -1,0 +1,12 @@
+ID: W2994595323
+TITLE: Effect of tidal flooding on ecosystem CO2 and CH4 fluxes in a salt marsh in the Yellow River Delta
+AUTHOR: ['Siyu Wei', 'Guoqi Han', 'Xiaoqing Chu', 'Weimin Song', 'Wei He', 'Jianyang Xia', 'Haitao Wu']
+ABSTRACT:
+Tidal flooding is the basic hydrological feature of a salt marsh, and controls its ecosystem carbon exchange. However, the response of ecosystem carbon exchange to different stages of tidal flooding remains poorly documented. To further explore this issue, we conducted a field experiment to assess the effect of tidal stages (before flooding stage, rising tide stage, tidal flooding stage and after ebbing stage), water levels (a control, a low water level (LWL), a middle water level (MWL) and a high water level (HWL)) and soil salinity on ecosystem CO2 and CH4 fluxes in a salt marsh in the Yellow River Delta. Our results showed that the rising tide stage significantly inhibited the uptake of CO2 (LWL: 1.49 ± 0.23 μmol m−2 s−1; MWL: 1.10 ± 0.35 μmol m−2 s−1; HWL: 0.54 ± 0.08 μmol m−2 s−1). Meanwhile, the rising tide stage also promoted CH4 emissions of MWL and HWL treatments (MWL: 0.97 ± 0.36 nmol m−2 s−1; HWL: 0.93 ± 0.24 nmol m−2 s−1). CH4 emissions of the after ebbing stage was higher than that of the before flooding stage, and this difference was significant of LWL and MWL treatments (LWL: 0.56 ± 0.12 vs 0.38 ± 0.09 nmol m−2 s−1; MWL: 0.79 ± 0.13 vs 0.40 ± 0.09 nmol m−2 s−1). Moreover, ecosystem CO2 exchange of the HWL treatment was almost completely suppressed during tidal inundation period. During tidal inundation period, net ecosystem CO2 exchange (NEE) was significantly positively correlated with water levels, but CH4 emissions was not significantly affected by water levels. In addition, the rate of CO2 uptake decreased linearly with soil salinity during the non-inundation period. Therefore, it is necessary to analyze the carbon exchange process coupling with the complete tidal flooding process in future researches.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Ecosystem', 'Flooding (psychology)', 'Environmental science', 'Water level', 'Salinity', 'Hydrology (agriculture)', 'Delta', 'Ecosystem respiration', 'Wetland', 'Animal science', 'Stage (stratigraphy)', 'Oceanography', 'Ecology', 'Geography', 'Primary production', 'Geology', 'Biology', 'Physics', 'Psychology', 'Paleontology', 'Cartography', 'Geotechnical engineering', 'Astronomy', 'Psychotherapist']

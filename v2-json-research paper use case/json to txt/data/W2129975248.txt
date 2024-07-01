@@ -1,0 +1,12 @@
+ID: W2129975248
+TITLE: The pathways and properties of the Amazon River Plume in the tropical North Atlantic Ocean
+AUTHOR: ['Victoria J. Coles', 'Maureen T. Brooks', 'Julia Hopkins', 'Michael R. Stukel', 'Patricia L. Yager', 'Raleigh R. Hood']
+ABSTRACT:
+The Amazon River Plume spreads across the tropical North Atlantic creating a barrier to vertical mixing. Here using a 1/6° HYCOM model and data from three research cruises in May–June 2010, September–October 2011, and July 2012, we investigate the pathways and properties of the plume. Four plume pathways for export of freshwater from the western tropical North Atlantic are identified. These consist of direct and indirect pathways to the northwest, and eastward pathways toward the subtropical gyre and toward Africa in the North Equatorial Counter Current. Because of the seasonality and cooccurrence of these pathways, plume characteristics are highly variable. Two pathways export water to the Caribbean, however the time scales associated with those direct and indirect pathways (3 versus 6+ months) differ, leading to different salinity characteristics of the plume water. Models results show that the Amazon river and tropical precipitation have similar magnitude impact on the observed seasonal cycle of freshwater within the western tropical Atlantic and at the 8°N, 38°W PIRATA mooring. Freshwater associated with the Amazon also influences surface salinity in winter as far as 20W in the model. The mean plume salinity minimum leads maximum discharge, highlighting the importance of currents and advection rather than discharge in maintaining plume properties. Plume pathways are tied to the underlying current structure, with the North Equatorial Counter Current jet preventing direct freshwater transport into the southern hemisphere. The plume influences underlying currents as well, generating vertical current shear that leads to enhanced eddy stirring and mixing in the model simulations.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2013JC008981
+CITED BY COUNT: 134
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Plume', 'Ocean gyre', 'Tropical Atlantic', 'Amazon rainforest', 'Oceanography', 'Subtropics', 'Climatology', 'Advection', 'Salinity', 'Current (fluid)', 'Northern Hemisphere', 'Discharge', 'Water mass', 'Environmental science', 'Geology', 'Atmospheric sciences', 'Sea surface temperature', 'Geography', 'Drainage basin', 'Ecology', 'Meteorology', 'Biology', 'Physics', 'Cartography', 'Thermodynamics']

@@ -1,0 +1,12 @@
+ID: W2067631691
+TITLE: Seafood Consumption and Components for Health
+AUTHOR: ['Ryôta Hosomi', 'Minoru Yoshida', 'Kohji Fukunaga']
+ABSTRACT:
+In recent years, in developed countries and around the world, lifestyle-related diseases have become a serious problem. Numerous epidemiological studies and clinical trials have demonstrated that diet is one of the major factors that influences susceptibility to lifestyle-related diseases, especially the middle-senile state. Studies examining dietary habits have revealed the health benefits of seafood consumption. Seafood contains functional components that are not present in terrestrial organisms. These components include n-3-polyunsaturated fatty acids, such as eicosapentaenoic acid and docosahexsaenoic acid, which aid in the prevention of arteriosclerotic and thrombotic disease. In addition, seafood is a superior source of various nutrients, such as protein, amino acids, fiber, vitamins, and minerals. This review focuses on the components derived from seafood and examines the significant role they play in the maintenance and promotion of health.
+
+SOURCE: Global journal of health science
+PDF URL: https://ccsenet.org/journal/index.php/gjhs/article/download/15671/11301
+CITED BY COUNT: 145
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Environmental health', 'Consumption (sociology)', 'Eicosapentaenoic acid', 'Health benefits', 'Polyunsaturated fatty acid', 'Disease', 'Nutrient', 'Health promotion', 'Food science', 'Medicine', 'Public health', 'Biology', 'Fatty acid', 'Traditional medicine', 'Biochemistry', 'Ecology', 'Internal medicine', 'Social science', 'Sociology', 'Nursing']

@@ -1,0 +1,12 @@
+ID: W2127730569
+TITLE: Diversity and population structure of a near–shore marine–sediment viral community
+AUTHOR: ['Mya Breitbart', 'Ben Felts', 'Scott T. Kelley', 'Joseph M. Mahaffy', 'James Nulton', 'Peter Salamon', 'Forest Rohwer']
+ABSTRACT:
+Viruses, most of which are phage, are extremely abundant in marine sediments, yet almost nothing is known about their identity or diversity. We present the metagenomic analysis of an uncultured near-shore marine-sediment viral community. Three-quarters of the sequences in the sample were not related to anything previously reported. Among the sequences that could be identified, the majority belonged to double-stranded DNA phage. Temperate phage were more common than lytic phage, suggesting that lysogeny may be an important lifestyle for sediment viruses. Comparisons between the sediment sample and previously sequenced seawater viral communities showed that certain phage phylogenetic groups were abundant in all marine viral communities, while other phage groups were under-represented or absent. This 'marineness' suggests that marine phage are derived from a common set of ancestors. Several independent mathematical models, based on the distribution of overlapping shotgun sequence fragments from the library, were used to show that the diversity of the viral community was extremely high, with at least 10(4) viral genotypes per kilogram of sediment and a Shannon index greater than 9 nats. Based on these observations we propose that marine-sediment viral communities are one of the largest unexplored reservoirs of sequence space on the planet.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: None
+CITED BY COUNT: 274
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Metagenomics', 'Biology', 'Lysogenic cycle', 'Temperateness', 'Population', 'Phylogenetic tree', 'Lytic cycle', 'Sediment', 'Diversity index', 'Ecology', 'Bacteriophage', 'Genetics', 'Virus', 'Gene', 'Species richness', 'Paleontology', 'Demography', 'Escherichia coli', 'Sociology']

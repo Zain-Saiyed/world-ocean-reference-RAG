@@ -1,0 +1,12 @@
+ID: W2101472476
+TITLE: Nematode diversity and its relation to the quantity and quality of sedimentary organic matter in the deep Nazaré Canyon, Western Iberian Margin
+AUTHOR: ['Jeroen Ingels', 'Kostas Kiriakoulakis', 'George A. Wolff', 'Ann Vanreusel']
+ABSTRACT:
+Samples collected in the deep Nazaré Canyon and at the adjacent slope, during the HERMES RRS Discovery D297 cruise (2005), were analysed for metazoan meiofauna, nematode structure and diversity and its relation to quality and quantity of sedimentary organic material. The amount and quality of organic matter available for direct consumption was much higher in the canyon compared to the slope and positively correlated with high nematode abundances (795–1171 ind. 10 cm−2) and biomass (93.2–343.5 μg dry weight 10 cm−2), thus leading to higher standing stocks. Canyon nematode assemblages also showed particular adaptations (e.g. higher trophic complexity, variability of nematode morphology, and presence of opportunistic genera) to canyon conditions, particularly in the deeper sediment layers. The Nazaré Canyon's nematode diversity was slightly lower than that of the adjacent slope and its assemblages were characterised by a higher dominance of certain genera. Still, the canyon contributes considerably to total Western Iberian Margin diversity due to different assemblages present compared to the slope. Furthermore, the harsh conditions in terms of hydrodynamic disturbance and the high organic matter flux are likely to have a negative impact on the establishment of species rich meiobenthic communities, especially in the canyon axis.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 113
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Canyon', 'Dominance (genetics)', 'Trophic level', 'Meiobenthos', 'Ecology', 'Submarine canyon', 'Organic matter', 'Sedimentary rock', 'Geology', 'Environmental science', 'Biology', 'Paleontology', 'Fauna', 'Geomorphology', 'Biochemistry', 'Gene']

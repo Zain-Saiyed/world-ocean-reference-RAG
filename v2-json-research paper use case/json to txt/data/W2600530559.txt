@@ -1,0 +1,12 @@
+ID: W2600530559
+TITLE: When does fishing forage species affect their predators?
+AUTHOR: ['Ray Hilborn', 'Ricardo O. Amoroso', 'Eugenia Bogazzi', 'Olaf P. Jensen', 'Ana M. Parma', 'Cody Szuwalski', 'Carl J. Walters']
+ABSTRACT:
+This paper explores the impact of fishing low trophic level "forage" species on higher trophic level marine predators including other fish, birds and marine mammals. We show that existing analyses using trophic models have generally ignored a number of important factors including (1) the high level of natural variability of forage fish, (2) the weak relationship between forage fish spawning stock size and recruitment and the role of environmental productivity regimes, (3) the size distribution of forage fish, their predators and subsequent size selective predation (4) the changes in spatial distribution of the forage fish as it influences the reproductive success of predators. We show that taking account of these factors generally tends to make the impact of fishing forage fish on their predators less than estimated from trophic models. We also explore the empirical relationship between forage fish abundance and predator abundance for a range of U.S. fisheries and show that there is little evidence for a strong connection between forage fish abundance and the rate of change in the abundance of their predators. We suggest that any evaluation of harvest policies for forage fish needs to include these issues, and that models tailored for individual species and ecosystems are needed to guide fisheries management policy.
+
+SOURCE: Fisheries research
+PDF URL: None
+CITED BY COUNT: 106
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Forage fish', 'Trophic level', 'Forage', 'Predation', 'Fishing', 'Abundance (ecology)', 'Biology', 'Fishery', 'Ecology', 'Ecosystem-based management', 'Trophic cascade', 'Predatory fish', 'Predator', 'Ecosystem']

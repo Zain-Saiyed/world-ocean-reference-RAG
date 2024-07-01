@@ -1,0 +1,12 @@
+ID: W2766307222
+TITLE: Social fit of coral reef governance varies among individuals
+AUTHOR: ['Rachel Turner', 'Johanna Forster', 'Clare Fitzsimmons', 'David Gill', 'Robin Mahon', 'A Peterson', 'Selina M. Stead']
+ABSTRACT:
+Abstract Improved natural resource governance is critical for the effective conservation of ecosystems, and the well‐being of societies that depend on them. Understanding the social fit of institutional arrangements in different contexts can help guide the design of effective environmental governance. This empirical study assessed individual‐level variation in institutional acceptance of coral reef governance among 652 respondents in 12 fishing and tourism‐oriented communities in the Wider Caribbean. High institutional acceptance was strongly associated with perceptions of community cohesiveness, underlining the potential contribution of civil society to effective governance processes. Institutional acceptance was also influenced by reef use, awareness of rules, perceived trends in reef fish populations, education, and contextual community‐level factors. Understanding what influences diverse perceptions of coral reef governance among individuals can help to assess the likelihood of support for conservation measures. This study highlights how knowledge of institutional acceptance can inform the design of more targeted interventions that enhance the social fit of conservation governance to local contexts and diverse resource users.
+
+SOURCE: Conservation letters
+PDF URL: https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/conl.12422
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Corporate governance', 'Coral reef', 'Group cohesiveness', 'Environmental resource management', 'Marine protected area', 'Resource (disambiguation)', 'Marine conservation', 'Civil society', 'Psychological intervention', 'Fishery', 'Business', 'Political science', 'Ecology', 'Psychology', 'Economics', 'Social psychology', 'Computer network', 'Finance', 'Habitat', 'Politics', 'Computer science', 'Law', 'Biology', 'Psychiatry']

@@ -1,0 +1,12 @@
+ID: W2908313120
+TITLE: Bathyal benthic megafauna from the Mid‐Atlantic Ridge in the region of the Charlie-Gibbs fracture zone based on remotely operated vehicle observations
+AUTHOR: ['Claudia H. S. Alt', 'Antonina Kremenetskaia', 'Andrey Gebruk', 'Andrew J. Gooday', 'Daniel O. B. Jones']
+ABSTRACT:
+Mid-ocean ridges are important geological features that cover around 33% of the global ocean floor, increase environmental heterogeneity on a regional scale and influence benthic community ecology. Benthic communities at the Mid-Atlantic Ridge (MAR) were studied at four contrasting sites, located east and west of the ridge, which were further separated into northern (54°N) and southern (48°N) sites by the Charlie-Gibbs Fracture Zone (CGFZ) and the Sub-Polar Front (SPF). The MAR in the CCFZ region area had flat areas surrounded by gentle slopes between rocky cliffs. A total of 32 remotely operated vehicle video transects (32,000 m2 of seafloor) were surveyed on the flat areas and sedimented slopes (10°). In total, 154 distinct taxonomic units were identified (from 9 phyla) across all sites. The sediments of the flat and sloping sites were generally similar, but differences were seen in the community composition and faunal abundance (~ 4 times higher in the flat sites, except at the northwestern site). Significant differences in abundance were observed between sites (highest in the northern sites). The two northern sites had distinct community compositions, while the two southern sites were similar. This suggests that the MAR acts as a stronger barrier between communities north of the CGFZ than it does to the south. There was high heterogeneity between transects and it was not possible to identify general drivers for the benthic megafauna at the MAR. Our results emphasize the limited knowledge of this vast system with its unique benthic megafauna.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Bathyal zone', 'Megafauna', 'Mid-Atlantic Ridge', 'Ridge', 'Geology', 'Benthic zone', 'Oceanography', 'Fracture zone', 'Remotely operated vehicle', 'Paleontology', 'Pleistocene']

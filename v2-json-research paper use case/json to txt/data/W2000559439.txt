@@ -1,0 +1,12 @@
+ID: W2000559439
+TITLE: Hypoxia Sustains Cyanobacteria Blooms in the Baltic Sea
+AUTHOR: ['Carolina P. Funkey', 'Daniel J. Conley', 'Nina Reuss', 'Christoph Humborg', 'Tom Jilbert', 'Caroline P. Slomp']
+ABSTRACT:
+Nutrient over-enrichment is one of the classic triggering mechanisms for the occurrence of cyanobacteria blooms in aquatic ecosystems. In the Baltic Sea, cyanobacteria regularly occur in the late summer months and form nuisance accumulations in surface waters and their abundance has intensified significantly in the past 50 years attributed to human-induced eutrophication. However, the natural occurrence of cyanobacteria during the Holocene is debated. In this study, we present records of cyanobacteria pigments, water column redox proxies, and nitrogen isotopic signatures for the past ca. 8000 years from Baltic Sea sediment cores. Our results demonstrate that cyanobacteria abundance and nitrogen fixation are correlated with hypoxia occurring during three main intervals: (1) ca. 7000-4000 B.P. during the Littorina transgression, (2) ca. 1400-700 B.P. during the Medieval Climate Anomaly, and (3) from ca. 1950 A.D. to the present. Issues of preservation were investigated, and we show that organic matter and pigment profiles are not simply an artifact of preservation. These results suggest that cyanobacteria abundance is sustained during periods of hypoxia, most likely because of enhanced recycling of phosphorus in low oxygen conditions.
+
+SOURCE: Environmental science & technology
+PDF URL: https://pubs.acs.org/doi/pdf/10.1021/es404395a
+CITED BY COUNT: 112
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Cyanobacteria', 'Eutrophication', 'Water column', 'Hypoxia (environmental)', 'Oceanography', 'Environmental science', 'Environmental chemistry', 'Ecology', 'Algal bloom', 'Nitrogen fixation', 'Nutrient', 'Phytoplankton', 'Biology', 'Chemistry', 'Geology', 'Nitrogen', 'Oxygen', 'Genetics', 'Organic chemistry', 'Bacteria']

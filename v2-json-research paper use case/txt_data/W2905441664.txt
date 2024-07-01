@@ -1,0 +1,12 @@
+ID: W2905441664
+TITLE: Mangrove canopy height globally related to precipitation, temperature and cyclone frequency
+AUTHOR: ['Marc Simard', 'Lola Fatoyinbo', 'Charlotte Smetanka', 'Víctor H. Rivera‐Monroy', 'Edward Castañeda‐Moya', 'Nathan Thomas', 'Tom Van der Stocken']
+ABSTRACT:
+Mangrove wetlands are among the most productive and carbon-dense ecosystems in the world. Their structural attributes vary considerably across spatial scales, yielding large uncertainties in regional and global estimates of carbon stocks. Here, we present a global analysis of mangrove canopy height gradients and aboveground carbon stocks based on remotely sensed measurements and field data. Our study highlights that precipitation, temperature and cyclone frequency explain 74% of the global trends in maximum canopy height, with other geophysical factors influencing the observed variability at local and regional scales. We find the tallest mangrove forests in Gabon, equatorial Africa, where stands attain 62.8 m. The total global mangrove carbon stock (above- and belowground biomass, and soil) is estimated at 5.03 Pg, with a quarter of this value stored in Indonesia. Our analysis implies sensitivity of mangrove structure to climate change, and offers a baseline to monitor national and regional trends in mangrove carbon stocks. Mangrove canopy height varies strongly around the globe in response to climatic factors, according to a global analysis of remote sensing and field data.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 284
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mangrove', 'Environmental science', 'Canopy', 'Carbon stock', 'Precipitation', 'Carbon cycle', 'Wetland', 'Ecosystem', 'Climatology', 'Atmospheric sciences', 'Climate change', 'Geography', 'Ecology', 'Geology', 'Meteorology', 'Oceanography', 'Archaeology', 'Biology']

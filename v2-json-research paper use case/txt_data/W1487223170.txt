@@ -1,0 +1,12 @@
+ID: W1487223170
+TITLE: Offshore Aggregates Resources on the Northern Continental Shelf of the East China Sea
+AUTHOR: ['Ya‐Chao Qin', 'Jinyu Yang', 'Lan Xianhong', 'Zhixun Zhang']
+ABSTRACT:
+Abstract A large‐scale survey for offshore aggregates is carried out on the northern shelf of the E ast C hina S ea. Results show that most of them are directly exposed in the Y angtze S hoal and the linear sand ridges system at water depths 25–55 m and 60–120 m, respectively. The components of these deposits belong to fine aggregates in terms of the fineness modulus. The potential resources are as high as 147.8 × 10 12 kg for the Y angtze S hoal yet only 36.68 × 10 12 kg for the sand ridges area, respectively. A preliminary feasibility analysis suggests that the Y angtze S hoal is suitable for dredging under the present conditions of technology and economy.
+
+SOURCE: Resource geology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/rge.12052
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Geology', 'Submarine pipeline', 'Dredging', 'Continental shelf', 'Geochemistry', 'Geomorphology', 'Geotechnical engineering', 'Oceanography']

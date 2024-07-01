@@ -1,0 +1,12 @@
+ID: W2068142377
+TITLE: Metazoan meiofauna in deep-sea canyons and adjacent open slopes: A large-scale comparison with focus on the rare taxa
+AUTHOR: ['Silvia Bianchelli', 'Cristina Gambi', 'Daniela Zeppilli', 'Roberto Danovaro']
+ABSTRACT:
+Metazoan meiofaunal abundance, total biomass, nematode size and the richness of taxa were investigated along bathymetric gradients (from the shelf break down to ca. 5000-m depth) in six submarine canyons and on five adjacent open slopes of three deep-sea regions. The investigated areas were distributed along >2500 km, on the Portuguese to the Catalan and South Adriatic margins. The Portuguese and Catalan margins displayed the highest abundances, biomass and richness of taxa, while the lowest values were observed in the Central Mediterranean Sea. The comparison between canyons and the nearby open slopes showed the lack of significant differences in terms of meiofaunal abundance and biomass at any sampling depth. In most canyons and on most slopes, meiofaunal variables did not display consistent bathymetric patterns. Conversely, we found that the different topographic features were apparently responsible for significant differences in the abundance and distribution of the rare meiofaunal taxa (i.e. taxa accounting for <1% of total meiofaunal abundance). Several taxa belonging to the temporary meiofauna, such as larvae/juveniles of Priapulida, Holothuroidea, Ascidiacea and Cnidaria, were encountered exclusively on open slopes, while others (including the Tanaidacea and Echinodea larvae) were found exclusively in canyons sediments. Results reported here indicate that, at large spatial scales, differences in deep-sea meiofaunal abundance and biomass are not only controlled by the available food sources, but also by the region or habitat specific topographic features, which apparently play a key role in the distribution of rare benthic taxa.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 100
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Meiobenthos', 'Submarine canyon', 'Abundance (ecology)', 'Species richness', 'Canyon', 'Benthic zone', 'Ecology', 'Oceanography', 'Biomass (ecology)', 'Continental shelf', 'Biology', 'Geology', 'Geomorphology']

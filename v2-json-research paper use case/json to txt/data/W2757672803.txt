@@ -1,0 +1,12 @@
+ID: W2757672803
+TITLE: Arctic Deep Water Ferromanganese‐Oxide Deposits Reflect the Unique Characteristics of the Arctic Ocean
+AUTHOR: ['James R. Hein', 'Natalia Konstantínova', 'Mariah Mikesell', 'Kira Mizell', 'Jessica N. Fitzsimmons', 'Phoebe J. Lam', 'Laramie T. Jensen', 'Yang Xiang', 'Amy Gartman', 'Georgy Cherkashov', 'D. R. Hutchinson', 'Claire P. Till']
+ABSTRACT:
+Abstract Little is known about marine mineral deposits in the Arctic Ocean, an ocean dominated by continental shelf and basins semi‐closed to deep‐water circulation. Here, we present data for ferromanganese crusts and nodules collected from the Amerasia Arctic Ocean in 2008, 2009, and 2012 (HLY0805, HLY0905, and HLY1202). We determined mineral and chemical compositions of the crusts and nodules and the onset of their formation. Water column samples from the GEOTRACES program were analyzed for dissolved and particulate scandium concentrations, an element uniquely enriched in these deposits. The Arctic crusts and nodules are characterized by unique mineral and chemical compositions with atypically high growth rates, detrital contents, Fe/Mn ratios, and low Si/Al ratios, compared to deposits found elsewhere. High detritus reflects erosion of submarine outcrops and North America and Siberia cratons, transport by rivers and glaciers to the sea, and distribution by sea ice, brines, and currents. Uniquely high Fe/Mn ratios are attributed to expansive continental shelves, where diagenetic cycling releases Fe to bottom waters, and density flows transport shelf bottom water to the open Arctic Ocean. Low Mn contents reflect the lack of a mid‐water oxygen minimum zone that would act as a reservoir for dissolved Mn. The potential host phases and sources for elements with uniquely high contents are discussed with an emphasis on scandium. Scandium sorption onto Fe oxyhydroxides and Sc‐rich detritus account for atypically high scandium contents. The opening of Fram Strait in the Miocene and ventilation of the deep basins initiated Fe‐Mn crust growth ∼15 Myr ago.
+
+SOURCE: Geochemistry, geophysics, geosystems
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/2017gc007186
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Geology', 'Geotraces', 'Arctic', 'Diagenesis', 'Oceanography', 'Detritus', 'Bottom water', 'Ferromanganese', 'Geochemistry', 'Deep sea', 'Seawater', 'Paleontology', 'Manganese', 'Chemistry', 'Organic chemistry']

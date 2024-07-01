@@ -1,0 +1,12 @@
+ID: W3036835577
+TITLE: Assessing the effects of tidal stream marine renewable energy on seabirds: A conceptual framework
+AUTHOR: ['Natalie Isaksson', 'Elizabeth A. Masden', 'Benjamin Williamson', 'Melissa M. Costagliola-Ray', 'James Slingsby', 'Jonathan D. R. Houghton', 'Jeremy D. Wilson']
+ABSTRACT:
+We are at a crossroads where many nation states, including the United Kingdom of Great Britain and Northern Ireland (UK), are committing to increased electricity production from “green energy”, of which tidal stream marine renewable energy is one such resource. However, many questions remain regarding the effects of tidal energy devices on marine wildlife, including seabirds, of which the UK has internationally important numbers. Guidelines are lacking on how best to use both well-established and novel survey methods to assess seabird use of tidal flow areas, leading to a data-rich but information poor (DRIP) situation. This review provides a conceptual framework for assessing the effects of tidal stream energy devices on seabirds, summarises current knowledge and highlights knowledge gaps. Finally, recommendations are given for how best to pursue knowledge on this topic.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Environmental science', 'Renewable energy', 'Conceptual model', 'Environmental resource management', 'Conceptual framework', 'Tidal power', 'Oceanography', 'Fishery', 'Environmental planning', 'Ecology', 'Geology', 'Computer science', 'Biology', 'Philosophy', 'Epistemology', 'Database']

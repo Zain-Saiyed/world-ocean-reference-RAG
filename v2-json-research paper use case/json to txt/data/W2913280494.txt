@@ -1,0 +1,12 @@
+ID: W2913280494
+TITLE: Assessment of seabed litter in the Northern and Central Adriatic Sea (Mediterranean) over six years
+AUTHOR: ['Pierluigi Strafella', 'Gianna Fabi', 'Marija Despalatović', 'Ivan Cvitković', 'Tomaso Fortibuoni', 'Alessio Gomiero', 'Stefano Guicciardi', 'Bojan Marčeta', 'Saša Raicevich', 'Anna Nora Tassetti', 'Alessandra Spagnolo', 'Giuseppe Scarcella']
+ABSTRACT:
+Seabed debris is much less investigated in respect to the sea surface and shores due to sampling difficulties and costs. However, detecting marine benthic litter is fundamental for developing policies aimed at achieving the Good Environmental Status in European Seas by 2020, as requested by the Marine Strategy Framework Directive. This study estimates seafloor litter abundance, composition, spatial distribution and main sources in the North-Central Adriatic Sea (FAO GSA 17) over a six-year period (2011–2016) with 67 stations sampled per year, representing the longest data set for the basin. Litter items collected using a “rapido” trawl were classified in six major categories. The average density of the litter collected over six years was 102.66 ± 41.91 kg/km2. The highest concentration of litter was found in stations close to the coast within 30 m depth with a mean weight of 142.90 ± 27.20 kg/km2, while the lowest value was recorded between 30 and 50 m of depth (41.12 ± 9.62 kg/km2). Plastic was dominant followed by metal and other litter materials. Lost fishing nets and mussel culture debris accounted for 50% of the overall plastic litter collected. These data and the systematic monitoring of marine litter provide useful information to implement necessary measures to manage marine litter and minimize this type of anthropogenic pollution in the Adriatic region.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine debris', 'Litter', 'Environmental science', 'Marine Strategy Framework Directive', 'Debris', 'Fishing', 'Fishery', 'Mediterranean sea', 'Oceanography', 'Marine ecosystem', 'Pollution', 'Benthic zone', 'Microplastics', 'Mediterranean climate', 'Ecosystem', 'Ecology', 'Geology', 'Biology']

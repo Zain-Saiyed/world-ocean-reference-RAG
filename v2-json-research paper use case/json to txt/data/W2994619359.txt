@@ -1,0 +1,12 @@
+ID: W2994619359
+TITLE: Seawater quality at the brine discharge site from two mega size seawater reverse osmosis desalination plants in Israel (Eastern Mediterranean)
+AUTHOR: ['Nurit Kress', 'Yaron Gertner', 'Efrat Shoham-Frider']
+ABSTRACT:
+Two mega-size seawater desalination plants, producing 240 Mm3/y freshwater, discharge brine into the Mediterranean coast of Israel through two marine outfalls, located 0.8 km apart. Six years monitoring brine discharge have shown almost no impact on seawater quality. The brine dispersed near the bottom following its initial mixing, and was not detected near the surface. Maximal excess salinity at the salty layer ranged from 4.3 to 9.1% over the reference and the affected area was highly variable (2 km2 - >13 km2), with maximal plume size from 1.75 to more than 4.4 km. Brine increased seawater temperature by up to 0.7 °C near the outfalls. It had no impact on oxygen saturation, turbidity, pH, nutrients (except for total organic phosphorus (TOP)), chlorophyll-a and metal concentrations. TOP, from the polyphosphonate-based antiscalant discharged with the brine, was correlated with excess salinity. It is unknown if the results of this short term study represent a steady state, with temporal variability, or the beginning of a slow incremental impact. Israel is planning to more than double desalination along its 190 km Mediterranean coast by 2050. A long term, adaptable, program, in conjunction with specific research and modeling, should be able to assess and predict the impact of large scale brine discharge on the marine environment.
+
+SOURCE: Water research
+PDF URL: None
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Seawater', 'Brine', 'Salinity', 'Outfall', 'Desalination', 'Environmental science', 'Plume', 'Water quality', 'Mediterranean sea', 'Mediterranean climate', 'Oceanography', 'Hydrology (agriculture)', 'Turbidity', 'Environmental engineering', 'Geology', 'Chemistry', 'Ecology', 'Meteorology', 'Geography', 'Biochemistry', 'Geotechnical engineering', 'Organic chemistry', 'Membrane', 'Biology']

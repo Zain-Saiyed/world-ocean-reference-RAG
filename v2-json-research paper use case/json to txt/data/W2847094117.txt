@@ -1,0 +1,12 @@
+ID: W2847094117
+TITLE: Are geomorphological typologies for estuaries also useful for classifying their ecosystems?
+AUTHOR: ['Peter C. Mahoney', 'Melanie J. Bishop']
+ABSTRACT:
+Abstract With the large number of estuaries within many jurisdictions, it is not always feasible to develop estuary‐specific management plans. Typologies that identify ecologically similar estuaries may assist in delineating groups of estuaries across which common conservation strategies may be developed, where key threatening processes are also similar. Estuarine typologies have been implemented in many countries, but most are based on hydrology and/or geomorphology rather than ecology. This study assessed the extent to which an Australian estuarine ternary classification scheme, which assigns estuaries to geomorphic classes according to wave, tidal and riverine influences, also captures differences in the mosaic of habitat types present. An analysis of 352 Australian estuaries and coastal waterways, for which geomorphological classifications and areas of key habitats were available, revealed strong differences in habitat mosaics among geomorphic classes. These differences among classes in habitat mosaics were independent of the extent of anthropogenic modification. The areal extent of mangrove and saltmarsh habitats displayed particularly large differences among estuarine geomorphic classes, being greatest in tide‐dominated estuaries and deltas, and being smallest in wave‐dominated estuaries, deltas, and strandplains. Overall, results suggest that geomorphic classification schemes may be useful in identifying groups of ecologically similar estuaries, for which common conservation strategies might be developed, depending on stressors. This approach will be particularly useful in developing management strategies for estuaries where detailed habitat maps are not available.
+
+SOURCE: Aquatic conservation
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Estuary', 'Habitat', 'Mangrove', 'Geography', 'Ecology', 'Salt marsh', 'Ecosystem', 'Environmental science', 'Biology']

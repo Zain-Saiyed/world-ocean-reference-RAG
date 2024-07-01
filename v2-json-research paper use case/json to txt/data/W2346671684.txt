@@ -1,0 +1,12 @@
+ID: W2346671684
+TITLE: Interactions between sea-level rise and wave exposure on reef island dynamics in the Solomon Islands
+AUTHOR: ['Simon Albert', 'Javier X. Leon', 'Alistair Grinham', 'John A. Church', 'Badin Gibbes', 'Colin D. Woodroffe']
+ABSTRACT:
+Low-lying reef islands in the Solomon Islands provide a valuable window into the future impacts of global sea-level rise. Sea-level rise has been predicted to cause widespread erosion and inundation of low-lying atolls in the central Pacific. However, the limited research on reef islands in the western Pacific indicates the majority of shoreline changes and inundation to date result from extreme events, seawalls and inappropriate development rather than sea-level rise alone. Here, we present the first analysis of coastal dynamics from a sea-level rise hotspot in the Solomon Islands. Using time series aerial and satellite imagery from 1947 to 2014 of 33 islands, along with historical insight from local knowledge, we have identified five vegetated reef islands that have vanished over this time period and a further six islands experiencing severe shoreline recession. Shoreline recession at two sites has destroyed villages that have existed since at least 1935, leading to community relocations. Rates of shoreline recession are substantially higher in areas exposed to high wave energy, indicating a synergistic interaction between sea-level rise and waves. Understanding these local factors that increase the susceptibility of islands to coastal erosion is critical to guide adaptation responses for these remote Pacific communities.
+
+SOURCE: Environmental research letters
+PDF URL: None
+CITED BY COUNT: 171
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Shore', 'Reef', 'Atoll', 'Oceanography', 'Coastal erosion', 'Hotspot (geology)', 'Sea level', 'Coral reef', 'Sea level rise', 'Geology', 'Geography', 'Physical geography', 'Climate change', 'Geophysics']

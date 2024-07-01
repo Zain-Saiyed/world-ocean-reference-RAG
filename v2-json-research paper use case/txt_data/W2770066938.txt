@@ -1,0 +1,12 @@
+ID: W2770066938
+TITLE: Islandness within climate change narratives of small island developing states (SIDS)
+AUTHOR: ['Ilan Kelman']
+ABSTRACT:
+Small island developing states (SIDS) are portrayed as icons of climate change impacts, with assumed islandness characteristics being used to emphasize vulnerability.Meanwhile, island resilience expressed as the stability of island 'paradises' is said to be undermined by climate change.Two dominant counternarratives have been emerging.Physical science demonstrates the limited empirical evidence at the moment for SIDS being destroyed due to climate change.Notwithstanding that such empirical evidence could appear in the future, social science counternarratives are challenging notions of SIDS' peoples inevitably fleeing their homes as climate refugees.Instead, SIDS' peoples have strong abilities and desires to make their own mobility decisions, whether due to climate change or other impetuses.Consequently, islandness within SIDS' climate change narratives is not necessarily problematic, but instead can help islanders address climate change and wider challenges.The counternarratives, even if not entirely contradicting the dominant narratives, provide needed nuances, balance, and contextualization to provide a full picture of SIDS, islandness, and climate change.
+
+SOURCE: Island studies journal
+PDF URL: None
+CITED BY COUNT: 66
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Climate change', 'Vulnerability (computing)', 'Small Island Developing States', 'Narrative', 'Psychological resilience', 'Political science', 'Geography', 'Psychology', 'Social psychology', 'Ecology', 'Linguistics', 'Philosophy', 'Computer security', 'Computer science', 'Biology']

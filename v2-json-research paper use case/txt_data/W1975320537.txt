@@ -1,0 +1,12 @@
+ID: W1975320537
+TITLE: Scientific results of the Second Gas Hydrate Drilling Expedition in the Ulleung Basin (UBGH2)
+AUTHOR: ['Byungki Ryu', 'Timothy S. Collett', 'Michael Riedel', 'Gil Young Kim', 'Jong Hwa Chun', 'Jang J. Bahk', 'Joo Yong Lee', 'Ji Hoon Kim', 'Dong‐Geun Yoo']
+ABSTRACT:
+As a part of Korean National Gas Hydrate Program, the Second Ulleung Basin Gas Hydrate Drilling Expedition (UBGH2) was conducted from 9 July to 30 September, 2010 in the Ulleung Basin, East Sea, offshore Korea using the D/V Fugro Synergy. The UBGH2 was performed to understand the distribution of gas hydrates as required for a resource assessment and to find potential candidate sites suitable for a future offshore production test, especially targeting gas hydrate-bearing sand bodies in the basin. The UBGH2 sites were distributed across most of the basin and were selected to target mainly sand-rich turbidite deposits. The 84-day long expedition consisted of two phases. The first phase included logging-while-drilling/measurements-while-drilling (LWD/MWD) operations at 13 sites. During the second phase, sediment cores were collected from 18 holes at 10 of the 13 LWD/MWD sites. Wireline logging (WL) and vertical seismic profile (VSP) data were also acquired after coring operations at two of these 10 sites. In addition, seafloor visual observation, methane sensing, as well as push-coring and sampling using a Remotely Operated Vehicle (ROV) were conducted during both phases of the expedition. Recovered gas hydrates occurred either as pore-filling medium associated with discrete turbidite sand layers, or as fracture-filling veins and nodules in muddy sediments. Gas analyses indicated that the methane within the sampled gas hydrates is primarily of biogenic origin. This paper provides a summary of the operational and scientific results of the UBGH2 expedition as described in 24 papers that make up this special issue of the Journal of Marine and Petroleum Geology.
+
+SOURCE: Marine and petroleum geology
+PDF URL: None
+CITED BY COUNT: 158
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Coring', 'Clathrate hydrate', 'Geology', 'Turbidite', 'Drilling', 'Scientific drilling', 'Submarine pipeline', 'Structural basin', 'Methane', 'Wireline', 'Well logging', 'Sediment', 'Seafloor spreading', 'Oil shale', 'Petroleum engineering', 'Geochemistry', 'Geomorphology', 'Hydrate', 'Oceanography', 'Paleontology', 'Mechanical engineering', 'Chemistry', 'Organic chemistry', 'Engineering', 'Ecology', 'Telecommunications', 'Computer science', 'Wireless', 'Biology']

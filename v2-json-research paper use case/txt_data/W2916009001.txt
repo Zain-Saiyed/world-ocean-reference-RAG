@@ -1,0 +1,12 @@
+ID: W2916009001
+TITLE: Application of Cell-Free Protein Synthesis for Faster Biocatalyst Development
+AUTHOR: ['Jascha Rolf', 'Katrin Rosenthal', 'Stephan Lütz']
+ABSTRACT:
+Cell-free protein synthesis (CFPS) has become an established tool for rapid protein synthesis in order to accelerate the discovery of new enzymes and the development of proteins with improved characteristics. Over the past years, progress in CFPS system preparation has been made towards simplification, and many applications have been developed with regard to tailor-made solutions for specific purposes. In this review, various preparation methods of CFPS systems are compared and the significance of individual supplements is assessed. The recent applications of CFPS are summarized and the potential for biocatalyst development discussed. One of the central features is the high-throughput synthesis of protein variants, which enables sophisticated approaches for rapid prototyping of enzymes. These applications demonstrate the contribution of CFPS to enhance enzyme functionalities and the complementation to in vivo protein synthesis. However, there are different issues to be addressed, such as the low predictability of CFPS performance and transferability to in vivo protein synthesis. Nevertheless, the usage of CFPS for high-throughput enzyme screening has been proven to be an efficient method to discover novel biocatalysts and improved enzyme variants.
+
+SOURCE: Catalysts
+PDF URL: https://www.mdpi.com/2073-4344/9/2/190/pdf?version=1550568236
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Cell-free protein synthesis', 'Computer science', 'Synthetic biology', 'Transferability', 'Biochemical engineering', 'Computational biology', 'Protein biosynthesis', 'Chemistry', 'Engineering', 'Biochemistry', 'Biology', 'Machine learning', 'Logit']

@@ -1,0 +1,12 @@
+ID: W2606543205
+TITLE: Inorganic carbon physiology underpins macroalgal responses to elevated CO2
+AUTHOR: ['Christopher E. Cornwall', 'Andrew T. Revill', 'Jason M. Hall‐Spencer', 'Marco Milazzo', 'John A. Raven', 'Catriona L. Hurd']
+ABSTRACT:
+Abstract Beneficial effects of CO 2 on photosynthetic organisms will be a key driver of ecosystem change under ocean acidification. Predicting the responses of macroalgal species to ocean acidification is complex, but we demonstrate that the response of assemblages to elevated CO 2 are correlated with inorganic carbon physiology. We assessed abundance patterns and a proxy for CO 2 :HCO 3 − use (δ 13 C values) of macroalgae along a gradient of CO 2 at a volcanic seep, and examined how shifts in species abundance at other Mediterranean seeps are related to macroalgal inorganic carbon physiology. Five macroalgal species capable of using both HCO 3 − and CO 2 had greater CO 2 use as concentrations increased. These species (and one unable to use HCO 3 − ) increased in abundance with elevated CO 2 whereas obligate calcifying species, and non-calcareous macroalgae whose CO 2 use did not increase consistently with concentration, declined in abundance. Physiological groupings provide a mechanistic understanding that will aid us in determining which species will benefit from ocean acidification and why.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep46297.pdf
+CITED BY COUNT: 121
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Abundance (ecology)', 'Ecology', 'Total inorganic carbon', 'Ecophysiology', 'Biology', 'Ecosystem', 'Oceanography', 'Photosynthesis', 'Carbon dioxide', 'Botany', 'Climate change', 'Geology']

@@ -1,0 +1,12 @@
+ID: W1515211586
+TITLE: Large-Scale Distant-Water Trawl Fisheries on Seamounts
+AUTHOR: ['Malcolm R. Clark', 'V. I. Vinnichenko', 'J. D. M. Gordon', 'Georgy Z. Beck-Bulat', 'Н.Н. Кухарев', 'Alexander F. Kakora']
+ABSTRACT:
+This chapter contains section titled: Abstract Introduction Data sources Global overview of seamount Fisheries Seamount Fisheries of the Pacific Ocean Atlantic Ocean Indian Ocean Discussion Acknowledgements References
+
+SOURCE: Blackwell Publishing Ltd eBooks
+PDF URL: None
+CITED BY COUNT: 56
+PUBLICATION YEAR: 2008
+TYPE: book-chapter
+CONCEPTS: ['Seamount', 'Fishery', 'Scale (ratio)', 'Oceanography', 'Environmental science', 'Geography', 'Geology', 'Biology', 'Cartography']

@@ -1,0 +1,12 @@
+ID: W2865609376
+TITLE: Review of progress with integrated coastal management in South Africa since the advent of democracy
+AUTHOR: ['Merle Sowman', 'Naudé Malan']
+ABSTRACT:
+AbstractWorldwide, coastal environments are recognised as complex systems of immense biophysical, socioeconomic and cultural value. In South Africa, the promulgation of the Coastal White Paper in 2000, and the Integrated Coastal Management (ICM) Act of 2008, signalled a significant paradigm shift in coastal management and governance. This article reports on progress with ICM in South Africa from 1994 to the present time, and draws on information gathered from a comprehensive review of the published ICM literature, as well as various technical reports, an online survey, and information gleaned from participation in various meetings and workshops. Here, we review the enabling legal and institutional framework for ICM in South Africa, examine the various programmes, plans, strategies and guidelines developed to support implementation of the ICM Act, discuss institutional developments, and reflect on preconditions for effective and sustained ICM implementation. Despite significant progress, key challenges to implementing this progressive ICM agenda include lack of political support, inadequate institutional capacity, lack of human and financial resources, uncertainty regarding ICM functions across different spheres of government, conflicting policy frameworks, lack of clarity regarding the application of ICM provisions on private and communal land, limited civil-society involvement in decision-making, and persistence of state-centric approaches. Issues requiring urgent action are the establishment of a National Coastal Committee with broad representation, revitalisation of public interest in the coast, declaration of coastal public property and coastal access land, improved cooperation across relevant government agencies, allocation of funds for ICM, and greater commitment to a more deliberative and collaborative style of governance.Keywords: coastal governancecoastlinescoastal public propertyestuariesgovernment policy
+
+SOURCE: African journal of marine science
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coastal management', 'Government (linguistics)', 'Political science', 'Corporate governance', 'Civil society', 'Environmental planning', 'Public administration', 'Environmental resource management', 'Politics', 'Geography', 'Business', 'Law', 'Linguistics', 'Philosophy', 'Environmental science', 'Finance']

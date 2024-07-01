@@ -1,0 +1,12 @@
+ID: W1604306464
+TITLE: Drake Passage and Cenozoic climate: An open and shut case?
+AUTHOR: ['Roy Livermore', 'C. D. Hillenbrand', 'Michael P. Meredith', 'Graeme Eagles']
+ABSTRACT:
+Drake Passage opening has often been viewed as a single, discrete event, possibly associated with abrupt changes in global circulation and climate at or near the Eocene‐Oligocene boundary. A new plate tectonic model, based on recent reinterpretations of the opening history of basins in the Scotia Sea, suggests that an effective ocean gateway may have developed even earlier, during the middle Eocene. This is consistent with a growing body of evidence from sediment core proxy data for Eocene changes in Southern Ocean circulation and biological productivity. The period between earliest opening after ∼50 Ma and the latest Eocene was characterized by the evolution of various current pathways across the subsiding continental shelves and intervening deep basins. This shallow opening may have caused important changes in Southern Ocean circulation, contributing to Eocene cooling and the growth of Antarctic ice sheets.
+
+SOURCE: Geochemistry, geophysics, geosystems
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2005GC001224
+CITED BY COUNT: 196
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Geology', 'Cenozoic', 'Paleontology', 'Oceanography', 'Ocean current', 'Oceanic basin', 'Structural basin', 'Paleogene', 'Global cooling', 'Plate tectonics', 'Foraminifera', 'Climate change', 'Tectonics', 'Benthic zone']

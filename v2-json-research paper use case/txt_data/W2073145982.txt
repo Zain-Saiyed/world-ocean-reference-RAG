@@ -1,0 +1,12 @@
+ID: W2073145982
+TITLE: Coastal squeeze and managed realignment in southeast England, does it tell us anything about the future?
+AUTHOR: ['J. Patrick Doody']
+ABSTRACT:
+The term coastal squeeze describes the process where rising sea levels and other factors such as increased storminess push the coastal habitats landward. At the same time in areas where land claim or coastal defence has created a static, artificial margin between land and sea or where the land rises relative to the coastal plain, habitats become squeezed into a narrowing zone. Manifestation of this process is most obvious along the seaward margins of coastal habitats, especially saltmarshes, when erosion takes place. This paper looks at the history behind the recognition of the process of ‘coastal squeeze’. Using examples of policy shifts taken from examples in southeast England to accommodate habitat loss, it discusses trends in coastal defence and nature conservation in the face of rising sea levels. In the light of some of the more dire predictions for sea level rise, it considers the lessons learnt from the continuing monitoring of the developing coastline.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 123
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Habitat', 'Coastal erosion', 'Oceanography', 'Erosion', 'Sea level rise', 'Coastal plain', 'Geography', 'Margin (machine learning)', 'Coastal hazards', 'Geology', 'Physical geography', 'Climate change', 'Ecology', 'Shore', 'Paleontology', 'Machine learning', 'Computer science', 'Biology']

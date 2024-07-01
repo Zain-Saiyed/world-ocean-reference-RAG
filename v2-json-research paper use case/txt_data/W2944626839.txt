@@ -1,0 +1,12 @@
+ID: W2944626839
+TITLE: Impacts of Ocean Warming on Coralline Algal Calcification: Meta-Analysis, Knowledge Gaps, and Key Recommendations for Future Research
+AUTHOR: ['Christopher E. Cornwall', 'Guillermo Díaz-Pulido', 'Steeve Comeau']
+ABSTRACT:
+Coralline algae are foundation species in many ecosystems they inhabit, acting as a settlement substrate, and binding together and even creating reefs in some locations. Ocean acidification is known to be a major threat to coralline algae. However, the effects of ocean warming are less certain. Here we bring multiple lines of evidence together to discuss the potential impacts of ocean warming on these ecologically crucial taxa. We use a meta-analysis on across 40 responses within the 14 different studies available that have assessed the effects of increasing temperature on coralline algal calcification in laboratory experiments. We do find a net negative impact of increasing temperature on coralline algal calcification at 5.2° C above ambient conditions under the singular effects of warming. Conversely, similar effects are seen when temperature drops below 2.0° C from ambient conditions. We propose that some coralline algae will be more capable of both acclimating and locally adapting to increasing ocean temperatures over the coming decades. This is due to the fact that many species possess short generation times, the ability to opportunistically rapidly utilise open space, and relatively high phenotypic plasticity compared to other important benthic species (e.g. corals). However, long-lived species, those with long generation times, or with narrow thermal tolerances could be at particular risk from ocean warming. Additionally, ocean warming will occur simultaneously with ocean acidification, a potentially greater threat to coralline algae, which could also reduce this tolerance to ocean warming in many species. We give key recommendations that will maximise the potential for future research to accurately determine how coralline algae will respond to future ocean warming.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00186/pdf
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coralline algae', 'Ocean acidification', 'Effects of global warming on oceans', 'Global warming', 'Benthic zone', 'Ecology', 'Environmental science', 'Climate change', 'Ecosystem', 'Oceanography', 'Algae', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2783556750
+TITLE: Global patterns in phytoplankton biomass and community size structure in relation to macronutrients in the open ocean
+AUTHOR: ['Erik Askov Mousing', 'Katherine Richardson', 'Marianne Ellegaard']
+ABSTRACT:
+Abstract Owing to the dynamic nature of nutrient‐phytoplankton interactions, ambient macronutrient concentrations reveal little about the impact of nutrient availability on phytoplankton biomass and community composition at any given point in time or space. Here, however, we examine a global dataset ( n = 262) where phytoplankton community structure and biomass are related to ambient concentrations of dissolved inorganic nitrogen (DIN), phosphate (P), and silicate. The macroecological patterns emerging from the analysis suggests plausible causal relationships between nutrient availability and global phytoplankton community responses: When DIN and P are below ca. 5 μ M and 0.5 μ M, respectively, increases in the concentration of either nutrient correlate with increases in both biomass and the contribution of large cells to the total phytoplankton biomass. At higher concentrations, increasing DIN or P concentrations do not correlate with increases in biomass. However, the fraction of large phytoplankton continues to increase with increasing concentrations suggesting DIN and P availability to be important factors in controlling phytoplankton community composition over the entire spectrum of potential macronutrient availability in the open ocean. Ambient silicate concentrations were not strongly associated with phytoplankton community structure or biomass. Nor did the DIN/P ratio correlate with community structure indicating that this ratio is a poor descriptor of phytoplankton limitation at the community scale. No empirical evidence was found for commonly referred threshold values for nutrient limitation (i.e., 2 μ M, 0.2 μ M, and 2 μ M for DIN, P, and silicate, respectively) suggesting that these threshold values may not contain any practical information.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.10772
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Biomass (ecology)', 'Nutrient', 'Community structure', 'Environmental science', 'Silicate', 'Environmental chemistry', 'Ecology', 'Biology', 'Chemistry', 'Organic chemistry']

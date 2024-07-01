@@ -1,0 +1,12 @@
+ID: W2023855836
+TITLE: Occurrence of PPCPs in the marine environment: a review
+AUTHOR: ['Lauren Arpin-Pont', 'María Jesús Martínez Bueno', 'Elena Góméz', 'Hélène Fenet']
+ABSTRACT:
+Little research has been conducted on the occurrence of pharmaceuticals and personal care products (PPCPs) in the marine environment despite being increasingly impacted by these contaminants. This article reviews data on the occurrence of PPCPs in seawater, sediment, and organisms in the marine environment. Data pertaining to 196 pharmaceuticals and 37 personal care products reported from more than 50 marine sites are analyzed while taking sampling strategies and analytical methods into account. Particular attention is focused on the most frequently detected substances at highest concentrations. A snapshot of the most impacted marine sites is provided by comparing the highest concentrations reported for quantified substances. The present review reveals that: (i) PPCPs are widespread in seawater, particularly at sites impacted by anthropogenic activities, and (ii) the most frequently investigated and detected molecules in seawater and sediments are antibiotics, such as erythromycin. Moreover, this review points out other PPCPs of concern, such as ultraviolet filters, and underlines the scarcity of data on those substances despite recent evidence on their occurrence in marine organisms. The exposure of marine organisms in regard to these insufficient data is discussed.
+
+SOURCE: Environmental science and pollution research international
+PDF URL: None
+CITED BY COUNT: 197
+PUBLICATION YEAR: 2014
+TYPE: review
+CONCEPTS: ['Environmental impact of pharmaceuticals and personal care products', 'Seawater', 'Environmental science', 'Environmental chemistry', 'Microplastics', 'Contamination', 'Ecology', 'Biology', 'Environmental engineering', 'Chemistry', 'Sewage treatment']

@@ -1,0 +1,12 @@
+ID: W1525669760
+TITLE: INCREASED ENERGY PROMOTES SIZE-BASED NICHE AVAILABILITY IN MARINE MOLLUSKS
+AUTHOR: ['Craig R. McClain', 'Taylor Cameron Gullett', 'Justine Jackson‐Ricketts', 'Peter J. Unmack']
+ABSTRACT:
+Variation in chemical energy, that is food availability, is posited to cause variation in body size. However, examinations of the relationship are rare and primarily limited to amniotes and zooplankton. Moreover, the relationship between body size and chemical energy may be impacted by phylogenetic history, clade-specific ecology, and heterogeneity of chemical energy in space and time. Considerable work remains to both document patterns in body size over gradients in food availability and understanding the processes potentially generating them. Here, we examine the functional relationship between body size and chemical energy availability over a broad assortment of marine mollusks varying in habitat and mobility. We demonstrate that chemical energy availability is likely driving body size patterns across habitats. We find that lower food availability decreases size-based niche availability by setting hard constraints on maximum size and potentially on minimum size depending on clade-specific ecology. Conversely, higher food availability promotes greater niche availability and potentially promotes evolutionary innovation with regard to size. We posit based on these findings and previous work that increases in chemical energy are important to the diversification of Metazoans through size-mediated niche processes.
+
+SOURCE: Evolution
+PDF URL: https://academic.oup.com/evolut/article-pdf/66/7/2204/49975020/evolut2204.pdf
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Niche', 'Biology', 'Ecology', 'Ecological niche', 'Clade', 'Habitat', 'Allometry', 'Diversification (marketing strategy)', 'Phylogenetic tree', 'Biochemistry', 'Marketing', 'Business', 'Gene']

@@ -1,0 +1,12 @@
+ID: W1979913234
+TITLE: Heritage management plans and integrated coastal management
+AUTHOR: ['Tim Goodhead', 'Zeynep Aygen']
+ABSTRACT:
+This paper examines at the origins of coastal zone management and planning in England and from that, how integrated coastal zone management techniques were developed. The lack of heritage management planning in coastal plans in England is discussed and put into context of ‘integrated heritage zone management’ approaches. Having looked at these two systems, examples of good practice are discussed. The concept of spatial planning is also discussed and the opportunities that this might offer for integrating coastal and heritage planning in the Solent are considered.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Coastal zone', 'Context (archaeology)', 'Environmental resource management', 'Integrated coastal zone management', 'Environmental planning', 'Coastal management', 'Cultural heritage management', 'Marine spatial planning', 'Industrial heritage', 'World heritage', 'Spatial planning', 'Geography', 'Cultural heritage', 'Archaeology', 'Environmental science', 'Ecology', 'Tourism', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2787532384
+TITLE: Increased West Antarctic and unchanged East Antarctic ice discharge over the last 7 years
+AUTHOR: ['Alex Gardner', 'Geir Moholdt', 'T. A. Scambos', 'Mark Fahnstock', 'Stefan Ligtenberg', 'Michiel van den Broeke', 'Johan Nilsson']
+ABSTRACT:
+Abstract. Ice discharge from large ice sheets plays a direct role in determining rates of sea-level rise. We map present-day Antarctic-wide surface velocities using Landsat 7 and 8 imagery spanning 2013–2015 and compare to earlier estimates derived from synthetic aperture radar, revealing heterogeneous changes in ice flow since ∼ 2008. The new mapping provides complete coastal and inland coverage of ice velocity north of 82.4° S with a mean error of &lt; 10 m yr−1, resulting from multiple overlapping image pairs acquired during the daylight period. Using an optimized flux gate, ice discharge from Antarctica is 1929 ± 40 Gigatons per year (Gt yr−1) in 2015, an increase of 36 ± 15 Gt yr−1 from the time of the radar mapping. Flow accelerations across the grounding lines of West Antarctica's Amundsen Sea Embayment, Getz Ice Shelf and Marguerite Bay on the western Antarctic Peninsula, account for 88 % of this increase. In contrast, glaciers draining the East Antarctic Ice Sheet have been remarkably constant over the period of observation. Including modeled rates of snow accumulation and basal melt, the Antarctic ice sheet lost ice at an average rate of 183 ± 94 Gt yr−1 between 2008 and 2015. The modest increase in ice discharge over the past 7 years is contrasted by high rates of ice sheet mass loss and distinct spatial patters of elevation lowering. The West Antarctic Ice Sheet is experiencing high rates of mass loss and displays distinct patterns of elevation lowering that point to a dynamic imbalance. We find modest increase in ice discharge over the past 7 years, which suggests that the recent pattern of mass loss in Antarctica is part of a longer-term phase of enhanced glacier flow initiated in the decades leading up to the first continent-wide radar mapping of ice flow.
+
+SOURCE: The cryosphere
+PDF URL: https://www.the-cryosphere.net/12/521/2018/tc-12-521-2018.pdf
+CITED BY COUNT: 301
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ice stream', 'Ice shelf', 'Geology', 'Antarctic ice sheet', 'Ice sheet', 'Antarctic sea ice', 'Cryosphere', 'Sea ice', 'Glacier', 'Oceanography', 'Snow', 'Arctic ice pack', 'Climatology', 'Geomorphology']

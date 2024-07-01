@@ -1,0 +1,12 @@
+ID: W2154266626
+TITLE: Climate change and marine benthos: a review of existing research and future directions in the North Atlantic
+AUTHOR: ['Silvana N.R. Birchenough', 'Henning Reiss', 'S. Degraer', 'Nova Mieszkowska', 'Ángel Borja', 'Lene Buhl‐Mortensen', 'Ulrike Braeckman', 'Johan Craeymeersch', 'Ilse De Mesel', 'F. Kerckhof', 'Ingrid Kröncke', 'Santiago Parra', 'Marijn Rabaut', 'Alexander Schröder', 'Carl Van Colen', 'Gert Van Hoey', 'Magda Vincx', 'Kai Wätjen']
+ABSTRACT:
+There is growing evidence that climate change could affect marine benthic systems. This review provides information of climate change‐related impacts on the marine benthos in the North Atlantic. We cover a number of related research aspects, mainly in connection to two key issues. First, is the relationship between different physical aspects of climate change and the marine benthos. This section covers: (a) the responses to changes in seawater temperature (biogeographic shifts and phenology); (b) altered Hydrodynamics; (c) ocean acidification (OA); and (d) sea‐level rise‐coastal squeeze. The second major issue addressed is the possible integrated impact of climate change on the benthos. This work is based on relationships between proxies for climate variability, notably the North Atlantic Oscillation (NAO) index, and the long‐term marine benthos. The final section of our review provides a series of conclusions and future directions to support climate change research on marine benthic systems. WIREs Clim Change 2015, 6:203–223. doi: 10.1002/wcc.330 This article is categorized under: Climate, Ecology, and Conservation &gt; Modeling Species and Community Interactions
+
+SOURCE: Wiley interdisciplinary reviews. Climate change
+PDF URL: None
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2015
+TYPE: review
+CONCEPTS: ['Benthos', 'Climate change', 'Benthic zone', 'Oceanography', 'Environmental science', 'Marine protected area', 'Ecology', 'Global change', 'Geography', 'Climatology', 'Habitat', 'Geology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2620825114
+TITLE: Manifestation, Drivers, and Emergence of Open Ocean Deoxygenation
+AUTHOR: ['Lisa A. Levin']
+ABSTRACT:
+Oxygen loss in the ocean, termed deoxygenation, is a major consequence of climate change and is exacerbated by other aspects of global change. An average global loss of 2% or more has been recorded in the open ocean over the past 50–100 years, but with greater oxygen declines in intermediate waters (100–600 m) of the North Pacific, the East Pacific, tropical waters, and the Southern Ocean. Although ocean warming contributions to oxygen declines through a reduction in oxygen solubility and stratification effects on ventilation are reasonably well understood, it has been a major challenge to identify drivers and modifying factors that explain different regional patterns, especially in the tropical oceans. Changes in respiration, circulation (including upwelling), nutrient inputs, and possibly methane release contribute to oxygen loss, often indirectly through stimulation of biological production and biological consumption. Microbes mediate many feedbacks in oxygen minimum zones that can either exacerbate or ameliorate deoxygenation via interacting nitrogen, sulfur, and carbon cycles. The paleo-record reflects drivers of and feedbacks to deoxygenation that have played out through the Phanerozoic on centennial, millennial, and hundred-million-year timescales. Natural oxygen variability has made it difficult to detect the emergence of a climate-forced signal of oxygen loss, but new modeling efforts now project emergence to occur in many areas in 15–25 years. Continued global deoxygenation is projected for the next 100 or more years under most emissions scenarios, but with regional heterogeneity. Notably, even small changes in oxygenation can have significant biological effects. New efforts to systematically observe oxygen changes throughout the open ocean are needed to help address gaps in understanding of ocean deoxygenation patterns and drivers.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 180
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Deoxygenation', 'Environmental science', 'Upwelling', 'Climate change', 'Global warming', 'Hypoxia (environmental)', 'Oxygen minimum zone', 'Oxygen', 'Oceanography', 'Ecology', 'Biology', 'Geology', 'Chemistry', 'Biochemistry', 'Organic chemistry', 'Catalysis']

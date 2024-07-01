@@ -1,0 +1,12 @@
+ID: W2020847254
+TITLE: Seasonal distribution of pharmaceuticals in marine water and sediment from a mediterranean coastal lagoon (SE Spain)
+AUTHOR: ['R. Moreno-González', 'Sara Rodríguez‐Mozaz', 'Meritxell Gros', '\u202aDamià Barceló', 'Victor León']
+ABSTRACT:
+The seasonal variations in the occurrence and distribution of pharmaceuticals were evaluated in seawater and sediment of Mar Menor lagoon from spring 2010 to winter 2011. A total of 20 pharmaceuticals in seawater and 14 in sediments were found at concentrations from low ng L−1 up to 168 ng L−1 (azithromycin) in seawater and from low ng g−1 up to 50.3 ng g−1 (xylazine) in sediments. Azithromycin, xylazine and metoprolol were the most ubiquitous compounds in seawater since they were found in all seawater samples collected. Seven compounds were quantified in both matrices: clarithromycin, erythromycin, hydrochlorothiazide, irbesartan, losartan, salicylic acid and valsartan. Seasonal distribution profiles revealed different sources of pollutants associated to both, El Albujón watercourse (which receives the input of a WWTP) and other non-controlled discharges, into the lagoon. In summer the highest concentrations in seawater for most of the pharmaceuticals were detected close to main touristic nuclei, probably as consequence of sources such as the excretion from bathers and/or other non-controlled discharges, these being significantly higher than in autumn and winter for antibiotics. On the contrary, the mean concentration of lorazepam was significantly higher in colder seasons than in warmer ones. Sulfamethoxazole, erythromycin and especially clarithromycin showed hazard quotients higher than 1 in seawater at some areas of this lagoon indicating a potential risk to aquatic organisms in such specific areas.
+
+SOURCE: Environmental research
+PDF URL: None
+CITED BY COUNT: 187
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Seawater', 'Environmental chemistry', 'Environmental science', 'Sediment', 'Mediterranean sea', 'Chemistry', 'Mediterranean climate', 'Oceanography', 'Biology', 'Ecology', 'Geology', 'Paleontology']

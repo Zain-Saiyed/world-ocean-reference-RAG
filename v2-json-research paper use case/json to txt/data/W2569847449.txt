@@ -1,0 +1,12 @@
+ID: W2569847449
+TITLE: Exceptionally high abundances of microplastics in the oligotrophic Israeli Mediterranean coastal waters
+AUTHOR: ['Noam van der Hal', 'Asaf Ariel', 'Dror L. Angel']
+ABSTRACT:
+Seasonal sea surface microplastic distribution was recorded at 17 sites along the Israeli Mediterranean coast. Microplastics (0.3–5 mm) were found in all samples, with a mean abundance of 7.68 ± 2.38 particles/m3 or 1,518,340 particles/km2. Some areas had higher abundances of microplastics than others, although differences were neither consistent nor statistically significant. In some cases microplastic particles were found floating in large patches. One of these patches contained an extraordinary number of plastic particles; 324 particles/m3 or 64,812,600 particles/km2. Microplastic abundances in Israeli coastal waters are disturbingly high; mean values were 1–2 orders of magnitude higher than abundances reported in other parts of the world. Light-colored (white or transparent) fragments were by far more abundant than all other microplastic colors and types. The results of this study underline the need for action to reduce the flux of plastics to the marine environment.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 172
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Mediterranean sea', 'Abundance (ecology)', 'Oceanography', 'Environmental science', 'Mediterranean climate', 'Marine debris', 'Flux (metallurgy)', 'Environmental chemistry', 'Ecology', 'Chemistry', 'Biology', 'Geology', 'Debris', 'Organic chemistry']

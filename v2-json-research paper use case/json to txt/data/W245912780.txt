@@ -1,0 +1,12 @@
+ID: W245912780
+TITLE: Shallow methylmercury production in the marginal sea ice zone of the central Arctic Ocean
+AUTHOR: ['Lars-Éric Heimbürger', 'Jeroen E. Sonke', 'Daniel Cossa', 'David Point', 'Christelle Lagane', 'Laure Laffont', 'Benjamin T Galfond', 'Marcel Nicolaus', 'Benjamin Rabe', 'Michiel Rutgers van der Loeff']
+ABSTRACT:
+Methylmercury (MeHg) is a neurotoxic compound that threatens wildlife and human health across the Arctic region. Though much is known about the source and dynamics of its inorganic mercury (Hg) precursor, the exact origin of the high MeHg concentrations in Arctic biota remains uncertain. Arctic coastal sediments, coastal marine waters and surface snow are known sites for MeHg production. Observations on marine Hg dynamics, however, have been restricted to the Canadian Archipelago and the Beaufort Sea (<79 °N). Here we present the first central Arctic Ocean (79-90 °N) profiles for total mercury (tHg) and MeHg. We find elevated tHg and MeHg concentrations in the marginal sea ice zone (81-85 °N). Similar to other open ocean basins, Arctic MeHg concentration maxima also occur in the pycnocline waters, but at much shallower depths (150-200 m). The shallow MeHg maxima just below the productive surface layer possibly result in enhanced biological uptake at the base of the Arctic marine food web and may explain the elevated MeHg concentrations in Arctic biota. We suggest that Arctic warming, through thinning sea ice, extension of the seasonal sea ice zone, intensified surface ocean stratification and shifts in plankton ecodynamics, will likely lead to higher marine MeHg production.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep10318.pdf
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Arctic', 'Sea ice', 'Oceanography', 'Methylmercury', 'Biota', 'Arctic geoengineering', 'Environmental science', 'Arctic ice pack', 'Mercury (programming language)', 'Arctic sea ice decline', 'Food web', 'Plankton', 'Geology', 'Ecology', 'Environmental chemistry', 'Ecosystem', 'Bioaccumulation', 'Antarctic sea ice', 'Chemistry', 'Biology', 'Computer science', 'Programming language']

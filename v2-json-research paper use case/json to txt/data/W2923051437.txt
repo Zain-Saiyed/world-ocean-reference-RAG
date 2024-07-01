@@ -1,0 +1,12 @@
+ID: W2923051437
+TITLE: A review of marine renewable energy storage
+AUTHOR: ['Zhiwen Wang', 'Rupp Carriveau', 'David S.‐K. Ting', 'Wei Xiong', 'Zuwen Wang']
+ABSTRACT:
+Marine renewable energies are promising enablers of a cleaner energy future. Some technologies, like wind, are maturing and have already achieved commercial success. Similar to their terrestrial counterparts, marine renewable energy systems require energy storage capabilities to achieve the flexibility of the 21st century grid demand. The unique difficulties imposed by a harsh marine environment challenge the unencumbered rise of marine renewable energy generation and storage systems. In this study, the fundamentals of marine renewable energy generation technologies are briefed. A comprehensive review and comparison of state-of-the-art novel marine renewable energy storage technologies, including pumped hydro storage (PHS), compressed air energy storage (CAES), battery energy storage (BES), hydrogen energy storage (HES), gravity energy storage (GES), and buoyancy energy storage (ByES), are conducted. The pros and cons, and potential applications, of various marine renewable energy storage technologies are also compiled. Finally, several future trends of marine renewable energy storage technologies are connoted.
+
+SOURCE: International journal of energy research
+PDF URL: None
+CITED BY COUNT: 108
+PUBLICATION YEAR: 2019
+TYPE: review
+CONCEPTS: ['Renewable energy', 'Energy storage', 'Pumped-storage hydroelectricity', 'Compressed air energy storage', 'Intermittent energy source', 'Marine energy', 'Environmental science', 'Energy development', 'Engineering', 'Wind power', 'Process engineering', 'Waste management', 'Distributed generation', 'Electrical engineering', 'Power (physics)', 'Physics', 'Quantum mechanics']

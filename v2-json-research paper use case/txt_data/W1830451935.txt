@@ -1,0 +1,12 @@
+ID: W1830451935
+TITLE: The effect of coastal defense structures (mounds) on southeast coast of Buenos Aires province, Argentine
+AUTHOR: ['María Paula Bunicontro', 'Silvia Cristina Marcomini', 'Rubén Álvaro López']
+ABSTRACT:
+The rapid increase of tourism and urbanization in the coastline of Buenos Aires province resulted in the need of infrastructure and services development along the entire coast. However, the lack of environmental criteria of human activities altered the aero and hydrodynamic conditions and is causing important cliffs regression and beach erosion. In this scenario and to minimize such problems, since 1980's, installing coastal defense structures became a very used method. The main types used in the study area are mounds built with blocks of quartzite and set up as longitudinal defenses on the cliff base. It was seen that these structures reduced coastline retreat but caused several environmental alterations changing natural dynamic conditions. These alterations caused serious consequences in coastal configuration, local and regional hydrodynamic, morphometry of beaches, environment and ecology of the coast and obviously, in the human activities and recreation areas. This paper analyses the coastal system evolution after mounds settlement, their functions and consequences to nature (comparing altered environments with those which still preserves natural conditions) and discuses its advantages and disadvantages with the objective of establish precedent for future integrated and conscious coastal management projects.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Recreation', 'Natural (archaeology)', 'Urbanization', 'Geography', 'Tourism', 'Coastal erosion', 'Coastal management', 'Human settlement', 'Bay', 'Cliff', 'Environmental protection', 'Environmental resource management', 'Ecology', 'Oceanography', 'Environmental planning', 'Environmental science', 'Geology', 'Archaeology', 'Shore', 'Biology']

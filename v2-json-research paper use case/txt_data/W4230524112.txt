@@ -1,0 +1,12 @@
+ID: W4230524112
+TITLE: Beneath the surface: community assembly and functions of the coral skeleton microbiome
+AUTHOR: ['Francesco Ricci', 'Vanessa Marcelino', 'Linda L. Blackall', 'Michael Kühl', 'Mónica Medina', 'Heroen Verbruggen']
+ABSTRACT:
+Coral microbial ecology is a burgeoning field, driven by the urgency of understanding coral health and slowing reef loss due to climate change. Coral resilience depends on its microbiota, and both the tissue and the underlying skeleton are home to a rich biodiversity of eukaryotic, bacterial and archaeal species that form an integral part of the coral holobiont. New techniques now enable detailed studies of the endolithic habitat, and our knowledge of the skeletal microbial community and its eco-physiology is increasing rapidly, with multiple lines of evidence for the importance of the skeletal microbiota in coral health and functioning. Here, we review the roles these organisms play in the holobiont, including nutritional exchanges with the coral host and decalcification of the host skeleton. Microbial metabolism causes steep physico-chemical gradients in the skeleton, creating micro-niches that, along with dispersal limitation and priority affects, define the fine-scale microbial community assembly. Coral bleaching causes drastic changes in the skeletal microbiome, which can mitigate bleaching effects and promote coral survival during stress periods, but may also have detrimental effects. Finally, we discuss the idea that the skeleton may function as a microbial reservoir that can promote recolonization of the tissue microbiome following dysbiosis and help the coral holobiont return to homeostasis.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2019
+TYPE: preprint
+CONCEPTS: ['Holobiont', 'Coral', 'Microbiome', 'Biology', 'Ecology', 'Coral reef', 'Symbiosis', 'Bioinformatics', 'Bacteria', 'Genetics']

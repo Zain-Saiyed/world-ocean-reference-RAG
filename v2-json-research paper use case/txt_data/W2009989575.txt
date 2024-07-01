@@ -1,0 +1,12 @@
+ID: W2009989575
+TITLE: Pharmaceuticals as emerging contaminants and their removal from water. A review
+AUTHOR: ['J. Rivera‐Utrilla', 'M. Sánchez‐Polo', 'M.A. Ferro-Garcı́a', 'G. Prados-Joya', 'Raúl Ocampo‐Pérez']
+ABSTRACT:
+The main objective of this study was to conduct an exhaustive review of the literature on the presence of pharmaceutical-derived compounds in water and on their removal. The most representative pharmaceutical families found in water were described and related water pollution issues were analyzed. The performances of different water treatment systems in the removal of pharmaceuticals were also summarized. The water treatment technologies were those based on conventional systems (chlorine, chlorine dioxide, wastewater treatment plants), adsorption/bioadsorption on activated carbon (from lotus stalks, olive-waste cake, coal, wood, plastic waste, cork powder waste, peach stones, coconut shell, rice husk), and advanced oxidation processes by means of ozonation (O₃, O₃/H₂O₂, O₃/activated carbon, O₃/biological treatment), photooxidation (UV, UV/H₂O₂, UV/K₂S₂O₈, UV/TiO₂, UV/H₂O₂/TiO₂, UV/TiO₂/activated carbon, photo-Fenton), radiolysis (e-Beam, ⁶⁰Co, ¹³⁷Cs. Additives used: H₂O₂, SO₃²⁻, HCO₃⁻, CH₃₋OH, CO₃²⁻, or NO₃⁻), and electrochemical processes (Electrooxidation without and with active chlorine generation). The effect of these treatments on pharmaceutical compounds and the advantages and disadvantages of different methodologies used were described. The most important parameters of the above water treatment systems (experimental conditions, removal yield, pharmaceutical compound mineralization, TOC removal, toxicity evolution) were indicated. The key publications on pharmaceutical removal from water were summarized.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 1180
+PUBLICATION YEAR: 2013
+TYPE: review
+CONCEPTS: ['Activated carbon', 'Chemistry', 'Wastewater', 'Water treatment', 'Chlorine', 'Adsorption', 'Environmental chemistry', 'Husk', 'Sewage treatment', 'Portable water purification', 'Chlorine dioxide', 'Mineralization (soil science)', 'Pulp and paper industry', 'Waste management', 'Environmental science', 'Environmental engineering', 'Organic chemistry', 'Nitrogen', 'Biology', 'Botany', 'Engineering']

@@ -1,0 +1,12 @@
+ID: W2028148367
+TITLE: &lt;p&gt;&lt;strong&gt;Sea snakes in Australian waters (Serpentes: subfamilies Hydrophiinae and Laticaudinae)—a review with an updated identification key&lt;/strong&gt;&lt;/p&gt;
+AUTHOR: ['Arne Redsted Rasmussen', 'Kate L. Sanders', 'Michael L. Guinea', 'Andrew P. Amey']
+ABSTRACT:
+Sea snakes (Elapidae, subfamilies Hydrophiinae and Laticaudinae) reach high species richness in the South China Sea and in the Australian region; however, most countries in the two regions still lack up-to-date checklists and identification tools for these snakes. We present an updated reviewed checklist and a new complete identification key to sea snakes in Australian waters. The identification key includes 29 species documented and 4 possibly occurring taxa and is based mostly on easy-to-use external characters. We find no evidence for breeding populations of Laticauda in Australian waters, but include the genus on the list of possibly occurring taxa.
+
+SOURCE: Zootaxa
+PDF URL: https://www.biotaxa.org/Zootaxa/article/download/zootaxa.3869.4.1/54810
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2014
+TYPE: review
+CONCEPTS: ['Elapidae', 'Biology', 'Identification key', 'Key (lock)', 'Taxon', 'Checklist', 'Identification (biology)', 'Ecology', 'Zoology', 'Species richness', 'Genus', 'Paleontology', 'Venom']

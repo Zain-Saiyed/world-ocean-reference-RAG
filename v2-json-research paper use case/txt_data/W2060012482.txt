@@ -1,0 +1,12 @@
+ID: W2060012482
+TITLE: Anthropogenic carbon and ocean pH
+AUTHOR: ['K. Caldeira', 'M. Wickett']
+ABSTRACT:
+The coming centuries may see more ocean acidification than the past 300 million years. Most carbon dioxide released into the atmosphere as a result of the burning of fossil fuels will eventually be absorbed by the ocean1, with potentially adverse consequences for marine biota2,3,4. Here we quantify the changes in ocean pH that may result from this continued release of CO2 and compare these with pH changes estimated from geological and historical records. We find that oceanic absorption of CO2 from fossil fuels may result in larger pH changes over the next several centuries than any inferred from the geological record of the past 300 million years, with the possible exception of those resulting from rare, extreme events such as bolide impacts or catastrophic methane hydrate degassing.
+
+SOURCE: Nature
+PDF URL: https://www.nature.com/articles/425365a.pdf
+CITED BY COUNT: 3142
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Environmental science', 'Ocean acidification', 'Fossil fuel', 'Atmosphere (unit)', 'Carbon dioxide', 'Methane', 'Fossil Record', 'Oceanography', 'Carbon fibers', "Carbon dioxide in Earth's atmosphere", 'Earth science', 'Climate change', 'Geology', 'Chemistry', 'Meteorology', 'Paleontology', 'Geography', 'Materials science', 'Organic chemistry', 'Composite number', 'Composite material']

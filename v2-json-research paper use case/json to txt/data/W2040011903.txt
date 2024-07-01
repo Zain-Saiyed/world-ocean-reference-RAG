@@ -1,0 +1,12 @@
+ID: W2040011903
+TITLE: Linking land- and sea-based activities to risk in coastal ecosystems
+AUTHOR: ['Jameal F. Samhouri', 'Phillip S. Levin']
+ABSTRACT:
+The emerging science and policy arena of marine ecosystem-based management is beset with the challenging question of how to assess the urgency of problems influencing different ecosystem components. In this paper, we introduce a synthetic and efficient framework to identify land- or sea-based activities that pose the greatest risk to valued members of marine ecosystems, including mammals, fishes, and invertebrates. Ecosystem-based risk is scored along two axes of information: the exposure of a population to an activity, and the sensitivity of the population to that activity, given a particular level of exposure. Risk is illustrated in a variety of ways, including two-dimensional contour plots and maps showing regional variation in risk. We apply this risk assessment framework to regional populations of indicator species in Puget Sound, WA, USA. This case study provides insight into how risk varies for particular activity–species combinations, and, because it is applied to indicator species, it also provides an estimate of how different activities influence risk to overall ecosystem structure and function. More generally, the risk assessment approach highlights the linkages between land-based activities and risk to marine species and can be used to evaluate the potential impacts of a diversity of human activities on coastal oceans. The framework is scalable, transparent, and repeatable and can be used now to facilitate the implementation of ecosystem-based management, including integrated ecosystem assessments and coastal and marine spatial planning.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 92
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Environmental resource management', 'Marine ecosystem', 'Ecosystem health', 'Ecosystem services', 'Population', 'Risk assessment', 'Marine spatial planning', 'Geography', 'Land use', 'Ecology', 'Environmental science', 'Computer science', 'Biology', 'Demography', 'Computer security', 'Sociology']

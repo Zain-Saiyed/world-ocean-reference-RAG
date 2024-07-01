@@ -1,0 +1,12 @@
+ID: W2277215776
+TITLE: Eutrophication-Driven Hypoxia in the East China Sea off the Changjiang Estuary
+AUTHOR: ['Hongjie Wang', 'Minhan Dai', 'Jinwen Liu', 'Shuh‐Ji Kao', 'Chao Zhang', 'Wei‐Jun Cai', 'Guizhi Wang', 'Wei Qian', 'Meixun Zhao', 'Zhenyu Sun']
+ABSTRACT:
+Coastal hypoxia is an increasingly recognized environmental issue of global concern to both the scientific community and the general public. We assessed the relative contributions from marine and terrestrially sourced organic matter that were responsible for oxygen consumption in a well-studied seasonal coastal hypoxic zone, the East China Sea off the Changjiang Estuary. Our fieldwork was conducted in August 2011 during reinstatement of a subsurface hypoxia, when we observed a continuous decline of dissolved oxygen along with production of dissolved inorganic carbon resulting from organic carbon remineralization. On the basis of a three end-member mixing model and determinations of the stable isotopic compositions of dissolved inorganic carbon (δ(13)CDIC), the end product of particulate organic carbon (POC) degradation, we quantified the δ(13)C value of the remineralized organic carbon (δ(13)COCx), which was -18.5 ± 1.0‰. This isotopic composition was very similar to the δ(13)C of marine sourced POC produced in situ (-18.5 ± 0.3‰) rather than that of the terrestrially sourced POC (-24.4 ± 0.2‰). We concluded that marine-sourced organic matter, formed by eutrophication-induced marine primary production, was the dominant oxygen consumer in the subsurface hypoxic zone in the East China Sea off the Changjiang Estuary.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 182
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Estuary', 'Hypoxia (environmental)', 'Eutrophication', 'Oceanography', 'Environmental science', 'Dissolved organic carbon', 'Organic matter', 'Total organic carbon', 'Environmental chemistry', 'Remineralisation', 'Oxygen', 'Nutrient', 'Geology', 'Ecology', 'Chemistry', 'Biology', 'Inorganic chemistry', 'Fluoride', 'Organic chemistry']

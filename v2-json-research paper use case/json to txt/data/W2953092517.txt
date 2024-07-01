@@ -1,0 +1,12 @@
+ID: W2953092517
+TITLE: In situ Autonomous Acquisition and Preservation of Marine Environmental DNA Using an Autonomous Underwater Vehicle
+AUTHOR: ['Kevan M. Yamahara', 'Christina M. Preston', 'James M. Birch', 'Kristine Walz', 'Roman Marin', 'Scott Jensen', 'Douglas Pargett', 'Brent Roman', 'William Ussler', 'Yanwu Zhang', 'John P. Ryan', 'Brett Hobson', 'Brian Kieft', 'Ben Yair Raanan', 'Kelly D. Goodwin', 'Francisco P. Chávez', 'Christopher A. Scholin']
+ABSTRACT:
+Environmental DNA (eDNA) can be used to identify macroorganisms and describe biodiversity, and thus has promise to supplement biological monitoring in marine ecosystems. Despite this promise, scaling sample acquisition to the size and temporal scales needed for effective monitoring would require prohibitively large investments in time and human resources. To improve upon these problems, here we test the efficacy of an autonomous eDNA sampling system and compare results obtained to traditional eDNA sampling methods. The autonomous sampling instrument consisted of the Environmental Sample Processor, (ESP) coupled to an autonomous underwater vehicle (AUV). We tested equivalency between the ESP and traditional eDNA sampling methods by comparing the quantification of eDNA across a broad range of taxa, from microbes (SAR11), phytoplankton (Pseudo-nitzschia spp.), invertebrates (krill: Euphausia pacifica) to vertebrates (anchovy: Engraulis mordax). No significant differences in eDNA densities were observed between the sample collection and filtration methods. eDNA filters collected by the ESP were preserved and stable for 21 days, the typical deployment length of the instrumentation. Finally, we demonstrated the unique capabilities of an autonomous, mobile ESP during a deployment near Monterey Bay, CA, by remotely and repeatedly sampling a water mass over 12 hours. The development of a mobile ESP reveals the promise of utilizing eDNA measurements to observe complex biological processes.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00373/pdf
+CITED BY COUNT: 94
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental DNA', 'Sampling (signal processing)', 'Environmental science', 'Sample (material)', 'Underwater', 'Ecology', 'Oceanography', 'Biology', 'Fishery', 'Biodiversity', 'Computer science', 'Geology', 'Chemistry', 'Filter (signal processing)', 'Chromatography', 'Computer vision']

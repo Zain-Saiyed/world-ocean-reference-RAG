@@ -1,0 +1,12 @@
+ID: W2083431955
+TITLE: Exploring the relationships between urbanization trends and climate change vulnerability
+AUTHOR: ['Matthias Garschagen', 'Patricia Romero‐Lankao']
+ABSTRACT:
+There is increasing scientific and political interest in the links between urbanization and human vulnerability to climate change. However, our literature review shows that the existing scholarship has largely focused on exposure resulting from urbanization, while other dimensions of urban vulnerability such as sensitivity or capacity to cope and adapt have been insufficiently represented or understood. Furthermore, most attention has been given to the negative effects of urbanization, while opportunities for vulnerability reduction have been underemphasized. Therefore, this paper takes a broader perspective to explore key relationships between urbanization, economic development and socio-economic vulnerability on a global scale. Using data with national resolution, we applied a clustering approach to identify ten country groups sharing similar patterns of urbanization and national income. We then explored associations between these country groups and selected indicators of exposure, sensitivity, coping capacity, and adaptive capacity drawing upon data from the World Risk Index. Our findings suggest that countries with rapid urbanization and economic transformation face significant challenges with respect to sensitivity and the lack of capacities. Additionally, these challenges tend to be greater the lower the income of the respective country. Yet, at the same time, urbanization can be a main driver for enhancing response capacity. The analysis suggests that urbanization can, hence, have nuanced effects on overall vulnerability. We argue that climate change science needs to be more balanced in terms of acknowledging and examining the different possible pathways of vulnerability effects related to urbanization. The country group analysis can provide a first entry point.
+
+SOURCE: Climatic change
+PDF URL: None
+CITED BY COUNT: 205
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Urbanization', 'Vulnerability (computing)', 'Climate change', 'Adaptive capacity', 'Geography', 'Vulnerability assessment', 'Development economics', 'Vulnerability index', 'Economic geography', 'Economic growth', 'Political science', 'Psychological resilience', 'Economics', 'Ecology', 'Psychology', 'Computer security', 'Computer science', 'Psychotherapist', 'Biology']

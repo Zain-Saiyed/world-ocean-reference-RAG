@@ -1,0 +1,12 @@
+ID: W2430172550
+TITLE: Addressing surprise and uncertain futures in marine science, marine governance, and society
+AUTHOR: ['Simon F. Thrush', 'Nick Lewis', 'Richard Le Heron', 'Karen Fisher', 'Carolyn J. Lundquist', 'Judi E. Hewitt']
+ABSTRACT:
+On an increasingly populated planet, with decreasing biodiversity and limited new opportunities to tap unexploited natural resources, there is a clear need to adjust aspects of marine management and governance.Although sectarian management has succeeded in addressing and managing some important threats to marine ecosystems, unintended consequences are often associated with overlooking nonlinear interactions and cumulative impacts that increase the risk of surprises in social-ecological systems.In this paper, we begin to untangle science-governance-society (SGS) interdependencies in marine systems by considering how to recognize the risk of surprise in social and ecological dynamics.Equally important is drawing attention to our state of preparedness, adaptation, and timeliness of response in ecosystem governance and society, which involve fostering transformations away from rigid and nonintegrated structures of governance.More inclusive decision-making processes, deeper understanding of complexity, and colearning across SGS can help to build constructive solutions that are likely to benefit multiple stakeholders and build capacity to understand and respond to change.
+
+SOURCE: Ecology and society
+PDF URL: https://www.ecologyandsociety.org/vol21/iss2/art44/ES-2016-8574.pdf
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Surprise', 'Futures contract', 'Corporate governance', 'Political science', 'Ecology', 'Geography', 'Sociology', 'Economics', 'Biology', 'Management', 'Communication', 'Financial economics']

@@ -1,0 +1,12 @@
+ID: W2061684694
+TITLE: Analysis of Endocrine Disruptors, Pharmaceuticals, and Personal Care Products in Water Using Liquid Chromatography/Tandem Mass Spectrometry
+AUTHOR: ['Brett J. Vanderford', 'R. Pearson', 'David J. Rexing', 'Shane A. Snyder']
+ABSTRACT:
+A method has been developed for the trace analysis of 27 compounds from a diverse group of pharmaceuticals, steroids, pesticides, and personal care products. The method employs solid-phase extraction (SPE) and liquid chromatography/tandem mass spectrometry (LC/MS/MS), using electrospray ionization (ESI) in both positive and negative modes and atmospheric pressure chemical ionization in positive mode. Unlike many previous methods, a single SPE procedure using 1 L of water coupled to a simple LC method is used for all ionization modes. Instrument detection limits for most compounds were below 1.0 pg on column with reporting limits of 1.0 ng/L in water. Recoveries for most compounds in deionized water were greater than 80%. Sulfuric acid was found to be the preferred sample preservative, and structures of all MS/MS product ions are proposed. Matrix effects from waters with a high content of treated municipal effluent were observed in both ESI modes and are discussed in the paper.
+
+SOURCE: Analytical chemistry
+PDF URL: None
+CITED BY COUNT: 438
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Chemistry', 'Chromatography', 'Environmental impact of pharmaceuticals and personal care products', 'Solid phase extraction', 'Mass spectrometry', 'Liquid chromatography–mass spectrometry', 'Electrospray ionization', 'Chemical ionization', 'Tandem mass spectrometry', 'Electrospray', 'Extraction (chemistry)', 'Effluent', 'Sample preparation', 'Atmospheric-pressure chemical ionization', 'Detection limit', 'Ionization', 'Ion', 'Organic chemistry', 'Environmental engineering', 'Engineering']

@@ -1,0 +1,12 @@
+ID: W2883893455
+TITLE: Marginal coral reefs show high susceptibility to phase shift
+AUTHOR: ['Igor Cruz', 'Linda G. Waters', 'Ruy Kenji Papa de Kikuchi', 'Zelinda M.A.N. Leão', 'Alexander Turra']
+ABSTRACT:
+Phase shift, resulting from coral reef degradation, has been frequently recorded on reefs in optimal conditions, while marginal reefs were considered more resistant due to few records. Noting the lack of marginal reef phase shift studies, we quantitatively assessed their geographic extent in the Southwest Atlantic. Using metadata and a calculated phase shift index, we identified phase shifts from corals to both zoanthid and macroalgal dominance. Positive correlations existed between phase shift and local human impacts for zoanthids: proximity to human populations >100,000 inhabitants, urbanized surfaces and dredged ports and a negative relationship to the endurance of SST >1 °C above normal. Macroalgal shifts positively correlated to ports and urbanized surfaces, higher latitudes and shore proximity, indicating a possible link to nutrient runoff. The high frequency of these phase shifts suggests greater degradation than reported for Caribbean reefs, suggesting that marginal reefs do not have higher natural resistance to human impacts.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Coral', 'Dominance (genetics)', 'Ecology', 'Environmental science', 'Oceanography', 'Biology', 'Geology', 'Biochemistry', 'Gene']

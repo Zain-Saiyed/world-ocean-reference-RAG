@@ -1,0 +1,12 @@
+ID: W2915789106
+TITLE: Benefits of the Paris Agreement to ocean life, economies, and people
+AUTHOR: ['U. Rashid Sumaila', 'Travis C. Tai', 'Vicky W. Y. Lam', 'William W. L. Cheung', 'Megan Bailey', 'Andrés M. Cisneros‐Montemayor', 'Oai Li Chen', 'Sumeet Gulati']
+ABSTRACT:
+The Paris Agreement aims to mitigate the potential impacts of climate change on ecological and social systems. Using an ensemble of climate-marine ecosystem and economic models, we explore the effects of implementing the Agreement on fish, fishers, and seafood consumers worldwide. We find that implementing the Agreement could protect millions of metric tons in annual worldwide catch of top revenue-generating fish species, as well as billions of dollars annually of fishers' revenues, seafood workers' income, and household seafood expenditure. Further, our analysis predicts that 75% of maritime countries would benefit from this protection, and that ~90% of this protected catch would occur within the territorial waters of developing countries. Thus, implementing the Paris Agreement could prove to be crucial for the future of the world's ocean ecosystems and economies.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/5/2/eaau3855.full.pdf
+CITED BY COUNT: 84
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Revenue', 'Ecosystem', 'Business', 'Fishery', 'Climate change', 'Marine ecosystem', 'Fish <Actinopterygii>', 'Natural resource economics', 'Geography', 'Environmental resource management', 'Environmental science', 'Economics', 'Ecology', 'Finance', 'Biology']

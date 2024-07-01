@@ -1,0 +1,12 @@
+ID: W2995591994
+TITLE: Integrative species delimitation of desmosomatid and nannoniscid isopods from the Kuril-Kamchatka trench, with description of a hadal species
+AUTHOR: ['Robert M. Jennings', 'Olga A. Golovan', 'Saskia Brix']
+ABSTRACT:
+Although crustal trenches of the hadal zone, a global feature of the deep ocean floor, have been known geologically for decades, the biological connections between hadal trenches and neighboring abyssal regions are only beginning to be understood. Within the hadal community, both endemism and species diversity of invertebrate taxa appear to be high; however, the presence of cryptic species implies that the true diversity may be much greater. Desmosomatids and nannoniscids (Isopoda: Asellota) are common components of deep-sea communities and apparently underwent an ancient and rapid radiation into the deep sea, creating high diversity, often with little associated morphological difference. We used an integrated morphological and molecular approach to investigate the species diversity of hadal isopods in the Kuril-Kamchatka Trench and compare morphological and genetic relationships. Our analyses delineated at most 38 species from the deep KKT trench. Thirty-four of these species are new to science, and seven are likely cryptic species, revealed only by genetic species delimitation. The combined morphological-molecular approach proved especially powerful in cases where sexual dimorphism has made species diagnosis problematic, such as the genus Mirabilicoxa Hessler, 1970. Across the study region, diversity declined sharply with increasing depth in the trench, and most species’ depth ranges were narrow, on the order of hundreds of meters, implicating a strong vertical gradient in promoting divergence. Eugerdella hadalis Golovan & Brix sp. nov., the only true hadal species from the dataset, is described.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S0079661119304161
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Isopoda', 'Abyssal zone', 'Biology', 'Species complex', 'Biodiversity', 'Ecology', 'Species diversity', 'Species richness', 'Endemism', 'Genetic divergence', 'Paleontology', 'Genetic diversity', 'Fishery', 'Crustacean', 'Phylogenetic tree', 'Population', 'Biochemistry', 'Demography', 'Sociology', 'Gene']

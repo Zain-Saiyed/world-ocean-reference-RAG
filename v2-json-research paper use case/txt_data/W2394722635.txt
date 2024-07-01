@@ -1,0 +1,12 @@
+ID: W2394722635
+TITLE: Systematic global assessment of reef fish communities by the Reef Life Survey program
+AUTHOR: ['Graham J. Edgar', 'Rick D. Stuart‐Smith']
+ABSTRACT:
+The assessment of patterns in macroecology, including those most relevant to global biodiversity conservation, has been hampered by a lack of quantitative data collected in a consistent manner over the global scale. Global analyses of species’ abundance data typically rely on records aggregated from multiple studies where different sampling methods and varying levels of taxonomic and spatial resolution have been applied. Here we describe the Reef Life Survey (RLS) reef fish dataset, which contains 134,759 abundance records, of 2,367 fish taxa, from 1,879 sites in coral and rocky reefs distributed worldwide. Data were systematically collected using standardized methods, offering new opportunities to assess broad-scale spatial patterns in community structure. The development of such a large dataset was made possible through contributions of investigators associated with science and conservation agencies worldwide, and the assistance of a team of over 100 recreational SCUBA divers, who undertook training in scientific techniques for underwater surveys and voluntarily contributed skills, expertise and their time to data collection. Machine-accessible metadata file describing the reported data (ISA-Tab format)
+
+SOURCE: Scientific data
+PDF URL: https://www.nature.com/articles/sdata20147.pdf
+CITED BY COUNT: 170
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Coral reef', 'Reef', 'Coral reef fish', 'Abundance (ecology)', 'Geography', 'Biodiversity', 'Scale (ratio)', 'Fishery', 'Ecology', 'Recreation', 'Sampling (signal processing)', 'Spatial ecology', 'Environmental resource management', 'Environmental science', 'Biology', 'Cartography', 'Computer science', 'Filter (signal processing)', 'Computer vision']

@@ -1,0 +1,12 @@
+ID: W2788419020
+TITLE: Conservation and restoration of mangroves: Global status, perspectives, and prognosis
+AUTHOR: ['Stephanie S. Romañach', 'Jiang Jiang', 'Hock Lye Koh', 'Yuhong Li', 'Su Yean Teh', 'Raja Sulaiman Raja Barizan', 'Lu Zhai']
+ABSTRACT:
+Mangrove forests provide critical services around the globe to both human populations and the ecosystems they occupy. However, losses of mangrove habitat of more than 50% have been recorded in some parts of the world, and these losses are largely attributable to human activities. The importance of mangroves and the threats to their persistence have long been recognized, leading to actions taken locally, by national governments, and through international agreements for their protection. In this review, we explore the status of mangrove forests as well as efforts to protect them. We examine threats to the persistence of mangroves, consequences, and potential solutions for effective conservation. We present case studies from disparate regions of the world, showing that the integration of human livelihood needs in a manner that balances conservation goals can present solutions that could lead to long-term sustainability of mangrove forests throughout the world.
+
+SOURCE: Ocean & coastal management
+PDF URL: http://manuscript.elsevier.com/S0964569117301710/pdf/S0964569117301710.pdf
+CITED BY COUNT: 246
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mangrove', 'Livelihood', 'Habitat', 'Geography', 'Sustainability', 'Agroforestry', 'Biodiversity', 'Ecosystem', 'Environmental resource management', 'Ecology', 'Environmental protection', 'Environmental planning', 'Natural resource economics', 'Environmental science', 'Biology', 'Agriculture', 'Archaeology', 'Economics']

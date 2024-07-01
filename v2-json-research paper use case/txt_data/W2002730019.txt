@@ -1,0 +1,12 @@
+ID: W2002730019
+TITLE: Using expert opinion to prioritize impacts of climate change on sea turtles’ nesting grounds
+AUTHOR: ['Mariana M. P. B. Fuentes', 'Joshua E. Cinner']
+ABSTRACT:
+Managers and conservationists often need to prioritize which impacts from climate change to deal with from a long list of threats. However, data which allows comparison of the relative impact from climatic threats for decision-making is often unavailable. This is the case for the management of sea turtles in the face of climate change. The terrestrial life stages of sea turtles can be negatively impacted by various climatic processes, such as sea level rise, altered cyclonic activity, and increased sand temperatures. However, no study has systematically investigated the relative impact of each of these climatic processes, making it challenging for managers to prioritize their decisions and resources. To address this we offer a systematic method for eliciting expert knowledge to estimate the relative impact of climatic processes on sea turtles’ terrestrial reproductive phase. For this we used as an example the world’s largest population of green sea turtles and asked 22 scientists and managers to answer a paper based survey with a series of pair-wise comparison matrices that compared the anticipated impacts from each climatic process. Both scientists and managers agreed that increased sand temperature will likely cause the most threat to the reproductive output of the nGBR green turtle population followed by sea level rise, then altered cyclonic activity. The methodology used proved useful to determine the relative impact of the selected climatic processes on sea turtles’ reproductive output and provided valuable information for decision-making. Thus, the methodological approach can potentially be applied to other species and ecosystems of management concern.
+
+SOURCE: Journal of environmental management
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Climate change', 'Turtle (robot)', 'Population', 'Environmental resource management', 'Geography', 'Sea turtle', 'Fishery', 'Environmental science', 'Ecology', 'Biology', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2743115992
+TITLE: Occurrence of pharmaceuticals and UV-filters in riverine run-offs and waters of the German Baltic Sea
+AUTHOR: ['Kathrin Fisch', 'Joanna J Waniek', 'Detlef E. Schulz‐Bull']
+ABSTRACT:
+The occurrence of pharmaceuticals and personal care products (PPCPs) in the marine environment is of great concern. This study was done to determine the emergence of eight pharmaceuticals and eleven ultraviolet filters (UV-Filters) in 5 rivers/streams discharging into the Baltic Sea. Furthermore, a focus was put on the influence of wastewater treatment plant as indirect source and the occurrence of the PPCPs in close beach proximity. Two pharmaceuticals (sulfamethoxazole, salicylic acid) and two UV-filters (2-phenylbenzimidazole-5-sulfonic acid, octocrylene) were detected in all analyzed water samples, with concentration ranging from 0.6ng/L to 836.3ng/L. In all rivers the PPCP concentration decreases towards the Baltic Sea. Sulfamethoxazole was detected at comparable concentration along the coast, which leads to the assumption of stable concentration in beach proximity. Along the coast UV-filters appeared in varying concentrations, leading to the conclusion that the direct input into the marine environment plays a bigger role than the indirect input.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Environmental science', 'Baltic sea', 'Environmental chemistry', 'Wastewater', 'Environmental impact of pharmaceuticals and personal care products', 'Environmental engineering', 'Chemistry', 'Oceanography', 'Geology']

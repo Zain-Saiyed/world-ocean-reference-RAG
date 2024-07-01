@@ -1,0 +1,12 @@
+ID: W2904274387
+TITLE: Resilience, vulnerability, &amp; transformation: Exploring community adaptability in coastal North Carolina
+AUTHOR: ['Candace K. May']
+ABSTRACT:
+Community resilience approaches are often criticized for failing to recognize how community adaptability is shaped by multiple levels and scales of heterogeneous power relations. A power framework for understanding community resilience is presented and applied to a qualitative case study of Two Rivers, a historical fishing community in North Carolina. Community functions, structures, and identity were fundamentally transformed from commercial fishing-based livelihoods to recreation and leisure-based lifestyles as Two Rivers fishers transitioned out of the fishing industry and relocated out of the community. The vulnerability context of Two Rivers consisted of compounding shocks from market competition, weather-related events, and rural restructuring involving amenity migration and development. The power framework draws attention to how the adaptability of the Two Rivers community was shaped by differential power among groups within and outside the community, structural power in the institutional and bureaucratic imperatives of governance systems, and the systemic power of generalized values, norms, and preferences driving coastal development trajectories. The utility of the power framework is a map of resources, capacities, and opportunities and barriers within and external to communities to more effectively understand and/or facilitate group and community adaptability for resilience or potentially more radical transformations toward sustainability.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Adaptability', 'Community resilience', 'Context (archaeology)', 'Environmental resource management', 'Adaptive capacity', 'Vulnerability (computing)', 'Recreation', 'Psychological resilience', 'Sustainability', 'Environmental planning', 'Geography', 'Political science', 'Resource (disambiguation)', 'Economics', 'Ecology', 'Climate change', 'Management', 'Computer science', 'Biology', 'Psychology', 'Computer network', 'Computer security', 'Psychotherapist', 'Archaeology', 'Law']

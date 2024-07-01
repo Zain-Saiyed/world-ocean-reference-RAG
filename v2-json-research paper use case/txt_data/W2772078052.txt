@@ -1,0 +1,12 @@
+ID: W2772078052
+TITLE: Mapping of Cold-Water Coral Carbonate Mounds Based on Geomorphometric Features: An Object-Based Approach
+AUTHOR: ['Markus Diesing', 'Terje Thorsnes']
+ABSTRACT:
+Cold-water coral reefs are rich, yet fragile ecosystems found in colder oceanic waters. Knowledge of their spatial distribution on continental shelves, slopes, seamounts and ridge systems is vital for marine spatial planning and conservation. Cold-water corals frequently form conspicuous carbonate mounds of varying sizes, which are identifiable from multibeam echosounder bathymetry and derived geomorphometric attributes. However, the often-large number of mounds makes manual interpretation and mapping a tedious process. We present a methodology that combines image segmentation and random forest spatial prediction with the aim to derive maps of carbonate mounds and an associated measure of confidence. We demonstrate our method based on multibeam echosounder data from Iverryggen on the mid-Norwegian shelf. We identified the image-object mean planar curvature as the most important predictor. The presence and absence of carbonate mounds is mapped with high accuracy. Spatially-explicit confidence in the predictions is derived from the predicted probability and whether the predictions are within or outside the modelled range of values and is generally high. We plan to apply the showcased method to other areas of the Norwegian continental shelf and slope where multibeam echosounder data have been collected with the aim to provide crucial information for marine spatial planning.
+
+SOURCE: Geosciences
+PDF URL: https://www.mdpi.com/2076-3263/8/2/34/pdf?version=1516726206
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Echo sounding', 'Geology', 'Bathymetry', 'Continental shelf', 'Seamount', 'Oceanography', 'Coral reef', 'Carbonate', 'Marine spatial planning', 'Coral', 'Metallurgy', 'Materials science']

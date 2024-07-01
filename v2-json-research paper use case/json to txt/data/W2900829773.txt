@@ -1,0 +1,12 @@
+ID: W2900829773
+TITLE: Wolves of the Sea: Managing human-wildlife conflict in an increasingly tense ocean
+AUTHOR: ['Ana Sofía Guerra']
+ABSTRACT:
+Human-wildlife conflict has been receiving increased scientific and management attention, predominantly in terrestrial systems, as a side effect of successful predator conservation and recovery. These same conflicts exist in the ocean; however, they are mostly regarded in a region- or taxa-specific context despite evidence that human-wildlife conflict is prevalent across the global oceans and likely to increase as a result of successful conservation measures. Can the lessons learned from conflicts on land promote more sustainable success in the sea? Or, do ocean human-wildlife conflicts create unique challenges that require new solutions? This paper synthesizes evidence from human-wildlife conflicts in the ocean and provides initial suggestions for progressing with effective management in the ocean. Humans have extensive experience managing conflict with terrestrial predators and several of the strategies are transferable to marine predators, but several important differences between systems necessitate a marine-specific focus and evaluation of existing mitigation strategies. Further, in managing marine wildlife conflict, it is crucial to recognize that perceived conflicts can be just as important as actual conflict and that, in many cases, human-human conflict is at the root of human-wildlife conflict. As efforts to recover important predator populations continue, humans are faced with the exciting opportunity and a new necessity to constructively manage these recoveries to continue to meet goals for marine conservation while simultaneously promoting human safety and industry in the seas.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Wildlife', 'Human–wildlife conflict', 'Context (archaeology)', 'Environmental resource management', 'Conflict management', 'Wildlife conservation', 'Environmental planning', 'Marine conservation', 'Wildlife management', 'Geography', 'Ecology', 'Political science', 'Environmental science', 'Biology', 'Archaeology', 'Law']

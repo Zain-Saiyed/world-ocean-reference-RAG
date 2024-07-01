@@ -1,0 +1,12 @@
+ID: W2185312405
+TITLE: Seismic surveys and marine turtles: An underestimated global threat?
+AUTHOR: ['Sarah E. Nelms', 'Wendy E. Dow Piniak', 'Caroline R. Weir', 'Brendan J. Godley']
+ABSTRACT:
+Seismic surveys are widely used in marine geophysical oil and gas exploration, employing airguns to produce sound-waves capable of penetrating the sea floor. In recent years, concerns have been raised over the biological impacts of this activity, particularly for marine mammals. While exploration occurs in the waters of at least fifty countries where marine turtles are present, the degree of threat posed by seismic surveys is almost entirely unknown. To investigate this issue, a mixed-methods approach involving a systematic review, policy comparison and stakeholder analysis was employed and recommendations for future research were identified. This study found that turtles have been largely neglected both in terms of research and their inclusion in mitigation policies. Few studies have investigated the potential for seismic surveys to cause behavioural changes or physical damage, indicating a crucial knowledge gap. Possible ramifications for turtles include exclusion from critical habitats, damage to hearing and entanglement in seismic survey equipment. Despite this, the policy comparison revealed that only three countries worldwide currently include turtles in their seismic mitigation guidelines and very few of the measures they specify are based on scientific evidence or proven effectiveness. Opinions obtained from stakeholder groups further highlight the urgent need for directed, in-depth empirical research to better inform and develop appropriate mitigation strategies. As seismic surveying is becoming increasingly widespread and frequent, it is important and timely that we evaluate the extent to which marine turtles, a taxon of global conservation concern, may be affected.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Stakeholder', 'Habitat', 'Environmental resource management', 'Seismic survey', 'Environmental planning', 'Geography', 'Marine habitats', 'Fishery', 'Ecology', 'Environmental science', 'Geology', 'Seismology', 'Biology', 'Political science', 'Public relations']

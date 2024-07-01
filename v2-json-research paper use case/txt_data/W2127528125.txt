@@ -1,0 +1,12 @@
+ID: W2127528125
+TITLE: Impacts of hypoxia on the structure and processes in pelagic communities (zooplankton, macro-invertebrates and fish)
+AUTHOR: ['Werner Ekau', 'Holger Auel', 'Hans‐Otto Pörtner', 'Denis Gilbert']
+ABSTRACT:
+Abstract. Dissolved oxygen (DO) concentration in the water column is an environmental parameter that is crucial for the successful development of many pelagic organisms. Hypoxia tolerance and threshold values are species- and stage-specific and can vary enormously. While some fish species may suffer from oxygen values of less than 3 mL O2 L−1 through impacted growth, development and behaviour, other organisms such as euphausiids may survive DO levels as low as 0.1 mL O2 L−1. A change in the average or the range of DO may have significant impacts on the survival of certain species and hence on the species composition in the ecosystem with consequent changes in trophic pathways and productivity. Evidence for the deleterious effects of oxygen depletion on pelagic species is scarce, particularly in terms of the effect of low oxygen on development, recruitment and patterns of migration and distribution. While planktonic organisms have to cope with variable DOs and exploit adaptive mechanisms, nektonic species may avoid areas of unfavourable DO and develop adapted migration strategies. Planktonic organisms may only be able to escape vertically, above or beneath the Oxygen Minimum Zone (OMZ). In shallow areas only the surface layer can serve as a refuge, but in deep waters many organisms have developed vertical migration strategies to use, pass through and cope with the OMZ. This paper elucidates the role of DO for different taxa in the pelagic realm and the consequences of low oxygen for foodweb structure and system productivity. We describe processes in two contrasting systems, the semi-enclosed Baltic Sea and the coastal upwelling system of the Benguela Current to demonstrate the consequences of increasing hypoxia on ecosystem functioning and services.
+
+SOURCE: Biogeosciences
+PDF URL: https://bg.copernicus.org/articles/7/1669/2010/bg-7-1669-2010.pdf
+CITED BY COUNT: 359
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Nekton', 'Trophic level', 'Plankton', 'Biology', 'Hypoxia (environmental)', 'Ecology', 'Water column', 'Zooplankton', 'Benthic zone', 'Invertebrate', 'Ecosystem', 'Fishery', 'Oxygen', 'Habitat', 'Chemistry', 'Organic chemistry']

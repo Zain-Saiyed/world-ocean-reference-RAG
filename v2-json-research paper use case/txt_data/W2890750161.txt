@@ -1,0 +1,12 @@
+ID: W2890750161
+TITLE: Deep-sea mobile megafauna of Mediterranean submarine canyons and open slopes: Analysis of spatial and bathymetric gradients
+AUTHOR: ['Emanuela Fanelli', 'Silvia Bianchelli', 'Roberto Danovaro']
+ABSTRACT:
+Mediterranean canyons are generally characterized by complex topography and hydrographic conditions, and can act as conduits for organic matter and sediments from the shelf to the deep sea, which result in enhanced macro- and megafaunal abundance and biodiversity. Here, we reviewed the literature of the last 20 years and combined available information with new data, from our own datasets (including unpublished data), on megafaunal species inhabiting submarine canyons and the adjacent slopes. We analysed the data acquired using different gears, from baited cameras on aluminum frames and landers and baited traps to commercial trawl gears, in order to combine and complement the results in megafaunal biodiversity and assemblage structure in Mediterranean canyons. Overall, the results of our analysis on megafaunal assemblages allowed identifying 400 species, including 28 species of cephalopods, 64 of decapod crustaceans, 25 of echinoderms, 27 of elasmobranches and 127 of Actinopterygii. We observed significant longitudinal differences in assemblage composition, with high species turnover across Mediterranean sub-basins. Our analysis also confirmed the importance of depth axis as the main factor influencing the structure of the deep-sea demersal assemblages, with greater diversity in the upper part of the slopes. The multivariate multiple regression analysis showed that geomorphological features of the canyons (i.e., slope, dendricity, sinuosity, and distance from adjacent canyons) contribute significantly to explain the observed variability in the taxonomic composition of megafaunal assemblages at sub-basin scale. The results presented here are important in global biodiversity management perspectives, and confirm that canyons represent a seascape unit deserving protection at different levels modulated according to biogeographic and geomorphological features.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Submarine canyon', 'Oceanography', 'Bathymetry', 'Geology', 'Canyon', 'Megafauna', 'Mediterranean sea', 'Submarine', 'Bathymetric chart', 'Open sea', 'Deep sea', 'Continental shelf', 'Mediterranean climate', 'Geography', 'Geomorphology', 'Paleontology', 'Archaeology', 'Pleistocene']

@@ -1,0 +1,12 @@
+ID: W2253302139
+TITLE: The global distribution of deep-water Antipatharia habitat
+AUTHOR: ['Chris Yesson', 'Faye Bedford', 'Alex D. Rogers', 'Michelle L. Taylor']
+ABSTRACT:
+Antipatharia are a diverse group of corals with many species found in deep water. Many Antipatharia are habitat for associates, have extreme longevity and some species can occur beyond 8500 m depth. As they are major constituents of׳coral gardens’, which are Vulnerable Marine Ecosystems (VMEs), knowledge of their distribution and environmental requirements is an important pre-requisite for informed conservation planning particularly where the expense and difficulty of deep-sea sampling prohibits comprehensive surveys. This study uses a global database of Antipatharia distribution data to perform habitat suitability modelling using the Maxent methodology to estimate the global extent of black coral habitat suitability. The model of habitat suitability is driven by temperature but there is notable influence from other variables of topography, surface productivity and oxygen levels. This model can be used to predict areas of suitable habitat, which can be useful for conservation planning. The global distribution of Antipatharia habitat suitability shows a marked contrast with the distribution of specimen observations, indicating that many potentially suitable areas have not been sampled, and that sampling effort has been disproportionate to shallow, accessible areas inside marine protected areas (MPAs). Although 25% of Antipatharia observations are located in MPAs, only 7-8% of predicted suitable habitat is protected, which is short of the Convention on Biological Diversity target to protect 10% of ocean habitats by 2020.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Habitat', 'Marine protected area', 'Convention on Biological Diversity', 'Sampling (signal processing)', 'Ecology', 'Environmental science', 'Marine habitats', 'Distribution (mathematics)', 'Ecosystem', 'Marine conservation', 'Geography', 'Biodiversity', 'Environmental resource management', 'Biology', 'Mathematical analysis', 'Mathematics', 'Filter (signal processing)', 'Computer science', 'Computer vision']

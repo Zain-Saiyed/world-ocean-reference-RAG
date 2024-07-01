@@ -1,0 +1,12 @@
+ID: W2159721976
+TITLE: The dynamics of biogeographic ranges in the deep sea
+AUTHOR: ['Craig R. McClain', 'Sarah L. Mincks']
+ABSTRACT:
+Anthropogenic disturbances such as fishing, mining, oil drilling, bioprospecting, warming, and acidification in the deep sea are increasing, yet generalities about deep-sea biogeography remain elusive. Owing to the lack of perceived environmental variability and geographical barriers, ranges of deep-sea species were traditionally assumed to be exceedingly large. In contrast, seamount and chemosynthetic habitats with reported high endemicity challenge the broad applicability of a single biogeographic paradigm for the deep sea. New research benefiting from higher resolution sampling, molecular methods and public databases can now more rigorously examine dispersal distances and species ranges on the vast ocean floor. Here, we explore the major outstanding questions in deep-sea biogeography. Based on current evidence, many taxa appear broadly distributed across the deep sea, a pattern replicated in both the abyssal plains and specialized environments such as hydrothermal vents. Cold waters may slow larval metabolism and development augmenting the great intrinsic ability for dispersal among many deep-sea species. Currents, environmental shifts, and topography can prove to be dispersal barriers but are often semipermeable. Evidence of historical events such as points of faunal origin and climatic fluctuations are also evident in contemporary biogeographic ranges. Continued synthetic analysis, database construction, theoretical advancement and field sampling will be required to further refine hypotheses regarding deep-sea biogeography.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: None
+CITED BY COUNT: 197
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Biogeography', 'Deep sea', 'Seamount', 'Abyssal zone', 'Hydrothermal vent', 'Ecology', 'Oceanography', 'Habitat', 'Geology', 'Paleontology', 'Biology', 'Population', 'Demography', 'Sociology', 'Hydrothermal circulation']

@@ -1,0 +1,12 @@
+ID: W2736491952
+TITLE: Hydrothermal vent fields discovered in the southern Gulf of California clarify role of habitat in augmenting regional diversity
+AUTHOR: ['Shana K. Goffredi', 'Shannon B. Johnson', 'Verena Tunnicliffe', 'David W. Caress', 'David A. Clague', 'Elva Escobar', 'Lonny Lundsten', 'J. B. Paduan', 'Greg W. Rouse', 'Diana L. Salcedo', 'Luís A. Soto', 'Ronald M. Spelz', 'Robert A. Zierenberg', 'Robert C. Vrijenhoek']
+ABSTRACT:
+Hydrothermal vent communities are distributed along mid-ocean spreading ridges as isolated patches. While distance is a key factor influencing connectivity among sites, habitat characteristics are also critical. The Pescadero Basin (PB) and Alarcón Rise (AR) vent fields, recently discovered in the southern Gulf of California, are bounded by previously known vent localities (e.g. Guaymas Basin and 21° N East Pacific Rise); yet, the newly discovered vents differ markedly in substrata and vent fluid attributes. Out of 116 macrofaunal species observed or collected, only three species are shared among all four vent fields, while 73 occur at only one locality. Foundation species at basalt-hosted sulfide chimneys on the AR differ from the functional equivalents inhabiting sediment-hosted carbonate chimneys in the PB, only 75 km away. The dominant species of symbiont-hosting tubeworms and clams, and peripheral suspension-feeding taxa, differ between the sites. Notably, the PB vents host a limited and specialized fauna in which 17 of 26 species are unknown at other regional vents and many are new species. Rare sightings and captured larvae of the ‘missing’ species revealed that dispersal limitation is not responsible for differences in community composition at the neighbouring vent localities. Instead, larval recruitment-limiting habitat suitability probably favours species differentially. As scenarios develop to design conservation strategies around mining of seafloor sulfide deposits, these results illustrate that models encompassing habitat characteristics are needed to predict metacommunity structure.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2017.0817
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Hydrothermal vent', 'Biological dispersal', 'Ecology', 'Habitat', 'Metacommunity', 'Chemosynthesis', 'Fauna', 'Bay', 'Oceanography', 'Geology', 'Biology', 'Paleontology', 'Hydrothermal circulation', 'Population', 'Demography', 'Sociology']

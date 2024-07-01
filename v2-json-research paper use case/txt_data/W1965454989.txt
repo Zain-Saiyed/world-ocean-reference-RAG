@@ -1,0 +1,12 @@
+ID: W1965454989
+TITLE: Noiseonomics: The relationship between ambient noise levels in the sea and global economic trends
+AUTHOR: ['George V. Frisk']
+ABSTRACT:
+In recent years, the topic of noise in the sea and its effects on marine mammals has attracted considerable attention from both the scientific community and the general public. Since marine mammals rely heavily on acoustics as a primary means of communicating, navigating, and foraging in the ocean, any change in their acoustic environment may have an impact on their behavior. Specifically, a growing body of literature suggests that low-frequency, ambient noise levels in the open ocean increased approximately 3.3 dB per decade during the period 1950-2007. Here we show that this increase can be attributed primarily to commercial shipping activity, which in turn, can be linked to global economic growth. As a corollary, we conclude that ambient noise levels can be directly related to global economic conditions. We provide experimental evidence supporting this theory and discuss its implications for predicting future noise levels based on global economic trends.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep00437.pdf
+CITED BY COUNT: 190
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Noise (video)', 'Foraging', 'Corollary', 'Ambient noise level', 'Environmental science', 'Oceanography', 'Computer science', 'Ecology', 'Biology', 'Sound (geography)', 'Geology', 'Mathematics', 'Artificial intelligence', 'Pure mathematics', 'Image (mathematics)']

@@ -1,0 +1,12 @@
+ID: W2943795942
+TITLE: Basal melting of Ross Ice Shelf from solar heat absorption in an ice-front polynya
+AUTHOR: ['C. Stewart', 'Poul Christoffersen', 'Keith W. Nicholls', 'Michael Williams', 'Julian A. Dowdeswell']
+ABSTRACT:
+Ice–ocean interactions at the bases of Antarctic ice shelves are rarely observed, yet have a profound influence on ice sheet evolution and stability. Ice sheet models are highly sensitive to assumed ice shelf basal melt rates; however, there are few direct observations of basal melting or the oceanographic processes that drive it, and consequently our understanding of these interactions remains limited. Here we use in situ observations from the Ross Ice Shelf to examine the oceanographic processes that drive basal ablation of the world’s largest ice shelf. We show that basal melt rates beneath a thin and structurally important part of the shelf are an order of magnitude higher than the shelf-wide average. This melting is strongly influenced by a seasonal inflow of solar-heated surface water from the adjacent Ross Sea Polynya that downwells into the ice shelf cavity, nearly tripling basal melt rates during summer. Melting driven by this frequently overlooked process is expected to increase with predicted surface warming. We infer that solar heat absorbed in ice-front polynyas can make an important contribution to the present-day mass balance of ice shelves, and potentially impact their future stability. High melt rates in a key location beneath the Ross Ice Shelf result from a seasonal inflow of water heated in the Ross Sea Polynya, according to in situ observations.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Ice shelf', 'Geology', 'Sea ice', 'Ice sheet', 'Front (military)', 'Oceanography', 'Lead (geology)', 'Climatology', 'Cryosphere', 'Geomorphology']

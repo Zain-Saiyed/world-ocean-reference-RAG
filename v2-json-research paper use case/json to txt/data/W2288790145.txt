@@ -1,0 +1,12 @@
+ID: W2288790145
+TITLE: Mixotrophy stirs up our understanding of marine food webs
+AUTHOR: ['David A. Caron']
+ABSTRACT:
+Mixotrophy among planktonic eukaryotic organisms is broadly defined as the combined use of photosynthetic and heterotrophic nutrition within a single organism. The conventional view of species as either phototrophic (capable of producing energy and carbon for growth using only inorganic compounds and light) or heterotrophic (wholly dependent on preformed organic material for nutrition) is a preconception rooted in the fact that most terrestrial species can easily be divided into “plants” or “animals.” Indeed, the diversity of terrestrial organisms that combine photosynthetic and heterotrophic nutrition is mostly relegated to a dozen or so genera of carnivorous plants that capture and digest insects and other small creatures for the nutrients they contain, but also capture light energy via photosynthesis. In contrast to life on land, mixotrophic nutrition is widespread among single-celled and multicellular organisms comprising the ocean’s plankton. The ecological significance for the species that possess this behavior has not been lost on biologists who have endeavored to document and understand mixotrophy, but its importance to pelagic food-web structure and function has not yet become entrained into mathematical models of marine ecosystems. In PNAS, Ward and Follows (1) address this disparity, and provide one of the first attempts to incorporate mixotrophic nutrition into biogeochemical models of oceanic food webs. The authors use their model to estimate the impact that mixotrophy has on food-web structure, the efficiency of carbon transfer to higher trophic levels, and the sinking of carbon into the deep ocean.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/113/11/2806.full.pdf
+CITED BY COUNT: 64
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biology', 'Business', 'Ecology']

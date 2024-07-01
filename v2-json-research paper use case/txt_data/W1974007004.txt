@@ -1,0 +1,12 @@
+ID: W1974007004
+TITLE: Forms of collaboration and social fit in wildlife management: A comparison of policy networks in Alaska
+AUTHOR: ['Chanda L. Meek']
+ABSTRACT:
+Rapid environmental change in the Arctic has led to calls for new forms of environmental governance that consciously fit policy solutions to both the policy problem as well as the underlying social–ecological system dynamics. While efforts to evaluate the ecological fit of institutions to place have become more sophisticated, efforts to measure the social fit of policy remains underdeveloped. In order to examine the effect of institutional form on policy processes and socially relevant outcomes, I employ a mixed methods approach including ethnographic data and social network analysis to compare the implementation of two international wildlife regimes in two indigenous Iñupiaq towns in Alaska. My results yield three findings: (1) that separate institutions create differently structured policy networks, (2) differences in network structures and levels of power-sharing correlate with perceptions of policy, and (3) networks that reflect local social patterns are more likely to be considered fair and inclusive. These findings support congruence theory, which posits that public policy reflective of local constructions of legitimacy will achieve greater success than policy that is not reflective.
+
+SOURCE: Global environmental change
+PDF URL: None
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Legitimacy', 'Corporate governance', 'Environmental governance', 'Wildlife', 'Public policy', 'Collaborative governance', 'Arctic', 'Indigenous', 'Policy analysis', 'Order (exchange)', 'Sociology', 'Public economics', 'Political science', 'Environmental resource management', 'Public administration', 'Business', 'Ecology', 'Economics', 'Economic growth', 'Finance', 'Politics', 'Law', 'Biology']

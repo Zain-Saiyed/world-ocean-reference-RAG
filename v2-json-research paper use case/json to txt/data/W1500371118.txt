@@ -1,0 +1,12 @@
+ID: W1500371118
+TITLE: Application of satellite observations for timely updates to global anthropogenic NO<sub><i>x</i></sub>emission inventories
+AUTHOR: ['L. N. Lamsal', 'Randall V. Martin', 'A. Padmanabhan', 'Aaron van Donkelaar', 'Qizhou Zhang', 'C. E. Sioris', 'K. Chance', 'Thomas P. Kurosu', 'M. Newchurch']
+ABSTRACT:
+[1] Anthropogenic emissions of nitrogen oxides (NOx) can change rapidly due to economic growth or control measures. Bottom-up emissions estimated using source-specific emission factors and activity statistics require years to compile and can become quickly outdated. We present a method to use satellite observations of tropospheric NO2 columns to estimate changes in NOx emissions. We use tropospheric NO2 columns retrieved from the SCIAMACHY satellite instrument for 2003–2009, the response of tropospheric NO2 columns to changes in NOx emissions determined from a global chemical transport model (GEOS-Chem), and the bottom-up anthropogenic NOx emissions for 2006 to hindcast and forecast the inventories. We evaluate our approach by comparing bottom-up and hindcast emissions for 2003. The two inventories agree within 6.0% globally and within 8.9% at the regional scale with consistent trends in western Europe, North America, and East Asia. We go on to forecast emissions for 2009. During 2006–2009, anthropogenic NOx emissions over land increase by 9.2% globally and by 18.8% from East Asia. North American emissions decrease by 5.7%.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 247
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Environmental science', 'Satellite', 'Remote sensing', 'Meteorology', 'Atmospheric sciences', 'Physics', 'Geology', 'Astronomy']

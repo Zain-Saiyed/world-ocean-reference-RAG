@@ -1,0 +1,12 @@
+ID: W2563844661
+TITLE: Assessment and management of cumulative impacts in California's network of marine protected areas
+AUTHOR: ['Megan E. Mach', 'Lisa M. Wedding', 'Sarah Reiter', 'Fiorenza Micheli', 'Rod Fujita', 'Rebecca G. Martone']
+ABSTRACT:
+In response to concerns about human impacts to coastal ecosystems, conservationists and practitioners are increasingly turning to networks of marine protected areas (MPAs). Although MPAs manage for fishing pressure, many species and habitats in MPAs remain exposed to a multitude of stressors, including stressors from global climate change and regional land- and ocean-based activities. To support the adaptive management of MPAs that are subject to multiple interacting stressors, coastal managers need to understand the potential impacts from other single and multiple stressors. To demonstrate how this can be done, we quantify and map cumulative impacts resulting from multiple stressors to California's network of MPAs, using a widely available cumulative impacts mapping tool. Among individual stressors, those related to climate, including ocean acidification, UV radiation increases, and SST anomalies, were found to have the most intense impacts, especially on surface waters and in the rocky intertidal. Climate stressors are challenging to limit at the local MPA scale, but intense land- and ocean-based impacts that were found to affect a majority of MPAs, such as sediment increases, invasive species, organic pollutants and pollution from shipping and ports, may be more easily regulated at a regional or local scale. This is especially relevant for South and Central coast MPAs where these impacts are the greatest on beaches, tidal flats, and coastal marshes. Accounting for cumulative impacts from these and other stressors when developing monitoring and management plans in California and across the world, would help to improve the efficacy of MPAs.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine protected area', 'Cumulative effects', 'Environmental science', 'Environmental resource management', 'Adaptive management', 'Climate change', 'Fishing', 'Marine reserve', 'Habitat', 'Oceanography', 'Fishery', 'Ecology', 'Geology', 'Biology']

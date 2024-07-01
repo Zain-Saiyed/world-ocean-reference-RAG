@@ -1,0 +1,12 @@
+ID: W2268869119
+TITLE: Community-Level Actions that Can Address Ocean Acidification
+AUTHOR: ['Sarah R. Cooley', 'Chitari Ono', 'Sage Melcer', 'Julia Roberson']
+ABSTRACT:
+Ocean acidification has led to detectable changes in seawater chemistry around the world, which are associated with reduced growth and survival of many species. Acute ocean acidification “events” in the Pacific Northwest United States have jeopardized the $270 million, 3,200 jobs/year shellfish aquaculture industry in Washington State, and this has contributed to the state’s broad-based, legislatively driven response to ocean acidification. Even though impacts from ocean acidification have yet to be felt in many locations, states and regions are beginning to take action on the issue. In this paper, we present an array of actions that can be undertaken by communities or regions to address ocean acidification. The actions can be coupled, completed one at a time, or aligned with other environmental initiatives, and they can be tailored to the prevailing political or economic environment. We review which have been used by different U.S. states and identify common themes and popular choices. We close by suggesting combinations of conditions and clusters of activities that seem to promote rapid and sustained action. Cutting atmospheric carbon dioxide levels internationally is still the most comprehensive way to address ocean acidification, but this analysis shows that productive actions can still be taken at smaller scales to help marine resource-dependent communities adapt to existing ocean acidification and prepare for possible future impacts.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2015.00128/pdf
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Environmental science', "Carbon dioxide in Earth's atmosphere", 'Oceanography', 'Marine species', 'Resource (disambiguation)', 'Seawater', 'Marine conservation', 'Environmental resource management', 'Natural resource economics', 'Ecology', 'Climate change', 'Biology', 'Computer science', 'Geology', 'Computer network', 'Economics']

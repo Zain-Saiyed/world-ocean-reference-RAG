@@ -1,0 +1,12 @@
+ID: W165957098
+TITLE: SEAGRASS HABITATS: THE ROLES OF HABITAT COMPLEXITY, COMPETITION AND PREDATION IN STRUCTURING ASSOCIATED FISH AND MOTILE MACROINVERTEBRATE ASSEMBLAGES
+AUTHOR: ['Kenneth L. Heck', 'Robert J. Orth']
+ABSTRACT:
+Seagrass meadows represent a distinct habitat in shallow coastal and estuarine ecosystems. We examine the role of seagrass meadows as an important habitat for fishes and large mobile invertebrates. In particular, we emphasize the importance of the structural complexity of the vegetation and associated algal components. Based on data from a variety of geographical localities we consider how vegetation density, plant morphology and associated sessile colonial animals can influence abundance and diversity of predator and prey species in vegetated areas on both local and regional geographical scales. In so doing we generate hypotheses that lead to predictions concerning: size of populations and the amplitude of their fluctuations in vegetated habitats at different latitudes; success rate of predators using different foraging strategies in vegetation of different densities; and resultant diversity and abundance of invertebrate prey, juvenile fish and adult fish in different densities of vegetation.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 260
+PUBLICATION YEAR: 1980
+TYPE: book-chapter
+CONCEPTS: ['Seagrass', 'Ecology', 'Habitat', 'Predation', 'Abundance (ecology)', 'Invertebrate', 'Vegetation (pathology)', 'Foraging', 'Competition (biology)', 'Ecosystem', 'Geography', 'Biology', 'Medicine', 'Pathology']

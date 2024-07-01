@@ -1,0 +1,12 @@
+ID: W2891773614
+TITLE: Mapping Mangrove Extent and Change: A Globally Applicable Approach
+AUTHOR: ['Nathan Thomas', 'Peter Bunting', 'Richard Lucas', 'Andrew Hardy', 'Åke Rosenqvist', 'Lola Fatoyinbo']
+ABSTRACT:
+This study demonstrates a globally applicable method for monitoring mangrove forest extent at high spatial resolution. A 2010 mangrove baseline was classified for 16 study areas using a combination of ALOS PALSAR and Landsat composite imagery within a random forests classifier. A novel map-to-image change method was used to detect annual and decadal changes in extent using ALOS PALSAR/JERS-1 imagery. The map-to-image method presented makes fewer assumptions of the data than existing methods, is less sensitive to variation between scenes due to environmental factors (e.g., tide or soil moisture) and is able to automatically identify a change threshold. Change maps were derived from the 2010 baseline to 1996 using JERS-1 SAR and to 2007, 2008 and 2009 using ALOS PALSAR. This study demonstrated results for 16 known hotspots of mangrove change distributed globally, with a total mangrove area of 2,529,760 ha. The method was demonstrated to have accuracies consistently in excess of 90% (overall accuracy: 92.2–93.3%, kappa: 0.86) for mapping baseline extent. The accuracies of the change maps were more variable and were dependent upon the time period between images and number of change features. Total change from 1996 to 2010 was 204,850 ha (127,990 ha gain, 76,860 ha loss), with the highest gains observed in French Guiana (15,570 ha) and the highest losses observed in East Kalimantan, Indonesia (23,003 ha). Changes in mangrove extent were the consequence of both natural and anthropogenic drivers, yielding net increases or decreases in extent dependent upon the study site. These updated maps are of importance to the mangrove research community, particularly as the continual updating of the baseline with currently available and anticipated spaceborne sensors. It is recommended that mangrove baselines are updated on at least a 5-year interval to suit the requirements of policy makers.
+
+SOURCE: Remote sensing
+PDF URL: https://www.mdpi.com/2072-4292/10/9/1466/pdf?version=1536901061
+CITED BY COUNT: 76
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mangrove', 'Change detection', 'Environmental science', 'Baseline (sea)', 'Remote sensing', 'Physical geography', 'Geography', 'Cartography', 'Geology', 'Ecology', 'Oceanography', 'Biology']

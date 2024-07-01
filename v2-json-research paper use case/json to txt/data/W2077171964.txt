@@ -1,0 +1,12 @@
+ID: W2077171964
+TITLE: Underwater ambient noise on the Chukchi Sea continental slope from 2006–2009
+AUTHOR: ['Ethan H. Roth', 'John A. Hildebrand', 'Sean M. Wiggins', 'Donald Ross']
+ABSTRACT:
+From September 2006 to June 2009, an autonomous acoustic recorder measured ambient noise north of Barrow, Alaska on the continental slope at 235 m depth, between the Chukchi and Beaufort Seas. Mean monthly spectrum levels, selected to exclude impulsive events, show that months with open-water had the highest noise levels (80-83 dB re: 1 μPa(2)/Hz at 20-50 Hz), months with ice coverage had lower spectral levels (70 dB at 50 Hz), and months with both ice cover and low wind speeds had the lowest noise levels (65 dB at 50 Hz). During ice covered periods in winter-spring there was significant transient energy between 10 and 100 Hz from ice fracture events. During ice covered periods in late spring there were significantly fewer transient events. Ambient noise increased with wind speed by ~ 1 dB/m/s for relatively open-water (0%-25% ice cover) and by ~ 0.5 dB/m/s for nearly complete ice cover (> 75%). In September and early October for all years, mean noise levels were elevated by 2-8 dB due to the presence of seismic surveys in the Chukchi and Beaufort Seas.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: None
+CITED BY COUNT: 83
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Ambient noise level', 'Geology', 'Sea ice', 'Noise (video)', 'Environmental science', 'Arctic ice pack', 'Spring (device)', 'Oceanography', 'Beaufort sea', 'Wind speed', 'Underwater', 'Sound (geography)', 'Atmospheric sciences', 'Climatology', 'Physics', 'Artificial intelligence', 'Computer science', 'Image (mathematics)', 'Thermodynamics']

@@ -1,0 +1,12 @@
+ID: W2165506466
+TITLE: Managing the wildlife tourism commons
+AUTHOR: ['Enrico Pirotta', 'David Lusseau']
+ABSTRACT:
+The nonlethal effects of wildlife tourism can threaten the conservation status of targeted animal populations. In turn, such resource depletion can compromise the economic viability of the industry. Therefore, wildlife tourism exploits resources that can become common pool and that should be managed accordingly. We used a simulation approach to test whether different management regimes (tax, tax and subsidy, cap, cap and trade) could provide socioecologically sustainable solutions. Such schemes are sensitive to errors in estimated management targets. We determined the sensitivity of each scenario to various realistic uncertainties in management implementation and in our knowledge of the population. Scenarios where time quotas were enforced using a tax and subsidy approach, or they were traded between operators were more likely to be sustainable. Importantly, sustainability could be achieved even when operators were assumed to make simple rational economic decisions. We suggest that a combination of the two regimes might offer a robust solution, especially on a small spatial scale and under the control of a self-organized, operator-level institution. Our simulation platform could be parameterized to mimic local conditions and provide a test bed for experimenting different governance solutions in specific case studies.
+
+SOURCE: Ecological applications
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/14-0986.1
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Subsidy', 'Wildlife', 'Sustainability', 'Tourism', 'Business', 'Corporate governance', 'Wildlife tourism', 'Environmental resource management', 'Population', 'Wildlife management', 'Natural resource economics', 'Economics', 'Wildlife conservation', 'Environmental planning', 'Environmental economics', 'Ecology', 'Geography', 'Demography', 'Archaeology', 'Finance', 'Sociology', 'Market economy', 'Biology']

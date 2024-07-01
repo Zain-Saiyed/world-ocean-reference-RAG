@@ -1,0 +1,12 @@
+ID: W2728398294
+TITLE: POPULATION AGING AND THE GLOBAL ECONOMY: WEAKENING DEMOGRAPHIC TAILWINDS REDUCE ECONOMIC GROWTH
+AUTHOR: ['Donald J. Baxter', 'Gretchen Donehower', 'William H. Dow', 'R.D. Lee']
+ABSTRACT:
+Expansion of the working age population has been a powerful engine of the global economy in recent decades, with the resulting demographic “tailwinds” accounting for 48% of annual economic growth from 1990–2015. These tailwinds will slow, however, with rapid global aging in upcoming decades. Building on detailed country-specific economic models and data on age profiles of labor, consumption and savings from the National Transfer Accounts project, we estimate how population changes will affect national incomes to 2040 under likely future demographic scenarios. We predict that global demographic tailwinds will be only 31% as strong in the 2015–2040 period as compared to 1990–2015. Tailwinds that added 1.3% per year to global economic growth during 1990–2015 will drop to only 0.4% per year from 2015–2040. Cumulatively, this projection implies that the global economy in 2040 will be 20% smaller under projected 2015–2040 population trends than it would have been if the population trends of 1990–2015 had continued. In the United States, tailwinds will drop by 0.8% per year, only slightly better than the 0.9% drop in other high income countries. Many low and middle income countries will experience similar slowdowns to economic growth, although countries earlier in the demographic transition will see rising demographically-driven economic growth, such as a 0.4% increase in Nigeria’s tailwind. A major exception is China, which we project will transition from a 1.5% annual tailwind to a 0.6% headwind as China’s working age population actually began to shrink in 2016.
+
+SOURCE: Innovation in aging
+PDF URL: https://academic.oup.com/innovateage/article-pdf/1/suppl_1/451/26099865/igx004.1613.pdf
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Population', 'Economics', 'China', 'Projections of population growth', 'Consumption (sociology)', 'Population projection', 'Demographic transition', 'Population growth', 'Demographic economics', 'Demographic change', 'Population ageing', 'Development economics', 'Geography', 'Demography', 'Sociology', 'Social science', 'Fertility', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W2108651907
+TITLE: Connectivity in the slender Sargassum shrimp (Latreutes fucorum): implications for a Sargasso Sea protected area
+AUTHOR: ['Taylor R. Sehein', 'Amy N. S. Siuda', 'Timothy M. Shank', 'Annette F. Govindarajan']
+ABSTRACT:
+Conservation groups have called for protective measures in the Sargasso Sea, a region characterized by unique planktonic seaweed communities. To better understand population connectivity and facilitate effective conservation efforts, we assessed slender Sargassum shrimp (Latreutes fucorum) 16S rDNA variation along a 3093-km transect. FST analysis and an analysis of molecular variance indicate a highly dispersive population, suggesting that a network of protected areas may be necessary to protect the Sargassum ecosystem.
+
+SOURCE: Journal of plankton research
+PDF URL: https://academic.oup.com/plankt/article-pdf/36/6/1408/4302124/fbu081.pdf
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Sargassum', 'Transect', 'Shrimp', 'Sargasso sea', 'Population', 'Fishery', 'Oceanography', 'Biology', 'Ecology', 'Geography', 'Plankton', 'Algae', 'Geology', 'Demography', 'Sociology']

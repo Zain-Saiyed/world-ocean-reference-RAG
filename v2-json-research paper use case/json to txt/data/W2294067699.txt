@@ -1,0 +1,12 @@
+ID: W2294067699
+TITLE: Mapping the impact of alien species on marine ecosystems: the Mediterranean Sea case study
+AUTHOR: ['Stelios Katsanevakis', 'Fernando Tempera', 'Heliana Teixeira']
+ABSTRACT:
+Abstract Aim To develop a standardized, quantitative method for mapping cumulative impacts of invasive alien species on marine ecosystems. Location The methodology is applied in the Mediterranean Sea but is widely applicable. Methods A conservative additive model was developed to account for the Cumulative IMP acts of invasive AL ien species ( CIMPAL ) on marine ecosystems. According to this model, cumulative impact scores are estimated on the basis of the distributions of invasive species and ecosystems, and both the reported magnitude of ecological impacts and the strength of such evidence. In the Mediterranean Sea case study, the magnitude of impact was estimated for every combination of 60 invasive species and 13 habitats, for every 10 × 10 km cell of the basin. Invasive species were ranked based on their contribution to the cumulative impact score across the Mediterranean. Results The CIMPAL index showed strong spatial heterogeneity. Spatial patterns varied depending on the pathway of initial introduction of the invasive species in the Mediterranean Sea. Species introduced by shipping gave the highest impact scores and impacted a much larger area than those introduced by aquaculture and the Suez Canal. Overall, invasive macroalgae had the highest impact among all taxonomic groups. These results represent the current best estimate of the spatial variation in impacts of invasive alien species on ecosystems, in the Mediterranean Sea. Main Conclusions A framework for mapping cumulative impacts of invasive alien species was developed. The application of this framework in the Mediterranean Sea provided a baseline that can be built upon with future improved information. Such analysis allows the identification of hotspots of highly impacted areas, and prioritization of sites, pathways and species for management actions.
+
+SOURCE: Diversity and distributions
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ddi.12429
+CITED BY COUNT: 122
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Mediterranean sea', 'Marine ecosystem', 'Ecosystem', 'Mediterranean climate', 'Invasive species', 'Ecology', 'Habitat', 'Marine protected area', 'Marine spatial planning', 'Mediterranean Basin', 'Geography', 'Suez canal', 'Environmental science', 'Fishery', 'Biology', 'Environmental resource management', 'Water resource management']

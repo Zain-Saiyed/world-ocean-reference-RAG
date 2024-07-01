@@ -1,0 +1,12 @@
+ID: W2539311279
+TITLE: Impact of hydrothermalism on the ocean iron cycle
+AUTHOR: ['Alessandro Tagliabue', 'J. A. Resing']
+ABSTRACT:
+As the iron supplied from hydrothermalism is ultimately ventilated in the iron-limited Southern Ocean, it plays an important role in the ocean biological carbon pump. We deploy a set of focused sensitivity experiments with a state of the art global model of the ocean to examine the processes that regulate the lifetime of hydrothermal iron and the role of different ridge systems in governing the hydrothermal impact on the Southern Ocean biological carbon pump. Using GEOTRACES section data, we find that stabilization of hydrothermal iron is important in some, but not all regions. The impact on the Southern Ocean biological carbon pump is dominated by poorly explored southern ridge systems, highlighting the need for future exploration in this region. We find inter-basin differences in the isopycnal layer onto which hydrothermal Fe is supplied between the Atlantic and Pacific basins, which when combined with the inter-basin contrasts in oxidation kinetics suggests a muted influence of Atlantic ridges on the Southern Ocean biological carbon pump. Ultimately, we present a range of processes, operating at distinct scales, that must be better constrained to improve our understanding of how hydrothermalism affects the ocean cycling of iron and carbon.This article is part of the themed issue 'Biological and climatic impacts of ocean trace element chemistry'.
+
+SOURCE: Philosophical transactions - Royal Society. Mathematical, Physical and engineering sciences/Philosophical transactions - Royal Society. Mathematical, physical and engineering sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2015.0291
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Environmental science']

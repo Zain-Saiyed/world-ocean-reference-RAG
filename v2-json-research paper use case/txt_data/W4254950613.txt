@@ -1,0 +1,12 @@
+ID: W4254950613
+TITLE: Icebergs
+AUTHOR: ['Grant R. Bigg']
+ABSTRACT:
+Icebergs are a prime example of an environmental phenomenon that brings together multiple disciplines in the polar sciences, from the physics of calving and melting to the geology of their solid deposits and sea floor interactions. Icebergs are also increasingly seen to play key roles in past and present climate change. This book gives a comprehensive, multidisciplinary view of icebergs and their interaction with the Earth system, from the physical and biological interaction with the ocean and climate, to how iceberg detritus informs us about past Earth history. Societal and cultural aspects of icebergs are also examined, in terms of the risks and opportunities posed by icebergs in the modern world, as well as how these might develop in the future. With extensive illustrations and key links to online resources, Icebergs is a valuable reference for academic researchers and graduate students studying oceanography, cryospheric science, climatology and environmental science.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2015
+TYPE: book
+CONCEPTS: ['Iceberg', 'Oceanography', 'Earth science', 'Glacier', 'Ocean science', 'Geography', 'Sea ice', 'Geology', 'Physical geography']

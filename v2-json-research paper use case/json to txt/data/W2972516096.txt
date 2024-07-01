@@ -1,0 +1,12 @@
+ID: W2972516096
+TITLE: Coral forests and Derelict Fishing Gears in submarine canyon systems of the Ligurian Sea
+AUTHOR: ['Michela Giusti', 'Simonepietro Canese', 'Maïa Fourt', 'Marzia Bo', 'Carlo Innocenti', 'Adrien Goujard', 'Boris Daniel', 'Lorenzo Angeletti', 'Marco Taviani', 'L. Aquilina', 'Leonardo Tunesi']
+ABSTRACT:
+Biodiversity of coral forests and occurrence of Derelict Fishing Gears (DFGs) have been assessed in canyon systems of the western Ligurian Sea (Dramont, Monaco, Bordighera, Arma di Taggia and Bergeggi) exposed to different anthropic pressures. Arborescent cnidarians were elected as representative species due to their role as structuring organisms and their vulnerability to DFGs damage; hence, their occurrence, density and distribution were correlated to the presence of DFGs. The canyon systems were mapped using a Multibeam Echo Sounder and visually surveyed by means of a Remotely Operated Vehicle between 20 and 445 m depth. With the exception of the Bergeggi canyon system, all sites host rich assemblages of structuring anthozoans, accounting for more than 2000 colonies belonging to 11 species, predominantly Eunicella cavolinii, Paramuricea clavata, Corallium rubrum, Dendrophyllia cornigera, and E. verrucosa. We noticed that the large structuring gorgonians were affected most, with a high number of entangled colonies. DFGs represent 85% of the marine litter found, and are the most serious threat to resident sessile communities, most noticeably in the eastern canyons. Ports, size and fishing effort of local fleets, and socio-economical differences in the fishing activities, strongly influence the fishing footprints. Our study further confirms the role of submarine canyons as site of high coral biodiversity and vulnerability to the mechanical damages by fishing-related littering, calling for adequate management measures to reduce fishery pressure and concomitant DFGs discharge.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2019
+TYPE: preprint
+CONCEPTS: ['Canyon', 'Submarine canyon', 'Fishing', 'Coral', 'Dredging', 'Oceanography', 'Ecology', 'Fishery', 'Biodiversity', 'Marine reserve', 'Environmental science', 'Geography', 'Biology', 'Geology', 'Cartography']

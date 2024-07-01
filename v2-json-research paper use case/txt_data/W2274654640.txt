@@ -1,0 +1,12 @@
+ID: W2274654640
+TITLE: Remote coral reefs can sustain high growth potential and may match future sea-level trends
+AUTHOR: ['Christopher Perry', 'Gary N. Murphy', 'Nicholas A. J. Graham', 'Shaun K. Wilson', 'Fraser A. Januchowski‐Hartley', 'Holly K. East']
+ABSTRACT:
+Climate-induced disturbances are contributing to rapid, global-scale changes in coral reef ecology. As a consequence, reef carbonate budgets are declining, threatening reef growth potential and thus capacity to track rising sea-levels. Whether disturbed reefs can recover their growth potential and how rapidly, are thus critical research questions. Here we address these questions by measuring the carbonate budgets of 28 reefs across the Chagos Archipelago (Indian Ocean) which, while geographically remote and largely isolated from compounding human impacts, experienced severe (>90%) coral mortality during the 1998 warming event. Coral communities on most reefs recovered rapidly and we show that carbonate budgets in 2015 average +3.7 G (G = kg CaCO3 m(-2) yr(-1)). Most significantly the production rates on Acropora-dominated reefs, the corals most severely impacted in 1998, averaged +8.4 G by 2015, comparable with estimates under pre-human (Holocene) disturbance conditions. These positive budgets are reflected in high reef growth rates (4.2 mm yr(-1)) on Acropora-dominated reefs, demonstrating that carbonate budgets on these remote reefs have recovered rapidly from major climate-driven disturbances. Critically, these reefs retain the capacity to grow at rates exceeding measured regional mid-late Holocene and 20th century sea-level rise, and close to IPCC sea-level rise projections through to 2100.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep18289.pdf
+CITED BY COUNT: 89
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Reef', 'Acropora', 'Coral reef', 'Resilience of coral reefs', 'Oceanography', 'Coral', 'Environmental issues with coral reefs', 'Fringing reef', 'Aquaculture of coral', 'Coral reef organizations', 'Climate change', 'Ecology', 'Fishery', 'Environmental science', 'Archipelago', 'Geology', 'Coral reef protection', 'Biology']

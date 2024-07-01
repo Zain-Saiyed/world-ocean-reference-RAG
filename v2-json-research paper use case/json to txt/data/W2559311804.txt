@@ -1,0 +1,12 @@
+ID: W2559311804
+TITLE: Ecology and biogeography of megafauna and macrofauna at the first known deep-sea hydrothermal vents on the ultraslow-spreading Southwest Indian Ridge
+AUTHOR: ['Jonathan T. Copley', 'Leigh Marsh', 'Adrian G. Glover', 'Veit Hühnerbach', 'Verity Nye', 'William D. Reid', 'Christopher J. Sweeting', 'Benjamin D. Wigham', 'Helena Wiklund']
+ABSTRACT:
+The Southwest Indian Ridge is the longest section of very slow to ultraslow-spreading seafloor in the global mid-ocean ridge system, but the biogeography and ecology of its hydrothermal vent fauna are previously unknown. We collected 21 macro- and megafaunal taxa during the first Remotely Operated Vehicle dives to the Longqi vent field at 37° 47'S 49° 39'E, depth 2800 m. Six species are not yet known from other vents, while six other species are known from the Central Indian Ridge, and morphological and molecular analyses show that two further polychaete species are shared with vents beyond the Indian Ocean. Multivariate analysis of vent fauna across three oceans places Longqi in an Indian Ocean province of vent biogeography. Faunal zonation with increasing distance from vents is dominated by the gastropods Chrysomallon squamiferum and Gigantopelta aegis, mussel Bathymodiolus marisindicus, and Neolepas sp. stalked barnacle. Other taxa occur at lower abundance, in some cases contrasting with abundances at other vent fields, and δ13C and δ15N isotope values of species analysed from Longqi are similar to those of shared or related species elsewhere. This study provides baseline ecological observations prior to mineral exploration activities licensed at Longqi by the United Nations.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep39158.pdf
+CITED BY COUNT: 63
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Hydrothermal vent', 'Fauna', 'Biogeography', 'Ridge', 'Ecology', 'Polychaete', 'Megafauna', 'Oceanography', 'Cold seep', 'Seafloor spreading', 'Chemosynthesis', 'Geology', 'Biology', 'Paleontology', 'Pleistocene', 'Methane', 'Hydrothermal circulation']

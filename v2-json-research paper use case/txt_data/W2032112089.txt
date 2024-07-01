@@ -1,0 +1,12 @@
+ID: W2032112089
+TITLE: Revealing marine cultural ecosystem services in the Black Sea
+AUTHOR: ['Ruth Fletcher', 'Corinne Baulcomb', 'Clare Hall', 'Salman Hussain']
+ABSTRACT:
+Humans and ecosystems are inextricably linked. The marine environment provides significant benefits to humans often described as stemming from ecosystem services (ES). Cultural ecosystem services (CESs) are included in the majority of ecosystem service frameworks in some form. However, there is a lack of characterisation or valuation of CESs often because they are hard to identify. They are therefore frequently left out of assessments leading to a risk that ES frameworks are not being used to their full potential. By analysing responses from the Turkish public to an open question, posed about the sea, it is possible to access the interface between humans and the marine ecosystem. A number of CES categories were identified; aesthetic information, recreation, inspiration for art and design, and cultural heritage. In addition, provisioning (seafood), air purification and climate modification were recognised. The four CES are characterised, including the hard to identify intangible elements, and the underpinning environmental components and linkages were explored. The analysis used revealed the intangible benefits, including a deeply emotional attachment to the marine environment. The understanding of the cultural linkages between the Turkish people and the Black Sea provides a mechansim for designing policy and ecosystem management measures, and for motivating individuals and communities to work towards protecting and enhancing ecosystems. The research also provides evidence to support the case that cultural experiences are frequently built upon the foundations of a healthy natural environment.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 55
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Provisioning', 'Recreation', 'Marine ecosystem', 'Environmental resource management', 'Valuation (finance)', 'Ecosystem', 'Cultural heritage', 'Ecosystem valuation', 'Business', 'Ecosystem health', 'Environmental planning', 'Geography', 'Ecology', 'Environmental science', 'Engineering', 'Biology', 'Telecommunications', 'Archaeology', 'Finance']

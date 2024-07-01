@@ -1,0 +1,12 @@
+ID: W2912598998
+TITLE: The Need for Marine Spatial Planning in Areas Beyond National Jurisdiction
+AUTHOR: ['Susanne Altvater', 'Ruth Fletcher', 'Cristian Passarello']
+ABSTRACT:
+Abstract Marine Spatial Planning (MSP) provides an important tool for sustainably managing mounting pressures on the living and non-living resources in marine areas beyond national jurisdiction (ABNJ). Taking into account the interests of sectors and nature conservation, MSP fosters processes related to stakeholder exchange and collective governance mechanisms. A large amount of experience has been gained at national or regional level on how to apply MSP in cross-border situations. This chapter highlights the existing legal framework and which organisations could foster MSP in ABNJ. Furthermore, it assesses whether existing MSP tools are somehow transferable to ABNJ and shows first results of MSP projects in these areas.
+
+SOURCE: Springer eBooks
+PDF URL: https://link.springer.com/content/pdf/10.1007%2F978-3-319-98696-8_17.pdf
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Jurisdiction', 'Sustainability', 'Marine spatial planning', 'Corporate governance', 'Stakeholder', 'Environmental planning', 'Business', 'Marine protected area', 'Environmental resource management', 'Marine conservation', 'Political science', 'Geography', 'Ecology', 'Economics', 'Public relations', 'Law', 'Finance', 'Habitat', 'Biology']

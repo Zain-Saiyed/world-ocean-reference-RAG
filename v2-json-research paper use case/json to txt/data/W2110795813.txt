@@ -1,0 +1,12 @@
+ID: W2110795813
+TITLE: Late Quaternary Atmospheric CH <sub>4</sub> Isotope Record Suggests Marine Clathrates Are Stable
+AUTHOR: ['Todd Sowers']
+ABSTRACT:
+One explanation for the abrupt increases in atmospheric CH 4 , that occurred repeatedly during the last glacial cycle involves clathrate destabalization events. Because marine clathrates have a distinct deuterium/hydrogen (D/H) isotope ratio, any such destabilization event should cause the D/H ratio of atmospheric CH 4 (δD CH4 ) to increase. Analyses of air trapped in the ice from the second Greenland ice sheet project show stable and/or decreasing δD CH4 values during the end of the Younger and Older Dryas periods and one stadial period, suggesting that marine clathrates were stable during these abrupt warming episodes. Elevated glacial δD CH4 values may be the result of a lower ratio of net to gross wetland CH 4 emissions and an increase in petroleum-based emissions.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 183
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Younger Dryas', 'Glacial period', 'Quaternary', 'Ice core', 'Stadial', 'Clathrate hydrate', 'Stable isotope ratio', 'Geology', 'Oceanography', 'Environmental science', 'Atmospheric sciences', 'Chemistry', 'Geomorphology', 'Paleontology', 'Physics', 'Organic chemistry', 'Hydrate', 'Quantum mechanics']

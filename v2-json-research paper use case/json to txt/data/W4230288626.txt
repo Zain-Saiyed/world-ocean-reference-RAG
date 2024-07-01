@@ -1,0 +1,12 @@
+ID: W4230288626
+TITLE: Research for Regions: Strengthening Marine Technology Transfer for Pacific Island Countries and Biodiversity beyond National Jurisdiction
+AUTHOR: ['Harriet Harden‐Davies']
+ABSTRACT:
+Pacific Island Countries have limited capacity to engage in scientific research involving marine genetic resources in areas beyond national jurisdiction (ABNJ). Marine scientific research and capacity development are central to the regime for technology transfer established by the 1982 United Nations Convention on the Law of the Sea (LOSC), but gaps and ambiguities weaken this framework. In this article, options to strengthen scientific capacity in Pacific Island Countries, through the development of a new international legally binding instrument for the conservation and sustainable use of biodiversity in ABNJ under the LOSC, are examined. The international framework for technology transfer could be strengthened by fostering an integrated approach to the advancement, sharing and application of scientific knowledge. Coordination and collaboration at global and regional levels will be required to increase marine science cooperation, improve access to data and information, deliver training, and overcome barriers to develop institutional and individual scientific capacity.
+
+SOURCE: Brill | Nijhoff eBooks
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Jurisdiction', 'United Nations Convention on the Law of the Sea', 'Marine biodiversity', 'Capacity building', 'Political science', 'Environmental planning', 'Biodiversity', 'Convention', 'International law', 'Marine technology', 'Business', 'Environmental resource management', 'Geography', 'Oceanography', 'Environmental science', 'Ecology', 'Law', 'Biology', 'Geology']

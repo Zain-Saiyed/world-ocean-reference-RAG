@@ -1,0 +1,12 @@
+ID: W2592609675
+TITLE: Marine genetic resources and bioprospecting in the Western Indian Ocean
+AUTHOR: ['Rachel Wynberg']
+ABSTRACT:
+Over the last few decades, increasing attention has been given to the commercial potential of exploiting marine genetic and associated natural product resources for a range of industries including pharmaceuticals, food and beverage, cosmetics, agriculture and industrial biotechnology (eg de la Calle 2009, Arrieta and others, 2010, Arnaud-Haond and others, 2011, Global Ocean Commission 2013, Martins and others, 2014). Furthermore, scientific and technological developments in molecular biology, genomics, and bioinformatics, have led to exciting new possibilities; whilst technological advances in observing and sampling the deep ocean have opened up previously unexplored areas to scientific research (Global Ocean Commission 2013). Since initial reports in the 1950s, some 23 570 natural products have been reported from marine organisms, growing at a rate of 4 per cent per year (Arrieta and others, 2010, Leal and Calado 2015). Only a small number of these products have reached the commercialised phase, yet marine bioprospecting provides significant economic opportunities with the global market for marine biotechnology products alone projected to reach US$ 4 900 million by 2018 (Global Industry Analysts Inc. 2013).
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2016
+TYPE: paratext
+CONCEPTS: ['Bioprospecting', 'Commission', 'Business', 'Biotechnology', 'Natural resource economics', 'Biology', 'Ecology', 'Economics', 'Finance']

@@ -1,0 +1,12 @@
+ID: W173863586
+TITLE: Strangford Lough and the SeaGen Tidal Turbine
+AUTHOR: ['Graham Savidge', 'David Ainsworth', 'Stuart Bearhop', 'Nadja Christen', 'Bjoern Elsaesser', 'Frank Fortune', 'Rich Inger', 'Robert M. Kennedy', 'Angus McRobert', 'Kate E. Plummer', 'Daniel W. Pritchard', 'Carol E. Sparling', 'Trevor Whittaker']
+ABSTRACT:
+The background to and outcomes of the Environmental Monitoring Programme (EMP) required by statutory regulators for the deployment of the SeaGen tidal turbine in Strangford Lough, Northern Ireland, an area with many conservation designations, are described. The EMP, which was set within the context of an adaptive management approach, considered possible effects of the device on local populations of seals and harbour porpoises, representative seabirds and benthic communities. The studies on seals were carried out on both local and regional scales. The ecological studies were complemented by detailed field and hydrodynamic modelling investigations together with a programme of mitigation measures designed to reduce collisions between seals and turbine rotors. In general only minor statistically significant changes in abundance, distribution and animal behaviour patterns were recorded, principally associated with small distributional shifts close to the turbine structure and with the likelihood that these changes were ecologically of little significance. The seal–rotor collision mitigation studies provided a base for the establishment of acceptable collision risk strategies. The EMP highlighted observational, methodological and statistical challenges in assessing the environmental consequences of marine energy devices. A brief review of related studies in Strangford Lough is included.
+
+SOURCE: Humanity and the sea
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2014
+TYPE: book-chapter
+CONCEPTS: ['Context (archaeology)', 'Environmental science', 'Harbour', 'Turbine', 'Benthic zone', 'Collision', 'Habitat', 'Geography', 'Environmental resource management', 'Ecology', 'Oceanography', 'Engineering', 'Geology', 'Computer science', 'Mechanical engineering', 'Computer security', 'Archaeology', 'Biology', 'Programming language']

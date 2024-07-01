@@ -1,0 +1,12 @@
+ID: W2029125006
+TITLE: Odontocete bycatch and depredation in longline fisheries: A review of available literature and of potential solutions
+AUTHOR: ['Derek J. Hamer', 'Simon Childerhouse', 'Nick Gales']
+ABSTRACT:
+Abstract Operational interactions between odontocetes ( i.e. , toothed whales) and longline gear are a global phenomenon that may threaten the conservation of odontocete populations and the economic viability of longline fisheries. This review attempts to define the issue, summarize the trends and geographical extent of its occurrence over the last half century, explore the potential impact on odontocetes and on fisheries, and describe potential acoustic and physical mitigation solutions. Reports of odontocete bycatch rates are highly variable (between 0.002 and 0.231 individuals killed per set) and at least 20 species may be involved. Information about marine mammal population size, migration patterns and life history characteristics are scarce, although at least one population may be in decline due to losses attributable to longline bycatch. Information about the financial impact of depredation on pelagic longline fisheries is also scarce, although estimates of daily fleet‐wide losses range between US$1,034 and US$8,495 (overall fleet income was not reported). Such biological and financial losses may be unsustainable. Recent developments in acoustic and physical mitigation technologies have yielded mixed results. Acoustic mitigation technologies have no moving parts, although require complex electronics. To date, they are insufficiently developed and their efficacy has been difficult to assess. Physical mitigation technologies generally require complex moving parts, although they are relatively simple to develop and assess. Further development and testing remains necessary before widespread implementation would be possible. Development of these approaches should be prioritized and a “toolbox” of various strategies and solutions should be compiled, because a single panacea to the problem is unlikely to emerge.
+
+SOURCE: Marine mammal science
+PDF URL: None
+CITED BY COUNT: 99
+PUBLICATION YEAR: 2012
+TYPE: review
+CONCEPTS: ['Bycatch', 'Fishery', 'Pelagic zone', 'Population', 'Geography', 'Toolbox', 'Biology', 'Computer science', 'Fishing', 'Programming language', 'Demography', 'Sociology']

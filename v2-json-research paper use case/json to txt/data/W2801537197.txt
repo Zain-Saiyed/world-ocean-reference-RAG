@@ -1,0 +1,12 @@
+ID: W2801537197
+TITLE: Nitrous oxide emissions could reduce the blue carbon value of marshes on eutrophic estuaries
+AUTHOR: ['Brittney L Roughan', 'Lisa Kellman', 'E. Smith', 'Gail L. Chmura']
+ABSTRACT:
+The supply of nitrogen to ecosystems has surpassed the Earth's Planetary Boundary and its input to the marine environment has caused estuarine waters to become eutrophic. Excessive supply of nitrogen to salt marshes has been associated with shifts in species' distribution and production, as well as marsh degradation and loss. Our study of salt marshes in agriculturally intensive watersheds shows that coastal eutrophication can have an additional impact. We measured gas fluxes from marsh soils and verified emissions of nitrous oxide (N2O) in nitrogen-loaded marshes while the reference marsh was a sink for this gas. Salt marsh soils are extremely efficient carbon sinks, but emissions of N2O, a greenhouse gas 298 times more potent than CO2, reduces the value of the carbon sink, and in some marshes, may counterbalance any value of stored carbon towards mitigation of climate change. Although more research is merited on the nitrogen transformations and carbon storage in eutrophic marshes, the possibility of significant N2O emissions should be considered when evaluating the market value of carbon in salt marshes subject to high levels of nitrogen loading.
+
+SOURCE: Environmental research letters
+PDF URL: https://iopscience.iop.org/article/10.1088/1748-9326/aab63c/pdf
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Marsh', 'Environmental science', 'Greenhouse gas', 'Eutrophication', 'Blue carbon', 'Sink (geography)', 'Carbon sink', 'Estuary', 'Nitrous oxide', 'Ecosystem', 'Carbon dioxide', 'Carbon sequestration', 'Ecology', 'Wetland', 'Nutrient', 'Biology', 'Cartography', 'Geography']

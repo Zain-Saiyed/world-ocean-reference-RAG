@@ -1,0 +1,12 @@
+ID: W2159042675
+TITLE: The effect of climate change on extreme waves in front of the Dutch coast
+AUTHOR: ['R.C. de Winter', 'Andreas Sterl', 'J. W. de Vries', 'S. L. Weber', 'Gerben Ruessink']
+ABSTRACT:
+Coastal safety may be influenced by climate change, as changes in wave conditions (height, period, direction) may increase the vulnerability of dunes and other coastal defences. Dune erosion depends on mean water level, storm surge height and wave conditions. In this paper, we investigate the change in wave conditions in the North Sea in a changing climate. Until now, the effect of climate change on annual maximum wave conditions has been investigated, while events with higher return periods are actually most damaging for the coast (e.g. severe dune erosion). Here, we use the 17-member Ensemble SimulationS of Extreme weather under Non-linear Climate changeE (ESSENCE) change of climate change simulations, to analyse A1b-induced changes in the mean wave climate, the annual maxima and wave conditions with return periods of up to 1:10,000 years in front of the Dutch coast. The mean wave climate is not projected to differ between 1961–1990 and 2071–2100, with both wave height (H s) and wave period (T m) remaining unaltered. In the annual maximum conditions, a decrease is projected; especially, the annual T m maximum decreases significantly by 0.3 to 0.6 s over the whole study area. Furthermore, we find that the direction of the annual maximum wave conditions shifts from north and north-west to west and south-west for both H s and T m. This is induced by a similar shift in the direction of the extreme wind speeds. Despite the decrease in annual maximum conditions, the return H s and T m are not projected to change significantly as a result of climate change in front of the Dutch coast for the period 2071–2100 relative to 1961–1990.
+
+SOURCE: Ocean dynamics
+PDF URL: https://link.springer.com/content/pdf/10.1007/s10236-012-0551-7.pdf
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Climate change', 'Climatology', 'Storm', 'Environmental science', 'Significant wave height', 'Front (military)', 'Storm surge', 'Return period', 'Wave height', 'Maxima', 'Wind wave', 'Atmospheric sciences', 'Geology', 'Oceanography', 'Geography', 'Flood myth', 'Art', 'Archaeology', 'Performance art', 'Art history']

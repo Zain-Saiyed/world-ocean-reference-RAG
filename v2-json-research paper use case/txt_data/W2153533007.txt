@@ -1,0 +1,12 @@
+ID: W2153533007
+TITLE: Perfluoroalkyl Acids in the Atlantic and Canadian Arctic Oceans
+AUTHOR: ['Jonathan P. Benskin', 'Derek C.G. Muir', 'Barbara Scott', 'Christine Spencer', 'Amila O. De Silva', 'Henrik Kylin', 'Jonathan W. Martin', 'Adam Morris', 'Rainer Lohmann', 'Gregg T. Tomy', 'Bruno Rosenberg', 'Sachi Taniyasu', 'Nobuyoshi Yamashita']
+ABSTRACT:
+We report here on the spatial distribution of C4, C6, and C8 perfluoroalkyl sulfonates, C6–C14 perfluoroalkyl carboxylates, and perfluorooctanesulfonamide in the Atlantic and Arctic Oceans, including previously unstudied coastal waters of North and South America, and the Canadian Arctic Archipelago. Perfluorooctanoate (PFOA) and perfluorooctanesulfonate (PFOS) were typically the dominant perfluoroalkyl acids (PFAAs) in Atlantic water. In the midnorthwest Atlantic/Gulf Stream, sum PFAA concentrations (∑PFAAs) were low (77–190 pg/L) but increased rapidly upon crossing into U.S. coastal water (up to 5800 pg/L near Rhode Island). ∑PFAAs in the northeast Atlantic were highest north of the Canary Islands (280–980 pg/L) and decreased with latitude. In the South Atlantic, concentrations increased near Rio de la Plata (Argentina/Uruguay; 350–540 pg/L ∑PFAAs), possibly attributable to insecticides containing N-ethyl perfluorooctanesulfonamide, or proximity to Montevideo and Buenos Aires. In all other southern hemisphere locations, ∑PFAAs were <210 pg/L. PFOA/PFOS ratios were typically ≥1 in the northern hemisphere, ∼1 near the equator, and ≤1 in the southern hemisphere. In the Canadian Arctic, ∑PFAAs ranged from 40 to 250 pg/L, with perfluoroheptanoate, PFOA, and PFOS among the PFAAs detected at the highest concentrations. PFOA/PFOS ratios (typically ≫1) decreased from Baffin Bay to the Amundsen Gulf, possibly attributable to increased atmospheric inputs. These data help validate global emissions models and contribute to understanding of long-range transport pathways and sources of PFAAs to remote regions.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 137
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Arctic', 'Oceanography', 'Bay', 'Northern Hemisphere', 'Environmental science', 'Latitude', 'Southern Hemisphere', 'The arctic', 'Archipelago', 'Climatology', 'Geography', 'Geology', 'Geodesy']

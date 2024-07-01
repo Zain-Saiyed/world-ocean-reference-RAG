@@ -1,0 +1,12 @@
+ID: W2390719841
+TITLE: Geophysical constraints on the Antarctic sea ice cover
+AUTHOR: ['S. V. Nghiem', 'Ignatius Rigor', 'P. Clemente‐Colón', 'Gregory A. Neumann', 'P.P. Li']
+ABSTRACT:
+The contrast between the slight increase of Antarctic sea ice and the drastic reduction of Arctic sea ice since the 1970s has been a conundrum to be resolved. Sea ice trajectory tracking with satellite scatterometer data in 2008 shows that ice around Antarctica is pushed offshore by katabatic winds influenced by the continental topography. The ice trajectories reveal that sea ice, grown earlier in the ice season, drifts northward away from the Antarctic continent forming a circumpolar frontal ice zone (FIZ) behind the ice edge. The FIZ thereby consists of sea ice that becomes rougher due to a longer exposure to wind and wave actions, and thicker over time by more ice growth and greater snow accumulation. In the Antarctic circumpolar sea ice zone adjacent to the sea ice edge, satellite data in 1999–2009 exhibit a band of strong radar backscatter, which is consistent with the signature of older, thicker, and rougher sea ice with more snow in the FIZ. This sea ice band, as wide as 1000 km, serves as a 'Great Shield,' encapsulating and protecting younger and thinner ice in the internal ice pack. In the young and thin ice region behind the FIZ, ice can grow rapidly as winds continue opening interior areas thereby creating effective "ice factories." In addition, ridging can enhance ice thickness by convergence toward the circumpolar FIZ that is recirculated by westerly winds and currents. During the ice growth season, the FIZ advances until reaching lower-latitude warm waters at a boundary determined by the southern Antarctic Circumpolar Current front that is constrained by seafloor features. These persistent topographical and bathymetric geological factors help sustain the Antarctic sea ice cover. As such, the behavior of Antarctic sea ice is not a paradox as some have suggested, but instead is consistent with the geophysical characteristics in the southern polar region that starkly contrast to those in the Arctic.
+
+SOURCE: Remote sensing of environment
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S0034425716301481
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Sea ice', 'Geology', 'Antarctic sea ice', 'Arctic ice pack', 'Drift ice', 'Ice shelf', 'Sea ice thickness', 'Cryosphere', 'Fast ice', 'Ice divide', 'Ice sheet', 'Oceanography', 'Sea ice concentration', 'Snow', 'Climatology', 'Geomorphology']

@@ -1,0 +1,12 @@
+ID: W2068292608
+TITLE: Integrating climate-related stressor effects on marine organisms: unifying principles linking molecule to ecosystem-level changes
+AUTHOR: ['HO Pörtner']
+ABSTRACT:
+Climate change effects on marine ecosystems involve various stressors, pre dominantly temperature, hypoxia and CO 2 , all of which may combine with further anthropogenic stressors such as pollutants.All life forms respond to these drivers, following potentially common principles, which are insufficiently understood.Specific understanding may be most advanced in animals where the concept of 'oxygen and capacity dependent thermal tolerance' (OCLTT) is an integrator of various effects, linking molecular to ecosystem levels of biological organisation.Recent studies confirm OCLTT involvement in the field, causing changes in species abundance, biogeographical ranges, phenology and species predominance.At the wholeanimal level, performance capacity set by aerobic scope and energy budget, building on baseline energy turnover, links fitness (within a thermal window) and functioning at the ecosystem level.In variable environments like the intertidal zone, animals also exploit their capacity for passive tolerance.While presently the temperature signal appears predominant in the field, effects may well involve other stressors, acting synergistically by narrowing the aerobic OCLTT window.Recent findings support the OCLTT concept as a common physiological basis linking apparently disjunct effects of ocean warming, acidification and hypoxia in a so-called climate syndrome.In brief, warming-induced CO 2 accumulation in body fluids links to the effects of ocean acidification mediated by the weak acid distribution of CO 2 .Temperature-induced hypoxemia links to the hypoxia sensitivity of thermal tolerance.Future work will need to develop proxies for the temperature-dependent effects of climate-related stressors and also identify the principles operative in organisms other than animals and their underlying mechanisms.Mechanism-based modelling efforts are then needed to develop reliable organism to ecosystem projections of future change.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/theme/m470p273.pdf
+CITED BY COUNT: 264
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Ecology', 'Ecosystem', 'Stressor', 'Climate change', 'Intertidal zone', 'Marine ecosystem', 'Biology', 'Environmental science', 'Neuroscience']

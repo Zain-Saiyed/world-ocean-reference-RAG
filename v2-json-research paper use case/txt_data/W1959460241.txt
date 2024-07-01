@@ -1,0 +1,12 @@
+ID: W1959460241
+TITLE: Resource supply alone explains the variability of marine phytoplankton size structure
+AUTHOR: ['Emilio Marañón', 'Pedro Cermeño', 'Mikel Latasa', 'Rémy D. Tadonléké']
+ABSTRACT:
+Abstract Due to the covariation between temperature and resource availability in the surface ocean, a correct assessment of resource supply is crucial to determine if temperature has a direct effect on phytoplankton size structure. To remove the effect of resources, López‐Urrutia and Morán analyzed data subsets with narrow ranges of variation in Chlorophyll a (Chl a) concentration and found that temperature is correlated with Chl a partitioning among size classes, from which they concluded that temperature is an important variable to explain the variability of phytoplankton size structure. Our analysis, however, shows that resource supply varies widely also within these subsets and, importantly, that it is inversely correlated with temperature. Therefore, the relationship between temperature and size structure reflects instead the effect of resources. When groups of samples with similar resource supply conditions are considered, no correlation between temperature and phytoplankton size structure is observed, which invalidates the conclusion of López‐Urrutia and Morán. Even within restricted ranges of variation for phytoplankton biomass and production, changes in resource supply alone are sufficient to explain the variability of phytoplankton size structure in the sea.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.10138
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Biomass (ecology)', 'Chlorophyll a', 'Environmental science', 'Resource (disambiguation)', 'Oceanography', 'Atmospheric sciences', 'Ecology', 'Biology', 'Nutrient', 'Physics', 'Geology', 'Botany', 'Computer science', 'Computer network']

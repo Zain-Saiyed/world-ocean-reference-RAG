@@ -1,0 +1,12 @@
+ID: W2170491632
+TITLE: Inadequate risk assessments – A study on worst-case scenarios related to petroleum exploitation in the Lofoten area
+AUTHOR: ['Kjellrun Hiis Hauge', 'Anne Blanchard', 'Gisle Andersen', 'Ragnhild Boland', 'Bjørn Einar Grøsvik', 'Daniel Howell', 'Sonnich Meier', 'Erik Olsen', 'Frode B. Vikebø']
+ABSTRACT:
+Heated debates are currently taking place on whether to open the area of Lofoten and Vesterålen in Northern Norway for petroleum production. Seismic explorations in this area have indicated promising petroleum resources. The area is known for its unique landscape and as a key spawning and nursery area for several economically important fish species. It hosts significant bird colonies and the world's largest-known deep-sea coral reef. New areas will be opened to petroleum production only if its high environmental value can be maintained. A risk analysis approach has become central to this decision, where the probability of a ‘worst-case scenario’ (a major oil spill) is assessed together with associated environmental impacts. This paper examines and characterises uncertainties associated with these risk assessments and some of the surrounding debates. Further, the paper reveals implications of these uncertainties: (1) potential values embedded in the risk assessments, (2) lack of validity of quantified worst-case scenarios and their probabilities and impacts, (3) limited prospects of filling addressed knowledge gaps and (4) how risk assessments restrict the debate on what issues and uncertainties are considered relevant. Taken together, this suggests that discussions on alternative approaches to decision making should be more prominent in public and political debates.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Petroleum', 'Fishing', 'Great barrier reef', 'Production (economics)', 'Fishery', 'Fish <Actinopterygii>', 'Petroleum exploration', 'Reef', 'Environmental resource management', 'Natural resource economics', 'Environmental planning', 'Geography', 'Environmental science', 'Economics', 'Geology', 'Biology', 'Paleontology', 'Macroeconomics']

@@ -1,0 +1,12 @@
+ID: W1905262806
+TITLE: Long-term variability in the diversity of North Sea zooplankton
+AUTHOR: ['J. A. Lindley', 'SD Batten']
+ABSTRACT:
+Results from the Continuous Plankton Recorder survey were used to study long-term changes in the zooplankton of four regularly sampled areas of the North Sea. The trends in α-diversity are described and analysed. Species associated with inflow of oceanic or mixed waters from the Atlantic or shelf to the west and south of Britain have increased in abundance or frequency of occurrence. Meroplankton have also increased but resident holoplankton and those associated with colder oceanic or mixed waters have declined. These changes have resulted in an increase in the species richness in the areas in the north-western North Sea. There was a period of low diversity in the late 1970s and early 1980s in the most southerly area, furthest from the sources of inflow. The evidence for a long-term trend was stronger than relationships between diversity and either the North Atlantic Oscillation or variation in position of the Gulf Stream in the western Atlantic.
+
+SOURCE: Journal of the Marine Biological Association of the United Kingdom/Journal of the Marine Biological Association of the UK
+PDF URL: None
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Zooplankton', 'Oceanography', 'Species richness', 'Abundance (ecology)', 'North Atlantic oscillation', 'Environmental science', 'Plankton', 'Species diversity', 'Geography', 'Period (music)', 'Fishery', 'Ecology', 'Geology', 'Biology', 'Physics', 'Acoustics']

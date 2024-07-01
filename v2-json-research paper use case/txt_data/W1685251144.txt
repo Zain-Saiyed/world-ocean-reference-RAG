@@ -1,0 +1,12 @@
+ID: W1685251144
+TITLE: Climate change tightens a metabolic constraint on marine habitats
+AUTHOR: ['Curtis Deutsch', 'Aaron Ferrel', 'Brad A. Seibel', 'Hans‐Otto Pörtner', 'Raymond B. Huey']
+ABSTRACT:
+Double trouble It is well known that climate change will warm ocean waters, but dissolved oxygen levels also decrease as water warms. Deutsch et al. combined data on metabolism, temperature, and demographics to determine the impact of marine deoxygenation on a variety of fish and crustacean species (see the Perspective by Kleypas). Predicted climate and oxygen conditions can be expected to contract the distribution of marine fish poleward, as equatorward waters become too low in oxygen to support their energy needs. Furthermore, even the more-poleward waters will have reduced oxygen levels. Science , this issue p. 1132 ; see also p. 1086
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/348/6239/1132.full.pdf
+CITED BY COUNT: 539
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Climate change', 'Oceanography', 'Habitat', 'Environmental science', 'Fish <Actinopterygii>', 'Marine habitats', 'Deoxygenation', 'Demographics', 'Global warming', 'Fishery', 'Ecology', 'Biology', 'Geology', 'Biochemistry', 'Demography', 'Sociology', 'Catalysis']

@@ -1,0 +1,12 @@
+ID: W2530396793
+TITLE: The trophic structure of <i>Spongosorites coralliophaga</i>-coral rubble communities at two northeast Atlantic cold water coral reefs
+AUTHOR: ['Georgios Kazanidis', 'Ursula Witte']
+ABSTRACT:
+We examined the isotopic signatures (δ13C, δ15N) of fauna living in association with the sponge Spongosorites coralliophaga colonizing coral rubble on cold-water coral reefs in the northeast Atlantic – the shallow inshore (122–131 m collection depth) Mingulay 01 area and the deep offshore (683–800 m) Logachev 02 mound. The δ15N signatures of suspended particulate organic matter and three primary consumers, i.e. Spongosorites coralliophaga, Reteporella beaniana and Parazoanthus anguicomus were used as trophic baselines and the resulting trophic structure was compared. In both regions four trophic levels were distinguished. However, the use of S. coralliophaga or R. beaniana as baselines resulted in a skewed trophic structure due to the enriched δ15Ν signatures of these two species on the Logachev 02 mound. Using suspended particulate organic matter and P. anguicomus as baselines, the Mingulay 01 area communities were characterized by elevated relative biomass of lower trophic levels compared to the Logachev 02 mound. Relative biomass of suspension/filter feeders was also higher at the Mingulay 01 area. The two regions differed significantly with regard to the prevailing environmental conditions: apart from the difference in depth and distance from shore, the Mingulay 01 area was characterized by higher primary production in surface waters, tight pelagic–benthic coupling and higher velocity of bottom currents, and it is hypothesized that these characteristics were the main drivers of the observed differences. This study highlighted that multiple trophic baselines can provide a better interpretation of food-web structure and that the use of sponges or bryozoans as baselines across bathymetric gradients should be avoided.
+
+SOURCE: Marine biology research
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/17451000.2016.1216569?needAccess=true
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Trophic level', 'Benthic zone', 'Coral', 'Oceanography', 'Environmental science', 'Reef', 'Coral reef', 'Food web', 'Pelagic zone', 'Ecology', 'Biomass (ecology)', 'Primary producers', 'Geology', 'Biology', 'Phytoplankton', 'Nutrient']

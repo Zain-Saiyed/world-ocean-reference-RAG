@@ -1,0 +1,12 @@
+ID: W2769136655
+TITLE: Microplastic-Associated Biofilms: A Comparison of Freshwater and Marine Environments
+AUTHOR: ['Jesse P. Harrison', 'Timothy J. Hoellein', 'Melanie Sapp', 'Alexander S. Tagg', 'Yon Ju‐Nam', 'Jesús J. Ojeda']
+ABSTRACT:
+Microplastics (<5 mm particles) occur within both engineered and natural freshwater ecosystems, including wastewater treatment plants, lakes, rivers, and estuaries. While a significant proportion of microplastic pollution is likely sequestered within freshwater environments, these habitats also constitute an important conduit of microscopic polymer particles to oceans worldwide. The quantity of aquatic microplastic waste is predicted to dramatically increase over the next decade, but the fate and biological implications of this pollution are still poorly understood. A growing body of research has aimed to characterize the formation, composition, and spatiotemporal distribution of microplastic-associated (“plastisphere”) microbial biofilms. Plastisphere microorganisms have been suggested to play significant roles in pathogen transfer, modulation of particle buoyancy, and biodegradation of plastic polymers and co-contaminants, yet investigation of these topics within freshwater environments is at a very early stage. Here, what is known about marine plastisphere assemblages is systematically compared with up-to-date findings from freshwater habitats. Through analysis of key differences and likely commonalities between environments, we discuss how an integrated view of these fields of research will enhance our knowledge of the complex behavior and ecological impacts of microplastic pollutants.
+
+SOURCE: The handbook of environmental chemistry
+PDF URL: https://link.springer.com/content/pdf/10.1007%2F978-3-319-61615-5_9.pdf
+CITED BY COUNT: 115
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Microplastics', 'Plastic pollution', 'Environmental science', 'Marine habitats', 'Freshwater ecosystem', 'Ecology', 'Aquatic ecosystem', 'Habitat', 'Pollution', 'Pollutant', 'Ecosystem', 'Marine ecosystem', 'Biology']

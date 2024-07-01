@@ -1,0 +1,12 @@
+ID: W2808355995
+TITLE: Loss of coral reef growth capacity to track future increases in sea level
+AUTHOR: ['Christopher Perry', 'Lorenzo Álvarez‐Filip', 'Nicholas A. J. Graham', 'Peter J. Mumby', 'Shaun K. Wilson', 'Paul S. Kench', 'Derek P. Manzello', 'Kyle M. Morgan', 'Aimée B. A. Slangen', 'Damian P. Thomson', 'Fraser A. Januchowski‐Hartley', 'S Smithers', 'Robert S. Steneck', 'R. Carlton', 'Evan Edinger', 'Ian C. Enochs', 'Nuria Estrada‐Saldívar', 'Michael D. E. Haywood', 'Graham Kolodziej', 'Gary N. Murphy', 'Esmeralda Pérez‐Cervantes', 'Adam Suchley', 'Lauren Valentino', 'Robert Boenish', 'Margaret Wilson', 'Chancey MacDonald']
+ABSTRACT:
+Sea-level rise (SLR) is predicted to elevate water depths above coral reefs and to increase coastal wave exposure as ecological degradation limits vertical reef growth, but projections lack data on interactions between local rates of reef growth and sea level rise. Here we calculate the vertical growth potential of more than 200 tropical western Atlantic and Indian Ocean reefs, and compare these against recent and projected rates of SLR under different Representative Concentration Pathway (RCP) scenarios. Although many reefs retain accretion rates close to recent SLR trends, few will have the capacity to track SLR projections under RCP4.5 scenarios without sustained ecological recovery, and under RCP8.5 scenarios most reefs are predicted to experience mean water depth increases of more than 0.5 m by 2100. Coral cover strongly predicts reef capacity to track SLR, but threshold cover levels that will be necessary to prevent submergence are well above those observed on most reefs. Urgent action is thus needed to mitigate climate, sea-level and future ecological changes in order to limit the magnitude of future reef submergence. Analyses of current coral reef growth rates in the tropical western Atlantic and Indian Ocean show that few reefs will have the capacity to track sea-level rise projections under Representative Concentration Pathway scenarios without sustained ecological recovery.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 253
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coral reef', 'Coral', 'Oceanography', 'Reef', 'Fishery', 'Track (disk drive)', 'Environmental science', 'Environmental issues with coral reefs', 'Resilience of coral reefs', 'Geology', 'Biology', 'Engineering', 'Mechanical engineering']

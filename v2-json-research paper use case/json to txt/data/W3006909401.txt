@@ -1,0 +1,12 @@
+ID: W3006909401
+TITLE: UN Decade on Ecosystem Restoration 2021–2030—What Chance for Success in Restoring Coastal Ecosystems?
+AUTHOR: ['Nathan J. Waltham', 'Michael Elliott', 'Joe Lee', 'Catherine E. Lovelock', 'Carlos M. Duarte', 'Christina Buelow', 'Charles A. Simenstad', 'Ivan Nagelkerken', 'Louw Claassens', 'Colin Kuo-Chang Wen', 'M. Barletta', 'Rod M. Connolly', 'Chris L. Gillies', 'William J. Mitsch', 'Matthew B. Ogburn', 'Jemma Purandare', 'Hugh P. Possingham', 'Marcus Sheaves']
+ABSTRACT:
+OPINION article Front. Mar. Sci., 20 February 2020Sec. Marine Ecosystem Ecology Volume 7 - 2020 | https://doi.org/10.3389/fmars.2020.00071
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2020.00071/pdf
+CITED BY COUNT: 198
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Coastal ecosystem', 'Environmental resource management', 'Marine ecosystem', 'Environmental science', 'Ecology', 'Fishery', 'Biology']

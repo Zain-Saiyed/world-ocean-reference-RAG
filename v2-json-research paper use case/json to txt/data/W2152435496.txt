@@ -1,0 +1,12 @@
+ID: W2152435496
+TITLE: The biodiversity of the deep Southern Ocean benthos
+AUTHOR: ['Angelika Brandt', 'Claude De Broyer', 'Ilse De Mesel', 'Kari E. Ellingsen', 'Andrew J. Gooday', 'Brigitte Hilbig', 'Katrin Linse', 'M.R.A. Thomson', 'Paul A. Tyler']
+ABSTRACT:
+Our knowledge of the biodiversity of the Southern Ocean (SO) deep benthos is scarce. In this review, we describe the general biodiversity patterns of meio-, macro- and megafaunal taxa, based on historical and recent expeditions, and against the background of the geological events and phylogenetic relationships that have influenced the biodiversity and evolution of the investigated taxa. The relationship of the fauna to environmental parameters, such as water depth, sediment type, food availability and carbonate solubility, as well as species interrelationships, probably have shaped present-day biodiversity patterns as much as evolution. However, different taxa exhibit different large-scale biodiversity and biogeographic patterns. Moreover, there is rarely any clear relationship of biodiversity pattern with depth, latitude or environmental parameters, such as sediment composition or grain size. Similarities and differences between the SO biodiversity and biodiversity of global oceans are outlined. The high percentage (often more than 90%) of new species in almost all taxa, as well as the high degree of endemism of many groups, may reflect undersampling of the area, and it is likely to decrease as more information is gathered about SO deep-sea biodiversity by future expeditions. Indeed, among certain taxa such as the Foraminifera, close links at the species level are already apparent between deep Weddell Sea faunas and those from similar depths in the North Atlantic and Arctic. With regard to the vertical zonation from the shelf edge into deep water, biodiversity patterns among some taxa in the SO might differ from those in other deep-sea areas, due to the deep Antarctic shelf and the evolution of eurybathy in many species, as well as to deep-water production that can fuel the SO deep sea with freshly produced organic matter derived not only from phytoplankton, but also from ice algae.
+
+SOURCE: Philosophical transactions - Royal Society. Biological sciences
+PDF URL: None
+CITED BY COUNT: 173
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Benthos', 'Benthic zone', 'Taxon', 'Ecology', 'Global biodiversity', 'Geography', 'Oceanography', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2081793201
+TITLE: Rapid Bottom Melting Widespread near Antarctic Ice Sheet Grounding Lines
+AUTHOR: ['Eric Rignot', 'Stanley S. Jacobs']
+ABSTRACT:
+As continental ice from Antarctica reaches the grounding line and begins to float, its underside melts into the ocean. Results obtained with satellite radar interferometry reveal that bottom melt rates experienced by large outlet glaciers near their grounding lines are far higher than generally assumed. The melting rate is positively correlated with thermal forcing, increasing by 1 meter per year for each 0.1 degrees C rise in ocean temperature. Where deep water has direct access to grounding lines, glaciers and ice shelves are vulnerable to ongoing increases in ocean temperature.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 503
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Antarctic ice sheet', 'Geology', 'Ice sheet', 'Ice shelf', 'Glacier', 'Ice stream', 'Lead (geology)', 'Ice divide', 'Oceanography', 'Cryosphere', 'Geomorphology', 'Sea ice']

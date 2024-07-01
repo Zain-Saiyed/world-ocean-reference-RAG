@@ -1,0 +1,12 @@
+ID: W2291279277
+TITLE: Quantifying dispersal from hydrothermal vent fields in the western Pacific Ocean
+AUTHOR: ['Satoshi Mitarai', 'Hiromi Watanabe', 'Yuichi Nakajima', 'Alexander F. Shchepetkin', 'James C. McWilliams']
+ABSTRACT:
+Hydrothermal vent fields in the western Pacific Ocean are mostly distributed along spreading centers in submarine basins behind convergent plate boundaries. Larval dispersal resulting from deep-ocean circulations is one of the major factors influencing gene flow, diversity, and distributions of vent animals. By combining a biophysical model and deep-profiling float experiments, we quantify potential larval dispersal of vent species via ocean circulation in the western Pacific Ocean. We demonstrate that vent fields within back-arc basins could be well connected without particular directionality, whereas basin-to-basin dispersal is expected to occur infrequently, once in tens to hundreds of thousands of years, with clear dispersal barriers and directionality associated with ocean currents. The southwest Pacific vent complex, spanning more than 4,000 km, may be connected by the South Equatorial Current for species with a longer-than-average larval development time. Depending on larval dispersal depth, a strong western boundary current, the Kuroshio Current, could bridge vent fields from the Okinawa Trough to the Izu-Bonin Arc, which are 1,200 km apart. Outcomes of this study should help marine ecologists estimate gene flow among vent populations and design optimal marine conservation plans to protect one of the most unusual ecosystems on Earth.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/113/11/2976.full.pdf
+CITED BY COUNT: 95
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Hydrothermal vent', 'Oceanography', 'Boundary current', 'Ocean current', 'Geology', 'Oceanic basin', 'Structural basin', 'Marine ecosystem', 'Deep sea', 'Ecology', 'Ecosystem', 'Paleontology', 'Biology', 'Population', 'Hydrothermal circulation', 'Demography', 'Sociology']

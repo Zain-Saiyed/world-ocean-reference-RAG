@@ -1,0 +1,12 @@
+ID: W2759380542
+TITLE: Anthropogenic noise pollution from pile-driving disrupts the structure and dynamics of fish shoals
+AUTHOR: ['James E. Herbert‐Read', 'Louise Kremer', 'Rick Bruintjes', 'Andrew N. Radford', 'Christos C. Ioannou']
+ABSTRACT:
+Noise produced from a variety of human activities can affect the physiology and behaviour of individual animals, but whether noise disrupts the social behaviour of animals is largely unknown. Animal groups such as flocks of birds or shoals of fish use simple interaction rules to coordinate their movements with near neighbours. In turn, this coordination allows individuals to gain the benefits of group living such as reduced predation risk and social information exchange. Noise could change how individuals interact in groups if noise is perceived as a threat, or if it masked, distracted or stressed individuals, and this could have impacts on the benefits of grouping. Here, we recorded trajectories of individual juvenile seabass (Dicentrarchus labrax) in groups under controlled laboratory conditions. Groups were exposed to playbacks of either ambient background sound recorded in their natural habitat, or playbacks of pile-driving, commonly used in marine construction. The pile-driving playback affected the structure and dynamics of the fish shoals significantly more than the ambient-sound playback. Compared to the ambient-sound playback, groups experiencing the pile-driving playback became less cohesive, less directionally ordered, and were less correlated in speed and directional changes. In effect, the additional-noise treatment disrupted the abilities of individuals to coordinate their movements with one another. Our work highlights the potential for noise pollution from pile-driving to disrupt the collective dynamics of fish shoals, which could have implications for the functional benefits of a group's collective behaviour.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2017.1627
+CITED BY COUNT: 92
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Shoal', 'Noise (video)', 'Noise pollution', 'QUIET', 'Ambient noise level', 'Sound exposure', 'Predation', 'Environmental science', 'Fish <Actinopterygii>', 'Pile', 'Ecology', 'Sound (geography)', 'Psychology', 'Fishery', 'Acoustics', 'Biology', 'Computer science', 'Geology', 'Oceanography', 'Physics', 'Noise reduction', 'Quantum mechanics', 'Artificial intelligence', 'Image (mathematics)', 'Algorithm']

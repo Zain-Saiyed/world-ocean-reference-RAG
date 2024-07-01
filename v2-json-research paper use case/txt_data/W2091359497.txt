@@ -1,0 +1,12 @@
+ID: W2091359497
+TITLE: Deep-water longline fishing has reduced impact on Vulnerable Marine Ecosystems
+AUTHOR: ['Christopher K. Pham', 'Hugo Diogo', 'Gui Menezes', 'Filipe M. Porteiro', 'Andreia Braga‐Henriques', 'Frédéric Vandeperre', 'Telmo Morato']
+ABSTRACT:
+Bottom trawl fishing threatens deep-sea ecosystems, modifying the seafloor morphology and its physical properties, with dramatic consequences on benthic communities. Therefore, the future of deep-sea fishing relies on alternative techniques that maintain the health of deep-sea ecosystems and tolerate appropriate human uses of the marine environment. In this study, we demonstrate that deep-sea bottom longline fishing has little impact on vulnerable marine ecosystems, reducing bycatch of cold-water corals and limiting additional damage to benthic communities. We found that slow-growing vulnerable species are still common in areas subject to more than 20 years of longlining activity and estimate that one deep-sea bottom trawl will have a similar impact to 296–1,719 longlines, depending on the morphological complexity of the impacted species. Given the pronounced differences in the magnitude of disturbances coupled with its selectivity and low fuel consumption, we suggest that regulated deep-sea longlining can be an alternative to deep-sea bottom trawling.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep04837.pdf
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Trawling', 'Fishing', 'Bottom trawling', 'Marine ecosystem', 'Bycatch', 'Benthic zone', 'Deep sea', 'Fishery', 'Ecosystem', 'Oceanography', 'Environmental science', 'Ecology', 'Biology', 'Geology']

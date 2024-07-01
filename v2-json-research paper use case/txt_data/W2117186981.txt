@@ -1,0 +1,12 @@
+ID: W2117186981
+TITLE: Commercializing bycatch can push a fishery beyond economic extinction
+AUTHOR: ['Aaron Savio Lobo', 'Andrew Balmford', 'Rohan Arthur', 'Andrea Manica']
+ABSTRACT:
+Abstract Tropical bottom trawling is among the most destructive fishing practices, catching large quantities of bycatch, which are usually discarded. We used questionnaire surveys of trawl fishers to look at changes in catches over the last 30 years (1978–2008) along India's Coromandel Coast. We show that catches and income from target species have declined sharply over the last two decades. Meanwhile, costs of fishing have increased substantially and now almost exceed income from target species. Over the same period, bycatch (which was traditionally discarded) has now become increasingly marketable, being sold for local consumption, and as fish meal to supply the region's rapidly growing poultry industry. Without this income from bycatch, the fishery would scarcely be economically viable. While such a change in the use of bycatch is good news in terms of reducing waste and improving livelihoods, it is also responsible for pushing the Indian bottom trawl fishery beyond the economic extinction of its target species.
+
+SOURCE: Conservation letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1755-263X.2010.00117.x
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Bycatch', 'Fishery', 'Fishing', 'Trawling', 'Bottom trawling', 'Livelihood', 'Discards', 'Productivity', 'Business', 'Geography', 'Economics', 'Biology', 'Agriculture', 'Economic growth', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W1998762612
+TITLE: Multidecadal Sea Level and Gyre Circulation Variability in the Northwestern Tropical Pacific Ocean
+AUTHOR: ['Bo Qiu', 'Shuiming Chen']
+ABSTRACT:
+Abstract Sea level rise with the trend &amp;gt;10 mm yr−1 has been observed in the tropical western Pacific Ocean over the 1993–2009 period. This rate is 3 times faster than the global-mean value of the sea level rise. Analyses of the satellite altimeter data and repeat hydrographic data along 137°E reveal that this regionally enhanced sea level rise is thermosteric in nature and vertically confined to a patch in the upper ocean above the 12°C isotherm. Dynamically, this regional sea level trend is accompanied by southward migration and strengthening of the North Equatorial Current (NEC) and North Equatorial Countercurrent (NECC). Using a 1½-layer reduced-gravity model forced by the ECMWF reanalysis wind stress data, the authors find that both the observed sea level rise and the NEC/NECC’s southward migrating and strengthening trends are largely attributable to the upper-ocean water mass redistribution caused by the surface wind stresses of the recently strengthened atmospheric Walker circulation. Based on the long-term model simulation, it is further found that the observed southward migrating and strengthening trends of the NEC and NECC began in the early 1990s. In the two decades prior to 1993, the NEC and NECC had weakened and migrated northward in response to a decrease in the trade winds across the tropical Pacific Ocean.
+
+SOURCE: Journal of physical oceanography
+PDF URL: https://journals.ametsoc.org/downloadpdf/journals/phoc/42/1/jpo-d-11-061.1.pdf
+CITED BY COUNT: 150
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'Climatology', 'Oceanography', 'Geology', 'Hydrography', 'Ocean current', 'Altimeter', 'Wind stress', 'Upwelling', 'Sea level', 'Subtropics', 'Geodesy', 'Fishery', 'Biology']

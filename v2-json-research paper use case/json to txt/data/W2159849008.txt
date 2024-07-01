@@ -1,0 +1,12 @@
+ID: W2159849008
+TITLE: Global reductions in seafloor biomass in response to climate change
+AUTHOR: ['Daniel O. B. Jones', 'Andrew Yool', 'Chih‐Lin Wei', 'Stephanie Henson', 'Henry A. Ruhl', 'Reg Watson', 'Marion Gehlen']
+ABSTRACT:
+Seafloor organisms are vital for healthy marine ecosystems, contributing to elemental cycling, benthic remineralization, and ultimately sequestration of carbon. Deep-sea life is primarily reliant on the export flux of particulate organic carbon from the surface ocean for food, but most ocean biogeochemistry models predict global decreases in export flux resulting from 21st century anthropogenically induced warming. Here we show that decadal-to-century scale changes in carbon export associated with climate change lead to an estimated 5.2% decrease in future (2091-2100) global open ocean benthic biomass under RCP8.5 (reduction of 5.2 Mt C) compared with contemporary conditions (2006-2015). Our projections use multi-model mean export flux estimates from eight fully coupled earth system models, which contributed to the Coupled Model Intercomparison Project Phase 5, that have been forced by high and low representative concentration pathways (RCP8.5 and 4.5, respectively). These export flux estimates are used in conjunction with published empirical relationships to predict changes in benthic biomass. The polar oceans and some upwelling areas may experience increases in benthic biomass, but most other regions show decreases, with up to 38% reductions in parts of the northeast Atlantic. Our analysis projects a future ocean with smaller sized infaunal benthos, potentially reducing energy transfer rates though benthic multicellular food webs. More than 80% of potential deep-water biodiversity hotspots known around the world, including canyons, seamounts, and cold-water coral reefs, are projected to experience negative changes in biomass. These major reductions in biomass may lead to widespread change in benthic ecosystems and the functions and services they provide.
+
+SOURCE: Global change biology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.12480
+CITED BY COUNT: 144
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Environmental science', 'Oceanography', 'Biomass (ecology)', 'Effects of global warming on oceans', 'Benthos', 'Upwelling', 'Biogeochemical cycle', 'Representative Concentration Pathways', 'Climate change', 'Coupled model intercomparison project', 'Global warming', 'Ecology', 'Climate model', 'Geology', 'Biology']

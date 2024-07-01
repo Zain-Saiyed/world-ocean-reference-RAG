@@ -1,0 +1,12 @@
+ID: W2896224553
+TITLE: Large increase in global storm runoff extremes driven by climate and anthropogenic changes
+AUTHOR: ['Jiabo Yin', 'Pierre Gentine', 'Sha Zhou', 'Sylvia Sullivan', 'Ren Wang', 'Yao Zhang', 'Shenglian Guo']
+ABSTRACT:
+Weather extremes have widespread harmful impacts on ecosystems and human communities with more deaths and economic losses from flash floods than any other severe weather-related hazards. Flash floods attributed to storm runoff extremes are projected to become more frequent and damaging globally due to a warming climate and anthropogenic changes, but previous studies have not examined the response of these storm runoff extremes to naturally and anthropogenically driven changes in surface temperature and atmospheric moisture content. Here we show that storm runoff extremes increase in most regions at rates higher than suggested by Clausius-Clapeyron scaling, which are systematically close to or exceed those of precipitation extremes over most regions of the globe, accompanied by large spatial and decadal variability. These results suggest that current projected response of storm runoff extremes to climate and anthropogenic changes may be underestimated, posing large threats for ecosystem and community resilience under future warming conditions.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-06765-2.pdf
+CITED BY COUNT: 273
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Environmental science', 'Storm', 'Surface runoff', 'Flash flood', 'Precipitation', 'Climate change', 'Ecosystem', 'Global warming', 'Climatology', 'Flood myth', 'Ecology', 'Geography', 'Meteorology', 'Geology', 'Archaeology', 'Biology']

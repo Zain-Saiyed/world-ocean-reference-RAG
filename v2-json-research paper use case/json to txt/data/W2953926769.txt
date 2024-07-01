@@ -1,0 +1,12 @@
+ID: W2953926769
+TITLE: Disentangling the relative impacts of climate change and human activities on fluvial sediment supply to the coast by the world’s large rivers: Pearl River Basin, China
+AUTHOR: ['Roshanka Ranasinghe', 'Chuang Wu', 'John Conallin', 'Trang Minh Duong', 'Edward J. Anthony']
+ABSTRACT:
+Abstract The world’s large rivers are under stress and experiencing unprecedented changes in hydrology, ecosystems, and fluvial sediment loads. Many of these rivers terminate at the great deltas of the world (home to 500 million people), which depend on fluvial sediments for their very existence. While fluvial sediment loads of large rivers have already been greatly modified by human activities, climate change is expected to further exacerbate the situation. But how does the effect of climate change on fluvial sediment loads compare with that of human impacts? Here, we address this question by combining historical observations and 21 st century projections for one of the world’s largest 25 rivers containing two mega dams; Pearl River, China. Our analysis shows that variations in fluvial sediment supply to the coast from the Pearl river over a ~150 year study period are dominated by human activities. Projected climate change driven 21 st century increases in riverflow will only compensate for about 1% of the human induced deficit in sediment load, leading to the coastal zone being starved of about 6000 Mt of sediment over the remainder of this century. A similar dominance of human impacts on fluvial sediment supply is likely at other heavily engineered rivers.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-45442-2.pdf
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Fluvial', 'Sediment', 'Climate change', 'Pearl', 'Drainage basin', 'China', 'Hydrology (agriculture)', 'Environmental science', 'Sediment transport', 'Dominance (genetics)', 'Structural basin', 'Geology', 'Physical geography', 'Oceanography', 'Geography', 'Geomorphology', 'Archaeology', 'Biochemistry', 'Chemistry', 'Cartography', 'Geotechnical engineering', 'Gene']

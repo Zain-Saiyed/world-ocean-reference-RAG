@@ -1,0 +1,12 @@
+ID: W2174443006
+TITLE: Using Ecological Thresholds to Inform Resource Management: Current Options and Future Possibilities
+AUTHOR: ['Melissa M. Foley', 'Rebecca G. Martone', 'Michael D. Fox', 'Carrie V. Kappel', 'Lindley A. Mease', 'A. S. Erickson', 'Benjamin S. Halpern', 'Kimberly A. Selkoe', 'Peter Taylor', 'Courtney Scarborough']
+ABSTRACT:
+In the face of growing human impacts on ecosystems, scientists and managers recognize the need to better understand thresholds and nonlinear dynamics in ecological systems to help set management targets. However, our understanding of the factors that drive threshold dynamics, and when and how rapidly thresholds will be crossed is currently limited in many systems. In spite of these limitations, there are approaches available to practitioners today—including ecosystem monitoring, statistical methods to identify thresholds and indicators, and threshold-based adaptive management—that can be used to help avoid ecological thresholds or restore systems that have crossed them. We briefly review the current state of knowledge and then use real-world examples to demonstrate how resource managers can use available approaches to avoid crossing ecological thresholds. We also highlight new tools and indicators being developed that have the potential to enhance our ability to detect change, predict when a system is approaching an ecological threshold, or restore systems that have already crossed a tipping point.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2015.00095/pdf
+CITED BY COUNT: 64
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Adaptive management', 'Computer science', 'Environmental resource management', 'Resource (disambiguation)', 'Ecological systems theory', 'Tipping point (physics)', 'Set (abstract data type)', 'Ecosystem management', 'Ecology', 'Risk analysis (engineering)', 'Ecosystem', 'Business', 'Environmental science', 'Engineering', 'Electrical engineering', 'Biology', 'Programming language', 'Computer network']

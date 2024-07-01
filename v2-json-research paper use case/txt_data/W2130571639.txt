@@ -1,0 +1,12 @@
+ID: W2130571639
+TITLE: Status of six non-native marine species in the coastal environment of Hong Kong, 30 years after their first record
+AUTHOR: ['Juan-Carlos Astudillo', 'Jane C. Y. Wong', 'Clément P. Dumont', 'Timothy C. Bonebrake', 'Kenneth M.Y. Leung']
+ABSTRACT:
+This is the first systematic assessment conducted on fouling communities to determine the current status of six non-native marine invertebrates that were first recorded in Hong Kong three decades ago.They include the solitary ascidian, Ciona intestinalis; the slipper limpet, Crepidula onyx; the bryozoan, Bugula californica; the Caribbean bivalve, Mytilopsis sallei; the Mediterranean mussel, Mytilus galloprovincialis; and the boring isopod, Sphaeroma walkeri.Field surveys were conducted at 31 locations during wet (2011) and dry (2012) seasons and included fouling communities on piers and mariculture zones from estuarine to oceanic zones.The sampling was conducted by using photo-quadrats, destructive quadrats and field observations.To detect temporal changes in the abundance and recruitment of the sedentary non-native species, three piers were monitored with permanent photo-quadrats and recruitment panels for a one year period.We examined the relationship between seawater quality data available for Hong Kong and the abundances of fouling and non-native species.Only four of the six target non-native species were recorded in this survey.The isopod Sphaeroma walkeri was common and widely distributed in fouling communities in Hong Kong, while Ciona intestinalis, Crepidula onyx, and Mytilopsis sallei were uncommon and mainly restricted to areas with intensive human activities and poor seawater quality.These findings suggest that near shore human activities and poor water quality could increase the risk of establishment of non-native species in Hong Kong's marine fouling communities.
+
+SOURCE: BioInvasions Records
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Introduced species', 'Geography', 'Invasive species', 'Fishery', 'Marine species', 'Biology', 'Ecology']

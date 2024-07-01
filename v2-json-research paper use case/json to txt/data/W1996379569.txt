@@ -1,0 +1,12 @@
+ID: W1996379569
+TITLE: Assessing vulnerability to climate change and socioeconomic stressors in the Reef Islands group, Solomon Islands
+AUTHOR: ['Thomas Birk']
+ABSTRACT:
+AbstractThis article assesses the vulnerability to climatic and socioeconomic stresses in the Reef Islands, Solomon Islands, an atoll island group in the Southwest Pacific. Climate change and the associated sea-level rise are often seen as the most pressing challenges to atoll communities, yet this study aims at critically re-assessing this view by placing climate in the context of a range of other internal and external stressors affecting local livelihoods, including population growth, inadequate land use practices, and lack of economic potential, as well as external factors such as poorly developed infrastructure, economic marginalization and weak governance of Solomon Islands. Findings suggest that some of these non-climatic stresses are currently – and in the short term – more important determinants of local vulnerability than climate change and sea-level rise. Certainly, these stresses are likely to be exacerbated by different elements of climate change in the short, medium and long term, but generally speaking climate change does not appear to be a major driver of the current changes in the islands. On the basis of these observations, the possible adaptation options, relevant to different time scales, are discussed.Keywords: adaptationclimate changelivelihoodssmall islandsPacificvulnerability AcknowledgementThe author is grateful to the communities in Reef Islands for sharing their time, space and knowledge. Moreover, the author is highly appreciative of the assistance provided by Douglas Yee, Director of the Climate Change Division in Honiara. Special thanks go to field assistants Jacob Tebby in Reef Islands and James Tavake in Honiara for their patience, help and friendship, as well to Kjeld Rasmussen for valuable suggestions that have led to improvements of the manuscript. Lastly, the author greatly appreciates the insightful comments of the two anonymous reviewers of the paper.
+
+SOURCE: Geografisk tidsskrift
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Climate change', 'Atoll', 'Vulnerability (computing)', 'Geography', 'Small Island Developing States', 'Context (archaeology)', 'Livelihood', 'Reef', 'Oceanography', 'Computer security', 'Archaeology', 'Computer science', 'Agriculture', 'Geology']

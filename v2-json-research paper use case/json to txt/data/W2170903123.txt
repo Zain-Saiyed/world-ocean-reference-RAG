@@ -1,0 +1,12 @@
+ID: W2170903123
+TITLE: Rising Arctic Ocean temperatures cause gas hydrate destabilization and ocean acidification
+AUTHOR: ['Arne Biastoch', 'Tina Treude', 'Lars Rüpke', 'Ulf Riebesell', 'Christina Roth', 'Ewa Burwicz', 'Wonsun Park', 'Mojib Latif', 'Claus W. Böning', 'Gurvan Madec', 'Klaus Wallmann']
+ABSTRACT:
+published or not.The documents may come from teaching and research institutions in France or abroad, or from public or private research centers.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 266
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Methane', 'Water column', 'Global warming', 'Environmental science', 'Clathrate hydrate', 'Arctic', 'Oceanography', 'Bottom water', 'Permafrost', 'Climate change', 'Carbon dioxide', 'Atmosphere (unit)', 'Ocean acidification', 'Inflow', 'Geology', 'Atmospheric sciences', 'Hydrate', 'Chemistry', 'Organic chemistry', 'Physics', 'Thermodynamics']

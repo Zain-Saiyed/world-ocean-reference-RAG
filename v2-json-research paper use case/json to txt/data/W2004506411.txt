@@ -1,0 +1,12 @@
+ID: W2004506411
+TITLE: Polychaete species diversity in the central Pacific abyss: local and regional patterns, and relationships with productivity
+AUTHOR: ['Adrian G. Glover', 'Craig R. Smith', 'Gordon L.J. Paterson', 'George Wilson', 'L. E. Hawkins', 'M. Sheader']
+ABSTRACT:
+We investigated the relationship between productivity and local species diversity, and the degree of species turnover, at 8 sites on the central equatorial Pacific abyssal plain.The 8 sites span a 4-fold difference in seafloor particulate organic carbon (POC) flux and, hence, community productivity.The sites are similar in water depth (4300 to 5100 m), degree of isolation from terrigenous influences, and hydrodynamic regime.Three sites lie under the influence of equatorial upwelling, and are subject to enhanced deep POC flux derived from high overlying primary production.The remaining sites lie beneath the oligotrophic north Pacific gyre.The number of polychaete species collected at a single site ranged from 14 to 113, with at least 90% apparently being new to science.We found no evidence for the purported unimodal relationship between productivity and diversity seen in other ecosystems, including deep-sea slopes, and found only weak evidence of a monotonic increase in diversity with productivity.Rates of species turnover were low over scales of ~200 to 3000 km for the dominant polychaete species in the communities, and all sites were dominated by a core group of biogeographically widespread, locally abundant species.In contrast, there was little between-site similarity in the long list of rare species found at each site, implying either a high turnover of rare species at 200 to 3000 km scales, or incomplete sampling of the rare species list at each site.More intensive sampling studies using both morphological and molecular methods are needed to resolve the distribution patterns of rare species in the Pacific abyss.Local polychaete species diversity beneath equatorial Pacific upwelling (measured by rarefaction) appears to be unusually high for the deep sea, exceeding by at least 10 to 20% that measured in abyssal sites in the Atlantic and Pacific, and on the continental slopes of the North Atlantic, North Pacific, and Indian Oceans.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2002/240/m240p157.pdf
+CITED BY COUNT: 148
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Polychaete', 'Oceanography', 'Upwelling', 'Productivity', 'Geography', 'Ecology', 'Geology', 'Biology', 'Economics', 'Macroeconomics']

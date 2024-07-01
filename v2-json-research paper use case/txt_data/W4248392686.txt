@@ -1,0 +1,12 @@
+ID: W4248392686
+TITLE: Responses of a Coastal Phytoplankton Community to Increased Nutrient Input from the Changjiang River
+AUTHOR: ['Mingjiang Zhou', 'Zhongrong Shen', 'Rencheng Yu']
+ABSTRACT:
+NutrientNutrient input from the Changjiang River (Yangtze River) has been increasing dramatically since the 1960s. At the mouth of the Changjiang River, the nitrate concentration has increased about three-fold in 40 years, from 20.5 µmol/L in the 1960s to 59.1 µmol/L in the 1980s and to 80.6 µmol/L in 1990–2004. Phosphate concentration increased by a factor of 30%, from 0.59 µmol/L in the 1980s to 0.77 µmol/L in 1990–2004. The increasing nitrate input has arisen mostly from the mid and lower reaches of the Changjiang River, where the river meets one of the most strongly developed agricultureAgriculture areas in China. Responses of the coastal phytoplanktonPhytoplankton community to the increasing nutrientNutrient inputs are also seen in the available monitoring data. First, a trend of increasing phytoplanktonPhytoplankton standing stock from 1984 to 2002 appeared in the Changjiang River estuaryChangjiang River estuary and adjacent coastal waters, especially in late spring. Secondly, the proportion of diatoms in the whole phytoplanktonPhytoplankton community showed a decreasing trend from about 85% in 1984 to about 60% in 2000. Finally, red tides/harmful algal blooms increased dramatically in this area in terms of both number and scale. About 30–80 red tideRed tide events were recorded each year from 2000 to 2005 in the East China SeaEast China Sea . The scale of some blooms has been in excess of 10,000 km2.
+
+SOURCE: Springer earth system sciences
+PDF URL: None
+CITED BY COUNT: 1
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Phytoplankton', 'Nutrient', 'Oceanography', 'Environmental science', 'Ecology', 'Geography', 'Biology', 'Geology']

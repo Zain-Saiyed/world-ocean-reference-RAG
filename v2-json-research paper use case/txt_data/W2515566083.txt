@@ -1,0 +1,12 @@
+ID: W2515566083
+TITLE: Global nitrogen and phosphorus fertilizer use for agriculture production in the past half century: shifted hot spots and nutrient imbalance
+AUTHOR: ['Chaoqun Lü', 'Hanqin Tian']
+ABSTRACT:
+Abstract. In addition to enhancing agricultural productivity, synthetic nitrogen (N) and phosphorous (P) fertilizer application in croplands dramatically alters global nutrient budget, water quality, greenhouse gas balance, and their feedback to the climate system. However, due to the lack of geospatial fertilizer input data, current Earth system and land surface modeling studies have to ignore or use oversimplified data (e.g., static, spatially uniform fertilizer use) to characterize agricultural N and P input over decadal or century-long periods. In this study, we therefore develop global time series gridded data of annual synthetic N and P fertilizer use rate in agricultural lands, matched with HYDE 3.2 historical land use maps, at a resolution of 0.5° × 0.5° latitude–longitude during 1961–2013. Our data indicate N and P fertilizer use rates on per unit cropland area increased by approximately 8 times and 3 times, respectively, since the year 1961 when IFA (International Fertilizer Industry Association) and FAO (Food and Agricultural Organization) surveys of country-level fertilizer input became available. Considering cropland expansion, the increase in total fertilizer consumption is even larger. Hotspots of agricultural N fertilizer application shifted from the US and western Europe in the 1960s to eastern Asia in the early 21st century. P fertilizer input shows a similar pattern with an additional current hotspot in Brazil. We found a global increase in fertilizer N ∕ P ratio by 0.8 g N g−1 P per decade (p &lt; 0.05) during 1961–2013, which may have an important global implication for human impacts on agroecosystem functions in the long run. Our data can serve as one of critical input drivers for regional and global models to assess the impacts of nutrient enrichment on climate system, water resources, food security, etc. Datasets available at doi:10.1594/PANGAEA.863323.
+
+SOURCE: Earth system science data
+PDF URL: https://www.earth-syst-sci-data.net/9/181/2017/essd-9-181-2017.pdf
+CITED BY COUNT: 452
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Fertilizer', 'Environmental science', 'Agriculture', 'Nutrient', 'Latitude', 'Agricultural productivity', 'Agricultural land', 'Greenhouse gas', 'Physical geography', 'Agricultural economics', 'Agronomy', 'Geography', 'Ecology', 'Economics', 'Biology', 'Geodesy']

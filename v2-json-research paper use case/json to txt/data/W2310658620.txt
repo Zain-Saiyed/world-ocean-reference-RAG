@@ -1,0 +1,12 @@
+ID: W2310658620
+TITLE: Multiple stressors, nonlinear effects and the implications of climate change impacts on marine coastal ecosystems
+AUTHOR: ['Judi E. Hewitt', 'Joanne I. Ellis', 'Simon F. Thrush']
+ABSTRACT:
+Abstract Global climate change will undoubtedly be a pressure on coastal marine ecosystems, affecting not only species distributions and physiology but also ecosystem functioning. In the coastal zone, the environmental variables that may drive ecological responses to climate change include temperature, wave energy, upwelling events and freshwater inputs, and all act and interact at a variety of spatial and temporal scales. To date, we have a poor understanding of how climate‐related environmental changes may affect coastal marine ecosystems or which environmental variables are likely to produce priority effects. Here we use time series data (17 years) of coastal benthic macrofauna to investigate responses to a range of climate‐influenced variables including sea‐surface temperature, southern oscillation indices ( SOI , Z4), wind‐wave exposure, freshwater inputs and rainfall. We investigate responses from the abundances of individual species to abundances of functional traits and test whether species that are near the edge of their tolerance to another stressor (in this case sedimentation) may exhibit stronger responses. The responses we observed were all nonlinear and some exhibited thresholds. While temperature was most frequently an important predictor, wave exposure and ENSO ‐related variables were also frequently important and most ecological variables responded to interactions between environmental variables. There were also indications that species sensitive to another stressor responded more strongly to weaker climate‐related environmental change at the stressed site than the unstressed site. The observed interactions between climate variables, effects on key species or functional traits, and synergistic effects of additional anthropogenic stressors have important implications for understanding and predicting the ecological consequences of climate change to coastal ecosystems.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 124
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Environmental science', 'Climate change', 'Ecosystem', 'Ecology', 'Marine ecosystem', 'Environmental change', 'Range (aeronautics)', 'Stressor', 'Upwelling', 'Benthic zone', 'Global change', 'Freshwater ecosystem', 'Biology', 'Materials science', 'Neuroscience', 'Composite material']

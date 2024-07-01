@@ -1,0 +1,12 @@
+ID: W2008761456
+TITLE: Marine Biodiversity and Gene Patents
+AUTHOR: ['Sophie Arnaud‐Haond', 'Jesús M. Arrieta', 'Carlos M. Duarte']
+ABSTRACT:
+Ten countries account for 90% of patent claims associated with marine genes, including some from international waters.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 66
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Marine biodiversity', 'Biodiversity', 'Gene', 'Business', 'Biology', 'International trade', 'Computational biology', 'Ecology', 'Genetics']

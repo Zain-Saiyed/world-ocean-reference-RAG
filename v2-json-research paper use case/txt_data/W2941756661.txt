@@ -1,0 +1,12 @@
+ID: W2941756661
+TITLE: Fishers' experiences and perceptions of marine mammals in the South China Sea: Insights for improving community‐based conservation
+AUTHOR: ['Mingming Liu', 'Mingli Lin', 'Samuel T. Turvey', 'Songhai Li']
+ABSTRACT:
+Abstract The successful conservation of marine mammals is often dependent upon support from local fishing communities, and valuable conservation insights can be obtained through understanding fishers’ attitudes and awareness of marine mammals. A new local ecological knowledge dataset was obtained through large‐scale questionnaire‐based interviews with 510 artisanal fishers from 16 coastal fishing communities around Hainan, China. Almost all respondents (92.7%) reported regular encounters with marine mammals. Many respondents reported negative interactions with marine mammals, including bycatch (25.5%), consumption (36.1%), and the sale of meat (9.2%), and respondent perceptions of marine mammals were often negative. Generalized linear models (GLMs) indicated that respondent experiences of marine mammal encounters and bycatch events were mainly predicted by indices of fishing effort and experience, rather than by geographic or socio‐economic factors. Respondent experiences of eating or selling marine mammal meat were predicted by geographic location and by some livelihood and socio‐economic factors. Respondent perceptions of marine mammals were instead predicted by fishing experience and education level. Classification and regression trees (CARTs) showed that the most important factors determining respondent experiences and perceptions were number of fishing years and educational level, respectively. Both GLMs and CARTs indicated the complex effects of geographic, livelihood, and socio‐economic factors on respondent experiences and perceptions of marine mammals. Regional community‐based conservation of marine mammals could be promoted through improved regulatory management and environmental education, sustainable ecological exploitation and economic development, and positive partnerships and collaboration between fishing communities, enforcement agencies, and researchers.
+
+SOURCE: Aquatic conservation
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Respondent', 'Livelihood', 'Bycatch', 'Fishing', 'Geography', 'Marine protected area', 'Ecology', 'Environmental resource management', 'Fishery', 'Habitat', 'Biology', 'Political science', 'Environmental science', 'Archaeology', 'Law', 'Agriculture']

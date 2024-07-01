@@ -1,0 +1,12 @@
+ID: W1590503244
+TITLE: Changes in the global hydrological‐cycle inferred from ocean salinity
+AUTHOR: ['Kieran P. Helm', 'Nathaniel L. Bindoff', 'John A. Church']
+ABSTRACT:
+Using global datasets of in situ observations, we calculate salinity changes on ocean‐density surfaces between 1970 and 2005. This reveals a global pattern of increased salinities near the upper‐ocean salinity‐maximum layer (average depth of ∼100 m) and decreased salinities near the intermediate salinity minimum (average depth of ∼700 m). The salinity changes imply a 3 ± 2% decrease in precipitation‐minus evaporation (P‐E) over the mid and low latitude oceans in both hemispheres, a 7 ± 4% increase in the Northern Hemisphere high latitudes, and a 16 ± 6% increase in the Southern Ocean since 1970. This pattern of increased precipitation at high latitudes and decreased precipitation in the subtropics is reflected in both land records and in the short satellite records. The quantification of the atmospheric signal of climate change on ocean salinity supports model projections, and extends the growing evidence for an acceleration of the Earth's water cycle.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 159
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Salinity', 'Precipitation', 'Southern Hemisphere', 'Latitude', 'Climatology', 'Subtropics', 'Water cycle', 'Northern Hemisphere', 'Geology', 'Environmental science', 'Temperate climate', 'Climate change', 'Oceanography', 'Atmospheric sciences', 'Geography', 'Meteorology', 'Botany', 'Geodesy', 'Fishery', 'Ecology', 'Biology']

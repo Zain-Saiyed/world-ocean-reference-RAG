@@ -1,0 +1,12 @@
+ID: W2031436657
+TITLE: A broad-scale assessment of the risk to coastal seagrasses from cumulative threats
+AUTHOR: ['Alana Grech', 'Robert G. Coles', 'Helene Marsh']
+ABSTRACT:
+Informing the management of coastal marine habitats at broad spatial scales is difficult because of the costs associated with collecting and analyzing ecological data at that scale. Spatially explicit assessments of the risk to coastal marine habitats from cumulative threats provide an alternative approach by identifying sites that are exposed to multiple anthropogenic threats at broad scales. In this study, qualitative measures of vulnerability were combined with geospatial data to evaluate the risk to coastal seagrasses at the scale of the Great Barrier Reef (GBR) region (∼26,000 km2) of Queensland, Australia. The risk assessment outputs identified agricultural, urban and industrial runoff, and urban and port developments as the major anthropogenic activities threatening coastal seagrasses. ‘Hot spots’ with multiple threat exposure were all in industrial port locations and the southern two-thirds of the GBR. There is a distinct discontinuity in threat exposure along the GBR coast with 98% of seagrass meadows in the northern third exposed to only low levels of anthropogenic risk. The clustering of threat exposure is discussed in terms of coastal management policy. The approach outlined in this study provides management agencies a method of achieving maximum return for minimal investment in data collection at broad spatial scales by identifying sites where management intervention would be best targeted.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 103
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Seagrass', 'Habitat', 'Coastal management', 'Environmental resource management', 'Scale (ratio)', 'Geospatial analysis', 'Vulnerability (computing)', 'Risk assessment', 'Port (circuit theory)', 'Geography', 'Environmental science', 'Marine spatial planning', 'Fishery', 'Ecology', 'Remote sensing', 'Cartography', 'Biology', 'Computer security', 'Engineering', 'Computer science', 'Electrical engineering']

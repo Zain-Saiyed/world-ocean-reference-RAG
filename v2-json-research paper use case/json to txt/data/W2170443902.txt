@@ -1,0 +1,12 @@
+ID: W2170443902
+TITLE: ‘Antarctic biology in the 21st century – Advances in, and beyond the international polar year 2007–2008’
+AUTHOR: ['Michael Stoddart']
+ABSTRACT:
+The International Polar Year 2007–2008 (IPY) has provided an opportunity for biology to show itself as an important part of Antarctic science in a manner in which it was not seen during earlier Polar Years. Of the 15 endorsed biological projects in Antarctica, 7 included more than 20 scientists and could be deemed truly international. Four were conducted in the marine environment, and one each in the fields of biological invasions, microbial ecology, and terrestrial ecology, and one was SCAR’s over-arching ‘Evolution and Biodiversity in the Antarctic’. The marine projects have left a robust legacy of data for future research into the consequences of environmental change, and into future decisions about marine protected areas. Studies on introductions of exotic organisms reveal an ever-present threat to the warmer parts of the high-latitude Southern Ocean, or parts which might become warmer with climate change. Studies on microbial ecology reveal great complexity of ecosystems with high numbers of unknown species. Terrestrial research has shown how vulnerable the Antarctic is to accidental introductions, and how productive the soils can be under changed climate conditions. Antarctic biology has come-of-age during IPY 2007–2008 and the campaign has set the scene for future research.
+
+SOURCE: Polar science
+PDF URL: None
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Ecology', 'Biodiversity', 'Climate change', 'Ecosystem', 'Marine biology', 'Marine ecosystem', 'Global change', 'Biology', 'Ecosystem ecology', 'Oceanography', 'Geography', 'Geology']

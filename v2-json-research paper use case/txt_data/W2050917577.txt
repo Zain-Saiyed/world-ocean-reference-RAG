@@ -1,0 +1,12 @@
+ID: W2050917577
+TITLE: Recognizing and Preventing Overexposure to Methylmercury from Fish and Seafood Consumption: Information for Physicians
+AUTHOR: ['Susan Silbernagel', 'David O. Carpenter', 'Steven G. Gilbert', 'Michael Gochfeld', 'Edward Groth', 'Jane M Hightower', 'Frederick Schiavone']
+ABSTRACT:
+Fish is a valuable source of nutrition, and many people would benefit from eating fish regularly. But some people eat a lot of fish, every day or several meals per week, and thus can run a significant risk of overexposure to methylmercury. Current advice regarding methylmercury from fish consumption is targeted to protect the developing brain and nervous system but adverse health effects are increasingly associated with adult chronic low-level methylmercury exposure. Manifestations of methylmercury poisoning are variable and may be difficult to detect unless one considers this specific diagnosis and does an appropriate test (blood or hair analysis). We provide information to physicians to recognize and prevent overexposure to methylmercury from fish and seafood consumption. Physicians are urged to ask patients if they eat fish: how often, how much, and what kinds. People who eat fish frequently (once a week or more often) and pregnant women are advised to choose low mercury fish.
+
+SOURCE: Journal of toxicology
+PDF URL: https://downloads.hindawi.com/journals/jt/2011/983072.pdf
+CITED BY COUNT: 66
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Methylmercury', 'Fish <Actinopterygii>', 'Environmental health', 'Fish consumption', 'Medicine', 'Consumption (sociology)', 'Mercury (programming language)', 'Toxicology', 'Fishery', 'Biology', 'Ecology', 'Social science', 'Bioaccumulation', 'Sociology', 'Computer science', 'Programming language']

@@ -1,0 +1,12 @@
+ID: W2913840532
+TITLE: Levels and temporal trends of persistent organic pollutants (POPs) in Atlantic cod (Gadus morhua) and haddock (Melanogrammus aeglefinus) from the southern Barents Sea
+AUTHOR: ['Stepan Boitsov', 'Bjørn Einar Grøsvik', 'Guri Nesje', 'Ketil Malde', 'Jarle Klungsøyr']
+ABSTRACT:
+Liver samples of two gadoid species, Atlantic cod (Gadus morhua) and haddock (Melanogrammus aeglefinus), sampled in the southern Barents Sea in the period 1992–2015, were studied for the levels of six types of persistent organic pollutants (POPs): polychlorinated biphenyls (PCBs), chlorinated organic pesticides (DDTs, hexachlorocyclohexanes (HCHs), hexachlorobenzene (HCB), trans-nonachlor (TNC)), and polybrominated diphenyl ethers (PBDEs). Higher average levels were found in cod than in haddock. Sampling approximately every third year allowed studies of temporal trends for all the compound groups except PBDEs. Time series are reported for 1992–2015 for Atlantic cod and for 1998–2015 for haddock. Decreasing temporal trends have been modeled in cod for the analyzed POPs for this time period. The decrease seems to be slowing down in the later years. HCB levels showed least decrease with time among all the contaminants, with the poorest fit to the proposed model. Similar time trends were found in haddock, but the decrease is less apparent due to shorter time series. The observed time trends of legacy POPs document the effectiveness of efforts during the 1990s to reduce the levels of these contaminants in the marine environment but question the possibility to eliminate them altogether from the marine environment in the foreseeable future.
+
+SOURCE: Environmental research
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Haddock', 'Gadus', 'Hexachlorobenzene', 'Atlantic cod', 'Gadidae', 'Polybrominated diphenyl ethers', 'Pollutant', 'Fishery', 'Environmental science', 'Environmental chemistry', 'Fish <Actinopterygii>', 'Biology', 'Ecology', 'Chemistry']

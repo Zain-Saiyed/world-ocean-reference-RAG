@@ -1,0 +1,12 @@
+ID: W2135410838
+TITLE: Environmental pollution in the Gulf of Guinea – a regional approach
+AUTHOR: ['Peter Scheren', 'A. C. Ibe', 'F.J.J.G. Janssen', 'A.M.C. Lemmens']
+ABSTRACT:
+Environmental pollution in the Gulf of Guinea (GOG) coastal zone has caused eutrophication and oxygen depletion in the lagoon systems, particularly around the urban centres, resulting in decreased fish (reproduction) levels and waterborne diseases. A pollution sources assessment was undertaken by six countries in the region as a first step in defining a region-wide Environmental Management Plan. Results show that households produce 90% of solid waste. Industry, however, is responsible for substantial amounts of hazardous waste, specifically the Nigerian petroleum industry. The latter is also responsible for the spilling of large amounts of oil. BOD load from industrial effluents is slightly larger than domestic loads in the industrialised coastal zone. Wastewater treatment systems are either absent or inadequate. Apart from large-scale gas flaring in Nigeria, air pollution, in terms of COx,HC,NOx and SO2 emissions, is contributed mainly by traffic. Particulates, originate mainly from industries and domestic biomass burning.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Pollution', 'Environmental science', 'Environmental protection', 'Marine pollution', 'Petroleum', 'Effluent', 'Air pollution', 'Environmental engineering', 'Water pollution', 'Wastewater', 'Ecology', 'Paleontology', 'Biology']

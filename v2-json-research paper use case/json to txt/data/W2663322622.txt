@@ -1,0 +1,12 @@
+ID: W2663322622
+TITLE: The conservation status of marine bony shorefishes of the Greater Caribbean
+AUTHOR: ['Christi Linardich', 'Gina M. Ralph', 'Kent E. Carpenter', 'Neil A. Cox', 'D. Ross Robertson', 'Heather Harwell', 'Arturo Acero P.', 'W. Anderson', 'Fabien Barthelat', 'J.-J. Bouchereau', 'Jaclyn N. Brown', 'Joseph B. Buchanan', 'Dayne Buddo', 'Bruce B. Collette', 'Mia T. Comeros‐Raynal', 'Matthew T. Craig', 'Michelle D. Curtis', 'T. Defex', 'James K. Dooley', 'William B. Driggers', 'C. Elfes Livsey', 'Thomas H. Fraser', 'R. Grant Gilmore', 'L. Grijalba Bendec', 'AH Hines', 'R. Kishore', 'Kenyon C. Lindeman', 'J.-P. Maréchal', 'John D. McEachran', 'Roger Mcmanus', 'Jeff E. Moore', 'Thomas A. Munroe', 'Hazel A. Oxenford', 'Frank Pezold', 'Fabián Piña Amargós', 'Andréa Polanco Fernández', 'Beth Polidoro', 'Caroline M. Pollock', 'R. H. Robins', 'B. C. Russell', 'CD Sayer', 'Susan Singh-Renton', 'William F. Smith‐Vaniz', 'Luke Tornabene', 'James Van Tassell', 'Jean‐Christophe Vié', 'Jeff T. Williams']
+ABSTRACT:
+Postworkshop editing and review were coordinated by Neil Cox and Christi Linardich, with the support of the various marine fishes
+
+SOURCE: None
+PDF URL: https://portals.iucn.org/library/sites/library/files/documents/RL-2017-002.pdf
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2017
+TYPE: book
+CONCEPTS: ['Conservation status', 'Geography', 'Biology', 'Ecology', 'Habitat']

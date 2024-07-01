@@ -1,0 +1,12 @@
+ID: W2052736701
+TITLE: Carbon Isotopic Evidence for Methane Hydrate Instability During Quaternary Interstadials
+AUTHOR: ['James P. Kennett', 'Kevin G. Cannariato', 'I. L. Hendy', 'Richard J. Behl']
+ABSTRACT:
+Large (about 5 per mil) millennial-scale benthic foraminiferal carbon isotopic oscillations in the Santa Barbara Basin during the last 60,000 years reflect widespread shoaling of sedimentary methane gradients and increased outgassing from gas hydrate dissociation during interstadials. Furthermore, several large, brief, negative excursions (up to -6 per mil) coinciding with smaller shifts (up to -3 per mil) in depth-stratified planktonic foraminiferal species indicate massive releases of methane from basin sediments. Gas hydrate stability was modulated by intermediate-water temperature changes induced by switches in thermohaline circulation. These oscillations were likely widespread along the California margin and elsewhere, affecting gas hydrate instability and contributing to millennial-scale atmospheric methane oscillations.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 524
+PUBLICATION YEAR: 2000
+TYPE: article
+CONCEPTS: ['Atmospheric methane', 'Methane', 'Clathrate hydrate', 'Geology', 'Benthic zone', 'Stadial', 'Carbon cycle', 'Oceanography', 'Hydrate', 'Thermohaline circulation', 'Instability', 'Outgassing', 'Chemistry', 'Holocene', 'Greenhouse gas', 'Ecosystem', 'Ecology', 'Organic chemistry', 'Biology', 'Physics', 'Mechanics']

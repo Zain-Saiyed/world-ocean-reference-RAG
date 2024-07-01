@@ -1,0 +1,12 @@
+ID: W2124915137
+TITLE: Environmental Change in the Deep Ocean
+AUTHOR: ['Alex D. Rogers']
+ABSTRACT:
+Patterns of abundance, biomass, and species richness are reviewed for deep-sea ecosystems. Long-term monitoring studies have indicated that deep-sea ecosystems are sensitive to climatic variability through its influence on the quantity and quality of surface primary production. The potential impacts of climate change, through its effects on primary production and through changes in the temperature, pH, and oxygenation of the deep ocean are explored. It is concluded that deep-sea ecosystems are likely to be highly sensitive to changes in food supply and the physical environment driven by global climate change. As a result, ecosystem services will be negatively impacted with likely positive feedbacks to atmospheric CO 2 levels. It is a matter of urgency that baselines are established for diversity, abundance, and biomass of deep-sea ecosystems, particularly for the pelagic realm and that a mechanistic understanding is developed of how food supply and physical parameters affect community structure and function.
+
+SOURCE: Annual review of environment and resources
+PDF URL: None
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Environmental science', 'Biomass (ecology)', 'Climate change', 'Marine ecosystem', 'Abundance (ecology)', 'Pelagic zone', 'Species richness', 'Deep sea', 'Global change', 'Ecology', 'Oceanography', 'Biology', 'Geology']

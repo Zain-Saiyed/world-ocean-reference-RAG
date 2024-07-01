@@ -1,0 +1,12 @@
+ID: W2971525770
+TITLE: Multidecadal increase in plastic particles in coastal ocean sediments
+AUTHOR: ['Jennifer Brandon', 'William A. Jones', 'Mark D. Ohman']
+ABSTRACT:
+We analyzed coastal sediments of the Santa Barbara Basin, California, for historical changes in microplastic deposition using a box core that spanned 1834-2009. The sediment was visually sorted for plastic, and a subset was confirmed as plastic polymers via FTIR (Fourier transform infrared) spectroscopy. After correcting for contamination introduced during sample processing, we found an exponential increase in plastic deposition from 1945 to 2009 with a doubling time of 15 years. This increase correlated closely with worldwide plastic production and southern California coastal population increases over the same period. Increased plastic loading in sediments has unknown consequences for deposit-feeding benthic organisms. This increase in plastic deposition in the post-World War II years can be used as a geological proxy for the Great Acceleration of the Anthropocene in the sedimentary record.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/5/9/eaax0587.full.pdf
+CITED BY COUNT: 229
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Deposition (geology)', 'Sediment', 'Oceanography', 'Environmental science', 'Geology', 'Population', 'Proxy (statistics)', 'Anthropocene', 'Mineralogy', 'Geomorphology', 'Paleontology', 'Demography', 'Machine learning', 'Sociology', 'Computer science']

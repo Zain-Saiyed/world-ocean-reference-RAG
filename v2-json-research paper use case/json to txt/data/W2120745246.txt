@@ -1,0 +1,12 @@
+ID: W2120745246
+TITLE: Structural and functional diversity of Nematoda in relation with environmental variables in the Setúbal and Cascais canyons, Western Iberian Margin
+AUTHOR: ['Jeroen Ingels', 'David Billett', 'Kostas Kiriakoulakis', 'George A. Wolff', 'Ann Vanreusel']
+ABSTRACT:
+Samples collected at two different depths (ca. 3200 and ca. 4200 m) in the Setúbal and Cascais canyons off the Portuguese coast, during the HERMES RRS Charles Darwin cruise CD179, were analysed for (1) sediment biogeochemistry (TOC, TN) and (2) composition, and structural and trophic diversity of nematode communities. Multivariate PERMANOVA analysis on the nematode community data revealed differences between sediment layers that were greater than differences between canyons, water depths, and stations. This suggests that biogeochemical gradients along the vertical sediment profile are crucial in determining nematode community structure. The interaction between canyon conditions and the nematode community is illustrated by biogeochemical patterns in the sediment and the prevalence of nematode genera that are able to persist in disturbed sediments. Trophic analysis of the nematode community indicated that non-selective deposit feeders are dominant, presumably because of their non-selective feeding behaviour compared to other feeding types, which gives them a competitive advantage in exploiting lower-quality food resources. This study presents a preliminary conceptual scheme for interactions between canyon conditions and the resident fauna.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Trophic level', 'Canyon', 'Ecology', 'Biogeochemical cycle', 'Sediment', 'Biogeochemistry', 'Community structure', 'Detritivore', 'Granulometry', 'Fauna', 'Bathyal zone', 'Canonical correspondence analysis', 'Benthic zone', 'Oceanography', 'Biology', 'Environmental science', 'Habitat', 'Geology', 'Geomorphology', 'Paleontology']

@@ -1,0 +1,12 @@
+ID: W2492513602
+TITLE: Climate influence on <i>Vibrio</i> and associated human diseases during the past half-century in the coastal North Atlantic
+AUTHOR: ['Luigi Vezzulli', 'Chiara Grande', 'Philip C. Reid', 'Pierre Hélaouët', 'Martin Edwards', 'Manfred G. Höfle', 'Ingrid Brettar', 'Rita R. Colwell', 'Carla Pruzzo']
+ABSTRACT:
+Climate change is having a dramatic impact on marine animal and plant communities but little is known of its influence on marine prokaryotes, which represent the largest living biomass in the world oceans and play a fundamental role in maintaining life on our planet. In this study, for the first time to our knowledge, experimental evidence is provided on the link between multidecadal climatic variability in the temperate North Atlantic and the presence and spread of an important group of marine prokaryotes, the vibrios, which are responsible for several infections in both humans and animals. Using archived formalin-preserved plankton samples collected by the Continuous Plankton Recorder survey over the past half-century (1958-2011), we assessed retrospectively the relative abundance of vibrios, including human pathogens, in nine areas of the North Atlantic and North Sea and showed correlation with climate and plankton changes. Generalized additive models revealed that long-term increase in Vibrio abundance is promoted by increasing sea surface temperatures (up to ∼1.5 °C over the past 54 y) and is positively correlated with the Northern Hemisphere Temperature (NHT) and Atlantic Multidecadal Oscillation (AMO) climatic indices (P < 0.001). Such increases are associated with an unprecedented occurrence of environmentally acquired Vibrio infections in the human population of Northern Europe and the Atlantic coast of the United States in recent years.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/113/34/E5062.full.pdf
+CITED BY COUNT: 306
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Plankton', 'Northern Hemisphere', 'Climate change', 'North Atlantic oscillation', 'Atlantic multidecadal oscillation', 'Temperate climate', 'Sea surface temperature', 'Oceanography', 'Abundance (ecology)', 'Population', 'Ecology', 'Biology', 'Relative species abundance', 'Geography', 'Climatology', 'Demography', 'Sociology', 'Geology']

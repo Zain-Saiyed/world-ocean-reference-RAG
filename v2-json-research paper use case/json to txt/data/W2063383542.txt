@@ -1,0 +1,12 @@
+ID: W2063383542
+TITLE: Observed temperature trends in the Indian Ocean over 1960–1999 and associated mechanisms
+AUTHOR: ['Gaël Alory', 'Susan Wijffels', 'Gary Meyers']
+ABSTRACT:
+The linear trends in oceanic temperature from 1960 to 1999 are estimated using the new Indian Ocean Thermal Archive (IOTA), a compilation of historical temperature profiles. Widespread surface warming is found, as in other data sets, and reproduced in IPCC climate model simulations for the 20th century. This warming is particularly large in the subtropics, and extends down to 800 m around 40–50°S. Models suggest the deep‐reaching subtropical warming is related to a 0.5° southward shift of the subtropical gyre driven by a strengthening of the westerly winds, and associated with an upward trend in the Southern Annular Mode index. In the tropics, IOTA shows a subsurface cooling corresponding to a shoaling of the thermocline and increasing vertical stratification. Most models suggest this trend in the tropical Indian thermocline is likely associated with the observed weakening of the Pacific trade winds and transmitted to the Indian Ocean by the Indonesian throughflow.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2006GL028044
+CITED BY COUNT: 264
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Thermocline', 'Throughflow', 'Climatology', 'Ocean gyre', 'Subtropics', 'Oceanography', 'Ocean heat content', 'Geology', 'Sea surface temperature', 'Indian ocean', 'Indian Ocean Dipole', 'Stratification (seeds)', 'Shoaling and schooling', 'Subtropical Indian Ocean Dipole', 'Global warming', 'Bay', 'Climate change', 'Environmental science', 'Seed dormancy', 'Botany', 'Germination', 'Dormancy', 'Fishery', 'Soil science', 'Biology']

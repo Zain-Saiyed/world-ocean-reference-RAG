@@ -1,0 +1,12 @@
+ID: W2897360633
+TITLE: Mangrove mortality in a changing climate: An overview
+AUTHOR: ['James Z. Sippo', 'Catherine E. Lovelock', 'Isaac R. Santos', 'Christian J. Sanders', 'Damien T. Maher']
+ABSTRACT:
+Mangroves provide vital ecosystem services at the dynamic interface between land and oceans. Recent reports of mangrove mortality suggest that mangroves may be adversely affected by climate change. Here, we review historical mortality events from natural causes (all mortality other than deforestation, land use change and pollution) and provide a global assessment of mortality drivers. Since the 1960's approximately 36,000 ha of mangrove mortality has been reported (0.2% of total mangrove cover in 2011) in 47 peer reviewed articles. Due to the uneven global distribution of research effort, it is likely that mangrove mortality events go unreported in many countries. It is therefore difficult to assess temporal changes in mortality due to the small number of reports and increasing effort in observations in recent years. From the published literature, approximately 70% of reported mangrove loss from natural causes has occurred as a result of low frequency, high intensity weather events, such as tropical cyclones and climatic extremes. Globally, tropical cyclones have caused the greatest area of mangrove mortality, equivalent to 45% of the reported global mangrove mortality area from events over six decades. However, recent large-scale mortality events associated with climatic extremes in Australia account for 22% of all reported historical forest loss. These recent mortality events suggest the increasing importance of extreme climatic events, and highlight that mangroves may be important sentinels of global climate change. Increasing frequency, intensity and destructiveness of cyclones as well as climatic extremes, including low and high sea level events and heat waves, have the potential to directly influence mangrove mortality and recovery, particularly in mid latitudes.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 165
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mangrove', 'Climate change', 'Deforestation (computer science)', 'Global warming', 'Geography', 'Environmental science', 'Climatology', 'Ecosystem', 'Ecology', 'Physical geography', 'Biology', 'Computer science', 'Programming language', 'Geology']

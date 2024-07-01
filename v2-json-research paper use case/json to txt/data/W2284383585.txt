@@ -1,0 +1,12 @@
+ID: W2284383585
+TITLE: Trace/heavy metal pollution monitoring in estuary and coastal area of Bay of Bengal, Bangladesh and implicated impacts
+AUTHOR: ['Golam Kibria', 'Md. Maruf Hossain', 'Debbrota Mallick', 'Tai‐Chu Lau', 'Rudolf S.S. Wu']
+ABSTRACT:
+Using artificial mussels (AMs), this study reports and compares time-integrated level of eleven trace metals (Cd, Co, Cr, Cu, Fe, Hg, Mn, Ni, Pb, U, Zn) in Karnafuli River estuary and coastal area of the Bay of Bengal, Bangladesh. Through this study, “hot spots” of metal pollution were identified. The results may demonstrate that the Karnafuli Estuary, and adjacent coastal area of Chittagong, Bangladesh are highly polluted by high risk metals (cadmium, chromium, copper, mercury, nickel, lead, uranium). Agricultural, domestic and industrial wastes directly discharged into the waterways have been identified as the main causes of metal pollution in Chittagong, Bangladesh. The high level of metal pollution identified may impact on local water quality, and seafood catch, livelihoods of people and public health resulting from seafood consumption. There is a need for regular monitoring to ascertain that local water quality with respect to metal levels are within acceptable levels to safeguards both environmental health and public health.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Estuary', 'BENGAL', 'Bay', 'Environmental science', 'Pollution', 'Cadmium', 'Water quality', 'Mercury (programming language)', 'Trace metal', 'Water pollution', 'Environmental protection', 'Water resource management', 'Environmental engineering', 'Fishery', 'Environmental chemistry', 'Oceanography', 'Ecology', 'Metal', 'Metallurgy', 'Geology', 'Materials science', 'Chemistry', 'Computer science', 'Biology', 'Programming language']

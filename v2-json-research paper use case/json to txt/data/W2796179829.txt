@@ -1,0 +1,12 @@
+ID: W2796179829
+TITLE: A Multidisciplinary Approach for Generating Globally Consistent Data on Mesophotic, Deep-Pelagic, and Bathyal Biological Communities
+AUTHOR: ['Lucy C. Woodall', 'Dominic A. Andradi‐Brown', 'Andrew S. Brierley', 'Malcolm R. Clark', 'Douglas P. Connelly', 'Rob Hall', 'Kerry L. Howell', 'Veerle Huvenne', 'Katrin Linse', 'Rebecca E. Ross', 'Paul V. R. Snelgrove', 'Paris V. Stefanoudis', 'Tracey Sutton', 'Michelle L. Taylor', 'Thomas F. Thornton', 'Alex D. Rogers']
+ABSTRACT:
+Approaches to measuring marine biological parameters remain almost as diverse as the researchers who measure them. However, understanding the patterns of diversity in ocean life over different temporal and geographic scales requires consistent data and information on the potential environmental drivers. As a group of marine scientists from different disciplines, we suggest a formalized, consistent framework of 20 biological, chemical, physical, and socioeconomic parameters that we consider the most important for describing environmental and biological variability. We call our proposed framework the General Ocean Survey and Sampling Iterative Protocol (GOSSIP). We hope that this framework will establish a consistent approach to data collection, enabling further collaboration between marine scientists from different disciplines to advance knowledge of the ocean (deep-sea and mesophotic coral ecosystems).
+
+SOURCE: Oceanography
+PDF URL: https://www.tos.org/oceanography/assets/docs/31-3_woodall.pdf
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Bathyal zone', 'Pelagic zone', 'Multidisciplinary approach', 'Geology', 'Geography', 'Oceanography', 'Social science', 'Sociology', 'Benthic zone']

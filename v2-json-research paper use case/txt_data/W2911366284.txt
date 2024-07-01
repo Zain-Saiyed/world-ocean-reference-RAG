@@ -1,0 +1,12 @@
+ID: W2911366284
+TITLE: Maritime Spatial Planning and the EU’s Blue Growth Policy: Past, Present and Future Perspectives
+AUTHOR: ['Angela Schultz-Zehden', 'Barbara Weig', 'Ivana Lukić']
+ABSTRACT:
+Abstract This chapter discusses the role of Maritime spatial planning (MSP) and its relationship to Blue Growth. After presenting differences among European sea-basins with regard to blue sector development, it underlines the need for a differentiated definition and policy support for Blue Growth. We argue that MSP should be adapted towards the different Blue Growth support needs of countries, regions and maritime sectors throughout Europe. The success of MSP as a tool to support Blue Growth depends on how strongly MSP is intertwined with other measures of the Integrated Maritime Policy and territorial development measures. MSP should be seen more strongly in strategic future development planning, for example, highlighting potential development areas which may stimulate economic growth in territorial areas lagging behind others.
+
+SOURCE: Springer eBooks
+PDF URL: https://link.springer.com/content/pdf/10.1007%2F978-3-319-98696-8_6.pdf
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Lagging', 'Spatial planning', 'Geography', 'Economic geography', 'Political science', 'Environmental planning', 'Regional science', 'Development economics', 'Business', 'Economics', 'Medicine', 'Pathology']

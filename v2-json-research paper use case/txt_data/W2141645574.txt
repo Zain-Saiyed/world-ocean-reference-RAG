@@ -1,0 +1,12 @@
+ID: W2141645574
+TITLE: Impacts from Partial Removal of Decommissioned Oil and Gas Platforms on Fish Biomass and Production on the Remaining Platform Structure and Surrounding Shell Mounds
+AUTHOR: ['Jeremy T. Claisse', 'Daniel J. Pondella', 'Milton S. Love', 'Laurel A. Zahn', 'Chelsea M. Williams', 'Ann Scarborough Bull']
+ABSTRACT:
+When oil and gas platforms become obsolete they go through a decommissioning process. This may include partial removal (from the surface to 26 m depth) or complete removal of the platform structure. While complete removal would likely eliminate most of the existing fish biomass and associated secondary production, we find that the potential impacts of partial removal would likely be limited on all but one platform off the coast of California. On average 80% of fish biomass and 86% of secondary fish production would be retained after partial removal, with above 90% retention expected for both metrics on many platforms. Partial removal would likely result in the loss of fish biomass and production for species typically found residing in the shallow portions of the platform structure. However, these fishes generally represent a small proportion of the fishes associated with these platforms. More characteristic of platform fauna are the primarily deeper-dwelling rockfishes (genus Sebastes). "Shell mounds" are biogenic reefs that surround some of these platforms resulting from an accumulation of mollusk shells that have fallen from the shallow areas of the platforms mostly above the depth of partial removal. We found that shell mounds are moderately productive fish habitats, similar to or greater than natural rocky reefs in the region at comparable depths. The complexity and areal extent of these biogenic habitats, and the associated fish biomass and production, will likely be reduced after either partial or complete platform removal. Habitat augmentation by placing the partially removed platform superstructure or some other additional habitat enrichment material (e.g., rock boulders) on the seafloor adjacent to the base of partially removed platforms provides additional options to enhance fish production, potentially mitigating reductions in shell mound habitat.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0135812&type=printable
+CITED BY COUNT: 51
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Biomass (ecology)', 'Habitat', 'Reef', 'Environmental science', 'Fauna', 'Fishery', 'Actinopterygii', 'Ecology', 'Fish <Actinopterygii>', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2885521502
+TITLE: From Marine Origin to Therapeutics: The Antitumor Potential of Marine Algae-Derived Compounds
+AUTHOR: ['Celso Alves', 'Joana Silva', 'Susete Pintéus', 'Héléna Gaspar', 'M. C. Alpoim', 'Luís M. Botana', 'Rui Pedrosa']
+ABSTRACT:
+Marine environment has demonstrated to be an interesting source of compounds with uncommon and unique chemical features on which the molecular modeling and chemical synthesis of new drugs can be based with greater efficacy and specificity for the therapeutics. Cancer is a growing public health threat, and despite the advances in biomedical research and technology, there is an urgent need for the development of new anticancer drugs. In this field, it is estimated that more than 60% of commercially available anticancer drugs are natural biomimetic inspired. Among the marine organisms, algae have revealed to be one of the major sources of new compounds of marine origin, including those exhibiting antitumor and cytotoxic potential. These compounds demonstrated ability to mediate specific inhibitory activities on a number of key cellular processes, including apoptosis pathways, angiogenesis, migration and invasion, in both in vitro and in vivo models, revealing their potential to be used as anticancer drugs. This review will focus on the bioactive molecules from algae with antitumor potential, from their origin to their potential uses, with special emphasis to the alga Sphaerococcus coronopifolius as a producer of cytotoxic compounds.
+
+SOURCE: Frontiers in pharmacology
+PDF URL: https://www.frontiersin.org/articles/10.3389/fphar.2018.00777/pdf
+CITED BY COUNT: 146
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Algae', 'In vivo', 'Biology', 'Computational biology', 'Chemistry', 'Biotechnology', 'Ecology']

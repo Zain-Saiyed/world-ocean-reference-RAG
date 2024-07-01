@@ -1,0 +1,12 @@
+ID: W2528273434
+TITLE: Running climate model on a commercial cloud computing environment: A case study using Community Earth System Model (CESM) on Amazon AWS
+AUTHOR: ['Xiuhong Chen', 'Xianglei Huang', 'C. Jiao', 'M. G. Flanner', 'Todd Raeker', 'B. Palen']
+ABSTRACT:
+The suites of numerical models used for simulating climate of our planet are usually run on dedicated high-performance computing (HPC) resources. This study investigates an alternative to the usual approach, i.e. carrying out climate model simulations on commercially available cloud computing environment. We test the performance and reliability of running the CESM (Community Earth System Model), a flagship climate model in the United States developed by the National Center for Atmospheric Research (NCAR), on Amazon Web Service (AWS) EC2, the cloud computing environment by Amazon.com, Inc. StarCluster is used to create virtual computing cluster on the AWS EC2 for the CESM simulations. The wall-clock time for one year of CESM simulation on the AWS EC2 virtual cluster is comparable to the time spent for the same simulation on a local dedicated high-performance computing cluster with InfiniBand connections. The CESM simulation can be efficiently scaled with the number of CPU cores on the AWS EC2 virtual cluster environment up to 64 cores. For the standard configuration of the CESM at a spatial resolution of 1.9° latitude by 2.5° longitude, increasing the number of cores from 16 to 64 reduces the wall-clock running time by more than 50% and the scaling is nearly linear. Beyond 64 cores, the communication latency starts to outweigh the benefit of distributed computing and the parallel speedup becomes nearly unchanged. • Climate models can be run in parallel mode on cloud computing environment. • Parallelization efficiency of CESM model on the AWS EC2 virtual cluster is tested. • CESM simulation can be efficiently scaled with the number of CPU cores up to 64. • A high-speed network is key for the scalability of the parallelized climate models.
+
+SOURCE: Computers & geosciences
+PDF URL: http://manuscript.elsevier.com/S0098300416304721/pdf/S0098300416304721.pdf
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Cloud computing', 'Amazon rainforest', 'Earth system science', 'Meteorology', 'Environmental science', 'Earth science', 'Computer science', 'Geology', 'Operating system', 'Geography', 'Biology', 'Ecology', 'Oceanography']

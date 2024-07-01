@@ -1,0 +1,12 @@
+ID: W2965930277
+TITLE: Decline towards extinction of Mexico's vaquita porpoise ( <i>Phocoena sinus</i> )
+AUTHOR: ['Armando M. Jaramillo‐Legorreta', 'Gustavo Cárdenas‐Hinojosa', 'Edwyna Nieto‐Garcia', 'Lorenzo Rojas‐Bracho', 'Len Thomas', 'Jay M. Ver Hoef', 'Jeffrey E. Moore', 'Barbara L. Taylor', 'Jay Barlow', 'Nicholas Tregenza']
+ABSTRACT:
+The vaquita (Phocoena sinus) is a small porpoise endemic to Mexico. It is listed by IUCN as Critically Endangered because of unsustainable levels of bycatch in gillnets. The population has been monitored with passive acoustic detectors every summer from 2011 to 2018; here we report results for 2017 and 2018. We combine the acoustic trends with an independent estimate of population size from 2015, and visual observations of at least seven animals in 2017 and six in 2018. Despite adoption of an emergency gillnet ban in May 2015, the estimated rate of decline remains extremely high: 48% decline in 2017 (95% Bayesian credible interval (CRI) 78% decline to 9% increase) and 47% in 2018 (95% CRI 80% decline to 13% increase). Estimated total population decline since 2011 is 98.6%, with greater than 99% probability the decline is greater than 33% yr-1. We estimate fewer than 19 vaquitas remained as of summer 2018 (posterior mean 9, median 8, 95% CRI 6-19). From March 2016 to March 2019, 10 dead vaquitas killed in gillnets were found. The ongoing presence of illegal gillnets despite the emergency ban continues to drive the vaquita towards extinction. Immediate management action is required if the species is to be saved.
+
+SOURCE: Royal Society open science
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.190598
+CITED BY COUNT: 89
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Porpoise', 'Phocoena', 'Extinction (optical mineralogy)', 'Biology', 'Zoology', 'Anatomy', 'Computer science', 'Paleontology', 'Harbour', 'Programming language']

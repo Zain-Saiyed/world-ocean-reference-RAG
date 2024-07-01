@@ -1,0 +1,12 @@
+ID: W2065523739
+TITLE: Challenging paradigms in estuarine ecology and management
+AUTHOR: ['Michael Elliott', 'Alan K. Whitfield']
+ABSTRACT:
+For many years, estuarine science has been the ‘poor relation’ in aquatic research – freshwater scientists ignored estuaries as they tended to get confused by salt and tides, and marine scientists were more preoccupied by large open systems. Estuaries were merely regarded by each group as either river mouths or sea inlets respectively. For the past four decades, however, estuaries (and other transitional waters) have been regarded as being ecosystems in their own right. Although often not termed as such, this has led to paradigms being generated to summarise estuarine structure and functioning and which relate to both the natural science and management of these systems. This paper defines, details and affirms these paradigms that can be grouped into those covering firstly the science (definitions, scales, linkages, productivity, tolerances and variability) and secondly the management (pressures, valuation, health and services) of estuaries. The more ‘science’ orientated paradigms incorporate the development and types of ecotones, the nature of stressed and variable systems (with specific reference to resilience and redundancy), the relationship between generalists and specialists produced by environmental tolerance, the relevance of scale in relation to functioning and connectivity, the sources of production and degree of productivity, the biodiversity-ecosystem functioning and the stress-subsidy debates. The more ‘management’ targeted paradigms include the development and effects of exogenic unmanaged pressures and endogenic managed pressures, the perception of health and the ability to manage estuaries (related to internal and external influences), and the influence of all of these on the production of ecosystem services and societal benefits.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 437
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Estuary', 'Productivity', 'Environmental resource management', 'Ecology', 'Biodiversity', 'Adaptive management', 'Ecosystem', 'Geography', 'Environmental science', 'Biology', 'Economics', 'Macroeconomics']

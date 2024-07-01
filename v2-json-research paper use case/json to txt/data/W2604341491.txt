@@ -1,0 +1,12 @@
+ID: W2604341491
+TITLE: Antibiotics in the coastal water of the South Yellow Sea in China: Occurrence, distribution and ecological risks
+AUTHOR: ['Juan Du', 'Hongxia Zhao', 'Sisi Liu', 'Huaijun Xie', 'Yan Wang', 'Jingwen Chen']
+ABSTRACT:
+The occurrence and distribution of 25 antibiotics from 5 categories in Yancheng coastal area of the South Yellow Sea were investigated using solid-phase extraction coupled with high-performance liquid chromatography tandem mass spectrometry. Results showed that these antibiotics were widely present in this region with the total concentration up to 1349.2ng/L. Fluoroquinolones and sulfonamides were the most abundant categories contributing 46.5%, and 21.4% to the total antibiotics burden. Trimethoprim was the antibiotic detected in all the samples. The detection rates of erythromycin-H2O, sulfamethoxazole and florfenicol were 70.0%, 56.7% and 53.4%, respectively. The distribution of antibiotics demonstrated a seaward decreasing trend with the attenuation rate ranging from 0.07 to 0.19km-1 in this region. Log total antibiotic concentrations was significantly correlated with DOC (dissolved organic carbon) contents, salinity and distance from the coast (p<0.05), which indicated the vital effect of these factors on the transport and fate of antibiotics. Risk assessment revealed that individual antibiotic could mainly pose a low to medium ecological risk, while the risk of antibiotic mixture on aquatic organisms needed further investigation.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 215
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Antibiotics', 'Sulfamethoxazole', 'Florfenicol', 'Trimethoprim', 'Erythromycin', 'Salinity', 'Environmental chemistry', 'Seawater', 'Environmental science', 'Ecology', 'Toxicology', 'Biology', 'Chemistry', 'Microbiology']

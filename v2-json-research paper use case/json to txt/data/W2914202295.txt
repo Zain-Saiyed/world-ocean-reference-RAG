@@ -1,0 +1,12 @@
+ID: W2914202295
+TITLE: Source specific sound mapping: Spatial, temporal and spectral distribution of sound in the Dutch North Sea
+AUTHOR: ['Hüseyin Özkan Sertlek', 'Hans Slabbekoorn', 'Carel ten Cate', 'Michael A. Ainslie']
+ABSTRACT:
+Effective measures for protecting and preserving the marine environment require an understanding of the potential impact of anthropogenic sound on marine life. A crucial component is a proper assessment of the anthropogenic soundscape: which sounds are present where, when and how strong? We provide an extensive case study modelling the spatial, temporal and spectral distribution of sound radiated by several anthropogenic sources (ships, seismic airguns, explosives) and a naturally occurring one (wind) in the Dutch North Sea. We present the results as a series of sound maps covering the whole of the Dutch North Sea, showing the spatial and temporal distribution of the energy from these sources. Averaged over a two year period, shipping is responsible for the largest amount of acoustic energy (∼1800 J), followed by seismic surveys (∼300 J), explosions (∼20 J) and wind (∼20 J) in the frequency band between 100 Hz and 100 kHz. Our study shows that anthropogenic sources are responsible for 100 times more acoustic energy (averaged over 2 years) in the Dutch North Sea than naturally occurring sound from wind. The potential impact of these sounds on aquatic animals depends not only on these temporally averaged and spatially integrated broadband energies, but also on the source-specific spatial, spectral and temporal variation. Shipping is dominant in the southern part and along the coast in the north, throughout the years and across the spectrum. Seismic surveys are relatively local and spatially and temporally dependent on exploration activities in any particular year, and spectrally shifted to low frequencies relative to the other sources. Explosions in the southern part contribute wide-extent high energy bursts across the spectrum. Relating modelled sound fields to the temporal and spatial distribution of animal species may provide a powerful tool for understanding the potential impact of anthropogenic sound on marine life.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Sound (geography)', 'Sound energy', 'Spatial distribution', 'Environmental science', 'Oceanography', 'Geology', 'Broadband', 'Underwater', 'Remote sensing', 'Physics', 'Optics']

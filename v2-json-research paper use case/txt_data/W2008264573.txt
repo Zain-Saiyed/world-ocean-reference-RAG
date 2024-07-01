@@ -1,0 +1,12 @@
+ID: W2008264573
+TITLE: Genomic and functional adaptation in surface ocean planktonic prokaryotes
+AUTHOR: ['Shibu Yooseph', 'Kenneth H. Nealson', 'Douglas B. Rusch', 'John P. McCrow', 'Christopher L. Dupont', 'Maria Kim', 'Justin Johnson', 'Robert A. Montgomery', 'Steve Ferriera', 'Karen Beeson', 'Shannon J. Williamson', 'Andrey Tovchigrechko', 'Andrew E. Allen', 'Lisa Zeigler', 'Granger Sutton', 'Eric Eisenstadt', 'Yu-Hui Rogers', 'Robert M. Friedman', 'M.E. Frazier', 'J. Craig Venter']
+ABSTRACT:
+The understanding of marine microbial ecology and metabolism has been hampered by the paucity of sequenced reference genomes. To this end, we report the sequencing of 137 diverse marine isolates collected from around the world. We analysed these sequences, along with previously published marine prokaryotic genomes, in the context of marine metagenomic data, to gain insights into the ecology of the surface ocean prokaryotic picoplankton (0.1-3.0 μm size range). The results suggest that the sequenced genomes define two microbial groups: one composed of only a few taxa that are nearly always abundant in picoplanktonic communities, and the other consisting of many microbial taxa that are rarely abundant. The genomic content of the second group suggests that these microbes are capable of slow growth and survival in energy-limited environments, and rapid growth in energy-rich environments. By contrast, the abundant and cosmopolitan picoplanktonic prokaryotes for which there is genomic representation have smaller genomes, are probably capable of only slow growth and seem to be relatively unable to sense or rapidly acclimate to energy-rich conditions. Their genomic features also lead us to propose that one method used to avoid predation by viruses and/or bacterivores is by means of slow growth and the maintenance of low biomass.
+
+SOURCE: Nature
+PDF URL: https://www.nature.com/articles/nature09530.pdf
+CITED BY COUNT: 290
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Biology', 'Picoplankton', 'Metagenomics', 'Genome', 'Adaptation (eye)', 'Context (archaeology)', 'Ecology', 'Evolutionary biology', 'Organism', 'Microbial ecology', 'Gene', 'Phytoplankton', 'Genetics', 'Bacteria', 'Paleontology', 'Nutrient', 'Neuroscience']

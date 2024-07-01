@@ -1,0 +1,12 @@
+ID: W2330523035
+TITLE: Global fishery prospects under contrasting management regimes
+AUTHOR: ['Christopher Costello', 'Daniel Ovando', 'Tyler Clavelle', 'C. Kent Strauss', 'Ray Hilborn', 'Michael C. Melnychuk', 'Trevor A. Branch', 'Steven D. Gaines', 'Cody Szuwalski', 'Reniel B. Cabral', 'Douglas N. Rader', 'Amanda Leland']
+ABSTRACT:
+Significance What would extensive fishery reform look like? In addition, what would be the benefits and trade-offs of implementing alternative approaches to fisheries management on a worldwide scale? To find out, we assembled the largest-of-its-kind database and coupled it to state-of-the-art bioeconomic models for more than 4,500 fisheries around the world. We find that, in nearly every country of the world, fishery recovery would simultaneously drive increases in food provision, fishery profits, and fish biomass in the sea. Our results suggest that a suite of approaches providing individual or communal access rights to fishery resources can align incentives across profit, food, and conservation so that few trade-offs will have to be made across these objectives in selecting effective policy interventions.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/113/18/5125.full.pdf
+CITED BY COUNT: 476
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Fishery', 'Incentive', 'Fisheries management', 'Business', 'Profit (economics)', 'Fish stock', 'Natural resource economics', 'Fish <Actinopterygii>', 'Environmental resource management', 'Economics', 'Fishing', 'Biology', 'Microeconomics']

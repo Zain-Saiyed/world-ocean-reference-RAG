@@ -1,0 +1,12 @@
+ID: W2605674946
+TITLE: Recent Sargassum Inundation Events in the Caribbean: Shipboard Observations Reveal Dominance of a Previously Rare Form
+AUTHOR: ['Jeffrey M. Schell', 'Deborah S. Goodwin', 'Amy N. S. Siuda']
+ABSTRACT:
+During June 2011, pelagic Sargassum began washing ashore along Caribbean, Gulf of Mexico, West African, and Brazilian coastlines in unprecedented quantities.Tourist beaches were covered by more than a meter of seaweed.Economic impacts of this Atlantic basin-scale inundation event drew international media attention (Higgins, 2011).By summer 2012, our shipboard observations suggested the Caribbean portion of the event had run its course.However, another similarly extensive Sargassum inundation was underway by April 2014, persisting through 2015 (MercoPress, 2015).Did the invading pelagic Sargassum drift out of the Sargasso Sea, a vast region bounded by the currents of the North Atlantic gyre (Smetacek and Zingone, 2013)?Alternatively, is its source the North Equatorial Recirculation Region (NERR), as suggested by satellite-derived observations of Sargassum mats (Gower et al., 2013) and hindcast models of Sargassum landfalls (Johnson et al., 2013)?Our recent net sampling indicates that the invading Sargassum did not come from the Sargasso Sea.In late November 2014, Sea Education Association's (SEA's) SSV Corwith Cramer departed the Canary Islands.We sailed across the eastern Sargasso Sea without a sighting, but on day 15, after heading south into the tropics, we were surrounded by Sargassum.For the next three weeks, twice-daily surface net tows contained more Sargassum than ever recorded by SEA voyages.We noticed the seaweed looked different from the Sargassum fluitans or S. natans with which we were familiar from 20 years of sailing in the Sargasso Sea, the Caribbean, and Florida Straits (Figure 1a).Most resources assert pelagic Sargassum is composed of two species, S. fluitans and S. natans.However, each species exhibits a diversity of
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/28-3_schell.pdf
+CITED BY COUNT: 126
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Sargassum', 'Dominance (genetics)', 'Oceanography', 'Geography', 'Environmental science', 'Fishery', 'Ecology', 'Biology', 'Geology', 'Algae', 'Biochemistry', 'Gene']

@@ -1,0 +1,12 @@
+ID: W2890413294
+TITLE: Carbon stocks of mangroves and salt marshes of the Amazon region, Brazil
+AUTHOR: ['J. Boone Kauffman', 'Ângelo F. Bernardino', 'Tiago Osório Ferreira', 'Leila R Giovannoni', 'Luiz Eduardo de Oliveira Gomes', 'Danilo Jefferson Romero', 'Laís Coutinho Zayas Jimenez', 'Francisco J. R. Ruiz']
+ABSTRACT:
+In addition to the largest existing expanse of tropical forests, the Brazilian Amazon has among the largest area of mangroves in the world. While recognized as important global carbon sinks that, when disturbed, are significant sources of greenhouse gases, no studies have quantified the carbon stocks of these vast mangrove forests. In this paper, we quantified total ecosystem carbon stocks of mangroves and salt marshes east of the mouth of the Amazon River, Brazil. Mean ecosystem carbon stocks of the salt marshes were 257 Mg C ha-1 while those of mangroves ranged from 361 to 746 Mg C ha-1 Although aboveground mass was high relative to many other mangrove forests (145 Mg C ha-1), soil carbon stocks were relatively low (340 Mg C ha-1). Low soil carbon stocks may be related to coarse textured soils coupled with a high tidal range. Nevertheless, the carbon stocks of the Amazon mangroves were over twice those of upland evergreen forests and almost 10-fold those of tropical dry forests.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2018.0208
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mangrove', 'Amazon rainforest', 'Biology', 'Salt marsh', 'Marsh', 'Ecology', 'Carbon stock', 'Amazon basin', 'Wetland', 'Fishery', 'Agroforestry', 'Climate change']

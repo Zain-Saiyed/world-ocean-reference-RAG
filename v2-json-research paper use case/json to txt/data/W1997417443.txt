@@ -1,0 +1,12 @@
+ID: W1997417443
+TITLE: Carbon sequestration in wetland dominated coastal systems—a global sink of rapidly diminishing magnitude
+AUTHOR: ['Charles S. Hopkinson', 'Wei‐Jun Cai', 'Xinping Hu']
+ABSTRACT:
+Coastal vegetated wetlands have recently been identified as very important global C sinks but vulnerable to degradation by direct human alteration of their habitats. While their expanse is small globally, areal rates of C burial, or sequestration, are among the highest of Earth's ecosystems. There is considerable uncertainty in the magnitude of total global sequestration in these systems for two reasons: poor estimates of their global areas and high variability and uncertainty in areal rates of burial between systems. The magnitude of C burial in vegetated coastal systems has been decreasing rapidly over the past century due primarily to human disturbances such as dredging, filling, eutrophication, and timber harvest. These systems continue to be lost globally at rates ranging from 1% to 7% annually. We find that climate change including global warming, human engineering of river systems, continued agricultural expansion, and sea level rise will also negatively impact C burial of coastal vegetated wetlands. A decrease in global C burial in these systems will ultimately exacerbate CO2 emissions, and further contribute to climate change in the future.
+
+SOURCE: Current opinion in environmental sustainability
+PDF URL: None
+CITED BY COUNT: 205
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Wetland', 'Environmental science', 'Dredging', 'Carbon sequestration', 'Global warming', 'Climate change', 'Ecosystem', 'Sink (geography)', 'Carbon sink', 'Global change', 'Habitat', 'Hydrology (agriculture)', 'Oceanography', 'Ecology', 'Geography', 'Carbon dioxide', 'Geology', 'Geotechnical engineering', 'Biology', 'Cartography']

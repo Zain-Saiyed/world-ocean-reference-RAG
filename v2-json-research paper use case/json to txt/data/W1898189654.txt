@@ -1,0 +1,12 @@
+ID: W1898189654
+TITLE: Threat of plastic pollution to seabirds is global, pervasive, and increasing
+AUTHOR: ['Chris Wilcox', 'Erik van Sebille', 'Britta Denise Hardesty']
+ABSTRACT:
+Plastic pollution in the ocean is a global concern; concentrations reach 580,000 pieces per km(2) and production is increasing exponentially. Although a large number of empirical studies provide emerging evidence of impacts to wildlife, there has been little systematic assessment of risk. We performed a spatial risk analysis using predicted debris distributions and ranges for 186 seabird species to model debris exposure. We adjusted the model using published data on plastic ingestion by seabirds. Eighty of 135 (59%) species with studies reported in the literature between 1962 and 2012 had ingested plastic, and, within those studies, on average 29% of individuals had plastic in their gut. Standardizing the data for time and species, we estimate the ingestion rate would reach 90% of individuals if these studies were conducted today. Using these results from the literature, we tuned our risk model and were able to capture 71% of the variation in plastic ingestion based on a model including exposure, time, study method, and body size. We used this tuned model to predict risk across seabird species at the global scale. The highest area of expected impact occurs at the Southern Ocean boundary in the Tasman Sea between Australia and New Zealand, which contrasts with previous work identifying this area as having low anthropogenic pressures and concentrations of marine debris. We predict that plastics ingestion is increasing in seabirds, that it will reach 99% of all species by 2050, and that effective waste management can reduce this threat.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/112/38/11899.full.pdf
+CITED BY COUNT: 694
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Seabird', 'Plastic pollution', 'Marine debris', 'Environmental science', 'Debris', 'Ingestion', 'Risk assessment', 'Pollution', 'Ecology', 'Oceanography', 'Biology', 'Geology', 'Computer science', 'Predation', 'Biochemistry', 'Computer security']

@@ -1,0 +1,12 @@
+ID: W2996818966
+TITLE: Effects of fullerene C60 in blue mussels: Role of mTOR in autophagy related cellular/tissue alterations
+AUTHOR: ['Susanna Sforzini', 'Caterina Oliveri', 'Audrey Barranger', 'Awadhesh N. Jha', 'Mohamed Bannı', 'Michael N. Moore', 'Aldo Viarengo']
+ABSTRACT:
+The effects of C60 on mTOR (mechanistic Target of Rapamycin) activity in mussel digestive gland were investigated. mTOR is a kinase that senses physiological and environmental signals to control eukaryotic cell growth. mTOR is present in two complexes: the phosphorylated mTORC1 regulates cell growth by activating anabolic processes, and by inhibiting catabolic processes (i.e. autophagy); mTORC2 also modulates actin cytoskeleton organization. Mussels were exposed to C60 (0.01, 0.1 and 1 mg/L) for 72 h. Immunocytochemical analysis using a specific antibody revealed the cellular distribution of C60 in mussel digestive gland, already at the lowest concentration. In exposed mussels, the dephosphorylation of mTORC1 and mTORC2 may explain the C60 effects, i.e. the reduction of lysosomal membrane stability, the enhancement of LC3B protein, and the increase of lysosomal/cytoplasmic volume ratio; as well the cytoskeletal alterations. No oxidative stress was observed. Multivariate analysis was used to facilitate the interpretation of the biomarker data. Finally, a low density oligo-microarray was used to understand the cellular responses to fullerene. Transcriptomics identified a number of differentially expressed genes (DEGs) showing a maximum in animals exposed to 0.1 mg/L C60. The most affected processes are associated with energy metabolism, lysosomal activity and cytoskeleton organization. In this study, we report the first data on the subcellular distribution of C60 in mussel's cells; and on the involvement of mTOR inhibition in the alterations due to nanoparticle accumulation. Overall, mTOR deregulation, by affecting protein synthesis, energy metabolism and autophagy, may reduce the capacity of the organisms to effectively grow and reproduce.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Autophagy', 'PI3K/AKT/mTOR pathway', 'Fullerene', 'Chemistry', 'Cell biology', 'Biology', 'Biochemistry', 'Apoptosis', 'Organic chemistry']

@@ -1,0 +1,12 @@
+ID: W2137966702
+TITLE: Trends in the surface chlorophyll of the California Current: Merging data from multiple ocean color satellites
+AUTHOR: ['Mati Kahru', 'Raphael M. Kudela', 'Marlenne Manzano–Sarabia', 'B. Greg Mitchell']
+ABSTRACT:
+Standard remote sensing reflectance products from four ocean color sensors (OCTS, SeaWiFS, MODISA, MERIS) and over 10,000 in situ measurements of surface chlorophyll-a (Chl-a) concentration in the California Current were used to create empirical algorithms that are consistent with in situ data as well as between individual sensors. Using these algorithms, a merged multi-sensor time series of the surface Chl-a concentration in California Current region was created. The merged Chl-a time series (November 1996–December 2011) show a significant (P<0.01) increasing trend off central California and significant (P<0.01) decreasing trends in the central North Pacific gyre and off southern Baja California. Although this 15-year time series is too short to separate interannual and multidecadal cycles from climate trends, both of these trends are consistent with the predicted effects of global warming. The expected increase in vertical stratification of the water column and the resulting decreased vertical flux of nutrients would lead to lower Chl-a in the gyre but the increased upwelling-favorable winds leading to stronger upwelling off central California or the increased nitrate content of the upwelled water would lead to higher Chl-a in the upwelling region. The decreased Chl-a off southern Baja California resembles the effect of a decreased influence of strong El Nino events.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 113
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Upwelling', 'SeaWiFS', 'Ocean gyre', 'Ocean color', 'Oceanography', 'Environmental science', 'Water column', 'Chlorophyll a', 'Current (fluid)', 'Climatology', 'Sea surface temperature', 'Nutrient', 'Geology', 'Subtropics', 'Phytoplankton', 'Satellite', 'Chemistry', 'Biochemistry', 'Organic chemistry', 'Aerospace engineering', 'Fishery', 'Engineering', 'Biology']

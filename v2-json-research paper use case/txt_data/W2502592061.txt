@@ -1,0 +1,12 @@
+ID: W2502592061
+TITLE: Coral Reefs Under Climate Change and Ocean Acidification: Challenges and Opportunities for Management and Policy
+AUTHOR: ['Ken Anthony']
+ABSTRACT:
+Carbon emissions in an industrialized world have created two problems for coral reefs: climate change and ocean acidification. Climate change drives ocean warming, which impacts biological and ecological reef processes, triggers large-scale coral bleaching events, and fuels tropical storms. Ocean acidification slows reef growth, alters competitive interactions, and impairs population replenishment. For managers and policymakers, ocean warming and acidification represent an almost paradoxical challenge by eroding reef resilience and simultaneously increasing the demand for reef resilience. Here, I address this problem in the context of challenges and potential solutions. Management efforts can compensate for reduced coral reef resilience in the face of global change, but to a limited extent and over a limited time frame. Critically, a realistic perspective on what sustainability measures can be achieved for coral reefs in the face of ocean warming and acidification is important to avoid setting unachievable goals for regional and local-scale management programs.
+
+SOURCE: Annual review of environment and resources
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-environ-110615-085610
+CITED BY COUNT: 92
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Reef', 'Coral reef', 'Climate change', 'Environmental science', 'Effects of global warming on oceans', 'Resilience of coral reefs', 'Global warming', 'Coral bleaching', 'Sustainability', 'Oceanography', 'Context (archaeology)', 'Environmental resource management', 'Ecology', 'Geography', 'Geology', 'Biology', 'Archaeology']

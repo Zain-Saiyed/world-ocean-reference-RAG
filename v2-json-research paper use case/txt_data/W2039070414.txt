@@ -1,0 +1,12 @@
+ID: W2039070414
+TITLE: Methylmercury exposure and developmental neurotoxicity
+AUTHOR: ['Gary J. Myers', 'Philip W. Davidson', 'Gene E. Watson', 'Edwin van Wijngaarden', 'Sally W. Thurston', 'JJ Strain', 'Conrad F. Shamlaye', 'Pascal Bovet']
+ABSTRACT:
+We are concerned that certain aspects of the systematic review on methylmercury (MeHg) exposure from seafood consumption and the risk of developmental neurotoxicity published in the Bulletin of World Health Organization could be misinterpreted.1 Specifically, the review does not address the issue of whether naturally-occurring, background levels of prenatal exposure to MeHg from maternal fish consumption causes adverse neurodevelopmental effects in children. In our opinion, the title suggests that the article addresses this key issue, but the search terms used to review the literature and the text of the review itself clearly indicate that the focus is limited to assessing MeHg levels in infants, pregnant women, mothers and women without children. The authors base their conclusions about developmental neurotoxicity on whether or not exposures exceed the proposed permissible tolerable weekly intake (PTWI) of 1.6 μg of MeHg per kg body weight, established by the Food and Agriculture Organization (FAO) and the World Health Organization (WHO) in 2003. This PTWI was derived from risk assessment procedures using epidemiological data and is used in risk characterization. It includes a safety factor to account for uncertainty in the exposure-response data and pharmacokinetics of MeHg. Our concern is that the readers might assume that this article reviews the evidence on which reference values were based. In fact, the authors review the evidence for exposure above the reference value. The distinction is important since fish is not only the primary human source of MeHg exposure, but it is also an essential part of daily nutrition for over 2.9 billion people worldwide, most of whom reside in developing countries with limited nutritional and health resources.2
+
+SOURCE: Bulletin of the World Health Organization
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Methylmercury', 'Neurotoxicity', 'Medicine', 'Environmental health', 'Biology', 'Toxicology', 'Toxicity', 'Ecology', 'Bioaccumulation', 'Internal medicine']

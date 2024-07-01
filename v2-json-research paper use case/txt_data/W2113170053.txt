@@ -1,0 +1,12 @@
+ID: W2113170053
+TITLE: Spatial and Seasonal Variations in the Biological Characteristics of Two Invasive Brown Algae, Turbinaria ornata (Turner) J. Agardh and Sargassum mangarevense (Grunow) Setchell (Sargassaceae, Fucales) Spreading on the Reefs of Tahiti (French Polynesia)
+AUTHOR: ['Valérie Stiger', 'Claude Payri']
+ABSTRACT:
+In terms of widespread distribution and high population density Turbinaria ornata and Sargassum mangarevense are the most conspicuous organisms settled on the reefs in Tahiti and other high islands of French Polynesia. This study reports on quantitative investigations of the temporal and spatial patterns displayed by these two species. It was carried out at three different sites on Tahiti Island. Data dealing with density, maturity, size structure of the mature population, sex-distribution and fertility were collected over 16 months between November 1994 and February 1996. Turbinaria ornata and Sargassum mangarevense populations settle on the reef throughout the year with a peak in density during the cool season. A density gradient from the fringing reef to the outer biogenic ridge was evident. A peak in maturity and fertility was observed during the warm season. A dwarfism of thallus length was noticed in Turbinaria ornata on the outer biogenic ridge whereas it was not observed in Sargassum mangarevense . The populations of both species settled on the fringing reef and outer biogenic ridge, two physically and chemically unstable areas, exhibited a high sexual reproduction, whereas it was lower on the inner barrier reef. Whatever the area considered the period of reproduction of these two species extended throughout the whole year. The data collected during this study were used to explain the colonization of different habitats by these two species.
+
+SOURCE: Botanica marina
+PDF URL: None
+CITED BY COUNT: 73
+PUBLICATION YEAR: 1999
+TYPE: article
+CONCEPTS: ['Fucales', 'Sargassum', 'Reef', 'Biology', 'Algae', 'Population', 'Ecology', 'Thallus', 'Population density', 'Botany', 'Demography', 'Sociology']

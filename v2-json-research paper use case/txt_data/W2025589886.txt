@@ -1,0 +1,12 @@
+ID: W2025589886
+TITLE: Dams on the Mekong: Cumulative sediment starvation
+AUTHOR: ['G. Mathias Kondolf', 'Zan Rubin', 'J. T. Minear']
+ABSTRACT:
+Abstract The Mekong River, largely undeveloped prior to 1990, is undergoing rapid dam construction. Seven dams are under construction on the mainstem in China and 133 proposed for the Lower Mekong River and tributaries. We delineated nine distinct geomorphic regions, for which we estimated sediment yields based on geomorphic characteristics, tectonic history, and the limited sediment transport data available. We then applied the 3W model to calculate cumulative sediment trapping by these dams, accounting for changing trap efficiency over time and multiple dams on a single river system. Under a “definite future” scenario of 38 dams (built or under construction), cumulative sediment reduction to the Delta would be 51%. Under full build‐out of all planned dams, cumulative sediment trapping will be 96%. That is, once in‐channel stored sediment is exhausted, only 4% of the predam sediment load would be expected to reach the Delta. This scenario would have profound consequences on productivity of the river and persistence of the Delta landform itself, and suggests that strategies to pass sediment through/around dams should be explored to prevent the consequences of downstream sediment starvation.
+
+SOURCE: Water resources research
+PDF URL: None
+CITED BY COUNT: 328
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Sediment', 'Tributary', 'Hydrology (agriculture)', 'Sedimentary budget', 'Erosion', 'Delta', 'Landform', 'Environmental science', 'River delta', 'Channel (broadcasting)', 'Sediment transport', 'Geology', 'Geomorphology', 'Geography', 'Geotechnical engineering', 'Cartography', 'Electrical engineering', 'Aerospace engineering', 'Engineering']

@@ -1,0 +1,12 @@
+ID: W3008620292
+TITLE: Whale Watching in Northern Peru: An Economic Boom?
+AUTHOR: ['Chiara Guidino', 'Elizabeth Campbell', 'Belén Alcorta', 'Valeria Gonzalez', 'Jeffrey C. Mangel', 'Aldo S. Pacheco', 'Sebastián Silva', 'Joanna Alfaro‐Shigueto']
+ABSTRACT:
+Whale-watching tourism is growing rapidly worldwide. Currently, it occurs in more than 119 countries and is estimated to produce more than US$2.5 billion in annual revenue. In northern Peru, this industry is relatively new, and the economic impact generated from whale watching remains unknown. This study was designed to provide an assessment of the economic impact of whale-watching activity in northern Peru. In this area the activity is focused on humpback whales ( Megaptera novaeangliae ). In 2018, we conducted surveys to 199 whale-watch tourists and six tour companies to estimate the economic impact of the activity. Our results indicate that whale watching of humpback whales is currently worth an estimate of US$3 million annually as a tourist attraction, an economic input that did not exist in the region 10 years ago. This activity has a significant potential for further growth; however, there is an urgent need for guidelines and regulations to ensure a sustainable and well-managed whale-watch tourism industry.
+
+SOURCE: Tourism in marine environments
+PDF URL: None
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Whale', 'Humpback whale', 'Tourism', 'Fishery', 'Economic impact analysis', 'Revenue', 'Boom', 'Geography', 'Whaling', 'Business', 'Oceanography', 'Economics', 'Archaeology', 'Accounting', 'Geology', 'Biology', 'Microeconomics']

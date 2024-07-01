@@ -1,0 +1,12 @@
+ID: W2741339960
+TITLE: Planimetric and volumetric changes of reef islands in response to wave conditions
+AUTHOR: ['Mirella B. Costa', 'Eduardo Cavalcante de Macedo', 'Eduardo Siegle']
+ABSTRACT:
+Abstract Reef islands are morphologically dynamic features located on atolls and platform reefs that are very sensitive to wave‐induced processes on different timescales. The planform morphological evolution of reef islands is widely described; however, the mechanisms of the volumetric variations in response to wave energy are still poorly documented. To assess their multitemporal vertical and horizontal mobility, we performed a series of synchronous measurements of the volumetric changes and incident wave energies at two reef islands and a shingle bank at the Rocas Atoll in the South Atlantic Ocean. The results show the differences in the magnitudes and locations of the sediment mobility between the reef islands. Whereas one island remained stable on all timescales, with only small volumetric changes concentrated at its extremities, the other island (Farol Island) showed high mobility, especially during the energetic northern swell season. The gross volumetric change reached 10.03 × 10 3 m 3 (5% of the total island volume) on a daily timescale; however, on a seasonal scale, the gross erosion was compensated by the gross accretion, indicating a cyclical seasonal pattern. Moreover, the observed volumetric changes induced by the waves on both daily and seasonal timescales did not result in large shoreline displacements. However, long‐term oceanward erosion and substantial lagoonward accretion were observed at Farol Island on a decadal scale, resulting in a pronounced change in its planform morphology. This appears to be promoted by at least three sediment transport pathways induced by waves at the atoll, including sediment adjustment between the reef islands. Our results show that reef islands on the same atoll can have very distinct morphological behaviors on daily, seasonal and decadal scales in response to the same boundary conditions. Copyright © 2017 John Wiley &amp; Sons, Ltd.
+
+SOURCE: Earth surface processes and landforms
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Atoll', 'Reef', 'Geology', 'Oceanography', 'Shore', 'Accretion (finance)', 'Swell', 'Sediment transport', 'Erosion', 'Sediment', 'Geomorphology', 'Physics', 'Astrophysics']

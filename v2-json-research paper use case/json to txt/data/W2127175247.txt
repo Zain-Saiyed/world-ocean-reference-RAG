@@ -1,0 +1,12 @@
+ID: W2127175247
+TITLE: Structure and function of the global ocean microbiome
+AUTHOR: ['Shinichi Sunagawa', 'Luís Pedro Coelho', 'Samuel Chaffron', 'Jens Roat Kultima', 'Karine Labadie', 'Guillem Salazar', 'Bardya Djahanschiri', 'Georg Zeller', 'Daniel Mende', 'Adriana Alberti', 'Francisco M. Cornejo‐Castillo', 'Paul Igor Costea', 'Corinne Cruaud', 'Francesco d’Ovidio', 'Stéfan Engelen', 'Isabel Ferrera', 'Josep M. Gasol', 'Lionel Guidi', 'Falk Hildebrand', 'Florian Kokoszka', 'Cyrille Lepoivre', 'Gipsi Lima‐Mendez', 'Julie Poulain', 'Bonnie T. Poulos', 'Marta Royo‐Llonch', 'Hugo Sarmento', 'Sara Vieira‐Silva', 'Céline Dimier', 'Marc Picheral', 'Sarah Searson', 'Stefanie Kandels‐Lewis', 'Tara Oceans Coordinators', 'Chris Bowler', 'Colomban de Vargas', 'Garcia Gabriel', 'Grimsley Nigel', 'Pascal Hingamp', 'Daniele Iudicone', 'Olivier Jaillon', 'Fabrice Not', 'Hiroyuki Ogata', 'Stéphane Pesant', 'Sabrina Speich', 'Lars Stemmann', 'Matthew B. Sullivan', 'Jean Weissenbach', 'Patrick Wincker', 'Eric Karsenti', 'Jeroen Raes', 'Silvia G. Acinas', 'Peer Bork']
+ABSTRACT:
+Microbes are dominant drivers of biogeochemical processes, yet drawing a global picture of functional diversity, microbial community structure, and their ecological determinants remains a grand challenge. We analyzed 7.2 terabases of metagenomic data from 243 Tara Oceans samples from 68 locations in epipelagic and mesopelagic waters across the globe to generate an ocean microbial reference gene catalog with &gt;40 million nonredundant, mostly novel sequences from viruses, prokaryotes, and picoeukaryotes. Using 139 prokaryote-enriched samples, containing &gt;35,000 species, we show vertical stratification with epipelagic community composition mostly driven by temperature rather than other environmental factors or geography. We identify ocean microbial core functionality and reveal that &gt;73% of its abundance is shared with the human gut microbiome despite the physicochemical differences between these two ecosystems.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 2134
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Mesopelagic zone', 'Metagenomics', 'Biogeochemical cycle', 'Microbiome', 'Ecology', 'Biology', 'Prokaryote', 'Ecosystem', 'Abundance (ecology)', 'Biogeochemistry', 'Community structure', 'Microbial population biology', 'Oceanography', 'Geography', 'Bacteria', 'Gene', 'Geology', 'Bioinformatics', 'Biochemistry', 'Genetics']

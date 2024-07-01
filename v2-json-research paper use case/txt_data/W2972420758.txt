@@ -1,0 +1,12 @@
+ID: W2972420758
+TITLE: Natural and anthropogenic factors influencing abundance of the benthic macrofauna along the shelf and slope of the Gulf of Guinea, a large marine ecosystem off West Africa
+AUTHOR: ['Krzysztof Pabis', 'Robert Sobczyk', 'Jacek Siciński', 'Tor Ensrud', 'Bjorn Serigstadt']
+ABSTRACT:
+The West African continental margin belongs to the least known areas in terms of the ecology of benthic ecosystems. At the same time, this region is influenced by various threats associated with human activities, including industrialisation and oil excavation. Here, we analyse the abundance and distribution patterns of macrozoobenthic communities along the coast of Ghana. The material was collected in 2012 on nine transects at depths ranging from 25 to 1000 m. Over 200 quantitative samples were collected using a 0.1-m2 van Veen grab. Generally, the mean density of macrozoobenthos decreased gradually from the shallow zone (25 m: 231.4 ± 262.2 ind./0.1 m2) down to bathyal depths (1000 m: 55.4 ± 51.4 ind./0.1 m2), but we observed intermediate scale variability in distribution patterns among the transects along the Ghanaian coast. Analysis of environmental factors showed no evidence of substantial pollution, although levels of hydrocarbons, barium and some other toxic metals show some local increases at particular stations, especially on the continental slope. Cluster analysis based on Bray–Curtis similarity and abundance of higher taxonomic groups of macrofauna yielded five groups of stations, while SIMPER analysis demonstrated that polychaetes and amphipods contributed most significantly to within-group similarity. Canonical Correspondence Analysis demonstrated that PAH, THC and toxic metal levels (Ba, Cd, Pb), as well as oxygen concentration, were the most important factors structuring benthic communities.
+
+SOURCE: Oceanologia
+PDF URL: None
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Transect', 'Abundance (ecology)', 'Ecology', 'Marine ecosystem', 'Environmental science', 'Oceanography', 'Canonical correspondence analysis', 'Bathyal zone', 'Continental shelf', 'Ecosystem', 'Detritivore', 'Geography', 'Geology', 'Biology']

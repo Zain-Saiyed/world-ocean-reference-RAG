@@ -1,0 +1,12 @@
+ID: W2896862229
+TITLE: Co-selection of multi-antibiotic resistance in bacterial pathogens in metal and microplastic contaminated environments: An emerging health threat
+AUTHOR: ['Md. Imran', 'Kirti Ranjan Das', 'Milind Mohan Naik']
+ABSTRACT:
+Misuse/over use of antibiotics increases the threats to human health since this is a main reason behind evolution of antibiotic resistant bacterial pathogens. However, metals such as mercury, lead, zinc, copper and cadmium are accumulating to critical concentration in the environment and triggering co-selection of antibiotic resistance in bacteria. The co-selection of metal driven antibiotic resistance in bacteria is achieved through co-resistance or cross resistance. Metal driven antibiotic resistant determinants evolved in bacteria and present on same mobile genetic elements are horizontally transferred to distantly related bacterial human pathogens. Additionally, in marine environment persistent pollutants like microplastics is recognized as a vector for the proliferation of metal/antibiotics and human pathogens. Recently published research confirmed that horizontal gene transfer between phylogenetically distinct microbes present on microplastics is much faster than free living microbes. Therefore, microplastics act as an emerging hotspot for metal driven co-selection of multidrug resistant human pathogens and pose serious threat to humans which do recreational activities in marine environment and ingest marine derived foods. Therefore, marine environment co-polluted with metal, antibiotics, human pathogens and microplastics pose an emerging health threat globally.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 387
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Microplastics', 'Antibiotic resistance', 'Resistome', 'Human pathogen', 'Biology', 'Antibiotics', 'Bacteria', 'Human health', 'Microbiology', 'Mobile genetic elements', 'Horizontal gene transfer', 'Pathogenic bacteria', 'Ecology', 'Genetics', 'Environmental health', 'Medicine', 'Plasmid', 'Gene', 'Integron', 'Phylogenetic tree']

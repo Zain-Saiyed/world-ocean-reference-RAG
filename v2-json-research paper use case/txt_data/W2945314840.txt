@@ -1,0 +1,12 @@
+ID: W2945314840
+TITLE: Assessing Morphologic Controls on Atoll Island Alongshore Sediment Transport Gradients Due to Future Sea-Level Rise
+AUTHOR: ['James B. Shope', 'Curt D. Storlazzi']
+ABSTRACT:
+Atoll islands’ alongshore sediment transport gradients depend on how island and reef morphology affect incident wave energy. It is unclear, though, how potential atoll morphologic configurations influence shoreline erosion and/or accretion patterns, and how these relationships will respond to future sea-level rise (SLR). Schematic atoll models with varying morphologies were used to evaluate the relative control of individual morphological parameters on alongshore transport gradients. Incident wave transformations were simulated using a physics-based numerical model and alongshore erosion and accretion was calculated using empirical formulae. The magnitude of the transport gradients increased with SLR: initial erosion or accretion patterns intensified. Modeled morphologic parameters that significantly influenced alongshore transport were the atoll diameter, reef flat width, reef flat depth, and island width. Modeled atolls with comparably small diameters, narrow and deep reef flats with narrow islands displayed greater magnitudes of erosion and/or accretion, especially with SLR. Windward island shorelines are projected to accrete toward the island’s longitudinal ends and lagoon due to SLR, whereas leeward islands erode along lagoon shorelines and extend toward the island ends. Oblique island, oriented parallel to the incident deepwater wave direction, shorelines are forecast to build out leeward along the reef rim and toward the lagoon while eroding along regions exposed to direct wave attack. These findings make it possible to evaluate the relative risk of alongshore erosion/accretion on atolls due to SLR in a rapid, first-order analysis.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00245/pdf
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Atoll', 'Reef', 'Accretion (finance)', 'Sediment transport', 'Geology', 'Shore', 'Oceanography', 'Coastal erosion', 'Erosion', 'Coral reef', 'Geomorphology', 'Longshore drift', 'Sediment', 'Physics', 'Astrophysics']

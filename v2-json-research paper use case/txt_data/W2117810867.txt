@@ -1,0 +1,12 @@
+ID: W2117810867
+TITLE: Constructing the Meaning of Social Licence
+AUTHOR: ['Richard Parsons', 'Kieren Moffat']
+ABSTRACT:
+AbstractLarge companies must increasingly satisfy not only the conditions of their formal licences, but also the concerns and expectations of host communities and broader society. This has led to the emergence, particularly in the minerals industry, of the notion of "social licence", an interdiscursive term whose meaning is rarely interrogated. We use textual analysis to critically investigate the construction of social licence discourse in minerals companies' sustainable development reports and at a recent industry conference. We find that the texts mystify the nature of agency, and privilege processes that maintain existing power relations. Through their partial accommodation of heterogeneous discourses, the texts downplay tensions and conflicts. We conclude that there is a need to reconceptualise the nature of company–stakeholder relationships through a more collaborative, dialogic and reflexive process, avoiding the binary state implied by the term licence.Keywords: Social LicenceSocial ResponsibilityDiscourse AnalysisMinerals IndustryStakeholder Engagement Additional informationNotes on contributorsRichard ParsonsRichard Parsons is a social research consultant at the Earth Sciences and Resource Engineering, Commonwealth Scientific and Industrial Research Organisation, P.O. Box 883, Kenmore, QLD 4069, Australia.Kieren MoffatKieren Moffat is a team leader at the Resource Futures, Earth Sciences and Resource Engineering, Commonwealth Scientific and Industrial Research Organisation, P.O. Box 883, Kenmore, QLD 4069, Australia.
+
+SOURCE: Social epistemology
+PDF URL: None
+CITED BY COUNT: 110
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Meaning (existential)', 'Sociology', 'Epistemology', 'Philosophy']

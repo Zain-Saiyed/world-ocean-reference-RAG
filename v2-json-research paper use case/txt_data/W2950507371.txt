@@ -1,0 +1,12 @@
+ID: W2950507371
+TITLE: Analysis of China’s coastal zone management reform based on land-sea integration
+AUTHOR: ['Dahai Liu', 'Wenxiu Xing']
+ABSTRACT:
+Purpose After the 19th CPC national congress, Chinese Communist Party and the government put forward higher requirements for the development of coastal zones, and it is urgent to establish an integrated coastal zone management system, so as to better guarantee the construction of maritime powers and regional coordinated development. The purpose of this paper is to aim at re-examining and positioning China’s integrated coastal zone management. Design/methodology/approach This paper sorts out the current situation of coastal zone resources and environment, summarizes prominent problems and clarifies the path of comprehensive management of coastal zone based on the typicality and comprehensiveness of coastal ecosystem. Findings Coastal zone is a typical area of “life community shared among mountains, rivers, forests, fields, lakes and grass.” However, there are three prominent problems at present, namely, separation between land and sea, separation among industry sectors and separation among administrative jurisdictions. Coastal zone planning and legislation are important measures to realize the comprehensive management of coastal zone. Originality/value This paper puts forward some suggestions on the reform of coastal zone management from the perspective of planning and legislation.
+
+SOURCE: Marine economics and management
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coastal zone', 'China', 'Legislation', 'Exclusive economic zone', 'Integrated coastal zone management', 'Environmental resource management', 'Government (linguistics)', 'Environmental planning', 'Special economic zone', 'Coastal management', 'Geography', 'Business', 'Environmental science', 'Political science', 'Ecology', 'Law', 'Linguistics', 'Philosophy', 'Archaeology', 'Biology']

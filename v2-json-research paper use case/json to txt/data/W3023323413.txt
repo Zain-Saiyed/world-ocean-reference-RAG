@@ -1,0 +1,12 @@
+ID: W3023323413
+TITLE: Using Artificial-Reef Knowledge to Enhance the Ecological Function of Offshore Wind Turbine Foundations: Implications for Fish Abundance and Diversity
+AUTHOR: ['Maria Glarou', 'Martina Zrust', 'Jon Christian Svendsen']
+ABSTRACT:
+As the development of large-scale offshore wind farms (OWFs) amplifies due to technological progress and a growing demand for renewable energy, associated footprints on the seabed are becoming increasingly common within soft-bottom environments. A large part of the footprint is the scour protection, often consisting of rocks that are positioned on the seabed to prevent erosion. As such, scour protection may resemble a marine rocky reef and could have important ecosystem functions. While acknowledging that OWFs disrupt the marine environment, the aim of this systematic review was to examine the effects of scour protection on fish assemblages, relate them to the effects of designated artificial reefs (ARs) and, ultimately, reveal how future scour protection may be tailored to support abundance and diversity of marine species. The results revealed frequent increases in abundances of species associated with hard substrata after the establishment of artificial structures (i.e., both OWFs and ARs) in the marine environment. Literature indicated that scour protection meets the requirements to function as an AR, often providing shelter, nursery, reproduction, and/or feeding opportunities. Using knowledge from AR models, this review suggests methodology for ecological improvements of future scour protections, aiming towards a more successful integration into the marine environment.
+
+SOURCE: Journal of marine science and engineering
+PDF URL: https://www.mdpi.com/2077-1312/8/5/332/pdf?version=1590566396
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Offshore wind power', 'Artificial reef', 'Abundance (ecology)', 'Fishery', 'Environmental science', 'Biodiversity', 'Marine ecosystem', 'Species richness', 'Submarine pipeline', 'Marine protected area', 'Ecosystem engineer', 'Environmental resource management', 'Reef', 'Seabed', 'Wind power', 'Ecosystem', 'Ecology', 'Oceanography', 'Biology', 'Geology', 'Habitat']

@@ -1,0 +1,12 @@
+ID: W2094303425
+TITLE: HADEEP: Free-Falling Landers to the Deepest Places on Earth
+AUTHOR: ['Alan J. Jamieson', 'Toyonobu Fujii', 'Martin Solan', 'Imants G. Priede']
+ABSTRACT:
+Abstract The hadal zone, comprising mostly deep trenches that plummet to nearly 11 km deep, represents the largest poorly understood habitat on Earth. This knowledge dearth has been technology induced rather than of scientific interest. The U.K.‐Japan collaborative project Hadal Environment and Educational Program (HADEEP) is one venture where scientists and technologists have been working to fill this knowledge gap, particularly from a biological perspective. With limited funds and even more limited time, two 12,000-m autonomous free-fall baited imaging landers, known as hadal landers, were constructed to follow in the footsteps of the 1960 Trieste I dive; “to remotely go where two guys had gone before.” In the past 2 years, the hadal landers have been deployed in five hadal trenches in the North and South Pacific Ocean across a depth range of 5,500‐10,000 m. This new technology has led to many new discoveries including, among others, large aggregations of fish at 7,703 m, which are the deepest video footage of fish ever taken. Here we describe the origins of the HADEEP project, the challenges in developing the technology, and the scientific outcomes of exploring the deepest environment on Earth some 50 years after the pioneering Trieste I dive to Challenger Deep.
+
+SOURCE: Marine Technology Society journal/Marine technology society journal
+PDF URL: None
+CITED BY COUNT: 54
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Oceanography', 'Geology', 'Fish <Actinopterygii>', 'Fishery', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2518508997
+TITLE: Morphological response of planktic foraminifers to habitat modifications associated with the emergence of the Isthmus of Panama
+AUTHOR: ['Daniela N. Schmidt', 'Aude G M Caromel', 'Osamu Seki', 'James Rae', 'Sabrina Renaud']
+ABSTRACT:
+The impact of global change on marine ecosystems is a major concern for the future. Examples from the geological past may provide insight into how ecosystems respond to major shifts in environment. Here we use the progressive closure of the Central American Seaway over the last 10 Myrs, and the resulting new environmental conditions and niches on either side of the Panama Isthmus, as a time series documenting the reaction of planktic foraminifers to environmental change and vicariance. Our main finding is that the size and shape evolution of both investigated species is strongly influenced by temperature, despite their different ecology. The surface dweller Trilobatus sacculifer conserved the same shape on both sides of the Isthmus for most of the studied interval, and diverged only recently when the environment diverged on both sides of the Isthmus. The shape response is a combination of a change in mean shape and in percentage of morphotypes occurring within T. sacculifer. This suggests a minor role of vicariance and the potential to react to changes in the local environment through ecotypic or plastic variation. This interpretation is corroborated by extensive phenotypic variability in the absence of genetic differentiation today in this species. The shape of the deeper-living species Gt. tumida, in contrast, diverged on both sides of the Isthmus at a time that coincides with the cut-off of the connection of its habitat. This divergence combines a response to temperature and to location, suggesting local adaptation in response to vicariance. These different reactions highlight both a high potential for adaptation, but also sensitivity to temperature variations. The species-specific responses to environmental pressures indicate the difficulty in upscaling from one species to foraminifers in general.
+
+SOURCE: Marine micropaleontology
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Vicariance', 'Panama', 'Ecology', 'Habitat', 'Divergence (linguistics)', 'Ecosystem', 'Biology', 'Ecological niche', 'Environmental change', 'Climate change', 'Paleontology', 'Phylogeography', 'Phylogenetics', 'Gene', 'Biochemistry', 'Linguistics', 'Philosophy']

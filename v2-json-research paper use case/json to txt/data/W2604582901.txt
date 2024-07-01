@@ -1,0 +1,12 @@
+ID: W2604582901
+TITLE: The extreme El Niño of 2015–2016 and the end of global warming hiatus
+AUTHOR: ['Shineng Hu', 'Alexey V. Fedorov']
+ABSTRACT:
+Abstract Slower rates of increase in global mean surface temperature (GMST) after 2000, dubbed “global warming hiatus,” recently gave way to a rapid temperature rise. This rise coincided with persistent warm conditions in the equatorial Pacific between March 2014 and May 2016, which peaked as the 2015 extreme El Niño. Here we show that the El Niño–Southern Oscillation (ENSO) tightly controls interannual variations in atmospheric heating rate in the tropics ( r &gt; 0.9), allowing us to construct a simple, physically based model of GMST variations that incorporates greenhouse gas emissions, ENSO forcing, and stratospheric sulfate aerosols produced by volcanoes. The model closely reproduces GMST changes since 1880, including the global warming hiatus and the subsequent temperature rise. Our results confirm that weak El Niño activity, rather than volcanic eruptions, was the cause of the hiatus, while the rapid temperature rise is due to atmospheric heat release during 2014–2016 El Niño conditions concurrent with the continuing global warming trend.
+
+SOURCE: Geophysical research letters
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/2017gl072908
+CITED BY COUNT: 142
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Hiatus', 'Climatology', 'Volcano', 'Environmental science', 'Global temperature', 'Global warming', 'Atmospheric sciences', 'Forcing (mathematics)', 'Greenhouse gas', 'Climate model', 'El Niño Southern Oscillation', 'Geology', 'Climate change', 'Oceanography', 'Paleontology', 'Seismology']

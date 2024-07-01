@@ -1,0 +1,12 @@
+ID: W2946273390
+TITLE: Traits Shared by Marine Megafauna and Their Relationships With Ecosystem Functions and Services
+AUTHOR: ['Davi Castro Tavares', 'Jaílson Fulgencio de Moura', 'Esteban Acevedo‐Trejos', 'Agostino Merico']
+ABSTRACT:
+Traditional ecological research has focused on taxonomic units to better understand the role of organisms in marine ecosystems. This approach has significantly contributed to our understanding of how species interact with each other and with the physical environment and has led to relevant site-specific conservation strategies. However, this taxonomic-based approach can limit a mechanistic understanding of how environmental change affects marine megafauna, here defined as large fishes (e.g. shark, tuna, billfishes), sea turtles, marine mammals, and seabirds. Alternatively, an approach based on traits, i.e. measurable behavioural, physiological, or morphological characteristics of organisms, can shed new light on the processes influencing structure and functions of biological communities. Here we review 33 traits that are measurable and comparable among marine megafauna. The variability of these traits within the organisms considered controls functions mainly related to nutrient storage and transport, trophic-dynamic regulations of populations, and community shaping. To estimate the contributions of marine megafauna to ecosystem functions and services, traits can be quantified categorically or over a continuous scale, but the latter is preferred to make comparisons across groups. We argue that the most relevant traits to comparatively study marine megafauna groups are body size, body mass, dietary preference, feeding strategy, metabolic rate, and dispersal capacity. These traits can be used in combination with information on population abundances to predict how changes in the environment can affect community structure, ecosystem functioning, and ecosystem services.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00262/pdf
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Megafauna', 'Marine ecosystem', 'Ecology', 'Ecosystem', 'Trophic level', 'Biological dispersal', 'Biology', 'Marine conservation', 'Defaunation', 'Biodiversity', 'Ecosystem services', 'Population', 'Seascape', 'Habitat', 'Pleistocene', 'Paleontology', 'Rumen', 'Demography', 'Food science', 'Sociology', 'Fermentation']

@@ -1,0 +1,12 @@
+ID: W2102455575
+TITLE: Clathrate Hydrates of Natural Gases
+AUTHOR: ['E. Dendy Sloan', 'Carolyn A. Koh', 'Carolyn A. Koh']
+ABSTRACT:
+Hydrate research has expanded substantially over the past decade, resulting in more than 4,000 hydrate-related publications. Collating this vast amount of information into one source, Clathrate Hydrates of Natural Gases, Third Edition presents a thoroughly updated, authoritative, and comprehensive description of all major aspects of natural gas cla
+
+SOURCE: CRC Press eBooks
+PDF URL: None
+CITED BY COUNT: 7409
+PUBLICATION YEAR: 2007
+TYPE: book
+CONCEPTS: ['Clathrate hydrate', 'Natural gas', 'Natural (archaeology)', 'Petroleum engineering', 'Geology', 'Chemistry', 'Hydrate', 'Paleontology', 'Organic chemistry']

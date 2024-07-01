@@ -1,0 +1,12 @@
+ID: W2007578647
+TITLE: Bushmeat and bycatch: the sum of the parts
+AUTHOR: ['Phil Clapham', 'Koen Van Waerebeek']
+ABSTRACT:
+Abstract In many developing countries, the killing of wild animals for commercial purposes (the bushmeat trade) is a significant factor in the reduction of biodiversity, and probably represents a major threat to the survival of many more populations than we know. This includes marine species such as cetaceans, sea turtles and sirenians (‘marine bushmeat’), which are often neglected in the discussion of this issue. Estimating the impact of the bushmeat trade anywhere is problematic because even the most thorough visual surveys of meat markets cannot easily translate an observed quantity of butchered products into the number of animals killed. In this issue of Molecular Ecology , Baker et al . provide a powerful new tool for such assessments: molecular identification of commercially available products from a depleted population of minke whales in South Korea is combined with genotyping and novel capture–recapture methods to estimate not only the number of individuals taken, but also the persistence of the resulting products in the marketplace.
+
+SOURCE: Molecular ecology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-294X.2007.03378.x
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Bushmeat', 'Bycatch', 'Biology', 'Biodiversity', 'Fishery', 'Population', 'Identification (biology)', 'Ecology', 'Zoology', 'Wildlife', 'Fishing', 'Demography', 'Sociology']

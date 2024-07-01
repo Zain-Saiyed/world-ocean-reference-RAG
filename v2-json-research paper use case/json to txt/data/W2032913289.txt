@@ -1,0 +1,12 @@
+ID: W2032913289
+TITLE: Conservation of Deep Pelagic Biodiversity
+AUTHOR: ['Bruce H. Robison']
+ABSTRACT:
+The deep ocean is home to the largest ecosystems on our planet. This vast realm contains what may be the greatest number of animal species, the greatest biomass, and the greatest number of individual organisms in the living world. Humans have explored the deep ocean for about 150 years, and most of what is known is based on studies of the deep seafloor. In contrast, the water column above the deep seabed comprises more than 90% of the living space, yet less than 1% of this biome has been explored. The deep pelagic biota is the largest and least-known major faunal group on Earth despite its obvious importance at the global scale. Pelagic species represent an incomparable reservoir of biodiversity. Although we have yet to discover and describe the majority of these species, the threats to their continued existence are numerous and growing. Conserving deep pelagic biodiversity is a problem of global proportions that has never been addressed comprehensively. The potential effects of these threats include the extensive restructuring of entire ecosystems, changes in the geographical ranges of many species, large-scale elimination of taxa, and a decline in biodiversity at all scales. This review provides an initial framework of threat assessment for confronting the challenge of conserving deep pelagic biodiversity; and it outlines the need for baseline surveys and protected areas as preliminary policy goals.
+
+SOURCE: Conservation biology
+PDF URL: None
+CITED BY COUNT: 99
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Biodiversity', 'Geography', 'Ecology', 'Ecosystem', 'Biome', 'Global biodiversity', 'Biology']

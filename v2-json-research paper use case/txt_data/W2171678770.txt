@@ -1,0 +1,12 @@
+ID: W2171678770
+TITLE: Systematics and Ecology of a New Species of Seagrass (<i>Thalassodendron</i>, Cymodoceaceae) from Southeast African Coasts
+AUTHOR: ['Maria Cristina Duarte', 'Salomão Bandeira', 'Maria M. Romeiras']
+ABSTRACT:
+Tropical seagrass communities are one of the most productive aquatic ecosystems on earth. A high diversity of seagrass species occurs in southeastern Africa; however, these marine angiosperms are among the least studied in the world. To address this, we have revised Thalassodendron Hartog (Cymodoceaceae), one of the most representative seagrasses in these coastal waters. Morpho-anatomical analyses, complemented with field data, reveal that specimens from rocky habitats present a number of distinguishing characters (e.g., rhizome internode lengths, leaf epidermal cells, and flower structures) that recommend their exclusion from the species T. ciliatum (Forssk.) Hartog. A new species from rocky habitats, T. leptocaule Maria C. Duarte, Bandeira & Romeiras, is thus described and illustrated, with the type from Mozambique, and an identification key for the investigated taxa is presented.
+
+SOURCE: Novon
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Seagrass', 'Biology', 'Habitat', 'Ecology', 'Systematics', 'Taxon', 'Identification key', 'Epiphyte', 'Key (lock)', 'Rhizome', 'Aquatic plant', 'Taxonomy (biology)', 'Macrophyte']

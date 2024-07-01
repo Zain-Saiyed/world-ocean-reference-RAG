@@ -1,0 +1,12 @@
+ID: W2605085751
+TITLE: Adapting towards climate change impacts: Strategies for small-scale fishermen in Malaysia
+AUTHOR: ['Hayrol Azril Mohamed Shaffril', 'Asnarulkhadi Abu Samah', 'Jeffrey Lawrence D’Silva']
+ABSTRACT:
+As with the global scenario, a number of climate change ‘symptoms’ are being detected in Malaysia. Local scholars have looked into the problems of rising temperature, rising sea level, extreme rainfall and extreme winds, which are causing coastal and mangrove erosion and degradation of marine resources. In turn, these issues are affecting the small-scale fishermen who rely heavily on weather stability to conduct their social and economic routines. This paper analyses six adaptation strategies, namely, reducing the risks associated with fishing routines, strengthening social relationships, managing fishermen's climate change knowledge, facilitating the community's learning of alternative skills, involving fishermen in climate change adaptation planning, and enhancing fishermen's access to credit. These suggestions are hoped to provide basis for concerned parties to develop adaptation strategies that are in line with small-scale fishermen's needs, abilities and interests.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Climate change', 'Scale (ratio)', 'Adaptation (eye)', 'Environmental resource management', 'Mangrove', 'Business', 'Fishing', 'Climate change adaptation', 'Extreme weather', 'Natural resource economics', 'Environmental planning', 'Geography', 'Environmental science', 'Political science', 'Fishery', 'Economics', 'Ecology', 'Physics', 'Law', 'Optics', 'Cartography', 'Biology']

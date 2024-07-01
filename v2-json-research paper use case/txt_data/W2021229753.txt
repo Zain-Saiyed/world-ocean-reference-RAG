@@ -1,0 +1,12 @@
+ID: W2021229753
+TITLE: Feelings of restoration from recent nature visits
+AUTHOR: ['Mathew P. White', 'Sabine Pahl', 'Katherine Ashbullby', 'Stephen Herbert', 'Michael H. Depledge']
+ABSTRACT:
+Exposure to natural environments can help restore depleted emotional and cognitive resources. However, investigation of the relative impacts of different natural environments among large samples is limited. Using data from 4255 respondents drawn from Natural England's Monitoring Engagement with the Natural Environment survey (2009–2011), we investigated feelings of restoration (calm, relaxed, revitalized and refreshed) recalled by individuals after visits to different natural environments within the last week. Controlling for demographic and visit characteristics we found that of the broad environmental categories, coastal visits were associated with the most restoration and town and urban parks with the least. In terms of specific environmental types two “green space” locations (woodlands/forests and hills/moorland/mountains) were associated with levels of restoration comparable to coastal locations. Urban playing fields were associated with the least restoration. Restoration was positively associated with visit duration (a potential dose–response effect), and visits with children were associated with less restoration than visits alone. There was little evidence that different activities (e.g. walking, exercising) were associated with differences in restoration. The data may improve our understanding of the “cultural eco-system services” provided by different natural environments and help decision makers keen to invest scare resources in those environments most associated with psychological benefits.
+
+SOURCE: Journal of environmental psychology
+PDF URL: None
+CITED BY COUNT: 314
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Moorland', 'Woodland', 'Natural (archaeology)', 'Amenity', 'Feeling', 'Geography', 'Natural resource', 'Natural experiment', 'Restoration ecology', 'Environmental resource management', 'Environmental planning', 'Psychology', 'Ecology', 'Medicine', 'Social psychology', 'Environmental science', 'Business', 'Archaeology', 'Finance', 'Pathology', 'Biology']

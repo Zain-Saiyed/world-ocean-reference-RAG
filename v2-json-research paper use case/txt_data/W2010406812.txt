@@ -1,0 +1,12 @@
+ID: W2010406812
+TITLE: Antarctic ozone depletion causes an intensification of the Southern Ocean super-gyre circulation
+AUTHOR: ['Wenju Cai']
+ABSTRACT:
+Recent climate trends over the Southern Hemisphere (SH) summer feature a strengthening of the circumpolar westerly and a weakening of the midlatitude westerly extending from the stratosphere to Earth's surface. Much of the change is attributable to Antarctic ozone depletion. However, the consequential ocean circulation changes are unknown. Here I demonstrate that the observed surface wind changes have forced a southward shift and spin‐up of the super gyre, which links the subtropical South Pacific, Indian and Atlantic Ocean circulation, advecting more warm water southward. The circulation change includes a strengthening of the East Australian Current (EAC) flow passing through the Tasman Sea. The southward shift may be responsible for the observed unusually large warming in the SH midlatitude ocean and may contribute to the reported range extension to the south of many marine species in the South West Pacific.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 183
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'Oceanography', 'Climatology', 'Geology', 'Westerlies', 'Middle latitudes', 'Southern Hemisphere', 'Subtropics', 'Ocean current', 'Sea surface temperature', 'Thermohaline circulation', 'Ozone depletion', 'Atmospheric circulation', 'Stratosphere', 'Fishery', 'Biology']

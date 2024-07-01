@@ -1,0 +1,12 @@
+ID: W2752693701
+TITLE: Responding to coastal change: Creation of a regional approach to monitoring and management, northeastern region, U.S.A.
+AUTHOR: ['Norbert P. Psuty', 'Katherine Ames', 'Andrea Habeck', 'William J. Schmelz']
+ABSTRACT:
+A rigorous program of coastal monitoring of vital signs has been initiated in three Federal Agencies in the northeastern United States. Shoreline position and subaerial coastal topography, both products of sediment budget, have been selected as targets for monitoring and contributing to an Agency regional database. Science-based protocols have been developed and implemented to periodically collect and track one-dimensional shorelines, two-dimensional beach-dune profiles, and three-dimensional landform elevation models in the agency coastal land holdings. The use of the resulting datasets and their accompanying scientific analyses provide an understanding of the geomorphological evolution at the scales of seasons, years, and longer terms. Further, the analyses establish a firm scientific foundation and allow for the use of applied coastal geomorphology for management decisions related to the natural and cultural resources within the coastal units. The establishment of consistent protocols meets the agency needs of ease of application, is based on a firm scientific foundation, and is appropriate to the management issues at the sites.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Shore', 'Landform', 'Agency (philosophy)', 'Coastal management', 'Environmental resource management', 'Foundation (evidence)', 'Subaerial', 'Elevation (ballistics)', 'Natural (archaeology)', 'Geography', 'Physical geography', 'Environmental planning', 'Environmental science', 'Geology', 'Oceanography', 'Cartography', 'Archaeology', 'Engineering', 'Philosophy', 'Epistemology', 'Geochemistry', 'Structural engineering']

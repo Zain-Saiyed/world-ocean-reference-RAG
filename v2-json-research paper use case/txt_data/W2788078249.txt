@@ -1,0 +1,12 @@
+ID: W2788078249
+TITLE: Tracking the global footprint of fisheries
+AUTHOR: ['David A. Kroodsma', 'Juan Mayorga', 'Timothy Hochberg', 'Nathan A. Miller', 'Kristina Boerder', 'Francesco Ferretti', 'Alex W. Wilson', 'Bjorn Bergman', 'Timothy D. White', 'Barbara A. Block', 'Paul Woods', 'Brian Sullivan', 'Christopher Costello', 'Boris Worm']
+ABSTRACT:
+Although fishing is one of the most widespread activities by which humans harvest natural resources, its global footprint is poorly understood and has never been directly quantified. We processed 22 billion automatic identification system messages and tracked >70,000 industrial fishing vessels from 2012 to 2016, creating a global dynamic footprint of fishing effort with spatial and temporal resolution two to three orders of magnitude higher than for previous data sets. Our data show that industrial fishing occurs in >55% of ocean area and has a spatial extent more than four times that of agriculture. We find that global patterns of fishing have surprisingly low sensitivity to short-term economic and environmental variation and a strong response to cultural and political events such as holidays and closures.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/359/6378/904.full.pdf
+CITED BY COUNT: 678
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishing', 'Footprint', 'Ecological footprint', 'Agriculture', 'Fishery', 'Environmental resource management', 'Natural resource', 'Environmental science', 'Geography', 'Natural resource economics', 'Ecology', 'Sustainability', 'Economics', 'Archaeology', 'Biology']

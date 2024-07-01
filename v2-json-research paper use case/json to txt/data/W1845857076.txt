@@ -1,0 +1,12 @@
+ID: W1845857076
+TITLE: Coastal infrastructure: a typology for the next century of adaptation to sea‐level rise
+AUTHOR: ['Kristina E. Hill']
+ABSTRACT:
+Categorizing the choices in coastal infrastructure that are available to policy makers will allow for comparisons of their potential impacts on ecosystems and of their value in preparation for long‐term sea‐level rise. Although similar approaches have been described elsewhere in different policy contexts, this article focuses on evaluating physical infrastructure types – including hybrid structures that combine landforms with concrete and steel elements –based on historical differences in engineering practices. Such structures can be optimized for different phases of coastal adaptation and can provide multiple benefits (eg supporting ecosystems as well as minimizing flooding in coastal cities). Key factors in a geomorphological, ecological, and land‐use context must be taken into account when selecting various infrastructure strategies, to ensure that they function as intended. The San Francisco Bay region provides an example of how this typology can be applied to help policy makers choose more successful strategies as coastal areas plan for sea‐level rise.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/150088
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2015
+TYPE: review
+CONCEPTS: ['Typology', 'Environmental resource management', 'Context (archaeology)', 'Landform', 'Adaptation (eye)', 'Plan (archaeology)', 'Bay', 'Environmental planning', 'Geography', 'Environmental science', 'Civil engineering', 'Engineering', 'Cartography', 'Physics', 'Archaeology', 'Optics']

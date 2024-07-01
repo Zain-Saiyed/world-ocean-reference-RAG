@@ -1,0 +1,12 @@
+ID: W2144583352
+TITLE: Deep-sea sponge grounds enhance diversity and abundance of epibenthic megafauna in the Northwest Atlantic
+AUTHOR: ['Lindsay Beazley', 'Ellen Kenchington', 'F. Javier Murillo', 'Mar Sacau']
+ABSTRACT:
+Abstract Beazley, L. I., Kenchington E. L., Murillo, F. J., and Sacau, M. 2013. Deep-sea sponge grounds enhance diversity and abundance of epibenthic megafauna in the Northwest Atlantic. – ICES Journal of Marine Science, 70: . The influence of structure-forming deep-water sponge grounds on the composition, diversity, and abundance of the local epibenthic megafaunal community of the Flemish Pass area, Northwest Atlantic was statistically assessed. These habitats are considered vulnerable marine ecosystems and, therefore, warrant conservation measures to protect them from bottom fishing activities. The epibenthic megafauna were quantified from four photographic transects, three of which were located on the western slope of the Flemish Cap with an overall depth range of 444–940 m, and the fourth in the southern Flemish Pass between 1328 and 1411 m. We observed a diverse megafaunal community dominated by large numbers of ophiuroids and sponges. On the slope of the Flemish Cap, sponge grounds were dominated by axinellid and polymastid sponges, while the deeper sponge ground in the southern Flemish Pass was formed mainly by geodiids and Asconema sp. The presence of structure-forming sponges was associated with a higher biodiversity and abundance of associated megafauna compared with non-sponge habitat. The composition of megafauna significantly differed between sponge grounds and non-sponge grounds and also between different sponge morphologies. Surface chlorophyll a and near-bottom salinity were important environmental determinants in generalized linear models of megafaunal species richness and abundance.
+
+SOURCE: ICES journal of marine science
+PDF URL: None
+CITED BY COUNT: 110
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Megafauna', 'Species richness', 'Abundance (ecology)', 'Biodiversity', 'Ecology', 'Oceanography', 'Flemish', 'Transect', 'Marine protected area', 'Habitat', 'Species diversity', 'Fishery', 'Geography', 'Biology', 'Geology', 'Archaeology', 'Pleistocene']

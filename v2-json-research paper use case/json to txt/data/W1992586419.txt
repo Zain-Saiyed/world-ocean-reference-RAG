@@ -1,0 +1,12 @@
+ID: W1992586419
+TITLE: 21 years of shelf life between discovery and description of new species
+AUTHOR: ['Benoît Fontaine', 'A. Perrard', 'Philippe Bouchet']
+ABSTRACT:
+A large part of biodiversity is still unknown, and it is estimated that, at the current pace, it will take several centuries to describe all species living on Earth. In the context of the ongoing ‘sixth extinction’, accelerating the completion of the inventory of living biota is an issue that reaches far beyond the taxonomic community. However, the factors that influence the accretion of known species remain poorly understood. Here, we study how long it takes from the first collection of a specimen of a new species to its formal description and naming in the scientific literature [1Gaston K.J. Scoble M.J. Crook A. Patterns in species description - A case-study using the Geometridae (Lepidoptera).Biol. J. Linn. Soc. 1995; 55: 225-237Crossref Scopus (7) Google Scholar, 2Green S.V. The taxonomic impediment in orthopteran research and conservation.J. Insect Conserv. 1998; 2: 151-159Crossref Google Scholar] — a period we refer to as a species’ ‘shelf life’. Based on a random set of species described in 2007 across all kingdoms of life, we determine that the average shelf life between discovery and description is 21 years. The length of the shelf life is impacted by biological, social and geopolitical biases.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982212012481/pdf
+CITED BY COUNT: 134
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Biology', 'Context (archaeology)', 'Biota', 'Biodiversity', 'Ecology', 'Paleontology']

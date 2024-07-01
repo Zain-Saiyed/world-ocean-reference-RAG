@@ -1,0 +1,12 @@
+ID: W2901225311
+TITLE: Mass Spectrometry-Based Microbial Metabolomics: Techniques, Analysis, and Applications
+AUTHOR: ['Edward E. K. Baidoo', 'Veronica T. Benites']
+ABSTRACT:
+The demand for understanding the roles genes play in biological systems has steered the biosciences into the direction the metabolome, as it closely reflects the metabolic activities within a cell. The importance of the metabolome is further highlighted by its ability to influence the genome, transcriptome, and proteome. Consequently, metabolomic information is being used to understand microbial metabolic networks. At the forefront of this work is mass spectrometry, the most popular metabolomics measurement technique. Mass spectrometry-based metabolomic analyses have made significant contributions to microbiological research in the environment and human disease. In this chapter, we break down the technical aspects of mass spectrometry-based metabolomics and discuss its application to microbiological research.
+
+SOURCE: Methods in molecular biology
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Metabolomics', 'Metabolome', 'Computational biology', 'Proteome', 'Mass spectrometry', 'Proteomics', 'Transcriptome', 'Biology', 'Bioinformatics', 'Chemistry', 'Chromatography', 'Biochemistry', 'Gene', 'Gene expression']

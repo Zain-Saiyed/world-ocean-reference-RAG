@@ -1,0 +1,12 @@
+ID: W2548995328
+TITLE: Living on the edge of a shrinking habitat: the ivory gull, <i>Pagophila eburnea</i> , an endangered sea-ice specialist
+AUTHOR: ['Olivier Gilg', 'Larysa Istomina', 'Georg Heygster', 'Hallvard Strøm', 'Maria Gavrilo', 'Mark L. Mallory', 'Grant Gilchrist', 'Adrian Aebischer', 'Brigitte Sabard', 'Marcus Huntemann', 'Anders Mosbech', 'Glenn Yannic']
+ABSTRACT:
+The ongoing decline of sea ice threatens many Arctic taxa, including the ivory gull. Understanding how ice-edges and ice concentrations influence the distribution of the endangered ivory gulls is a prerequisite to the implementation of adequate conservation strategies. From 2007 to 2013, we used satellite transmitters to monitor the movements of 104 ivory gulls originating from Canada, Greenland, Svalbard-Norway and Russia. Although half of the positions were within 41 km of the ice-edge (75% within 100 km), approximately 80% were on relatively highly concentrated sea ice. Ivory gulls used more concentrated sea ice in summer, when close to their high-Arctic breeding ground, than in winter. The best model to explain the distance of the birds from the ice-edge included the ice concentration within approximately 10 km, the month and the distance to the colony. Given the strong links between ivory gull, ice-edge and ice concentration, its conservation status is unlikely to improve in the current context of sea-ice decline which, in turn, will allow anthropogenic activities to develop in regions that are particularly important for the species.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2016.0277
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Sea ice', 'Endangered species', 'Arctic ice pack', 'Context (archaeology)', 'Arctic', 'Habitat', 'Biology', 'Ecology', 'Geography', 'Oceanography', 'Geology', 'Archaeology']

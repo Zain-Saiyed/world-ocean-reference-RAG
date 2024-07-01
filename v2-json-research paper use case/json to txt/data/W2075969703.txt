@@ -1,0 +1,12 @@
+ID: W2075969703
+TITLE: Cooling, dilution and mixing of ocean water by free-drifting icebergs in the Weddell Sea
+AUTHOR: ['J. Helly', 'Ronald S. Kaufmann', 'Gordon Stephenson', 'María Vernet']
+ABSTRACT:
+Iceberg C-18a (35×7×0.184 km) was studied repeatedly by five circumnavigational surveys in March-April 2009. During the period of the surveys, C-18a travelled 109 nautical miles in 23 days covering an area of 8.1×103 km2. This iceberg was formed from iceberg C-18 (76×7 km) that originated from the Ross Ice Shelf in May, 2002. Ship-based measurements show that this iceberg produced fresh meltwater above the seasonal pycnocline that diluted and chilled the water it passed through from the surface to a depth of approximately 50 m (summer mixed layer). The surface meltwater effects were detectable as far away as 19 km and persisted for at least 10 days. We also found evidence that this iceberg was disrupting the Weddell Deep Water to depths up to 1500 m. If we include these deep effects through the water column, the estimate of ocean water altered by this single iceberg reaches 3×1012 m3 over 23 days. Chemical and biological effects were detected at the same space and time scales as the physical properties, with decreasing partial pressure of carbon dioxide (pCO2) close to the iceberg and lower particle and chlorophyll concentration. Ten days after the passage of C-18a, chlorophyll-a had increased by 15%. These results are consistent with alternative hypotheses regarding the role of icebergs as mediators of a localized geophysical disturbance (H1) as well as promoters of chlorophyll-a production (H2).
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Iceberg', 'Meltwater', 'Pycnocline', 'Oceanography', 'Water column', 'Ice shelf', 'Chlorophyll a', 'Sea ice', 'Geology', 'Seawater', 'Mixed layer', 'Environmental science', 'Glacier', 'Chemistry', 'Geomorphology', 'Cryosphere', 'Biochemistry']

@@ -1,0 +1,12 @@
+ID: W2945504065
+TITLE: Plastic leachates impair growth and oxygen production in Prochlorococcus, the ocean’s most abundant photosynthetic bacteria
+AUTHOR: ['Sasha G. Tetu', 'Indrani Sarker', 'Verena Schrameyer', 'Russell Pickford', 'Liam D. H. Elbourne', 'Lisa R. Moore', 'Ian T. Paulsen']
+ABSTRACT:
+Abstract Plastic pollution is a global threat to marine ecosystems. Plastic litter can leach a variety of substances into marine environments; however, virtually nothing is known regarding how this affects photosynthetic bacteria at the base of the marine food web. To address this, we investigated the effect of plastic leachate exposure on marine Prochlorococcus , widely considered the most abundant photosynthetic organism on Earth and vital contributors to global primary production and carbon cycling. Two strains of Prochlorococcus representing distinct ecotypes were exposed to leachate from common plastic items: high-density polyethylene bags and polyvinyl chloride matting. We show leachate exposure strongly impairs Prochlorococcus in vitro growth and photosynthetic capacity and results in genome-wide transcriptional changes. The strains showed distinct differences in the extent and timing of their response to each leachate. Consequently, plastic leachate exposure could influence marine Prochlorococcus community composition and potentially the broader composition and productivity of ocean phytoplankton communities.
+
+SOURCE: Communications biology
+PDF URL: https://www.nature.com/articles/s42003-019-0410-x.pdf
+CITED BY COUNT: 146
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Prochlorococcus', 'Photosynthesis', 'Leachate', 'Biology', 'Phytoplankton', 'Ecology', 'Botany', 'Environmental chemistry', 'Nutrient', 'Bacteria', 'Chemistry', 'Cyanobacteria', 'Genetics', 'Synechococcus']

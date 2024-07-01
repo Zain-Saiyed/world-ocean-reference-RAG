@@ -1,0 +1,12 @@
+ID: W2946960613
+TITLE: Evolution of global marine fishing fleets and the response of fished resources
+AUTHOR: ['Yannick Rousseau', 'Reg Watson', 'Julia L. Blanchard', 'Elizabeth A. Fulton']
+ABSTRACT:
+Previous reconstructions of marine fishing fleets have aggregated data without regard to the artisanal and industrial sectors. Engine power has often been estimated from subsets of the developed world, leading to inflated results. We disaggregated data into three sectors, artisanal (unpowered/powered) and industrial, and reconstructed the evolution of the fleet and its fishing effort. We found that the global fishing fleet doubled between 1950 and 2015-from 1.7 to 3.7 million vessels. This has been driven by substantial expansion of the motorized fleet, particularly, of the powered-artisanal fleet. By 2015, 68% of the global fishing fleet was motorized. Although the global fleet is dominated by small powered vessels under 50 kW, they contribute only 27% of the global engine power, which has increased from 25 to 145 GW (combined powered-artisanal and industrial fleets). Alongside an expansion of the fleets, the effective catch per unit of effort (CPUE) has consistently decreased since 1950, showing the increasing pressure of fisheries on ocean resources. The effective CPUE of most countries in 2015 was a fifth of its 1950s value, which was compared with a global decline in abundance. There are signs, however, of stabilization and more effective management in recent years, with a reduction in fleet sizes in developed countries. Based on historical patterns and allowing for the slowing rate of expansion, 1 million more motorized vessels could join the global fleet by midcentury as developing countries continue to transition away from subsistence fisheries, challenging sustainable use of fisheries' resources.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/116/25/12238.full.pdf
+CITED BY COUNT: 120
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Fishing', 'Subsistence agriculture', 'Fishery', 'Business', 'Marine conservation', 'Environmental science', 'Geography', 'Environmental resource management', 'Biology', 'Archaeology', 'Agriculture']

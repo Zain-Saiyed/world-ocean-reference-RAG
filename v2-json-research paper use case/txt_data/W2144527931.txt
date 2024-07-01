@@ -1,0 +1,12 @@
+ID: W2144527931
+TITLE: Deep cold‐water corals as nurseries for fish larvae
+AUTHOR: ['Sandrine Baillon', 'Jean‐François Hamel', 'Vonda E. Wareham', 'Annie Mercier']
+ABSTRACT:
+As a consequence of the decline of numerous commercial fish populations, an ecosystem‐based approach to fisheries management, which includes the protection of essential fish habitat (EFH), has emerged. Cold‐water coral (CWC) sites are recognized as biodiversity hotspots, but numerous examples of CWC destruction and degradation as a result of anthropogenic activities are well documented. However, although functional connections between CWCs and fish stocks are suspected, based on correlative evidence, proof of any close or direct relationship identifying CWCs as EFH is still lacking. Here, we provide evidence of the utilization of CWCs by fish larvae, mainly those of redfish ( Sebastes spp). In multiyear surveys, fish larvae were consistently found closely associated with five species of sea pen (Octocorallia: Pennatulacea) in April and May. Prevalence and/or yields of fish larvae varied with coral host species, depth, location, and colony size. Evidence of the role of CWCs in the early life history of some fish species provides the strongest argument yet for the categorization of CWCs as EFH in the design of management programs.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: None
+CITED BY COUNT: 236
+PUBLICATION YEAR: 2012
+TYPE: review
+CONCEPTS: ['Fishery', 'Biodiversity', 'Ecology', 'Biology', 'Geography']

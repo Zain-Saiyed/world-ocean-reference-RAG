@@ -1,0 +1,12 @@
+ID: W2743338056
+TITLE: Physiological and ecological implications of ocean deoxygenation for vision in marine organisms
+AUTHOR: ['Lillian R. McCormick', 'Lisa A. Levin']
+ABSTRACT:
+Climate change has induced ocean deoxygenation and exacerbated eutrophication-driven hypoxia in recent decades, affecting the physiology, behaviour and ecology of marine organisms. The high oxygen demand of visual tissues and the known inhibitory effects of hypoxia on human vision raise the questions if and how ocean deoxygenation alters vision in marine organisms. This is particularly important given the rapid loss of oxygen and strong vertical gradients in oxygen concentration in many areas of the ocean. This review evaluates the potential effects of low oxygen (hypoxia) on visual function in marine animals and their implications for marine biota under current and future ocean deoxygenation based on evidence from terrestrial and a few marine organisms. Evolutionary history shows radiation of eye designs during a period of increasing ocean oxygenation. Physiological effects of hypoxia on photoreceptor function and light sensitivity, in combination with morphological changes that may occur throughout ontogeny, have the potential to alter visual behaviour and, subsequently, the ecology of marine organisms, particularly for fish, cephalopods and arthropods with ‘fast’ vision. Visual responses to hypoxia, including greater light requirements, offer an alternative hypothesis for observed habitat compression and shoaling vertical distributions in visual marine species subject to ocean deoxygenation, which merits further investigation. This article is part of the themed issue ‘Ocean ventilation and deoxygenation in a warming world’.
+
+SOURCE: Philosophical transactions - Royal Society. Mathematical, Physical and engineering sciences/Philosophical transactions - Royal Society. Mathematical, physical and engineering sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0322
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Deoxygenation', 'Hypoxia (environmental)', 'Biota', 'Ecology', 'Diel vertical migration', 'Biology', 'Pelagic zone', 'Oceanography', 'Effects of global warming on oceans', 'Deep sea', 'Marine habitats', 'Climate change', 'Habitat', 'Environmental science', 'Global warming', 'Fishery', 'Oxygen', 'Geology', 'Chemistry', 'Biochemistry', 'Organic chemistry', 'Catalysis']

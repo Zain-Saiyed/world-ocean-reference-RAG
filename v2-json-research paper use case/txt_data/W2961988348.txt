@@ -1,0 +1,12 @@
+ID: W2961988348
+TITLE: Seafloor litter from the continental shelf and canyons in French Mediterranean Water: Distribution, typologies and trends
+AUTHOR: ['Olivia Gérigny', 'Mélanie Brun', 'Marie-Claire Fabri', 'C. Tomasino', 'Morgan Le Moigne', 'Angélique Jadaud', 'François Galgani']
+ABSTRACT:
+Seafloor litter has been studied both on the continental shelves (by trawling during 24 years) and in canyons (by ROV) of the French Mediterranean sea Water (FMW). On the continental shelf, mean densities range from 49.63 to 289.01 items/km2. The most abundant categories were plastic, glass/ceramics, metals and textiles. Trend analysis shows a significant increase in plastic quantities during the study period. Plastics accumulate at all depths, with heavier items being found in deeper areas, while the continental slope-break appears as a clean area. The spatial distribution of litter revealed the influence of geomorphologic factors, anthropic activities, shipping route, river inputs. All the canyons are affected by debris but coastal canyons (Ligurian Sea and Corsica) were more impacted than offshore canyons in the Gulf of Lion. The FMW appears to be highly polluted with regard to values found in other areas, but lower than those observed in the Eastern Mediterranean.
+
+SOURCE: Marine pollution bulletin
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S0025326X19305612
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Canyon', 'Continental shelf', 'Oceanography', 'Submarine canyon', 'Bottom trawling', 'Seafloor spreading', 'Mediterranean climate', 'Geology', 'Mediterranean sea', 'Marine debris', 'Submarine pipeline', 'Trawling', 'Litter', 'Debris', 'Fishery', 'Geomorphology', 'Geography', 'Ecology', 'Archaeology', 'Fish <Actinopterygii>', 'Biology']

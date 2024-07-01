@@ -1,0 +1,12 @@
+ID: W2110270998
+TITLE: Amazon River enhances diazotrophy and carbon sequestration in the tropical North Atlantic Ocean
+AUTHOR: ['Ajit Subramaniam', 'Patricia L. Yager', 'Edward Carpenter', 'Claire Mahaffey', 'Karin M. Björkman', 'Sarah R. Cooley', 'Adam B. Kustka', 'Joseph P. Montoya', 'Sergio A. Sañudo‐Wilhelmy', 'Rebecca F. Shipe', 'Douglas G. Capone']
+ABSTRACT:
+The fresh water discharged by large rivers such as the Amazon is transported hundreds to thousands of kilometers away from the coast by surface plumes. The nutrients delivered by these river plumes contribute to enhanced primary production in the ocean, and the sinking flux of this new production results in carbon sequestration. Here, we report that the Amazon River plume supports N(2) fixation far from the mouth and provides important pathways for sequestration of atmospheric CO(2) in the western tropical North Atlantic (WTNA). We calculate that the sinking of carbon fixed by diazotrophs in the plume sequesters 1.7 Tmol of C annually, in addition to the sequestration of 0.6 Tmol of C yr(-1) of the new production supported by NO(3) delivered by the river. These processes revise our current understanding that the tropical North Atlantic is a source of 2.5 Tmol of C to the atmosphere [Mikaloff-Fletcher SE, et al. (2007) Inverse estimates of the oceanic sources and sinks of natural CO(2) and the implied oceanic carbon transport. Global Biogeochem Cycles 21, doi:10.1029/2006GB002751]. The enhancement of N(2) fixation and consequent C sequestration by tropical rivers appears to be a global phenomenon that is likely to be influenced by anthropogenic activity and climate change.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 287
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Carbon sequestration', 'Amazon rainforest', 'Environmental science', 'Tropical Atlantic', 'Plume', 'Oceanography', 'Trichodesmium', 'Earth science', 'Sea surface temperature', 'Carbon dioxide', 'Geology', 'Geography', 'Ecology', 'Diazotroph', 'Nitrogen fixation', 'Biology', 'Paleontology', 'Meteorology', 'Bacteria']

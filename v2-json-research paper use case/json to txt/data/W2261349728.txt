@@ -1,0 +1,12 @@
+ID: W2261349728
+TITLE: Initial spreading of a mega feeder nourishment: Observations of the Sand Engine pilot project
+AUTHOR: ['Matthieu A. de Schipper', 'Sierd de Vries', 'Gerben Ruessink', 'R.C. de Zeeuw', 'Jantien Rutten', 'Carola van Gelder-Maas', 'Marcel Stive']
+ABSTRACT:
+Sand nourishments are a widely applied technique to increase beach width for recreation or coastal safety. As the size of these nourishments increases, new questions arise on the adaptation of the coastal system after such large unnatural shapes have been implemented. This paper presents the initial morphological evolution after implementation of a mega-nourishment project at the Dutch coast intended to feed the surrounding beaches. In total 21.5 million m3 dredged material was used for two shoreface nourishments and a large sandy peninsula. The Sand Engine peninsula, a highly concentrated nourishment of 17 million m3 of sand in the shape of a sandy hook and protruding 1 km from shore, was measured intensively on a monthly scale in the first 18 months after completion. We examine the rapid bathymetric evolution with concurrent offshore wave forcing to investigate the feeding behaviour of the nourishment to the adjacent coast. Our observations show a large shoreline retreat of O (150 m) along the outer perimeter of the peninsula, with locally up to 300 m retreat. The majority (72%) of the volumetric losses in sediment on the peninsula (1.8 million m3) were compensated by accretion on adjacent coastal sections and dunes, confirming the feeding property of the mega nourishment. Further analyses show that the morphological changes were most pronounced in the first 6 months while the planform curvature reduced and the surf zone slope flattened to pre-nourishment values. In the following 12 months the changes were more moderate. Overall, the feeding property was strongly correlated to incident wave forcing, such that months with high incoming waves resulted in more alongshore spreading. Months with small wave heights resulted in minimal change in sediment distribution alongshore and mostly cross-shore movement of sediment.
+
+SOURCE: Coastal engineering
+PDF URL: None
+CITED BY COUNT: 154
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Beach nourishment', 'Geology', 'Shore', 'Submarine pipeline', 'Plage', 'Accretion (finance)', 'Peninsula', 'Beach morphodynamics', 'Bathymetry', 'Beach ridge', 'Shoal', 'Dredging', 'Oceanography', 'Sediment transport', 'Geomorphology', 'Sediment', 'Geography', 'Physics', 'Archaeology', 'Astrophysics']

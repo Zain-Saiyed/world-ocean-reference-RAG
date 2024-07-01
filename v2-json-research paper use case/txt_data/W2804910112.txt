@@ -1,0 +1,12 @@
+ID: W2804910112
+TITLE: The biomass distribution on Earth
+AUTHOR: ['Yinon M. Bar-On', 'Rob Phillips', 'Ron Milo']
+ABSTRACT:
+A census of the biomass on Earth is key for understanding the structure and dynamics of the biosphere. However, a global, quantitative view of how the biomass of different taxa compare with one another is still lacking. Here, we assemble the overall biomass composition of the biosphere, establishing a census of the ≈550 gigatons of carbon (Gt C) of biomass distributed among all of the kingdoms of life. We find that the kingdoms of life concentrate at different locations on the planet; plants (≈450 Gt C, the dominant kingdom) are primarily terrestrial, whereas animals (≈2 Gt C) are mainly marine, and bacteria (≈70 Gt C) and archaea (≈7 Gt C) are predominantly located in deep subsurface environments. We show that terrestrial biomass is about two orders of magnitude higher than marine biomass and estimate a total of ≈6 Gt C of marine biota, doubling the previous estimated quantity. Our analysis reveals that the global marine biomass pyramid contains more consumers than producers, thus increasing the scope of previous observations on inverse food pyramids. Finally, we highlight that the mass of humans is an order of magnitude higher than that of all wild mammals combined and report the historical impact of humanity on the global biomass of prominent taxa, including mammals, fish, and plants.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/115/25/6506.full.pdf
+CITED BY COUNT: 2243
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Biomass (ecology)', 'Biosphere', 'Biota', 'Biology', 'Ecology', 'Marine life', 'Environmental science']

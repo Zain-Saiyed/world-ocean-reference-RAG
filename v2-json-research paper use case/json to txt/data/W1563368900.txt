@@ -1,0 +1,12 @@
+ID: W1563368900
+TITLE: Deep‐water macrofaunal diversity in the Faroe‐Shetland region (NE Atlantic): a margin subject to an unusual thermal regime
+AUTHOR: ['Bhavani E. Narayanaswamy', 'Brian J. Bett', 'David Hughes']
+ABSTRACT:
+Abstract The Faroe‐Shetland Channel, situated in the NE Atlantic, encompasses a number of different sediment types (habitats) as well as being subject to an unusual thermal regime. Our main objective was to assess variations in macrofaunal generic diversity and composition along two transects to gauge the relative influence of regional hydrography and local habitat heterogeneity. We found that generic richness and diversity on a West of Shetland (WoS) transect correlated most strongly with temperature range, whilst along a North of Shetland (NoS) transect, richness and diversity correlated negatively with sedimentary variables, notably total organic carbon. Macrofaunal composition at WoS is also strongly influenced by water temperature with specific genera ( e.g. Galathowenia positively associated with the temperature eigenvectors), whereas at NoS it is a combination of temperature, silt + clay fraction and total organic carbon that has an impact on composition ( e.g. Proclea and Pseudosphyrapus , showing a negative relationship with the temperature eigenvectors). Although the temperature regime exerts a strong control on regional ecology, local habitat heterogeneity remains a significant factor.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Shetland', 'Transect', 'Species richness', 'Oceanography', 'Ecology', 'Silt', 'Sediment', 'Geography', 'Hydrography', 'Beta diversity', 'Habitat', 'Environmental science', 'Geology', 'Biology', 'Paleontology']

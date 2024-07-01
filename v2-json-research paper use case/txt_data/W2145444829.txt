@@ -1,0 +1,12 @@
+ID: W2145444829
+TITLE: Do changes in environmental and fishing pressures impact marine communities? An empirical assessment
+AUTHOR: ['Marie‐Joëlle Rochet', 'Verena M. Trenkel', 'André C. Carpentier', 'Franck Coppin', 'Luís Gil de Sola', 'Jean-Pierre Léauté', 'Jean-Claude Mahé', 'Porzia Maiorano', 'Alessandro Mannini', 'Matteo Murenu', 'G.J. Piet', 'Chrissi‐Yianna Politou', 'B. Reale', 'María Teresa Spedicato', 'George Tserpes', 'Jacques Bertrand']
+ABSTRACT:
+Summary 1. The development of ecosystem approaches to environmental management implies the need to account for multiple pressures on ecosystems. Trends in multiple metrics that respond differently to changes in major environmental pressures need to be combined to evaluate the impacts of fishing and environmental changes on fish communities. 2. An exploited fish community is viewed as a three‐level food chain in which the two upper levels, or functional groups, are targeted by fishing fleets, while the lowest level is subject to environmental variation. Qualitative modelling is used to predict changes at the two upper levels, that is, top‐down vs. bottom‐up perturbations. Abundance and length metrics are calculated from survey data for 14 Mediterranean and East‐Atlantic groundfish shelf communities at both population and functional group levels. The joint likelihood of time trends in metrics is used to evaluate the evidence for different causes of changes. 3. A wide diversity of impacts is found to have equal evidence at the population level within each community. Consistency between the impacts identified and changes in pressures known from independent information is found at the functional group and community level. The results suggest that there is some compensation between species within functional groups. 4. Synthesis and applications. The method can be used to conduct an integrated assessment of community dynamics subject to multiple pressures. Joint trends in metrics provide evidence of which known pressures are having an impact on the community, and thus, which management actions should be taken to mitigate these changes.
+
+SOURCE: Journal of applied ecology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2664.2010.01841.x
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Groundfish', 'Fishing', 'Environmental resource management', 'Population', 'Environmental science', 'Marine ecosystem', 'Abundance (ecology)', 'Ecology', 'Geography', 'Fishery', 'Ecosystem', 'Fisheries management', 'Biology', 'Demography', 'Sociology']

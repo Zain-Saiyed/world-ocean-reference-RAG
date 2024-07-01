@@ -1,0 +1,12 @@
+ID: W2079845856
+TITLE: The Convention on Biological Diversity's Ecologically or Biologically Significant Areas: Origins, development, and current status
+AUTHOR: ['Daniel C. Dunn', 'Jeff Ardron', 'Nicholas J. Bax', 'Patricio Bernal', 'Jesse Cleary', 'Ian Cresswell', 'Ben Donnelly', 'Piers K. Dunstan', 'Kristina M. Gjerde', 'David E. Johnson', 'Kristin Kaschner', 'Ben Lascelles', 'Jake Rice', 'Henning von Nordheim', 'Louisa Wood', 'Patrick N. Halpin']
+ABSTRACT:
+In 2008, the Convention on Biological Diversity (CBD) adopted seven criteria to identify Ecologically or Biologically Significant Areas (EBSAs) “…in need of protection, in open ocean waters and deep sea habitats”. This paper reviews the history of the development of the “EBSA process”, which was originally driven by the commitment to establish marine protected areas in areas beyond national jurisdiction, but which has since broadened to encompass the possibility of informing marine spatial planning and other activities, both within and beyond national jurisdiction. Additionally, the paper summarizes ongoing efforts through CBD regional workshops to describe EBSAs and the development of the EBSA Repository, where information on these areas is to be stored. The overlap between the EBSA criteria and biodiversity criteria suites used by various authorities in areas beyond national jurisdiction is illustrated. The EBSA process has reached a critical juncture, whereby a large percentage of the global ocean has been considered by the regional workshops, but the procedure by which these areas can be incorporated into formal management structures has not yet been fully developed. Emerging difficulties regarding the mandate to describe, identify, endorse, or adopt EBSAs, are discussed.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 140
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Convention on Biological Diversity', 'Jurisdiction', 'Marine protected area', 'Mandate', 'Environmental planning', 'Convention', 'Biodiversity', 'Environmental resource management', 'Diversity (politics)', 'United Nations Convention on the Law of the Sea', 'Political science', 'Process (computing)', 'Geography', 'Environmental protection', 'Ecology', 'Habitat', 'Environmental science', 'Law', 'Biology', 'Computer science', 'Operating system']

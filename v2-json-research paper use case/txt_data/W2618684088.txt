@@ -1,0 +1,12 @@
+ID: W2618684088
+TITLE: Vulnerability to impacts of climate change on marine fisheries and food security
+AUTHOR: ['Qian Ding', 'Xinjun Chen', 'Ray Hilborn', 'Yong Chen']
+ABSTRACT:
+Assessment of fisheries vulnerability to climate change is an important step for enhancing the understanding and decision-making to reduce such vulnerability. This study aimed to provide an analysis of country level vulnerability focusing on food security implications of climatic disturbances on marine fisheries. The comparative magnitude and distribution of potential food security impacts of climatic disturbances on marine fisheries were assessed for 109 countries by scoring and ranking countries against a set of vulnerability criteria including metrics of national exposure, sensitivity and adaptive capacity, highlighting the contribution of marine fisheries to national food and nutrition security. Results showed that developing countries in Africa, Asia, Oceania, and Latin America appeared to be most vulnerable, and the key sources of vulnerability differed considerably among the countries. For countries most vulnerable to climate-induced effects on marine fisheries, more than two-thirds of them depended on domestic marine fisheries as a main source of fish supply. Developing appropriate adaptation policies and management plans to reduce the impacts of changing climate is of great importance to sustain food security in these highly vulnerable and heavy marine fisheries-dependent countries.
+
+SOURCE: Marine policy
+PDF URL: http://manuscript.elsevier.com/S0308597X17300040/pdf/S0308597X17300040.pdf
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Vulnerability (computing)', 'Food security', 'Climate change', 'Vulnerability assessment', 'Adaptive capacity', 'Fishery', 'Fisheries management', 'Geography', 'Business', 'Environmental resource management', 'Environmental science', 'Fishing', 'Ecology', 'Psychological resilience', 'Biology', 'Psychology', 'Computer security', 'Archaeology', 'Computer science', 'Psychotherapist', 'Agriculture']

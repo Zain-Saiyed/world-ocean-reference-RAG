@@ -1,0 +1,12 @@
+ID: W2885662780
+TITLE: A review of potential impacts of submarine power cables on the marine environment: Knowledge gaps, recommendations and future directions
+AUTHOR: ['Bastien Taormina', 'Juan Bald', 'Andrew Want', 'Gérard Thouzeau', 'Morgane Lejart', 'Nicolas Desroy', 'Antoine Carlier']
+ABSTRACT:
+Submarine power cables (SPC) have been in use since the mid-19th century, but environmental concerns about them are much more recent. With the development of marine renewable energy technologies, it is vital to understand their potential impacts. The commissioning of SPC may temporarily or permanently impact the marine environment through habitat damage or loss, noise, chemical pollution, heat and electromagnetic field emissions, risk of entanglement, introduction of artificial substrates, and the creation of reserve effects. While growing numbers of scientific publications focus on impacts of the marine energy harnessing devices, data on impacts of associated power connections such as SPC are scarce and knowledge gaps persist. The present study (1) examines the different categories of potential ecological effects of SPC during installation, operation and decommissioning phases and hierarchizes these types of interactions according to their ecological relevance and existing scientific knowledge, (2) identifies the main knowledge gaps and needs for research, and (3) sets recommendations for better monitoring and mitigation of the most significant impacts. Overall, ecological impacts associated with SPC can be considered weak or moderate, although many uncertainties remain, particularly concerning electromagnetic effects.
+
+SOURCE: Renewable & sustainable energy reviews
+PDF URL: None
+CITED BY COUNT: 128
+PUBLICATION YEAR: 2018
+TYPE: review
+CONCEPTS: ['Nuclear decommissioning', 'Environmental resource management', 'Environmental impact assessment', 'Renewable energy', 'Environmental science', 'Marine habitats', 'Marine energy', 'Business', 'Habitat', 'Engineering', 'Ecology', 'Electrical engineering', 'Biology', 'Waste management']

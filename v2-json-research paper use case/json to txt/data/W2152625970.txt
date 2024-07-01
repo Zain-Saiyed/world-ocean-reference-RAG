@@ -1,0 +1,12 @@
+ID: W2152625970
+TITLE: Deep-sea ostracode species diversity: response to late Quaternary climate change
+AUTHOR: ['Thomas M. Cronin', 'Dawn M. DeMartino', 'Gary S. Dwyer', 'Julio Rodríguez‐Lázaro']
+ABSTRACT:
+Late Quaternary ostracode assemblages from the North Atlantic Ocean were studied to establish the effect of climatic changes of the past 210,000 yr (marine oxygen isotope stages 7–1) on deep-sea benthic biodiversity and faunal composition. Two-hundred and twenty five samples from the Chain 82-24 Core 4PC (41°43′N, 32°51′W, 3427 m water depth) on the western Mid-Atlantic Ridge revealed high amplitude fluctuations in ostracode abundance and diversity coincident with orbital and suborbital scale climate oscillations measured by several paleoceanographic proxy records. During the past 210,000 yr, ostracode biodiversity as measured by species number (S) and the Shannon–Weaver index, H(S), oscillated from H(S)=0.4 during glacial periods (marine isotope stages 6, 5d, 5b, 4, and 2) to H(S)=1.1 during interglacial and interstadial periods (stages 7, 5e, 5c, 5a, 3 and 1). A total of 23 diversity peaks could be recognized. Eleven of these signify major periods of high diversity [H(S)>0.8, S = 10–21] occurring every 15–20 ka. Twelve were minor peaks which may represent millennial-scale diversity oscillations. The composition of ostracode assemblages varies with Krithe-dominated assemblages characterizing glacial intervals, and Argilloecia–Cytheropteron characterizing deglacials, and trachyleberid genera (Poseidonamicus, Echinocythereis, Henryhowella, Oxycythereis) abundant during interglacials. Diversity and faunal composition changes can be matched to independent deep-sea paleoceanographic tracers such as benthic foraminiferal carbon isotopes, Krithe trace elements (Mg/Ca ratios), and to North Atlantic region climate records such as Greenland ice cores. When interpreted in light of ostracode species' ecology, these faunal and diversity patterns provide evidence that deep-sea benthic ecosystems experience significant reorganization in response to climate changes over orbital to millennial timescales.
+
+SOURCE: Marine micropaleontology
+PDF URL: None
+CITED BY COUNT: 100
+PUBLICATION YEAR: 1999
+TYPE: article
+CONCEPTS: ['Interglacial', 'Geology', 'Stadial', 'Oceanography', 'Glacial period', 'Quaternary', 'Benthic zone', 'Marine isotope stage', 'Paleoclimatology', 'Deep sea', 'Ice core', 'Paleontology', 'Climate change']

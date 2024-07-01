@@ -1,0 +1,12 @@
+ID: W1187115880
+TITLE: Simulation of global ocean acidification and chemical habitats of shallow- and cold-water coral reefs
+AUTHOR: ['Meidi Zheng', 'Long Cao']
+ABSTRACT:
+Using the UVic Earth System Model, this study simulated the change of seawater chemistry and analyzed the chemical habitat surrounding shallow- and cold-water coral reefs from the year 1800 to 2300 employing RCP2.6, RCP4.5, RCP6.0, and RCP8.5 scenarios. The model results showed that the global ocean will continue to absorb atmospheric CO2. Global mean surface ocean temperature will rise 1.1–2.8 K at the end of the 21st century across RCP scenarios. Meanwhile, the global mean surface ocean pH will drop 0.14–0.42 and the ocean surface mean concentration of carbonate will decrease 20%–51% across the RCP scenarios. The saturated state of sea water with respect to calcite carbonate minerals (Ω) will decrease rapidly. During the pre-industrial period, 99% of the shallow-water coral reefs were surrounded by seawater with Ω > 3.5 and 87% of the deep-sea coral reefs were surrounded by seawater with aragonite supersaturation. Within the 21st century, except for the high mitigation scenario of RCP2.6, almost none shallow-water coral reefs will be surrounded by seawater with Ω > 3.5. Under the intensive emission scenario of RCP8.5, by the year 2100, the aragonite saturation horizon will rise to 308 m under the sea surface from 1138 m at the pre-industrial period, thus 73% of the cold-water coral reefs will be surrounded by seawater with aragonite undersaturation. By the year 2300, only 5% of the cold-water coral reefs will be surrounded by seawater with aragonite supersaturation.
+
+SOURCE: Advances in Climate Change Research
+PDF URL: None
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Aragonite', 'Seawater', 'Oceanography', 'Ocean acidification', 'Coral reef', 'Reef', 'Coral', 'Environmental science', 'Environmental issues with coral reefs', 'Effects of global warming on oceans', 'Resilience of coral reefs', 'Geology', 'Climate change', 'Calcite', 'Global warming', 'Mineralogy']

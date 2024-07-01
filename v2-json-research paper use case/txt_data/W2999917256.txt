@@ -1,0 +1,12 @@
+ID: W2999917256
+TITLE: Effective fisheries management instrumental in improving fish stock status
+AUTHOR: ['Ray Hilborn', 'Ricardo O. Amoroso', 'Christopher M. Anderson', 'Julia K. Baum', 'Trevor A. Branch', 'Christopher Costello', 'Carryn L De Moor', 'Abdelmalek Faraj', 'Daniel Hively', 'Olaf P. Jensen', 'Hiroyuki Kurota', 'L. Richard Little', 'Pamela M. Mace', 'Tim R. McClanahan', 'Michael C. Melnychuk', 'Cóilín Minto', 'Giacomo Chato Osio', 'Ana M. Parma', 'Maite Pons', 'Susana Segurado', 'Cody Szuwalski', 'Jono R. Wilson', 'Yimin Ye']
+ABSTRACT:
+Marine fish stocks are an important part of the world food system and are particularly important for many of the poorest people of the world. Most existing analyses suggest overfishing is increasing, and there is widespread concern that fish stocks are decreasing throughout most of the world. We assembled trends in abundance and harvest rate of stocks that are scientifically assessed, constituting half of the reported global marine fish catch. For these stocks, on average, abundance is increasing and is at proposed target levels. Compared with regions that are intensively managed, regions with less-developed fisheries management have, on average, 3-fold greater harvest rates and half the abundance as assessed stocks. Available evidence suggests that the regions without assessments of abundance have little fisheries management, and stocks are in poor shape. Increased application of area-appropriate fisheries science recommendations and management tools are still needed for sustaining fisheries in places where they are lacking.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/117/4/2218.full.pdf
+CITED BY COUNT: 462
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Overfishing', 'Fish stock', 'Fishery', 'Fisheries management', 'Stock assessment', 'Abundance (ecology)', 'Stock (firearms)', 'Fisheries science', 'Marine fish', 'Marine fisheries', 'Fishing', 'Fish <Actinopterygii>', 'Business', 'Geography', 'Biology', 'Archaeology']

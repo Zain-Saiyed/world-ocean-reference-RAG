@@ -1,0 +1,12 @@
+ID: W2548979934
+TITLE: Potential for cumulative effects of human stressors on fish, sea birds and marine mammals in Arctic waters
+AUTHOR: ['Jesper H. Andersen', 'Fabio Berzaghi', 'Tom Christensen', 'Ole Geertz‐Hansen', 'Anders Mosbech', 'Andy Stock', 'Karl B. Zinglersen', 'Mary S. Wisz']
+ABSTRACT:
+We estimate the potential for cumulative impacts from multiple anthropogenic stressors on fish, sea birds, and marine mammals in the western, southern and south-eastern parts of marine waters around Greenland. The analysis is based on a comprehensive data set representing five human activities including two proxies for climate change, as well as 25 key animal species including commercially important fish and top predators such as sea birds and marine mammals. Anthropogenic stressors are concentrated in two areas: the offshore waters south of Greenland, and especially the western coast from the Qeqertarsuaq (Disko Island) area to the southern tip of Greenland. The latter is also an area of high importance for many key species, thus the potential for cumulative impacts is high along Greenland's west coast. We conclude that this area should be under high scientific scrutiny and conservation attention. Our study is a first attempt and a stepping-stone towards more detailed and accurate estimates of the effects of multiple human stressors on Arctic marine ecosystems.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Cumulative effects', 'Marine ecosystem', 'Arctic', 'Oceanography', 'Fishery', 'Climate change', 'Marine protected area', 'Geography', 'Ecosystem', 'Marine conservation', 'Ecology', 'Environmental science', 'Habitat', 'Biology', 'Geology']

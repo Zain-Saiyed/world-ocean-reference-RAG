@@ -1,0 +1,12 @@
+ID: W2949790771
+TITLE: Depth-Dependent Structuring of Reef Fish Assemblages From the Shallows to the Rariphotic Zone
+AUTHOR: ['Paris V. Stefanoudis', 'Erika Gress', 'Joanna M. Pitt', 'Struan R. Smith', 'Todd Kincaid', 'Molly Rivers', 'Dominic A. Andradi‐Brown', 'Gwilym Rowlands', 'Lucy C. Woodall', 'Alex D. Rogers']
+ABSTRACT:
+Shallow coral reef ecosystems worldwide are affected by local and global anthropogenic stressors. Exploring fish assemblages on deeper reefs is therefore important to examine their connectivity, and to help understand the biodiversity, ecology, distinctiveness, evolutionary history and threats in this sparsely studied environment. Conducting visual surveys on the Bermuda slope and a nearby seamount at depths from 15‒300 m, we document decreasing fish biomass and diversity with increasing depth. Fish assemblages were primarily depth-stratified, with distinct suites of species inhabiting shallow (<30 m depth) and upper (60 m) and lower (90 m) mesophotic coral ecosystems, and confirming the presence of a distinct rariphotic (~150‒300 m) assemblage. We also report evidence of anthropogenic pressures throughout our surveyed depths. Our results highlight the novelty of deeper reef fish faunas, therefore suggesting limited applicability of the deep reef refuge hypothesis, and showcase the vulnerability of deep reefs to targeted fishing pressure and invasive species.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00307/pdf
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Reef', 'Seamount', 'Coral reef', 'Coral reef fish', 'Fishery', 'Ecology', 'Ecosystem', 'Geography', 'Fishing', 'Coral reef protection', 'Biodiversity', 'Oceanography', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2759514900
+TITLE: National assessment of shoreline change—Summary statistics for updated vector shorelines and associated shoreline change data for the north coast of Alaska, U.S.-Canadian Border to Icy Cape
+AUTHOR: ['Ann E. Gibbs', 'Bruce M. Richmond']
+ABSTRACT:
+First posted September 25, 2017 For additional information, contact: Director, Pacific Coastal and Marine Science CenterU.S. Geological SurveyPacific Science Center 2885 Mission St. Santa Cruz, CA 95060 Long-term rates of shoreline change for the north coast of Alaska, from the U.S.-Canadian border to the Icy Cape region of northern Alaska, have been updated as part of the U.S. Geological Survey’s National Assessment of Shoreline Change Project. Short-term shoreline change rates are reported for the first time. Additional shoreline position data were used to compute rates where the previous rate-of-change assessment only included two shoreline positions at a given location. The calculation of uncertainty associated with the long-term average rates has also been updated to match refined methods used in other study regions of the National Assessment of Shoreline Change Project. The average rates of this report have a reduced amount of uncertainty compared to those presented in the first assessment for this region.
+
+SOURCE: U.S. Geological Survey open file report/Open-file report
+PDF URL: https://pubs.usgs.gov/of/2017/1107/ofr2017-1107.pdf
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Shore', 'Cape', 'Geography', 'Oceanography', 'Climate change', 'Physical geography', 'Geological survey', 'Change analysis', 'Term (time)', 'Geology', 'Archaeology', 'Paleontology', 'Physics', 'Quantum mechanics']

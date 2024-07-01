@@ -1,0 +1,12 @@
+ID: W2885262997
+TITLE: Physical Modelling of Reef Platform Hydrodynamics
+AUTHOR: ['Megan E. Tuck', 'Murray R. Ford', 'Gerd Masselink', 'Paul S. Kench']
+ABSTRACT:
+Tuck, M.E.; Ford, M.R.; Masselink, G., and Kench, P.S., 2018. Physical Modelling of Reef Platform Hydrodynamics. In: Shim, J.-S.; Chun, I., and Lim, H.S. (eds.), Proceedings from the International Coastal Symposium (ICS) 2018 (Busan, Republic of Korea). Journal of Coastal Research, Special Issue No. 85, pp. 491–495. Coconut Creek (Florida), ISSN 0749-0208.Low-lying coral reef islands are considered extremely vulnerable to the implications of climate change, particularly sea level rise. Over the last decade numerical modelling has been the primary method used to predict the future state of coral reef islands in response to rising sea level. However, disregarding complex island morphodynamics, numerical models treat islands as geomorphically inert landforms despite evidence showing islands fluctuate in size, shape and position on the reef flat across a range of timescales. In order to improve our understanding and incorporate reef island morphodynamics into predictive models, a physical modelling methodology is applied to a motu, a gravel island generally located on the windward side of coral reef atolls. Physical modelling experiments took place in the Coastal Basin at the COAST laboratory, Plymouth University, UK. A 1:50 scale reef platform was constructed based on the morphology of the reef platform on the windward side of Funafuti atoll, Tuvalu. Wave processes on the reef platform have a strong influence on island geomorphology and therefore accurate replication of the hydrodynamic processes are a crucial aspect of successfully physically modelling island morphodynamics. This paper details the reef platform hydrodynamics observed during 18 experiments where wave height, wave period and water level were varied. Results highlight the successful application of physical modelling to reproduce field observations of reef platform hydrodynamics in the flume, demonstrating the accuracy of the scaled physical modelling experiments.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Reef', 'Geology', 'Physical modelling', 'Oceanography', 'Marine engineering', 'Environmental science', 'Geotechnical engineering', 'Engineering']

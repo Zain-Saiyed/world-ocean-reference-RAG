@@ -1,0 +1,12 @@
+ID: W2753961085
+TITLE: Recovery of nearly 8,000 metagenome-assembled genomes substantially expands the tree of life
+AUTHOR: ['Donovan H. Parks', 'Christian Rinke', 'Maria Chuvochina', 'Pierre-Alain Chaumeil', 'Ben J. Woodcroft', 'Paul N. Evans', 'Philip Hugenholtz', 'Gene W. Tyson']
+ABSTRACT:
+Abstract Challenges in cultivating microorganisms have limited the phylogenetic diversity of currently available microbial genomes. This is being addressed by advances in sequencing throughput and computational techniques that allow for the cultivation-independent recovery of genomes from metagenomes. Here, we report the reconstruction of 7,903 bacterial and archaeal genomes from &gt;1,500 public metagenomes. All genomes are estimated to be ≥50% complete and nearly half are ≥90% complete with ≤5% contamination. These genomes increase the phylogenetic diversity of bacterial and archaeal genome trees by &gt;30% and provide the first representatives of 17 bacterial and three archaeal candidate phyla. We also recovered 245 genomes from the Patescibacteria superphylum (also known as the Candidate Phyla Radiation) and find that the relative diversity of this group varies substantially with different protein marker sets. The scale and quality of this data set demonstrate that recovering genomes from metagenomes provides an expedient path forward to exploring microbial dark matter.
+
+SOURCE: Nature microbiology
+PDF URL: None
+CITED BY COUNT: 1386
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Genome', 'Metagenomics', 'Phylum', 'Biology', 'Phylogenetic tree', 'Phylogenetic diversity', 'Bacterial genome size', 'Evolutionary biology', 'Computational biology', 'Tree of life (biology)', 'Phylogenetics', 'Genetics', 'Gene']

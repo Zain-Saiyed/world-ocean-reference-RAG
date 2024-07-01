@@ -1,0 +1,12 @@
+ID: W2052125896
+TITLE: Toothed whales in the northwestern Mediterranean: Insight into their feeding ecology using chemical tracers
+AUTHOR: ['Emilie Praca', 'Sophie Laran', 'Gilles Lepoint', 'Jean-Pierre Thomé', 'Antoni Quetglas', 'Paola Belcari', 'Paolo Sartor', 'Frank Dhermain', 'Denis Ody', 'Nathalie Tapie', 'Hélène Budzinski', 'Krishna Das']
+ABSTRACT:
+Risso’s dolphins, pilot whales and sperm whales rarely strand in the northwestern Mediterranean. Thus, their feeding ecology, through the analysis of stomach contents, is poorly known. The aim of this study was to gain further insight into the segregation/superposition of the diet and habitat of Risso’s dolphins, pilot whales and sperm whales using chemical tracers, namely, stable isotopes (δ13C, δ15N) and organochlorines. Significantly different δ15N values were obtained in Risso’s dolphins (11.7 ± 0.7‰), sperm whales (10.8 ± 0.3‰) and pilot whales (9.8 ± 0.3‰), revealing different trophic levels. These differences are presumably due to various proportions of Histioteuthidae cephalopods in each toothed whale’s diet. Similar δ13C contents between species indicated long-term habitat superposition or corroborated important seasonal migrations. Lower congener 180 concentrations (8.20 vs. 21.73 μg.g−1 lw) and higher tDDT/tPCB ratios (0.93 vs. 0.42) were observed in sperm whales compared with Risso’s dolphins and may indicate wider migrations for the former. Therefore, competition between these species seems to depend on different trophic levels and migration patterns.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Sperm whale', 'Trophic level', 'Cetacea', 'Ecology', 'Biology', 'Habitat', 'Mediterranean climate', 'Fishery', 'Biochemistry', 'Myoglobin']

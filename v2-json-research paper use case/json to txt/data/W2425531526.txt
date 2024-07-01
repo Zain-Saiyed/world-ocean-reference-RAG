@@ -1,0 +1,12 @@
+ID: W2425531526
+TITLE: Southern Right Whale (Eubalaena australis) Reproductive Success is Influenced by Krill (Euphausia superba) Density and Climate
+AUTHOR: ['Elisa Seyboth', 'Karina Rejane Groch', 'Luciano Dalla Rosa', 'Keith Reid', 'Paulo A. C. Flores', 'Eduardo R. Secchi']
+ABSTRACT:
+The reproductive success of southern right whale (Eubalaena australis) depends on body condition and, therefore, on foraging success. This, in turn, might be affected by climatically driven change in the abundance of the species main prey, krill (Euphausia superba), on the feeding grounds. Annual data on southern right whale number of calves were obtained from aerial surveys carried out between 1997 and 2013 in southern Brazil, where the species concentrate during their breeding season. The number of calves recorded each year varied from 7 to 43 ( = 21.11 ± 11.88). Using cross-correlation analysis we examined the response of the species to climate anomalies and krill densities. Significant correlations were found with krill densities (r = 0.69, p = 0.002, lag 0 years), Oceanic Niño Index (r = -0.65, p = 0.03, lag 6 years), Antarctic Oscillation (r = 0.76, p = 0.01, lag 7 years) and Antarctic sea ice area (r = -0.68, p = 0.002, lag 0 years). Our results suggest that global climate indices influence southern right whale breeding success in southern Brazil by determining variation in food (krill) availability for the species. Therefore, increased frequency of years with reduced krill abundance, due to global warming, is likely to reduce the current rate of recovery of southern right whales from historical overexploitation.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep28205.pdf
+CITED BY COUNT: 90
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Euphausia', 'Krill', 'Antarctic krill', 'Euphausiacea', 'Biology', 'Right whale', 'Abundance (ecology)', 'Fishery', 'Capelin', 'Baleen', 'Foraging', 'Ecology', 'Predation', 'Oceanography', 'Whale', 'Geology']

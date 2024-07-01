@@ -1,0 +1,12 @@
+ID: W2403689128
+TITLE: Global proliferation of cephalopods
+AUTHOR: ['Zoë A. Doubleday', 'Thomas A. A. Prowse', 'Alexander I. Arkhipkin', 'Graham J. Pierce', 'JM Semmens', 'M. A. Steer', 'S Leporati', 'Sílvia Lourenço', 'Antoni Quetglas', 'W. H. H. Sauer', 'Bronwyn M. Gillanders']
+ABSTRACT:
+Human activities have substantially changed the world's oceans in recent decades, altering marine food webs, habitats and biogeochemical processes [1]. Cephalopods (squid, cuttlefish and octopuses) have a unique set of biological traits, including rapid growth, short lifespans and strong life-history plasticity, allowing them to adapt quickly to changing environmental conditions [2-4]. There has been growing speculation that cephalopod populations are proliferating in response to a changing environment, a perception fuelled by increasing trends in cephalopod fisheries catch [4,5]. To investigate long-term trends in cephalopod abundance, we assembled global time-series of cephalopod catch rates (catch per unit of fishing or sampling effort). We show that cephalopod populations have increased over the last six decades, a result that was remarkably consistent across a highly diverse set of cephalopod taxa. Positive trends were also evident for both fisheries-dependent and fisheries-independent time-series, suggesting that trends are not solely due to factors associated with developing fisheries. Our results suggest that large-scale, directional processes, common to a range of coastal and oceanic environments, are responsible. This study presents the first evidence that cephalopod populations have increased globally, indicating that these ecologically and commercially important invertebrates may have benefited from a changing ocean environment.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982216303190/pdf
+CITED BY COUNT: 225
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Cephalopod', 'Cuttlefish', 'Biology', 'Sepia', 'Population', 'Zoology', 'Ecology', 'Fishery', 'Officinalis', 'Botany', 'Demography', 'Sociology']

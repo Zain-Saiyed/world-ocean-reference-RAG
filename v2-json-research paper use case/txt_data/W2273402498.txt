@@ -1,0 +1,12 @@
+ID: W2273402498
+TITLE: Harbour porpoises react to low levels of high frequency vessel noise
+AUTHOR: ['Monika Dyndo', 'Danuta Maria Wiśniewska', 'Laia Rojano‐Doñate', 'Peter T. Madsen']
+ABSTRACT:
+Abstract Cetaceans rely critically on sound for navigation, foraging and communication and are therefore potentially affected by increasing noise levels from human activities at sea. Shipping is the main contributor of anthropogenic noise underwater, but studies of shipping noise effects have primarily considered baleen whales due to their good hearing at low frequencies, where ships produce most noise power. Conversely, the possible effects of vessel noise on small toothed whales have been largely ignored due to their poor low-frequency hearing. Prompted by recent findings of energy at medium- to high-frequencies in vessel noise, we conducted an exposure study where the behaviour of four porpoises ( Phocoena phocoena ) in a net-pen was logged while they were exposed to 133 vessel passages. Using a multivariate generalised linear mixed-effects model, we show that low levels of high frequency components in vessel noise elicit strong, stereotyped behavioural responses in porpoises. Such low levels will routinely be experienced by porpoises in the wild at ranges of more than 1000 meters from vessels, suggesting that vessel noise is a, so far, largely overlooked, but substantial source of disturbance in shallow water areas with high densities of both porpoises and vessels.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep11083.pdf
+CITED BY COUNT: 91
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Phocoena', 'Noise (video)', 'Environmental science', 'Porpoise', 'Foraging', 'Baleen', 'Acoustics', 'Bioacoustics', 'Human echolocation', 'Underwater', 'Fishery', 'Marine engineering', 'Biology', 'Oceanography', 'Harbour', 'Geology', 'Ecology', 'Whale', 'Physics', 'Computer science', 'Engineering', 'Artificial intelligence', 'Image (mathematics)', 'Programming language']

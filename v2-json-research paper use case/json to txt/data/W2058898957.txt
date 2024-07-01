@@ -1,0 +1,12 @@
+ID: W2058898957
+TITLE: Do airborne biogenic chemicals interact with the PI3K/Akt/mTOR cell signalling pathway to benefit human health and wellbeing in rural and coastal environments?
+AUTHOR: ['Michael N. Moore']
+ABSTRACT:
+Living and taking recreation in rural and coastal environments promote health and wellbeing, although the causal factors involved are unclear. It has been proposed that such environments provide a counter to the stresses of everyday living, leading to enhanced mental and physical health. Living in natural environments will result in airborne exposure to a wide range of biogenic chemicals through inhalation and ingestion of airborne microbiota and particles. The "biogenics" hypothesis formulated here is that regular exposure to low concentrations of mixtures of natural compounds and toxins in natural environments confers pleiotropic health benefits by inhibiting the activities of interconnected cell signalling systems, particularly PI3K/Akt/mTORC1. When overactive, Akt and mTOR (mTORC1) can lead to many pathological processes including cancers, diabetes, inflammation, immunosuppression, and neurodegenerative diseases. There is a substantial body of evidence that many natural products (i.e., from bacteria, algae, fungi and higher plants) inhibit the activities of these protein kinases. Other mTOR-related interconnected metabolic control "switches" (e.g., PTEN & NF-κB), autophagy and other cytoprotective processes are also affected by natural products. The "biogenics" hypothesis formulated here is that regular intermittent exposure to a mixture of airborne biogenic compounds in natural environments confers pleiotropic health benefits by inhibiting activities of the highly interconnected PI3K/Akt/mTORC1 system. It is proposed that future experimental exposures to biogenic aerosols in animal models coupled with epidemiology, should target the activities of the various kinases in the PI3K/Akt/mTORC1 systems and related physiological processes for selected urban, rural and coastal populations in order to test this hypothesis.
+
+SOURCE: Environmental research
+PDF URL: None
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['PI3K/AKT/mTOR pathway', 'mTORC1', 'Protein kinase B', 'Autophagy', 'PTEN', 'Biology', 'Cell biology', 'Signal transduction', 'Apoptosis', 'Biochemistry']

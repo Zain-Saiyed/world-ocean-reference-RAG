@@ -1,0 +1,12 @@
+ID: W2604537683
+TITLE: New estimate of the current rate of sea level rise from a sea level budget approach
+AUTHOR: ['H. B. Dieng', 'Anny Cazenave', 'Benoît Meyssignac', 'M. Ablain']
+ABSTRACT:
+Abstract We revisit the global mean sea level (GMSL) budget during the whole altimetry era (January 1993 to December 2015) using a large number of data sets. The budget approach allows quantifying the TOPEX A altimeter drift (amounting 1.5 ± 0.5 mm/yr over 1993–1998). Accounting for this correction and using ensemble means for the GMSL and components lead to closure of the sea level budget (trend of the residual time series being 0.0 ± 0.22 mm/yr). The new GMSL rate over January 1993 to December 2015 is now close to 3.0 mm/yr. An important increase of the GMSL rate, of 0.8 mm/yr, is found during the second half of the altimetry era (2004–2015) compared to the 1993–2004 time span, mostly due to Greenland mass loss increase and also to slight increase of all other components of the budget.
+
+SOURCE: Geophysical research letters
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2017GL073308
+CITED BY COUNT: 179
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sea level', 'Altimeter', 'Residual', 'Environmental science', 'Climatology', 'Closure (psychology)', 'Current (fluid)', 'Geology', 'Oceanography', 'Geodesy', 'Mathematics', 'Algorithm', 'Economics', 'Market economy']

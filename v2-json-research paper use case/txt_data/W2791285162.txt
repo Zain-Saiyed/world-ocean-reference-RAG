@@ -1,0 +1,12 @@
+ID: W2791285162
+TITLE: Microplastics in sub-surface waters of the Arctic Central Basin
+AUTHOR: ['La Daana K. Kanhai', 'Katarina Gårdfeldt', 'Olga Lyashevska', 'Martin Hassellöv', 'Richard C. Thompson', 'Ian O’Connor']
+ABSTRACT:
+Polar oceans, though remote in location, are not immune to the accumulation of plastic debris. The present study, investigated for the first time, the abundance, distribution and composition of microplastics in sub-surface waters of the Arctic Central Basin. Microplastic sampling was carried out using the bow water system of icebreaker Oden (single depth: 8.5 m) and CTD rosette sampler (multiple depths: 8-4369 m). Potential microplastics were isolated and analysed using Fourier Transform Infrared Spectroscopy (FT-IR). Bow water sampling revealed that the median microplastic abundance in near surface waters of the Polar Mixed Layer (PML) was 0.7 particles m-3. Regarding the vertical distribution of microplastics in the ACB, microplastic abundance (particles m-3) in the different water masses was as follows: Polar Mixed Layer (0-375) > Deep and bottom waters (0-104) > Atlantic water (0-95) > Halocline i.e. Atlantic or Pacific (0-83).
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 317
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microplastics', 'Oceanography', 'Environmental science', 'Surface water', 'Water column', 'Halocline', 'Arctic', 'Marine debris', 'Debris', 'Abundance (ecology)', 'Environmental chemistry', 'Geology', 'Chemistry', 'Fishery', 'Biology', 'Salinity', 'Environmental engineering']

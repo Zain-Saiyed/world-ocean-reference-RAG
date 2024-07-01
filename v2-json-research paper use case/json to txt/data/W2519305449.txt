@@ -1,0 +1,12 @@
+ID: W2519305449
+TITLE: Exploring the science–policy interface on climate change: The role of the IPCC in informing local decision-making in the UK
+AUTHOR: ['Candice Howarth', 'James Painter']
+ABSTRACT:
+Abstract Building on the Intergovernmental Panel on Climate Change’s (IPCC) review of how to make its Assessment Reports (ARs) more accessible in the future, the research reported here assesses the extent to which the ARs are a useful tool through which scientific advice informs local decision-making on climate change in the United Kingdom. Results from interviews with local policy representatives and three workshops with UK academics, practitioners and local decision makers are presented. Drawing on these data, we outline three key recommendations made by participants on how the IPCC ARs can be better utilized as a form of scientific advice to inform local decision-making on climate change. First, to provide more succinct summaries of the reports paying close attention to the language, content, clarity, context and length of these summaries; second, to better target and frame the reports from a local perspective to maximize engagement with local stakeholders; and third, to work with local decision makers to better understand how scientific advice on climate change is being incorporated in local decision-making. By adopting these, the IPCC would facilitate local decision-making on climate change and provide a systematic review of how its reports are being used locally. We discuss implications of these recommendations and their relevance to the wider debate within and outside the IPCC as to the most effective way the IPCC can more effectively tailor its products to user needs without endangering the robustness of its scientific findings. This article is published as part of a collection on scientific advice to governments.
+
+SOURCE: Palgrave communications
+PDF URL: https://www.nature.com/articles/palcomms201658.pdf
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['CLARITY', 'Climate change', 'Context (archaeology)', 'Political science', 'Public relations', 'Work (physics)', 'Environmental planning', 'Geography', 'Engineering', 'Mechanical engineering', 'Ecology', 'Biochemistry', 'Chemistry', 'Archaeology', 'Biology']

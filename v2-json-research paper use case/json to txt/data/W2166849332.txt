@@ -1,0 +1,12 @@
+ID: W2166849332
+TITLE: Opposite latitudinal gradients in projected ocean acidification and bleaching impacts on coral reefs
+AUTHOR: ['Ruben van Hooidonk', 'Jeffrey Maynard', 'Derek P. Manzello', 'Serge Planes']
+ABSTRACT:
+Coral reefs and the services they provide are seriously threatened by ocean acidification and climate change impacts like coral bleaching. Here, we present updated global projections for these key threats to coral reefs based on ensembles of IPCC AR5 climate models using the new Representative Concentration Pathway (RCP) experiments. For all tropical reef locations, we project absolute and percentage changes in aragonite saturation state (Ωarag) for the period between 2006 and the onset of annual severe bleaching (thermal stress >8 degree heating weeks); a point at which it is difficult to believe reefs can persist as we know them. Severe annual bleaching is projected to start 10-15 years later at high-latitude reefs than for reefs in low latitudes under RCP8.5. In these 10-15 years, Ωarag keeps declining and thus any benefits for high-latitude reefs of later onset of annual bleaching may be negated by the effects of acidification. There are no long-term refugia from the effects of both acidification and bleaching. Of all reef locations, 90% are projected to experience severe bleaching annually by 2055. Furthermore, 5% declines in calcification are projected for all reef locations by 2034 under RCP8.5, assuming a 15% decline in calcification per unit of Ωarag. Drastic emissions cuts, such as those represented by RCP6.0, result in an average year for the onset of annual severe bleaching that is ~20 years later (2062 vs. 2044). However, global emissions are tracking above the current worst-case scenario devised by the scientific community, as has happened in previous generations of emission scenarios. The projections here for conditions on coral reefs are dire, but provide the most up-to-date assessment of what the changing climate and ocean acidification mean for the persistence of coral reefs.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 198
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Reef', 'Ocean acidification', 'Coral bleaching', 'Coral reef', 'Environmental science', 'Oceanography', 'Climate change', 'Coral', 'Effects of global warming on oceans', 'Representative Concentration Pathways', 'Latitude', 'Resilience of coral reefs', 'Global warming', 'Climate model', 'Geography', 'Geology', 'Geodesy']

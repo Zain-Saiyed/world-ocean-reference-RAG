@@ -1,0 +1,12 @@
+ID: W2123763888
+TITLE: Rapid Invasion of Indo-Pacific Lionfishes (<i>Pterois Volitans</i> and <i>Pterois Miles</i>) in the Florida Keys, USA: Evidence from Multiple Pre- and Post-Invasion Data Sets
+AUTHOR: ['Benjamin I. Ruttenberg', 'Pamela J. Schofield', 'John L. Akins', 'Alejandro Acosta', 'Michael W. Feeley', 'Jeremiah Blondeau', 'Steven G. Smith', 'Jerald S. Ault']
+ABSTRACT:
+Over the past decade, Indo-Pacific lionfishes, Pterois volitans (Linnaeus, 1758) and Pterois miles (Bennett, 1828), venomous members of the scorpionfish family (Scorpaenidae), have invaded and spread throughout much of the tropical and subtropical northwestern Atlantic Ocean and Caribbean Sea. These species are generalist predators of fishes and invertebrates with the potential to disrupt the ecology of the invaded range. Lionfishes have been present in low numbers along the east coast of Florida since the 1980s, but were not reported in the Florida Keys until 2009. We document the appearance and rapid spread of lionfishes in the Florida Keys using multiple long-term data sets that include both pre- and post-invasion sampling. Our results are the first to quantify the invasion of lionfishes in a new area using multiple independent, ongoing monitoring data sets, two of which have explicit estimates of sampling effort. Between 2009 and 2011, lionfish frequency of occurrence, abundance, and biomass increased rapidly, increasing three- to six-fold between 2010 and 2011 alone. In addition, individuals were detected on a variety of reef and non-reef habitats throughout the Florida Keys. Because lionfish occurrence, abundance, and impacts are expected to continue to increase throughout the region, monitoring programs like those used in this study will be essential to document ecosystem changes that may result from this invasion.
+
+SOURCE: Bulletin of marine science
+PDF URL: None
+CITED BY COUNT: 44
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Scorpaenidae', 'Geography', 'Fishery', 'Indo-Pacific', 'Indian ocean', 'Taxonomy (biology)', 'Ecology', 'Oceanography', 'Biology', 'Fish <Actinopterygii>', 'Geology']

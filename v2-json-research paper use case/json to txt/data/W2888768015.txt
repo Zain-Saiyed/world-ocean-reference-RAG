@@ -1,0 +1,12 @@
+ID: W2888768015
+TITLE: Seagrass sedimentary deposits as security vaults and time capsules of the human past
+AUTHOR: ['Dorte Krause‐Jensen', 'Óscar Serrano', 'Eugenia T. Apostolaki', 'David Gregory', 'Carlos M. Duarte']
+ABSTRACT:
+Seagrass meadows form valuable ecosystems, but are considered to have low cultural value due to limited research efforts in this field. We provide evidence that seagrass deposits play a hitherto unrealized central role in preserving valuable submerged archaeological and historical heritage across the world, while also providing an historical archive of human cultural development over time. We highlight three case studies showing the significance of seagrass in protecting underwater cultural heritage in Denmark, the Mediterranean and Australia. Moreover, we present an overview of additional evidence compiled from the literature. We emphasize that this important role of seagrasses is linked to their capacity to form thick sedimentary deposits, accumulating over time, thereby covering and sealing submerged archaeological heritage. Seagrass conservation and restoration are key to protecting this buried heritage while also supporting the role of seagrass deposits as carbon sinks as well as the many other important ecosystem functions of seagrasses.
+
+SOURCE: Ambio
+PDF URL: https://link.springer.com/content/pdf/10.1007/s13280-018-1083-2.pdf
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seagrass', 'Cultural heritage', 'Ecosystem', 'Archaeology', 'Geography', 'Ecology', 'Biology']

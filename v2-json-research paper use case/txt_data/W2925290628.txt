@@ -1,0 +1,12 @@
+ID: W2925290628
+TITLE: Patterns and drivers of meiofaunal assemblages in the canyons Polcevera and Bisagno of the Ligurian Sea (NW Mediterranean Sea)
+AUTHOR: ['Laura Carugati', 'Marco Lo Martire', 'Roberto Danovaro']
+ABSTRACT:
+Meiofaunal abundance, assemblage structure and richness of higher taxa were investigated for the first time in two submarine canyons (Polcevera and Bisagno) of the Ligurian Sea and along the adjacent open slope, in relation with the quantity and quality of sedimentary organic matter and other environmental variables, including grain size. Meiofaunal abundance and richness of higher taxa decreased with increasing water depth (from ca. 200 down to ca. 2000-m depth) in the open slope and Polcevera canyon, whereas the highest values were observed at 500 m depth in the Bisagno canyon. The comparison between canyons and the adjacent open slope, showed the lack of significant differences in meiofaunal abundance, at the same depth except for samples collected at 200 and 2000-m depth. Overall the biodiversity was higher in canyons than in the open slope. Phytopigments, utilised as a proxy of the input of primary organic matter, were up to 3 times higher in canyon than in slope sediments and, along with grain size, explained a large portion of the variability in all meiofaunal variables. Canyon and slope showed a high beta diversity (83%), mostly due to the presence of a high portion of rare taxa in the canyons. Some taxa, such as Cladocera, Cumacea, Gastrotricha, Nemertina were exclusively encountered in canyon sediments, whereas Tardigrada were encountered only in the adjacent slope. Results reported here indicated that, differences in meiofaunal assemblages between canyons and slopes are primarily driven by quantity and quality of the available food resources and by the presence of specific topographic features.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Canyon', 'Submarine canyon', 'Geology', 'Oceanography', 'Species richness', 'Meiobenthos', 'Abundance (ecology)', 'Mediterranean sea', 'Mediterranean climate', 'Ecology', 'Environmental science', 'Geomorphology', 'Benthic zone', 'Paleontology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W1980609858
+TITLE: Loss of ‘Blue Carbon’ from Coastal Salt Marshes Following Habitat Disturbance
+AUTHOR: ['Peter I. Macreadie', 'A. Randall Hughes', 'David L. Kimbro']
+ABSTRACT:
+Increased recognition of the global importance of salt marshes as 'blue carbon' (C) sinks has led to concern that salt marshes could release large amounts of stored C into the atmosphere (as CO2) if they continue undergoing disturbance, thereby accelerating climate change. Empirical evidence of C release following salt marsh habitat loss due to disturbance is rare, yet such information is essential for inclusion of salt marshes in greenhouse gas emission reduction and offset schemes. Here we investigated the stability of salt marsh (Spartinaalterniflora) sediment C levels following seagrass (Thallasiatestudinum) wrack accumulation; a form of disturbance common throughout the world that removes large areas of plant biomass in salt marshes. At our study site (St Joseph Bay, Florida, USA), we recorded 296 patches (7.5 ± 2.3 m(2) mean area ± SE) of vegetation loss (aged 3-12 months) in a salt marsh meadow the size of a soccer field (7 275 m(2)). Within these disturbed patches, levels of organic C in the subsurface zone (1-5 cm depth) were ~30% lower than the surrounding undisturbed meadow. Subsequent analyses showed that the decline in subsurface C levels in disturbed patches was due to loss of below-ground plant (salt marsh) biomass, which otherwise forms the main component of the long-term 'refractory' C stock. We conclude that disturbance to salt marsh habitat due to wrack accumulation can cause significant release of below-ground C; which could shift salt marshes from C sinks to C sources, depending on the intensity and scale of disturbance. This mechanism of C release is likely to increase in the future due to sea level rise; which could increase wrack production due to increasing storminess, and will facilitate delivery of wrack into salt marsh zones due to higher and more frequent inundation.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0069244&type=printable
+CITED BY COUNT: 122
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Marsh', 'Blue carbon', 'Environmental science', 'Spartina alterniflora', 'Ecology', 'Habitat', 'Spartina', 'Wetland', 'Ecosystem', 'Disturbance (geology)', 'Intertidal zone', 'Biomass (ecology)', 'Sink (geography)', 'Seagrass', 'Geology', 'Biology', 'Geography', 'Paleontology', 'Cartography']

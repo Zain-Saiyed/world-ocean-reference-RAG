@@ -1,0 +1,12 @@
+ID: W2000640114
+TITLE: Sensitivity of estuaries to sea level rise: Vulnerability indices
+AUTHOR: ['D. Prandle', 'Andrew M. Lane']
+ABSTRACT:
+This study addresses the question of how tidally-dominated estuaries will adapt to rises in mean sea level and changes in river flows associated with global climate change. The aim was to develop generic 'Vulnerability Indices' to provide immediate indications of relative resilience or sensitivity. Four indices indicate the likely impacts on: (1) Mass flow, (2) Energetics, (3) Vertical mixing and (4) Salinity intrusion. Application of these indices to 96 estuaries in England and Wales suggests that a mean sea-level rise of 1 m will: have little overall effect on mass flows but significant impacts on energy dissipation levels, especially in depths less than about 10 m have a small impact on levels of vertical mixing in deeper estuaries, but a significant impact in shallow (<10 m), micro-tidal estuaries increase the salinity intrusion length by at least 7% in the deepest estuaries and by in excess of 25% in estuaries shallower than 10 m. In seaward regions of strongly tidal estuaries, impacts from changes in river flow, Q, have little effect on either mass flow or energetics. However, a change of 25% (either increase or decrease) will have significant effects on both vertical mixing and salinity intrusion. The impacts on vertical mixing will be greatest in estuaries closer to micro-tidal conditions. Saline intrusion lengths will increase in proportion to the related decrease in river flow (and vice versa). These impacts must be considered alongside likely accompanying evolution in morphologies indicated by Prandle (2006).
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Estuary', 'Salinity', 'Environmental science', 'Oceanography', 'Energetics', 'Sea level', 'Climate change', 'Geology', 'Hydrology (agriculture)', 'Ecology', 'Biology', 'Geotechnical engineering']

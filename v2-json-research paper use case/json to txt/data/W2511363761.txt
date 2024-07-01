@@ -1,0 +1,12 @@
+ID: W2511363761
+TITLE: Patterns in megabenthic assemblages on a seamount summit (Ormonde Peak, Gorringe Bank, Northeast Atlantic)
+AUTHOR: ['Manuela Ramos', 'Iacopo Bertocci', 'Fernando Tempera', 'Gonçalo Calado', 'Mónica Albuquerque', 'Pedro Duarte']
+ABSTRACT:
+Abstract Gettysburg and Ormonde are two shallow peaks located on the Gorringe seamount about 200 and 240 km WSW off Cape St. Vincent (Portugal, NE Atlantic), within the Portuguese Economic Exclusive Zone. Despite the ecological importance of the biological assemblages on these peaks and the need to preserve seamounts as valuable habitats, no management plans have been yet implemented at this site, which only recently has been included in the list of Sites of Community Importance of Portugal. Video imagery collected using a ROV during the 2011 Oceana campaigns was used here to analyse qualitative and quantitative patterns of benthic assemblage composition at the summit of the seamount (between 30 and 230 m depth). The results suggest that Ormonde is a biologically important area made up of vulnerable marine ecosystem elements that change significantly with depth. These include: kelp beds, in the euphotic zone; encrusting coralline algal communities and solitary colonies or mixed associations of suspension‐feeders (scleractinians, gorgonians, antipatharians, encrusting demosponges and ascidians), at the lower limit of the euphotic zone; mixed coral gardens and erect sponges, in the disphotic zone; and dense sponge aggregations, on the upper slope. These results were further used to propose amendments to the European Nature Information System habitat classification as a tool to work towards resolving the seamounts management issue. The results also provide information on taxa and habitats with high ecological value and classified as threatened or vulnerable, which is essential for the implementation of the cornerstones of Europe's biodiversity conservation policy, namely the OSPAR Convention and the EU Habitats Directive.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seamount', 'Geology', 'Summit', 'Oceanography', 'Paleontology', 'Geography', 'Physical geography']

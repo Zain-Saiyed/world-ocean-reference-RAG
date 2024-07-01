@@ -1,0 +1,12 @@
+ID: W2108786917
+TITLE: Increased Bioavailability of Mercury in the Lagoons of Lomé, Togo: The Possible Role of Dredging
+AUTHOR: ['Kissao Gnandi', 'Seunghee Han', 'Mohammad Hassan Rezaie-Boroon', 'Magali Porrachia', 'Dimitri D. Deheyn']
+ABSTRACT:
+Surface sediments of the lagoons of Lomé, Togo, were analyzed for mercury, methylmercury, and trace elements. Concentrations were greater than typical for natural lagoon sediments, and with greater variability within the Eastern lagoon compared to the Western one. The Eastern lagoon is larger and has been dredged in the past, while the Western lagoon, which also receives major waste inputs, has not been dredged and shows less tidal flushing. Accordingly, one naturally believes that the Eastern lagoon is cleaner and probably safe to use due to its natural resources, including fishes to eat. Unexpectedly, we describe here that mercury methylation was greater in the Eastern lagoon, indicating increased bioavailability of mercury, as probably facilitated by past dredging that decreased solid-phase retention of inorganic mercury. Urbanization has historically been more developed in the southern part of the lagoons, which is still reflected in contamination levels of sediment despite dredging, probably because sources of contamination are still more important there today. Such urban contamination emphasizes the need to regulate waste discharges and possible airborne contamination in growing cities of developing countries, and implements environmental and public health monitoring, especially in relation to misbelieves systematically associated with the cleansing effect of dredging activity.
+
+SOURCE: Ambio
+PDF URL: None
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Dredging', 'Mercury (programming language)', 'Environmental science', 'Methylmercury', 'Contamination', 'Sediment', 'Urbanization', 'Environmental chemistry', 'Environmental protection', 'Ecology', 'Bioaccumulation', 'Oceanography', 'Geology', 'Chemistry', 'Biology', 'Paleontology', 'Computer science', 'Programming language']

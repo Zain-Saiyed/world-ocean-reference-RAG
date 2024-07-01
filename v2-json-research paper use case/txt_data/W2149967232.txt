@@ -1,0 +1,12 @@
+ID: W2149967232
+TITLE: Highlights in Seagrasses’ Phylogeny, Physiology, and Metabolism: What Makes Them Special?
+AUTHOR: ['Jutta Papenbrock']
+ABSTRACT:
+The marine seagrasses form an ecological and therefore paraphyletic group of marine hydrophilus angiosperms which evolved three to four times from land plants towards an aquatic and marine existence. Their taxonomy is not yet solved on the species level and below due to their reduced morphology. So far also molecular data did not completely solve the phylogenetic relationships. Thus, this group challenges a new definition for what a species is. Also their physiology is not well understood due to difficult experimental in situ and in vitro conditions. There remain several open questions concerning how seagrasses adapted secondarily to the marine environment. Here probably exciting adaptation solutions will be detected. Physiological adaptations seem to be more important than morphological ones. Seagrasses contain several compounds in their secondary metabolism in which they differ from terrestrial plants and also not known from other taxonomic groups. Some of these compounds might be of interest for commercial purposes. Therefore their metabolite contents constitute another treasure of the ocean. This paper gives an introduction into some of the most interesting aspects from phylogenetical, physiological, and metabolic points of view.
+
+SOURCE: ISRN Botany
+PDF URL: https://downloads.hindawi.com/archive/2012/103892.pdf
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Biology', 'Paraphyly', 'Ecology', 'Phylogenetics', 'Adaptation (eye)', 'Taxonomic rank', 'Phylogenetic tree', 'Taxonomy (biology)', 'Zoology', 'Evolutionary biology', 'Gene', 'Taxon', 'Clade', 'Biochemistry', 'Neuroscience']

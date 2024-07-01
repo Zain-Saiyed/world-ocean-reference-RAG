@@ -1,0 +1,12 @@
+ID: W2942921145
+TITLE: U/Th dating records of cold-water coral colonization in submarine canyons and adjacent sectors of the southern Adriatic Sea since the Last Glacial Maximum
+AUTHOR: ['Marco Taviani', 'Lorenzo Angeletti', 'Federica Foglini', 'Cesare Corselli', 'Ina Nasto', 'Edwige Pons‐Branchu', 'Paolo Montagna']
+ABSTRACT:
+The deep southern Adriatic Sea is home of widespread cold-water coral colonization (Madrepora oculata, Lophelia pertusa, Desmophyllum dianthus) which is at present limited by large to its western (Apulian) margin and central part, including the Bari Canyon system. On the contrary, the eastern side is today almost deprived of significant coral growth and this asymmetrical distribution has been ascribed primarily to the action of the North Adriatic Dense Water (NAdDW) that impinges more efficiently on the Apulian margin. The collection of subfossil specimens of M. oculata, L. pertusa and D. dianthus provided the very first dates for cold-water coral colonization along the eastern margin. Once combined with known distribution of live cold-water corals and fossil occurrences in the southern Adriatic Sea, uranium-series dating provides evidence of (i) coral presence in the southeastern Adriatic during the Last Glacial Maximum (LGM), followed by (ii) a time of basin-wide colonization after the post-Last Glacial Maximum and encompassing the Younger Dryas, (iii) another time of undocumented coral presence with the onset of Sapropel S1. Perturbations of the thermohaline circulation in this sector of the Mediterranean basin might have governed the presence and demise of the resident cold-water coral populations interfering with strength and trajectories of main water masses. It is hypothesized that the achievement of the current asymmetrical distribution did occur since the end of S1 protracting to present time. The post-S1 reorganization likely brought to the current hydrological situation where the influence of NAdDW prevails in the western side and corals are doing at best on its trajectory. The scarcity of datable material makes the proposed scenario open to debate and in need of further supporting evidence.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Oceanography', 'Coral', 'Last Glacial Maximum', 'Geology', 'Younger Dryas', 'Canyon', 'Glacial period', 'Paleontology', 'Holocene', 'Geomorphology']

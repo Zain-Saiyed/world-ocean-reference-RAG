@@ -1,0 +1,12 @@
+ID: W3026520840
+TITLE: Grand Challenges in Marine Biotechnology
+AUTHOR: ['Pabulo Henrique Rampelotto', 'Antonio Trincone.']
+ABSTRACT:
+Grand challenges in marine biotechnology , Grand challenges in marine biotechnology , کتابخانه‌های دانشگاه کردستان
+
+SOURCE: Grand challenges in biology and biotechnology
+PDF URL: None
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2018
+TYPE: book
+CONCEPTS: ['Biotechnology', 'Biology', 'Engineering']

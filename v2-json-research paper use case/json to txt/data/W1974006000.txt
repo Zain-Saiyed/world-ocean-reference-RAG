@@ -1,0 +1,12 @@
+ID: W1974006000
+TITLE: The potential causes of cyanobacterial blooms in Baltic Sea estuaries
+AUTHOR: ['M. Pliński', 'Hanna Mazur‐Marzec', 'Tomasz Jóźwiak', 'Justyna Kobos']
+ABSTRACT:
+Abstract Nodularia spumigena Mertens, Aphanizomenon flos-aquae (L.) Ralfs and some species of the genus Anabaena are the dominant cyanobacterial taxa occurring in the Gulf of Gdańsk. The heterocystous cyanobacteria use dissolved molecular N 2 as an additional nitrogen source, and this allows them to bloom during the summer when growth of other phytoplankton species is normally nitrogen-limited. Although cyanobacterial blooms have been reported in the Baltic Sea since the mid-19 th century, the extent and intensity of blooms have recently increased due to anthropogenic sources of eutrophication. Increased river phosphorus input and changes in the phosphorus to nitrogen ratio are implicated as causal factors. After us the initial cause of the cyanobacterial bloom is a low N:P ratio, which indicates phosphorus excess, i.e. favourable nutrient conditions for nitrogen-fixing algae. An N:P ratio of 10 has been considered an approximate value for the N:P requirements of Baltic phytoplankton. For several years this ratio has been lower than 10. The mean annual value of the N:P ratio for the water of the Gulf of Gdańsk ranged from 3 to 7. Differences in the intensity of blooms observed in different years could be linked to temperature. During hot summers, when the seawater temperature increased to 20°C, large blooms were noted. For the cyanobacterial blooms in the Baltic Sea, the low N:P ratio is the primary factor and high temperature is a starting point.
+
+SOURCE: Oceanological and Hydrobiological Studies
+PDF URL: https://www.sciendo.com/pdf/10.2478/v10009-007-0001-x
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Aphanizomenon', 'Eutrophication', 'Phytoplankton', 'Bloom', 'Algal bloom', 'Anabaena', 'Oceanography', 'Environmental science', 'Estuary', 'Cyanobacteria', 'Algae', 'Redfield ratio', 'Phosphorus', 'Plankton', 'Nutrient', 'Ecology', 'Biology', 'Chemistry', 'Geology', 'Genetics', 'Organic chemistry', 'Bacteria']

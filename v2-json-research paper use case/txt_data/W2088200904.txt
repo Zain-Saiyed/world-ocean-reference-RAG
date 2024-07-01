@@ -1,0 +1,12 @@
+ID: W2088200904
+TITLE: Krill and the unity of biology
+AUTHOR: ['Marc Mangel', 'Stephen Nicol']
+ABSTRACT:
+This supplement features some of the printed papers from the Second International Symposium on Krill (Santa Cruz, Calif., August 1999). Krill have long been recognized as key prey species for fish, birds, and marine mammals and as a target for fisheries in both hemispheres. However, the study of krill can contribute in many other areas of biology. Krill are an excellent model system for studies of growth and maturity, for connections between theory, experiment, and observation, and for tests of evolutionary theory in the field. Krill are also ideal model organisms for studying the interaction between environmental and organismal variability. Because they are widely distributed but only moderately speciose, the study of krill can also shed light on the relationship between abundance and range. The study of krill is an inherently interdisciplinary field, crossing boundaries and using a combination of oceanography, biochemistry, physiology, evolution, and ecology to understand krill and their role in the ecosystem.
+
+SOURCE: Canadian journal of fisheries and aquatic sciences
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2000
+TYPE: article
+CONCEPTS: ['Krill', 'Antarctic krill', 'Biology', 'Ecology', 'Predation', 'Marine biology', 'Abundance (ecology)', 'Marine ecosystem', 'Fishery', 'Crustacean', 'Zoology', 'Ecosystem']

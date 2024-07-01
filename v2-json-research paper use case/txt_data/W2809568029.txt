@@ -1,0 +1,12 @@
+ID: W2809568029
+TITLE: Population genetic signatures of a climate change driven marine range extension
+AUTHOR: ['Jorge E. Ramos', 'Gretta T. Pecl', 'Natalie A. Moltschaniwskyj', 'JM Semmens', 'Carla A. Souza', 'Jan M. Strugnell']
+ABSTRACT:
+Shifts in species distribution, or 'range shifts', are one of the most commonly documented responses to ocean warming, with important consequences for the function and structure of ecosystems, and for socio-economic activities. Understanding the genetic signatures of range shifts can help build our knowledge of the capacity of species to establish and persist in colonised areas. Here, seven microsatellite loci were used to examine the population connectivity, genetic structure and diversity of Octopus tetricus, which has extended its distribution several hundred kilometres polewards associated with the southwards extension of the warm East Australian Current along south-eastern Australia. The historical distribution and the range extension zones had significant genetic differences but levels of genetic diversity were comparable. The population in the range extension zone was sub-structured, contained relatively high levels of self-recruitment and was sourced by migrants from along the entire geographic distribution. Genetic bottlenecks and changes in population size were detected throughout the range extension axis. Persistent gene flow from throughout the historical zone and moderate genetic diversity may buffer the genetic bottlenecks and favour the range extension of O. tetricus. These characteristics may aid adaptation, establishment, and long-term persistence of the population in the range extension zone.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-27351-y.pdf
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Range (aeronautics)', 'Genetic diversity', 'Population', 'Ecology', 'Species distribution', 'Climate change', 'Genetic structure', 'Geography', 'Biology', 'Habitat', 'Demography', 'Materials science', 'Sociology', 'Composite material']

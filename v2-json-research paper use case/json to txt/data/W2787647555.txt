@@ -1,0 +1,12 @@
+ID: W2787647555
+TITLE: How to make Integrated Coastal Erosion Management a reality
+AUTHOR: ['Nelson Rangel-Buitrago', 'Victor N. de Jonge', 'William J. Neal']
+ABSTRACT:
+Coastal-erosion management actions require a knowledge of sediment behaviour and interchange in all related offshore, shore and inland environments. Approaches to managing erosion include hard/soft protection measures (hold/advance the line), accommodation, managed retreat, use of ecosystems and sacrifice (do nothing). In reshaping these options, an essential addition is the most attractive but usually the least used strategy: Intervention Concerning the Erosion Causes (ICEC). Minimizing erosion via ICEC not only means specific local actions, but certainly also involves the restoration of natural protective habitats, and even the removal of anthropogenic structures that block sediment production and its flow to and through coastal systems. The spatial and temporal environmental, physical and social knowledge related to the area of interest forms the core of the ICEC approach to solve or at least minimize coastal erosion.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coastal erosion', 'Erosion', 'Coastal management', 'Environmental resource management', 'Sediment', 'Environmental science', 'Shore', 'Natural (archaeology)', 'Submarine pipeline', 'Geology', 'Oceanography', 'Geomorphology', 'Paleontology']

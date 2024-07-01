@@ -1,0 +1,12 @@
+ID: W2162905331
+TITLE: Global change and eutrophication of coastal waters
+AUTHOR: ['Nancy N. Rabalais', 'R. Eugene Turner', 'Robert J. Díaz', 'Dubravko Justić']
+ABSTRACT:
+Abstract Rabalais, N. N., Turner, R. E., Díaz, R. J., and Justić, D. 2009. Global change and eutrophication of coastal waters. – ICES Journal of Marine Science, 66: 1528–1537. The cumulative effects of global change, including climate change, increased population, and more intense industrialization and agribusiness, will likely continue and intensify the course of eutrophication in estuarine and coastal waters. As a result, the symptoms of eutrophication, such as noxious and harmful algal blooms, reduced water quality, loss of habitat and natural resources, and severity of hypoxia (oxygen depletion) and its extent in estuaries and coastal waters will increase. Global climate changes will likely result in higher water temperatures, stronger stratification, and increased inflows of freshwater and nutrients to coastal waters in many areas of the globe. Both past experience and model forecasts suggest that these changes will result in enhanced primary production, higher phytoplankton and macroalgal standing stocks, and more frequent or severe hypoxia. The negative consequences of increased nutrient loading and stratification may be partly, but only temporarily, compensated by stronger or more frequent tropical storm activity in low and mid-latitudes. In anticipation of the negative effects of global change, nutrient loadings to coastal waters need to be reduced now, so that further water quality degradation is prevented.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/66/7/1528/29133011/fsp047.pdf
+CITED BY COUNT: 890
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Environmental science', 'Hypoxia (environmental)', 'Climate change', 'Oceanography', 'Cumulative effects', 'Algal bloom', 'Phytoplankton', 'Estuary', 'Global warming', 'Water quality', 'Nutrient', 'Ecology', 'Biology', 'Geology', 'Organic chemistry', 'Oxygen', 'Chemistry']

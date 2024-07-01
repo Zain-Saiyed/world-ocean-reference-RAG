@@ -1,0 +1,12 @@
+ID: W1988988636
+TITLE: Determination of seven commonly used organic UV filters in fresh and saline waters by liquid chromatography-tandem mass spectrometry
+AUTHOR: ['Stephanie Bratkovics', 'Yelena Sapozhnikova']
+ABSTRACT:
+An analytical method for the simultaneous determination of seven of the most widely used organic UV filter compounds in tap and saline waters was developed and validated. Target compounds included oxybenzone, dioxybenzone, sulisobenzone, avobenzone, octocrylene, octinoxate, and padimate-O. Water samples were adjusted to pH 2 prior to solid-phase extraction (SPE) using Oasis HLB 500 mg cartridges. The detection and quantification were performed using liquid chromatography-tandem mass spectrometry (LC-MS/MS) with positive electrospray ionization (ESI) using Multiple Reaction Monitoring mode (MRM). Calculated recoveries from fortified samples ranged from 74 to 109% with relative standard deviations of 6–25% for fortified tap water samples and from 71 to 111% with relative standard deviations 2–12% for fortified seawater samples, indicating acceptable method accuracy and precision (n = 5). Method reporting limits ranged from 0.5 to 25 ng L−1 for the seven compounds. Oxybenzone, avobenzone, octocrylene, octinoxate, and padimate-O were detected in seawater samples collected from Folly Beach, South Carolina in the summer of 2010, at concentrations ranging from 10 to 2013 ng L−1, demonstrating the ability of the developed method to measure target compounds in environmental samples. Oxybenzone and octocrylene were found in the highest concentrations, up to 2013 ng L−1 and 1409 ng L−1, respectively. Concentrations for avobenzone, octinoxate, and padimate-O ranged from 62–321 ng L−1, 30–264 ng L−1 and <1–111 ng L−1, respectively, in surface seawater samples (n= 4). Dioxybenzone and sulisobenzone were not detected in any samples from the four sites (method reporting limits 1 ng L−1). To our knowledge, this is the first study reporting sunscreen compounds in the coastal waters of the U.S.A.
+
+SOURCE: Analytical methods
+PDF URL: None
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Chemistry', 'Chromatography', 'Seawater', 'Tap water', 'Mass spectrometry', 'Extraction (chemistry)', 'Detection limit', 'Electrospray ionization', 'Liquid chromatography–mass spectrometry', 'Solid phase extraction', 'Tandem mass spectrometry', 'Oceanography', 'Environmental engineering', 'Engineering', 'Geology']

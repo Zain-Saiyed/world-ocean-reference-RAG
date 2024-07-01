@@ -1,0 +1,12 @@
+ID: W2617168095
+TITLE: Assessing the role of mangrove forest in reducing coastal inundation during major hurricanes
+AUTHOR: ['Y. Peter Sheng', 'Ruizhi Zou']
+ABSTRACT:
+A vegetation-resolving CH3D-SWAN surge–wave modeling system is used to examine the role of mangroves and salt marshes along the shore of Biscayne Bay in buffering surge, wave, and inundation in Southeast Florida during Hurricane Andrew (1992). First, the 3D vegetation-resolving model is validated by comparing the simulated and measured high water marks from post-hurricane field survey, debris lines, and time series of water level at the Haulover Pier. The simulated water levels and magnitude and extent of maximum inundation agree well with the observed data, whereas the removal of vegetation from the model leads to massive flooding with increased total inundation volume and total inundation area in the highly populated low-lying area behind the Biscayne Bay. Additional simulations show that the surge–wave–inundation buffering capacity of the mangrove forest depends on the vertical structure of the wetted leaf area index, $$A_{\text{w}}$$ and the frontal leaf area index, $$A_{\text{f}}$$ . The study demonstrates the capability of CH3D-SWAN in quantifying the role of mangroves in buffering storm surge, wave, and inundation, and demonstrates its potential application for assessing the effectiveness of coastal wetland restoration projects. Meanwhile, the accurate representation of vegetation's vertical structure can enhance the numerical modeling of flow–vegetation interaction processes.
+
+SOURCE: Hydrobiologia
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs10750-017-3201-8.pdf
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Mangrove', 'Storm surge', 'Bay', 'Vegetation (pathology)', 'Environmental science', 'Surge', 'Wetland', 'Hydrology (agriculture)', 'Salt marsh', 'Marsh', 'Shore', 'Water level', 'Storm', 'Flooding (psychology)', 'Oceanography', 'Geology', 'Ecology', 'Geography', 'Geomorphology', 'Medicine', 'Psychology', 'Geotechnical engineering', 'Cartography', 'Pathology', 'Psychotherapist', 'Biology']

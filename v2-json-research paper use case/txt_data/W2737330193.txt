@@ -1,0 +1,12 @@
+ID: W2737330193
+TITLE: Climate change is likely to severely limit the effectiveness of deep-sea ABMTs in the North Atlantic
+AUTHOR: ['David E. Johnson', 'Maria Adelaide Ferreira', 'Ellen Kenchington']
+ABSTRACT:
+In the North Atlantic, Area-Based Management Tools (ABMTs), including Marine Protected Areas (MPAs) and areas describing the inherent value of marine biodiversity, have been created in Areas Beyond National Jurisdiction (ABNJ). This deep-sea area (> 200 m) supports vitally important ecosystem services. Dealing with the multiple and increasing pressures placed on the deep sea requires adequate governance and management systems, and a thorough evaluation of cumulative impacts grounded on sound science. Notwithstanding the different objectives of various types of ABMTs, at an ocean scale it makes good sense to consider MPAs, Ecologically or Biologically Significant Areas (EBSAs) and other effective conservation measures, such as areas closed to protect Vulnerable Marine Ecosystems (VMEs), collectively to inform future systematic conservation planning. This paper focuses on climate change pressures likely to affect these areas and the need to evaluate implications for the state of biodiversity features for which they have been established. In a 20–50 year timeframe, virtually all North Atlantic deep-water and open ocean ABMTs will likely be affected. More precise and detailed oceanographic data are needed to determine possible refugia, and more research on adaptation and resilience in the deep sea is needed to predict ecosystem response times. Until such analyses can be made, a more precautionary approach is advocated, potentially setting aside more extensive areas and strictly limiting human uses and/or adopting high protection thresholds before any additional human use impacts are allowed.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Marine protected area', 'Environmental resource management', 'Biodiversity', 'Climate change', 'Marine spatial planning', 'Adaptive management', 'Jurisdiction', 'Ecosystem-based management', 'Marine ecosystem', 'Ecosystem', 'Geography', 'Marine conservation', 'Ecosystem services', 'Environmental science', 'Environmental planning', 'Ecology', 'Habitat', 'Oceanography', 'Geology', 'Political science', 'Law', 'Biology']

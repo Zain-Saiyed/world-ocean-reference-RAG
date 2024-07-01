@@ -1,0 +1,12 @@
+ID: W2140881152
+TITLE: The present status of artisanal fisheries of extreme Southern Brazil: an effort towards community-based management
+AUTHOR: ['E.G Reis', 'Fernando D’Incao']
+ABSTRACT:
+The continental shelf of the extreme southern Brazil is one of the most productive fishing areas in Brazil. Great part of the commercial species is related to the estuary of Patos Lagoon. The estuary serves as spawning, nursery and feeding grounds for several species. The artisanal fishery in the estuarine area exists since the end of the last century but from 1982 onwards, catches have declined sharply. Nowadays, the estuarine fishery does not exist as an economic activity, except for pink shrimp (Farfantepenaeus paulensis) and mullet (Mugil platanus). The artisanal fishery involves about 3500 fishermen. Fisheries management in the Patos Lagoon and coastal area has been traditionally done in a top-down process: government decides and acts unilaterally. As a consequence, regulations exist only officially. In 1996 the Forum of Patos Lagoon, a multi-partner entity that includes political, economical and legal institutions, was established. This is the first initiative of the community to become part of the organization and regulation process of the fisheries in the area. The Forum activities initiatives range from evaluation of the present practices of fisheries management and enforcement, encouragement of co-operative and associated initiatives; to planning and development of activities that may lead to the possible recovery of the productive capacity of the Patos Lagoon. A new regulation for the area was produced considering, for the first time, the interest of the community. Although this represents a major step on fisheries management in the area, it resents the lack of a specific management for fisheries that exploit the same stocks in marine waters. The lack of a clear policy for the fishery sector in Brazil represents a major setback to achieve proposed goals in management.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 109
+PUBLICATION YEAR: 2000
+TYPE: article
+CONCEPTS: ['Fishery', 'Fishing', 'Fisheries management', 'Mugil', 'Estuary', 'Artisanal fishing', 'Enforcement', 'Geography', 'Business', 'Fish <Actinopterygii>', 'Ecology', 'Biology']

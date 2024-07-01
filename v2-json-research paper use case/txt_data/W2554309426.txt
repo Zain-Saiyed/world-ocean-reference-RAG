@@ -1,0 +1,12 @@
+ID: W2554309426
+TITLE: Environmental Characteristics of Polybrominated Diphenyl Ethers in Marine System, with Emphasis on Marine Organisms and Sediments
+AUTHOR: ['Ying Zhang', 'Weiliang Wang', 'Jinming Song', 'Zongming Ren', 'Huamao Yuan', 'Huijun Yan', 'Jinpeng Zhang', 'Pei Zhang', 'He Zhu']
+ABSTRACT:
+Polybrominated diphenyl ethers (PBDEs), due to their widespread usage as flame retardants and their lipophilicity and persistence, have become ubiquitous in the environment. It is urgent to understand the environmental characteristics of PBDEs in marine system, but they have attracted little attention. We summarize the available data and analyze the regional distributions, controlling factors, and congener patterns of PBDEs in marine and associated environmental matrixes worldwide. Based on meta-analysis, after separating the estuarial sites from the marine sites, ignoring the extraordinary sample sites such as those located just near the point source, the PBDE concentration levels are still in the same order of magnitude from global scale. Despite Principal Component Analysis, the congener patterns of sediments are predominant with the heavy brominated congeners (BDE-209 contributing over 75% to the total load) while the biota abound with the light ones (BDE-47, BDE-99, and BDE-100 taking about 80%). The ratio between BDE-99 and BDE-100 for the lower trophic-level species often turns to be greater than 1, while for those higher species the ratio may be below 1, and some species feed mainly on the crustaceans and zooplankton seems to have a higher ratio value. The data of the PBDEs in marine system are currently limited; thus, data gaps are identified as well.
+
+SOURCE: BioMed research international
+PDF URL: http://downloads.hindawi.com/journals/bmri/2016/1317232.pdf
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Congener', 'Polybrominated diphenyl ethers', 'Biota', 'Trophic level', 'Environmental chemistry', 'Environmental science', 'Ecology', 'Pollutant', 'Chemistry', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2608505200
+TITLE: Antagonistic evolution of an antibiotic and its molecular chaperone: how to maintain a vital ectosymbiosis in a highly fluctuating habitat
+AUTHOR: ['Claire Papot', 'François Massol', 'Didier Jollivet', 'Aurélie Tasiemski']
+ABSTRACT:
+Evolution of antimicrobial peptides (AMPs) has been shown to be driven by recurrent duplications and balancing/positive selection in response to new or altered bacterial pathogens. We use Alvinella pompejana, the most eurythermal animal known on Earth, to decipher the selection patterns acting on AMP in an ecological rather than controlled infection approach. The preproalvinellacin multigenic family presents the uniqueness to encode a molecular chaperone (BRICHOS) together with an AMP (alvinellacin) that controls the vital ectosymbiosis of Alvinella. In stark contrast to what is observed in the context of the Red queen paradigm, we demonstrate that exhibiting a vital and highly conserved ecto-symbiosis in the face of thermal fluctuations has led to a peculiar selective trend promoting the adaptive diversification of the molecular chaperone of the AMP, but not of the AMP itself. Because BRICHOS stabilizes beta-stranded peptides, this polymorphism likely represents an eurythermal adaptation to stabilize the structure of alvinellacin, thus hinting at its efficiency to select and control the epibiosis across the range of temperatures experienced by the worm; Our results fill some knowledge gaps concerning the function of BRICHOS in invertebrates and offer perspectives for studying immune genes in an evolutionary ecological framework.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-01626-2.pdf
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biology', 'Chaperone (clinical)', 'Evolutionary biology', 'Evolutionary dynamics', 'Computational biology', 'Evolutionary ecology', 'Ecology', 'Genetics', 'Host (biology)', 'Medicine', 'Population', 'Demography', 'Pathology', 'Sociology']

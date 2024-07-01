@@ -1,0 +1,12 @@
+ID: W2912986880
+TITLE: Global Change Impacts on the Future of Coastal Systems: Perverse Interactions Among Climate Change, Ecosystem Degradation, Energy Scarcity, and Population
+AUTHOR: ['John W. Day', 'John Rybczyk']
+ABSTRACT:
+Global change will impact coastal systems in a number of ways. Climate change will result in higher temperatures, accelerated sea-level rise, changed freshwater discharge, more intense precipitation events and droughts, and changes in the frequency and intensity of tropical storms as well as winter storms. Increasing temperature will shift the tropical-temperate interface toward higher latitudes. Sea level will likely rise from 1.0 to 1.5 m by 2100. In general, precipitation will increase near the equator and at higher latitudes and decrease in the outer tropics and lower temperate zone. Accelerated sea-level rise will threaten coastal wetlands and other lowland environments. Fresh water discharge will increase to some coastal areas and decrease for others with potential impacts on severe floods, wetland vegetation, and coastal productivity. Climate change will interact with other global change forcings such as environmental degradation, population pressure, and energy costs to exacerbate climate impacts. Resource scarcity, especially energy, will make energy intensive restoration and adaptation projects more expensive. Some coastal systems such as arid systems, areas with large expanses near mean sea level like deltas, and those with high human impact will be less sustainable. Management of coastal systems should be based on system functioning that uses natural energies to the greatest extent possible. It is important to understand that there are biophysical limits that need to be understood and taken into consideration for sustainable management and restoration to take place.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Climate change', 'Environmental science', 'Temperate climate', 'Wetland', 'Population', 'Global warming', 'Ecosystem', 'Precipitation', 'Geography', 'Ecology', 'Oceanography', 'Geology', 'Demography', 'Sociology', 'Meteorology', 'Biology']

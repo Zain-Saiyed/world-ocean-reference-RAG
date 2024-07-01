@@ -1,0 +1,12 @@
+ID: W2081162017
+TITLE: THE ACCURACY OF THE WINKLER METHOD FOR DISSOLVED OXYGEN ANALYSIS1
+AUTHOR: ['James H. Carpenter']
+ABSTRACT:
+The potential errors in the various techniques for the Winkler method have been examined and a new technique developed. The accuracy of this technique has been tested by comparison with standards based on dissolving known quantities of oxygen in oxygen‐free water. An accuracy of 0.1% was observed, so the technique appears suitable for oxygen analyses requiring an accuracy of greater than the 3–5% observed with tho common techniques.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.1965.10.1.0135
+CITED BY COUNT: 341
+PUBLICATION YEAR: 1965
+TYPE: article
+CONCEPTS: ['Dissolution', 'Oxygen', 'Accuracy and precision', 'Environmental science', 'Chemistry', 'Mathematics', 'Statistics', 'Physical chemistry', 'Organic chemistry']

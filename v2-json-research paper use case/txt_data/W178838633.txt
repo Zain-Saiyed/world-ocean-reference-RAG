@@ -1,0 +1,12 @@
+ID: W178838633
+TITLE: Hydrophis donaldi (Elapidae, Hydrophiinae), a highly distinctive new species of sea snake from northern Australia
+AUTHOR: ['Kanishka D. B. Ukuwela', 'Kate L. Sanders', 'Bryan G. Fry']
+ABSTRACT:
+A new species of viviparous sea snake, Hydrophis donaldi sp. nov. (Hydrophiinae), is described from the Gulf of Carpen-taria, northern Australia. Molecular analyses reveal this species as a deeply divergent lineage within the Hydrophis sub-group, and separate it from all other sampled taxa by fixed nucleotide substitutions at three independent mitochondrial andnuclear loci. The new species is assigned to Hydrophis based on the current morphological diagnosis of this large but pa-raphyletic genus, and is distinguished from all other Hydrophis species and closely allied genera by a combination of mor-phological characters relating to scalation, colour pattern and osteology. Using current keys for sea snakes, H. donaldi sp.nov. might be mistaken for H. coggeri, H. sibauensis or H. torquatus diadema but it is readily distinguished from thesespecies by a higher number of bands on the body and tail, lower ventral count, strongly spinous body scales, and a wider,more rounded head. Sea snakes have been sampled intensively in the Gulf of Carpentaria due to their vulnerability to by-catch in the region’s commercial prawn-trawl fisheries. That this highly distinctive new species has evaded discovery inthe region until now is surprising, but might be explained by its habitat preferences. All known specimens of H. donaldi sp. nov. were found in estuarine habitats that are relatively poorly surveyed and are not targeted by commercial fisheries.
+
+SOURCE: Zootaxa
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Biology', 'Elapidae', 'Genus', 'Carpentaria', 'Ecology', 'Habitat', 'Zoology', 'Fishery', 'Estuary', 'Taxon', 'Venom']

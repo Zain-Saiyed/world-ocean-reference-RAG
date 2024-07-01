@@ -1,0 +1,12 @@
+ID: W2796012452
+TITLE: Indonesia's globally significant seagrass meadows are under widespread threat
+AUTHOR: ['Richard K. F. Unsworth', 'Rohani Ambo‐Rappe', 'Benjamin L. Jones', 'Yayu A. La Nafie', 'Andri Irawan', 'Udhi Eko Hernawan', 'Abigail Mary Moore', 'Leanne C. Cullen‐Unsworth']
+ABSTRACT:
+Indonesia's marine ecosystems form a fundamental part of the world's natural heritage, representing a global maxima of marine biodiversity and supporting the world's second largest production of seafood. Seagrasses are a key part of that support. In the absence of empirical data we present evidence from expert opinions as to the state of Indonesia's seagrass ecosystems, their support for ecosystem services, with a focus on fisheries, and the damaging activities that threaten their existence. We further draw on expert opinion to elicit potential solutions to prevent further loss. Seagrasses and the ecosystem services they support across the Indonesian archipelago are in a critical state of decline. Declining seagrass health is the result of shifting environmental conditions due largely to coastal development, land reclamation, and deforestation, as well as seaweed farming, overfishing and garbage dumping. In particular, we also describe the declining state of the fisheries resources that seagrass meadows support. The perilous state of Indonesia's seagrasses will compromise their resilience to climate change and result in a loss of their high ecosystem service value. Community supported management initiatives provide one mechanism for seagrass protection. Exemplars highlight the need for increased local level autonomy for the management of marine resources, opening up opportunities for incentive type conservation schemes.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 117
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seagrass', 'Ecosystem services', 'Overfishing', 'Biodiversity', 'Environmental resource management', 'Natural resource', 'Geography', 'Ecosystem', 'Business', 'Ecology', 'Environmental protection', 'Natural resource economics', 'Fishing', 'Environmental science', 'Biology', 'Economics']

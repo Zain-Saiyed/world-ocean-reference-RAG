@@ -1,0 +1,12 @@
+ID: W2914334974
+TITLE: Alien Species Invasion: Case Study of the Black Sea
+AUTHOR: ['N. N. Shalovenkov']
+ABSTRACT:
+The Mediterranean Sea is the main transit corridor for the invasion of alien species in the Black Sea. There is a high level of differentiation in the composition of alien species between different areas of the Black Sea. Temporal temperature and salinity gradients forming hydrological fronts are peculiar barriers that restrict the exchange of alien species between sea areas. Differences of the number of alien species between the western and eastern regions corresponded to different levels of sea traffic in the Black Sea. The high correlation between the number of alien species and the Atlantic Multidecadal Oscillation (AMO) index indicates that the climate influences the process of invasion, facilitating the increase in the number of alien and Mediterranean species in the Black Sea. The Mediterranean Sea can be considered a kind of “storage” for alien species that can then be transported with ballast water to the Black Sea. It is important to use such scientific findings to further develop international legislative directives for the protection of marine ecosystems from bio-invasions.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Alien', 'Black sea', 'Mediterranean sea', 'Mediterranean climate', 'Alien species', 'Geography', 'Oceanography', 'Introduced species', 'Ecology', 'Ballast', 'Invasive species', 'Fishery', 'Biology', 'Geology', 'Politics', 'Citizenship', 'Political science', 'Law']

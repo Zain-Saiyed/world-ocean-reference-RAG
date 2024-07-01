@@ -1,0 +1,12 @@
+ID: W2062323967
+TITLE: Extensive dissolution of live pteropods in the Southern Ocean
+AUTHOR: ['Nina Bednaršek', 'Geraint A. Tarling', 'Dorothée C. E. Bakker', 'Sophie Fielding', 'Elizabeth M. Jones', 'Hugh J. Venables', 'Peter Ward', 'Alan M. Kuzirian', 'Bertrand Lézé', 'Richard A. Feely', 'Eugene J. Murphy']
+ABSTRACT:
+As a result of ocean acidification, aragonite may become undersaturated by 2050 in the upper layers of the Southern Ocean. Analyses of sea snail specimens, extracted live from the Southern Ocean in January and February 2008, show that the shells of these organisms are already dissolving. The carbonate chemistry of the surface ocean is rapidly changing with ocean acidification, a result of human activities1. In the upper layers of the Southern Ocean, aragonite—a metastable form of calcium carbonate with rapid dissolution kinetics—may become undersaturated by 2050 (ref. 2). Aragonite undersaturation is likely to affect aragonite-shelled organisms, which can dominate surface water communities in polar regions3. Here we present analyses of specimens of the pteropod Limacina helicina antarctica that were extracted live from the Southern Ocean early in 2008. We sampled from the top 200 m of the water column, where aragonite saturation levels were around 1, as upwelled deep water is mixed with surface water containing anthropogenic CO2. Comparing the shell structure with samples from aragonite-supersaturated regions elsewhere under a scanning electron microscope, we found severe levels of shell dissolution in the undersaturated region alone. According to laboratory incubations of intact samples with a range of aragonite saturation levels, eight days of incubation in aragonite saturation levels of 0.94–1.12 produces equivalent levels of dissolution. As deep-water upwelling and CO2 absorption by surface waters is likely to increase as a result of human activities2,4, we conclude that upper ocean regions where aragonite-shelled organisms are affected by dissolution are likely to expand.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 265
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Aragonite', 'Oceanography', 'Ocean acidification', 'Dissolution', 'Water column', 'Geology', 'Upwelling', 'Calcium carbonate', 'Seawater', 'Carbonate', 'Carbonate compensation depth', 'Saturation (graph theory)', 'Calcite', 'Mineralogy', 'Chemistry', 'Physical chemistry', 'Mathematics', 'Organic chemistry', 'Combinatorics']

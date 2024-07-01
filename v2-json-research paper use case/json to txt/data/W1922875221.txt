@@ -1,0 +1,12 @@
+ID: W1922875221
+TITLE: Predicting effects of ocean warming, acidification, and water quality on Chesapeake region eelgrass
+AUTHOR: ['Richard C. Zimmerman', 'Victoria Hill', 'Charles L. Gallegos']
+ABSTRACT:
+Abstract Although environmental requirements of seagrasses have been studied for years, reliable metrics for predicting their response to current or future conditions remain elusive. Eelgrass ( Zostera marina L.) populations of the Chesapeake region lie near the southern limit of their range in the Western North Atlantic, exposing them to increasing thermal stress as the climate warms. However, CO 2 stimulated photosynthesis may offset some of the negative effects of temperature stress. The combined effects of temperature, CO 2 , and light availability controlled by water quality and epiphytes were explored using GrassLight , a bio‐optical model that provided a predictive environment for evaluating the interaction of multiple stressors on eelgrass distribution and density across the submarine landscape. Model predictions were validated against in situ measures of spectral diffuse attenuation, eelgrass density, and distribution. The potential for photosynthesis stimulated by ocean acidification to mitigate the effects of high temperature on eelgrass populations growing near the southern limit of their distribution was explored. The model accurately reproduced the submarine light environment from measured water quality parameters, and predicted their impacts on eelgrass distribution. It also reproduced the negative effects of warm summer temperatures on eelgrass distributions, and demonstrated that CO 2 increases projected for the next century should stimulate photosynthesis sufficiently to offset the negative effects of thermal stress on eelgrass growing in the Chesapeake region, even in the presence of epiphytes. Thus, improved water quality should facilitate the survival of eelgrass populations in Chesapeake region, even in the face of a warming climate.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.10139
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Zostera marina', 'Environmental science', 'Effects of global warming on oceans', 'Oceanography', 'Climate change', 'Ecology', 'Global warming', 'Seagrass', 'Ecosystem', 'Biology', 'Geology']

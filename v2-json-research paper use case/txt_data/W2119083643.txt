@@ -1,0 +1,12 @@
+ID: W2119083643
+TITLE: Methane hydrate stability and anthropogenic climate change
+AUTHOR: ['David Archer']
+ABSTRACT:
+Abstract. Methane frozen into hydrate makes up a large reservoir of potentially volatile carbon below the sea floor and associated with permafrost soils. This reservoir intuitively seems precarious, because hydrate ice floats in water, and melts at Earth surface conditions. The hydrate reservoir is so large that if 10% of the methane were released to the atmosphere within a few years, it would have an impact on the Earth's radiation budget equivalent to a factor of 10 increase in atmospheric CO2. Hydrates are releasing methane to the atmosphere today in response to anthropogenic warming, for example along the Arctic coastline of Siberia. However most of the hydrates are located at depths in soils and ocean sediments where anthropogenic warming and any possible methane release will take place over time scales of millennia. Individual catastrophic releases like landslides and pockmark explosions are too small to reach a sizable fraction of the hydrates. The carbon isotopic excursion at the end of the Paleocene has been interpreted as the release of thousands of Gton C, possibly from hydrates, but the time scale of the release appears to have been thousands of years, chronic rather than catastrophic. The potential climate impact in the coming century from hydrate methane release is speculative but could be comparable to climate feedbacks from the terrestrial biosphere and from peat, significant but not catastrophic. On geologic timescales, it is conceivable that hydrates could release as much carbon to the atmosphere/ocean system as we do by fossil fuel combustion.
+
+SOURCE: Biogeosciences
+PDF URL: https://bg.copernicus.org/articles/4/521/2007/bg-4-521-2007.pdf
+CITED BY COUNT: 266
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Permafrost', 'Methane', 'Clathrate hydrate', 'Atmosphere (unit)', 'Earth science', 'Atmospheric methane', 'Geology', 'Environmental science', 'Biosphere', 'Greenhouse gas', 'Climate change', 'Carbon cycle', 'Hydrate', 'Oceanography', 'Ecosystem', 'Chemistry', 'Ecology', 'Meteorology', 'Physics', 'Organic chemistry', 'Biology']

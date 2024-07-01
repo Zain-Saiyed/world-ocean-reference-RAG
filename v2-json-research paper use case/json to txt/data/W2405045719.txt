@@ -1,0 +1,12 @@
+ID: W2405045719
+TITLE: Marine spatial planning in reality: Introduction to case studies and discussion of findings
+AUTHOR: ['Peter J.S. Jones', 'Louise M. Lieberknecht', 'Wanfei Qiu']
+ABSTRACT:
+This paper explores the realities of marine spatial planning (MSP’ing), drawing on 12 case studies around Europe, employing a structured qualitative empirical approach. The findings indicate that (1) MSP’ing is often focused on achieving specific sectoral objectives, related to nationally important strategic priorities, and might better be termed ‘strategic sectoral planning’. (2) MSP’ing processes tend to be complex, fragmented and emergent on an ad hoc basis, rather than cyclical, adaptive and prescribed on an a priori basis. (3) Top-down processes tend to dominate, more participative platforms tending to be ‘disconnected by design’ from executive decision-making. (4) Blue growth is the dominant overall priority, often aligned with strategic sectoral priorities, despite growing indications that the target for Good Environmental Status (GES) by 2020 is unlikely to be met. This is consistent with growing concerns about the tensions between the Marine Strategy Framework Directive and the Directive Establishing a Framework for Maritime Spatial Planning. It is concluded that the realities of how MSP’ing is working contrast with widely recognised concepts and ideals as to how MSP’ing should work, as integrated-use MSP’ing based on political expedience and blue growth priorities is diverging from and potentially competing with ecosystem-based MSP’ing, including marine protected area networks, based on GES priorities. It is argued that a more empirical approach should be taken to MSP’ing research, whereby conceptual approaches which integrate sustainable blue growth and GES co-evolve with marine spatial planning practices through critical analyses of whether the realities of MSP’ing are consistent with these concepts.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 198
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Directive', 'Spatial planning', 'Marine spatial planning', 'Politics', 'Work (physics)', 'Environmental planning', 'Environmental resource management', 'Marine Strategy Framework Directive', 'Management science', 'Regional science', 'Business', 'Process management', 'Political science', 'Geography', 'Computer science', 'Ecology', 'Engineering', 'Ecosystem', 'Economics', 'Biology', 'Mechanical engineering', 'Law', 'Programming language']

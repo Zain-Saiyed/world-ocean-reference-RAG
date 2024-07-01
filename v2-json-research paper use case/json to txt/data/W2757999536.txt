@@ -1,0 +1,12 @@
+ID: W2757999536
+TITLE: Fast Science and Sluggish Policy: The Herculean Task of Regulating Biodiscovery
+AUTHOR: ['Rachel Wynberg', 'Sarah A Laird']
+ABSTRACT:
+New rules for access and benefit sharing (ABS) of genetic resources and associated traditional knowledge have been established by the Nagoya Protocol but have not kept up with rapid scientific and technological advances in biodiscovery. This suggests the need for innovative, transdisciplinary approaches to regulate ABS and emerging technologies.
+
+SOURCE: Trends in biotechnology
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Task (project management)', 'Science policy', 'Computer science', 'Computational biology', 'Biology', 'Political science', 'Economics', 'Public administration', 'Management']

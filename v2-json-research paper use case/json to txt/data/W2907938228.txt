@@ -1,0 +1,12 @@
+ID: W2907938228
+TITLE: Sustained ocean changes contributed to sudden Antarctic sea ice retreat in late 2016
+AUTHOR: ['Gerald A. Meehl', 'Julie M. Arblaster', 'Christine Chung', 'Marika M. Holland', 'Alice K. DuVivier', 'LuAnne Thompson', 'Dongxia Yang', 'Cecilia M. Bitz']
+ABSTRACT:
+After nearly three decades of observed increasing trends of Antarctic sea ice extent, in September-October-November 2016, there was a dramatic decrease. Here we document factors that contributed to that decrease. An atmosphere-only model with a specified positive convective heating anomaly in the eastern Indian/western Pacific Ocean, representing the record positive precipitation anomalies there in September-October-November 2016, produces an anomalous atmospheric Rossby wave response with mid- and high latitude surface wind anomalies that contribute to the decrease of Antarctic sea ice extent. The sustained decreases of Antarctic sea ice extent after late 2016 are associated with a warmer upper Southern Ocean. This is the culmination of a negative decadal trend of wind stress curl with positive Southern Annular Mode and negative Interdecadal Pacific Oscillation, Ekman suction that results in warmer water being moved upward in the column closer to the surface, a transition to positive Interdecadal Pacific Oscillation around 2014-2016, and negative Southern Annular Mode in late 2016.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-07865-9.pdf
+CITED BY COUNT: 179
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Geology', 'Pacific decadal oscillation', 'Climatology', 'Antarctic oscillation', 'Oceanography', 'Sea ice', 'Rossby wave', 'Antarctic sea ice', 'Sea surface temperature', 'Cryosphere', 'El Niño Southern Oscillation']

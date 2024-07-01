@@ -1,0 +1,12 @@
+ID: W4213327538
+TITLE: Climate Change 2013 – The Physical Science Basis
+AUTHOR: []
+ABSTRACT:
+This latest Fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC) will again form the standard scientific reference for all those concerned with climate change and its consequences, including students and researchers in environmental science, meteorology, climatology, biology, ecology and atmospheric chemistry. It provides invaluable material for decision makers and stakeholders: international, national, local; and in all branches: government, businesses, and NGOs. This volume provides: • An authoritative and unbiased overview of the physical science basis of climate change • A more extensive assessment of changes observed throughout the climate system than ever before • New dedicated chapters on sea-level change, biogeochemical cycles, clouds and aerosols, and regional climate phenomena • A more extensive coverage of model projections, both near-term and long-term climate projections • A detailed assessment of climate change observations, modelling, and attribution for every continent • A new comprehensive atlas of global and regional climate projections for 35 regions of the world
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 8496
+PUBLICATION YEAR: 2014
+TYPE: book
+CONCEPTS: ['Climate change', 'Geography', 'Climatology', 'Environmental science', 'Climate model', 'Environmental resource management', 'Oceanography', 'Geology']

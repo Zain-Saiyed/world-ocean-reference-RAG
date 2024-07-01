@@ -1,0 +1,12 @@
+ID: W2913089583
+TITLE: Attenuation of Storm Surges by Coastal Mangroves
+AUTHOR: ['John Montgomery', 'Karin Bryan', 'Julia C. Mullarney', 'Erik Horstman']
+ABSTRACT:
+Abstract The interaction between mangroves and storm surges is explored using an analytical solution. A simplified momentum equation, balancing vegetation drag and pressure gradient, is combined with the continuity equation resulting in a diffusion equation. Assuming a simplified environment, a one‐dimensional analytical solution is obtained to predict peak surge level across a forest. The solution accurately reproduces peak water level of a 10‐year return period flood event in mangroves in the Firth of Thames, New Zealand, and in Ten Thousand Islands, Florida, during Hurricane Charley. Vegetation properties that determine the capacity of mangroves to reduce surges are forest density and cross‐shore extent. Storm characteristics—flood duration and peak water level at the forest fringe—also influence surge attenuation. Mangroves are shown to be an effective form of coastal flood protection if forests are sufficiently wide/dense, relative to the surge decay length scale, to restrict water exchange during a storm.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 55
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Storm surge', 'Environmental science', 'Flood myth', 'Vegetation (pathology)', 'Storm', 'Shore', 'Hydrology (agriculture)', 'Surge', 'Return period', 'Atmospheric sciences', 'Geology', 'Oceanography', 'Ecology', 'Geography', 'Geomorphology', 'Medicine', 'Geotechnical engineering', 'Biology', 'Archaeology', 'Pathology']

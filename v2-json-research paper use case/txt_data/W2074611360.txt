@@ -1,0 +1,12 @@
+ID: W2074611360
+TITLE: Abundance of biofilm on intertidal rocky shores: Can trampling by humans be a negative influence?
+AUTHOR: ['Lucas G. Leite', 'Áurea Maria Ciotti', 'Ronaldo Adriano Christofoletti']
+ABSTRACT:
+Trampling by human visitors to rocky shores is a known stressor on macroorganisms. However, the effects of trampling on rocky intertidal biofilm, a complex association of microorganisms of ecological importance in coastal communities, have not been quantified. We evaluated the impact of trampling frequency and intensity on total biomass of epilithic microalgae on intertidal rocky shores in the southeast of Brazil. There was a trend of increase in the variability of biomass of biofilm in function of intensity of trampling, but no significant effects emerged among trampling treatments. The low influence of trampling on biofilm might be a result of the small dimensions of the organisms coupled with their natural resilience and roughness of the substrate; the former preventing the removal of biofilm layers by shoes and facilitating their quick recovery. Our results provide insights for management and conservation of coastal ecosystems revealing a weaker impact of trampling on biofilm than that reported on macroorganisms.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Trampling', 'Intertidal zone', 'Rocky shore', 'Ecology', 'Biomass (ecology)', 'Ecosystem', 'Environmental science', 'Intertidal ecology', 'Biofilm', 'Biology', 'Grazing', 'Bacteria', 'Genetics']

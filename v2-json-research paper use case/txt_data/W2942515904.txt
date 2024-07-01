@@ -1,0 +1,12 @@
+ID: W2942515904
+TITLE: Modeling risk of mangroves to tropical cyclones: A case study of Hurricane Irma
+AUTHOR: ['Caiyun Zhang', 'Sara Denka Durgan', 'David Lagomasino']
+ABSTRACT:
+Mangrove forests are productive ecosystems but are vulnerable to tropical cyclones. In this study, we quantified the damage of mangroves from Hurricane Irma at a large-scale using Landsat data, and modeled the risk of mangroves to hurricanes using three internal/physical metrics (a vegetation index, canopy height, and distance to open ocean) and two external/hurricane-related metrics (hurricane track and storm surge inundation). Four machine learning techniques including Artificial Neural Network (ANN), Support Vector Machine (SVM), Random Forest (RF), and k-Nearest Neighbor (k-NN) were examined and compared with the Multiple Linear Regression (MLR) method to identify the best risk model for damage projection from future hurricanes. The models were calibrated and validated using data before and after Hurricane Irma. Machine learning algorithms had a better performance than the linear model, and RF achieved the best result with a correlation coefficient (r) of 0.84 in predicting mangrove damages. The model also produced an encouraging result to hindcast mangrove damages from Hurricane Wilma. We applied object-based modeling and mapping techniques and produced mangrove damage maps from Irma and a worst-case scenario hurricane with an intensity of Category 5 and a track along the mangrove distribution. A total of 332 km2 of mangroves were severely damaged from Irma, and 635 km2 would be devastated from the modeled scenario. The techniques developed here can be used for other mangrove forests exposed to tropical cyclones.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: http://manuscript.elsevier.com/S0272771419301854/pdf/S0272771419301854.pdf
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Tropical cyclone', 'Environmental science', 'Storm surge', 'Vegetation (pathology)', 'Random forest', 'Typhoon', 'Storm', 'Meteorology', 'Climatology', 'Geography', 'Machine learning', 'Computer science', 'Ecology', 'Geology', 'Medicine', 'Pathology', 'Biology']

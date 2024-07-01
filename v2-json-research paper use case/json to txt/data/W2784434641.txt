@@ -1,0 +1,12 @@
+ID: W2784434641
+TITLE: A global ocean atlas of eukaryotic genes
+AUTHOR: ['Quentin Carradec', 'Éric Pelletier', 'Corinne Da Silva', 'Adriana Alberti', 'Yoann Seeleuthner', 'Romain Blanc-Mathieu', 'Gipsi Lima‐Mendez', 'Fabio Rocha', 'Leı̈la Tirichine', 'Karine Labadie', 'Amos Kirilovsky', 'Alexis Bertrand', 'Stéfan Engelen', 'Mohammed‐Amin Madoui', 'Raphaël Méheust', 'Julie Poulain', 'Sarah Romac', 'Daniel J. Richter', 'Genki Yoshikawa', 'Céline Dimier', 'Stefanie Kandels‐Lewis', 'Marc Picheral', 'Sarah Searson', 'Olivier Jaillon', 'Jean‐Marc Aury', 'Eric Karsenti', 'Matthew B. Sullivan', 'Shinichi Sunagawa', 'Peer Bork', 'Fabrice Not', 'Pascal Hingamp', 'Jeroen Raes', 'Lionel Guidi', 'Hiroyuki Ogata', 'Colomban de Vargas', 'Daniele Iudicone', 'Chris Bowler', 'Patrick Wincker']
+ABSTRACT:
+While our knowledge about the roles of microbes and viruses in the ocean has increased tremendously due to recent advances in genomics and metagenomics, research on marine microbial eukaryotes and zooplankton has benefited much less from these new technologies because of their larger genomes, their enormous diversity, and largely unexplored physiologies. Here, we use a metatranscriptomics approach to capture expressed genes in open ocean Tara Oceans stations across four organismal size fractions. The individual sequence reads cluster into 116 million unigenes representing the largest reference collection of eukaryotic transcripts from any single biome. The catalog is used to unveil functions expressed by eukaryotic marine plankton, and to assess their functional biogeography. Almost half of the sequences have no similarity with known proteins, and a great number belong to new gene families with a restricted distribution in the ocean. Overall, the resource provides the foundations for exploring the roles of marine eukaryotes in ocean ecology and biogeochemistry.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-017-02342-1.pdf
+CITED BY COUNT: 280
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Metagenomics', 'Biology', 'Biome', 'Evolutionary biology', 'Genome', 'Computational biology', 'Marine biology', 'Genomics', 'Gene', 'Biogeography', 'Ecology', 'Plankton', 'Genetics', 'Ecosystem']

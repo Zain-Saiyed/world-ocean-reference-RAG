@@ -1,0 +1,12 @@
+ID: W2511135941
+TITLE: Evidence for ship noise impacts on humpback whale foraging behaviour
+AUTHOR: ['Hannah Blair', 'Nathan D. Merchant', 'Ari S. Friedlaender', 'David N. Wiley', 'Susan E. Parks']
+ABSTRACT:
+Noise from shipping activity in North Atlantic coastal waters has been steadily increasing and is an area of growing conservation concern, as it has the potential to disrupt the behaviour of marine organisms. This study examines the impacts of ship noise on bottom foraging humpback whales ( Megaptera novaeangliae ) in the western North Atlantic . Data were collected from 10 foraging whales using non-invasive archival tags that simultaneously recorded underwater movements and the acoustic environment at the whale. Using mixed models, we assess the effects of ship noise on seven parameters of their feeding behaviours. Independent variables included the presence or absence of ship noise and the received level of ship noise at the whale. We found significant effects on foraging, including slower descent rates and fewer side-roll feeding events per dive with increasing ship noise. During 5 of 18 ship passages, dives without side-rolls were observed. These findings indicate that humpback whales on Stellwagen Bank, an area with chronically elevated levels of shipping traffic, significantly change foraging activity when exposed to high levels of ship noise. This measureable reduction in within-dive foraging effort of individual whales could potentially lead to population-level impacts of shipping noise on baleen whale foraging success.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2016.0005
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Foraging', 'Humpback whale', 'Baleen', 'Fishery', 'Whale', 'Biology', 'Capelin', 'Noise (video)', 'Cetacea', 'Population', 'Oceanography', 'Environmental science', 'Ecology', 'Fish <Actinopterygii>', 'Geology', 'Demography', 'Artificial intelligence', 'Sociology', 'Computer science', 'Image (mathematics)']

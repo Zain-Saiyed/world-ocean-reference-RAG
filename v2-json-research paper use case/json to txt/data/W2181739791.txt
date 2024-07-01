@@ -1,0 +1,12 @@
+ID: W2181739791
+TITLE: Coastal zone – Terra (and aqua) incognita – Integrated Coastal Zone Management in the Black Sea
+AUTHOR: ['Ruben Kosyan', 'Velichka Velikova']
+ABSTRACT:
+In the Black Sea coastal states (Bulgaria, Georgia, Romania, Russian Federation, Turkey, and Ukraine), Integrated Coastal Zone Management (ICZM) has no properly established legal and institutional framework. The term "coastal zone" is undefined in national (reportedly with the exception of Bulgaria) and regional legislative documents. The interface between science and policy within ICZM remains poorly developed. Policies for streamlining efforts have been ill-managed and decisions taken in functional zoning and the balanced use and protection of coastal zones have often been shown to be incorrect. The observed proliferation of consultative committees and councils has not been much helpful, public participation has been widely neglected. Illegal practices are in place, and coastal developments continue being largely unsustainable. These problems are often explained by the low awareness of ICZM benefits, and hence, a shortage of political good will, but also by the lack of appropriate Black Sea scientific research, which would ensure a fundamental knowledge-base. There are hundreds of organizations involved in collection of data and information of relevance for ICZM, although there is a distinct lack of coordination. Consequently, there is a substantial overlap of activities, whilst important scientific and policy questions remain unanswered. We review the status of ICZM or mismanagement (ICZmisM) in the Black Sea region, building links between environmental problems and policy measures in response, and providing appropriate examples. Recommendations are put forward with regard to major gaps in ICZM at levels of its theoretical development and practical implementation within the region. The review is intended to remind of major disastrous consequences of present complacency and laissez-faire in the management of the Black Sea. This paper calls for urgent implementation of ICZM in the Black Sea at national and regional levels.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Integrated coastal zone management', 'Coastal management', 'Environmental planning', 'Zoning', 'Environmental resource management', 'Legislature', 'Business', 'Political science', 'Coastal zone', 'Geography', 'Environmental science', 'Ecology', 'Law', 'Biology']

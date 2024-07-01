@@ -1,0 +1,12 @@
+ID: W2578030456
+TITLE: Conservation targets in marine protected area management suffer from shifting baseline syndrome: A case study on the Dogger Bank
+AUTHOR: ['Annabel A. Plumeridge', 'Callum M. Roberts']
+ABSTRACT:
+The Dogger Bank is a subtidal hill in the North Sea that is a candidate Special Area of Conservation under the EU Habitats Directive in UK waters. Historical records indicate that the Bank has been subject to human exploitation from before the 16th century but conservation objectives have been developed using recent survey data. This has the potential to significantly underestimate the alteration this ecosystem has experienced, making the Dogger Bank an example of shifting baseline syndrome in protected area management. We compile quantitative and qualitative descriptions from historical records of change in catch rates, fishing effort, price and fish size to show that there have been prolonged declines in abundance of fish on the Bank since the early 19th century. Use of present day data to inform conservation has led to unambitious recovery targets. Historical data, we argue, are an essential input to conservation decision making.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Baseline (sea)', 'Fishing', 'Fishery', 'Geography', 'Habitats Directive', 'Marine ecosystem', 'Habitat', 'Ecosystem', 'Environmental resource management', 'Ecology', 'Environmental science', 'Biology']

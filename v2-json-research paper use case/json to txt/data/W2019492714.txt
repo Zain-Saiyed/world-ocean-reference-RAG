@@ -1,0 +1,12 @@
+ID: W2019492714
+TITLE: Environmental impacts of produced water and drilling waste discharges from the Norwegian offshore petroleum industry
+AUTHOR: ['T. Bakke', 'Jarle Klungsøyr', 'Steinar Sanni']
+ABSTRACT:
+Operational discharges of produced water and drill cuttings from offshore oil and gas platforms are a continuous source of contaminants to continental shelf ecosystems. This paper reviews recent research on the biological effects of such discharges with focus on the Norwegian Continental Shelf. The greatest concern is linked to effects of produced water. Alkylphenols (AP) and polyaromatic hydrocarbons (PAH) from produced water accumulate in cod and blue mussel caged near outlets, but are rapidly metabolized in cod. APs, naphtenic acids, and PAHs may disturb reproductive functions, and affect several chemical, biochemical and genetic biomarkers. Toxic concentrations seem restricted to <2 km distance. At the peak of discharge of oil-contaminated cuttings fauna disturbance was found at more than 5 km from some platforms, but is now seldom detected beyond 500 m. Water-based cuttings may seriously affect biomarkers in filter feeding bivalves, and cause elevated sediment oxygen consumption and mortality in benthic fauna. Effects levels occur within 0.5–1 km distance. The stress is mainly physical. The risk of widespread, long term impact from the operational discharges on populations and the ecosystem is presently considered low, but this cannot be verified from the published literature.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 318
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Drill cuttings', 'Environmental science', 'Benthic zone', 'Fauna', 'Petroleum', 'Shetland', 'Submarine pipeline', 'Sediment', 'Oceanography', 'Marine ecosystem', 'Ecosystem', 'Environmental chemistry', 'Ecology', 'Drilling', 'Drilling fluid', 'Geology', 'Biology', 'Chemistry', 'Engineering', 'Mechanical engineering', 'Paleontology']

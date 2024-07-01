@@ -1,0 +1,12 @@
+ID: W2109629252
+TITLE: Picophytoplankton biomass distribution in the global ocean
+AUTHOR: ['Erik T. Buitenhuis', 'W. K. W. Li', 'Daniel Vaulot', 'Michael W. Lomas', 'Michael R. Landry', 'Frédéric Partensky', 'David M. Karl', 'Osvaldo Ulloa', 'Lisa Campbell', 'Stéphan Jacquet', 'François Lantoine', 'Francisco P. Chávez', 'Diego Macías', 'Michel Gosselin', 'GB McManus']
+ABSTRACT:
+Abstract. The smallest marine phytoplankton, collectively termed picophytoplankton, have been routinely enumerated by flow cytometry since the late 1980s during cruises throughout most of the world ocean. We compiled a database of 40 946 data points, with separate abundance entries for Prochlorococcus, Synechococcus and picoeukaryotes. We use average conversion factors for each of the three groups to convert the abundance data to carbon biomass. After gridding with 1° spacing, the database covers 2.4% of the ocean surface area, with the best data coverage in the North Atlantic, the South Pacific and North Indian basins, and at least some data in all other basins. The average picophytoplankton biomass is 12 &amp;amp;pm; 22 μg C l−1 or 1.9 g C m−2. We estimate a total global picophytoplankton biomass of 0.53–1.32 Pg C (17–39% Prochlorococcus, 12–15% Synechococcus and 49–69% picoeukaryotes), with an intermediate/best estimate of 0.74 Pg C. Future efforts in this area of research should focus on reporting calibrated cell size and collecting data in undersampled regions. http://doi.pangaea.de/10.1594/PANGAEA.777385
+
+SOURCE: Earth system science data
+PDF URL: https://essd.copernicus.org/articles/4/37/2012/essd-4-37-2012.pdf
+CITED BY COUNT: 194
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Prochlorococcus', 'Synechococcus', 'Phytoplankton', 'Biomass (ecology)', 'Oceanography', 'Abundance (ecology)', 'Environmental science', 'Cyanobacteria', 'Biology', 'Ecology', 'Geology', 'Nutrient', 'Genetics', 'Bacteria']

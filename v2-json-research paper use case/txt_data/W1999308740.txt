@@ -1,0 +1,12 @@
+ID: W1999308740
+TITLE: Coccolithophorid blooms in the global ocean
+AUTHOR: ['Christopher W. Brown', 'James A. Yoder']
+ABSTRACT:
+The global distribution pattern of coccolithophorid blooms was mapped in order to ascertain the prevalence of these blooms in the world's oceans and to estimate their worldwide production of CaCO 3 and dimethyl sulfide (DMS). Mapping was accomplished by classifying pixels of 5‐day global composites of coastal zone color scanner imagery into bloom and nonbloom classes using a supervised, multispectral classification scheme. Surface waters with the spectral signature of coccolithophorid blooms annually covered an average of 1.4×10 6 km 2 in the world oceans from 1979 to 1985, with the subpolar latitudes accounting for 71% of this surface area. Classified blooms were most extensive in the Subarctic North Atlantic. Large expanses of the bloom signal were also detected in the North Pacific, on the Argentine shelf and slope, and in numerous lower latitude marginal seas and shelf regions. The greatest spatial extent of classified blooms in subpolar oceanic regions occurred in the months from summer to early autumn, while those in lower latitude marginal seas occurred in midwinter to early spring. Though the classification scheme was efficient in separating bloom and nonbloom classes during test simulations, and biogeographical literature generally confirms the resulting distribution pattern of blooms in the subpolar regions, the cause of the bloom signal is equivocal in some geographic areas, particularly on shelf regions at lower latitudes. Standing stock estimates suggest that the presumed Emiliania huxleyi blooms act as a significant source of calcite carbon and DMS sulfur on a regional scale. On a global scale, however, the satellite‐detected coccolithophorid blooms are estimated to play only a minor role in the annual production of these two compounds and their flux from the surface mixed layer.
+
+SOURCE: Journal of geophysical research
+PDF URL: None
+CITED BY COUNT: 466
+PUBLICATION YEAR: 1994
+TYPE: article
+CONCEPTS: ['Bloom', 'Oceanography', 'Latitude', 'Algal bloom', 'Environmental science', 'Ocean color', 'Continental shelf', 'Emiliania huxleyi', 'Climatology', 'Geology', 'Phytoplankton', 'Satellite', 'Ecology', 'Biology', 'Geodesy', 'Aerospace engineering', 'Nutrient', 'Engineering']

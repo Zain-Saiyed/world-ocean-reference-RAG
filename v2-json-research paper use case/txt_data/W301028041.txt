@@ -1,0 +1,12 @@
+ID: W301028041
+TITLE: Predicting ecological changes on benthic estuarine assemblages through decadal climate trends along Brazilian Marine Ecoregions
+AUTHOR: ['Ângelo F. Bernardino', 'Sérgio A. Netto', 'Paulo Roberto Pagliosa', 'Francisco Barros', 'Ronaldo Adriano Christofoletti', 'José Souto Rosa Filho', 'André Colling', 'Paulo da Cunha Lana']
+ABSTRACT:
+Estuaries are threatened coastal ecosystems that support relevant ecological functions worldwide. The predicted global climate changes demand actions to understand, anticipate and avoid further damage to estuarine habitats. In this study we reviewed data on polychaete assemblages, as a surrogate for overall benthic communities, from 51 estuaries along five Marine Ecoregions of Brazil (Amazonia, NE Brazil, E Brazil, SE Brazil and Rio Grande). We critically evaluated the adaptive capacity and ultimately the resilience to decadal changes in temperature and rainfall of the polychaete assemblages. As a support for theoretical predictions on changes linked to global warming we compared the variability of benthic assemblages across the ecoregions with a 40-year time series of temperature and rainfall data. We found a significant upward trend in temperature during the last four decades at all marine ecoregions of Brazil, while rainfall increase was restricted to the SE Brazil ecoregion. Benthic assemblages and climate trends varied significantly among and within ecoregions. The high variability in climate patterns in estuaries within the same ecoregion may lead to correspondingly high levels of noise on the expected responses of benthic fauna. Nonetheless, we expect changes in community structure and productivity of benthic species at marine ecoregions under increasing influence of higher temperatures, extreme events and pollution.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 91
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Ecoregion', 'Benthic zone', 'Climate change', 'Ecology', 'Estuary', 'Environmental science', 'Polychaete', 'Threatened species', 'Geography', 'Ecosystem', 'Oceanography', 'Habitat', 'Biology', 'Geology']

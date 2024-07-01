@@ -1,0 +1,12 @@
+ID: W2463232687
+TITLE: Economics of Coastal Erosion and Adaptation to Sea Level Rise
+AUTHOR: ['Sathya Gopalakrishnan', 'Craig E. Landry', 'Martin D. Smith', 'John C. Whitehead']
+ABSTRACT:
+This article provides a review and synthesis of geoeconomic models that are used to analyze coastal erosion management and shoreline change. We outline a generic framework for analyzing risk-mitigating and/or recreation-enhancing policy interventions within a dynamic framework, and we review literature that informs the nature and extent of net benefit flows associated with coastal management. Using stated preference analysis, we present new estimates on household preferences for shoreline erosion management, including costs associated with ecological impacts of management. Lastly, we offer some guidance on directions for future research.
+
+SOURCE: Annual review of resource economics
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-resource-100815-095416
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Coastal erosion', 'Recreation', 'Shore', 'Environmental resource management', 'Sea level rise', 'Erosion', 'Coastal management', 'Adaptation (eye)', 'Climate change', 'Environmental planning', 'Natural resource economics', 'Environmental science', 'Economics', 'Oceanography', 'Ecology', 'Geology', 'Paleontology', 'Physics', 'Optics', 'Biology']

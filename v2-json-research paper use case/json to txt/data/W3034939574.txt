@@ -1,0 +1,12 @@
+ID: W3034939574
+TITLE: Coral reef islands can accrete vertically in response to sea level rise
+AUTHOR: ['Gerd Masselink', 'Edward Beetham', 'Paul S. Kench']
+ABSTRACT:
+Coral reef islands are morphodynamically resilient landforms that can adjust to sea level rise through vertical accretion.
+
+SOURCE: Science advances
+PDF URL: https://www.science.org/doi/pdf/10.1126/sciadv.aay3656?download=true
+CITED BY COUNT: 54
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Coral reef', 'Reef', 'Oceanography', 'Coral', 'Fishery', 'Sea level rise', 'Geography', 'Geology', 'Biology', 'Climate change']

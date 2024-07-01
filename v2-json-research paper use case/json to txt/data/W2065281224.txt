@@ -1,0 +1,12 @@
+ID: W2065281224
+TITLE: Contrasting behaviour of anthropogenic gadolinium and natural rare earth elements in estuaries and the gadolinium input into the North Sea
+AUTHOR: ['Serkan Kulaksız', 'Michael Bau']
+ABSTRACT:
+All major rivers in northwestern Germany that flow into the North Sea, including the Weser River, display rare earth element (REE) patterns with large positive gadolinium (Gd) anomalies that indicate the presence of anthropogenic Gd derived from contrast agents used in magnetic resonance imaging. This microcontaminant cannot be removed by common sewage treatment technology and enters rivers and lakes with the discharge from waste water treatment plants. As elsewhere, a large fraction of the natural dissolved REE in the Weser River are associated with colloids. These colloids aggregate during mixing of freshwater and seawater in the low-salinity part of the Weser Estuary and the dissolved REE are partially removed from the river water together with the colloids. In marked contrast to the natural REE, the anthropogenic Gd behaves conservatively during this estuarine mixing and transits through the Weser Estuary almost unaffected. This indicates that the speciation of anthropogenic Gd is different from that of natural Gd and suggests a long environmental half-life of the anthropogenic Gd complexes used as contrast agents. The amount of anthropogenic Gd introduced into seawater via rivers is significant and produces anthropogenic positive Gd anomalies in coastal seawater. This is observed in the southwestern North Sea, off the coast of the East Frisian Islands, where anthropogenic Gd is mostly derived from the rivers Rhine and Thames. Its long environmental half-life and conservative estuarine behaviour suggest that anthropogenic Gd might be utilized as a pseudo-natural far-field tracer for truly dissolved riverine REE input into seawater and for discharge from waste water treatment plants and for sewage in river, ground and drinking water. The widespread distribution of anthropogenic Gd is an example of how the increasing use of “exotic” (ultra)trace elements in high-tech processes will in the future significantly hamper studies of the distribution and geochemical behaviour of such elements in natural systems.
+
+SOURCE: Earth and planetary science letters
+PDF URL: None
+CITED BY COUNT: 213
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Seawater', 'Estuary', 'Oceanography', 'Geology', 'Natural (archaeology)', 'Salinity', 'Hydrology (agriculture)', 'Environmental science', 'Geotechnical engineering', 'Paleontology']

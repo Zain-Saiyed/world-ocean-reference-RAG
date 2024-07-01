@@ -1,0 +1,12 @@
+ID: W2763867874
+TITLE: Global carbon stocks and potential emissions due to mangrove deforestation from 2000 to 2012
+AUTHOR: ['Stuart E. Hamilton', 'Daniel A. Friess']
+ABSTRACT:
+Mangrove forests store high densities of organic carbon, which, when coupled with high rates of deforestation, means that mangroves have the potential to contribute substantially to carbon emissions. Consequently, mangroves are strong candidates for inclusion in nationally determined contributions (NDCs) to the United Nations Framework Convention on Climate Change (UNFCCC), and payments for ecosystem services (PES) programmes that financially incentivize the conservation of forested carbon stocks. This study quantifies annual mangrove carbon stocks from 2000 to 2012 at the global, national and sub-national levels, and global carbon emissions resulting from deforestation over the same time period. Globally, mangroves stored 4.19 Pg of carbon in 2012, with Indonesia, Brazil, Malaysia and Papua New Guinea accounting for more than 50% of the global stock. 2.96 Pg of the global carbon stock is contained within the soil and 1.23 Pg in the living biomass. Two percent of global mangrove carbon was lost between 2000 and 2012, equivalent to a maximum potential of 316,996,250 t of CO2 emissions. Annual mangrove carbon stocks are quantified (2000–2012) at global, national and sub-national levels, together with global carbon emissions resulting from deforestation. Two percent of global mangrove carbon was lost between 2000 and 2012.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 245
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mangrove', 'Carbon stock', 'Blue carbon', 'Deforestation (computer science)', 'United Nations Framework Convention on Climate Change', 'Environmental science', 'Greenhouse gas', 'Climate change mitigation', 'Global warming', 'Stock (firearms)', 'Climate change', 'Forestry', 'Carbon fibers', 'Biomass (ecology)', 'Ecosystem', 'Agroforestry', 'Environmental protection', 'Carbon sequestration', 'Kyoto Protocol', 'Geography', 'Ecology', 'Carbon dioxide', 'Biology', 'Materials science', 'Archaeology', 'Composite number', 'Computer science', 'Composite material', 'Programming language']

@@ -1,0 +1,12 @@
+ID: W2519661545
+TITLE: Effective protection against sea lice during the production of Atlantic salmon in floating enclosures
+AUTHOR: ['Arve Nilsen', 'Kristoffer Vale Nielsen', 'Eirik Biering', 'A. Bergheim']
+ABSTRACT:
+Effective protection against sea lice (Lepeoptheirus salmonis and Caligus elongatus) was documented over three years during the production of Atlantic salmon (Salmo salar) in floating enclosures with water intake at 25 m depth. Moderate to high sea lice abundance in reference groups in open cages confirmed the presence of infective sea lice copepodites in the surface water around the cages. In the closed cages, sea lice were only recorded after fish had been moved between cages with well boats, or when the cages were stocked with fish transferred from open cages. When fish were exposed to sea lice in the closed cages, the recorded abundance was low and with no signs of sea lice reproduction within the cages. Records of mortality and growth during the test period indicate that production in closed sea cages is possible without adverse effects on survival or growth rates. This study demonstrates how a new closed confinement technology provided an effective protection against sea lice (L. salmonis and C. elongatus), without adverse effects on survival or growth rates.
+
+SOURCE: Aquaculture
+PDF URL: None
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biology', 'Salmo', 'Fishery', 'Reproduction', 'Abundance (ecology)', 'Fish <Actinopterygii>', 'Open sea', 'Crustacean', 'Zoology', 'Animal science', 'Ecology', 'Oceanography', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2061273329
+TITLE: Marine invasive alien species: a threat to global biodiversity
+AUTHOR: ['Nicholas J. Bax', 'Angela Williamson', 'Max Agüero', 'E. Castro González', 'Warren Geeves']
+ABSTRACT:
+Invasive alien marine species threaten biodiversity, marine industries (including fishing and tourism) and human health, and unlike oil spills only get worse with time. While some progress is being made internationally on the 10,000 species estimated to be in transit around the world in the ballast water, effective solutions are a long way off; meanwhile the majority of vectors is being ignored. A systematic approach to invasive alien marine species is required to target the means and location of the most effective management actions. Cooperation among regional trading partners will be essential to effectively manage the threat.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 924
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Alien species', 'Biodiversity', 'Alien', 'Marine biodiversity', 'Marine species', 'Invasive species', 'Fishing', 'Ballast', 'Tourism', 'Fishery', 'Geography', 'Business', 'Environmental planning', 'Environmental resource management', 'Ecology', 'Biology', 'Environmental science', 'Political science', 'Politics', 'Citizenship', 'Law', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W2149072905
+TITLE: Sociogenetic structure, kin associations and bonding in delphinids
+AUTHOR: ['Luciana M. Möller']
+ABSTRACT:
+Social systems are the outcomes of natural and sexual selection on individuals' efforts to maximize reproductive success. Ecological conditions, life history, demography traits and social aspects have been recognized as important factors shaping social systems. Delphinids show a wide range of social structures and large variation in life history traits and inhabit several aquatic environments. They are therefore an excellent group in which to investigate the interplay of ecological and intrinsic factors on the evolution of mammalian social systems in these environments. Here I synthetize results from genetic studies on dispersal patterns, genetic relatedness, kin associations and mating patterns and combine with ecological, life history and phylogenetic data to predict the formation of kin associations and bonding in these animals. I show that environment type impacts upon dispersal tendencies, with small delphinids generally exhibiting female-biased philopatry in inshore waters and bisexual dispersal in coastal and pelagic waters. When female philopatry occurs, they develop moderate social bonds with related females. Male bonding occurs in species with small male-biased sexual size dimorphism and male-biased operational sex ratio, and it is independent of dispersal tendencies. By contrast, large delphinids, which live in coastal and pelagic waters, show bisexual philopatry and live in matrilineal societies. I propose that sexual conflict favoured the formation of these stable societies and in turn facilitated the development of kin-biased behaviours. Studies on populations of the same species inhabiting disparate environments, and of less related species living in similar habitats, would contribute towards a comprehensive framework for the evolution of delphinid social systems.
+
+SOURCE: Molecular ecology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-294X.2011.05405.x
+CITED BY COUNT: 80
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Philopatry', 'Biology', 'Ecology', 'Kin selection', 'Mating system', 'Pelagic zone', 'Social evolution', 'Sexual selection', 'Evolutionary biology', 'Demography', 'Mating', 'Population', 'Sociology']

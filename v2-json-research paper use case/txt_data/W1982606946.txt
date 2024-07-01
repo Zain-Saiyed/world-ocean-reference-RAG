@@ -1,0 +1,12 @@
+ID: W1982606946
+TITLE: Microzooplankton grazing impact in the Western Arctic Ocean
+AUTHOR: ['Evelyn B. Sherr', 'Barry F. Sherr', 'Aaron J. Hartz']
+ABSTRACT:
+Microzooplankton grazing impact on phytoplankton was assessed using the Landry–Hassett dilution technique in the Western Arctic Ocean during spring and summer 2002 and 2004. Forty experiments were completed in a region encompassing productive shelf regions of the Chukchi Sea, mesotrophic slope regions of the Beaufort Sea off the North Slope of Alaska, and oligotrophic deep-water sites in the Canada Basin. A variety of conditions were encountered, from heavy sea-ice cover during both spring cruises, moderate sea-ice cover during summer of 2002, and light to no sea ice during summer of 2004, with a concomitant range of trophic conditions, from low chlorophyll-a (Chl-a; <0.5 μg L−1) during heavy ice cover in spring and in the open basin, to late spring and summer shelf and slope open-water diatom blooms with Chl-a >5 μg L−1. The microzooplankton community was dominated by large naked ciliates and heterotrophic gymnodinoid dinoflagellates. Significant, but low, rates of microzooplankton herbivory were found in half of the experiments. The maximum grazing rate was 0.16 d−1 and average grazing rate, including experiments with no significant grazing, was 0.04±0.06 d−1. Phytoplankton intrinsic growth rates varied from the highest values of about 0.4 d−1 to the lowest values of zero to slightly negative growth, on average 0.16±0.15 d−1. Light limitation in spring and post-bloom senescence during summer were likely explanations of observed low phytoplankton growth rates. Microzooplankton grazing consumed 0–120% (average 22±26%) of phytoplankton daily growth. Grazing and growth rates found in this study were low compared to rates reported in another Arctic system, the Barents Sea, and in major geographic regions of the world ocean.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 98
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Oceanography', 'Environmental science', 'Grazing', 'Arctic', 'Diatom', 'Trophic level', 'Grazing pressure', 'Sea ice', 'Spring bloom', 'Chlorophyll a', 'Canada Basin', 'Bloom', 'Ecology', 'Nutrient', 'Biology', 'Geology', 'Botany']

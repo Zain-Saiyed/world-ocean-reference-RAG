@@ -1,0 +1,12 @@
+ID: W2117137037
+TITLE: Sources and delivery of carbon, nitrogen, and phosphorus to the coastal zone: An overview of Global Nutrient Export from Watersheds (NEWS) models and their application
+AUTHOR: ['Sybil P. Seitzinger', 'John Harrison', 'Egon Dumont', 'Arthur H.W. Beusen', 'Lex Bouwman']
+ABSTRACT:
+An overview of the first spatially explicit, multielement (N, P, and C), multiform (dissolved inorganic: DIN, DIP; dissolved organic: DOC, DON, DOP; and particulate: POC, PN, PP) predictive model system of river nutrient export from watersheds (Global Nutrient Export from Watersheds (NEWS)) is presented. NEWS models estimate export from 5761 watersheds globally as a function of land use, nutrient inputs, hydrology, and other factors; regional and global scale patterns as of 1995 are presented here. Watershed sources and their relative magnitudes differ by element and form. For example, anthropogenic sources dominate the export of DIN and DIP at the global scale, although their anthropogenic sources differ significantly (diffuse and point, respectively). Natural sources dominate DON and DOP export globally, although diffuse anthropogenic sources dominate in several regions in Asia, Europe and N. America. “Hot spots” where yield (kg km −2 yr −1 ) is high for several elements and forms were identified, including parts of Indonesia, Japan, southern Asia, and Central America, due to anthropogenic N and P inputs in some regions and high water runoff in others. NEWS models provide a tool to examine past, current and future river export of nutrients, and how humans might impact element ratios and forms, and thereby affect estuaries and coastal seas.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2005GB002606
+CITED BY COUNT: 616
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Nutrient', 'Environmental science', 'Watershed', 'Estuary', 'Surface runoff', 'Phosphorus', 'Hydrology (agriculture)', 'Particulates', 'Total organic carbon', 'Water quality', 'Oceanography', 'Ecology', 'Geology', 'Chemistry', 'Biology', 'Geotechnical engineering', 'Organic chemistry', 'Machine learning', 'Computer science']

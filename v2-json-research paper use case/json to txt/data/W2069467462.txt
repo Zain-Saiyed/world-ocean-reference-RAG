@@ -1,0 +1,12 @@
+ID: W2069467462
+TITLE: Environmental impact assessment: the state of the art
+AUTHOR: ['Richard Morgan']
+ABSTRACT:
+This paper reviews progress in environmental impact assessment (EIA) over the last 40 years, with particular emphasis on the last 15–20 years, and poses the question: is EIA ready to meet future challenges? The first part of the paper briefly examines the spread of EIA around the world, recent trends in the uptake of EIA, and the continuing emergence of variants of impact assessment. The second part of the paper concentrates on current issues in EIA, under three broad headings: theory and EIA, practice issues and EIA effectiveness. An important thread running through the second part of the paper is how discussions about EIA theory, a feature of the last 15 years, are affecting the different areas of EIA practice and evaluation.
+
+SOURCE: Impact assessment and project appraisal
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/14615517.2012.661557?needAccess=true
+CITED BY COUNT: 598
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Environmental impact assessment', 'Environmental planning', 'Impact assessment', 'Environmental resource management', 'Political science', 'Environmental science', 'Public administration', 'Law']

@@ -1,0 +1,12 @@
+ID: W2124614231
+TITLE: Coastal flood damage and adaptation costs under 21st century sea-level rise
+AUTHOR: ['Jochen Hinkel', 'Daniël Lincke', 'Athanasios T. Vafeidis', 'M. Perrette', 'Robert J. Nicholls', 'Richard S.J. Tol', 'Ben Marzeion', 'Xavier Fettweis', 'Cezar Ionescu', 'Anders Levermann']
+ABSTRACT:
+Coastal flood damage and adaptation costs under 21st century sea-level rise are assessed on a global scale taking into account a wide range of uncertainties in continental topography data, population data, protection strategies, socioeconomic development and sea-level rise. Uncertainty in global mean and regional sea level was derived from four different climate models from the Coupled Model Intercomparison Project Phase 5, each combined with three land-ice scenarios based on the published range of contributions from ice sheets and glaciers. Without adaptation, 0.2-4.6% of global population is expected to be flooded annually in 2100 under 25-123 cm of global mean sea-level rise, with expected annual losses of 0.3-9.3% of global gross domestic product. Damages of this magnitude are very unlikely to be tolerated by society and adaptation will be widespread. The global costs of protecting the coast with dikes are significant with annual investment and maintenance costs of US$ 12-71 billion in 2100, but much smaller than the global cost of avoided damages even without accounting for indirect costs of damage to regional production supply. Flood damages by the end of this century are much more sensitive to the applied protection strategy than to variations in climate and socioeconomic scenarios as well as in physical data sources (topography and climate model). Our results emphasize the central role of long-term coastal adaptation strategies. These should also take into account that protecting large parts of the developed coast increases the risk of catastrophic consequences in the case of defense failure.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/111/9/3292.full.pdf
+CITED BY COUNT: 928
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Damages', 'Flood myth', 'Climate change', 'Coastal flood', 'Population', 'Environmental science', 'Global warming', 'Gross domestic product', 'Environmental resource management', 'Sea level', 'Climate model', 'Climatology', 'Geography', 'Physical geography', 'Sea level rise', 'Oceanography', 'Geology', 'Economics', 'Demography', 'Archaeology', 'Sociology', 'Political science', 'Law', 'Economic growth']

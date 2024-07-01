@@ -1,0 +1,12 @@
+ID: W2152647352
+TITLE: Rates and Trends of Coastal Change in California and the Regional Behavior of the Beach and Cliff System
+AUTHOR: ['Cheryl J. Hapke', 'David F. Reid', 'Bruce M. Richmond']
+ABSTRACT:
+The U.S. Geological Survey (USGS) recently completed an analysis of shoreline change and cliff retreat along the California coast. This is the first regional, systematic measurement of coastal change conducted for the West Coast. Long-term (∼120 y) and short-term (∼25 y) shoreline change rates were calculated for more than 750 km of coastline, and 70 year cliff-retreat rates were generated for 350 km of coast. Results show that 40% of California's beaches were eroding in the long term. This number increased to 66% in the short term, indicating that many beaches have shifted toward a state of chronic erosion. The statewide average net shoreline change rates for the long and short term were 0.2 m/y and −0.2 m/y, respectively. The long-term accretional signal is likely related to large coastal engineering projects in some parts of the state and to large fluxes of sediment from rivers in other areas. The cliff-retreat assessment yielded a statewide average of −0.3 m/y. It was found that Northern California has the highest overall retreat rates, which are influenced by erosion hot spots associated with large coastal landslides and slumps. The databases established as part of the shoreline change and cliff-retreat analyses were further investigated to examine the dynamics of the beach/cliff system. A correlation analysis identified a strong relationship between the geomorphology of the coast and the behavior of the beach/cliff system. Areas of high-relief coast show negative correlations, indicating that higher rates of cliff retreat correlate with lower rates of shoreline erosion. In contrast, low-to moderate-relief coasts show strong positive correlations, wherein areas of high shoreline change correspond to areas of high cliff retreat.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Cliff', 'Shore', 'Coastal erosion', 'Geology', 'Oceanography', 'Erosion', 'Physical geography', 'Landslide', 'Geological survey', 'Hydrology (agriculture)', 'Geomorphology', 'Geography', 'Paleontology', 'Geotechnical engineering']

@@ -1,0 +1,12 @@
+ID: W2150101427
+TITLE: Year-to-year salinity changes in the Amazon plume: Contrasting 2011 and 2012 Aquarius/SACD and SMOS satellite data
+AUTHOR: ['Semyon A. Grodsky', 'Gilles Reverdin', 'James A. Carton', 'Victoria J. Coles']
+ABSTRACT:
+The fresh Amazon/Orinoco plume covers in excess of 106 km2 in late summer–early fall forming a near-surface barrier layer that reduces exchange with the cooler, saltier water below. Barrier layers and higher water turbidity keep SST in the region high and thus are factors in the development of fall season hurricanes. Year to year changes in key properties of salinity and areal coverage may depend on a number of factors including river discharge, ocean rainfall, vertical entrainment rate, and horizontal advection. This study uses new sea surface salinity observations from the Aquarius/SACD and SMOS satellites to show that the plume was 1 psu saltier in early fall 2012 than in the previous fall (despite a stronger Amazon discharge in 2012) and explores the possible causes. The study concludes that the most likely causes of the 2012 salinification are a relative deficit of rainfall over the inflow to the plume region well southeast of the plume in spring and a weaker North Brazil current in spring–summer. The results suggest that tracking spring rainfall can potentially contribute to forecasting the Amazon plume stratification during the fall hurricane season.
+
+SOURCE: Remote sensing of environment
+PDF URL: None
+CITED BY COUNT: 66
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Plume', 'Amazon rainforest', 'Environmental science', 'Climatology', 'Entrainment (biomusicology)', 'Advection', 'Stratification (seeds)', 'Salinity', 'Oceanography', 'Atmospheric sciences', 'Geology', 'Geography', 'Meteorology', 'Seed dormancy', 'Ecology', 'Philosophy', 'Physics', 'Botany', 'Rhythm', 'Biology', 'Aesthetics', 'Germination', 'Thermodynamics', 'Dormancy']

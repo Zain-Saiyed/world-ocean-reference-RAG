@@ -1,0 +1,12 @@
+ID: W2918046171
+TITLE: Impacts of historical warming on marine fisheries production
+AUTHOR: ['Christopher M. Free', 'James T. Thorson', 'Malin L. Pinsky', 'Kiva L. Oken', 'John Wiedenmann', 'Olaf P. Jensen']
+ABSTRACT:
+Accounting for a warming ocean Fisheries provide food and support livelihoods across the world. They are also under extreme pressure, with many stocks overfished and poorly managed. Climate change will add to the burden fish stocks bear, but such impacts remain largely unknown. Free et al. used temperature-specific models and hindcasting across fish stocks to determine the degree to which warming has, and will, affect fish species (see the Perspective by Plagányi). They found that an overall reduction in yield has occurred over the past 80 years. Furthermore, although some species are predicted to respond positively to warming waters, the majority will experience a negative impact on growth. As our world warms, responsible and active management of fisheries harvests will become even more important. Science , this issue p. 979 ; see also p. 930
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/363/6430/979.full.pdf
+CITED BY COUNT: 367
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Livelihood', 'Global warming', 'Fish stock', 'Climate change', 'Fishery', 'Effects of global warming on oceans', 'Fisheries management', 'Effects of global warming', 'Fish <Actinopterygii>', 'Environmental science', 'Fishing', 'Natural resource economics', 'Geography', 'Ecology', 'Agriculture', 'Biology', 'Economics']

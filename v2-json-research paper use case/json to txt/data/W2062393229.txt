@@ -1,0 +1,12 @@
+ID: W2062393229
+TITLE: Ocean methane hydrates as a slow tipping point in the global carbon cycle
+AUTHOR: ['David Archer', 'B. A. Buffett', 'Victor Brovkin']
+ABSTRACT:
+We present a model of the global methane inventory as hydrate and bubbles below the sea floor. The model predicts the inventory of CH(4) in the ocean today to be approximately 1600-2,000 Pg of C. Most of the hydrate in the model is in the Pacific, in large part because lower oxygen levels enhance the preservation of organic carbon. Because the oxygen concentration today may be different from the long-term average, the sensitivity of the model to O(2) is a source of uncertainty in predicting hydrate inventories. Cold water column temperatures in the high latitudes lead to buildup of hydrates in the Arctic and Antarctic at shallower depths than is possible in low latitudes. A critical bubble volume fraction threshold has been proposed as a critical threshold at which gas migrates all through the sediment column. Our model lacks many factors that lead to heterogeneity in the real hydrate reservoir in the ocean, such as preferential hydrate formation in sandy sediments and subsurface gas migration, and is therefore conservative in its prediction of releasable methane, finding only 35 Pg of C released after 3 degrees C of uniform warming by using a 10% critical bubble volume. If 2.5% bubble volume is taken as critical, then 940 Pg of C might escape in response to 3 degrees C warming. This hydrate model embedded into a global climate model predicts approximately 0.4-0.5 degrees C additional warming from the hydrate response to fossil fuel CO(2) release, initially because of methane, but persisting through the 10-kyr duration of the simulations because of the CO(2) oxidation product of methane.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 344
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Methane', 'Clathrate hydrate', 'Hydrate', 'Environmental science', 'Carbon cycle', 'Volume (thermodynamics)', 'Carbon dioxide', 'Global warming', 'Carbon fibers', 'Seabed', 'Sediment', 'Atmospheric sciences', 'Oceanography', 'Chemistry', 'Geology', 'Climate change', 'Materials science', 'Thermodynamics', 'Geomorphology', 'Ecology', 'Physics', 'Organic chemistry', 'Ecosystem', 'Composite number', 'Composite material', 'Biology']

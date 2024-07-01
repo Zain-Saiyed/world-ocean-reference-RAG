@@ -1,0 +1,12 @@
+ID: W2623294944
+TITLE: Overview of underwater acoustic and seismic measurements of the construction and operation of the Block Island Wind Farm
+AUTHOR: ['James H. Miller', 'Gopu R. Potty', 'Ying-Tsong Lin', 'Arthur E. Newhall', 'Kathleen J. Vigness-Raposa', 'Jennifer Giard', 'Tim Mason']
+ABSTRACT:
+The Block Island Wind Farm (BIWF), the first offshore wind farm in the United States, consists of five 6-MW turbines 3 miles southeast of Block Island, Rhode Island in water depths of approximately 30 m. Construction began in the summer of 2015 and power production began in late 2016. Underwater acoustic and geophysical measurement systems were deployed to acquire real-time observations of the construction and initial operation of a wind facility to aid the evaluation of environmental effects of future facilities. The substructure for these BIWF turbines consists of jacket type construction with piles driven to the bottom to pin the structure to the seabed. The equipment used to monitor construction and initial operation consisted of a towed array consisting of eight hydrophones, two fixed moorings with four hydrophones each and a fixed sensor package for measuring particle velocity. This sensor package consists of a three-axis geophone on the seabed and a tetrahedral array of four low sensitivity hydrophones at 1 m from the bottom. Additionally, an acoustic vector sensor was deployed in mid-water. Data collected on these sensor systems during construction and initial operation will be summarized. [Work supported by Bureau of Ocean Energy Management (BOEM).]
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Geophone', 'Underwater', 'Seabed', 'Offshore wind power', 'Marine engineering', 'Geology', 'Wind power', 'Block (permutation group theory)', 'Submarine pipeline', 'Particle velocity', 'Acoustics', 'Environmental science', 'Seismology', 'Oceanography', 'Engineering', 'Electrical engineering', 'Physics', 'Geometry', 'Mathematics']

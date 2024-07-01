@@ -1,0 +1,12 @@
+ID: W2529041245
+TITLE: Comprehensive Assessment of Risk to Ecosystems (CARE): A cumulative ecosystem risk assessment tool
+AUTHOR: ['Willow Battista', 'Kendra Karr', 'Nicole Sarto', 'Rod Fujita']
+ABSTRACT:
+Unassessed marine ecosystems are often unmanaged marine ecosystems. Several risk assessment methods exist that can provide a scientific basis for siting interventions and guiding management actions, but these methods focus mainly on single species and evaluate only the impacts of fishing in detail. We present a new ecosystem risk assessment model, the Comprehensive Assessment of Risk to Ecosystems (CARE), which allows analysts to consider the cumulative impact of multiple threats, interactions among threats that may result in synergistic or antagonistic impacts, and the impacts of a suite of threats on whole-ecosystem productivity and functioning, as well as on ecosystem services. CARE can be completed very rapidly, and uses local and expert knowledge where data are lacking. It can be applied to virtually any system, and can be modified as knowledge is gained or to better match different site characteristics. Two case studies are provided to illustrate how CARE can be applied. These CARE analyses suggest that in Karimunjawa, Indonesia activities other than fishing should be addressed to ensure that a fisheries intervention will achieve desired outcomes. Conversely in Cantilan, Philippines a well-designed and implemented fishery intervention could address all of the most important system threats.
+
+SOURCE: Fisheries research
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Environmental resource management', 'Ecosystem', 'Fishing', 'Ecosystem services', 'Intervention (counseling)', 'Impact assessment', 'Productivity', 'Risk assessment', 'Marine ecosystem', 'Ecosystem-based management', 'Business', 'Environmental planning', 'Environmental science', 'Fishery', 'Computer science', 'Ecology', 'Medicine', 'Computer security', 'Macroeconomics', 'Public administration', 'Psychiatry', 'Political science', 'Economics', 'Biology']

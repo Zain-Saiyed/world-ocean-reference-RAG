@@ -1,0 +1,12 @@
+ID: W2094314015
+TITLE: Consumers mediate the effects of experimental ocean acidification and warming on primary producers
+AUTHOR: ['Christian Alsterberg', 'Johan Eklöf', 'Lars Gamfeldt', 'Jonathan N. Havenhand', 'Kristina Sundbäck']
+ABSTRACT:
+It is well known that ocean acidification can have profound impacts on marine organisms. However, we know little about the direct and indirect effects of ocean acidification and also how these effects interact with other features of environmental change such as warming and declining consumer pressure. In this study, we tested whether the presence of consumers (invertebrate mesograzers) influenced the interactive effects of ocean acidification and warming on benthic microalgae in a seagrass community mesocosm experiment. Net effects of acidification and warming on benthic microalgal biomass and production, as assessed by analysis of variance, were relatively weak regardless of grazer presence. However, partitioning these net effects into direct and indirect effects using structural equation modeling revealed several strong relationships. In the absence of grazers, benthic microalgae were negatively and indirectly affected by sediment-associated microalgal grazers and macroalgal shading, but directly and positively affected by acidification and warming. Combining indirect and direct effects yielded no or weak net effects. In the presence of grazers, almost all direct and indirect climate effects were nonsignificant. Our analyses highlight that (i) indirect effects of climate change may be at least as strong as direct effects, (ii) grazers are crucial in mediating these effects, and (iii) effects of ocean acidification may be apparent only through indirect effects and in combination with other variables (e.g., warming). These findings highlight the importance of experimental designs and statistical analyses that allow us to separate and quantify the direct and indirect effects of multiple climate variables on natural communities.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/110/21/8603.full.pdf
+CITED BY COUNT: 163
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Mesocosm', 'Benthic zone', 'Effects of global warming on oceans', 'Global warming', 'Environmental science', 'Seagrass', 'Ecology', 'Climate change', 'Primary producers', 'Biomass (ecology)', 'Indirect effect', 'Biology', 'Ecosystem', 'Nutrient', 'Phytoplankton', 'Political science', 'Law']

@@ -1,0 +1,12 @@
+ID: W2877726734
+TITLE: Assessing the regional conservation status of sponges (Porifera): the case of the Aegean ecoregion
+AUTHOR: ['Vasilis Gerovasileiou', 'Thanos Dailianis', 'Maria Sini', 'María del Mar Otero', 'Catherine Numa', 'Stelios Katsanevakis', 'Eleni Voultsiadou']
+ABSTRACT:
+Sponges are among the less-studied benthic invertebrates as regards their extinction risk and conservation status. Herein, we evaluate the regional conservation status of sponges in the Aegean ecoregion (Eastern Mediterranean Sea), using the IUCN Red List criteria. We examined 20 sponge taxa falling into three categories: i) threatened species listed in Annex II of the Barcelona Convention, ii) bath sponge species (Annex III of the Barcelona Convention), and iii) Aegean endemics. The regional geographic range of the examined taxa was depicted on detailed distribution maps, based mostly on recent observations by the authors and literature data. When possible, population trends were estimated based on historical data, and threats were identified. The suggested regional conservation status of the examined sponge species is as follows: i) nine species were characterised as ‘Data Deficient (DD)’ due to limited available information; ii) seven species were assigned to the ‘Least Concern (LC)’ category; iii) the four harvested bath sponge species were assigned to the Endangered (EN) category, based on their population decline in the Aegean region during the past decades. The present evaluation, besides providing scientific data for the regional protection and management of sponge populations, can form a basis for wider assessment and consequent conservation of Porifera.
+
+SOURCE: Mediterranean Marine Science
+PDF URL: https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/download/14461/16525
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ecoregion', 'IUCN Red List', 'Conservation status', 'Threatened species', 'Endangered species', 'Data deficient', 'Geography', 'Extinction (optical mineralogy)', 'Taxon', 'Population', 'Sponge', 'Critically endangered', 'Ecology', 'Endemism', 'IUCN protected area categories', 'Biology', 'Habitat', 'Demography', 'Botany', 'Paleontology', 'Sociology']

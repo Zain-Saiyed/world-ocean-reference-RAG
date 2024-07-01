@@ -1,0 +1,12 @@
+ID: W2937131561
+TITLE: Multi-faceted particle pumps drive carbon sequestration in the ocean
+AUTHOR: ['Philip W. Boyd', 'Hervé Claustre', 'Marina Lévy', 'David A. Siegel', 'Thomas Weber']
+ABSTRACT:
+The ocean's ability to sequester carbon away from the atmosphere exerts an important control on global climate. The biological pump drives carbon storage in the deep ocean and is thought to function via gravitational settling of organic particles from surface waters. However, the settling flux alone is often insufficient to balance mesopelagic carbon budgets or to meet the demands of subsurface biota. Here we review additional biological and physical mechanisms that inject suspended and sinking particles to depth. We propose that these 'particle injection pumps' probably sequester as much carbon as the gravitational pump, helping to close the carbon budget and motivating further investigation into their environmental control.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 468
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Settling', 'Carbon fibers', 'Carbon sequestration', 'Mesopelagic zone', 'Environmental science', 'Biota', 'Biological pump', 'Particle (ecology)', 'Oceanography', 'Atmosphere (unit)', 'Carbon cycle', 'Carbon dioxide', 'Ecology', 'Environmental engineering', 'Ecosystem', 'Geology', 'Materials science', 'Pelagic zone', 'Meteorology', 'Physics', 'Biology', 'Composite number', 'Composite material']

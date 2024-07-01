@@ -1,0 +1,12 @@
+ID: W2036671864
+TITLE: Human-induced nitrogen–phosphorus imbalances alter natural and managed ecosystems across the globe
+AUTHOR: ['Josep Peñuelas', 'Benjamin Poulter', 'Jordi Sardans', 'Philippe Ciais', 'Marijn van der Velde', 'Laurent Bopp', 'Oliviér Boucher', 'Yves Goddéris', 'Philippe Hinsinger', 'Joan Llusià', 'Élise Nardin', 'Sara Vicca', 'Michael Obersteiner', 'Ivan A. Janssens']
+ABSTRACT:
+The availability of carbon from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs. The inexorable change in the stoichiometry of carbon and nitrogen relative to phosphorus has no equivalent in Earth’s history. Here we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and nitrogen:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems. A mass balance approach is used to show that limited phosphorus and nitrogen availability are likely to jointly reduce future carbon storage by natural ecosystems during this century. Further, if phosphorus fertilizers cannot be made increasingly accessible, the crop yields projections of the Millennium Ecosystem Assessment imply an increase of the nutrient deficit in developing regions. Bioavailable nitrogen is increasing due to human activity, rapidly outpacing increases in another essential nutrient, phosphorous. Peñuelas et al.show that this increasing imbalance between these nutrients is likely to significantly affect life and limit carbon storage in this century.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms3934.pdf
+CITED BY COUNT: 1037
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Phosphorus', 'Ecological stoichiometry', 'Nutrient', 'Environmental science', 'Nitrogen', 'Terrestrial ecosystem', 'Nitrogen cycle', 'Environmental chemistry', 'Nutrient cycle', 'Aquatic ecosystem', 'Ecology', 'Chemistry', 'Biology', 'Organic chemistry']

@@ -1,0 +1,12 @@
+ID: W4251398339
+TITLE: Modelling marine community responses to climate‐driven species redistribution to guide monitoring and adaptive ecosystem‐based management
+AUTHOR: ['Martin P. Marzloff', 'Jessica Melbourne‐Thomas', 'Katell G. Hamon', 'Eriko Hoshino', 'Sarah Jennings', 'Ingrid E. van Putten', 'Gretta T. Pecl']
+ABSTRACT:
+As a consequence of global climate-driven changes, marine ecosystems are experiencing polewards redistributions of species - or range shifts - across taxa and throughout latitudes worldwide. Research on these range shifts largely focuses on understanding and predicting changes in the distribution of individual species. The ecological effects of marine range shifts on ecosystem structure and functioning, as well as human coastal communities, can be large, yet remain difficult to anticipate and manage. Here, we use qualitative modelling of system feedback to understand the cumulative impacts of multiple species shifts in south-eastern Australia, a global hotspot for ocean warming. We identify range-shifting species that can induce trophic cascades and affect ecosystem dynamics and productivity, and evaluate the potential effectiveness of alternative management interventions to mitigate these impacts. Our results suggest that the negative ecological impacts of multiple simultaneous range shifts generally add up. Thus, implementing whole-of-ecosystem management strategies and regular monitoring of range-shifting species of ecological concern are necessary to effectively intervene against undesirable consequences of marine range shifts at the regional scale. Our study illustrates how modelling system feedback with only limited qualitative information about ecosystem structure and range-shifting species can predict ecological consequences of multiple co-occurring range shifts, guide ecosystem-based adaptation to climate change and help prioritise future research and monitoring.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Climate change', 'Adaptive management', 'Trophic level', 'Ecology', 'Environmental resource management', 'Ecosystem-based management', 'Ecosystem management', 'Environmental science', 'Range (aeronautics)', 'Marine ecosystem', 'Species distribution', 'Temporal scales', 'Biology', 'Habitat', 'Materials science', 'Composite material']

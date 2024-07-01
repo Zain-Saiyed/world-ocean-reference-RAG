@@ -1,0 +1,12 @@
+ID: W2080259257
+TITLE: First observations of megafaunal communities inhabiting George Bligh Bank, Northeast Atlantic
+AUTHOR: ['Bhavani E. Narayanaswamy', 'David Hughes', 'Kerry L. Howell', 'Jaime S. Davies', 'C.L. Jacobs']
+ABSTRACT:
+George Bligh Bank, situated at the north-eastern end of the Rockall Plateau, forms part of an extensive system of elevated submarine topography in the UK's Exclusive Economic Zone of the northeast Atlantic. Through the UK's Strategic Environmental Assessment programme, these seamounts and offshore banks have only recently been investigated in any detail, allowing the first photographic record of epibenthic megafaunal communities. The results presented here are based on photographic and video observations along seven transects on George Bligh Bank, covering a depth range from 425 to 1338 m. Diverse communities of sedentary suspension-feeding organisms were observed along five of the seven transects, with some evidence of localised hard coral frameworks. Community composition on George Bligh Bank is similar to those observed on other hard substrata in the deep northeast Atlantic.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Megafauna', 'Seamount', 'Transect', 'George (robot)', 'Oceanography', 'Geography', 'Range (aeronautics)', 'Submarine pipeline', 'Archaeology', 'Geology', 'History', 'Pleistocene', 'Engineering', 'Aerospace engineering', 'Art history']

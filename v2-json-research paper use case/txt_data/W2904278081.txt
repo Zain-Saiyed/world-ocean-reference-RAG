@@ -1,0 +1,12 @@
+ID: W2904278081
+TITLE: Floating Photovoltaic Systems: Assessing the Technical Potential of Photovoltaic Systems on Man-Made Water Bodies in the Continental United States
+AUTHOR: ['Robert Spencer', 'Jordan Macknick', 'Alexandra Aznar', 'Adam Warren', 'Matthew O. Reese']
+ABSTRACT:
+Floating photovoltaic (FPV) systems, also called floatovoltaics, are a rapidly growing emerging technology application in which solar photovoltaic (PV) systems are sited directly on water. The water-based configuration of FPV systems can be mutually beneficial: Along with providing such benefits as reduced evaporation and algae growth, it can lower PV operating temperatures and potentially reduce the costs of solar energy generation. Although there is growing interest in FPV, to date there has been no systematic assessment of technical potential in the continental United States. We provide the first national-level estimate of FPV technical potential using a combination of filtered, large-scale datasets, site-specific PV generation models, and geospatial analytical tools. We quantify FPV co-benefits and siting considerations, such as land conservation, coincidence with high electricity prices, and evaporation rates. Our results demonstrate the potential of FPV to contribute significantly to the U.S. electric sector, even using conservative assumptions. A total of 24 419 man-made water bodies, representing 27% of the number and 12% of the area of man-made water bodies in the contiguous United States, were identified as being suitable for FPV generation. FPV systems covering just 27% of the identified suitable water bodies could produce almost 10% of current national generation. Many of these eligible bodies of water are in water-stressed areas with high land acquisition costs and high electricity prices, suggesting multiple benefits of FPV technologies.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 111
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Photovoltaic system', 'Electricity generation', 'Photovoltaics', 'Electricity', 'Environmental science', 'Engineering', 'Electrical engineering', 'Physics', 'Power (physics)', 'Quantum mechanics']

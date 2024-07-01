@@ -1,0 +1,12 @@
+ID: W2466073609
+TITLE: Seamount egg‐laying grounds of the deep‐water skate <i>Bathyraja richardsoni</i>
+AUTHOR: ['Lea Anne Henry', 'M. Stehmann', 'Laurence H. De Clippele', 'Helen S. Findlay', 'Neil Golding', 'J. Murray Roberts']
+ABSTRACT:
+Highly localized concentrations of elasmobranch egg capsules of the deep‐water skate Bathyraja richardsoni were discovered during the first remotely operated vehicle ( ROV ) survey of the Hebrides Terrace Seamount in the Rockall Trough, north‐east Atlantic Ocean. Conductivity–temperature–depth profiling indicated that the eggs were bathed in a specific environmental niche of well‐oxygenated waters between 4·20 and 4·55° C, and salinity 34·95–35·06, on a coarse to fine‐grained sandy seabed on the seamount's eastern flank, whereas a second type of egg capsule (possibly belonging to the skate Dipturus sp.) was recorded exclusively amongst the reef‐building stony coral Solenosmilia variabilis . The depths of both egg‐laying habitats (1489–1580 m) provide a de facto refuge from fisheries mortality for younger life stages of these skates.
+
+SOURCE: Journal of fish biology
+PDF URL: None
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seamount', 'Biology', 'Skate', 'Fishery', 'Reef', 'Oceanography', 'Coral reef', 'Chondrichthyes', 'Abyssal zone', 'Paleontology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2090919756
+TITLE: Tetrodotoxin: Chemistry, Toxicity, Source, Distribution and Detection
+AUTHOR: ['Vaishali Bane', 'Mary Lehane', 'Madhurima Dikshit', 'Alan O’Riordan', 'Ambrose Furey']
+ABSTRACT:
+Tetrodotoxin (TTX) is a naturally occurring toxin that has been responsible for human intoxications and fatalities. Its usual route of toxicity is via the ingestion of contaminated puffer fish which are a culinary delicacy, especially in Japan. TTX was believed to be confined to regions of South East Asia, but recent studies have demonstrated that the toxin has spread to regions in the Pacific and the Mediterranean. There is no known antidote to TTX which is a powerful sodium channel inhibitor. This review aims to collect pertinent information available to date on TTX and its analogues with a special emphasis on the structure, aetiology, distribution, effects and the analytical methods employed for its detection.
+
+SOURCE: Toxins
+PDF URL: https://www.mdpi.com/2072-6651/6/2/693/pdf?version=1392996059
+CITED BY COUNT: 286
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Tetrodotoxin', 'Antidote', 'Toxin', 'Toxicity', 'Distribution (mathematics)', 'Sodium channel', 'Biology', 'Chemistry', 'Toxicology', 'Zoology', 'Sodium', 'Microbiology', 'Biophysics', 'Organic chemistry', 'Mathematical analysis', 'Mathematics']

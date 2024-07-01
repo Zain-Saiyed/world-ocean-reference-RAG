@@ -1,0 +1,12 @@
+ID: W4242741876
+TITLE: Environmental Vulnerability to Climate Change in Mediterranean Basin
+AUTHOR: ['Ahmed Karmaoui']
+ABSTRACT:
+The Mediterranean basin (MB) connects the south with the north and the East (Europe, Africa &amp; Asia).It is a highly heterogeneous region where natural and anthropogenic activities interact in complex ways with climate variability. Climate change (CC) impacts are already defined on the Mediterranean. That is why the time has come to formulate a long-term plan for adaptation to CC of the MB. In this chapter the author aims (i) the assessment of the environmental vulnerability under CC provided in the BM during the last 30 years, (ii) the determination of environmental vulnerability indicators that the author call Major Common Indicators (MCI), and (iii) identification of adaptation strategies based on these indicators. For this analysis the author used the results of the Environmental Vulnerability Index (EVI), developed by SOPAC. In this paper, the author extracted, compiled, compared and analyzed the data of the EVI of 8 selected Mediterranean countries; 4 countries in North Africa (Morocco, Algeria, Tunisia and Egypt) and 4 Southern Europe (Spain, France, Italy and Greece).
+
+SOURCE: IGI Global eBooks
+PDF URL: None
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Vulnerability (computing)', 'Geography', 'Mediterranean climate', 'Mediterranean Basin', 'Climate change', 'Vulnerability index', 'Vulnerability assessment', 'Environmental change', 'Adaptation (eye)', 'Environmental resource management', 'Environmental protection', 'Environmental science', 'Ecology', 'Archaeology', 'Psychology', 'Physics', 'Computer security', 'Psychological resilience', 'Computer science', 'Optics', 'Psychotherapist', 'Biology']

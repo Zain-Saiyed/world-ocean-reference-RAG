@@ -1,0 +1,12 @@
+ID: W1984609091
+TITLE: Geomorphology of the oceans
+AUTHOR: ['Peter T. Harris', 'Miles Macmillan-Lawler', 'J. Rupp', 'Elaine Baker']
+ABSTRACT:
+We present the first digital seafloor geomorphic features map (GSFM) of the global ocean. The GSFM includes 131,192 separate polygons in 29 geomorphic feature categories, used here to assess differences between passive and active continental margins as well as between 8 major ocean regions (the Arctic, Indian, North Atlantic, North Pacific, South Atlantic, South Pacific and the Southern Oceans and the Mediterranean and Black Seas). The GSFM provides quantitative assessments of differences between passive and active margins: continental shelf width of passive margins (88 km) is nearly three times that of active margins (31 km); the average width of active slopes (36 km) is less than the average width of passive margin slopes (46 km); active margin slopes contain an area of 3.4 million km2 where the gradient exceeds 5°, compared with 1.3 million km2 on passive margin slopes; the continental rise covers 27 million km2 adjacent to passive margins and less than 2.3 million km2 adjacent to active margins. Examples of specific applications of the GSFM are presented to show that: 1) larger rift valley segments are generally associated with slow-spreading rates and smaller rift valley segments are associated with fast spreading; 2) polar submarine canyons are twice the average size of non-polar canyons and abyssal polar regions exhibit lower seafloor roughness than non-polar regions, expressed as spatially extensive fan, rise and abyssal plain sediment deposits — all of which are attributed here to the effects of continental glaciations; and 3) recognition of seamounts as a separate category of feature from ridges results in a lower estimate of seamount number compared with estimates of previous workers.
+
+SOURCE: Marine geology
+PDF URL: None
+CITED BY COUNT: 441
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Geology', 'Continental margin', 'Seafloor spreading', 'Abyssal plain', 'Submarine canyon', 'Passive margin', 'Canyon', 'Continental shelf', 'Seamount', 'Bathymetry', 'Oceanography', 'Seabed', 'Geomorphology', 'Paleontology', 'Sediment', 'Rift', 'Tectonics']

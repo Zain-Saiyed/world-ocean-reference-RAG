@@ -1,0 +1,12 @@
+ID: W2118661143
+TITLE: Is the Thermohaline Circulation Changing?
+AUTHOR: ['Mojib Latif', 'Claus W. Böning', 'Jürgen Willebrand', 'Arne Biastoch', 'Joachim Dengg', 'Noel Keenlyside', 'U. Schweckendiek', 'Gurvan Madec']
+ABSTRACT:
+Abstract Analyses of ocean observations and model simulations suggest that there have been considerable changes in the thermohaline circulation (THC) during the last century. These changes are likely to be the result of natural multidecadal climate variability and are driven by low-frequency variations of the North Atlantic Oscillation (NAO) through changes in Labrador Sea convection. Indications of a sustained THC weakening are not seen during the last few decades. Instead, a strengthening since the 1980s is observed. The combined assessment of ocean hydrography data and model results indicates that the expected anthropogenic weakening of the THC will remain within the range of natural variability during the next several decades.
+
+SOURCE: Journal of climate
+PDF URL: https://journals.ametsoc.org/downloadpdf/journals/clim/19/18/jcli3876.1.pdf
+CITED BY COUNT: 199
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Thermohaline circulation', 'Climatology', 'Hydrography', 'Shutdown of thermohaline circulation', 'Atlantic multidecadal oscillation', 'General Circulation Model', 'Ocean current', 'Climate model', 'Environmental science', 'North Atlantic oscillation', 'Oceanography', 'Climate change', 'Range (aeronautics)', 'Geology', 'North Atlantic Deep Water', 'Materials science', 'Composite material']

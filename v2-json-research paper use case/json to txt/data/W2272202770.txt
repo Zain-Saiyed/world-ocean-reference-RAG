@@ -1,0 +1,12 @@
+ID: W2272202770
+TITLE: Is low frequency ocean sound increasing globally?
+AUTHOR: ['Jennifer Miksis-Olds', 'Stephen M. Nichols']
+ABSTRACT:
+Low frequency sound has increased in the Northeast Pacific Ocean over the past 60 yr [Ross (1993) Acoust. Bull. 18, 5-8; (2005) IEEE J. Ocean. Eng. 30, 257-261; Andrew, Howe, Mercer, and Dzieciuch (2002) J. Acoust. Soc. Am. 129, 642-651; McDonald, Hildebrand, and Wiggins (2006) J. Acoust. Soc. Am. 120, 711-717; Chapman and Price (2011) J. Acoust. Soc. Am. 129, EL161-EL165] and in the Indian Ocean over the past decade, [Miksis-Olds, Bradley, and Niu (2013) J. Acoust. Soc. Am. 134, 3464-3475]. More recently, Andrew, Howe, and Mercer's [(2011) J. Acoust. Soc. Am. 129, 642-651] observations in the Northeast Pacific show a level or slightly decreasing trend in low frequency noise. It remains unclear what the low frequency trends are in other regions of the world. In this work, data from the Comprehensive Nuclear-Test Ban Treaty Organization International Monitoring System was used to examine the rate and magnitude of change in low frequency sound (5-115 Hz) over the past decade in the South Atlantic and Equatorial Pacific Oceans. The dominant source observed in the South Atlantic was seismic air gun signals, while shipping and biologic sources contributed more to the acoustic environment at the Equatorial Pacific location. Sound levels over the past 5-6 yr in the Equatorial Pacific have decreased. Decreases were also observed in the ambient sound floor in the South Atlantic Ocean. Based on these observations, it does not appear that low frequency sound levels are increasing globally.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: https://asa.scitation.org/doi/pdf/10.1121/1.4938237
+CITED BY COUNT: 66
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Sound (geography)', 'Geology', 'Pacific ocean', 'Oceanography', 'Infrasound', 'Seismology', 'Noise (video)', 'Acoustics', 'Physics', 'Computer science', 'Artificial intelligence', 'Image (mathematics)']

@@ -1,0 +1,12 @@
+ID: W2956512924
+TITLE: 15 Habitat Mapping of Cold-Water Corals in the Mediterranean Sea
+AUTHOR: ['Claudio Lo Iacono', 'Alessandra Savini', 'Veerle Huvenne', 'Eulália Gràcia']
+ABSTRACT:
+Habitat mapping is increasingly considered as a reliable and efficient methodology to explore and represent the complexity and extent of benthic communities. Providing a full-coverage spatial perspective of habitat heterogeneity is becoming an essential tool in science-based management of natural resources, specifically regarding vulnerable marine ecosystems such as cold-water corals. Here we present two case studies, where we revisit known cold-water coral areas of the Mediterranean Sea and where we apply original habitat mapping techniques. The areas correspond to the Chella Bank, in the Alborán Sea, and the Santa Maria de Leuca cold-water coral province, in the Ionian Sea. The Chella Bank is one of a series of volcanic banks and knolls located in the western Mediterranean that have been described as geologic features hosting vulnerable marine ecosystems. The cold-water coral province off Santa Maria de Leuca represents one of the largest known occurrences of living reef-forming cold-water coral species (i.e. Lophelia pertusa and Madrepora oculata) in the Mediterranean Sea, where corals grow on the exposed summits and flanks of mound-like structures (up to 300 m wide and 25 m high) associated with mass wasting events. Both cases adopt a holistic and integrated study of the environmental characteristics (geology and oceanography) of the observed benthic habitats and aim to map their extent using supervised automated classifications. Multibeam swath bathymetry, the derived acoustic backscatter, sidescan sonar, video footage gathered with a remotely operated vehicle, photo stills from underwater drop camera, and CTD casts where available, have been used together to identify the geological and oceanographic processes that most likely are responsible for the distribution of the observed cold-water corals and associated benthic communities.
+
+SOURCE: Coral reefs of the world
+PDF URL: None
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Oceanography', 'Habitat', 'Coral', 'Mediterranean sea', 'Bathymetry', 'Coral reef', 'Mediterranean climate', 'Benthic zone', 'Seagrass', 'Reef', 'Remotely operated vehicle', 'Geology', 'Benthic habitat', 'Marine ecosystem', 'Cold seep', 'Geography', 'Ecosystem', 'Ecology', 'Archaeology', 'Methane', 'Biology']

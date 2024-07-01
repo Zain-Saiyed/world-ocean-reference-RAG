@@ -1,0 +1,12 @@
+ID: W2888860257
+TITLE: Invasive biota in the deep-sea Mediterranean: an emerging issue in marine conservation and management
+AUTHOR: ['Bella S. Galil', 'Roberto Danovaro', 'Shevy Bat-Sheva Rothman', 'Roy Gevili', 'Menachem Goren']
+ABSTRACT:
+Although the ecological importance and impact of non-indigenous species is increasingly recognised and documented in shallow water ecosystems, their presence beyond the shelf has scarcely been documented. A survey of the upper slope biota of the Mediterranean coast of Israel revealed the presence at 200-m depth of individuals of three Erythraean species, the crocodile toothfish Champsodon nudivittis, Golani's round herring Etrumeus golanii, and the burrowing goby, Trypauchen vagina. In the past decade several Erythraean species, some newly arrived, some well-established, have been collected on the Levantine lower shelf and upper slope. The species invasion revealed that thermal niche estimations based on the species' native environment may have underestimated their ability to tolerate lower temperatures. The results reported here suggest that the wide thermal tolerance of some Erythraean species may facilitate their bathymetric and geographic expansion. Their spread to the depths where the unique, diverse and fragile mesophotic 'animal forests' occur, bodes ill to these beleaguered communities.
+
+SOURCE: Biological invasions
+PDF URL: https://link.springer.com/content/pdf/10.1007/s10530-018-1826-9.pdf
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Biology', 'Biota', 'Invasive species', 'Ecology', 'Introduced species', 'Ecosystem', 'Mediterranean sea', 'Mediterranean climate', 'Fishery']

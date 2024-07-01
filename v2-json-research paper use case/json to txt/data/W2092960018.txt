@@ -1,0 +1,12 @@
+ID: W2092960018
+TITLE: Global Distribution of Methane Hydrate in Ocean Sediment
+AUTHOR: ['Jeffery B. Klauda', 'Stanley I. Sandler']
+ABSTRACT:
+In this paper, we present an equilibrium thermodynamic model to accurately predict the maximum depth of hydrate stability in the seafloor, including the effects of water salinity, hydrate confinement in pores, and the distribution of pore sizes in natural sediments. This model uses sediment type, geothermal gradient, and seafloor depth as input to predict the thickness of the hydrate zone. Using this hydrate model and a mass-transfer description for hydrate formation, we have also developed a predictive method for the occurrence of methane hydrates in the ocean. Based on this information, a prediction for the distribution of methane hydrate in ocean sediment is presented on a 1° latitude by 1° longitude (1° × 1°) global grid. From this detailed prediction, we estimate that there is a total volume of 1.2 × 1017 m3 of methane gas (expanded to atmospheric conditions), or, equivalently, 74 400 Gt of CH4 in ocean hydrates, which is 3 orders of magnitude larger than worldwide conventional natural gas reserves. Of this number, we estimate that 4.4 × 1016 m3 of methane expanded to standard temperature and pressure (STP) exists on the continental margins.
+
+SOURCE: Energy & fuels
+PDF URL: None
+CITED BY COUNT: 500
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Methane', 'Clathrate hydrate', 'Hydrate', 'Geothermal gradient', 'Geology', 'Sediment', 'Seafloor spreading', 'Natural gas', 'Volume (thermodynamics)', 'Atmospheric methane', 'Mineralogy', 'Environmental science', 'Oceanography', 'Chemistry', 'Geomorphology', 'Geophysics', 'Thermodynamics', 'Organic chemistry', 'Physics']

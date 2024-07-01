@@ -1,0 +1,12 @@
+ID: W2801765526
+TITLE: The State of the World’s Beaches
+AUTHOR: ['Arjen Luijendijk', 'Gerben Hagenaars', 'Roshanka Ranasinghe', 'Fedor Baart', '\u202aGennadii Donchyts', 'Stefan Aarninkhof']
+ABSTRACT:
+Coastal zones constitute one of the most heavily populated and developed land zones in the world. Despite the utility and economic benefits that coasts provide, there is no reliable global-scale assessment of historical shoreline change trends. Here, via the use of freely available optical satellite images captured since 1984, in conjunction with sophisticated image interrogation and analysis methods, we present a global-scale assessment of the occurrence of sandy beaches and rates of shoreline change therein. Applying pixel-based supervised classification, we found that 31% of the world's ice-free shoreline are sandy. The application of an automated shoreline detection method to the sandy shorelines thus identified resulted in a global dataset of shoreline change rates for the 33 year period 1984-2016. Analysis of the satellite derived shoreline data indicates that 24% of the world's sandy beaches are eroding at rates exceeding 0.5 m/yr, while 28% are accreting and 48% are stable. The majority of the sandy shorelines in marine protected areas are eroding, raising cause for serious concern.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-24630-6.pdf
+CITED BY COUNT: 576
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Shore', 'Scale (ratio)', 'Physical geography', 'Satellite imagery', 'Satellite', 'Geography', 'Oceanography', 'Environmental resource management', 'Remote sensing', 'Environmental science', 'Geology', 'Cartography', 'Aerospace engineering', 'Engineering']

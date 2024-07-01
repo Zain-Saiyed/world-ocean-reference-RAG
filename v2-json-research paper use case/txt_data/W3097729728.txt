@@ -1,0 +1,12 @@
+ID: W3097729728
+TITLE: Marine Genetic Resources, R&D and the Law 1
+AUTHOR: ['Bleuenn Guilloux']
+ABSTRACT:
+Advances in research and development (R&D) reveal the immense diversity and potential of marine genetic resources. Under international law, no specific regime exists pertaining to these complex objects of use. Upstream of the R&D chain, the Convention on the Law of the Sea (1982) sets up a framework partially unsuitable for this new category of resources. The Convention on Biological Diversity (1992) and its Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization (2010) cover only those within national spaces. Downstream of the R&D chain, patents allow the holder to exercise a monopoly over a plethora of biotechnological creations with extensive claims, questioning the common nature of biodiversity and associated modern and traditional knowledge. Intellectual property rights interfere with research and biodiversity law goals of biodiversity conservation, access to genetic resources, fair and equitable benefit-sharing resulting from the use of genetic resources, and knowledge and technology diffusion.
+
+SOURCE: John Wiley & Sons, Inc. eBooks
+PDF URL: None
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2018
+TYPE: book
+CONCEPTS: ['Genetic resources', 'Law', 'Political science', 'Biology', 'Biotechnology']

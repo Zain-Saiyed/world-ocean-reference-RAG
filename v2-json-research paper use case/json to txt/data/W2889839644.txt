@@ -1,0 +1,12 @@
+ID: W2889839644
+TITLE: Understanding the population consequences of disturbance
+AUTHOR: ['Enrico Pirotta', 'Cormac G. Booth', 'Daniel P. Costa', 'Erica Fleishman', 'Scott D. Kraus', 'David Lusseau', 'David Moretti', 'Leslie New', 'Robert S. Schick', 'Lisa Schwarz', 'Samantha E. Simmons', 'Len Thomas', 'Peter L. Tyack', 'Michael Weise', 'Randall S. Wells', 'John Harwood']
+ABSTRACT:
+Managing the nonlethal effects of disturbance on wildlife populations has been a long-term goal for decision makers, managers, and ecologists, and assessment of these effects is currently required by European Union and United States legislation. However, robust assessment of these effects is challenging. The management of human activities that have nonlethal effects on wildlife is a specific example of a fundamental ecological problem: how to understand the population-level consequences of changes in the behavior or physiology of individual animals that are caused by external stressors. In this study, we review recent applications of a conceptual framework for assessing and predicting these consequences for marine mammal populations. We explore the range of models that can be used to formalize the approach and we identify critical research gaps. We also provide a decision tree that can be used to select the most appropriate model structure given the available data. Synthesis and applications: The implementation of this framework has moved the focus of discussion of the management of nonlethal disturbances on marine mammal populations away from a rhetorical debate about defining negligible impact and toward a quantitative understanding of long-term population-level effects. Here we demonstrate the framework's general applicability to other marine and terrestrial systems and show how it can support integrated modeling of the proximate and ultimate mechanisms that regulate trait-mediated, indirect interactions in ecological communities, that is, the nonconsumptive effects of a predator or stressor on a species' behavior, physiology, or life history.
+
+SOURCE: Ecology and evolution
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4458
+CITED BY COUNT: 189
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Wildlife', 'Disturbance (geology)', 'Population', 'Ecology', 'Trait', 'Environmental resource management', 'Biology', 'Computer science', 'Sociology', 'Environmental science', 'Demography', 'Programming language', 'Paleontology']

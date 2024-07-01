@@ -1,0 +1,12 @@
+ID: W4248015234
+TITLE: Temporally explicit and spatially resolved global offshore wind energy potentials
+AUTHOR: ['Jonathan Bosch', 'Iain Staffell', 'Adam Hawkes']
+ABSTRACT:
+Several influential energy systems models (ESMs) indicate that renewable energy must supply a large share of the world's electricity to limit global temperature increases to 1.5 °C. To better represent the costs and other implications of such a transition, it is important that ESMs can realistically characterise the technical and economic potential of renewable energy resources. This paper presents a Geospatial Information System methodology for estimating the global offshore wind energy potential, i.e. the terawatt hour per year (TWh/yr) production potential of wind farms, assuming capacity could be built across the viable offshore area of each country. A bottom-up approach characterises the capacity factors of offshore wind farms by estimating the available wind power from high resolution global wind speed data sets. Temporal phenomena are retained by binning hourly wind speeds into 32 time slices per year considering the wind resource across several decades. For 157 countries with a viable offshore wind potential, electricity generation potential is produced in tranches according to the distance to grid connection, water depth and average annual capacity factor. These data can be used as inputs to ESMs and to assess the economically viable offshore wind energy potential, on a global or per-country basis.
+
+SOURCE: Energy
+PDF URL: None
+CITED BY COUNT: 102
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Offshore wind power', 'Wind power', 'Renewable energy', 'Environmental science', 'Submarine pipeline', 'Meteorology', 'Resource (disambiguation)', 'Geospatial analysis', 'Grid', 'Electricity', 'Environmental economics', 'Electricity generation', 'Natural resource economics', 'Environmental resource management', 'Computer science', 'Geography', 'Engineering', 'Power (physics)', 'Economics', 'Geology', 'Oceanography', 'Remote sensing', 'Electrical engineering', 'Computer network', 'Geodesy', 'Physics', 'Quantum mechanics']

@@ -1,0 +1,12 @@
+ID: W2137011837
+TITLE: Marine defaunation: Animal loss in the global ocean
+AUTHOR: ['Douglas J. McCauley', 'Malin L. Pinsky', 'Stephen R. Palumbi', 'James A. Estes', 'Francis H. Joyce', 'Robert R. Warner']
+ABSTRACT:
+Marine defaunation, or human-caused animal loss in the oceans, emerged forcefully only hundreds of years ago, whereas terrestrial defaunation has been occurring far longer. Though humans have caused few global marine extinctions, we have profoundly affected marine wildlife, altering the functioning and provisioning of services in every ocean. Current ocean trends, coupled with terrestrial defaunation lessons, suggest that marine defaunation rates will rapidly intensify as human use of the oceans industrializes. Though protected areas are a powerful tool to harness ocean productivity, especially when designed with future climate in mind, additional management strategies will be required. Overall, habitat degradation is likely to intensify as a major driver of marine wildlife loss. Proactive intervention can avert a marine defaunation disaster of the magnitude observed on land.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/347/6219/1255641.full.pdf
+CITED BY COUNT: 950
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Defaunation', 'Marine habitats', 'Habitat destruction', 'Overfishing', 'Marine ecosystem', 'Environmental science', 'Wildlife', 'Marine reserve', 'Oceanography', 'Habitat', 'Ecology', 'Environmental resource management', 'Ecosystem', 'Biology', 'Geology', 'Fishing', 'Rumen', 'Food science', 'Fermentation']

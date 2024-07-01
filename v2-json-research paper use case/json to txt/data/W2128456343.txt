@@ -1,0 +1,12 @@
+ID: W2128456343
+TITLE: Zooplankton distribution patterns at two seamounts in the subtropical and tropical NE Atlantic
+AUTHOR: ['Anneke Denda', 'Bernd Christiansen']
+ABSTRACT:
+Abstract Spatial distribution patterns of zooplankton biomass in relation to local and large‐scale hydrographical and biological driving forces were studied at A mpère and S enghor, two shallow seamounts in the subtropical and tropical NE A tlantic, respectively. The study includes a first assessment of the taxonomic composition and an estimation of the respiratory carbon demand of the zooplankton community. Zooplankton was sampled during three cruises at the seamount and open ocean reference sites in May and October 2009 and in December 2010. Zooplankton standing stocks and the corresponding respiratory carbon demand were about six times higher at Senghor than at A mpère, with mean stocks of 24.7 and 4.6 g·m −2 , respectively, in the upper 1000 m. Mean respiratory carbon demand in the epipelagic zone was calculated as 61.4 mg·C·m −2 ·day −1 for Senghor and 9.6 mg·C·m −2 ·day −1 for A mpère. At neither site were differences between seamount and open ocean sites significant. However, horizontal surveys across A mpère S eamount show clear differences between day and night distributions and a reduced biomass above the summit. Across Senghor, zooplankton biomass increased from the SW to the NE flank, with the highest concentrations in the subsurface layer of the chlorophyll maximum and just above a strong oxycline. The zooplankton community at A mpère S eamount reflects the oligotrophic character of the NE Atlantic subtropical gyre, whereas the nutrient‐rich waters of the cyclonic tropical gyre at S enghor support a higher biomass. This difference in the zooplankton biomass between the two seamounts can be attributed to the large‐scale hydrographical features governing the productivity regimes rather than to regional seamount effects.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Zooplankton', 'Ocean gyre', 'Seamount', 'Oceanography', 'Subtropics', 'Environmental science', 'Copepod', 'Biomass (ecology)', 'Geology', 'Ecology', 'Biology', 'Crustacean']

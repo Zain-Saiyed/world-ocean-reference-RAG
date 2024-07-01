@@ -1,0 +1,12 @@
+ID: W2864999275
+TITLE: Synchronization of Mediterranean pelagic fish populations with the North Atlantic climate variability
+AUTHOR: ['Athanassios C. Tsikliras', 'Priscilla Licandro', 'Androniki Pardalou', 'Ian H. McQuinn', 'Joachim Paul Gröger', 'Jürgen Alheit']
+ABSTRACT:
+The synchrony of pelagic fish population dynamics with climate variability may impose significant alterations in their distribution and biomass, as well as catch composition, with potential effects on ecosystems and fisheries. This work examines the effect of the Atlantic Multidecadal Oscillation (AMO) and North Atlantic Oscillation (NAO) signals across the Mediterranean Sea sub-regions (western, central and eastern), with respect to small (European sardine Sardina pilchardus, European anchovy Engraulis encrasicolus, round sardinella Sardinella aurita and European sprat Sprattus sprattus) and medium (Atlantic mackerel Scomber scombrus, Atlantic chub mackerel Scomber japonicus, Atlantic horse mackerel Trachurus trachurus, Mediterranean horse mackerel Trachurus mediterraneus) pelagic fishes using various catch ratios and the mean temperature of the pelagic catch (MTpC) method for the period 1970–2014. The time until the pelagic fish communities react to the signals of the AMO and NAO, as revealed by the MTpC and catch ratios, varied among the Mediterranean sub-regions. The pelagic fishes of the central and eastern Mediterranean are those that responded most strongly to AMO variability, whereas those of the central and western Mediterranean also responded to the NAO. The effect of the NAO on pelagic fishes of the eastern Mediterranean was not significant.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Horse mackerel', 'Fishery', 'Scomber', 'Engraulis', 'Sardinella', 'Population', 'Mediterranean climate', 'Mackerel', 'Sardine', 'Anchovy', 'Oceanography', 'Biology', 'Ecology', 'Geology', 'Fish <Actinopterygii>', 'Demography', 'Sociology']

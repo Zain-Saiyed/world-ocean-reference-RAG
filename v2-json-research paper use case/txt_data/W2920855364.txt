@@ -1,0 +1,12 @@
+ID: W2920855364
+TITLE: Sudden emergence of a shallow aragonite saturation horizon in the Southern Ocean
+AUTHOR: ['Gabriela Negrete-García', 'Nicole S. Lovenduski', 'Claudine Hauri', 'Kristen M. Krumhardt', 'Siv K. Lauvset']
+ABSTRACT:
+Models project that with current CO2 emission rates, the Southern Ocean surface will be undersaturated with respect to aragonite by the end of this century1–4. This will result in widespread impacts on biogeochemistry and ocean ecosystems5–7, particularly the health of aragonitic organisms, such as pteropods7, which can dominate polar surface water communities6. Here, we quantify the depth of the present-day Southern Ocean aragonite saturation horizon using hydrographic and ocean carbon chemistry observations, and use a large ensemble of simulations from the Community Earth System Model (CESM)8,9 to track its evolution. A new, shallow aragonite saturation horizon emerges in many Southern Ocean locations between now and the end of the century. While all ensemble members capture the emergence, internal climate variability may affect the year of emergence; thus, its detection may have been overlooked by ensemble average analysis in the past. The emergence of the new horizon is driven by the slow accumulation of anthropogenic CO2 in the Southern Ocean thermocline, where the carbonate ion concentration exhibits a local minimum and approaches undersaturation. The new horizon is also apparent under an emission-stabilizing scenario indicating an inevitable, sudden decrease in the volume of suitable habitat for aragonitic organisms. The aragonite saturation horizon depth is an indicator of ocean acidification. Model projections show that a new shallow horizon emerges in the Southern Ocean before 2100, reducing suitable habitat for calcifying species in the near future.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Aragonite', 'Ocean acidification', 'Oceanography', 'Saturation (graph theory)', 'Horizon', 'Biogeochemistry', 'Geology', 'Remineralisation', 'Thermocline', 'Environmental science', 'Climatology', 'Seawater', 'Calcite', 'Chemistry', 'Mineralogy', 'Physics', 'Mathematics', 'Combinatorics', 'Inorganic chemistry', 'Astronomy', 'Fluoride']

@@ -1,0 +1,12 @@
+ID: W2753756416
+TITLE: Microplastics as a vector for the transport of the bacterial fish pathogen species Aeromonas salmonicida
+AUTHOR: ['Manca Kovač Viršek', 'Marija Nika Lovšin', 'Špela Koren', 'Andrej Kržan', 'Monika Peterlin']
+ABSTRACT:
+Microplastics is widespread in the marine environment where it can cause numerous negative effects. It can provide space for the growth of organisms and serves as a vector for the long distance transfer of marine microorganisms. In this study, we examined the sea surface concentrations of microplastics in the North Adriatic and characterized bacterial communities living on the microplastics. DNA from microplastics particles was isolated by three different methods, followed by PCR amplification of 16S rDNA, clone libraries preparation and phylogenetic analysis. 28 bacterial species were identified on the microplastics particles including Aeromonas spp. and hydrocarbon-degrading bacterial species. Based on the 16S rDNA sequences the pathogenic fish bacteria Aeromonas salmonicida was identified for the first time on microplastics. Because A. salmonicida is responsible for illnesses in fish, it is crucial to get answers if and how microplastics pollution is responsible for spreading of diseases.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 293
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Aeromonas salmonicida', 'Biology', 'Aeromonas', '16S ribosomal RNA', 'Bacteria', 'Microbiology', 'Pathogen', 'Zoology', 'Fish <Actinopterygii>', 'Ecology', 'Fishery', 'Genetics']

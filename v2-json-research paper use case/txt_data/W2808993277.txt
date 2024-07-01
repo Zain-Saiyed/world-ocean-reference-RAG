@@ -1,0 +1,12 @@
+ID: W2808993277
+TITLE: Deep‐sea mining: Interdisciplinary research on potential environmental, legal, economic, and societal implications
+AUTHOR: ['Andrea Koschinsky', 'Luise Heinrich', 'Klaus Boehnke', 'J. Christopher Cohrs', 'Till Markus', 'Maor Shani', 'Pradeep Singh', 'Karen Smith Stegen', 'Welf Werner']
+ABSTRACT:
+ABSTRACT Deep‐sea mining refers to the retrieval of marine mineral resources such as Mn nodules, FeMn crusts, and seafloor massive sulfide deposits, which contain a variety of metals that serve as crucial raw materials for a range of applications, from electronic devices to renewable energy technologies to construction materials. With the intent of decreasing dependence on imports, supporting the economy, and potentially even overcoming the environmental problems related to conventional terrestrial mining, a number of public and private institutions have rediscovered their interest in exploring the prospects of deep‐sea mining, which had been deemed economically and technically unfeasible in the early 1980s. To date, many national and international research projects are grappling to understand the economic environmental, social, and legal implications of potential commercial deep‐sea mining operations: a challenging endeavor due to the complexity of direct impacts and spillover effects. In this paper, we present a comprehensive overview of the current state of knowledge in the aforementioned fields as well as a comparison of the impacts associated with conventional terrestrial mining. Furthermore, we identify knowledge gaps that should be urgently addressed to ensure that the world at large benefits from safe, efficient, and environmentally sound mining procedures. We conclude by highlighting the need for interdisciplinary research and international cooperation. Integr Environ Assess Manag 2018;14:672–691. © 2018 SETAC
+
+SOURCE: Integrated environmental assessment and management
+PDF URL: None
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Variety (cybernetics)', 'Environmental impact assessment', 'Business', 'Spillover effect', 'Sustainability', 'Environmental planning', 'Environmental resource management', 'Natural resource economics', 'Environmental science', 'Political science', 'Computer science', 'Artificial intelligence', 'Law', 'Economics', 'Biology', 'Microeconomics', 'Ecology']

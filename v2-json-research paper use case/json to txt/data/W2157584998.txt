@@ -1,0 +1,12 @@
+ID: W2157584998
+TITLE: Testing the depth-differentiation hypothesis in a deepwater octocoral
+AUTHOR: ['Andrea M. Quattrini', 'Iliana B. Baums', 'Timothy M. Shank', 'Cheryl L. Morrison', 'Erik E. Cordes']
+ABSTRACT:
+The depth-differentiation hypothesis proposes that the bathyal region is a source of genetic diversity and an area where there is a high rate of species formation. Genetic differentiation should thus occur over relatively small vertical distances, particularly along the upper continental slope (200–1000 m) where oceanography varies greatly over small differences in depth. To test whether genetic differentiation within deepwater octocorals is greater over vertical rather than geographical distances, Callogorgia delta was targeted . This species commonly occurs throughout the northern Gulf of Mexico at depths ranging from 400 to 900 m. We found significant genetic differentiation ( F ST = 0.042) across seven sites spanning 400 km of distance and 400 m of depth. A pattern of isolation by depth emerged , but geographical distance between sites may further limit gene flow. Water mass boundaries may serve to isolate populations across depth; however, adaptive divergence with depth is also a possible scenario. Microsatellite markers also revealed significant genetic differentiation ( F ST = 0.434) between C. delta and a closely related species, Callogorgia americana , demonstrating the utility of microsatellites in species delimitation of octocorals. Results provided support for the depth-differentiation hypothesis, strengthening the notion that factors covarying with depth serve as isolation mechanisms in deep-sea populations.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2015.0008
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Bathyal zone', 'Geographical distance', 'Biology', 'Isolation by distance', 'Genetic divergence', 'Gene flow', 'Divergence (linguistics)', 'Ecology', 'Deep sea', 'Genetic diversity', 'Geology', 'Evolutionary biology', 'Genetic variation', 'Fishery', 'Population', 'Gene', 'Biochemistry', 'Linguistics', 'Demography', 'Philosophy', 'Sociology', 'Benthic zone']

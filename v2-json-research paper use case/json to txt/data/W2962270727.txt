@@ -1,0 +1,12 @@
+ID: W2962270727
+TITLE: Inactive Sulfide Ecosystems in the Deep Sea: A Review
+AUTHOR: ['C. L. Van Dover', 'Cindy Lee']
+ABSTRACT:
+Polymetallic seafloor massive sulfides that are no longer hydrothermally active are a target for an emergent deep-sea mining industry, but the paucity of ecological studies and environmental baselines for inactive sulfide ecosystems makes environmental management of mining challenging. The current state of knowledge regarding the ecology (microbiology and macrobiology) of inactive sulfides is reviewed here and attention is given to environmental management considerations where lack of knowledge impedes informed policy recommendations and decisions.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00461/pdf
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2019
+TYPE: review
+CONCEPTS: ['Ecosystem', 'Sulfide', 'Marine ecosystem', 'Environmental resource management', 'Environmental science', 'Ecology', 'Environmental planning', 'Oceanography', 'Geology', 'Biology', 'Chemistry', 'Organic chemistry']

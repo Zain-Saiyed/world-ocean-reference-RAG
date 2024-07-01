@@ -1,0 +1,12 @@
+ID: W2886745226
+TITLE: Type and quantity of coastal debris pollution in Taiwan: A 12-year nationwide assessment using citizen science data
+AUTHOR: ['Bruno Walther', 'Alexander Kunz', 'Chieh-Shen Hu']
+ABSTRACT:
+Man-made coastal debris pollution is a growing concern for Taiwan. In 2004, Taiwanese environmental organizations led by the "Society of Wilderness" began gathering data on 19 categories of debris items collected during cleanup events. We present our analysis of the resulting 12-year dataset collated from 541 events held between October 2004 and December 2016. In total, 904,302 items weighing 131,358.3 kg were collected, and 63.6% and 27.2% of items were made of either plastic or plastic mixed with other materials, respectively. The five most commonly recorded debris categories were plastic shopping bags, plastic bottle caps, disposable tablewares, fishing equipment, and plastic drinking straws. We estimated that during the 12-year period on average between 3.7 and 7.9 million items weighing 560-1110 metric tons polluted Taiwan's coastline. We offer recommendations for improving the quality of data collected during Taiwan's cleanup events and report some policy changes due partly to previous reports of this dataset.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Citizen science', 'Marine debris', 'Pollution', 'Environmental planning', 'Debris', 'Environmental science', 'Marine pollution', 'Environmental protection', 'Geography', 'Environmental resource management', 'Oceanography', 'Geology', 'Ecology', 'Meteorology', 'Biology', 'Botany']

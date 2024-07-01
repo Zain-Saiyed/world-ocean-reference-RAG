@@ -1,0 +1,12 @@
+ID: W2835525083
+TITLE: Impacts of Marine Plastic Pollution From Continental Coasts to Subtropical Gyres—Fish, Seabirds, and Other Vertebrates in the SE Pacific
+AUTHOR: ['Martín Thiel', 'Guillermo Luna‐Jorquera', 'Rocío Álvarez-Varas', 'Camila Gallardo', 'Iván A. Hinojosa', 'Nicolás Luna', 'Diego Miranda‐Urbina', 'Naití Morales', 'Nicolas C. Ory', 'Aldo S. Pacheco', 'Matías Portflitt‐Toro', 'Carlos B. Zavalaga']
+ABSTRACT:
+Anthropogenic Marine Debris (AMD) in the SE Pacific has primarily local origins from land-based sources, including cities (coastal and inland), beach-goers, aquaculture, and fisheries. The low frequency of AMD colonized by oceanic biota (bryozoans, lepadid barnacles) suggests that most litter items from coastal waters of the Humboldt Current System (HCS) are pulled offshore into the South Pacific Subtropical Gyre (SPSG). The highest densities of floating micro- and macroplastics are reported from the SPSG. An extensive survey of photographic records, unpublished data, conference proceedings, and published studies revealed interactions with plastics for 97 species in the SE Pacific, including 20 species of fish, 5 sea turtles, 53 seabirds, and 19 marine mammals. Sea turtles are most affected by interactions with plastics, underlined by the fact that 4 of the 5 species suffer both from entanglement and ingestion. Reports gathered in this review suggest that interactions along the continental coast are mostly via entanglement. High frequencies of microplastic ingestion have been reported from planktivorous fish and seabirds inhabiting the oceanic waters and islands exposed to high densities of microplastics concentrated by oceanic currents in the SPSG. Our review also suggests that some species from the highly productive HCS face the risk of negative interactions with AMD, because food and plastic litter are concentrated in coastal front systems. In order to improve the conservation of marine vertebrates, especially of sea turtles, urgent measures of plastic reduction are needed.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00238/pdf
+CITED BY COUNT: 168
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Marine debris', 'Plastic pollution', 'Microplastics', 'Ocean gyre', 'Fishery', 'Oceanography', 'Pelagic zone', 'Subtropics', 'Biota', 'Seabird', 'Continental shelf', 'Geography', 'Environmental science', 'Debris', 'Ecology', 'Biology', 'Geology', 'Predation']

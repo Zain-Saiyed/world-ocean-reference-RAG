@@ -1,0 +1,12 @@
+ID: W2096873905
+TITLE: Migratory shearwaters integrate oceanic resources across the Pacific Ocean in an endless summer
+AUTHOR: ['Scott A. Shaffer', 'Yann Tremblay', 'Henri Weimerskirch', 'Darren Scott', 'David R. Thompson', 'Paul M. Sagar', 'Henrik Møller', 'Graeme A. Taylor', 'David G. Foley', 'Barbara A. Block', 'Daniel P. Costa']
+ABSTRACT:
+Electronic tracking tags have revolutionized our understanding of broad-scale movements and habitat use of highly mobile marine animals, but a large gap in our knowledge still remains for a wide range of small species. Here, we report the extraordinary transequatorial postbreeding migrations of a small seabird, the sooty shearwater, obtained with miniature archival tags that log data for estimating position, dive depth, and ambient temperature. Tracks (262+/-23 days) reveal that shearwaters fly across the entire Pacific Ocean in a figure-eight pattern while traveling 64,037+/-9,779 km roundtrip, the longest animal migration ever recorded electronically. Each shearwater made a prolonged stopover in one of three discrete regions off Japan, Alaska, or California before returning to New Zealand through a relatively narrow corridor in the central Pacific Ocean. Transit rates as high as 910+/-186 km.day-1 were recorded, and shearwaters accessed prey resources in both the Northern and Southern Hemisphere's most productive waters from the surface to 68.2 m depth. Our results indicate that sooty shearwaters integrate oceanic resources throughout the Pacific Basin on a yearly scale. Sooty shearwater populations today are declining, and because they operate on a global scale, they may serve as an important indicator of climate change and ocean health.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 459
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Shearwater', 'Seabird', 'Oceanography', 'Geography', 'Puffinus', 'Southern Hemisphere', 'Pelagic zone', 'Fishery', 'Pacific ocean', 'Ornithology', 'Habitat', 'Predation', 'Biology', 'Ecology', 'Geology']

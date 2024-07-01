@@ -1,0 +1,12 @@
+ID: W2105997303
+TITLE: Evidence for Two Distinct Modes of Large-Scale Ocean Circulation Changes over the Last Century
+AUTHOR: ['Mihai Dima', 'Gerrit Lohmann']
+ABSTRACT:
+Abstract Through its nonlinear dynamics and involvement in past abrupt climate shifts the thermohaline circulation (THC) represents a key element for the understanding of rapid climate changes. The expected THC weakening under global warming is characterized by large uncertainties, and it is therefore of significant importance to identify ocean circulation changes over the last century. By applying various statistical techniques on two global sea surface temperature datasets two THC-related modes are separated. The first one involves relatively slow adjustment of the whole conveyor belt circulation and has an interhemispherically symmetric pattern. The second mode is associated with the relatively fast adjustment of the North Atlantic overturning cell and has the seesaw structure. Based on the separation of these two patterns the authors show that the global conveyor has been weakening since the late 1930s and that the North Atlantic overturning cell suffered an abrupt shift around 1970. The distinction between the two modes provides also a new frame for interpreting past abrupt climate changes.
+
+SOURCE: Journal of climate
+PDF URL: https://journals.ametsoc.org/downloadpdf/journals/clim/23/1/2009jcli2867.1.pdf
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Thermohaline circulation', 'Climatology', 'Shutdown of thermohaline circulation', 'Circulation (fluid dynamics)', 'Abrupt climate change', 'Ocean current', 'Mode (computer interface)', 'Climate change', 'Geology', 'Global warming', 'Climate system', 'Environmental science', 'Oceanography', 'North Atlantic Deep Water', 'Effects of global warming', 'Physics', 'Computer science', 'Thermodynamics', 'Operating system']

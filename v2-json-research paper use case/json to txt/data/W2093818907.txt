@@ -1,0 +1,12 @@
+ID: W2093818907
+TITLE: Impact of Air Pollutants on Oxidative Stress in Common Autophagy-Mediated Aging Diseases
+AUTHOR: ['Mohamed Numan', 'Jacques P. Brown', 'Laëtitia Michou']
+ABSTRACT:
+Atmospheric pollution-induced cellular oxidative stress is probably one of the pathogenic mechanisms involved in most of the common autophagy-mediated aging diseases, including neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS), Alzheimer's, disease, as well as Paget's disease of bone with or without frontotemporal dementia and inclusion body myopathy. Oxidative stress has serious damaging effects on the cellular contents: DNA, RNA, cellular proteins, and cellular organelles. Autophagy has a pivotal role in recycling these damaged non-functional organelles and misfolded or unfolded proteins. In this paper, we highlight, through a narrative review of the literature, that when autophagy processes are impaired during aging, in presence of cumulative air pollution-induced cellular oxidative stress and due to a direct effect on air pollutant, autophagy-mediated aging diseases may occur.
+
+SOURCE: International journal of environmental  research and public health/International journal of environmental research and public health
+PDF URL: https://www.mdpi.com/1660-4601/12/2/2289/pdf?version=1424165131
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Autophagy', 'Oxidative stress', 'Amyotrophic lateral sclerosis', 'Cell biology', 'Oxidative phosphorylation', 'Frontotemporal dementia', 'Disease', 'Biology', 'Dementia', 'Medicine', 'Biochemistry', 'Pathology', 'Apoptosis']

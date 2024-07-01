@@ -1,0 +1,12 @@
+ID: W2140225282
+TITLE: Individual right whales call louder in increased environmental noise
+AUTHOR: ['Susan E. Parks', 'Mark Johnson', 'Douglas P. Nowacek', 'Peter L. Tyack']
+ABSTRACT:
+The ability to modify vocalizations to compensate for environmental noise is critical for successful communication in a dynamic acoustic environment. Many marine species rely on sound for vital life functions including communication, navigation and feeding. The impacts of significant increases in ocean noise levels from human activities are a current area of concern for the conservation of marine mammals. Here, we document changes in calling behaviour by individual endangered North Atlantic right whales (Eubalaena glacialis) in increased background noise. Right whales, like several bird and primate species, respond to periods of increased noise by increasing the amplitude of their calls. This behaviour may help maintain the communication range with conspecifics during periods of increased noise. These call modifications have implications for conservation efforts for right whales, affecting both the way whales use sound to communicate and our ability to detect them with passive acoustic monitoring systems.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2010.0451
+CITED BY COUNT: 187
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Biology', 'Endangered species', 'Sound (geography)', 'Noise (video)', 'Ambient noise level', 'Right whale', 'Marine life', 'Environmental noise', 'Range (aeronautics)', 'Ecology', 'Marine species', 'Fishery', 'Acoustics', 'Whale', 'Habitat', 'Computer science', 'Engineering', 'Physics', 'Artificial intelligence', 'Aerospace engineering', 'Image (mathematics)']

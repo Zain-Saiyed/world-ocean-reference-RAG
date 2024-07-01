@@ -1,0 +1,12 @@
+ID: W2939562157
+TITLE: Marine heatwaves reveal coral reef zones susceptible to bleaching in the Red Sea
+AUTHOR: ['Lily Genevier', 'Tahira Jamil', '\u202aDionysios E. Raitsos', 'George Krokos', 'Ibrahim Hoteit']
+ABSTRACT:
+Abstract As the Earth's temperature continues to rise, coral bleaching events become more frequent. Some of the most affected reef ecosystems are located in poorly monitored waters, and thus, the extent of the damage is unknown. We propose the use of marine heatwaves (MHWs) as a new approach for detecting coral reef zones susceptible to bleaching, using the Red Sea as a model system. Red Sea corals are exceptionally heat‐resistant, yet bleaching events have increased in frequency. By applying a strict definition of MHWs on &gt;30 year satellite‐derived sea surface temperature observations (1985–2015), we provide an atlas of MHW hotspots over the Red Sea coral reef zones, which includes all MHWs that caused major coral bleaching. We found that: (a) if tuned to a specific set of conditions, MHWs identify all areas where coral bleaching has previously been reported; (b) those conditions extended farther and occurred more often than bleaching was reported; and (c) an emergent pattern of extreme warming events is evident in the northern Red Sea (since 1998), a region until now thought to be a thermal refuge for corals. We argue that bleaching in the Red Sea may be vastly underrepresented. Additionally, although northern Red Sea corals exhibit remarkably high thermal resistance, the rapidly rising incidence of MHWs of high intensity indicates this region may not remain a thermal refuge much longer. As our regionally tuned MHW algorithm was capable of isolating all extreme warming events that have led to documented coral bleaching in the Red Sea, we propose that this approach could be used to reveal bleaching‐prone regions in other data‐limited tropical regions. It may thus prove a highly valuable tool for policymakers to optimize the sustainable management of coastal economic zones.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 73
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coral bleaching', 'Coral reef', 'Oceanography', 'Coral', 'Reef', 'Sea surface temperature', 'Marine ecosystem', 'Climate change', 'Great barrier reef', 'Effects of global warming on oceans', 'Global warming', 'Ecosystem', 'Environmental science', 'Ecology', 'Geology', 'Biology']

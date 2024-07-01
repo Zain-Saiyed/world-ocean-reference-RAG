@@ -1,0 +1,12 @@
+ID: W1987683141
+TITLE: Highly Variable El Niño–Southern Oscillation Throughout the Holocene
+AUTHOR: ['Kim M. Cobb', 'Niko Westphal', 'H. R. Sayani', 'Jordan T. Watson', 'Emanuele Di Lorenzo', 'Hai Cheng', 'R. Lawrence Edwards', 'C.D. Charles']
+ABSTRACT:
+The El Niño-Southern Oscillation (ENSO) drives large changes in global climate patterns from year to year, yet its sensitivity to continued anthropogenic greenhouse forcing is uncertain. We analyzed fossil coral reconstructions of ENSO spanning the past 7000 years from the Northern Line Islands, located in the center of action for ENSO. The corals document highly variable ENSO activity, with no evidence for a systematic trend in ENSO variance, which is contrary to some models that exhibit a response to insolation forcing over this same period. Twentieth-century ENSO variance is significantly higher than average fossil coral ENSO variance but is not unprecedented. Our results suggest that forced changes in ENSO, whether natural or anthropogenic, may be difficult to detect against a background of large internal variability.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 395
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['El Niño Southern Oscillation', 'Holocene', 'Forcing (mathematics)', 'Coral', 'Climatology', 'Multivariate ENSO index', 'Environmental science', 'Southern oscillation', 'Oceanography', 'Insolation', 'Coral reef', 'Climate change', 'Geology']

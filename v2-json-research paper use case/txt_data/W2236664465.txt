@@ -1,0 +1,12 @@
+ID: W2236664465
+TITLE: Morphological and ontogenetic stratification of abyssal and hadal Eurythenes gryllus sensu lato (Amphipoda: Lysianassoidea) from the Peru–Chile Trench
+AUTHOR: ['Ryan M. Eustace', 'Heather Ritchie', 'Niamh M. Kilgallen', 'Stuart B. Piertney', 'Alan J. Jamieson']
+ABSTRACT:
+The globally ubiquitous lysianassoid amphipod, Eurythenes gryllus, has been shown to consist of multiple genetically distinct cryptic taxa, with depth considered a major driver of speciation and morphological divergence. Here we examine morphological variation of E. gryllus sensu lato through a continuous depth distribution that spans from abyssal (3000–6000 m) into hadal depths (>6000 m) in the Peru–Chile Trench (SE Pacific Ocean). Three distinct morphospecies were identified: one was confirmed as being E. magellanicus (4602–5329 m) based on DNA sequence and morphological similarity. The other two morphologically distinct species were named based upon depth of occurrence; Abyssal (4602–6173 m) and Hadal (6173–8074 m). The three Eurythenes morphospecies showed vertical ontogenetic stratification across their bathymetric range, where juveniles were found shallower in their depth range and mature females deeper. Potential ecological and evolutionary drivers that explain the observed patterns of intra and inter-specific structure, such as hydrostatic pressure and topographical isolation, are discussed.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Sensu', 'Abyssal zone', 'Biology', 'Range (aeronautics)', 'Ecology', 'Hydrostatic pressure', 'Fishery', 'Genus', 'Materials science', 'Physics', 'Composite material', 'Thermodynamics']

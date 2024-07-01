@@ -1,0 +1,12 @@
+ID: W2937908770
+TITLE: Enhancing coastal areas governance for sustainable tourism in the context of urbanization and climate change in eastern Thailand
+AUTHOR: ['Vilas Nitivattananon', 'Sirinapha Srinonil']
+ABSTRACT:
+Coastal areas in the eastern sub-region of Thailand, a popular destination in Southeast Asia, are facing rapid tourism-related urbanization and associated consequences of environment and climate change (CC). Thus, this study aims to analyze the relationships between tourism, coastal areas, the environment, and CC in the context of tourism urbanization; and recommend strategies for enhancing the governance of coastal areas. Three popular destinations were selected as study areas, Koh Chang, Koh Mak, and Pattaya. Group discussions, questionnaire surveys, interviews, and observation were used for primary data collection together with secondary data. The results show that the development of these destinations has been incompatible with the coastal environment and CC patterns. Rapid urbanization from tourism development is the main driver of environmental changes and makes the areas vulnerable to CC-related risks. While water scarcity and pollution are found the most critical environmental issues of the destinations, coastal areas are negatively affected in terms of increased air and water pollution and resource degradation. They have also been exposed to different CC-related problems while the risks of accumulative impacts of both environment and CC have not been adequately recognized or addressed. Although some measures have provided synergies of improved environment and increased climate resilience, possible conflicts and gaps were also found. Public infrastructure integration and optimization to enhance coastal areas' environment and climate resilience are suggested.
+
+SOURCE: Advances in Climate Change Research
+PDF URL: None
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Urbanization', 'Tourism', 'Context (archaeology)', 'Climate change', 'Environmental planning', 'Geography', 'Environmental degradation', 'Environmental resource management', 'Environmental protection', 'Resource (disambiguation)', 'Corporate governance', 'Psychological resilience', 'Business', 'Environmental science', 'Economic growth', 'Oceanography', 'Ecology', 'Archaeology', 'Finance', 'Geology', 'Economics', 'Psychology', 'Computer network', 'Computer science', 'Psychotherapist', 'Biology']

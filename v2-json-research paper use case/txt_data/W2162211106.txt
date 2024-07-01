@@ -1,0 +1,12 @@
+ID: W2162211106
+TITLE: Sponge species composition of north-east Atlantic cold-water coral reefs compared in a bathyal to inshore gradient
+AUTHOR: ['R.W.M. van Soest', 'Nicole J. de Voogd']
+ABSTRACT:
+A comparison is made of sponge diversity and abundance in nine cold-water coral reef locations situated in four regions of the north-east Atlantic, Rockall Bank (two reef locations, both deep, oceanic), Porcupine Bank (two locations, both deep, oceanic), Mingulay (two reef locations, both shallow, near-shore), Skagerrak (three reef locations, all shallow, near-shore). Literature data from two reefs were used to supplement our own data from seven reef locations. Geographical distance between the regions may be summarized as Rockall Bank &lt; Porcupine &lt;&lt; Mingulay &lt;&lt;&lt; Skagerrak. The first three regions are all situated west of the British Isles, and prevailing current patterns and bottom conditions would make direct larval transport between all three a distinct possibility. The fourth region, Skagerrak, is situated away from the Atlantic regions, with larval contact hampered by long distances over predominantly shallow sedimented sea bottoms. Accordingly, we expected the largest taxon turnover to be between the three Atlantic regions and the Skagerrak localities. However, cluster analysis and multidimensional scaling clearly show, that shelf reefs at Mingulay were faunistically closer to the geographically- distant shelf reefs at Skagerrak than to the geographically closer bathyal reefs of the Porcupine–Rockall area. Further research is necessary to determine whether depth is a proxy for other abiotic factors such as oceanic circulation or trophic conditions.
+
+SOURCE: Journal of the Marine Biological Association of the United Kingdom/Journal of the Marine Biological Association of the UK
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Bathyal zone', 'Reef', 'Oceanography', 'Coral reef', 'Geology', 'Shore', 'Fishery', 'Geography', 'Biology', 'Benthic zone']

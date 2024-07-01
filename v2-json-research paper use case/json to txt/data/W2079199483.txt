@@ -1,0 +1,12 @@
+ID: W2079199483
+TITLE: Edwardsiella andrillae, a New Species of Sea Anemone from Antarctic Ice
+AUTHOR: ['Marymegan Daly', 'Frank R. Rack', 'Robert Zook']
+ABSTRACT:
+Exploration of the lower surface of the Ross Ice Shelf in Antarctica by the Submersible Capable of under-Ice Navigation and Imaging (SCINI) remotely operated vehicle discovered a new species of sea anemone living in this previously undocumented ecosystem. This discovery was a significant outcome of the Coulman High Project's geophysical and environmental fieldwork in 2010-2011 as part of the ANDRILL (ANtarctic geologic DRILLing) program. Edwardsiella andrillae n. sp., lives with most of its column in the ice shelf, with only the tentacle crown extending into the seawater below. In addition to being the only Antarctic representative of the genus, Edwardsiella andrillae is distinguished from all other species of the genus in the number of tentacles and in the size and distribution of cnidae. The anatomy and histology of Edwardsiella andrillae present no features that explain how this animal withstands the challenges of life in such an unusual habitat.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0083476&type=printable
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Sea anemone', 'Sea cucumber', 'Tentacle (botany)', 'Anemone', 'Biology', 'Habitat', 'Oceanography', 'Sea ice', 'Genus', 'Ecology', 'Astrobiology', 'Geology', 'Paleontology']

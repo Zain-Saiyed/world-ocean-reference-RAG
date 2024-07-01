@@ -1,0 +1,12 @@
+ID: W2605521714
+TITLE: Cosmetic Ingredients as Emerging Pollutants of Environmental and Health Concern. A Mini-Review
+AUTHOR: ['Claudia Juliano', 'Giovanni Antonio Magrini']
+ABSTRACT:
+Cosmetic and personal care products are used in huge quantities throughout the world; as a result of their regular use, they are continuously released into the environment in very large amounts. Many of these products are biologically active and are characterized by persistence and bioaccumulation potential, posing a threat to ecosystem and human health. On the basis of the most recent scientific literature available on this subject, this paper provides an overview of some cosmetic ingredients that are considered environmental emerging pollutants of particular concern such as UV filters, some preservatives (parabens, triclosan), and microplastics.
+
+SOURCE: Cosmetics
+PDF URL: https://www.mdpi.com/2079-9284/4/2/11/pdf?version=1491397916
+CITED BY COUNT: 157
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Triclosan', 'Cosmetics', 'Bioaccumulation', 'Pollutant', 'Human health', 'Business', 'Environmental science', 'Biochemical engineering', 'Environmental chemistry', 'Environmental health', 'Chemistry', 'Medicine', 'Biology', 'Ecology', 'Engineering', 'Organic chemistry', 'Pathology']

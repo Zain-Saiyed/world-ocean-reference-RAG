@@ -1,0 +1,12 @@
+ID: W2336642407
+TITLE: The deep ocean under climate change
+AUTHOR: ['Lisa A. Levin', 'Nadine Le Bris']
+ABSTRACT:
+The deep ocean absorbs vast amounts of heat and carbon dioxide, providing a critical buffer to climate change but exposing vulnerable ecosystems to combined stresses of warming, ocean acidification, deoxygenation, and altered food inputs. Resulting changes may threaten biodiversity and compromise key ocean services that maintain a healthy planet and human livelihoods. There exist large gaps in understanding of the physical and ecological feedbacks that will occur. Explicit recognition of deep-ocean climate mitigation and inclusion in adaptation planning by the United Nations Framework Convention on Climate Change (UNFCCC) could help to expand deep-ocean research and observation and to protect the integrity and functions of deep-ocean ecosystems.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/350/6262/766.full.pdf
+CITED BY COUNT: 238
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Climate change', 'Deep sea', 'Environmental science', 'Ecosystem', 'Effects of global warming on oceans', 'Oceanography', 'Marine ecosystem', 'Biodiversity', 'Ocean observations', 'Global warming', 'Environmental resource management', 'Ecology', 'Geology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2337845490
+TITLE: The responses of brown macroalgae to environmental change from local to global scales: direct versus ecologically mediated effects
+AUTHOR: ['Martin Wahl', 'Markus Molis', 'Alistair J. Hobday', 'Steve Dudgeon', 'Rebecca B. Neumann', 'Peter D. Steinberg', 'Alexandra H. Campbell', 'Ezequiel M. Marzinelli', 'Sean D. Connell']
+ABSTRACT:
+In many temperate regions, brown macroalgae fulfil essential ecosystem services such as the provision of structure, the fixation of nutrients and carbon, and the production of biomass and oxygen.Their populations in many regions around the globe have declined and/ or spatially shifted in recent decades.In this review we highlight the potential global and regional drives of these changes, describe the status of regionally particularly important brown macroalgal species, and describe the capacity of interactions among abiotic and biotic factors to amplify or buffer environmental pressure on brown macroalgae.We conclude with a consideration of possible management and restoration measures.
+
+SOURCE: Perspectives in phycology
+PDF URL: None
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Abiotic component', 'Ecosystem', 'Ecology', 'Environmental change', 'Global change', 'Biomass (ecology)', 'Temperate climate', 'Environmental science', 'Biotic component', 'Climate change', 'Biology']

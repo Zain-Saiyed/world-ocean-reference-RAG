@@ -1,0 +1,12 @@
+ID: W2514094790
+TITLE: Floating photovoltaic power plant: A review
+AUTHOR: ['Alok K. Sahu', 'Neha Yadav', 'K. Sudhakar']
+ABSTRACT:
+The noticeable rise in the electricity demand, fast depletion of fossil fuels, along with environmental concerns throughout the world has led to the requirement of commissioning Solar PV plants in large scale. Solar photovoltaic (PV) installation has the burden of intense land requirements which will always be a premium commodity. To conserve the valuable land & water, installing Solar PV system on water bodies like oceans, lakes, lagoons, reservoir, irrigation ponds, waste water treatment plants, wineries, fish farms, dams and canals can be an attractive option. Floating type solar photovoltaic panels have numerous advantages compared to overland installed solar panels, including fewer obstacles to block sunlight, convenient, energy efficiency, higher power generation efficiency owing to its lower temperature underneath the panels. Additionally, the aquatic environment profits by the solar installation because the shading of the plant prevents excessive water evaporation, limits algae growth and potentially improving water quality. This paper gives more insight about the Floating PV technology, its present status & various design options.
+
+SOURCE: Renewable & sustainable energy reviews
+PDF URL: None
+CITED BY COUNT: 501
+PUBLICATION YEAR: 2016
+TYPE: review
+CONCEPTS: ['Photovoltaic system', 'Environmental science', 'Environmental engineering', 'Solar energy', 'Electricity', 'Electricity generation', 'Engineering', 'Power (physics)', 'Electrical engineering', 'Physics', 'Quantum mechanics']

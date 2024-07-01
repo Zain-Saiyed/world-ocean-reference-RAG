@@ -1,0 +1,12 @@
+ID: W1875432306
+TITLE: East Asian seas: A hot spot of pelagic microplastics
+AUTHOR: ['Atsuhiko Isobe', 'Keiichi Uchida', 'Tadashi Tokai', 'Shinsuke Iwasaki']
+ABSTRACT:
+To investigate concentrations of pelagic micro- (<5mm in size) and mesoplastics (>5mm) in the East Asian seas around Japan, field surveys using two vessels were conducted concurrently in summer 2014. The total particle count (pieces km(-2)) was computed based on observed concentrations (pieces m(-3)) of small plastic fragments (both micro- and mesoplastics) collected using neuston nets. The total particle count of microplastics within the study area was 1,720,000 pieces km(-2), 16 times greater than in the North Pacific and 27 times greater than in the world oceans. The proportion of mesoplastics increased upstream of the northeastward ocean currents, such that the small plastic fragments collected in the present surveys were considered to have originated in the Yellow Sea and East China Sea southwest of the study area.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 331
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Microplastics', 'Pelagic zone', 'Oceanography', 'Environmental science', 'China sea', 'Pacific ocean', 'East Asia', 'Fishery', 'Geography', 'China', 'Geology', 'Biology', 'Archaeology']

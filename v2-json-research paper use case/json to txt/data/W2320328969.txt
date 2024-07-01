@@ -1,0 +1,12 @@
+ID: W2320328969
+TITLE: Marine mammal bycatch in gillnet and other entangling net fisheries, 1990 to 2011
+AUTHOR: ['Randall R. Reeves', 'Kate McClellan', 'Timothy B. Werner']
+ABSTRACT:
+Since the 1970s the role of fishery bycatch as a factor reducing, or limiting the recovery of, marine mammal populations has been increasingly recognized.The proceedings of a 1990 International Whaling Commission symposium and workshop summarized fishery and bycatch data by region, fishery, and species, and estimated the significance of the 'impacts' of bycatch in passive gear on all cetacean species and subspecies or geographically defined populations.A global review of pinniped bycatch in 1991 concluded that incidental mortality in passive gear had contributed to declines of several species and populations.Here we update the information on cetacean gillnet bycatch, assess bycatch data on marine mammals other than cetaceans (i.e.pinnipeds, sirenians, and 2 otter species), determine where important data gaps exist, and identify species and populations known or likely to be at high risk from bycatch in gillnets.We found that at least 75% of odontocete species, 64% of mysticetes, 66% of pinnipeds, and all sirenians and marine mustelids have been recorded as gillnet bycatch over the past 20-plus years.Cetacean bycatch information in some areas has improved, facilitating our ability to identify species and populations at high risk, although major gaps remain.Understanding of the scale of pinniped and sirenian bycatch has also improved, but this bycatch remains poorly documented, especially at the population level.This study reveals how little is known about marine mammal bycatch in gillnets in much of the world.Even as other significant threats to marine mammals have become better documented and understood, bycatch remains a critical issue demanding urgent attention if there is to be any hope of preventing further losses of marine mammal diversity and abundance, and of protecting, or restoring, ecological health.
+
+SOURCE: Endangered species research
+PDF URL: https://www.int-res.com/articles/esr_oa/n020p071.pdf
+CITED BY COUNT: 279
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Bycatch', 'Fishery', 'Marine mammal', 'Wildlife', 'Fishing', 'Geography', 'Seabird', 'Albatross', 'Ecology', 'Biology', 'Predation']

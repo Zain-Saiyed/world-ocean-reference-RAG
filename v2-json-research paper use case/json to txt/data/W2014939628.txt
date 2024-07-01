@@ -1,0 +1,12 @@
+ID: W2014939628
+TITLE: Deoxygenation alters bacterial diversity and community composition in the ocean’s largest oxygen minimum zone
+AUTHOR: ['J. Michael Beman', 'Molly T. Carolan']
+ABSTRACT:
+Oceanic oxygen minimum zones (OMZs) have a central role in biogeochemical cycles and are expanding as a consequence of climate change, yet how deoxygenation will affect the microbial communities that control these cycles is unclear. Here we sample across dissolved oxygen gradients in the oceans' largest OMZ and show that bacterial richness displays a unimodal pattern with decreasing dissolved oxygen, reaching maximum values on the edge of the OMZ and decreasing within it. Rare groups on the OMZ margin are abundant at lower dissolved oxygen concentrations, including sulphur-cycling Chromatiales, for which 16S rRNA was amplified from extracted RNA. Microbial species distribution models accurately replicate community patterns based on multivariate environmental data, demonstrate likely changes in distributions and diversity in the eastern tropical North Pacific Ocean, and highlight the sensitivity of key bacterial groups to deoxygenation. Through these mechanisms, OMZ expansion may alter microbial composition, competition, diversity and function, all of which have implications for biogeochemical cycling in OMZs.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms3705.pdf
+CITED BY COUNT: 80
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Oxygen minimum zone', 'Deoxygenation', 'Species richness', 'Ecology', 'Environmental science', 'Cycling', 'Microbial population biology', 'Oceanography', 'Biology', 'Environmental chemistry', 'Chemistry', 'Geology', 'Geography', 'Bacteria', 'Biochemistry', 'Genetics', 'Upwelling', 'Catalysis', 'Archaeology']

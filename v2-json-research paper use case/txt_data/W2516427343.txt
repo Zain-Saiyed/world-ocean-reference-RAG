@@ -1,0 +1,12 @@
+ID: W2516427343
+TITLE: Seabirds and offshore wind farms in European waters: Avoidance and attraction
+AUTHOR: ['Volker Dierschke', 'Robert W. Furness', 'Stefan Garthe']
+ABSTRACT:
+The extent to which seabirds are displaced from, or attracted to, offshore wind farms (OWFs) is uncertain, but rapid development of OWFs in European waters could conflict with seabird conservation. We review post-construction studies of seabirds at 20 OWFs in European waters to extract and classify evidence for displacement or attraction of 33 different seabird species. Divers and northern gannets showed consistent and strong avoidance behaviour/displacement, and this may also be the case for great crested grebe and northern fulmar. Long-tailed duck, common scoter, Manx shearwater, razorbill, common guillemot, little gull and sandwich tern showed less consistent displacement from OWFs. Several gull species and red-breasted merganser showed weak attraction, while great cormorant and European shag showed strong attraction to OWFs. Other species show little response. Displacement seems mainly to be due to bird responses to OWF structures and appears stronger when turbines are rotating, but could in part be due to boat traffic to and from OWFs. Attraction of cormorants relates at least in part to their use of structures for roosting and for drying plumage, but increases in food availability at OWFs appears to be an important influence for several species.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seabird', 'Tern', 'Attraction', 'Offshore wind power', 'Charadriiformes', 'Charadrius', 'Fishery', 'Cormorant', 'Geography', 'Ecology', 'Biology', 'Predation', 'Habitat', 'Wind power', 'Linguistics', 'Philosophy']

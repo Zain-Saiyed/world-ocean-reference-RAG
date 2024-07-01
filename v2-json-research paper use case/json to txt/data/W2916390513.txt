@@ -1,0 +1,12 @@
+ID: W2916390513
+TITLE: Comanagement of small‐scale fisheries and ecosystem services
+AUTHOR: ['Stefan Gelcich', 'Maria José Martínez‐Harms', 'Sebastián Tapia‐Lewin', 'Felipe Vásquez Lavín', 'Cristina Ruano‐Chamorro']
+ABSTRACT:
+Abstract Marine ecosystem services are in global decline, which requires new transformational changes in governance to cope with multiple anthropogenic stressors. We perform a systematic literature review of the biodiversity and ecosystem services outcomes of a governance transformation toward comanagement through the allocation of territorial user rights to artisanal fisher associations (TURFs) in Chile. We synthesize the implications of more than 25 years of establishing a TURF policy over ecosystem services. Results show TURFs sustain biodiversity and all typologies of ecosystem services when they are well enforced. Research on provisioning services is most prevalent, however cultural services have been gaining traction with studies assessing the role of leadership, sanctions, and social capital in determining TURF outcomes. The results suggest that TURFs can play an important role in creating social and ecological enabling conditions for local stewardship. While this is encouraging, there is a bias toward positive results and few studies address negative consequences of TURFs aimed at identifying constraints for further development. The review shows that there has been a continuous transition toward interdisciplinary social–ecological research. Research on TURFs faced with drivers of global change and uncertainty are urgently needed, in order to anticipate unintended outcomes and adapt accordingly.
+
+SOURCE: Conservation letters
+PDF URL: https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/conl.12637
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Business', 'Environmental resource management', 'Corporate governance', 'Provisioning', 'Unintended consequences', 'Environmental planning', 'Ecosystem', 'Ecology', 'Geography', 'Political science', 'Economics', 'Biology', 'Telecommunications', 'Finance', 'Computer science', 'Law']

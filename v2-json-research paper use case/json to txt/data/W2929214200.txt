@@ -1,0 +1,12 @@
+ID: W2929214200
+TITLE: Massive benthic litter funnelled to deep sea by flash-flood generated hyperpycnal flows
+AUTHOR: ['Martina Pierdomenico', 'Daniele Casalbore', 'Francesco Latino Chiocci']
+ABSTRACT:
+Abstract Marine litter is an emerging environmental threat affecting all world’s oceans including the deep seafloor, where the extent of the phenomenon is still largely unknown. We report the spatial patterns of macro-litter distribution within the Messina Strait’s channels (Central Mediterranean), focusing on the transfer mechanisms responsible for its emplacement, a key information to better understand litter distribution. Litter is patchy but pervasive on all surveyed channels, reaching densities up to ~200 items/10 m, the highest reported for the deep sea until now. Litter is often arranged in large accumulations formed by hundreds of land-sourced items, mixed to vegetal and coarse-grained debris, indicating an emplacement from sedimentary gravity flows. Such impressive amount of litter can be explained by the superposition of a very efficient source-to-sink sedimentary transport and a strong urbanization of the coastal area. These findings point out that macro-benthic litter pollution is a major, often overlooked, threat for deep-sea ecosystems. Further explorations are thus required in similar marine settings to fully understand the magnitude of the problem, since they may represent the largest litter hotspots in the deep-sea.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-41816-8.pdf
+CITED BY COUNT: 112
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Marine debris', 'Oceanography', 'Debris', 'Environmental science', 'Deep sea', 'Ecosystem', 'Geology', 'Ecology', 'Biology']

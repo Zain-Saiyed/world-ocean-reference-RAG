@@ -1,0 +1,12 @@
+ID: W2970261762
+TITLE: Editorial: Oceanobs'19: An Ocean of Opportunity
+AUTHOR: ['Sabrina Speich', 'Tong Lee', 'Frank Müller‐Karger', 'Laura Lorenzoni', 'Ananda Pascual', 'Dong-Yan Jin', 'Eric Delory', 'Gilles Reverdin', 'John Siddorn', 'Marlon R. Lewis', 'Núria Marbà', 'Pier Luigi Buttigieg', 'Sanae Chiba', 'Justin Manley', 'Amos T. Kabo‐bah', 'Kruti Desai', 'Abby Ackerman']
+ABSTRACT:
+EDITORIAL article Front. Mar. Sci., 06 September 2019Sec. Ocean Observation Volume 6 - 2019 | https://doi.org/10.3389/fmars.2019.00570
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00570/pdf
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2019
+TYPE: editorial
+CONCEPTS: ['Oceanography', 'Volume (thermodynamics)', 'Front (military)', 'Ocean observations', 'Environmental science', 'Aeronautics', 'Geology', 'Engineering', 'Physics', 'Quantum mechanics']

@@ -1,0 +1,12 @@
+ID: W3005173824
+TITLE: Dissolved oxygen and temperature best predict deep-sea fish community structure in the Gulf of California with climate change implications
+AUTHOR: ['Natalya D. Gallo', 'Martha Warren Beckwith', 'C. Wei', 'LÅ Levin', 'Linda A. Kuhnz', 'JP Barry']
+ABSTRACT:
+Natural gradient systems can be used to examine the vulnerability of deep-sea communities to climate change. The Gulf of California presents an ideal system for examining relationships between faunal patterns and environmental conditions of deep-sea communities because deep-sea conditions change from warm and oxygen-rich in the north to cold and severely hypoxic in the south. The Monterey Bay Aquarium Research Institute (MBARI) remotely operated vehicle (ROV) ‘Doc Ricketts’ was used to conduct seafloor video transects at depths of ~200-1400 m in the northern, central, and southern Gulf. The community composition, density, and diversity of demersal fish assemblages were compared to environmental conditions. We tested the hypothesis that climate-relevant variables (temperature, oxygen, and primary production) have more explanatory power than static variables (latitude, depth, and benthic substrate) in explaining variation in fish community structure. Temperature best explained variance in density, while oxygen best explained variance in diversity and community composition. Both density and diversity declined with decreasing oxygen, but diversity declined at a higher oxygen threshold (~7 µmol kg -1 ). Remarkably, high-density fish communities were observed living under suboxic conditions (&lt;5 µmol kg -1 ). Using an Earth systems global climate model forced under an RCP8.5 scenario, we found that by 2081-2100, the entire Gulf of California seafloor is expected to experience a mean temperature increase of 1.08 ± 1.07°C and modest deoxygenation. The projected changes in temperature and oxygen are expected to be accompanied by reduced diversity and related changes in deep-sea demersal fish communities.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Oceanography', 'Demersal fish', 'Climate change', 'Environmental science', 'Sea surface temperature', 'Benthic zone', 'Transect', 'Deep sea', 'Seafloor spreading', 'Community structure', 'Effects of global warming on oceans', 'Ecology', 'Global warming', 'Fishery', 'Geology', 'Fishing', 'Biology']

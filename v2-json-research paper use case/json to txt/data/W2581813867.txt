@@ -1,0 +1,12 @@
+ID: W2581813867
+TITLE: Analogues of the Potent Antitumor Compound Leiodermatolide from a Deep-Water Sponge of the Genus <i>Leiodermatium</i>
+AUTHOR: ['Amy E. Wright', 'Jill Roberts', 'Esther A. Guzmán', 'Tara P. Pitts', 'Shirley A. Pomponi', 'John K. Reed']
+ABSTRACT:
+Two new analogues of the potent antitumor compound leiodermatolide, which we call leiodermatolides B and C, have been isolated from specimens of a deep-water sponge of the genus Leiodermatium collected off Florida. The compounds were purified using standard chromatographic methods, and the structures defined through interpretation of the HRMS and 1D and 2D NMR data. Leiodermatolide B (2) lacks the C-21 hydroxy group found in leiodermatolide and has equal potency as the parent compound, providing a simpler analogue for possible clinical development. It inhibits the proliferation of the AsPC-1 human pancreatic adenocarcinoma cell line with an IC50 of 43 nM. Leiodermatolide C (3) has a modified macrolide ring and is over 85-fold less potent with an IC50 of 3.7 μM against the same cell line. These compounds add to the knowledge of the pharmacophore of this class of potent antitumor agents.
+
+SOURCE: Journal of natural products
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Pharmacophore', 'Sponge', 'Stereochemistry', 'Potency', 'IC50', 'Genus', 'Chemistry', 'Biological activity', 'Cell culture', 'Biology', 'In vitro', 'Biochemistry', 'Botany', 'Genetics']

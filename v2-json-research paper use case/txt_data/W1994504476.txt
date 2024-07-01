@@ -1,0 +1,12 @@
+ID: W1994504476
+TITLE: Cold-water coral reef habitats benefit recreationally valuable sharks
+AUTHOR: ['Lea‐Anne Henry', 'Juan Moreno Navas', 'Sebastian Hennige', 'Laura C. Wicks', 'Johanne Vad', 'J. Murray Roberts']
+ABSTRACT:
+We provide a case study to demonstrate how a key ecosystem function of coral reefs (habitat provision) co-benefits both sharks and humans. Spawning grounds of the blackmouth catshark Galeus melastomus were discovered using seabed and video surveys on the Mingulay Reef Complex, a seascape of cold-water coral reefs off western Scotland. Spawning habitats were environmentally similar across years. Shark abundance of G. melastomus, a species valued by the recreational sea angling industry, was significantly higher nearer reef habitats. Our case study demonstrates how a local coral vulnerable marine ecosystem (VME) helps maintain key life stages of shark populations and provides socioeconomic benefits. Evidence for co-benefits between corals, sharks and humans provides a compelling case for identifying and protecting coral VMEs.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 88
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Coral reef', 'Fishery', 'Reef', 'Aquaculture of coral', 'Seascape', 'Habitat', 'Coral reef protection', 'Resilience of coral reefs', 'Coral reef organizations', 'Ecology', 'Coral', 'Marine reserve', 'Environmental issues with coral reefs', 'Marine ecosystem', 'Ecosystem', 'Marine protected area', 'Biology']

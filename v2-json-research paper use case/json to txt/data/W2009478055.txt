@@ -1,0 +1,12 @@
+ID: W2009478055
+TITLE: New evidence for the age of Bering Strait
+AUTHOR: ['Louie Marincovich', 'A. Yu. Gladenkov']
+ABSTRACT:
+The earliest known opening of Bering Strait in signaled by the presence in southern Alaskan Neogene strata of the marine bivalve mollusk Astarte, which had dwelled throughout the Cenozoic in the Arctic and North Atlantic oceans. Astarte occurs with age-diagnostic marine diatoms in the middle and upper Miocene Bear Lake Formation of the Alaska Peninsula, southwestern Alaska. The diverse diatom flora of more than 100 taxa contains species characteristic of Subzone b of the Neodenticula kamtchatica Zone of the North Pacific diatom biochronology, which has an age range of 4.8–5.5 Ma. This inferred age for an early opening of Bering Strait predates the generally cited ages of 3.1–4.1 Ma. Stratigraphic data suggest that the first opening of the strait may have occurred even earlier.
+
+SOURCE: Quaternary science reviews
+PDF URL: None
+CITED BY COUNT: 107
+PUBLICATION YEAR: 2001
+TYPE: article
+CONCEPTS: ['Geology', 'Neogene', 'Peninsula', 'Oceanography', 'Cenozoic', 'Paleontology', 'Diatom', 'Arctic', 'Biochronology', 'Range (aeronautics)', 'Biostratigraphy', 'Geography', 'Archaeology', 'Structural basin', 'Materials science', 'Composite material']

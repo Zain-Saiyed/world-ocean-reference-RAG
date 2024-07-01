@@ -1,0 +1,12 @@
+ID: W2254373983
+TITLE: An imperative to monitor Earth's energy imbalance
+AUTHOR: ['Karina von Schuckmann', 'Matthew D. Palmer', 'Kevin E. Trenberth', 'Anny Cazenave', 'D. P. Chambers', 'Nicolas Champollion', 'James E. Hansen', 'Simon A. Josey', 'Norman G. Loeb', 'P.‐P. Mathieu', 'Benoît Meyssignac', 'Martin Wild']
+ABSTRACT:
+The current Earth's energy imbalance (EEI) is mostly caused by human activity, and is driving global warming. The absolute value of EEI represents the most fundamental metric defining the status of global climate change, and will be more useful than using global surface temperature. EEI can best be estimated from changes in ocean heat content, complemented by radiation measurements from space. Sustained observations from the Argo array of autonomous profiling floats and further development of the ocean observing system to sample the deep ocean, marginal seas and sea ice regions are crucial to refining future estimates of EEI. Combining multiple measurements in an optimal way holds considerable promise for estimating EEI and thus assessing the status of global climate change, improving climate syntheses and models, and testing the effectiveness of mitigation actions. Progress can be achieved with a concerted international effort.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 288
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Environmental science', 'Earth system science', 'Climate change', 'Argo', 'Climatology', 'Global warming', 'Global change', 'Meteorology', 'Oceanography', 'Geography', 'Geology']

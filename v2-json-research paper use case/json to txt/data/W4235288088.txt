@@ -1,0 +1,12 @@
+ID: W4235288088
+TITLE: The Botany of Mangroves
+AUTHOR: ['P. B. Tomlinson']
+ABSTRACT:
+Mangroves are distinctive tropical plant communities that occupy the intertidal zone between sea and land. They are of major ecological importance, have economic value as a source of food and raw materials, and serve as a buffer from flooding and climate change-induced sea level rise. Mangroves are under threat from pollution, clearance and over-exploitation, and increasing concern has driven demand for an improved understanding of mangrove species. This book provides an introduction to mangroves, including their taxonomy, habitat-specific features, reproduction and socio-economic value. Fully updated to reflect the last two decades of research, this new edition of a key text includes newly documented taxa, new understandings of vivipary and the evolution of mangrove species, and a rich set of colour illustrations. It will appeal to researchers and students across a range of disciplines, including botany, ecology and zoology.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 229
+PUBLICATION YEAR: 2016
+TYPE: book
+CONCEPTS: ['Mangrove', 'Intertidal zone', 'Ecology', 'Geography', 'Taxon', 'Habitat', 'Biology']

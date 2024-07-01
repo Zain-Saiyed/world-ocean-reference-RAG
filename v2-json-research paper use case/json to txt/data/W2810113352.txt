@@ -1,0 +1,12 @@
+ID: W2810113352
+TITLE: Research gaps of coral ecology in a changing world
+AUTHOR: ['Juliano Morais', 'Aline P. M. Medeiros', 'Bráulio A. Santos']
+ABSTRACT:
+Coral reefs have long inspired marine ecologists and conservationists around the world due to their ecological and socioeconomic importance. Much knowledge on the anthropogenic impacts on coral species has been accumulated, but relevant research gaps on coral ecology remain underappreciated in human-modified seascapes. In this review we assessed 110 studies on coral responses to five major human disturbances- acidification, climate change, overfishing, pollution and non-regulated tourism -to identify geographic and theoretical gaps in coral ecology and help to guide further researches on the topic. We searched for papers in Web of Science published from 2000 to 2016 and classified them according to the ocean, ecoregion, human threat, level of biological organization, study approach, method of data collection, depth of data collected, and type of coral response. Most studies were carried out in the Indo-Pacific and Caribbean (36.3 and 31.9%, respectively) and used observational approach (60%) with scuba diving (36.3%) to assess the impact of ocean warming (55.4%) on coral communities (58.2%). Only 37 of the 141 global ecoregions that contain coral reefs were studied. All studies were restricted to shallow waters (0.5-27 m depth) and reported negative responses of corals to human disturbance. Our results reinforce the notion that corals are sensitive to anthropogenic changes. They reveal the scarcity of information on coral responses to pollution, tourism, overfishing and acidification, particularly in mesophotic ecosystems (>30 m depth) and in ecoregions outside the Indo-Pacific and Caribbean. Experimental studies at the individual and population levels should be also encouraged.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coral', 'Ecology', 'Coral reef', 'Geography', 'Biology']

@@ -1,0 +1,12 @@
+ID: W1973190230
+TITLE: Distribution of Surface Plastic Debris in the Eastern Pacific Ocean from an 11-Year Data Set
+AUTHOR: ['Kara Lavender Law', 'Skye Morét-Ferguson', 'Deborah S. Goodwin', 'Erik R. Zettler', 'Emelia DeForce', 'Tobias Kukulka', 'G. Proskurowski']
+ABSTRACT:
+We present an extensive survey of floating plastic debris in the eastern North and South Pacific Oceans from more than 2500 plankton net tows conducted between 2001 and 2012.From these data we defined an accumulation zone (25 to 41°N, 130 to 180°W) in the North Pacific subtropical gyre that closely corresponds to centers of accumulation resulting from the convergence of ocean surface currents predicted by several oceanographic numerical models.Maximum plastic concentrations from individual surface net tows exceeded 10 6 pieces km -2 , with concentrations decreasing with increasing distance from the predicted center of accumulation.Outside the North Pacific subtropical gyre the median plastic concentration was 0 pieces km -2 .We were unable to detect a robust temporal trend in the data set, perhaps because of confounded spatial and temporal variability.Large spatiotemporal variability in plastic concentration causes order of magnitude differences in summary statistics calculated over short time periods or in limited geographic areas.Utilizing all available plankton net data collected in the eastern Pacific Ocean (17.4°S to 61.0°N; 85.0 to 180.0°W) since 1999, we estimated a minimum of 21 290 t of floating microplastic.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 382
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'Debris', 'Oceanography', 'Environmental science', 'Spatial distribution', 'Subtropics', 'Plankton', 'Magnitude (astronomy)', 'Convergence zone', 'Pacific ocean', 'Climatology', 'Geology', 'Sea surface temperature', 'Remote sensing', 'Physics', 'Astronomy', 'Fishery', 'Biology']

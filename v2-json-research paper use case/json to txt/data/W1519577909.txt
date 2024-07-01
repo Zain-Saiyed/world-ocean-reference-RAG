@@ -1,0 +1,12 @@
+ID: W1519577909
+TITLE: Marine Bioinvasions in the Southeastern Pacific: Status, Ecology, Economic Impacts, Conservation and Management
+AUTHOR: ['Juan Carlos Castilla', 'Paula E. Neill']
+ABSTRACT:
+Knowledge of the status of marine non-indigenous species (NIS) in temperate southeastern Pacific countries (Chile and Peru) is incipient. Nevertheless, at least in Chile, the problem has recently been addressed by taxonomists and ecologists (e.g. Baez et al. 1998; Gajardo and Laikre 2003; Castilla et al. 2005; Camus 2005). While numerous NIS have been intentionally introduced for aquaculture purposes (e.g. Crassostrea gigas, Haliotis rufescens, in both Chile and Peru, and various salmonid species in Chile) there are few studies that have made an explicit examination of the marine environment for the presence of NIS. In Chile, there is a large work-force of researchers studying marine environments for other purposes, and from this assemblage of individuals only a few reports have been made regarding abundant or aggressive exotic species: currently only one thriving invader is known: Codium fragile ssp. tomen-tosoides. In this sense, it appears that Chile, and probably Peru, may be relatively “more pristine” than other coasts in terms of the presence of conspicuous, highly invasive NIS. Nevertheless, the status of non-invasive and cryptogenic NIS in these countries still needs to be fully evaluated. If these marine environments actually are less invaded than other parts of the world it is important to take action now to prevent future introductions, and to study the factors that may limit exotic species introductions and/or their spread. In this chapter our aims are threefold: (1) to discuss the state of knowledge of marine NIS in Chile and report on preliminary evidence from Peru; (2) to provide the most current listing of marine NIS in these countries (Chile and Peru), with information on exotic species' distributions in Chile, the most probable introduction pathway(s) and donor area(s), and known or potential ecological, economic and conservation effects; (3) to discuss the current legislative status of NIS in Chile and make recommendations for further studies in this country based on experiences from other parts of the world.
+
+SOURCE: Ecological studies
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2008
+TYPE: book-chapter
+CONCEPTS: ['Invasive species', 'Geography', 'Ecology', 'Indigenous', 'Introduced species', 'Abalone', 'Marine species', 'Marine conservation', 'Fishery', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2922127343
+TITLE: The oceanic sink for anthropogenic CO <sub>2</sub> from 1994 to 2007
+AUTHOR: ['Nicolas Gruber', 'Dominic Clement', 'Brendan R. Carter', 'Richard A. Feely', 'Steven M. A. C. van Heuven', 'Mario Hoppema', 'Masao Ishii', 'Robert M. Key', 'Alex Kozyr', 'Siv K. Lauvset', 'Claire Lo Monaco', 'Jeremy T. Mathis', 'Akihiko Murata', 'Are Olsen', 'Fíz F. Pérez', 'Christopher L. Sabine', 'Toste Tanhua', 'Rik Wanninkhof']
+ABSTRACT:
+The state of ocean CO 2 uptake The ocean is an important sink for anthropogenic CO 2 and has absorbed roughly 30% of our emissions between the beginning of the industrial revolution and the mid-1990s. This effect is an important moderator of climate change, but can we count on it to remain as strong in the future? Gruber et al. calculated the ocean uptake of anthropogenic CO 2 for the interval from 1994 to 2007, which continued as expected. They also observed clear regional deviations from this pattern, suggesting that there is no guarantee that uptake will remain as robust with time. Science , this issue p. 1193
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/363/6432/1193.full.pdf
+CITED BY COUNT: 545
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Sink (geography)', 'Environmental science', 'Climate change', 'Carbon sink', 'Oceanography', 'Ocean acidification', 'Atmospheric sciences', 'Climatology', 'Environmental chemistry', 'Chemistry', 'Geology', 'Geography', 'Cartography']

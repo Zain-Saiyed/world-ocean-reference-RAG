@@ -1,0 +1,12 @@
+ID: W2889767188
+TITLE: Tourist vessel traffic in important whale areas in the western Canadian Arctic: Risks and possible management solutions
+AUTHOR: ['William D. Halliday', 'Pierre‐Louis Têtu', 'Jackie Dawson', 'Stephen J. Insley', 'R. Casey Hilliard']
+ABSTRACT:
+Vessel traffic has been increasing rapidly in the Arctic, and within the Canadian Arctic, tourist vessels are the fastest growing maritime sector. Vessel traffic can cause a variety of impacts on whales, including ship strikes and acoustic disturbance. Here, the overlap between tourist vessels (e.g., pleasure craft/yachts and passenger vessels/cruise ships) and whale concentration areas is assessed within the Inuvialuit Settlement Region of the western Canadian Arctic. Different management measures which could be used to reduce impacts on whales are also assessed. Passenger vessels have had a relatively constant overlap with whale concentration areas through time, whereas pleasure craft have had a recent and rapid increase. Passenger vessels may have a greater impact on whales, compared to pleasure craft, since they are larger and travel faster. Excluding vessels from the two marine protected areas in the region would have no impact on whales within concentration areas, since vessels would likely just be displaced to adjacent areas with similar whale concentrations. Restricting vessels to the Canadian government's proposed low-impact corridor may reduce impact slightly, but creating a corridor completely outside of the known whale area could more significantly reduce the potential impact of vessels on whales in those areas. Restricting vessel speed within whale areas would also reduce the impact of passenger vessels, but would not likely reduce the impact of pleasure craft. Overall, a combination of management measures may be the best way to reduce impacts on whales in concentration areas.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Whale', 'Tourism', 'Arctic', 'Craft', 'Fishery', 'Pleasure', 'Geography', 'Environmental science', 'Oceanography', 'Geology', 'Archaeology', 'Biology', 'Neuroscience']

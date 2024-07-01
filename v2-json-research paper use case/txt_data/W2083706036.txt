@@ -1,0 +1,12 @@
+ID: W2083706036
+TITLE: Ocean Acidification and the Loss of Phenolic Substances in Marine Plants
+AUTHOR: ['Thomas M. Arnold', 'Christopher Mealey', 'Hannah Marie Leahey', 'A. Whitman Miller', 'Jason M. Hall‐Spencer', 'Marco Milazzo', 'Kelly Maers']
+ABSTRACT:
+Rising atmospheric CO(2) often triggers the production of plant phenolics, including many that serve as herbivore deterrents, digestion reducers, antimicrobials, or ultraviolet sunscreens. Such responses are predicted by popular models of plant defense, especially resource availability models which link carbon availability to phenolic biosynthesis. CO(2) availability is also increasing in the oceans, where anthropogenic emissions cause ocean acidification, decreasing seawater pH and shifting the carbonate system towards further CO(2) enrichment. Such conditions tend to increase seagrass productivity but may also increase rates of grazing on these marine plants. Here we show that high CO(2) / low pH conditions of OA decrease, rather than increase, concentrations of phenolic protective substances in seagrasses and eurysaline marine plants. We observed a loss of simple and polymeric phenolics in the seagrass Cymodocea nodosa near a volcanic CO(2) vent on the Island of Vulcano, Italy, where pH values decreased from 8.1 to 7.3 and pCO(2) concentrations increased ten-fold. We observed similar responses in two estuarine species, Ruppia maritima and Potamogeton perfoliatus, in in situ Free-Ocean-Carbon-Enrichment experiments conducted in tributaries of the Chesapeake Bay, USA. These responses are strikingly different than those exhibited by terrestrial plants. The loss of phenolic substances may explain the higher-than-usual rates of grazing observed near undersea CO(2) vents and suggests that ocean acidification may alter coastal carbon fluxes by affecting rates of decomposition, grazing, and disease. Our observations temper recent predictions that seagrasses would necessarily be "winners" in a high CO(2) world.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0035107&type=printable
+CITED BY COUNT: 158
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Seagrass', 'Potamogetonaceae', 'Total inorganic carbon', 'Zostera marina', 'Terrestrial plant', 'Environmental chemistry', 'Environmental science', 'Bay', 'Seawater', 'Carbon dioxide', 'Oceanography', 'Biology', 'Ecology', 'Ecosystem', 'Chemistry', 'Geology']

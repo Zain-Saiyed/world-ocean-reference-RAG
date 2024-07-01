@@ -1,0 +1,12 @@
+ID: W2770087505
+TITLE: Why Are There No Sea Snakes in the Atlantic?
+AUTHOR: ['Harvey B. Lillywhite', 'Coleman M. Sheehy', 'Harold Heatwole', 'François Brischoux', 'David W. Steadman']
+ABSTRACT:
+Roughly 70 species of sea snakes inhabit the Indo-Pacific but are absent from the Atlantic Ocean. Paleoclimatic conditions in the Coral Triangle were favorable for evolutionary transitions to the sea, while those in the Caribbean region and coastlines bordering the Atlantic Ocean were less favorable. The dispersal of sea snakes from the Indian to Atlantic Oceans around the Cape of Good Hope has been prevented by low water temperatures and a lack of precipitation related to the presence of the Benguela Current along the Atlantic coast of southern Africa. The Isthmus of Panama fully separated the Pacific and Atlantic Oceans before the speciation and dispersal of the sole pelagic species of sea snake to reach the Central American Pacific shoreline. Future climatic changes could bring declines or extinctions of sea snakes within their present ranges, but they appear unlikely to favor the dispersal and establishment of sea snakes in the Atlantic Ocean.
+
+SOURCE: BioScience/Bioscience
+PDF URL: https://academic.oup.com/bioscience/article-pdf/68/1/15/23345277/bix132.pdf
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Pelagic zone', 'Oceanography', 'Tropical Atlantic', 'Shore', 'Gulf Stream', 'Geology', 'Geography', 'Sea surface temperature', 'Population', 'Demography', 'Sociology']

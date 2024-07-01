@@ -1,0 +1,12 @@
+ID: W2072935983
+TITLE: Regime shifts in marine ecosystems of the North Sea and Wadden Sea
+AUTHOR: ['Mariska Weijerman', 'H.J. Lindeboom', 'Alain F. Zuur']
+ABSTRACT:
+Wide-scale and sudden shifts in several biological and environmental systems of NW Europe have been reported in recent years, and attributed to a range of factors, both climatic and anthropogenic.To examine whether there is any evidence of coinciding region-wide environmental shifts, we gathered existing long-term data series on a wide range of physical and biological parameters from the 1960s to the present and, following the methods of a similar recent study on North Pacific regime shifts, we analysed the data using principal component analysis and regime shift analysis to identify the extent and timing of regime shifts in NW Europe.The end-point of a regime (i.e. the year) was determined using a sliding window in regime shift analysis.Additionally we applied chronological clustering to the (1) combined data, (2) biological data and (3) environmental data.In all 3 cases, the same regimes were identified.Our results indicate that substantial regime shifts occurred in the marine ecosystem in 1979 and 1988 and perhaps also in 1998, although results were less clear-cut in the latter case.These regime shifts were most evident among the biological data series, but they appeared to have been triggered by earlier shifts in a number of environmental factors.Salinity and weather conditions played an important role in the 1979 shift, while in the 1988 shift, temperature and weather conditions were the predominant factors.Our results confirm those of the North Pacific study, with concomitant changes in physical and biological indices.This indicates a shift in climate-ocean interactions throughout the entire temperate zone of the Northern Hemisphere.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2005/298/m298p021.pdf
+CITED BY COUNT: 220
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Regime shift', 'Ecosystem', 'Oceanography', 'Range (aeronautics)', 'Environmental science', 'Environmental change', 'Geography', 'Ecology', 'Climate change', 'Geology', 'Biology', 'Materials science', 'Composite material']

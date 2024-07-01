@@ -1,0 +1,12 @@
+ID: W258459702
+TITLE: Persistent organic pollutants (POPs) in blubber of common bottlenose dolphins (Tursiops truncatus) along the northern Gulf of Mexico coast, USA
+AUTHOR: ['Brian C. Balmer', 'Gina M. Ylitalo', 'Lauren E. McGeorge', 'Keri A. Baugh', 'Daryle Boyd', 'Keith D. Mullin', 'Patricia E. Rosel', 'Carrie Sinclair', 'Randall S. Wells', 'Eric S. Zolman', 'Lori H. Schwacke']
+ABSTRACT:
+A number of studies were initiated in response to the Deepwater Horizon (DWH) oil spill to understand potential injuries to bottlenose dolphins (Tursiops truncatus) that inhabit the northern Gulf of Mexico (NGoM) estuarine waters. As part of these studies, remote biopsy skin and blubber samples were collected from dolphins at six field sites that received varying degrees of oiling: Barataria Bay (BB), Chandeleur Sound West (CSW), Chandeleur Sound East (CSE), Mississippi Sound South (MSS), Mississippi Sound North (MSN), and St. Joseph Bay (SJ). Blubber samples from 108 male dolphins were analyzed for persistent organic pollutant (POP) concentrations, as high levels of POPs have been previously reported in other southeastern U.S. dolphins and the potential contribution of these compounds to adverse health effects in NGoM dolphins must be considered. Dolphin blubber levels of summed POPs (ΣPOPs) did not differ significantly across sites (F-test, P = 0.9119) [μg/g lipid; geometric mean and 95% CI]; CSW [65.9 (51.4–84.6)], SJ [74.1 (53.0–104)], MSN [74.3 (58.7–93.9)], BB [75.3 (56.4–101)], CSE [80.5 (57.8–112)], and MSS [82.5 (65.9–103)]. Overall, POP concentrations were in the lower half of the range compared to previously reported concentrations from other southeastern U.S. sites. Increased dolphin mortalities have been ongoing in the NGoM and have been suggested to be linked with the DWH oil spill. In addition, lung disease, impaired adrenal function, and serum biochemical abnormalities have been reported in dolphins from BB, an area that was heavily oiled. The results of this study suggest that POPs are likely not a primary contributor to the poor health conditions and increased mortality observed in some populations of NGoM dolphins following the DWH oil spill.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Blubber', 'Bay', 'Estuary', 'Sound (geography)', 'Fishery', 'Pollutant', 'Marine mammal', 'Bottlenose dolphin', 'Porpoise', 'Biology', 'Environmental science', 'Oceanography', 'Ecology', 'Geology', 'Harbour', 'Computer science', 'Programming language']

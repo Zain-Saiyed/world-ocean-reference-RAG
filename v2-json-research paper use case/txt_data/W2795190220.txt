@@ -1,0 +1,12 @@
+ID: W2795190220
+TITLE: Out of Sight, But Within Reach: A Global History of Bottom-Trawled Deep-Sea Fisheries From &gt;400 m Depth
+AUTHOR: ['Lissette Victorero', 'Les Watling', 'Maria Lourdes D. Palomares', 'Claire Nouvian']
+ABSTRACT:
+Deep-sea fish species are targeted globally by bottom trawling. The species captured are often characterized by longevity, low fecundity and slow growth making them vulnerable to overfishing. In addition, bottom trawling is known to remove vast amounts of non-target species, including habitat forming deep-sea corals and sponges. Therefore, bottom trawling poses a serious risk to deep-sea ecosystems, but the true extent of deep-sea fishery landings through history remains unknown. Here, we present catches for global bottom trawling fisheries between years 1950-2015. This study gives new insight into the history of bottom trawled deep-sea fisheries through its use of FAO capture data combined with reconstructed landings data provided by the Sea Around Us Project, which are the only records containing bycatches, discards and unreported landings for deep-sea species. We illustrate the trends and shifts of the fishing nations and discuss the life-history and catch patterns of the most prominent target species over this time period. Our results show that the landings from deep-sea fisheries are miniscule, contributing less than 0.5 % to global fisheries landings. The fisheries were also found to be overall under-reported by as much as 43 %, leading to the removal of an estimated 25 million tonnes of deep-sea fish. The highest catches were of Greenland halibut in the NE Atlantic, Longfin codling from the NW Pacific and Grenadiers and Orange roughy from the SW Pacific. The results also show a diversification through the years in the species caught and reported. This historical perspective reveals that the extent and amount of deep-sea fish removed from the deep ocean exceeds previous estimates. This has significant implications for management, conservation and policy, as the economic importance of global bottom trawling is trivial, but the environmental damage imposed by this practice, is not.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00098/pdf
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Trawling', 'Fishery', 'Bottom trawling', 'Discards', 'Overfishing', 'Oceanography', 'Bycatch', 'Fishing', 'Deep sea', 'Geography', 'Stock assessment', 'Biology', 'Geology']

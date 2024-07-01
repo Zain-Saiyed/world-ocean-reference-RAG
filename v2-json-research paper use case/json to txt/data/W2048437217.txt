@@ -1,0 +1,12 @@
+ID: W2048437217
+TITLE: Impact of ocean acidification and elevated temperatures on early juveniles of the polar shelled pteropod &amp;lt;i&amp;gt;Limacina helicina&amp;lt;/i&amp;gt;: mortality, shell degradation, and shell growth
+AUTHOR: ['Silke Lischka', 'Jan Büdenbender', 'Tim Boxhammer', 'Ulf Riebesell']
+ABSTRACT:
+Abstract. Due to their aragonitic shell, thecosome pteropods may be particularly vulnerable to ocean acidification driven by anthropogenic CO2 emissions. This applies specifically to species inhabiting Arctic surface waters that are projected to become temporarily and locally undersaturated with respect to aragonite as early as 2016. This study investigated the effects of rising partial pressure of CO2 (pCO2) and elevated temperature on pre-winter juveniles of the polar pteropod Limacina helicina. After a 29 day experiment in September/October 2009 at three different temperatures and under pCO2 scenarios projected for this century, mortality, shell degradation, shell diameter and shell increment were investigated. Temperature and pCO2 had a significant effect on mortality, but temperature was the overriding factor. Shell diameter, shell increment and shell degradation were significantly impacted by pCO2 but not by temperature. Mortality was 46% higher at 8 °C than at in situ temperature (3 °C), and 14% higher at 1100 μatm than at 230 μatm. Shell diameter and increment were reduced by 10 and 12% at 1100 μatm and 230 μatm, respectively, and shell degradation was 41% higher at elevated compared to ambient pCO2. We conclude that pre-winter juveniles will be negatively affected by both rising temperature and pCO2 which may result in a possible decline in abundance of the overwintering population, the basis for next year's reproduction.
+
+SOURCE: Biogeosciences
+PDF URL: https://bg.copernicus.org/articles/8/919/2011/bg-8-919-2011.pdf
+CITED BY COUNT: 196
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Aragonite', 'Population', 'Oceanography', 'Overwintering', 'Environmental science', 'Ecology', 'Chemistry', 'Biology', 'Geology', 'Seawater', 'Calcite', 'Mineralogy', 'Demography', 'Sociology']

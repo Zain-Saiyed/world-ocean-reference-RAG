@@ -1,0 +1,12 @@
+ID: W2166507984
+TITLE: Enhanced warming over the global subtropical western boundary currents
+AUTHOR: ['Lixin Wu', 'Wenju Cai', 'Liping Zhang', 'Hisashi Nakamura', 'Axel Timmermann', 'Terry Joyce', 'Michael J. McPhaden', 'Michael A. Alexander', 'Bo Qiu', 'Martin Visbeck', 'Ping Chang', 'Benjamin S. Giese']
+ABSTRACT:
+An analysis indicates that the warm, powerful currents that flow along the western edges of ocean basins warmed more than twice as quickly than the global ocean as a whole over the past century. This enhanced warming could have important effects on climate because these currents affect the air–sea exchange of heat, moisture and carbon dioxide. Subtropical western boundary currents are warm, fast-flowing currents that form on the western side of ocean basins. They carry warm tropical water to the mid-latitudes and vent large amounts of heat and moisture to the atmosphere along their paths, affecting atmospheric jet streams and mid-latitude storms, as well as ocean carbon uptake1,2,3,4. The possibility that these highly energetic currents might change under greenhouse-gas forcing has raised significant concerns5,6,7, but detecting such changes is challenging owing to limited observations. Here, using reconstructed sea surface temperature datasets and century-long ocean and atmosphere reanalysis products, we find that the post-1900 surface ocean warming rate over the path of these currents is two to three times faster than the global mean surface ocean warming rate. The accelerated warming is associated with a synchronous poleward shift and/or intensification of global subtropical western boundary currents in conjunction with a systematic change in winds over both hemispheres. This enhanced warming may reduce the ability of the oceans to absorb anthropogenic carbon dioxide over these regions. However, uncertainties in detection and attribution of these warming trends remain, pointing to a need for a long-term monitoring network of the global western boundary currents and their extensions.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 577
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Environmental science', 'Climatology', 'Boundary current', 'Global warming', 'Effects of global warming on oceans', 'Sea surface temperature', 'Atmosphere (unit)', 'Atmospheric sciences', 'Latitude', 'Greenhouse gas', 'Subtropics', 'Climate change', 'Ocean current', 'Oceanography', 'Geology', 'Meteorology', 'Geography', 'Fishery', 'Geodesy', 'Biology']

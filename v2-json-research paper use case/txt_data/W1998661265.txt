@@ -1,0 +1,12 @@
+ID: W1998661265
+TITLE: Effects of exposure to pile driving sounds on fish inner ear tissues
+AUTHOR: ['Brandon M. Casper', 'Michael E. Smith', 'Michele B. Halvorsen', 'Huifang Sun', 'Thomas J. Carlson', 'Arthur N. Popper']
+ABSTRACT:
+Impulsive pile driving sound can cause injury to fishes, but no studies to date have examined whether such injuries include damage to sensory hair cells in the ear. Possible effects on hair cells were tested using a specially designed wave tube to expose two species, hybrid striped bass (white bass Morone chrysops × striped bass Morone saxatilis) and Mozambique tilapia (Oreochromis mossambicus), to pile driving sounds. Fish were exposed to 960 pile driving strikes at one of three treatment levels: 216, 213, or 210 dB re 1 μPa2·s cumulative Sound Exposure Level. Both hybrid striped bass and tilapia exhibited barotraumas such as swim bladder ruptures, herniations, and hematomas to several organs. Hybrid striped bass exposed to the highest sound level had significant numbers of damaged hair cells, while no damage was found when fish were exposed at lower sound levels. Considerable hair cell damage was found in only one out of 11 tilapia specimens exposed at the highest sound level. Results suggest that impulsive sounds such as from pile driving may have a more significant effect on the swim bladders and surrounding organs than on the inner ears of fishes, at least at the sound exposure levels used in this study.
+
+SOURCE: Comparative biochemistry and physiology. Part A, Molecular & integrative physiology
+PDF URL: None
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Bass (fish)', 'Sound exposure', 'Swim bladder', 'Oreochromis mossambicus', 'Tilapia', 'Biology', 'Fishery', 'Anatomy', 'Hair cell', 'Morone saxatilis', 'Inner ear', 'Zoology', 'Sound (geography)', 'Fish <Actinopterygii>', 'Acoustics', 'Physics']

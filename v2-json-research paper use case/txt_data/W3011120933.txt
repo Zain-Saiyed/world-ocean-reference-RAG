@@ -1,0 +1,12 @@
+ID: W3011120933
+TITLE: Microplastics in sea ice and seawater beneath ice floes from the Arctic Ocean
+AUTHOR: ['La Daana K. Kanhai', 'Katarina Gårdfeldt', 'Thomas Krumpen', 'Richard C. Thompson', 'Ian O’Connor']
+ABSTRACT:
+Abstract Within the past decade, an alarm was raised about microplastics in the remote and seemingly pristine Arctic Ocean. To gain further insight about the issue, microplastic abundance, distribution and composition in sea ice cores (n = 25) and waters underlying ice floes (n = 22) were assessed in the Arctic Central Basin (ACB). Potential microplastics were visually isolated and subsequently analysed using Fourier Transform Infrared (FT-IR) Spectroscopy. Microplastic abundance in surface waters underlying ice floes (0–18 particles m −3 ) were orders of magnitude lower than microplastic concentrations in sea ice cores (2–17 particles L −1 ). No consistent pattern was apparent in the vertical distribution of microplastics within sea ice cores. Backward drift trajectories estimated that cores possibly originated from the Siberian shelves, western Arctic and central Arctic. Knowledge about microplastics in environmental compartments of the Arctic Ocean is important in assessing the potential threats posed by microplastics to polar organisms.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-020-61948-6.pdf
+CITED BY COUNT: 182
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Microplastics', 'Sea ice', 'Oceanography', 'Arctic', 'Arctic ice pack', 'Drift ice', 'Environmental science', 'Seawater', 'Geology', 'Arctic sea ice decline', 'Canada Basin']

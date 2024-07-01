@@ -1,0 +1,12 @@
+ID: W1870020546
+TITLE: Making waves: The science and politics of ocean protection
+AUTHOR: ['Jane Lubchenco', 'Kirsten Grorud‐Colvert']
+ABSTRACT:
+Mature science reveals opportunities for policy progress
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 249
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Politics', 'Political science', 'Environmental science', 'Oceanography', 'Geology', 'Law']

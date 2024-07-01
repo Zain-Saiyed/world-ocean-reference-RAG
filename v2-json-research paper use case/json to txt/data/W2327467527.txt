@@ -1,0 +1,12 @@
+ID: W2327467527
+TITLE: Mapeamento Geomorfológico e Morfodinâmica do Atol das Rocas, Atlântico Sul
+AUTHOR: ['Natan Silva Pereira', 'Valdir Amaral Vaz Manso', 'A.M.C. Silva', 'Marianna B. Silva']
+ABSTRACT:
+The reef complex of Rocas represents the only atoll of the South Atlantic. This atoll is situated on a Guyot that belongs to the chain of volcanic mounta...
+
+SOURCE: Gestão costeira integrada
+PDF URL: None
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Geology', 'Mica', 'Geochemistry', 'Paleontology']

@@ -1,0 +1,12 @@
+ID: W2346734855
+TITLE: Ocean ambient sound south of Bermuda and Panama Canal traffic
+AUTHOR: ['Ana Širović', 'John A. Hildebrand', 'Mark A. McDonald']
+ABSTRACT:
+Comparisons of current and historic ocean ambient noise levels are rare, especially in the North Atlantic. Recent (2013-2014) monthly patterns in ocean ambient sound south of Bermuda were compared to those recorded at the same location in 1966. Additionally, trends in ocean traffic, in particular, Panama Canal traffic, over this time were also investigated. One year of ocean ambient noise measurements were collected in 1966 using cabled, omnidirectional hydrophones at the U.S. Navy Tudor Hill Laboratory in Bermuda, and repeat measurements were collected at the same location from June 2013-May 2014 using a High-frequency Acoustic Recording Package. Average monthly pressure spectrum levels at 44 Hz increased 2.8 ± 0.8 dB from 1966 to 2013, indicating an average increase of 0.6 dB/decade. This low level of increase may be due to topographic shielding at this site, limiting it to only southern exposure, and the limit in the number of ship transits through the Panama Canal, which did not change substantially during this time. The impending expansion of the Canal, which will enable the transit of larger ships at twice the current rate, is likely to lead to a substantial increase in ocean ambient sound at this location in the near future.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: https://asa.scitation.org/doi/pdf/10.1121/1.4947517
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ambient noise level', 'Sound (geography)', 'Environmental science', 'Panama canal', 'Oceanography', 'Current (fluid)', 'Noise (video)', 'Geology', 'Limiting', 'Meteorology', 'Geography', 'Water resource management', 'Mechanical engineering', 'Artificial intelligence', 'Computer science', 'Engineering', 'Image (mathematics)']

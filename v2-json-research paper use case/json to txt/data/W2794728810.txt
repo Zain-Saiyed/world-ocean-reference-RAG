@@ -1,0 +1,12 @@
+ID: W2794728810
+TITLE: Observed fingerprint of a weakening Atlantic Ocean overturning circulation
+AUTHOR: ['Levke Caesar', 'Stefan Rahmstorf', 'Alexander Robinson', 'Georg Feulner', 'Vincent S. Saba']
+ABSTRACT:
+The Atlantic meridional overturning circulation (AMOC)-a system of ocean currents in the North Atlantic-has a major impact on climate, yet its evolution during the industrial era is poorly known owing to a lack of direct current measurements. Here we provide evidence for a weakening of the AMOC by about 3 ± 1 sverdrups (around 15 per cent) since the mid-twentieth century. This weakening is revealed by a characteristic spatial and seasonal sea-surface temperature 'fingerprint'-consisting of a pattern of cooling in the subpolar Atlantic Ocean and warming in the Gulf Stream region-and is calibrated through an ensemble of model simulations from the CMIP5 project. We find this fingerprint both in a high-resolution climate model in response to increasing atmospheric carbon dioxide concentrations, and in the temperature trends observed since the late nineteenth century. The pattern can be explained by a slowdown in the AMOC and reduced northward heat transport, as well as an associated northward shift of the Gulf Stream. Comparisons with recent direct measurements from the RAPID project and several other studies provide a consistent depiction of record-low AMOC values in recent years.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 638
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Shutdown of thermohaline circulation', 'Gulf Stream', 'Thermohaline circulation', 'Oceanography', 'North Atlantic Deep Water', 'Climatology', 'Ocean current', 'Atlantic multidecadal oscillation', 'Geology', 'Environmental science', 'Sea surface temperature']

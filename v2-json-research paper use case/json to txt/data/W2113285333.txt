@@ -1,0 +1,12 @@
+ID: W2113285333
+TITLE: Will human-induced changes in seawater chemistry alter the distribution of deep-sea scleractinian corals?
+AUTHOR: ['John M. Guinotte', 'James C. Orr', 'Stephen D. Cairns', 'André Freiwald', 'Lance Morgan', 'Robert Y. George']
+ABSTRACT:
+The answer to the title question is uncertain, as very few manipulative experiments have been conducted to test how deep-sea scleractinians (stony corals) react to changes in seawater chemistry. Ocean pH and calciumcarbonate saturation are decreasing due to an influx of anthropogenic CO2 to the atmosphere. Experimental evidence has shown that declining carbonate saturation inhibits the ability of marine organisms to build calcium carbonate skeletons, shells, and tests. Here we put forward a hypothesis suggesting that the global distribution of deep-sea scleractinian corals could be limited in part by the depth of the aragonite saturation horizon (ASH) in the world's oceans. Aragonite is the metastable form of calcium carbonate used by scleractinian corals to build their skeletons and the ASH is the limit between saturated and undersaturated water. The hypothesis is tested by reviewing the distribution of deep-sea, bioherm-forming scleractinian corals with respect to the depth of the ASH. Results indicate that > 95% of 410 coral locations occurred in saturated waters during pre-industrial times. Projections indicate that about 70% of these locations will be in undersaturated waters by 2099. Lab experimentation, in situ experimentation, and monitoring efforts are needed to quantify the effects of changing seawater chemistry on deep-sea coral ecosystems.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: None
+CITED BY COUNT: 367
+PUBLICATION YEAR: 2006
+TYPE: review
+CONCEPTS: ['Aragonite', 'Seawater', 'Coral', 'Oceanography', 'Carbonate', 'Saturation (graph theory)', 'Ocean acidification', 'Deep sea', 'Calcium carbonate', 'Geology', 'Cnidaria', 'Coelenterata', 'Environmental science', 'Chemistry', 'Mathematics', 'Organic chemistry', 'Combinatorics']

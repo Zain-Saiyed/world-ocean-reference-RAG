@@ -1,0 +1,12 @@
+ID: W2019720139
+TITLE: Marine phytoplankton: how many species in the world ocean?
+AUTHOR: ['Alain Sournia', 'M.-J. Chrdtiennot-Dinet', 'Michèle Ricard']
+ABSTRACT:
+Towards the end of the 1980s, living plankton flora of the world ocean amounted to 474-504 genera and 3444–4375 species if one neglects the increase rate of taxa during the latest years In the above figures, the lower estimate is that of the ‘reliable’ taxa (of practical value for identification tasks), whereas the higher estimate includes the insufficiently known or doubtful organisms, and synonyms are excluded. The frequency distribution of the numbers of species per genus confirms the general hyperbolic law, which implies that a relatively large number of genera are uni- or paucispecific.
+
+SOURCE: Journal of plankton research
+PDF URL: None
+CITED BY COUNT: 172
+PUBLICATION YEAR: 1991
+TYPE: article
+CONCEPTS: ['Taxon', 'Plankton', 'Genus', 'Biology', 'Phytoplankton', 'Ecology', 'Flora (microbiology)', 'Global biodiversity', 'Marine species', 'Oceanography', 'Biodiversity', 'Paleontology', 'Geology', 'Nutrient', 'Bacteria']

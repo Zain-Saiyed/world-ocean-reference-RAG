@@ -1,0 +1,12 @@
+ID: W2801314664
+TITLE: The role of corporate social responsibility in creating a Seussian world of seafood sustainability
+AUTHOR: ['Megan Bailey', 'Helen Packer', 'Laurenne Schiller', 'Michael F. Tlusty', 'Wilf Swartz']
+ABSTRACT:
+Abstract Approaches to counter the overfishing and aquaculture production crisis include those imposed by public governing bodies, as well as those implemented by businesses and non‐governmental organizations ( NGO s). In the case of the latter, private actors govern fisheries consumption and production through corporate social responsibility ( CSR ). In this contribution, we focus on three key tools that businesses are increasingly turning towards in an effort to meet the one particular CSR goal of sustainable seafood sourcing. In this context, the key tools of certifications, fisheries improvement projects ( FIP s) and traceability are reviewed, and their potential as well as limits in contributing to continual improvement in pursuit of global seafood sustainability are analyzed. We argue that seafood CSR has created its own whimsical and fantastical world, a Seussian world, in which company image has become more important than sustainability performance. We posit four important barriers that must be overcome to bring seafood CSR back to reality. Specifically, we suggest moving away from the business case for CSR , reducing accessibility barriers for small‐scale and developing world fisheries, reconciling different labels and sustainability concepts, and better recognizing the imperative role of the state in governing fisheries and seafood.
+
+SOURCE: Fish and fisheries
+PDF URL: None
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Corporate social responsibility', 'Sustainability', 'Business', 'Overfishing', 'Certification', 'Greenwashing', 'Context (archaeology)', 'Fishery', 'Marketing', 'Environmental resource management', 'Public relations', 'Political science', 'Economics', 'Management', 'Fishing', 'Ecology', 'Paleontology', 'Biology']

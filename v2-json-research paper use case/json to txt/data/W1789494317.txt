@@ -1,0 +1,12 @@
+ID: W1789494317
+TITLE: Salinity Gradient Energy: Current State and New Trends
+AUTHOR: ['Olivier Schaetzle', 'Cees J.N. Buisman']
+ABSTRACT:
+In this article we give an overview of the state of the art of salinity gradient technologies. We first introduce the concept of salinity gradient energy, before describing the current state of development of the most advanced of these technologies. We conclude with the new trends in the young field of salinity gradient technologies.
+
+SOURCE: Engineering
+PDF URL: None
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Salinity', 'Current (fluid)', 'State (computer science)', 'Field (mathematics)', 'Energy (signal processing)', 'Environmental science', 'Geology', 'Computer science', 'Oceanography', 'Mathematics', 'Statistics', 'Algorithm', 'Pure mathematics']

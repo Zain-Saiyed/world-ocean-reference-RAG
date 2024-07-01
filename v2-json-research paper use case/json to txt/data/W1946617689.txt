@@ -1,0 +1,12 @@
+ID: W1946617689
+TITLE: Aspectos biogeomorfológicos do Atol das Rocas, Atlântico Sul Equatorial
+AUTHOR: ['Marcelo de Oliveira Soares', 'Valesca Brasil Lemos', 'Ruy Kenji Papa de Kikuchi']
+ABSTRACT:
+Biogeomorphological analysis and mapping of the reef units in the only Atoll from the Equatorial South Atlantic were held for understanding the dynamics and the relief of this oceanic reef. The zoning shows the presence of the following environmental compartments: reef front, adjacent bottom, reef margin, reef flat, reef ring, reef residues, lagoon, sand flat, reef pass, pools, puddles-of-tide and the sand cays. The results show that a variety of organisms in Atoll that act in processes groups such: control of erosion on sand cays, bioprotection, bioerosion, cementation of biogenic carbonate sand, production of biodetritic sediments and bioconstruction. Such biogeomorphological processes generate some of the unique characteristics of Rocas Atoll.
+
+SOURCE: Revista Brasileira de Geociências
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Atoll', 'Reef', 'Geology', 'Bioerosion', 'Halimeda', 'Oceanography', 'Fringing reef']

@@ -1,0 +1,12 @@
+ID: W2896660303
+TITLE: A framework for incorporating sense of place into the management of marine systems
+AUTHOR: ['Ingrid E. van Putten', 'Éva E. Plagányi', 'Kate Booth', 'Christopher Cvitanovic', 'Rachel Kelly', 'André E. Punt', 'Shane A. Richards']
+ABSTRACT:
+Successfully managing current threats to marine resources and ecosystems is largely dependent on our ability to understand and manage human behavior.In recent times we have seen increased growth in research to understand the human dimension of marine resource use, and the associated implications for management.However, despite progress to date, marine research and management have until recently largely neglected the critically important role of "sense of place," and its role in influencing the success and efficacy of management interventions.To help address this gap we review the existing literature from various disciplines, e.g., environmental psychology, and sectors, both marine and nonmarine sectors, to understand the ways is which sense of place has been conceptualized and measured.Doing so we draw on three key aspects of sense of place, person, place, and process, to establish a framework to help construct a more organized and consistent approach for considering and representing sense of place in marine environmental studies.Based on this we present indicators to guide how sense of place is monitored and evaluated in relation to marine resource management, and identify practical ways in which this framework can be incorporated into existing decision-support tools.This manuscript is a first step toward increasing the extent to which sense of place is incorporated into modeling, monitoring, and management decisions in the marine realm.
+
+SOURCE: Ecology and society
+PDF URL: https://www.ecologyandsociety.org/vol23/iss4/art4/ES-2018-10504.pdf
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Sense of place', 'Environmental ethics', 'Ecology', 'Sense (electronics)', 'Environmental resource management', 'Sociology', 'Philosophy', 'Environmental science', 'Engineering', 'Biology', 'Social science', 'Electrical engineering']

@@ -1,0 +1,12 @@
+ID: W2801825589
+TITLE: Continued decline of a collapsed population of Atlantic cod (<i>Gadus morhua</i>) due to predation-driven Allee effects
+AUTHOR: ['Rachel Neuenhoff', 'Douglas P. Swain', 'Sean Cox', 'Murdoch K. McAllister', 'Andrew W. Trites', 'Carl J. Walters', 'Mike O. Hammill']
+ABSTRACT:
+Most stocks of Atlantic cod (Gadus morhua) in the Northwest Atlantic collapsed in the early 1990s, with little sign of recovery since then. In the southern Gulf of St. Lawrence (sGSL), the failed recovery is due to severe increases in the natural mortality of adult Atlantic cod. We examined the role of predation by grey seals (Halichoerus grypus) in this failed recovery by directly incorporating grey seal predation in the population model for Atlantic cod via a functional response. Estimated predation mortality of adult Atlantic cod increased sharply during the cod collapse and has continued to increase, comprising the majority of mortality since the late 1990s. While predation by grey seals appeared to play a minor role in the collapse of Atlantic cod, we found it to be the main factor preventing recovery. Our results are consistent with the hypothesis that failed recovery is due to predation-driven Allee effects, a demographic effect due to the decline in cod abundance and an emergent effect resulting from increasing grey seal abundance. Under current conditions, extirpation of sGSL Atlantic cod appears likely unless there is a large decline in the abundance of grey seals.
+
+SOURCE: Canadian journal of fisheries and aquatic sciences
+PDF URL: None
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Gadus', 'Atlantic cod', 'Predation', 'Allee effect', 'Gadidae', 'Fishery', 'Biology', 'Population', 'Abundance (ecology)', 'Ecology', 'Population decline', 'Demography', 'Fish <Actinopterygii>', 'Habitat', 'Sociology']

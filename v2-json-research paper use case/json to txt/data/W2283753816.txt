@@ -1,0 +1,12 @@
+ID: W2283753816
+TITLE: Seafloor massive sulfide deposits support unique megafaunal assemblages: Implications for seabed mining and conservation
+AUTHOR: ['Rachel Boschen', 'Ashley A. Rowden', 'Malcolm R. Clark', 'Arne Pallentin', 'Jonathan P. A. Gardner']
+ABSTRACT:
+Mining of seafloor massive sulfides (SMS) is imminent, but the ecology of assemblages at SMS deposits is poorly known. Proposed conservation strategies include protected areas to preserve biodiversity at risk from mining impacts. Determining site suitability requires biological characterisation of the mine site and protected area(s). Video survey of a proposed mine site and protected area off New Zealand revealed unique megafaunal assemblages at the mine site. Significant relationships were identified between assemblage structure and environmental conditions, including hydrothermal features. Unique assemblages occurred at both active and inactive chimneys and are particularly at risk from mining-related impacts. The occurrence of unique assemblages at the mine site suggests that the proposed protected area is insufficient alone and should instead form part of a network. These results provide support for including hydrothermally active and inactive features within networks of protected areas and emphasise the need for quantitative survey data of proposed sites.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 57
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Megafauna', 'Volcanogenic massive sulfide ore deposit', 'Assemblage (archaeology)', 'Seafloor spreading', 'Biodiversity', 'Protected area', 'Marine protected area', 'Environmental science', 'Ecology', 'Geology', 'Oceanography', 'Environmental resource management', 'Hydrothermal circulation', 'Paleontology', 'Biology', 'Sphalerite', 'Habitat', 'Pleistocene']

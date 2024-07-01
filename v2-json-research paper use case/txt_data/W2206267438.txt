@@ -1,0 +1,12 @@
+ID: W2206267438
+TITLE: Effects of sea temperature and stratification changes on seabird breeding success
+AUTHOR: ['Matthew J. Carroll', 'Adam Butler', 'Ellie Owen', 'Steven R. Ewing', 'Theresa L. Cole', 'Jonathan A. Green', 'Louise Soanes', 'John P. Y. Arnould', 'Stephen Newton', 'Julia Baer', 'Francis Daunt', 'Sarah Wanless', 'Mark A. Newell', 'Gail Robertson', 'Roddy Mavor', 'Mark Bolton']
+ABSTRACT:
+As apex predators in marine ecosystems, seabirds may primarily experience climate change impacts indirectly, via changes to their food webs.Observed seabird population declines have been linked to climate-driven oceanographic and food web changes.However, relationships have often been derived from relatively few colonies and consider only sea surface temperature (SST), so important drivers, and spatial variation in drivers, could remain undetected.Further, explicit climate change projections have rarely been made, so longerterm risks remain unclear.Here, we use tracking data to estimate foraging areas for eleven black-legged kittiwake (Rissa tridactyla) colonies in the UK and Ireland, thus reducing reliance on single colonies and allowing calculation of colony-specific oceanographic conditions.We use mixed models to consider how SST, the potential energy anomaly (indicating density stratification strength) and the timing of seasonal stratification influence kittiwake productivity.Across all colonies, higher breeding success was associated with weaker stratification before breeding and lower SSTs during the breeding season.Eight colonies with sufficient data were modelled individually: higher productivity was associated with later stratification at three colonies, weaker stratification at two, and lower SSTs at one, whilst two colonies showed no significant relationships.Hence, key drivers of productivity varied among colonies.Climate change projections, made using fitted models, indicated that breeding success could decline by 21 -43% between 1961-90 and 2070-99.Climate change therefore poses a longer-term threat to kittiwakes, but as this will be mediated via availability of key prey species, other marine apex predators could also face similar threats.
+
+SOURCE: Climate research
+PDF URL: None
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Seabird', 'Geography', 'Wildlife', 'Library science', 'Fishery', 'Ecology', 'Biology', 'Predation', 'Computer science']

@@ -1,0 +1,12 @@
+ID: W2114506747
+TITLE: Exposure to seismic survey alters blue whale acoustic communication
+AUTHOR: ['Lucia Di Iorio', 'Christopher W. Clark']
+ABSTRACT:
+The ability to perceive biologically important sounds is critical to marine mammals, and acoustic disturbance through human-generated noise can interfere with their natural functions. Sounds from seismic surveys are intense and have peak frequency bands overlapping those used by baleen whales, but evidence of interference with baleen whale acoustic communication is sparse. Here we investigated whether blue whales (Balaenoptera musculus) changed their vocal behaviour during a seismic survey that deployed a low-medium power technology (sparker). We found that blue whales called consistently more on seismic exploration days than on non-exploration days as well as during periods within a seismic survey day when the sparker was operating. This increase was observed for the discrete, audible calls that are emitted during social encounters and feeding. This response presumably represents a compensatory behaviour to the elevated ambient noise from seismic survey operations.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2009.0651
+CITED BY COUNT: 123
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Biology', 'Whale', 'Seismic survey', 'Fishery', 'Marine mammal', 'Ecology', 'Seismology', 'Geology']

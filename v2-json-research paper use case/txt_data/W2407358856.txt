@@ -1,0 +1,12 @@
+ID: W2407358856
+TITLE: Physiological, ecological, and behavioural correlates of the size of the geographic ranges of sea kraits (Laticauda; Elapidae, Serpentes): A critique
+AUTHOR: ['Harold Heatwole', 'Harvey B. Lillywhite', 'Alana Grech']
+ABSTRACT:
+Recent, more accurate delineation of the distributions of sea kraits and prior dubious use of proxy temperatures and mean values in correlative studies requires re-assessment of the relationships of temperature and salinity as determinants of the size of the geographic ranges of sea kraits. Correcting the sizes of geographic ranges resolved the paradox of lack of correspondence of size of range with degree of terrestrialism, but did not form a definitive test of the theory. Recent ecological, physiological, and behavioural studies provide an example of the kind of approach likely to either validate or refute present theory.
+
+SOURCE: Journal of sea research
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S1385110116300983
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Elapidae', 'Range (aeronautics)', 'Ecology', 'Proxy (statistics)', 'Correlative', 'Geography', 'Biology', 'Statistics', 'Mathematics', 'Linguistics', 'Philosophy', 'Materials science', 'Venom', 'Composite material']

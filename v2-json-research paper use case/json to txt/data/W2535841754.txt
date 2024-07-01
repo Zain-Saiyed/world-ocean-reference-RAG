@@ -1,0 +1,12 @@
+ID: W2535841754
+TITLE: Marine species in ambient low‐oxygen regions subject to double jeopardy impacts of climate change
+AUTHOR: ['Christine Stortini', 'Denis Chabot', 'Nancy L. Shackell']
+ABSTRACT:
+We have learned much about the impacts of warming on the productivity and distribution of marine organisms, but less about the impact of warming combined with other environmental stressors, including oxygen depletion. Also, the combined impact of multiple environmental stressors requires evaluation at the scales most relevant to resource managers. We use the Gulf of St. Lawrence, Canada, characterized by a large permanently hypoxic zone, as a case study. Species distribution models were used to predict the impact of multiple scenarios of warming and oxygen depletion on the local density of three commercially and ecologically important species. Substantial changes are projected within 20-40 years. A eurythermal depleted species already limited to shallow, oxygen-rich refuge habitat (Atlantic cod) may be relatively uninfluenced by oxygen depletion but increase in density within refuge areas with warming. A more stenothermal, deep-dwelling species (Greenland halibut) is projected to lose ~55% of its high-density areas under the combined impacts of warming and oxygen depletion. Another deep-dwelling, more eurythermal species (Northern shrimp) would lose ~4% of its high-density areas due to oxygen depletion alone, but these impacts may be buffered by warming, which may increase density by 8% in less hypoxic areas, but decrease density by ~20% in the warmest parts of the region. Due to local climate variability and extreme events, and that our models cannot project changes in species sensitivity to hypoxia with warming, our results should be considered conservative. We present an approach to effectively evaluate the individual and cumulative impacts of multiple environmental stressors on a species-by-species basis at the scales most relevant to managers. Our study may provide a basis for work in other low-oxygen regions and should contribute to a growing literature base in climate science, which will continue to be of support for resource managers as climate change accelerates.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Climate change', 'Double jeopardy', 'Environmental science', 'Climatology', 'Ecology', 'Geology', 'Biology', 'Political science', 'Law']

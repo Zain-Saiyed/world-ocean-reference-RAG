@@ -1,0 +1,12 @@
+ID: W2766679364
+TITLE: Deep risks from offshore development
+AUTHOR: ['Ângelo F. Bernardino', 'Paulo Yukio Gomes Sumida']
+ABSTRACT:
+Brazil's government is reopening bidding rounds for deep-sea oil and gas exploration after 4 years of economic and political turmoil. According to its ambitious 4-year plan ([ 1 ][1]), through which the government expects to profit from licenses and production royalties, Brazil will lease hundreds
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Submarine pipeline', 'Oceanography', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2924941171
+TITLE: Global ecological, social and economic impacts of marine plastic
+AUTHOR: ['Nicola Beaumont', 'Margrethe Aanesen', 'Melanie C. Austen', 'Tobias Börger', 'James R. Clark', 'Matthew Cole', 'Tara Hooper', 'Penelope K. Lindeque', 'Christine Pascoe', 'Kayleigh J. Wyles']
+ABSTRACT:
+This research takes a holistic approach to considering the consequences of marine plastic pollution. A semi-systematic literature review of 1191 data points provides the basis to determine the global ecological, social and economic impacts. An ecosystem impact analysis demonstrates that there is global evidence of impact with medium to high frequency on all subjects, with a medium to high degree of irreversibility. A novel translation of these ecological impacts into ecosystem service impacts provides evidence that all ecosystem services are impacted to some extent by the presence of marine plastic, with a reduction in provision predicted for all except one. This reduction in ecosystem service provision is evidenced to have implications for human health and wellbeing, linked particularly to fisheries, heritage and charismatic species, and recreation.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 515
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Recreation', 'Ecosystem services', 'Ecosystem', 'Marine ecosystem', 'Environmental resource management', 'Economic impact analysis', 'Business', 'Environmental planning', 'Natural resource economics', 'Ecology', 'Environmental science', 'Economics', 'Biology', 'Microeconomics']

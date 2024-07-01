@@ -1,0 +1,12 @@
+ID: W2974125258
+TITLE: Airgun blasts used in marine seismic surveys have limited effects on mortality, and no sublethal effects on behaviour or gene expression, in the copepod Calanus finmarchicus
+AUTHOR: ['David M. Fields', 'Nils Olav Handegard', 'John Dalen', 'Christiane Eichner', 'Ketil Malde', 'Ørjan Karlsen', 'Anne Berit Skiftesvik', 'Caroline Durif', 'Howard I. Browman']
+ABSTRACT:
+Abstract Seismic surveys use airguns that emit low frequency high magnitude sound to detect subsea resources and to map seabed geology. The effect of seismic blasts on Calanus spp., a key food source for commercially important fish, was assessed in field experiments. Immediate mortality of copepods was significantly different from controls at distances of 5 m or less from the airguns. Mortality 1 week after the airgun blast was significantly higher—by 9% relative to controls—in the copepods placed 10 m from the airgun blast but was not significantly different from the controls at a distance of 20 m from the airgun blast. The increase in mortality—relative to controls—did not exceed 30% at any distance from the airgun blast. Only two genes changed in response to the airgun blast; however, their function is unknown. There were no sublethal effects of the seismic blasts on the escape performance or the sensory threshold needed to initiate an escape response at any of the distances from the airgun blast that were tested. Results from these experiments suggest that seismic blasts have limited effects on the mortality or escape response of Calanus sp. within 10 m of the blast and no measurable impact at greater distances.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/76/7/2033/31731333/fsz126.pdf
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Calanus finmarchicus', 'Copepod', 'Fish <Actinopterygii>', 'Oceanography', 'Subsea', 'Biology', 'Fishery', 'Environmental science', 'Geology', 'Zoology', 'Crustacean']

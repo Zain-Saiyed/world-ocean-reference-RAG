@@ -1,0 +1,12 @@
+ID: W1970438066
+TITLE: Seamount Fisheries: Do They Have a Future?
+AUTHOR: ['Tony J. Pitcher', 'Malcolm R. Clark', 'Telmo Morato', 'R. Watson']
+ABSTRACT:
+i N T h e s e a yellowmouth barracuda (Sphyraena viridensis) on top of Princesa alice seamount (azores, Northeast atlantic).
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/23-1_pitcher1.pdf
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seamount', 'Fishery', 'Oceanography', 'Environmental science', 'Geology', 'Biology']

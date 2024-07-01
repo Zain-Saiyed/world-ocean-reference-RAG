@@ -1,0 +1,12 @@
+ID: W2081819247
+TITLE: Temporal variability in polychaete assemblages of the abyssal NE Atlantic Ocean
+AUTHOR: ['Eulogio H. Soto', 'Gordon L.J. Paterson', 'David Billett', 'L. E. Hawkins', 'Joëlle Galéron', 'Myriam Sibuet']
+ABSTRACT:
+Temporal variability in deep-sea polychaete assemblages was assessed at the Porcupine Abyssal Plain Sustained Observatory, NE Atlantic, over a 9-year period (eight cruises between August 1989 and September 1998). The polychaete communities were characterized by large number of individuals (abundance) and high family richness. The highest abundances occurred in the upper 1 cm sediment layer (53.2% of total abundance). The most abundant families were the Cirratulidae, Spionidae, Opheliidae and Paraonidae. Surface deposit feeders were the dominant trophic group (67.4% of total abundance). Significant temporal variability was evident in polychaete abundance with significant differences in polychaete abundance between sampling periods (cruises; p<0.01). Stepwise increases in abundance in September 1996 and March 1997 coincided with similar increases in abundance in large invertebrates (megafauna) in the same area (known as the ‘Amperima Event’ after a species of holothurian that increased in abundance by over three orders of magnitude). Similar patterns were observed for abundances across different layers of the sediment, main families and trophic groups showing significant differences between cruises (p<0.05). A comparison of samples taken (1) before the ‘Amperima Event’ (1989–1994) and (2) during the ‘Amperima Event’ (1996–1998) showed significant differences in the polychaete abundance in the upper 3 cm of the sediment. There were significant differences in some trophic groups (predators, deposit feeders and burrowers) and the dominant families (Cirratulidae, Spionidae and Opheliidae). Not all elements of the polychaete community showed a response (e.g. the Paraonidae). Changes in surface deposit feeders were particularly evident. The temporal variability is likely to be related to seasonal and interannual variability in organic matter input. Greater food supply in some years may allow the growth and development of deposit-feeding polychaetes.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Polychaete', 'Abyssal zone', 'Oceanography', 'Geology', 'Geography', 'Fishery', 'Biology']

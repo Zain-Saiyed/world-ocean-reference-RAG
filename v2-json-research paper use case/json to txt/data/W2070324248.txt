@@ -1,0 +1,12 @@
+ID: W2070324248
+TITLE: Nitrogen over enrichment in subtropical Pearl River estuarine coastal waters: Possible causes and consequences
+AUTHOR: ['Kedong Yin', 'Paul J. Harrison']
+ABSTRACT:
+Hong Kong is surrounded by estuarine, coastal and oceanic waters. In this study, monthly averages over a 10 year time series of salinity, temperature, chlorophyll a (chl a), dissolved oxygen (DO), dissolved inorganic nitrogen (DIN), silicate (SiO4) and orthophosphate (PO4) at three representative stations around Hong Kong were used to examine if excess nitrogen in estuarine influenced waters is due to P limitation. The monthly distribution clearly shows the dominant influence of the seasonal change in river discharge in the Pearl River estuary and adjacent coastal waters. In winter, the river discharge is small and more oceanic waters are dominant and as a result, salinity is high, and chlorophyll and nutrients are low. In summer, when the river discharge is high, salinity decreases and nutrients increase. DIN is very high, reaching 100 μM in the estuary. This indicates over enrichment of nitrogen relative to P and consequently there is an excess of N in coastal waters of Hong Kong. P remains low (∼1 μM) and can potentially limit both phytoplankton biomass and N utilization which was demonstrated in field incubation experiments. P limitation would result in excess N being left in the estuarine influenced waters south of Hong Kong. Phosphate concentration is lower in the Pearl River estuary than in many other eutrophied estuaries. Therefore, this relatively low PO4 concentration should be a significant factor limiting a further increase in the magnitude of algal biomass and in the degree of eutrophication in the Pearl River estuary. The export of the excess N offshore into the northern South China Sea may result in an increase in the size of the region that is P limited in summer.
+
+SOURCE: Continental shelf research
+PDF URL: None
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Estuary', 'Environmental science', 'Salinity', 'Eutrophication', 'Oceanography', 'Chlorophyll a', 'Phytoplankton', 'Nutrient', 'Discharge', 'Biomass (ecology)', 'Pearl', 'Hydrology (agriculture)', 'Geology', 'Ecology', 'Drainage basin', 'Geography', 'Chemistry', 'Biology', 'Biochemistry', 'Cartography', 'Geotechnical engineering', 'Archaeology']

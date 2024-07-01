@@ -1,0 +1,12 @@
+ID: W1608807115
+TITLE: Distribution of diverse nitrogen fixers in the global ocean
+AUTHOR: ['Fanny Monteiro', 'Mick Follows', 'Stephanie Dutkiewicz']
+ABSTRACT:
+We employ a global three‐dimensional model to simulate diverse phytoplanktonic diazotrophs (nitrogen fixers) in the oceans. In the model, the structure of the marine phytoplankton community self‐assembles from a large number of potentially viable physiologies. Amongst them, analogs of Trichodesmium , unicellular diazotrophs and diatom‐diazotroph associations (DDA) are successful and abundant. The simulated biogeography and nitrogen fixation rates of the modeled diazotrophs compare favorably with a compilation of published observations, which includes both traditional and molecular measurements of abundance and activity of marine diazotrophs. In the model, the diazotroph analogs occupy warm subtropical and tropical waters, with higher concentrations and nitrogen fixation rates in the tropical Atlantic Ocean and the Arabian Sea/Northern Indian Ocean, and lower values in the tropical and subtropical South Pacific Ocean. The three main diazotroph types typically co‐exist in the model, although Trichodesmium analogs dominate the diazotroph population in much of the North and tropical Atlantic Ocean and the Arabian Sea, while unicellular‐diazotroph analogs dominate in the South Atlantic, Pacific and Indian oceans. This pattern reflects the relative degree of nutrient limitation by iron or phosphorus. The model suggests in addition that unicellular diazotrophs could add as much new nitrogen to the global ocean as Trichodesmium .
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2009GB003731
+CITED BY COUNT: 110
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Diazotroph', 'Trichodesmium', 'Oceanography', 'Nitrogen fixation', 'Phytoplankton', 'Subtropics', 'Biology', 'Nutrient', 'Geology', 'Ecology', 'Bacteria', 'Paleontology']

@@ -1,0 +1,12 @@
+ID: W4231783037
+TITLE: Brazilian Estuaries
+AUTHOR: []
+ABSTRACT:
+This book presents the main drivers of benthic structure and processes in estuaries and assesses the influence of natural and human disturbance.
+
+SOURCE: Brazilian marine biodiversity
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2018
+TYPE: book
+CONCEPTS: ['Estuary', 'Benthic zone', 'Disturbance (geology)', 'Geography', 'Natural (archaeology)', 'Ecology', 'Environmental science', 'Fishery', 'Oceanography', 'Geology', 'Biology', 'Archaeology', 'Paleontology']

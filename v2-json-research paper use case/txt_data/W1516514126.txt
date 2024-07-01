@@ -1,0 +1,12 @@
+ID: W1516514126
+TITLE: Marine Benthic Habitats and Seabed Suitability Mapping for Potential Ocean Current Energy Siting Offshore Southeast Florida
+AUTHOR: ['Amanda Mulcan', 'Diana Mitsova', 'Tobin Hindle', 'Howard P. Hanson', 'Camille Coley']
+ABSTRACT:
+This study examines the legal framework for ocean current energy policy and regulation to develop a metric for assessing the biological and geological characteristics of a seabed area with respect to the siting of OCE devices, a framework of criteria by which to assess seabed suitability (seabed suitability framework) that can facilitate the siting, and implementation of ocean current energy (OCE) projects. Seafloor geology and benthic biological data were analyzed in conjunction with seafloor core sample geostatistical interpolation to locate suitable substrates for OCE anchoring. Existing submarine cable pathways were considered to determine pathways for power transmission cables that circumvent biologically sensitive areas. Suitability analysis indicates that areas east of the Miami Terrace and north of recently identified deep-sea coral mounds are the most appropriate for OCE siting due to abundance of sand/sediment substrate, existing underwater cable route access, and minimal biological presence (i.e., little to no benthic communities). Further reconnaissance requires higher resolution maps of geological substrate and benthic community locations to identify specific OCE development locations, classify benthic conditions, and minimize potentially negative OCE environmental impacts.
+
+SOURCE: Journal of marine science and engineering
+PDF URL: https://www.mdpi.com/2077-1312/3/2/276/pdf?version=1432626229
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Seabed', 'Seafloor spreading', 'Oceanography', 'Submarine pipeline', 'Marine spatial planning', 'Current (fluid)', 'Geology', 'Submarine', 'Environmental science', 'Underwater', 'Benthos']

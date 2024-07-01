@@ -1,0 +1,12 @@
+ID: W2965829869
+TITLE: Three decades of heat stress exposure in Caribbean coral reefs: a new regional delineation to enhance conservation
+AUTHOR: ['Aarón Israel Muñiz-Castillo', 'Andrea Rivera-Sosa', 'Iliana Chollett', 'C. Mark Eakin', 'Luisa Andrade‐Gómez', 'Melanie McField', 'Jesús Ernesto Arias‐González']
+ABSTRACT:
+Abstract Increasing heat stress due to global climate change is causing coral reef decline, and the Caribbean has been one of the most vulnerable regions. Here, we assessed three decades (1985–2017) of heat stress exposure in the wider Caribbean at ecoregional and local scales using remote sensing. We found a high spatial and temporal variability of heat stress, emphasizing an observed increase in heat exposure over time in most ecoregions, especially from 2003 identified as a temporal change point in heat stress. A spatiotemporal analysis classified the Caribbean into eight heat-stress regions offering a new regionalization scheme based on historical heat exposure patterns. The temporal analysis confirmed the years 1998, 2005, 2010–2011, 2015 and 2017 as severe and widespread Caribbean heat-stress events and recognized a change point in 2002–2004, after which heat exposure has been frequent in most subsequent years. Major heat-stress events may be associated with El Niño Southern Oscillation (ENSO), but we highlight the relevance of the long-term increase in heat exposure in most ecoregions and in all ENSO phases. This work produced a new baseline and regionalization of heat stress in the basin that will enhance conservation and planning efforts underway.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-47307-0.pdf
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Heat stress', 'Climate change', 'Coral reef', 'Coral', 'Climatology', 'Caribbean region', 'Reef', 'Geography', 'Oceanography', 'Environmental science', 'Baseline (sea)', 'Geology', 'Atmospheric sciences', 'Linguistics', 'Philosophy', 'Latin Americans']

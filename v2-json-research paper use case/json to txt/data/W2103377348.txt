@@ -1,0 +1,12 @@
+ID: W2103377348
+TITLE: Hypoxia, Nitrogen, and Fisheries: Integrating Effects Across Local and Global Landscapes
+AUTHOR: ['Denise L. Breitburg', 'Darryl W. Hondorp', 'Lori A. Davias', 'Robert J. Díaz']
+ABSTRACT:
+Anthropogenic nutrient enrichment and physical characteristics result in low dissolved oxygen concentrations (hypoxia) in estuaries and semienclosed seas throughout the world. Published research indicates that within and near oxygen-depleted waters, finfish and mobile macroinvertebrates experience negative effects that range from mortality to altered trophic interactions. Chronic exposure to hypoxia and fluctuating oxygen concentrations impair reproduction, immune responses, and growth. We present an analysis of hypoxia, nitrogen loadings, and fisheries landings in 30 estuaries and semienclosed seas worldwide. Our results suggest that hypoxia does not typically reduce systemwide fisheries landings below what would be predicted from nitrogen loadings, except where raw sewage is released or particularly sensitive species lose critical habitat. A number of compensatory mechanisms limit the translation of local-scale effects of hypoxia to the scale of the whole system. Hypoxia is, however, a serious environmental challenge that should be considered in fisheries management strategies and be a direct target of environmental restoration.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 314
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Hypoxia (environmental)', 'Estuary', 'Environmental science', 'Habitat', 'Ecology', 'Fishery', 'Trophic level', 'Eutrophication', 'Nutrient', 'Oceanography', 'Biology', 'Oxygen', 'Geology', 'Chemistry', 'Organic chemistry']

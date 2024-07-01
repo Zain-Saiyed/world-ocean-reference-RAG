@@ -1,0 +1,12 @@
+ID: W2883485522
+TITLE: The Location and Protection Status of Earth’s Diminishing Marine Wilderness
+AUTHOR: ['Kendall R. Jones', 'Carissa J. Klein', 'Benjamin S. Halpern', 'Oscar Venter', 'Hedley S. Grantham', 'Caitlin D. Kuempel', 'Nicole Shumway', 'Alan M. Friedlander', 'Hugh P. Possingham', 'James Watson']
+ABSTRACT:
+As human activities increasingly threaten biodiversity [1, 2], areas devoid of intense human impacts are vital refugia [3]. These wilderness areas contain high genetic diversity, unique functional traits, and endemic species [4-7]; maintain high levels of ecological and evolutionary connectivity [8-10]; and may be well placed to resist and recover from the impacts of climate change [11-13]. On land, rapid declines in wilderness [3] have led to urgent calls for its protection [3, 14]. In contrast, little is known about the extent and protection of marine wilderness [4, 5]. Here we systematically map marine wilderness globally by identifying areas that have both very little impact (lowest 10%) from 15 anthropogenic stressors and also a very low combined cumulative impact from these stressors. We discover that ∼13% of the ocean meets this definition of global wilderness, with most being located in the high seas. Recognizing that human influence differs across ocean regions, we repeat the analysis within each of the 16 ocean realms [15]. Realm-specific wilderness extent varies considerably, with >16 million km2 (8.6%) in the Warm Indo-Pacific, down to <2,000 km2 (0.5%) in Temperate Southern Africa. We also show that the marine protected area estate holds only 4.9% of global wilderness and 4.1% of realm-specific wilderness, very little of which is in biodiverse ecosystems such as coral reefs. Proactive retention of marine wilderness should now be incorporated into global strategies aimed at conserving biodiversity and ensuring that large-scale ecological and evolutionary processes continue. VIDEO ABSTRACT.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982218307723/pdf
+CITED BY COUNT: 171
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Wilderness', 'Biodiversity', 'Wilderness area', 'Ecology', 'Marine life', 'Marine protected area', 'Marine reserve', 'Ecosystem', 'Marine ecosystem', 'Biology', 'Geography', 'Environmental resource management', 'Habitat', 'Environmental science']

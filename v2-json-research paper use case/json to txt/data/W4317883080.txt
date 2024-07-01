@@ -1,0 +1,12 @@
+ID: W4317883080
+TITLE: Sightings of a bowhead whale (Balaena mysticetus) in the Gulf of Maine and its interactions with other baleen whales
+AUTHOR: ['Corey M. Accardo', 'Laura C. Ganley', 'Moira W. Brown', 'PeteR A. Duley', 'J. C. George', 'Randall R. Reeves', 'Mads Peter Heide‐Jørgensen', 'Cynthia T. Tynan', 'Charles A. Mayo']
+ABSTRACT:
+Bowhead whales generally migrate into high Arctic waters in the summer months and move to lower latitudes in the wintertime. During the 1800s and early 1900s commercial whaling greatly reduced the numbers of bowhead whales in waters adjacent to the North Atlantic Ocean. In recent decades their numbers have been increasing. Thirteen sightings of a bowhead whale were recorded in four areas of the Gulf of Maine in 2012, 2014, and 2017 between latitudes 44°43’N and 41°36’N, far south of the normal range (54°N) for this species. Photographs obtained during these sightings were compared by experienced photo analysts and, based on scarring patterns, the sightings were confirmed to be of the same individual. The bowhead whale was observed alone, in addition to interacting in a social group and engaged in coordinated feeding with other mysticetes at times. The feeding and social behaviour of the bowhead whale was typical for the species but well south of its normal Arctic waters range and in the absence of conspecifics
+
+SOURCE: The journal of cetacean research and management
+PDF URL: https://journal.iwc.int/index.php/jcrm/article/download/412/166
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2023
+TYPE: article
+CONCEPTS: ['Whaling', 'Whale', 'Baleen', 'Arctic', 'Oceanography', 'Fishery', 'Range (aeronautics)', 'Latitude', 'Geography', 'Right whale', 'The arctic', 'Cetacea', 'Biology', 'Geology', 'Materials science', 'Geodesy', 'Composite material']

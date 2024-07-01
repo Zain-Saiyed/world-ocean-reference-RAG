@@ -1,0 +1,12 @@
+ID: W2026049117
+TITLE: Chinese coastal seas are facing heavy atmospheric nitrogen deposition
+AUTHOR: ['Xiaosheng Luo', 'Aohan Tang', 'Kun� Shi', 'Lianghuan Wu', 'W Q Li', 'Weiqi Shi', 'Xiaofei Shi', 'J. W. Erisman', 'Fusuo Zhang', 'X J Liu']
+ABSTRACT:
+As the amount of reactive nitrogen (N) generated and emitted increases the amount of N deposition and its contribution to eutrophication or harmful algal blooms in the coastal zones are becoming issues of environmental concern. To quantify N deposition in coastal seas of China we selected six typical coastal sites from North to South in 2011. Concentrations of NH3, HNO3, NO2, particulate NH4+ (pNH4+) and pNO3− ranged from 1.97– 4.88, 0.46 –1.22, 3.03 –7.09, 2.24 – 4.90 and 1.13–2.63 μg N m−3 at Dalian (DL), Changdao (CD), Linshandao (LS), Fenghua (FH), Fuzhou (FZ), and Zhanjiang (ZJ) sites, respectively. Volume-weighted NO3−–N and NH4+–N concentrations in precipitation varied from 0.46 to 1.67 and 0.47 to 1.31 mg N L−1 at the six sites. Dry, wet and total deposition rates of N were 7.8–23.1, 14.2–25.2 and 22.0 – 44.6 kg N ha−1 yr−1 across the six coastal sites. Average N dry deposition accounted for 45.4% of the total deposition and NH3 and pNH4+ contributed to 76.6% of the dry deposition. If we extrapolate our total N deposition of 33.9 kg N ha−1 yr−1 to the whole Chinese coastal sea area (0.40 million km2), total N deposition amounts to 1.36 Tg N yr−1, a large external N input to surrounding marine ecosystems.
+
+SOURCE: Environmental research letters
+PDF URL: https://iopscience.iop.org/article/10.1088/1748-9326/9/9/095007/pdf
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Environmental science', 'Deposition (geology)', 'Nitrogen', 'Oceanography', 'Environmental chemistry', 'Geology', 'Chemistry', 'Geomorphology', 'Sediment', 'Organic chemistry']

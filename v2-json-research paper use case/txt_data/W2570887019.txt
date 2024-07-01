@@ -1,0 +1,12 @@
+ID: W2570887019
+TITLE: The Cost of Reducing the North Atlantic Ocean Biological Carbon Pump
+AUTHOR: ['Manuel Barangé', 'Momme Butenschön', 'Andrew Yool', 'Nicola Beaumont', 'José António Fernandes', 'Adrian P. Martin', 'J. Icarus Allen']
+ABSTRACT:
+To predict the impacts of climate change it is essential to understand how anthropogenic change alters the balance between atmosphere, ocean and terrestrial reservoirs of carbon. It has been estimated that natural atmospheric concentrations of CO2 are almost 200ppm lower than they would be without the transport of organic material produced in the surface ocean to depth, an ecosystem service driven by mechanisms collectively referred to as the biological carbon pump. Here we quantify potential reductions in carbon sequestration fluxes in the North Atlantic Ocean through the biological carbon pump over the 21st century, using two independent biogeochemical models, driven by low and high IPCC AR5 carbon emission scenarios. The carbon flux at 1000m (the depth at which it is assumed that carbon is sequestered) in the North Atlantic was estimated to decline between 27-43% by the end of the century, depending on the biogeochemical model and the emission scenario considered. In monetary terms, the value of this loss in carbon sequestration service in the North Atlantic was estimated to range between US$170-US$3,000 billion in abatement (mitigation) costs and US$23-US$401billion in social (adaptation) costs, over the 21st century. Our results challenge the frequent assumption that coastal habitats store more significant amounts of carbon and are under greater threat. We highlight the largely unrecognized economic importance of the natural, blue carbon sequestration service provided by the open ocean, which is predicted to undergo significant anthropogenic-driven change.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2016.00290/pdf
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Environmental science', 'Carbon sequestration', 'Climate change', 'Atmospheric carbon cycle', 'Blue carbon', 'Carbon fibers', 'Biological pump', 'Oceanography', 'Greenhouse gas', 'Ecosystem', 'Carbon cycle', 'Atmospheric sciences', 'Ecology', 'Carbon dioxide', 'Geology', 'Biology', 'Composite number', 'Composite material', 'Materials science']

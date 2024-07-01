@@ -1,0 +1,12 @@
+ID: W2146858498
+TITLE: Vulnerability of coastal ecosystems to changes in harmful algal bloom distribution in response to climate change: projections based on model analysis
+AUTHOR: ['Patricia M. Glibert', 'J. Icarus Allen', 'Yuri Artioli', 'Arthur H.W. Beusen', 'Lex Bouwman', 'James Harle', 'Robert R. Holmes', 'Jason Holt']
+ABSTRACT:
+Abstract Harmful algal blooms ( HAB s), those proliferations of algae that can cause fish kills, contaminate seafood with toxins, form unsightly scums, or detrimentally alter ecosystem function have been increasing in frequency, magnitude, and duration worldwide. Here, using a global modeling approach, we show, for three regions of the globe, the potential effects of nutrient loading and climate change for two HAB genera, pelagic Prorocentrum and Karenia , each with differing physiological characteristics for growth. The projections (end of century, 2090–2100) are based on climate change resulting from the A1B scenario of the Intergovernmental Panel on Climate Change Institut Pierre Simon Laplace Climate Model ( IPCC , IPSL ‐ CM 4), applied in a coupled oceanographic‐biogeochemical model, combined with a suite of assumed physiological ‘rules’ for genera‐specific bloom development. Based on these models, an expansion in area and/or number of months annually conducive to development of these HAB s along the NW European Shelf‐Baltic Sea system and NE Asia was projected for both HAB genera, but no expansion ( Prorocentrum spp.), or actual contraction in area and months conducive for blooms ( Karenia spp.), was projected in the SE Asian domain. The implications of these projections, especially for Northern Europe, are shifts in vulnerability of coastal systems to HAB events, increased regional HAB impacts to aquaculture, increased risks to human health and ecosystems, and economic consequences of these events due to losses to fisheries and ecosystem services.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 182
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Climate change', 'Algal bloom', 'Ecosystem', 'Bloom', 'Overfishing', 'Environmental science', 'Marine ecosystem', 'Oceanography', 'Representative Concentration Pathways', 'Ecology', 'Geography', 'Fishery', 'Climate model', 'Phytoplankton', 'Biology', 'Nutrient', 'Fishing', 'Geology']

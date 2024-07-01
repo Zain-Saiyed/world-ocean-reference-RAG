@@ -1,0 +1,12 @@
+ID: W2124565737
+TITLE: A Global Map of Human Impact on Marine Ecosystems
+AUTHOR: ['Benjamin S. Halpern', 'Shaun Walbridge', 'Kimberly A. Selkoe', 'Carrie V. Kappel', 'Fiorenza Micheli', 'Caterina D’Agrosa', 'John F. Bruno', 'Kenneth S. Casey', 'Colin Ebert', 'Helen Fox', 'Rod Fujita', 'Dennis Heinemann', 'Hunter S. Lenihan', 'Elizabeth M. P. Madin', 'Matthew T. Perry', 'Elizabeth R. Selig', 'Mark Spalding', 'Robert S. Steneck', 'Reg Watson']
+ABSTRACT:
+The management and conservation of the world's oceans require synthesis of spatial data on the distribution and intensity of human activities and the overlap of their impacts on marine ecosystems. We developed an ecosystem-specific, multiscale spatial model to synthesize 17 global data sets of anthropogenic drivers of ecological change for 20 marine ecosystems. Our analysis indicates that no area is unaffected by human influence and that a large fraction (41%) is strongly affected by multiple drivers. However, large areas of relatively little human impact remain, particularly near the poles. The analytical process and resulting maps provide flexible tools for regional and global efforts to allocate conservation resources; to implement ecosystem-based management; and to inform marine spatial planning, education, and basic research.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 5310
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Ecosystem', 'Environmental resource management', 'Marine spatial planning', 'Marine conservation', 'Ecosystem-based management', 'Marine protected area', 'Ecosystem management', 'Process (computing)', 'Environmental science', 'Common spatial pattern', 'Global change', 'Spatial ecology', 'Ecology', 'Computer science', 'Climate change', 'Biology', 'Habitat', 'Operating system']

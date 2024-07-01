@@ -1,0 +1,12 @@
+ID: W2135930003
+TITLE: Climate, carbon cycling, and deep-ocean ecosystems
+AUTHOR: ['Ken Smith', 'Henry A. Ruhl', 'Brian J. Bett', 'David Billett', 'Richard S. Lampitt', 'Ronald S. Kaufmann']
+ABSTRACT:
+Climate variation affects surface ocean processes and the production of organic carbon, which ultimately comprises the primary food supply to the deep-sea ecosystems that occupy ≈60% of the Earth's surface. Warming trends in atmospheric and upper ocean temperatures, attributed to anthropogenic influence, have occurred over the past four decades. Changes in upper ocean temperature influence stratification and can affect the availability of nutrients for phytoplankton production. Global warming has been predicted to intensify stratification and reduce vertical mixing. Research also suggests that such reduced mixing will enhance variability in primary production and carbon export flux to the deep sea. The dependence of deep-sea communities on surface water production has raised important questions about how climate change will affect carbon cycling and deep-ocean ecosystem function. Recently, unprecedented time-series studies conducted over the past two decades in the North Pacific and the North Atlantic at &gt;4,000-m depth have revealed unexpectedly large changes in deep-ocean ecosystems significantly correlated to climate-driven changes in the surface ocean that can impact the global carbon cycle. Climate-driven variation affects oceanic communities from surface waters to the much-overlooked deep sea and will have impacts on the global carbon cycle. Data from these two widely separated areas of the deep ocean provide compelling evidence that changes in climate can readily influence deep-sea processes. However, the limited geographic coverage of these existing time-series studies stresses the importance of developing a more global effort to monitor deep-sea ecosystems under modern conditions of rapidly changing climate.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 203
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Deep sea', 'Environmental science', 'Carbon cycle', 'Oceanography', 'Ecosystem', 'Climate change', 'Global warming', 'Effects of global warming on oceans', 'Ocean heat content', 'Global change', 'Phytoplankton', 'Stratification (seeds)', 'Marine ecosystem', 'Sea surface temperature', 'Climatology', 'Geology', 'Nutrient', 'Ecology', 'Biology', 'Seed dormancy', 'Botany', 'Germination', 'Dormancy']

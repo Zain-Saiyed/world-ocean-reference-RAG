@@ -1,0 +1,12 @@
+ID: W2068717545
+TITLE: The Impact of Tellurium Supply on Cadmium Telluride Photovoltaics
+AUTHOR: ['Ken Zweibel']
+ABSTRACT:
+For decades, the material associated with photovoltaic (PV) cells has been silicon. However, after many years of development, cadmium telluride (CdTe) PV modules have become the lowest-cost producer of solar electricity, despite working at lower efficiency than crystalline silicon cells. CdTe sales are growing rapidly, but there is concern about projecting hundredfold increases in power production relative to current production with CdTe PV modules. One reason is that Te, a humble nonmetal that is actually abundant in the universe, is as rare as many of the precious metals recovered from Earth's crust ( 1 ). Furthermore, current technology now uses Te at rates that are substantial fractions of its supply. Here, I argue that the long-term potential for CdTe PV modules need not be bleak, given realistic developments in module technology and Te recovery.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 132
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Tellurium', 'Photovoltaics', 'Cadmium telluride photovoltaics', 'Cadmium', 'Environmental science', 'Materials science', 'Metallurgy', 'Photovoltaic system', 'Nanotechnology', 'Engineering', 'Electrical engineering']

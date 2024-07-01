@@ -1,0 +1,12 @@
+ID: W2792319002
+TITLE: Is it safe to go back into the water? A systematic review and meta-analysis of the risk of acquiring infections from recreational exposure to seawater
+AUTHOR: ['Anne Frances Clare Leonard', 'Andrew C. Singer', 'Obioha C. Ukoumunne', 'William H. Gaze', 'Ruth Garside']
+ABSTRACT:
+Numerous illnesses are associated with bathing in natural waters, although it is assumed that the risk of illness among bathers exposed to relatively clean waters found in high-income countries is negligible. A systematic review was carried out to quantify the increased risk of experiencing a range of adverse health outcomes among bathers exposed to coastal water compared with non-bathers.In all 6919 potentially relevant titles and abstracts were screened, and from these 40 studies were eligible for inclusion in the review. Odds ratios (OR) were extracted from 19 of these reports and combined in random-effect meta-analyses for the following adverse health outcomes: incident cases of any illness, ear infections, gastrointestinal illness and infections caused by specific microorganisms.There is an increased risk of experiencing symptoms of any illness [OR = 1.86, 95% confidence interval (CI): 1.31 to 2.64, P = 0.001] and ear ailments (OR = 2.05, 95% CI: 1.49 to 2.82, P < 0.001) in bathers compared with non-bathers. There is also an increased risk of experiencing gastrointestinal ailments (OR = 1.29, 95% CI: 1.12 to 1.49, P < 0.001).This is the first systematic review to evaluate evidence on the increased risk of acquiring illnesses from bathing in seawater compared with non-bathers. Our results support the notion that infections are acquired from bathing in coastal waters, and that bathers have a greater risk of experiencing a variety of illnesses compared with non-bathers.
+
+SOURCE: International journal of epidemiology
+PDF URL: https://academic.oup.com/ije/article-pdf/47/2/572/25088291/dyx281.pdf
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Bathing', 'Medicine', 'Odds ratio', 'Meta-analysis', 'Environmental health', 'Confidence interval', 'Seawater', 'Risk factor', 'Adverse effect', 'Internal medicine', 'Ecology', 'Biology', 'Pathology']

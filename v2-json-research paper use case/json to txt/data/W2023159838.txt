@@ -1,0 +1,12 @@
+ID: W2023159838
+TITLE: Organism life cycles, predation, and the structure of marine pelagic ecosystems
+AUTHOR: ['Peter G. Verity', 'Victor Smetacek']
+ABSTRACT:
+This paper explores the notion that the theoretical basis for contemporary research concerning the structure and function of marine pelagic ecosystems is self-limiting.While some findings such as the microbial food web have extended our knowledge of the biological components of the upper water column and their relationships to fluxes of materials and energy, they have not advanced our understanding of why specific pelagic forms occur in time and space, and why only some attain dominant status and contribute the bulk of biogenic fluxes emanating from the mixed layer.It is argued here that a major impediment to improved conceptual models is the historic focus on resource-dnven or 'bottom-up' factors as being the dominant variables structuring planktonic ecosystems.Evidence is presented that predation or 'top-down' trophic effects may be equally important in specifying the occurrence of particular taxa, the biomass within adjacent trophic levels, and the morphology of dominant herbivores and carnivores.It is suggested that key species, because of unique combinations of life history strategies, metabolic demands, and physiological performance, may exert a dominant role in the extent to which predatory interactions cascade through pelagic food webs.There is considerable evidence of evolution of predation avoidance strategies among phytoplankton and zooplankton.It is proposed that future research might profitably be directed toward the question of how the pelagic environment selects for life histories and morphologles of organisms under conditions when resource availability and predation are both significant structural buttresses.Methodological approaches should include detailed studies of dominant key taxa from different environments, with the goal of identifying the crlt~cal aspects of life history, behavior, or morphology which account for their success.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps/130/m130p277.pdf
+CITED BY COUNT: 594
+PUBLICATION YEAR: 1996
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Trophic level', 'Ecology', 'Trophic cascade', 'Food web', 'Marine ecosystem', 'Predation', 'Apex predator', 'Ecosystem', 'Biology', 'Zooplankton', 'Biomass (ecology)', 'Organism', 'Food chain', 'Paleontology']

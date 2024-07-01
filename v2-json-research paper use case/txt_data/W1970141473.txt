@@ -1,0 +1,12 @@
+ID: W1970141473
+TITLE: Advances in management of precious corals in the family Corallidae: are new measures adequate?
+AUTHOR: ['AW Bruckner']
+ABSTRACT:
+Precious corals in the family Corallidae have a long history of exploitation characterized by boom and bust cycles. Past approaches to manage these fisheries, including gear restrictions, limits on effort, defined fishing areas, quotas, and size limits, have been ineffective at preventing overharvest. The US and EU responded in 2007 and 2009 by proposing trade restrictions through a CITES Appendix II listing. The industry vehemently opposed this, claiming that available data do not meet the criteria for a CITES listing and advocating for local management. Yet, management measures implemented since 2009 fall short of conservation needs. In the Mediterranean, a recommended 10 mm minimum diameter was not adopted. A no fishing zone extends to 50 m instead of the recommended 80 m, but poaching in shallow water is widespread; new (deeper) areas are being exploited without initial stock assessments. Also in the Pacific, disconcerting trends are observed — the size structure of populations is being altered and landings consist of declining numbers of live corals. Unless harvest guidelines are revised using models which incorporate new information on biological attributes, genetics, and stock assessments, fished areas are likely to continue to be quickly depleted.
+
+SOURCE: Current opinion in environmental sustainability
+PDF URL: None
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['CITES', 'Bust', 'Boom', 'Fishing', 'Listing (finance)', 'Stock (firearms)', 'Fishery', 'Stock assessment', 'Marine conservation', 'Fisheries management', 'Business', 'Geography', 'Environmental resource management', 'Natural resource economics', 'Economics', 'Engineering', 'Biology', 'Finance', 'Archaeology', 'Environmental engineering']

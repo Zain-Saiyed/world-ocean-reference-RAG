@@ -1,0 +1,12 @@
+ID: W2931918020
+TITLE: Vertical distribution of microbial communities abundance and biomass in two NW Mediterranean Sea submarine canyons
+AUTHOR: ['Tommaso Diociaiuti', 'Fabrizio Bernardi Aubry', 'Serena Fonda Umani']
+ABSTRACT:
+The aim of the present study was to investigate the microbial community along the Ligurian coast corresponding to two marine canyons. The study considered pico-, nano- and micro-planktonic fractions, their abundances and composition. Temperature and salinity profiles along the water column showed the same trend at all stations and no significant difference was found among stations of the canyons' profiles and those of the adjacent slope. A similar trend for abundances and biomasses was observed at all stations: higher values were generally measured at surface and decreased with increasing depth; significant linear regression was highlighted in each of the three transects. Results of the distribution of all microbial heterotrophs from the surface down to 2500 m indicate that prey abundance was generally higher than the feeding threshold of predators; this evidence suggests that the interaction between different size classes is bottom-up regulated in the study area. The slight decrease of the ratio Heterotrophic Bacteria (HB) vs. Heterotrophic NanoFlagellates (HNF) and the weak increase of relative abundance of larger HNF size classes should be the sole evidence of the expected "canyon effect", and can be ascribed to the major input at the bottom of the canyon of particulate organic matter (POC) that can be used by heterotrophic nanoflagellates directly as a food source. Our results highlighted that the main pattern regulating community composition is depth, and that, in the aphotic layer, the different water masses (WM) present along the column, play a pivotal role in shaping the planktonic assemblage.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Submarine canyon', 'Water column', 'Plankton', 'Canyon', 'Oceanography', 'Environmental science', 'Transect', 'Abundance (ecology)', 'Mediterranean sea', 'Biomass (ecology)', 'Salinity', 'Ecology', 'Continental shelf', 'Heterotroph', 'Water mass', 'Mediterranean climate', 'Biology', 'Geology', 'Genetics', 'Geomorphology', 'Bacteria']

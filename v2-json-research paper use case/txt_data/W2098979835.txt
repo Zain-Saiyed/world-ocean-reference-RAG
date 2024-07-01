@@ -1,0 +1,12 @@
+ID: W2098979835
+TITLE: Feeding ecology of deep-sea seastars (Echinodermata: Asteroidea): a fatty-acid biomarker approach
+AUTHOR: ['KL Howell', 'DW Pond', 'David Billett', 'P.A. Tyler']
+ABSTRACT:
+Fatty-acid biomarkers and stomach content analysis were used to investigate the diets of 9 species of deep-sea seastar.Polyunsaturated fatty acids were the most abundant categories of fatty acid contained in the total lipids of all species.They were dominated by 20:5 (n-3) and 20:4 (n-6), with 22:6 (n-3) present in much lower proportions.Monounsaturated fatty acids were also abundant, particularly 20:1 (n-13) and (n-9).Odd-numbered, branched-chain fatty acids and non-methylene interrupted dienes (NMIDs) were present in relatively high levels in all species.Cluster and multidimensional scaling (MDS) analyses of the fatty acid composition separated the seastar species into 3 trophic groups; suspension feeders, predators/scavengers, and mud ingesters.Suspension feeders showed greatest reliance on photosynthetic carbon as indicated by the abundance of fatty-acid biomarkers characteristic of photosynthetic microplankton.By contrast, mud ingesters were found to rely heavily on heterotrophic bacterial carbon, containing high percentages of 18:1 (n-7) and NMIDs.Predator/scavengers occupied a trophic position between the suspension feeders and mud ingesters.Zoroaster longicauda, an asteroid of unknown diet, had a similar fatty acid composition to the 3 suspension feeders, Freyella elegans, Brisingella coronata and Brisinga endecacnemos.While the suspension feeders are specialists on benthopelagic copepods, the preferred prey of Z. longicauda is unknown, but is likely to be very similar to that of the suspension feeders.Stomach content analysis revealed the diet of Z. longicauda also includes benthic echinoderms and crustaceans.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2003/255/m255p193.pdf
+CITED BY COUNT: 136
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Fatty acid', 'Biology', 'Trophic level', 'Polyunsaturated fatty acid', 'Ecology', 'Heterotroph', 'Biochemistry', 'Bacteria', 'Genetics']

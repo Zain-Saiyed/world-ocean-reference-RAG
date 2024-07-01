@@ -1,0 +1,12 @@
+ID: W2802859957
+TITLE: The digital frontiers of fisheries governance: fish attraction devices, drones and satellites
+AUTHOR: ['Hilde Toonen', 'Simon R. Bush']
+ABSTRACT:
+High seas fisheries remain one of the least transparent global production practices. Distance from shore, coupled with the highly mobile nature of fish stocks, has put attention on new monitoring, control and surveillance technologies to collect spatially referenced data on the location of fishing vessels, gears and even fish stocks and eradicate illegal, unreported and unregulated fishing activity. Faced with their nascent implementation, research is yet to address how these technologies are reconfiguring the roles and responsibilities of public and private actors involved in fisheries management, including who collects and controls fisheries related information. In this paper, we compare three monitoring, control and surveillance technologies that are gaining traction in fisheries; the use of private fish attraction devices in oceanic tuna fisheries, unmanned public drones for marine surveillance and global satellite monitoring of fishing vessels. In doing so, we question how different configurations of actors are structuring flows of information and with what effect on sustainability performance of high seas fisheries. We also explore how these technologies configure new (and imagined) geographies of high seas fisheries which challenge existing modes of fisheries management.
+
+SOURCE: Journal environmental policy planning/Journal of environmental policy and planning
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/1523908X.2018.1461084?needAccess=true
+CITED BY COUNT: 77
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishing', 'Fishery', 'Fisheries management', 'Business', 'Fish stock', 'Drone', 'Fisheries law', 'Exclusive economic zone', 'Tuna', 'Corporate governance', 'Fisheries science', 'Sustainability', 'Control (management)', 'Environmental resource management', 'Fish <Actinopterygii>', 'Economics', 'Ecology', 'Finance', 'Genetics', 'Biology', 'Management']

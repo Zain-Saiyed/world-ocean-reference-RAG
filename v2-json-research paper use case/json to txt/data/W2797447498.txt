@@ -1,0 +1,12 @@
+ID: W2797447498
+TITLE: Assessment of tropical cyclone disaster loss in Guangdong Province based on combined model
+AUTHOR: ['Shihong Chen', 'Danling Tang', 'Xiaoqing Liu', 'Chunhua Hu']
+ABSTRACT:
+Formulae display:?Mathematical formulae have been encoded as MathML and are displayed in this HTML version using MathJax in order to improve their display. Uncheck the box to turn MathJax off. This feature requires Javascript. Click on a formula to zoom.
+
+SOURCE: Geomatics, natural hazards & risk
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/19475705.2018.1447024?needAccess=true
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mean squared error', 'Tropical cyclone', 'Artificial neural network', 'Statistics', 'Regression analysis', 'Mathematics', 'Computer science', 'Geography', 'Meteorology', 'Machine learning']

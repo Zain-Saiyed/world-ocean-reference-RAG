@@ -1,0 +1,12 @@
+ID: W2528859876
+TITLE: Empirical observations of the spawning migration of European eels: The long and dangerous road to the Sargasso Sea
+AUTHOR: ['David Righton', 'Håkan Westerberg', 'Éric Feunteun', 'Finn Økland', 'Patrick Gargan', 'Elsa Amilhat', 'Julian D. Metcalfe', 'Javier Lobón‐Cerviá', 'Niklas Sjöberg', 'Janek Simon', 'Anthony Acou', 'Marisa Vedor', 'Alan Walker', 'Thomas Trancart', 'Uwe Brämick', 'Kim Aarestrup']
+ABSTRACT:
+The spawning migration of the European eel (Anguilla anguilla L.) to the Sargasso Sea is one of the greatest animal migrations. However, the duration and route of the migration remain uncertain. Using fishery data from 20 rivers across Europe, we show that most eels begin their oceanic migration between August and December. We used electronic tagging techniques to map the oceanic migration from eels released from four regions in Europe. Of 707 eels tagged, we received 206 data sets. Many migrations ended soon after release because of predation events, but we were able to reconstruct in detail the migration routes of >80 eels. The route extended from western mainland Europe to the Azores region, more than 5000 km toward the Sargasso Sea. All eels exhibited diel vertical migrations, moving from deeper water during the day into shallower water at night. The range of migration speeds was 3 to 47 km day-1. Using data from larval surveys in the Sargasso Sea, we show that spawning likely begins in December and peaks in February. Synthesizing these results, we show that the timing of autumn escapement and the rate of migration are inconsistent with the century-long held assumption that eels spawn as a single reproductive cohort in the springtime following their escapement. Instead, we suggest that European eels adopt a mixed migratory strategy, with some individuals able to achieve a rapid migration, whereas others arrive only in time for the following spawning season. Our results have consequences for eel management.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/2/10/e1501694.full.pdf
+CITED BY COUNT: 157
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Sargasso sea', 'Escapement', 'Diel vertical migration', 'Spawn (biology)', 'Oceanography', 'Fishery', 'Anguillidae', 'Geography', 'Fresh water', 'Range (aeronautics)', 'Environmental science', 'Geology', 'Biology', 'Fish <Actinopterygii>', 'Materials science', 'Composite material']

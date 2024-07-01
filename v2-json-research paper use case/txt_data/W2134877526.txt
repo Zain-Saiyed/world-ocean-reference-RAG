@@ -1,0 +1,12 @@
+ID: W2134877526
+TITLE: Monitoring the abundance of plastic debris in the marine environment
+AUTHOR: ['Peter G. Ryan', 'Charles J. Moore', 'J.A. van Franeker', 'Coleen L. Moloney']
+ABSTRACT:
+Plastic debris has significant environmental and economic impacts in marine systems. Monitoring is crucial to assess the efficacy of measures implemented to reduce the abundance of plastic debris, but it is complicated by large spatial and temporal heterogeneity in the amounts of plastic debris and by our limited understanding of the pathways followed by plastic debris and its long-term fate. To date, most monitoring has focused on beach surveys of stranded plastics and other litter. Infrequent surveys of the standing stock of litter on beaches provide crude estimates of debris types and abundance, but are biased by differential removal of litter items by beachcombing, cleanups and beach dynamics. Monitoring the accumulation of stranded debris provides an index of debris trends in adjacent waters, but is costly to undertake. At-sea sampling requires large sample sizes for statistical power to detect changes in abundance, given the high spatial and temporal heterogeneity. Another approach is to monitor the impacts of plastics. Seabirds and other marine organisms that accumulate plastics in their stomachs offer a cost-effective way to monitor the abundance and composition of small plastic litter. Changes in entanglement rates are harder to interpret, as they are sensitive to changes in population sizes of affected species. Monitoring waste disposal on ships and plastic debris levels in rivers and storm-water runoff is useful because it identifies the main sources of plastic debris entering the sea and can direct mitigation efforts. Different monitoring approaches are required to answer different questions, but attempts should be made to standardize approaches internationally.
+
+SOURCE: Philosophical transactions - Royal Society. Biological sciences
+PDF URL: None
+CITED BY COUNT: 1151
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Marine debris', 'Debris', 'Environmental science', 'Abundance (ecology)', 'Microplastics', 'Litter', 'Plastic waste', 'Plastic pollution', 'Population', 'Ecology', 'Oceanography', 'Biology', 'Geology', 'Demography', 'Sociology', 'Engineering', 'Waste management']

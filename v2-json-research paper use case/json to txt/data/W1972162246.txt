@@ -1,0 +1,12 @@
+ID: W1972162246
+TITLE: The Pace of Shifting Climate in Marine and Terrestrial Ecosystems
+AUTHOR: ['Michael T. Burrows', 'David S. Schoeman', 'Lauren B. Buckley', 'Pippa J. Moore', 'Elvira S. Poloczanska', 'Keith Brander', 'Christopher J. Brown', 'John F. Bruno', 'Carlos M. Duarte', 'Benjamin S. Halpern', 'Johnna M. Holding', 'Carrie V. Kappel', 'Wolfgang Kiessling', 'Mary I. O’Connor', 'John M. Pandolfi', 'Camille Parmesan', 'Franklin B. Schwing', 'William J. Sydeman', 'Anthony J. Richardson']
+ABSTRACT:
+Climate change challenges organisms to adapt or move to track changes in environments in space and time. We used two measures of thermal shifts from analyses of global temperatures over the past 50 years to describe the pace of climate change that species should track: the velocity of climate change (geographic shifts of isotherms over time) and the shift in seasonal timing of temperatures. Both measures are higher in the ocean than on land at some latitudes, despite slower ocean warming. These indices give a complex mosaic of predicted range shifts and phenology changes that deviate from simple poleward migration and earlier springs or later falls. They also emphasize potential conservation concerns, because areas of high marine biodiversity often have greater velocities of climate change and seasonal shifts.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 1106
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Pace', 'Ecosystem', 'Terrestrial ecosystem', 'Climate change', 'Environmental science', 'Marine ecosystem', 'Oceanography', 'Geography', 'Environmental resource management', 'Ecology', 'Biology', 'Geology', 'Geodesy']

@@ -1,0 +1,12 @@
+ID: W2053481536
+TITLE: Deep-sea mining of seafloor massive sulfides
+AUTHOR: ['Porter Hoagland', 'Stace E. Beaulieu', 'Maurice A. Tivey', 'Roderick G. Eggert', 'Christopher R. German', 'Lyle Glowka', 'Jian Lin']
+ABSTRACT:
+The potential emergence of an ocean mining industry to exploit seafloor massive sulfides could present opportunities for oceanographic science to facilitate seafloor mineral development in ways that lessen environmental harms.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 149
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seafloor spreading', 'Geology', 'Oceanography', 'Deep sea']

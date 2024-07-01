@@ -1,0 +1,12 @@
+ID: W2959685472
+TITLE: 26 Occurrence of Living Cold-Water Corals at Large Depths Within Submarine Canyons of the Northwestern Mediterranean Sea
+AUTHOR: ['A. Ayma', 'Jacopo Aguzzi', 'Miquel Canals', 'Joan B. Company', 'Galderic Lastras', 'Ariadna Mechó', 'Claudio Lo Iacono']
+ABSTRACT:
+In the northwestern Mediterranean Sea, cold-water corals Madrepora oculata, Lophelia pertusa, Dendrophyllia cornigera and Desmophyllum dianthus have been mostly described at relatively shallow depths (i.e. <400 m). Here, we report the results of the inspection of the large, deeply incised Cap de Creus, La Fonera and Blanes submarine canyons in order to assess the presence of cold-water corals at depths between 600 and 1500 m. Two complementary methodologies were applied: remotely operated vehicle dives for in situ observation, and Agassiz trawls to get biological samples. Remotely operated vehicle videos pictured aggregations of specimens of the solitary D. dianthus at 1409 m depth in La Fonera Canyon, which seemed to be alive. This is the first in situ observation of this species at such depths in the northwestern Mediterranean Sea. Agassiz trawl samples provided living M. oculata and L. pertusa in Blanes Canyon at 1200 and 900 m depth, respectively. They also yielded living D. dianthus in Cap de Creus Canyon at 900 m and in Blanes Canyon at 900 and 1200 m depth. Jointly with other recently published results, our findings demonstrate that submarine canyons in the northwestern Mediterranean Sea host significant cold-water coral populations, locally extending to water depths below 1000 m.
+
+SOURCE: Coral reefs of the world
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Submarine canyon', 'Canyon', 'Mediterranean sea', 'Oceanography', 'Mediterranean climate', 'Coral', 'Submarine', 'Geology', 'Ecology', 'Biology', 'Geomorphology']

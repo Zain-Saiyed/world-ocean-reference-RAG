@@ -1,0 +1,12 @@
+ID: W2276915090
+TITLE: Global riverine N and P transport to ocean increased during the 20th century despite increased retention along the aquatic continuum
+AUTHOR: ['Arthur H.W. Beusen', 'Lex Bouwman', 'L. P. H. van Beek', 'José M Mogollón', 'Jack J. Middelburg']
+ABSTRACT:
+Abstract. Various human activities – including agriculture, water consumption, river damming, and aquaculture – have intensified over the last century. This has had a major impact on nitrogen (N) and phosphorus (P) cycling in global continental waters. In this study, we use a coupled nutrient-input–hydrology–in-stream nutrient retention model to quantitatively track the changes in the global freshwater N and P cycles over the 20th century. Our results suggest that, during this period, the global nutrient delivery to streams increased from 34 to 64 Tg N yr−1 and from 5 to 9 Tg P yr−1. Furthermore, in-stream retention and removal grew from 14 to 27 Tg N yr−1 and 3 to 5 Tg P yr−1. One of the major causes of increased retention is the growing number of reservoirs, which now account for 24 and 22 % of global N and P retention/removal in freshwater systems, respectively. This increase in nutrient retention could not balance the increase in nutrient delivery to rivers with the consequence that river nutrient transport to the ocean increased from 19 to 37 Tg N yr−1 and from 2 to 4 Tg P yr−1. Human activities have also led to a global increase in the molar N : P ratio in freshwater bodies.
+
+SOURCE: Biogeosciences
+PDF URL: https://www.biogeosciences.net/13/2441/2016/bg-13-2441-2016.pdf
+CITED BY COUNT: 341
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Nutrient', 'Environmental science', 'Cycling', 'Hydrology (agriculture)', 'STREAMS', 'Nutrient cycle', 'Phosphorus', 'Nitrogen', 'Animal science', 'Oceanography', 'Ecology', 'Geology', 'Chemistry', 'Biology', 'Geography', 'Forestry', 'Computer network', 'Geotechnical engineering', 'Organic chemistry', 'Computer science']

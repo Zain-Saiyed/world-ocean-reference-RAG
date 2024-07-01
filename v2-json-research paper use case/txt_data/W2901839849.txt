@@ -1,0 +1,12 @@
+ID: W2901839849
+TITLE: Measuring mangrove carbon loss and gain in deltas
+AUTHOR: ['David Lagomasino', 'Lola Fatoyinbo', 'Seung-Kuk Lee', 'E. A. Feliciano', 'Carl C. Trettin', 'Aurélie Shapiro', 'Mwita M. Mangora']
+ABSTRACT:
+Demand for mangrove forest resources has led to a steady decline in mangrove area over the past century. Land conversions in the form of agriculture, aquaculture and urbanization account for much of the deforestation of mangrove wetlands. However, natural processes at the transition zone between land and ocean can also rapidly change mangrove spread. In this study, we applied a robust field-based carbon inventory and new structural and temporal remote sensing techniques to quantify the magnitude and change of mangrove carbon stocks in major deltas across Africa and Asia. From 2000–2016, approximately 1.6% (12 270 ha) of the total mangrove area within these deltas disappeared, primarily through erosion and conversion to agriculture. However, the rapid expansion of mangroves in some regions during this same period resulted in new forests that were taller and more carbon-dense than the deforested areas. Because of the rapid vertical growth rates and horizontal expansion, new mangrove forests were able to offset the total carbon losses of 5 332 843 Mg C by 44%. Each hectare of new mangrove forest accounted for ∼84% to ∼160% of the aboveground carbon for each hectare of mangrove forest lost, regardless of the net change in mangrove area. Our study highlights the significance of the natural dynamics of erosion and sedimentation on carbon loss and sequestration potential for mangroves over time. Areas of naturally regenerating mangroves will have a much larger carbon sequestration potential if the rate of mangrove deforestation of taller forests is curbed.
+
+SOURCE: Environmental research letters
+PDF URL: None
+CITED BY COUNT: 61
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Environmental science', 'Deforestation (computer science)', 'Carbon sequestration', 'Blue carbon', 'Agroforestry', 'Wetland', 'Climate change', 'Carbon cycle', 'Geography', 'Ecology', 'Ecosystem', 'Carbon dioxide', 'Biology', 'Computer science', 'Programming language']

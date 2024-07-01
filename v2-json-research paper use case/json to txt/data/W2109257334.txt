@@ -1,0 +1,12 @@
+ID: W2109257334
+TITLE: Global relationship between phytoplankton diversity and productivity in the ocean
+AUTHOR: ['Sergio M. Vallina', 'Michael J. Follows', 'Stephanie Dutkiewicz', 'José M. Montoya', 'Pedro Cermeño', 'Michel Loreau']
+ABSTRACT:
+The shape of the productivity-diversity relationship (PDR) for marine phytoplankton has been suggested to be unimodal, that is, diversity peaking at intermediate levels of productivity. However, there are few observations and there has been little attempt to understand the mechanisms that would lead to such a shape for planktonic organisms. Here we use a marine ecosystem model together with the community assembly theory to explain the shape of the unimodal PDR we obtain at the global scale. The positive slope from low to intermediate productivity is due to grazer control with selective feeding, which leads to the predator-mediated coexistence of prey. The negative slope at high productivity is due to seasonal blooms of opportunist species that occur before they are regulated by grazers. The negative side is only unveiled when the temporal scale of the observation captures the transient dynamics, which are especially relevant at highly seasonal latitudes. Thus selective predation explains the positive side while transient competitive exclusion explains the negative side of the unimodal PDR curve. The phytoplankton community composition of the positive and negative sides is mostly dominated by slow-growing nutrient specialists and fast-growing nutrient opportunist species, respectively.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms5299.pdf
+CITED BY COUNT: 184
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Productivity', 'Phytoplankton', 'Ecosystem', 'Plankton', 'Ecology', 'Predation', 'Competition (biology)', 'Biology', 'Environmental science', 'Latitude', 'Biodiversity', 'Nutrient', 'Geography', 'Economics', 'Macroeconomics', 'Geodesy']

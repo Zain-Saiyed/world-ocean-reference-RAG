@@ -1,0 +1,12 @@
+ID: W2059869815
+TITLE: Marine biotechnologies and synthetic biology, new issues for a fair and equitable profit-sharing commercial use
+AUTHOR: ['Jean‐François Bloch', 'Elisabeth Tardieu-Guigues']
+ABSTRACT:
+The sea will be a source of economic development in the next years. Today the research works in marine biotechnologies supply new products and processes. The introduction in the laboratories of a new technology, synthesis biology, is going to increase the possibilities of creation of new products. Exploitation of product stemming from marine biodiversity has to be made with regard to various rights among which industrial property law, maritime law and the Convention on BioDiversity. All participants involved in the promotion of research in marine biotechnology must address the fair and equitable sharing of any commercial exploitation. Carrying out work involving synthetic biology has increased the number of unanswered questions about how operators should manage in order to avoid any threat of being sued for infringements of IP rights or for alleged bio-piracy. This paper, by no means exhaustive in the field, analyzes some of the issues raised on the modification to the landscape in marine biotechnology by the advent of synthetic biology. Such issues indicate how important the collaboration between researchers, industrialists, lawyers is for allowing proper use of marine biotech.
+
+SOURCE: Marine genomics
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Synthetic biology', 'Intellectual property', 'Convention on Biological Diversity', 'Biology', 'Biotechnology', 'Marine biodiversity', 'Profit (economics)', 'United Nations Convention on the Law of the Sea', 'Business', 'Convention', 'Biodiversity', 'Law', 'Ecology', 'Political science', 'Economics', 'Computational biology', 'Microeconomics']

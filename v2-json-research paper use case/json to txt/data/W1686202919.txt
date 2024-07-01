@@ -1,0 +1,12 @@
+ID: W1686202919
+TITLE: GPS tracking for mapping seabird mortality induced by light pollution
+AUTHOR: ['Airam Rodríguez', 'Beneharo Rodríguez', 'Juan J. Negro']
+ABSTRACT:
+Abstract Light pollution and its consequences on ecosystems are increasing worldwide. Knowledge on the threshold levels of light pollution at which significant ecological impacts emerge and the size of dark refuges to maintain natural nocturnal processes is crucial to mitigate its negative consequences. Seabird fledglings are attracted by artificial lights when they leave their nest at night, causing high mortality. We used GPS data-loggers to track the flights of Cory’s shearwater Calonectris diomedea fledglings from nest-burrows to ground and to evaluate the light pollution levels of overflown areas on Tenerife, Canary Islands, using nocturnal, high-resolution satellite imagery. Birds were grounded at locations closer than 16 km from colonies in their maiden flights and 50% were rescued within a 3 km radius from the nest-site. Most birds left the nests in the first three hours after sunset. Rescue locations showed radiance values greater than colonies and flight distance was positively related to light pollution levels. Breeding habitat alteration by light pollution was more severe for inland colonies. We provide scientific-based information to manage dark refuges facilitating that fledglings from inland colonies reach the sea successfully. We also offer methodological approaches useful for other critically threatened petrel species grounded by light pollution.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep10670.pdf
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Light pollution', 'Seabird', 'Nest (protein structural motif)', 'Nocturnal', 'Geography', 'Ecology', 'Threatened species', 'Habitat', 'Environmental science', 'Fishery', 'Predation', 'Biology', 'Biochemistry', 'Physics', 'Optics']

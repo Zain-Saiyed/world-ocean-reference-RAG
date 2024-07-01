@@ -1,0 +1,12 @@
+ID: W2943409025
+TITLE: Assessment of metal contamination in Arabian/Persian Gulf fish: A review
+AUTHOR: ['Patricia A. Cunningham', 'Elizabeth Sullivan', 'Kibri Everett', 'Samuel S. Kovach', 'Anbiah Rajan', 'M. Craig Barber']
+ABSTRACT:
+Metal contamination in fish is a concern worldwide, including in the Arabian/Persian Gulf region. This review summarizes the findings from 55 papers about metal concentrations in Gulf fish. Metal concentrations in muscle tissue were screened against the most recent maximum allowable levels (MALs) for fish in international commerce. We identified metals, fish species, and locations where concentrations exceeded the MALs. For some metals, recent MALs have been set to lower concentrations as more toxicological data have become available. Mean fish tissue concentrations exceeded the MAL in 13% (arsenic), 76% (cadmium), 56% (lead), and 10% (mercury) of species means. We identified 13 fish species with the potential to serve as bioindicators of metal contamination for use in four Gulf habitats: pelagic, benthopelagic, demersal, and coral reefs. Recommendations are provided for a regional approach to improve consistency of sampling, data analysis and reporting of metal concentrations in Gulf fish.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2019
+TYPE: review
+CONCEPTS: ['Demersal fish', 'Pelagic zone', 'Bioindicator', 'Contamination', 'Cadmium', 'Mercury (programming language)', 'Environmental science', 'Fishery', 'Coral reef fish', 'Demersal zone', 'Environmental chemistry', 'Fish <Actinopterygii>', 'Biology', 'Ecology', 'Chemistry', 'Organic chemistry', 'Computer science', 'Programming language']

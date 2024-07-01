@@ -1,0 +1,12 @@
+ID: W3042560577
+TITLE: Uncertainties in projections of sandy beach erosion due to sea level rise: an analysis at the European scale
+AUTHOR: ['Panagiotis Athanasiou', 'Ap van Dongeren', 'Alessio Giardino', 'Michalis Vousdoukas', 'Roshanka Ranasinghe', 'Jaap Kwadijk']
+ABSTRACT:
+Abstract Sea level rise (SLR) will cause shoreline retreat of sandy coasts in the absence of sand supply mechanisms. These coasts have high touristic and ecological value and provide protection of valuable infrastructures and buildings to storm impacts. So far, large-scale assessments of shoreline retreat use specific datasets or assumptions for the geophysical representation of the coastal system, without any quantification of the effect that these choices might have on the assessment. Here we quantify SLR driven potential shoreline retreat and consequent coastal land loss in Europe during the twenty-first century using different combinations of geophysical datasets for (a) the location and spatial extent of sandy beaches and (b) their nearshore slopes. Using data-based spatially-varying nearshore slope data, a European averaged SLR driven median shoreline retreat of 97 m (54 m) is projected under RCP 8.5 (4.5) by year 2100, relative to the baseline year 2010. This retreat would translate to 2,500 km 2 (1,400 km 2 ) of coastal land loss (in the absence of ambient shoreline changes). A variance-based global sensitivity analysis indicates that the uncertainty associated with the choice of geophysical datasets can contribute up to 45% (26%) of the variance in coastal land loss projections for Europe by 2050 (2100). This contribution can be as high as that associated with future mitigation scenarios and SLR projections.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-020-68576-0.pdf
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Shore', 'Coastal erosion', 'Storm', 'Scale (ratio)', 'Physical geography', 'Baseline (sea)', 'Environmental science', 'Sea level', 'Oceanography', 'Erosion', 'Geology', 'Geography', 'Cartography', 'Geomorphology']

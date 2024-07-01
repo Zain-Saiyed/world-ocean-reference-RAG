@@ -1,0 +1,12 @@
+ID: W2954375993
+TITLE: Design of a Horizontal Axis Tidal Turbine for Less Energetic Current Velocity Profiles
+AUTHOR: ['Job Immanuel Encarnacion', 'Cameron Johnstone', 'Stephanie Ordóñez-Sánchez']
+ABSTRACT:
+Existing installations of tidal-stream turbines are undertaken in energetic sites with flow speeds greater than 2 m/s. Sites with lower velocities will produce far less power and may not be as economically viable when using “conventional” tidal turbine designs. However, designing turbines for these less energetic conditions may improve the global viability of tidal technology. Lower hydrodynamic loads are expected, allowing for cost reduction through downsizing and using cheaper materials. This work presents a design methodology for low-solidity high tip-speed ratio turbines aimed to operate at less energetic flows with velocities less than 1.5 m/s. Turbines operating under representative real-site conditions in Mexico and the Philippines are evaluated using a quasi-unsteady blade element momentum method. Blade geometry alterations are undertaken using a scaling factor applied to chord and twist distributions. A parametric filtering and multi-objective decision model is used to select the optimum design among the generated blade variations. It was found that the low-solidity high tip-speed ratio blades lead to a slight power drop of less than 8.5% when compared to the “conventional” blade geometries. Nonetheless, an increase in rotational speed, reaching a tip-speed ratio (TSR) of 7.75, combined with huge reduction in the torque requirement of as much as 30% paves the way for reduced costs from generator downsizing and simplified power take-off mechanisms.
+
+SOURCE: Journal of marine science and engineering
+PDF URL: https://www.mdpi.com/2077-1312/7/7/197/pdf?version=1561630602
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Solidity', 'Tidal power', 'Tip-speed ratio', 'Turbine', 'Marine engineering', 'Chord (peer-to-peer)', 'Blade element momentum theory', 'Rotational speed', 'Torque', 'Environmental science', 'Mechanics', 'Wind power', 'Parametric statistics', 'Wind speed', 'Meteorology', 'Mechanical engineering', 'Turbine blade', 'Engineering', 'Computer science', 'Physics', 'Electrical engineering', 'Mathematics', 'Distributed computing', 'Statistics', 'Thermodynamics', 'Programming language']

@@ -1,0 +1,12 @@
+ID: W2890111442
+TITLE: Río de la Plata: Uruguay
+AUTHOR: ['Pablo Muñiz', 'Natalia Venturini', 'Ernesto Brugnoli', 'Juan Manuel Gutiérrez', 'Alicia Acuña']
+ABSTRACT:
+The Río de la Plata drains waters of the second largest basin of South America. The coast of Uruguay is located in a high dynamic area, where the interactions between the Río de la Plata and the Atlantic Ocean produce an important patterns of natural variability. Alongside this, the area is under growing local and regional human pressure. The Uruguayan coast is affected directly and indirectly by activities developed in the drainage basin. La Plata Basin is densely populated and heavily industrialized with significant pollution. The Paraná and Uruguay Rivers and their tributaries contribute xenobiotics and nutrients, especially during the ENSO phases, when important discharges of freshwater affect the whole coast. Unsurprisingly, the most impacted region is near Montevideo, while, in general, the pollution and/or impact level in the small estuaries along the Río de la Plata coastline is slightly lower. Although available environmental information in the Uruguayan coastal zone has improved during recent decades, it is still restricted to isolated areas and to some aspects of aquatic ecosystems only. The development and implementation of integrative baseline studies on these topics are highly relevant, in order to contribute to the conservation of these ecosystems in Uruguay.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Tributary', 'Geography', 'Estuary', 'Structural basin', 'Ecosystem', 'Drainage basin', 'Coastal zone', 'Oceanography', 'Fishery', 'Environmental protection', 'Environmental science', 'Ecology', 'Geology', 'Cartography', 'Paleontology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2795275580
+TITLE: Implementing “the IEA”: using integrated ecosystem assessment frameworks, programs, and applications in support of operationalizing ecosystem-based management
+AUTHOR: ['Chris J. Harvey', 'Christopher R. Kelble', 'Franklin B. Schwing']
+ABSTRACT:
+The Integrated Ecosystem Assessment (IEA) approach was designed to assimilate scientific knowledge in the ideal format for providing advice to inform marine Ecosystem-Based Management (EBM). As such, IEAs were envisioned as the cornerstone integrated science product for the US National Oceanic and Atmospheric Administration (NOAA) that would maximize efficiencies and synergies across the agency’s ecosystem science efforts. This led to the development of a NOAA IEA Program that would oversee regional implementation of the national IEA framework. As implementation proceeded, uptake by management entities was slower than anticipated, in part because EBM was not quickly embraced and applied to achieve management objectives. This slow movement to EBM in conjunction with the need to develop scientific analyses and methods to properly implement IEA resulted in the IEA process being viewed as its own endpoint. This commonly led to referring to “the IEA” when variously discussing the IEA framework, program, products, and process. Now that IEA and EBM are maturing, we need to be specific with what we are referring to when discussing IEAs, in order to develop reasonable expectations for applying IEA tools. We also now recognize the need to implement multiple IEA processes at varying geographic and complexity scales within an ecosystem to effectively meet the scientific requirements for operational EBM rather than viewing an IEA application as a single regional science product.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/74/1/398/31242982/fsw201.pdf
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Operationalization', 'Process (computing)', 'Ecosystem-based management', 'Environmental resource management', 'Computer science', 'Cornerstone', 'Agency (philosophy)', 'Ecosystem', 'Ecosystem services', 'Product (mathematics)', 'Environmental science', 'Ecology', 'Geography', 'Philosophy', 'Geometry', 'Mathematics', 'Archaeology', 'Epistemology', 'Biology', 'Operating system']

@@ -1,0 +1,12 @@
+ID: W2908291032
+TITLE: The Little Ice Age and 20th-century deep Pacific cooling
+AUTHOR: ['Geoffrey Gebbie', 'Peter Huybers']
+ABSTRACT:
+Proxy records show that before the onset of modern anthropogenic warming, globally coherent cooling occurred from the Medieval Warm Period to the Little Ice Age. The long memory of the ocean suggests that these historical surface anomalies are associated with ongoing deep-ocean temperature adjustments. Combining an ocean model with modern and paleoceanographic data leads to a prediction that the deep Pacific is still adjusting to the cooling going into the Little Ice Age, whereas temperature trends in the surface ocean and deep Atlantic reflect modern warming. This prediction is corroborated by temperature changes identified between the HMS Challenger expedition of the 1870s and modern hydrography. The implied heat loss in the deep ocean since 1750 CE offsets one-fourth of the global heat gain in the upper ocean.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/363/6422/70.full.pdf
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Ice age', 'Oceanography', 'Climatology', 'Environmental science', 'Geology', 'Geography', 'Paleontology', 'Glacial period']

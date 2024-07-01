@@ -1,0 +1,12 @@
+ID: W2149577538
+TITLE: Seamounts as refugia from ocean acidification for cold‐water stony corals
+AUTHOR: ['Derek P. Tittensor', 'Amy R. Baco', 'Jason M. Hall‐Spencer', 'James C. Orr', 'Alex D. Rogers']
+ABSTRACT:
+Abstract Cold‐water stony corals create habitat for a diverse range of deep‐water species but are thought to be threatened by ocean acidification due to oceanic uptake of anthropogenic CO 2 . Knowledge of the severity of this threat is hampered by our limited understanding of the distribution and habitat requirements of these corals. Here we estimate the global acidification threat to these organisms using a global database of cold‐water stony coral records and a species distribution modelling approach. We parameterised the models using present‐day environmental data, and then replaced these data with future projections of ocean chemistry from the year 2099. We found suitable coral habitat to be very heterogeneously distributed, being concentrated in the northern North Atlantic and around New Zealand. Projected changes in ocean chemistry induced a pronounced reduction in habitat suitability in the North Atlantic, and a low‐to‐moderate impact elsewhere under both the IPCC IS92a and S650 scenarios. Seamount summits are impacted by these changes, but consistently provide more suitable habitat than the surrounding seafloor, with around 98% of seamount summits having higher suitability in both future scenarios; this is because they lie in shallower waters with a higher aragonite saturation state. These results suggest that anthropogenic‐induced changes in ocean chemistry are likely to severely impact cold‐water stony coral habitat in the deep‐sea of the North Atlantic, and that impacts will be less severe elsewhere. We predict that coral communities on the summits and upper slopes of seamounts will be less susceptible to ocean acidification during this century than those on the surrounding seafloor, and thus that seamounts may serve as temporary refugia.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 109
+PUBLICATION YEAR: 2010
+TYPE: preprint
+CONCEPTS: ['Seamount', 'Ocean acidification', 'Oceanography', 'Coral', 'Habitat', 'Environmental science', 'Seafloor spreading', 'Threatened species', 'Ecology', 'Climate change', 'Geology', 'Biology']

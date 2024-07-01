@@ -1,0 +1,12 @@
+ID: W2529695194
+TITLE: Landscape mapping at sub-Antarctic South Georgia provides a protocol for underpinning large-scale marine protected areas
+AUTHOR: ['Oliver T. Hogg', 'Veerle Huvenne', 'Huw J. Griffiths', 'Boris Dorschel', 'Katrin Linse']
+ABSTRACT:
+Abstract Global biodiversity is in decline, with the marine environment experiencing significant and increasing anthropogenic pressures. In response marine protected areas (MPAs) have increasingly been adopted as the flagship approach to marine conservation, many covering enormous areas. At present, however, the lack of biological sampling makes prioritising which regions of the ocean to protect, especially over large spatial scales, particularly problematic. Here we present an interdisciplinary approach to marine landscape mapping at the sub-Antarctic island of South Georgia as an effective protocol for underpinning large-scale (10 5 –10 6 km 2 ) MPA designations. We have developed a new high-resolution (100 m) digital elevation model (DEM) of the region and integrated this DEM with bathymetry-derived parameters, modelled oceanographic data, and satellite primary productivity data. These interdisciplinary datasets were used to apply an objective statistical approach to hierarchically partition and map the benthic environment into physical habitats types. We assess the potential application of physical habitat classifications as proxies for biological structuring and the application of the landscape mapping for informing on marine spatial planning.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep33163.pdf
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Marine spatial planning', 'Marine protected area', 'Environmental resource management', 'Bathymetry', 'Underpinning', 'Biodiversity', 'Scale (ratio)', 'Habitat', 'Geography', 'Marine conservation', 'Environmental science', 'Oceanography', 'Ecology', 'Cartography', 'Geology', 'Geotechnical engineering', 'Biology']

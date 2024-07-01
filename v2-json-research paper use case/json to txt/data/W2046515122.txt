@@ -1,0 +1,12 @@
+ID: W2046515122
+TITLE: Global Patterns of Predator Diversity in the Open Oceans
+AUTHOR: ['Boris Worm', 'Marcel Sandow', 'Andreas Oschlies', 'Heike K. Lotze', 'Ransom A. Myers']
+ABSTRACT:
+The open oceans comprise most of the biosphere, yet patterns and trends of species diversity there are enigmatic. Here, we derive worldwide patterns of tuna and billfish diversity over the past 50 years, revealing distinct subtropical "hotspots" that appeared to hold generally for other predators and zooplankton. Diversity was positively correlated with thermal fronts and dissolved oxygen and a nonlinear function of temperature (approximately 25 degrees C optimum). Diversity declined between 10 and 50% in all oceans, a trend that coincided with increased fishing pressure, superimposed on strong El Niño-Southern Oscillation-driven variability across the Pacific. We conclude that predator diversity shows a predictable yet eroding pattern signaling ecosystem-wide changes linked to climate and fishing.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 362
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Predator', 'Zooplankton', 'Fishing', 'Ecosystem', 'Predation', 'Ecology', 'Subtropics', 'Biosphere', 'Diversity (politics)', 'Biology', 'Apex predator', 'Geography', 'Tuna', 'Fishery', 'Oceanography', 'Fish <Actinopterygii>', 'Geology', 'Sociology', 'Anthropology']

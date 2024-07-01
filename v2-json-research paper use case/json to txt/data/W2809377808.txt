@@ -1,0 +1,12 @@
+ID: W2809377808
+TITLE: Evaluation of the Status of the Kemp's Ridley Sea Turtle After the 2010 Deepwater Horizon Oil Spill
+AUTHOR: ['Benny J. Gallaway', 'William J. Gazey', 'Thane Wibbels', 'Elizabeth Bevan', 'Donna J. Shaver', 'Jeff George']
+ABSTRACT:
+Coincident with the 2010 Deepwater Horizon oil spill, unprecedented numbers of Kemp's ridley sea turtles (Lepidochelys kempii) stranded on northern Gulf of Mexico beaches and the number of nests recorded on the primary nesting beaches plummeted far below expected levels. High levels of strandings have continued since 2010 and the number of nests recovered to approximately 2009 levels in 2011, and improved slightly in 2012. A stock assessment conducted in 2012 indicated that a mortality event occurred in 2010, and that the number of nests should once more exhibit an increasing trend from 2013 and beyond. This has not happened; rather, the number of nests declined sharply in 2013. We conducted a new stock assessment to evaluate additional scenarios, including 1) three stock-recruitment options; 2) the potential that a new source of ongoing mortality is present; and 3) the potential that the number of nests-per-adult-female is dependent on the size of the age-2+ benthic population. The latter model provided the best fit to the data. Further, the preliminary estimate of actual nesting in 2014 is consistent with model projections. The reduction in reproductive output could be due to the combination of a large population and reduced prey levels. Together these may have increased the remigration interval or reduced the number of nests per female. However, research is needed to evaluate this and other plausible hypotheses. Nesting may be highly variable in the future depending on feeding conditions on the foraging grounds.
+
+SOURCE: Gulf of Mexico science
+PDF URL: https://aquila.usm.edu/cgi/viewcontent.cgi?article=1593&context=goms
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Stock assessment', 'Fishery', 'Predation', 'Foraging', 'Stock (firearms)', 'Population', 'Deepwater horizon', 'Nest (protein structural motif)', 'Geography', 'Benthic zone', 'Oil spill', 'Population model', 'Oceanography', 'Fishing', 'Biology', 'Ecology', 'Demography', 'Geology', 'Archaeology', 'Environmental protection', 'Biochemistry', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2898779533
+TITLE: An integrated risk-based assessment of the North Sea to guide ecosystem-based management
+AUTHOR: ['G.J. Piet', 'Fiona Culhane', 'R.H. Jongbloed', 'Leonie Robinson', 'B. Rumes', 'J.E. Tamis']
+ABSTRACT:
+This study provides an integrated perspective to ecosystem based management (EBM) by considering a diverse array of societal goals, i.e. sustainable food supply, clean energy and a healthy marine ecosystem, and a selection of management measures to achieve them. The primary aim of this exercise is to provide guidance for (more) integrated EBM in the North Sea based on an evaluation of the effectiveness of those management measures in contributing to the conservation of marine biodiversity. A secondary aim is to identify the requirements of the knowledge base to guide such future EBM initiatives. Starting from the societal goals we performed a scoping exercise to identify a "focal social-ecological system" which is a subset of the full social-ecological system but considered adequate to guide EBM towards the achievement of those societal goals. A semi-quantitative risk assessment including all the relevant human activities, their pressures and the impacted ecosystem components was then applied to identify the main threats to the North Sea biodiversity and evaluate the effectiveness of the management measures to mitigate those threats. This exercise revealed the need for such risk-based approaches in providing a more integrated perspective but also the trade-off between being comprehensive but qualitative versus quantitative but limited in terms of the "focal" part of the SES that can be covered. The findings in this paper provide direction to the (further) development of EBM and its knowledge base that should ultimately allow an integrated perspective while maintaining its capacity to deliver the accuracy and detail needed for decision-making.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental resource management', 'Business', 'Ecosystem-based management', 'Sustainable development', 'Perspective (graphical)', 'Ecosystem services', 'Ecosystem', 'Marine conservation', 'Biodiversity', 'Risk management', 'Environmental planning', 'Risk analysis (engineering)', 'Environmental science', 'Computer science', 'Ecology', 'Artificial intelligence', 'Biology', 'Finance']

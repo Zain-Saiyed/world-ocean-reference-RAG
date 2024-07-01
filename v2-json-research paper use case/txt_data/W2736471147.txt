@@ -1,0 +1,12 @@
+ID: W2736471147
+TITLE: Microplastics in coastal environments of the Arabian Gulf
+AUTHOR: ['Oyebamiji Abib Abayomi', 'Pedro Range', 'Mohammad A. Al-Ghouti', 'Jeffrey Philip Obbard', 'Saeed Al‐Meer', 'Radhouan Ben-Hamadou']
+ABSTRACT:
+Eight sandy beaches along the coastline of Qatar and four sea surface stations on the eastern coast, adjacent to Doha Bay, were surveyed between December 2014 and March 2015. Microplastics, mainly low density polyethylene and polypropylene, were found in all samples of sediments and seawater. Blue fibers, ranging between 1 and 5 mm, were the dominant type of particle present. Abundances on the sea surface varied between 4.38 × 104 and 1.46 × 106 particles·km− 2, with the highest values being consistently found 10 km offshore, suggesting the presence of a convergence zone. No significant temporal variability was detected for sea surface samples. The concentration of microplastics in intertidal sediments varied between 36 and 228 particles m− 2, with no significant differences among the 8 beaches examined. These results show the pervasiveness of microplastic pollution in coastal environments of the Arabian Gulf. Potential local sources and sinks for microplastics are discussed.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 178
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Bay', 'Intertidal zone', 'Oceanography', 'Submarine pipeline', 'Seawater', 'Environmental science', 'Plastic pollution', 'Pollution', 'Geology', 'Ecology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2016962793
+TITLE: The associations of Amphipoda Hyperiidea with gelatinous zooplankton—I. Associations with Salpidae
+AUTHOR: ['Laurence P. Madin', 'G. R. Harbison']
+ABSTRACT:
+Collection of live planktonic animals by divers has confirmed that hyperiid amphipods in the genera Vibilia and Lycaea are specific and obligate symbionts of salps. Species in the genera Brachyscelus, Parathemisto, Oxycephalus and Phronima are also sometimes associated with salps. Vibilia feed preferentially on the particulate food collected by the salp, whilst Lycaea consume the salp tissue directly. There are further differences in the distribution and life cycle of the two genera on their hosts. Our collections indicate specific host-parasite relationships exist in at least two species of Lycaea.
+
+SOURCE: Deep-sea research/Deep sea research
+PDF URL: None
+CITED BY COUNT: 131
+PUBLICATION YEAR: 1977
+TYPE: article
+CONCEPTS: ['Amphipoda', 'Obligate', 'Biology', 'Zooplankton', 'Gelatinous zooplankton', 'Zoology', 'Ecology', 'Plankton', 'Crustacean']

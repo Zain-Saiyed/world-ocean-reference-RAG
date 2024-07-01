@@ -1,0 +1,12 @@
+ID: W2021308021
+TITLE: Myths that Continue to Impede Progress in Ecosystem‐Based Fisheries Management
+AUTHOR: ['Wesley S. Patrick', 'Jason S. Link']
+ABSTRACT:
+Ecosystem‐based fisheries management has been perceived as something desirable but pragmatically unachievable due to several impediments identified earlier during its implementation phase. Over the years, many of these impediments have been resolved but not well communicated to stakeholders, managers, scientists, and policymakers. As a result, several past impediments to implementing ecosystem‐based fisheries management have taken on a mythical status. Here we identify six common myths, address why they in fact no longer impede ecosystem‐based fisheries management, and propose solutions for moving forward. We assert that these myths need not continue to exist and that improved approaches for fisheries are indeed feasible.
+
+SOURCE: Fisheries
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1080/03632415.2015.1024308
+CITED BY COUNT: 144
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Fisheries management', 'Mythology', 'Ecosystem approach', 'Ecosystem', 'Business', 'Fisheries science', 'Fishery', 'Ecosystem management', 'Environmental resource management', 'Ecosystem-based management', 'Fisheries law', 'Ecology', 'Economics', 'Fishing', 'History', 'Biology', 'Classics']

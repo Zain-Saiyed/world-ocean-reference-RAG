@@ -1,0 +1,12 @@
+ID: W2810038772
+TITLE: Pearl River Delta and Guangzhou (Canton) China
+AUTHOR: ['L. D. Wright', 'Wei Wu']
+ABSTRACT:
+By 2015, the Pearl River Delta urban agglomeration had overtaken Tokyo as the world’s largest megacity. The Pearl River Delta is sinking at an average rate of 2.5 mm/year. This subsidence, combined with rising sea level, increased intensity of impact from typhoons and storm surge and projections for increased urban expansion have placed Guangzhou at, or near the top of the list of the world’s most threatened coastal cities.
+
+SOURCE: Coastal research library
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['China', 'Delta', 'Geography', 'Pearl', 'River delta', 'Archaeology', 'Engineering', 'Aerospace engineering']

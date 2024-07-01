@@ -1,0 +1,12 @@
+ID: W2101875061
+TITLE: World ocean heat content and thermosteric sea level change (0–2000 m), 1955–2010
+AUTHOR: ['Sydney Levitus', 'John I. Antonov', 'Timothy P. Boyer', 'O Baranova', 'Hernan E. Garcia', 'Ricardo A. Locarnini', 'Alexey V. Mishonov', 'James R. Reagan', 'Dan Seidov', 'E. S. Yarosh', 'Melissa M. Zweng']
+ABSTRACT:
+We provide updated estimates of the change of ocean heat content and the thermosteric component of sea level change of the 0–700 and 0–2000 m layers of the World Ocean for 1955–2010. Our estimates are based on historical data not previously available, additional modern data, and bathythermograph data corrected for instrumental biases. We have also used Argo data corrected by the Argo DAC if available and used uncorrected Argo data if no corrections were available at the time we downloaded the Argo data. The heat content of the World Ocean for the 0–2000 m layer increased by 24.0 ± 1.9 × 10 22 J (±2S.E.) corresponding to a rate of 0.39 W m −2 (per unit area of the World Ocean) and a volume mean warming of 0.09°C. This warming corresponds to a rate of 0.27 W m −2 per unit area of earth's surface. The heat content of the World Ocean for the 0–700 m layer increased by 16.7 ± 1.6 × 10 22 J corresponding to a rate of 0.27 W m −2 (per unit area of the World Ocean) and a volume mean warming of 0.18°C. The World Ocean accounts for approximately 93% of the warming of the earth system that has occurred since 1955. The 700–2000 m ocean layer accounted for approximately one‐third of the warming of the 0–2000 m layer of the World Ocean. The thermosteric component of sea level trend was 0.54 ± .05 mm yr −1 for the 0–2000 m layer and 0.41 ± .04 mm yr −1 for the 0–700 m layer of the World Ocean for 1955–2010.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2012GL051106
+CITED BY COUNT: 874
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Argo', 'Ocean heat content', 'Bathythermograph', 'Environmental science', 'Effects of global warming on oceans', 'Climatology', 'Mixed layer', 'Global warming', 'Sea surface temperature', 'Oceanography', 'Climate change', 'Geology']

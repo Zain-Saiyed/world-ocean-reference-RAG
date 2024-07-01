@@ -1,0 +1,12 @@
+ID: W2009239184
+TITLE: Global warming benefits the small in aquatic ecosystems
+AUTHOR: ['Martín Daufresne', 'Kathrin Lengfellner', 'Ulrich Sommer']
+ABSTRACT:
+Understanding the ecological impacts of climate change is a crucial challenge of the twenty-first century. There is a clear lack of general rules regarding the impacts of global warming on biota. Here, we present a metaanalysis of the effect of climate change on body size of ectothermic aquatic organisms (bacteria, phyto- and zooplankton, and fish) from the community to the individual level. Using long-term surveys, experimental data and published results, we show a significant increase in the proportion of small-sized species and young age classes and a decrease in size-at-age. These results are in accordance with the ecological rules dealing with the temperature–size relationships (i.e., Bergmann's rule, James' rule and Temperature–Size Rule). Our study provides evidence that reduced body size is the third universal ecological response to global warming in aquatic systems besides the shift of species ranges toward higher altitudes and latitudes and the seasonal shifts in life cycle events.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 1313
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Ectotherm', 'Global warming', 'Biota', 'Ecology', 'Climate change', 'Ecosystem', 'Zooplankton', 'Aquatic ecosystem', 'Global change', 'Latitude', 'Effects of global warming', 'Environmental science', 'Biology', 'Geography', 'Geodesy']

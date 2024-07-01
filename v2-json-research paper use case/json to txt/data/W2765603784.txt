@@ -1,0 +1,12 @@
+ID: W2765603784
+TITLE: Engaging diverse experts in a global environmental assessment: participation in the first work programme of IPBES and opportunities for improvement
+AUTHOR: ['Malte Timpte', 'Jasper Montana', 'Katrin Reuter', 'Maud Borie', 'Jascha Apkes']
+ABSTRACT:
+The need for interdisciplinary expert groups from different regions of the world to be involved in the fields of sustainability science and environmental change research is increasingly recognised. The Intergovernmental Platform on Biodiversity and Ecosystem Services (IBPES) was established in 2012 as a science-policy interface and has gone beyond previous initiatives in its articulation of a clear commitment to inter- and transdisciplinary approaches that mandate a diversity of genders, disciplines and regional backgrounds within its expert groups. The first IPBES work programme, carried out between 2014 and 2018, has been supported by 17 expert groups, comprising over 1000 experts, who have been selected from over 2000 government and stakeholder nominations through formal procedures. In this paper, we present and critique the framework through which IPBES identifies and selects experts to participate in its processes. In addition, we synthesise and carry out a quantitative analysis on the expert nomination and selection data relating to the first assessment activities of IPBES. Identifying that the balance of regions, genders, disciplines and knowledge systems represented within these expert groups is still disproportionally dominated by male natural scientists from the Global North, the paper makes recommendations of how to better engage knowledge holders from different disciplines and diverse knowledge systems in future iterations of the IPBES work programme.
+
+SOURCE: Innovation
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/13511610.2017.1383149?needAccess=true
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Mandate', 'Sustainability', 'Nomination', 'Work (physics)', 'Stakeholder', 'Diversity (politics)', 'Government (linguistics)', 'Ecosystem services', 'Political science', 'Working group', 'Stakeholder engagement', 'Sustainability science', 'Environmental resource management', 'Knowledge management', 'Public relations', 'Computer science', 'Ecology', 'Social sustainability', 'Engineering', 'Mechanical engineering', 'Environmental science', 'Linguistics', 'Philosophy', 'Ecosystem', 'Law', 'Biology']

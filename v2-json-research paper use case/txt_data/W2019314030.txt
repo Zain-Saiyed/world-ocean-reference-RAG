@@ -1,0 +1,12 @@
+ID: W2019314030
+TITLE: Uncertainty in modeled Arctic sea ice volume
+AUTHOR: ['Axel Schweiger', 'R. W. Lindsay', 'Jinlun Zhang', 'Michael Steele', 'Harry Stern', 'R. Kwok']
+ABSTRACT:
+[1] Uncertainty in the Pan-Arctic Ice-Ocean Modeling and Assimilation System (PIOMAS) Arctic sea ice volume record is characterized. A range of observations and approaches, including in situ ice thickness measurements, ICESat retrieved ice thickness, and model sensitivity studies, yields a conservative estimate for October Arctic ice volume uncertainty of 1.35 × 103 km3 and an uncertainty of the ice volume trend over the 1979–2010 period of 1.0 × 103 km3 decade–1. A conservative estimate of the trend over this period is −2.8 × 103 km3 decade–1. PIOMAS ice thickness estimates agree well with ICESat ice thickness retrievals (<0.1 m mean difference) for the area for which submarine data are available, while difference outside this area are larger. PIOMAS spatial thickness patterns agree well with ICESat thickness estimates with pattern correlations of above 0.8. PIOMAS appears to overestimate thin ice thickness and underestimate thick ice, yielding a smaller downward trend than apparent in reconstructions from observations. PIOMAS ice volume uncertainties and trends are examined in the context of climate change attribution and the declaration of record minima. The distribution of 32 year trends in a preindustrial coupled model simulation shows no trends comparable to those seen in the PIOMAS retrospective, even when the trend uncertainty is accounted for. Attempts to label September minima as new record lows are sensitive to modeling error. However, the September 2010 ice volume anomaly did in fact exceed the previous 2007 minimum by a large enough margin to establish a statistically significant new record.
+
+SOURCE: Journal of geophysical research
+PDF URL: None
+CITED BY COUNT: 452
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Sea ice', 'Volume (thermodynamics)', 'Climatology', 'Geology', 'Arctic', 'The arctic', 'Arctic ice pack', 'Environmental science', 'Meteorology', 'Oceanography', 'Physics', 'Quantum mechanics']

@@ -1,0 +1,12 @@
+ID: W2608133891
+TITLE: Too much of a good thing? Human disturbance linked to ecotourism has a “dose-dependent” impact on innate immunity and oxidative stress in marine iguanas, Amblyrhynchus cristatus
+AUTHOR: ['Susannah S. French', 'Lorin A. Neuman‐Lee', 'Patricia A. Terletzky', 'Nicholas M. Kiriazis', 'Emily N. Taylor', 'Dale F. DeNardo']
+ABSTRACT:
+Human population and thus anthropogenic disturbance of natural systems are increasing at staggering rates. However, the impact of disturbance on natural systems likely varies with the extent of disturbance. While a considerable amount of research has been conducted on high-impact disturbances (e.g., environmental contamination, urban development), much less is known about the effects of less obtrusive activities such as ecotourism and outdoor recreation. Past research has documented behavioral and hormonal changes to non-consumptive wildlife activities; however, these studies rarely provide direct health and survival consequences, or examine impacts over a gradient of disturbances. In the current study, we quantified endocrine and immune responses and reproductive investment in six Galápagos marine iguana (Amblyrhynchus cristatus) populations located across a gradient of human disturbance stemming from the ecotourism industry, including urban development, boat traffic, and ecotourist activities. We regressed fitness-related physiological metrics to the intensity of human disturbance across these populations. As predicted, immunological capabilities decreased and oxidative stress increased with increasing intensity of human disturbance and development. Sexes also differed in their endocrine responses to disturbance intensity, with only males showing elevated baseline corticosterone at sites impacted by tourism. Testosterone and estradiol were both positively related to disturbance intensity. There was also a significant overall negative effect of the presence of human disturbance, but not its intensity, on reproductive investment. These results are the first to demonstrate that measures of physiological performance are sensitive to the intensity, and not merely the presence/absence of human disturbance, and that immunological measures in addition to more traditional methods can serve as important indicators of stress and potentially compromised fitness in natural populations.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Disturbance (geology)', 'Ecology', 'Biology', 'Wildlife', 'Paleontology']

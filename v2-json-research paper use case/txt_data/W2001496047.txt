@@ -1,0 +1,12 @@
+ID: W2001496047
+TITLE: Coral communities of the deep Gulf of Mexico
+AUTHOR: ['Erik E. Cordes', 'Michael P. McGinley', 'Elizabeth L. Podowski', 'Erin L. Becker', 'Stephanie Lessard‐Pilon', 'Stephen T. Viada', 'Charles R. Fisher']
+ABSTRACT:
+Habitat formation by foundation species is a major ecological force affecting community structure in numerous systems. On the upper continental slope of the Gulf of Mexico, the cold-water scleractinian coral Lophelia pertusa creates complex habitat on cold seep-associated carbonates. In this study, the communities associated with the cold-water coral L. pertusa are described from the Gulf of Mexico for the first time. A total of 68 taxa was identified in close association with the coral framework. Three species with specific relationships to L. pertusa were identified: Eunice sp., a polychaete which may facilitate colony formation in L. pertusa; Coralliophila sp., a species of corallivorous gastropod ; and Stenopus sp., a decapod crustacean which may act in a cleaner shrimp role in these habitats. Similarity among coral-associated communities was best explained by similarity in depth of collection and the proportion of live coral in the collections. These variables were somewhat confounded with location as the sites to the east were both shallower and contained higher proportions of live coral; however, distance between collections per se was not as significant in the analyses. The coral-associated communities also showed a low degree of similarity to communities inhabiting vestimentiferan tubeworm aggregations that occur nearby at the same sites. The increased habitat heterogeneity in the coral structure, differences in the niches constructed by the two foundation species, and different direct interspecific interactions between foundation species and members of the associated community contributed to the presence of dissimilar communities in these two biogenic habitats.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 150
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Coral', 'Ecology', 'Habitat', 'Biology', 'Interspecific competition', 'Polychaete', 'Ecological niche', 'Community structure', 'Niche', 'Cold seep', 'Geography', 'Methane']

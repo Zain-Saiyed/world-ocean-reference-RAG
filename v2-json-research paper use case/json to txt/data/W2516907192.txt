@@ -1,0 +1,12 @@
+ID: W2516907192
+TITLE: Formation of the Isthmus of Panama
+AUTHOR: ['Aaron O’Dea', 'H. A. Lessios', 'Anthony G. Coates', 'Ron I. Eytan', 'Sergio A. Restrepo-Moreno', 'Alberto Luis Cione', 'Laurel S. Collins', 'Alan de Queiroz', 'David W. Farris', 'Richard D. Norris', 'Robert F. Stallard', 'Michael O. Woodburne', 'Orangel Aguilera', 'Marie‐Pierre Aubry', 'William A. Berggren', 'Ann F. Budd', 'Mário Alberto Cozzuol', 'Simon E. Coppard', 'Herman Duque-Caro', 'Seth Finnegan', 'Germán Mariano Gasparini', 'Ethan L. Grossman', 'Kenneth G. Johnson', 'Lloyd D Keigwin', 'Nancy\xad Knowlton\xad', 'Egbert Giles Leigh', 'Jill S. Leonard‐Pingel', 'Peter B. Marko', 'Nicholas D. Pyenson', 'Paola G. Rachello-Dolmen', 'Esteban Soibelzon', 'Leopoldo Héctor Soibelzon', 'Jonathan A. Todd', 'Geerat J. Vermeij', 'Jeremy B. C. Jackson']
+ABSTRACT:
+Independent evidence from rocks, fossils, and genes converge on a cohesive narrative of isthmus formation in the Pliocene.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/2/8/e1600883.full.pdf
+CITED BY COUNT: 653
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Panama', 'Paleontology', 'Geology', 'Narrative', 'Evolutionary biology', 'Biology', 'Ecology', 'Art', 'Literature']

@@ -1,0 +1,12 @@
+ID: W2886419286
+TITLE: Challenges to fisheries advice and management due to stock recovery
+AUTHOR: ['Rob van Gemert', 'Ken Haste Andersen']
+ABSTRACT:
+Abstract During the 20th century, many large-bodied fish stocks suffered from unsustainable fishing pressure. Now, signs of recovery are appearing among previously overfished large-bodied fish stocks. This new situation raises the question of whether current fisheries advice and management procedures, which were devised and optimized for depleted stocks, are well-suited for the management of recovered stocks. We highlight two challenges for fisheries advice and management: First, recovered stocks are more likely to show density-dependent growth. We show how the appearance of density-dependent growth will make reference points calculated with current procedures inaccurate. Optimal exploitation of recovered large-bodied fish stocks will therefore require accounting for density-dependent growth. Second, we show how a biomass increase of large-bodied piscivorous fish will lead to a reverse trophic cascade, where their increased predation mortality on forage fish reduces forage fish productivity and abundance. The resulting decrease in maximum sustainable yield of forage fish stocks could lead to conflicts between forage and large-piscivore fisheries. Avoiding such conflicts requires that choices are made between the exploitation of interacting fish stocks. Failure to account for the changed ecological state of recovered stocks risks creating new obstacles to sustainable fisheries management.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/75/6/1864/31237637/fsy084.pdf
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fish stock', 'Fishery', 'Fishing', 'Fisheries management', 'Forage fish', 'Maximum sustainable yield', 'Stock (firearms)', 'Trophic cascade', 'Business', 'Sustainable management', 'Predation', 'Fish <Actinopterygii>', 'Sustainability', 'Ecology', 'Biology', 'Geography', 'Food web', 'Archaeology']

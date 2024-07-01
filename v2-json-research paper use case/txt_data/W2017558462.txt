@@ -1,0 +1,12 @@
+ID: W2017558462
+TITLE: Strategic environmental assessment: the state of the art
+AUTHOR: ['Monica Fundingsland Tetlow', 'Marie Hanusch']
+ABSTRACT:
+This paper reflects upon the current state of the art of strategic environmental assessment (SEA), based on a review of existing literature, recent international conferences and practical experience. It provides an overview of how SEA has evolved, the main schools of thought, and application internationally. It briefly examines whether SEA is making a difference to planning and decision-making processes, and raises the question: 'where to next?' Based on the main strengths, weaknesses, opportunities and threats, a number of recommendations for future practice are made. We conclude that SEA has evolved rapidly into a broad field of application and that the 'family of SEA approaches' continues to develop. SEA brings about numerous benefits and has a high potential to contribute to better decision-making processes, even if it currently falls short of some of its expectations. We suggest that the SEA community must learn to better identify and promote SEA's less tangible benefits beyond the immediate decision-making situation and that SEA practice would benefit from a more explicit understanding and communication of how it can add value to any given context.
+
+SOURCE: Impact assessment and project appraisal
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/14615517.2012.666400?needAccess=true
+CITED BY COUNT: 225
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Strategic environmental assessment', 'Strengths and weaknesses', 'Context (archaeology)', 'Environmental planning', 'Value (mathematics)', 'Management science', 'Environmental resource management', 'State (computer science)', 'Computer science', 'Environmental impact assessment', 'Engineering ethics', 'Political science', 'Environmental science', 'Psychology', 'Geography', 'Engineering', 'Algorithm', 'Law', 'Social psychology', 'Archaeology', 'Machine learning']

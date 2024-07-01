@@ -1,0 +1,12 @@
+ID: W2599135875
+TITLE: Capacity shortfalls hinder the performance of marine protected areas globally
+AUTHOR: ['David Gill', 'Michael B. Mascia', 'Gabby N. Ahmadia', 'Louise Glew', 'Sarah E. Lester', 'Megan Barnes', 'Ian D. Craigie', 'Emily S. Darling', 'Christopher M. Free', 'Jonas Geldmann', 'Susie Holst', 'Olaf P. Jensen', 'Alan T. White', 'Xavier Basurto', 'Lauren Coad', 'Ruth D. Gates', 'Greg Guannel', 'Peter J. Mumby', 'Hannah Thomas', 'Sarah Whitmee', 'Stephen Woodley', 'Helen Fox']
+ABSTRACT:
+Marine protected areas (MPAs) are increasingly being used globally to conserve marine resources. However, whether many MPAs are being effectively and equitably managed, and how MPA management influences substantive outcomes remain unknown. We developed a global database of management and fish population data (433 and 218 MPAs, respectively) to assess: MPA management processes; the effects of MPAs on fish populations; and relationships between management processes and ecological effects. Here we report that many MPAs failed to meet thresholds for effective and equitable management processes, with widespread shortfalls in staff and financial resources. Although 71% of MPAs positively influenced fish populations, these conservation impacts were highly variable. Staff and budget capacity were the strongest predictors of conservation impact: MPAs with adequate staff capacity had ecological effects 2.9 times greater than MPAs with inadequate capacity. Thus, continued global expansion of MPAs without adequate investment in human and financial capacity is likely to lead to sub-optimal conservation outcomes.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 641
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine protected area', 'Marine conservation', 'Business', 'Population', 'Environmental resource management', 'Fish <Actinopterygii>', 'Investment (military)', 'Fishery', 'Ecology', 'Environmental science', 'Biology', 'Environmental health', 'Medicine', 'Habitat', 'Politics', 'Political science', 'Law']

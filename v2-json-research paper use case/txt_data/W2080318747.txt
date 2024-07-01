@@ -1,0 +1,12 @@
+ID: W2080318747
+TITLE: Oxygen distribution and aerobic respiration in the north and south eastern tropical Pacific oxygen minimum zones
+AUTHOR: ['Laura Tiano', 'Emilio García‐Robledo', 'Tage Dalsgaard', 'Allan H. Devol', 'Bess B. Ward', 'Osvaldo Ulloa', 'Donald E. Canfield', 'Niels Peter Revsbech']
+ABSTRACT:
+Highly sensitive STOX O2 sensors were used for determination of in situ O2 distribution in the eastern tropical north and south Pacific oxygen minimum zones (ETN/SP OMZs), as well as for laboratory determination of O2 uptake rates of water masses at various depths within these OMZs. Oxygen was generally below the detection limit (few nmol L−1) in the core of both OMZs, suggesting the presence of vast volumes of functionally anoxic waters in the eastern Pacific Ocean. Oxygen was often not detectable in the deep secondary chlorophyll maximum found at some locations, but other secondary maxima contained up to ~0.4 µmol L−1. Directly measured respiration rates were high in surface and subsurface oxic layers of the coastal waters, reaching values up to 85 nmol L−1 O2 h−1. Substantially lower values were found at the depths of the upper oxycline, where values varied from 2 to 33 nmol L−1 O2 h−1. Where secondary chlorophyll maxima were found the rates were higher than in the oxic water just above. Incubation times longer than 20 h, in the all-glass containers, resulted in highly increased respiration rates. Addition of amino acids to the water from the upper oxycline did not lead to a significant initial rise in respiration rate within the first 20 h, indicating that the measurement of respiration rates in oligotrophic Ocean water may not be severely affected by low levels of organic contamination during sampling. Our measurements indicate that aerobic metabolism proceeds efficiently at extremely low oxygen concentrations with apparent half-saturation concentrations (Km values) ranging from about 10 to about 200 nmol L−1.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 124
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Respiration', 'Oxygen', 'Anoxic waters', 'Chlorophyll a', 'Environmental chemistry', 'Oceanography', 'Photosynthesis', 'Atmosphere (unit)', 'Limiting oxygen concentration', 'Chemistry', 'Environmental science', 'Biology', 'Botany', 'Geology', 'Organic chemistry', 'Physics', 'Thermodynamics']

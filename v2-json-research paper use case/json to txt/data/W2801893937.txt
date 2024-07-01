@@ -1,0 +1,12 @@
+ID: W2801893937
+TITLE: Hurricane Harvey Links to Ocean Heat Content and Climate Change Adaptation
+AUTHOR: ['Kevin E. Trenberth', 'Lijing Cheng', 'Peter Jacobs', 'Yongxin Zhang', 'John T. Fasullo']
+ABSTRACT:
+Abstract While hurricanes occur naturally, human‐caused climate change is supercharging them and exacerbating the risk of major damage. Here using ocean and atmosphere observations, we demonstrate links between increased upper ocean heat content due to global warming with the extreme rainfalls from recent hurricanes. Hurricane Harvey provides an excellent case study as it was isolated in space and time. We show that prior to the beginning of northern summer of 2017, ocean heat content was the highest on record both globally and in the Gulf of Mexico, but the latter sharply decreased with hurricane Harvey via ocean evaporative cooling. The lost ocean heat was realized in the atmosphere as moisture, and then as latent heat in record‐breaking heavy rainfalls. Accordingly, record high ocean heat values not only increased the fuel available to sustain and intensify Harvey but also increased its flooding rains on land. Harvey could not have produced so much rain without human‐induced climate change. Results have implications for the role of hurricanes in climate. Proactive planning for the consequences of human‐caused climate change is not happening in many vulnerable areas, making the disasters much worse.
+
+SOURCE: Earth's future
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2018EF000825
+CITED BY COUNT: 236
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Climate change', 'Climatology', 'Environmental science', 'Atmosphere (unit)', 'Global warming', 'Abrupt climate change', 'Ocean heat content', 'Flooding (psychology)', 'Latent heat', 'Extreme heat', 'Effects of global warming', 'Oceanography', 'Meteorology', 'Sea surface temperature', 'Geography', 'Geology', 'Psychology', 'Psychotherapist']

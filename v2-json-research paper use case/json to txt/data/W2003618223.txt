@@ -1,0 +1,12 @@
+ID: W2003618223
+TITLE: Objective automated classification technique for marine landscape mapping in submarine canyons
+AUTHOR: ['Khaira Ismail', 'Veerle A.I. Huvenne', 'Douglas G. Masson']
+ABSTRACT:
+This study proposes a fully automated and objective technique to map marine landscapes in submarine canyons. The method is suitable for broad and regional scale mapping derived from sonar data using multivariate statistical analysis. The method is divided into two main parts: the terrain analysis and the multivariate statistical analysis. The first part aims to optimise the sonar data and comprises three steps 1) data resampling, 2) determination of length scale, and 3) multiple scale analysis. The second part covers the actual marine landscape classification and consists of 1) principal component analysis (PCA), 2) K-means clustering, and 3) cluster determination. In addition, a confidence map is presented based on cluster membership derived from cluster distance in attribute space. The technique was applied in the Lisbon–Setúbal and Cascais Canyons offshore Portugal. The area was classified into 6 marine landscapes that represent the geomorphological features present in submarine canyons. The main findings from the study are 1) the transferability of a tool from geomorphometric analysis – Estimation of Scale Parameter (ESP) – to detect the length scale of potential patterns in bathymetric grids; 2) multiple scale terrain analysis allows an appropriate discrimination of local and broad scale geomorphic features in marine landscape mapping; 3) the method not only delineates geomorphic seafloor features but also points out properties that might influence biodiversity in a complex terrain.
+
+SOURCE: Marine geology
+PDF URL: None
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Terrain', 'Bathymetry', 'Scale (ratio)', 'Geology', 'Sonar', 'Remote sensing', 'Principal component analysis', 'Cluster analysis', 'Canyon', 'Hierarchical clustering', 'Cartography', 'Computer science', 'Artificial intelligence', 'Geography', 'Geomorphology', 'Oceanography']

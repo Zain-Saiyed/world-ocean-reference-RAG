@@ -1,0 +1,12 @@
+ID: W2944017778
+TITLE: Forcing Factors Affecting Sea Level Changes at the Coast
+AUTHOR: ['Philip L. Woodworth', 'Angélique Melet', 'Marta Marcos', 'Richard D. Ray', 'Guy Wöppelmann', 'Yoshi N. Sasaki', 'Mauro Cirano', 'Angela Hibbert', 'John M. Huthnance', 'S. Monserrat', 'M. A. Merrifield']
+ABSTRACT:
+We review the characteristics of sea level variability at the coast focussing on how it differs from the variability in the nearby deep ocean. Sea level variability occurs on all timescales, with processes at higher frequencies tending to have a larger magnitude at the coast due to resonance and other dynamics. In the case of some processes, such as the tides, the presence of the coast and the shallow waters of the shelves results in the processes being considerably more complex than offshore. However, ‘coastal variability’ should not always be considered as ‘short spatial scale variability’ but can be the result of signals transmitted along the coast from 1000s km away. Fortunately, thanks to tide gauges being necessarily located at the coast, many aspects of coastal sea level variability can be claimed to be better understood than those in the deep ocean. Nevertheless, certain aspects of coastal variability remain under-researched, including how changes in some processes (e.g., wave setup, river runoff) may have contributed to the historical mean sea level records obtained from tide gauges which are now used routinely in large-scale climate research.
+
+SOURCE: Surveys in geophysics
+PDF URL: https://link.springer.com/content/pdf/10.1007/s10712-019-09531-1.pdf
+CITED BY COUNT: 176
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Tide gauge', 'Sea level', 'Submarine pipeline', 'Oceanography', 'Forcing (mathematics)', 'Spatial variability', 'Geology', 'Magnitude (astronomy)', 'Environmental science', 'Climatology', 'Statistics', 'Physics', 'Mathematics', 'Astronomy']

@@ -1,0 +1,12 @@
+ID: W2929657931
+TITLE: Estimating Mangrove Forest Volume Using Terrestrial Laser Scanning and UAV-Derived Structure-from-Motion
+AUTHOR: ['Angus D. Warfield', 'Javier X. Leon']
+ABSTRACT:
+Mangroves provide a variety of ecosystem services, which can be related to their structuralcomplexity and ability to store carbon in the above ground biomass (AGB). Quantifying AGB inmangroves has traditionally been conducted using destructive, time-consuming, and costlymethods, however, Structure-from-Motion Multi-View Stereo (SfM-MVS) combined withunmanned aerial vehicle (UAV) imagery may provide an alternative. Here, we compared the abilityof SfM-MVS with terrestrial laser scanning (TLS) to capture forest structure and volume in threemangrove sites of differing stand age and species composition. We describe forest structure in termsof point density, while forest volume is estimated as a proxy for AGB using the surface differencingmethod. In general, SfM-MVS poorly captured mangrove forest structure, but was efficient incapturing the canopy height for volume estimations. The differences in volume estimations betweenTLS and SfM-MVS were higher in the juvenile age site (42.95%) than the mixed (28.23%) or mature(12.72%) age sites, with a higher stem density affecting point capture in both methods. These resultscan be used to inform non-destructive, cost-effective, and timely assessments of forest structure orAGB in mangroves in the future.
+
+SOURCE: Drones
+PDF URL: https://www.mdpi.com/2504-446X/3/2/32/pdf?version=1556613343
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Forest structure', 'Canopy', 'Structure from motion', 'Environmental science', 'Biomass (ecology)', 'Point cloud', 'Volume (thermodynamics)', 'Lidar', 'Remote sensing', 'Geography', 'Forestry', 'Ecology', 'Computer science', 'Motion (physics)', 'Biology', 'Archaeology', 'Physics', 'Quantum mechanics', 'Artificial intelligence', 'Computer vision']

@@ -1,0 +1,12 @@
+ID: W2909132361
+TITLE: New Drugs from the Sea: Pro-Apoptotic Activity of Sponges and Algae Derived Compounds
+AUTHOR: ['Giuseppe Ercolano', 'Paola De Cicco', 'Angela Ianaro']
+ABSTRACT:
+Natural compounds derived from marine organisms exhibit a wide variety of biological activities. Over the last decades, a great interest has been focused on the anti-tumour role of sponges and algae that constitute the major source of these bioactive metabolites. A substantial number of chemically different structures from different species have demonstrated inhibition of tumour growth and progression by inducing apoptosis in several types of human cancer. The molecular mechanisms by which marine natural products activate apoptosis mainly include (1) a dysregulation of the mitochondrial pathway; (2) the activation of caspases; and/or (3) increase of death signals through transmembrane death receptors. This great variety of mechanisms of action may help to overcome the multitude of resistances exhibited by different tumour specimens. Therefore, products from marine organisms and their synthetic derivates might represent promising sources for new anticancer drugs, both as single agents or as co-adjuvants with other chemotherapeutics. This review will focus on some selected bioactive molecules from sponges and algae with pro-apoptotic potential in tumour cells.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/17/1/31/pdf?version=1546848565
+CITED BY COUNT: 62
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Biology', 'Apoptosis', 'Caspase', 'Algae', 'Sponge', 'Programmed cell death', 'Cancer cell', 'Cell biology', 'Biochemistry', 'Cancer', 'Botany', 'Genetics']

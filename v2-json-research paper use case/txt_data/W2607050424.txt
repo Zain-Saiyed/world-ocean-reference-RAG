@@ -1,0 +1,12 @@
+ID: W2607050424
+TITLE: Emergent constraints on projections of declining primary production in the tropical oceans
+AUTHOR: ['Lester Kwiatkowski', 'Laurent Bopp', 'Olivier Aumont', 'Philippe Ciais', 'Peter M. Cox', 'Charlotte Laufkötter', 'Yue Li', 'Roland Séférian']
+ABSTRACT:
+Emergent constraints on tropical marine primary production increase confidence in a long-term decrease in primary productivity in response to rising sea surface temperatures. The most extreme projected declines in productivity are, however, unlikely. Marine primary production is a fundamental component of the Earth system, providing the main source of food and energy to the marine food web, and influencing the concentration of atmospheric CO2 (refs 1,2). Earth system model (ESM) projections of global marine primary production are highly uncertain with models projecting both increases3,4 and declines of up to 20% by 21005,6. This uncertainty is predominantly driven by the sensitivity of tropical ocean primary production to climate change, with the latest ESMs suggesting twenty-first-century tropical declines of between 1 and 30% (refs 5,6). Here we identify an emergent relationship7,8,9,10,11 between the long-term sensitivity of tropical ocean primary production to rising equatorial zone sea surface temperature (SST) and the interannual sensitivity of primary production to El Niño/Southern Oscillation (ENSO)-driven SST anomalies. Satellite-based observations of the ENSO sensitivity of tropical primary production are then used to constrain projections of the long-term climate impact on primary production. We estimate that tropical primary production will decline by 3 ± 1% per kelvin increase in equatorial zone SST. Under a business-as-usual emissions scenario this results in an 11 ± 6% decline in tropical marine primary production and a 6 ± 3% decline in global marine primary production by 2100.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 111
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Climatology', 'Environmental science', 'Tropical marine climate', 'Sea surface temperature', 'Primary production', 'Tropics', 'Productivity', 'Climate change', 'Oceanography', 'La Niña', 'Tropical climate', 'Primary productivity', 'Tropical Atlantic', 'Primary producers', 'El Niño Southern Oscillation', 'Geography', 'Geology', 'Phytoplankton', 'Ecology', 'Ecosystem', 'Meteorology', 'Biology', 'Macroeconomics', 'Nutrient', 'Economics']

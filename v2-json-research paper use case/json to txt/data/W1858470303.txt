@@ -1,0 +1,12 @@
+ID: W1858470303
+TITLE: The Pharmaceutical Industry and the Future of Drug Development
+AUTHOR: ['David B. Taylor']
+ABSTRACT:
+The pharmaceutical industry has a number of unusual characteristics, both in its structure and in the nature of its business operations, which are little known outside the industry but which materially affect the process of bringing new pharmaceuticals to the patient. The development of a new pharmaceutical is very time consuming, extremely costly and high risk, with very little chance of a successful outcome. The process of research and development is described, together with all its challenges, including environmental ones. The commercial realities and constraints of the business, together with its current problems, are discussed, followed by an exploration of some of the likely future commercial and technical developments in the business, including the development of a greener pharmacy.
+
+SOURCE: The Royal Society of Chemistry eBooks
+PDF URL: None
+CITED BY COUNT: 104
+PUBLICATION YEAR: 2015
+TYPE: book-chapter
+CONCEPTS: ['Pharmaceutical industry', 'Pharmacy', 'Drug development', 'Business', 'Process (computing)', 'Risk analysis (engineering)', 'Business development', 'Process management', 'Drug', 'Marketing', 'Medicine', 'Computer science', 'Pharmacology', 'Family medicine', 'Operating system']

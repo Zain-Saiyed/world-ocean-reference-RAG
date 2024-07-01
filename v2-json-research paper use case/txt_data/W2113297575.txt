@@ -1,0 +1,12 @@
+ID: W2113297575
+TITLE: Anthropogenic ocean acidification over the twenty-first century and its impact on calcifying organisms
+AUTHOR: ['James C. Orr', 'Victoria J. Fabry', 'Olivier Aumont', 'Laurent Bopp', 'Scott C. Doney', 'Richard A. Feely', 'Anand Gnanadesikan', 'Nicolas Gruber', 'Akio Ishida', 'Fortunat Joos', 'Robert M. Key', 'Keith Lindsay', 'Ernst Maier‐Reimer', 'Richard J. Matear', 'Patrick Monfray', 'Anne Mouchet', 'Raymond G. Najjar', 'Gian‐Kasper Plattner', 'Keith B. Rodgers', 'Christopher L. Sabine', 'Jorge L. Sarmiento', 'Reiner Schlitzer', 'Richard D. Slater', 'I. Totterdell', 'Marie-France Weirig', 'Yasuhiro Yamanaka', 'Andrew Yool']
+ABSTRACT:
+Today's surface ocean is saturated with respect to calcium carbonate, but increasing atmospheric carbon dioxide concentrations are reducing ocean pH and carbonate ion concentrations, and thus the level of calcium carbonate saturation. Experimental evidence suggests that if these trends continue, key marine organisms--such as corals and some plankton--will have difficulty maintaining their external calcium carbonate skeletons. Here we use 13 models of the ocean-carbon cycle to assess calcium carbonate saturation under the IS92a 'business-as-usual' scenario for future emissions of anthropogenic carbon dioxide. In our projections, Southern Ocean surface waters will begin to become undersaturated with respect to aragonite, a metastable form of calcium carbonate, by the year 2050. By 2100, this undersaturation could extend throughout the entire Southern Ocean and into the subarctic Pacific Ocean. When live pteropods were exposed to our predicted level of undersaturation during a two-day shipboard experiment, their aragonite shells showed notable dissolution. Our findings indicate that conditions detrimental to high-latitude ecosystems could develop within decades, not centuries as suggested previously.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 3987
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Aragonite', 'Ocean acidification', 'Calcium carbonate', 'Carbonate', 'Oceanography', 'Carbon dioxide', "Carbon dioxide in Earth's atmosphere", 'Plankton', 'Environmental science', 'Subarctic climate', 'Geology', 'Seawater', 'Chemistry', 'Ecology', 'Climate change', 'Biology', 'Organic chemistry']

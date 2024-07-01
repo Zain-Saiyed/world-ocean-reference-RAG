@@ -1,0 +1,12 @@
+ID: W2885538127
+TITLE: Distributed natural gas venting offshore along the Cascadia margin
+AUTHOR: ['Michael Riedel', 'Martin Scherwath', 'Miriam Römer', 'Mario Veloso', 'Henno Martin', 'G. D. Spence']
+ABSTRACT:
+Widespread gas venting along the Cascadia margin is investigated from acoustic water column data and reveals a nonuniform regional distribution of over 1100 mapped acoustic flares. The highest number of flares occurs on the shelf, and the highest flare density is seen around the nutrition-rich outflow of the Juan de Fuca Strait. We determine ∼430 flow-rates at ∼340 individual flare locations along the margin with instantaneous in situ values ranging from ∼6 mL min-1 to ∼18 L min-1. Applying a tidal-modulation model, a depth-dependent methane density, and extrapolating these results across the margin using two normalization techniques yields a combined average in situ flow-rate of ∼88 × 106 kg y-1. The average methane flux-rate for the Cascadia margin is thus estimated to ∼0.9 g y-1m-2. Combined uncertainties result in a range of these values between 4.5 and 1800% of the estimated mean values.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-05736-x.pdf
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Methane', 'Geology', 'Submarine pipeline', 'Margin (machine learning)', 'Outflow', 'Normalization (sociology)', 'Continental margin', 'Flare', 'Flux (metallurgy)', 'Seismology', 'Oceanography', 'Physics', 'Materials science', 'Chemistry', 'Metallurgy', 'Organic chemistry', 'Machine learning', 'Sociology', 'Computer science', 'Anthropology', 'Astrophysics', 'Tectonics']

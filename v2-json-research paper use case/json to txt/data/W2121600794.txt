@@ -1,0 +1,12 @@
+ID: W2121600794
+TITLE: Bringing values and deliberation to science communication
+AUTHOR: ['Thomas Dietz']
+ABSTRACT:
+Decisions always involve both facts and values, whereas most science communication focuses only on facts. If science communication is intended to inform decisions, it must be competent with regard to both facts and values. Public participation inevitably involves both facts and values. Research on public participation suggests that linking scientific analysis to public deliberation in an iterative process can help decision making deal effectively with both facts and values. Thus, linked analysis and deliberation can be an effective tool for science communication. However, challenges remain in conducting such process at the national and global scales, in enhancing trust, and in reconciling diverse values.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/110/Supplement_3/14081.full.pdf
+CITED BY COUNT: 350
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Deliberation', 'Process (computing)', 'Science communication', 'Public participation', 'Management science', 'Political science', 'Public relations', 'Sociology', 'Computer science', 'Epistemology', 'Engineering ethics', 'Psychology', 'Science education', 'Economics', 'Law', 'Engineering', 'Philosophy', 'Politics', 'Operating system']

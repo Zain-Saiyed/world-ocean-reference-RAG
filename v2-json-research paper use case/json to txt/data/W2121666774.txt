@@ -1,0 +1,12 @@
+ID: W2121666774
+TITLE: Downwelling and deep‐water bottom currents as food supply mechanisms to the cold‐water coral Lophelia pertusa (Scleractinia) at the Mingulay Reef Complex
+AUTHOR: ['Andrew J. Davies', 'G.C.A. Duineveld', 'Marc Lavaleye', 'M.J.N. Bergman', 'Hans van Haren', 'J. Murray Roberts']
+ABSTRACT:
+In 2006 and 2007, multiple deployments of current meters and optical sensors on landers and moorings were made in the first detailed in situ study of the particle supply to the coral community in the Mingulay Reef complex in the Sea of Hebrides at 140‐m water depth. Two distinct and predictable supply mechanisms were resolved. One mechanism consisted of the rapid downwelling of surface water caused by hydraulic control of tidal flow that transports particles from the surface to the corals in less than an hour. The rapid downwelling was recorded on the reef top as a pulse of warm, fluorescent, and relatively clear water at the onset of the flood and ebb tides. The pulse was strongest after flood tide and lasted for up to 3 h. The second mechanism consisted of advection onto the reef of deep bottom water with a high suspended matter load. This advection occurred during peak tides and was combined with topographical current acceleration on the reef top, enhancing delivery of particles to the corals.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.2009.54.2.0620
+CITED BY COUNT: 252
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Downwelling', 'Reef', 'Oceanography', 'Advection', 'Geology', 'Current (fluid)', 'Coral', 'Coral reef', 'Environmental science', 'Upwelling', 'Physics', 'Thermodynamics']

@@ -1,0 +1,12 @@
+ID: W2416539048
+TITLE: Global diversity patterns in sandy beach macrofauna: a biogeographic analysis
+AUTHOR: ['Francisco R. Barboza', 'Omar Defeo']
+ABSTRACT:
+Unlike the advances generated on land, the knowledge of global diversity patterns in marine ecosystems is limited to a small number of studies. For sandy beaches, which dominate the world's ocean shores, previous meta-analyses highlighted the role of beach morphodynamics in explaining species richness patterns. Oceanographic variables and historical processes have not been considered, even though they could be main predictors of community structure. Our work, based on 256 sandy beaches around the world, analysed species richness considering for the first time temperature, salinity and primary productivity. Biogeographic units (realms, provinces and ecoregions) were used to incorporate historical factors in modelling processes. Ecoregions, which implicitly include isolation and coastal complexity among other historical geographic factors, best represented trends in species richness worldwide. Temperature was a main predictor of species richness, which increased from temperate to tropical sandy beaches. Species richness increased with tide range and towards wide beaches with gentle slopes and fine grains, which is consistent with the hypothesis that habitat availability has an important role in structuring sandy beach communities. The role of temperature and habitat availability suggests that ocean warming and sea level rise could affect the distribution of obligate species living in these narrow ecosystems.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep14515.pdf
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Species richness', 'Ecology', 'Habitat', 'Geography', 'Range (aeronautics)', 'Ecosystem', 'Biodiversity', 'Species distribution', 'Species diversity', 'Oceanography', 'Biology', 'Geology', 'Materials science', 'Composite material']

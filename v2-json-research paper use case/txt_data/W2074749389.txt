@@ -1,0 +1,12 @@
+ID: W2074749389
+TITLE: Plastic Accumulation in the North Atlantic Subtropical Gyre
+AUTHOR: ['Kara Lavender Law', 'Skye Morét-Ferguson', 'Nikolai Maximenko', 'G. Proskurowski', 'Emily E. Peacock', 'Jan Hafner', 'Christopher M. Reddy']
+ABSTRACT:
+Plastic marine pollution is a major environmental concern, yet a quantitative description of the scope of this problem in the open ocean is lacking. Here, we present a time series of plastic content at the surface of the western North Atlantic Ocean and Caribbean Sea from 1986 to 2008. More than 60% of 6136 surface plankton net tows collected buoyant plastic pieces, typically millimeters in size. The highest concentration of plastic debris was observed in subtropical latitudes and associated with the observed large-scale convergence in surface currents predicted by Ekman dynamics. Despite a rapid increase in plastic production and disposal during this time period, no trend in plastic concentration was observed in the region of highest accumulation.
+
+SOURCE: Science
+PDF URL: https://www.science.org/cms/asset/aaf458e8-35cd-44ce-88e1-eb16a2def787/pap.pdf
+CITED BY COUNT: 1063
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'Oceanography', 'Subtropics', 'Ocean current', 'Thermohaline circulation', 'Debris', 'Environmental science', 'Plastic pollution', 'Geology', 'Circulation (fluid dynamics)', 'Shutdown of thermohaline circulation', 'North Atlantic Deep Water', 'Fishery', 'Microplastics', 'Biology', 'Engineering', 'Aerospace engineering']

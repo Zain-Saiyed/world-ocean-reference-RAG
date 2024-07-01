@@ -1,0 +1,12 @@
+ID: W2766913603
+TITLE: Impact of climate change on New York City’s coastal flood hazard: Increasing flood heights from the preindustrial to 2300 CE
+AUTHOR: ['Andra J. Garner', 'Michael Mann', 'Kerry Emanuel', 'Robert Kopp', 'Ning Lin', 'Richard B. Alley', 'Benjamin P. Horton', 'Robert M. DeConto', 'Jeffrey P. Donnelly', 'David Pollard']
+ABSTRACT:
+The flood hazard in New York City depends on both storm surges and rising sea levels. We combine modeled storm surges with probabilistic sea-level rise projections to assess future coastal inundation in New York City from the preindustrial era through 2300 CE. The storm surges are derived from large sets of synthetic tropical cyclones, downscaled from RCP8.5 simulations from three CMIP5 models. The sea-level rise projections account for potential partial collapse of the Antarctic ice sheet in assessing future coastal inundation. CMIP5 models indicate that there will be minimal change in storm-surge heights from 2010 to 2100 or 2300, because the predicted strengthening of the strongest storms will be compensated by storm tracks moving offshore at the latitude of New York City. However, projected sea-level rise causes overall flood heights associated with tropical cyclones in New York City in coming centuries to increase greatly compared with preindustrial or modern flood heights. For the various sea-level rise scenarios we consider, the 1-in-500-y flood event increases from 3.4 m above mean tidal level during 1970-2005 to 4.0-5.1 m above mean tidal level by 2080-2100 and ranges from 5.0-15.4 m above mean tidal level by 2280-2300. Further, we find that the return period of a 2.25-m flood has decreased from ∼500 y before 1800 to ∼25 y during 1970-2005 and further decreases to ∼5 y by 2030-2045 in 95% of our simulations. The 2.25-m flood height is permanently exceeded by 2280-2300 for scenarios that include Antarctica's potential partial collapse.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/114/45/11861.full.pdf
+CITED BY COUNT: 174
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Storm surge', 'Flood myth', 'Storm', 'Climatology', 'Return period', 'Coastal flood', 'Environmental science', 'Sea level', 'Climate change', 'Tropical cyclone', 'Geology', 'Sea level rise', 'Oceanography', 'Geography', 'Archaeology']

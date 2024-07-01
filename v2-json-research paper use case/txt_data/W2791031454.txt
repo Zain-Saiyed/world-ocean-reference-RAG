@@ -1,0 +1,12 @@
+ID: W2791031454
+TITLE: Scientific rationale and international obligations for protection of active hydrothermal vent ecosystems from deep-sea mining
+AUTHOR: ['C. L. Van Dover', 'Sophie Arnaud‐Haond', 'Matthew Gianni', 'Stefan Helmreich', 'J. A. Huber', 'Aline Jaeckel', 'Anna Meta×as', 'Linwood H. Pendleton', 'Sven Petersen', 'Eva Ramírez-Llodra', 'Philip E. Steinberg', 'Verena Tunnicliffe', 'Hiroyuki Yamamoto']
+ABSTRACT:
+There is increasing interest in mining minerals on the seabed, including seafloor massive sulfide deposits that form at hydrothermal vents. The International Seabed Authority is currently drafting a Mining Code, including environmental regulations, for polymetallic sulfides and other mineral exploitation on the seabed in the area beyond national jurisdictions. This paper summarizes 1) the ecological vulnerability of active vent ecosystems and aspects of this vulnerability that remain subject to conjecture, 2) evidence for limited mineral resource opportunity at active vents, 3) non-extractive values of active vent ecosystems, 4) precedents and international obligations for protection of hydrothermal vents, and 5) obligations of the International Seabed Authority under the UN Convention on the Law of the Sea for protection of the marine environment from the impacts of mining. Heterogeneity of active vent ecosystems makes it extremely challenging to identify “representative” systems for any regional, area-based management approach to conservation. Protection of active vent ecosystems from mining impacts (direct and indirect) would set aside only a small fraction of the international seabed and its mineral resources, would contribute to international obligations for marine conservation, would have non-extractive benefits, and would be a precautionary approach.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 133
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Hydrothermal vent', 'Seabed', 'Ecosystem', 'International law', 'United Nations Convention on the Law of the Sea', 'Environmental science', 'Environmental protection', 'Environmental resource management', 'Oceanography', 'Ecology', 'Geology', 'Hydrothermal circulation', 'Law', 'Seismology', 'Political science', 'Biology']

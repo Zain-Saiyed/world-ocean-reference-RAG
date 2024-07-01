@@ -1,0 +1,12 @@
+ID: W2645884898
+TITLE: Microplastics in the sediments of Terra Nova Bay (Ross Sea, Antarctica)
+AUTHOR: ['Maria Luisa Cristina', 'Vanessa Infantini', 'Marco Scoponi', 'Eugenio Rastelli', 'Cinzia Corinaldesi', 'Michele Mistri']
+ABSTRACT:
+This is the first survey to investigate the occurrence and extent of plastic contamination in sediments collected in Terra Nova Bay (Ross Sea, Antarctica). Plastic debris extracted from 31 samples of sediments were counted, weighted and identified by Fourier-transform infrared spectroscopy (FT-IR). All sediment samples contained plastics: a total of 1661 items of debris (3.14g) were recorded from the 31 samples of sediment. Plastic particles in the samples ranged from 0.3 to 22mm in length. Fibres were the most frequent type of small plastics debris detected. In terms of abundance, microplastics (<5mm) accounted for 78.4% of debris. 9 polymer types were found: the most common material (94.13% by weight) was styrene-butadiene-styrene copolymer (SBS), widely used in pneumatic tires, etc. A decreasing concentration of plastic debris at increasing distances from the Mario Zucchelli Base was evidenced.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 223
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Debris', 'Bay', 'Sediment', 'Environmental science', 'Environmental chemistry', 'Marine debris', 'Contamination', 'Seawater', 'Geology', 'Oceanography', 'Chemistry', 'Geomorphology', 'Ecology', 'Biology']

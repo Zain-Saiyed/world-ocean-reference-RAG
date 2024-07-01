@@ -1,0 +1,12 @@
+ID: W2609109115
+TITLE: Upper ocean O <sub>2</sub> trends: 1958–2015
+AUTHOR: ['Takamitsu Ito', 'Shoshiro Minobe', 'Matthew C. Long', 'Curtis Deutsch']
+ABSTRACT:
+Abstract Historic observations of dissolved oxygen (O 2 ) in the ocean are analyzed to quantify multidecadal trends and variability from 1958 to 2015. Additional quality control is applied, and the resultant oxygen anomaly field is used to quantify upper ocean O 2 trends at global and hemispheric scales. A widespread negative O 2 trend is beginning to emerge from the envelope of interannual variability. Ocean reanalysis data are used to evaluate relationships with changes in ocean heat content (OHC) and oxygen solubility (O 2,sat ). Global O 2 decline is evident after the 1980s, accompanied by an increase in global OHC. The global upper ocean O 2 inventory (0–1000 m) changed at the rate of −243 ± 124 T mol O 2 per decade. Further, the O 2 inventory is negatively correlated with the OHC ( r = −0.86; 0–1000 m) and the regression coefficient of O 2 to OHC is approximately −8.2 ± 0.66 nmol O 2 J −1 , on the same order of magnitude as the simulated O 2 ‐heat relationship typically found in ocean climate models. Variability and trends in the observed upper ocean O 2 concentration are dominated by the apparent oxygen utilization component with relatively small contributions from O 2,sat . This indicates that changing ocean circulation, mixing, and/or biochemical processes, rather than the direct thermally induced solubility effects, are the primary drivers for the observed O 2 changes. The spatial patterns of the multidecadal trend include regions of enhanced ocean deoxygenation including the subpolar North Pacific, eastern boundary upwelling systems, and tropical oxygen minimum zones. Further studies are warranted to understand and attribute the global O 2 trends and their regional expressions.
+
+SOURCE: Geophysical research letters
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/2017gl073613
+CITED BY COUNT: 138
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Ocean heat content', 'Environmental science', 'Anomaly (physics)', 'Climatology', 'Oceanography', 'Ocean current', 'Geology', 'Physics', 'Condensed matter physics']

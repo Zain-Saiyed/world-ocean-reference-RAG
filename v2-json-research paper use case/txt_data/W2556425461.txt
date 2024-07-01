@@ -1,0 +1,12 @@
+ID: W2556425461
+TITLE: Factors regulating the Great Calcite Belt in the Southern Ocean and its biogeochemical significance
+AUTHOR: ['William M. Balch', 'Nicholas R. Bates', 'Phoebe J. Lam', 'Benjamin S. Twining', 'Sarah Z. Rosengard', 'Bruce C. Bowler', 'David T. Drapeau', 'Rebecca Garley', 'Laura C. Lubelczyk', 'Catherine Mitchell', 'Sara Rauschenberg']
+ABSTRACT:
+Abstract The Great Calcite Belt (GCB) is a region of elevated surface reflectance in the Southern Ocean (SO) covering ~16% of the global ocean and is thought to result from elevated, seasonal concentrations of coccolithophores. Here we describe field observations and experiments from two cruises that crossed the GCB in the Atlantic and Indian sectors of the SO. We confirm the presence of coccolithophores, their coccoliths, and associated optical scattering, located primarily in the region of the subtropical, Agulhas, and Subantarctic frontal regions. Coccolithophore‐rich regions were typically associated with high‐velocity frontal regions with higher seawater partial pressures of CO 2 ( p CO 2 ) than the atmosphere, sufficient to reverse the direction of gas exchange to a CO 2 source. There was no calcium carbonate (CaCO 3 ) enhancement of particulate organic carbon (POC) export, but there were increased POC transfer efficiencies in high‐flux particulate inorganic carbon regions. Contemporaneous observations are synthesized with results of trace‐metal incubation experiments, 234 Th‐based flux estimates, and remotely sensed observations to generate a mandala that summarizes our understanding about the factors that regulate the location of the GCB.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2016GB005414
+CITED BY COUNT: 99
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Calcite', 'Biogeochemical cycle', 'Oceanography', 'Flux (metallurgy)', 'Coccolithophore', 'Calcium carbonate', 'Geology', 'Particulates', 'Carbonate', 'Seawater', 'Atmosphere (unit)', 'Environmental science', 'Atmospheric sciences', 'Mineralogy', 'Environmental chemistry', 'Phytoplankton', 'Chemistry', 'Geography', 'Meteorology', 'Nutrient', 'Organic chemistry']

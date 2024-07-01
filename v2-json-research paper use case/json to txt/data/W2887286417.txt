@@ -1,0 +1,12 @@
+ID: W2887286417
+TITLE: Far from home: Distance patterns of global fishing fleets
+AUTHOR: ['David Tickler', 'Jessica J. Meeuwig', 'Maria Lourdes D. Palomares', 'Daniel Pauly', 'Dirk Zeller']
+ABSTRACT:
+Postwar growth of industrial fisheries catch to its peak in 1996 was driven by increasing fleet capacity and geographical expansion. An investigation of the latter, using spatially allocated reconstructed catch data to quantify "mean distance to fishing grounds," found global trends to be dominated by the expansion histories of a small number of distant-water fishing countries. While most countries fished largely in local waters, Taiwan, South Korea, Spain, and China rapidly increased their mean distance to fishing grounds by 2000 to 4000 km between 1950 and 2014. Others, including Japan and the former USSR, expanded in the postwar decades but then retrenched from the mid-1970s, as access to other countries' waters became increasingly restricted with the advent of exclusive economic zones formalized in the 1982 United Nations Convention on the Law of the Sea. Since 1950, heavily subsidized fleets have increased the total fished area from 60% to more than 90% of the world's oceans, doubling the average distance traveled from home ports but catching only one-third of the historical amount per kilometer traveled. Catch per unit area has declined by 22% since the mid-1990s, as fleets approach the limits of geographical expansion. Allowing these trends to continue threatens the bioeconomic sustainability of fisheries globally.
+
+SOURCE: Science advances
+PDF URL: https://www.science.org/doi/pdf/10.1126/sciadv.aar3279?download=true
+CITED BY COUNT: 104
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishing', 'Geography', 'China', 'Fishery', 'Nautical mile', 'Exclusive economic zone', 'Sustainability', 'Ecology', 'Biology', 'Cartography', 'Archaeology']

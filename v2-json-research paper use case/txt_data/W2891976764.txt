@@ -1,0 +1,12 @@
+ID: W2891976764
+TITLE: Losses of salt marsh in China: Trends, threats and management
+AUTHOR: ['Jiali Gu', 'Min Luo', 'Xiujuan Zhang', 'George Christakos', 'Susana Agustı́', 'Carlos M. Duarte', 'Jiaping Wu']
+ABSTRACT:
+Coastal salt marsh, one of the blue carbon ecosystems that can adapt and mitigate climate change influence, is drawing global attention due to its high carbon sequestration capability. In China, however, coastal salt marsh has suffered great losses. Nation-wide analysis of salt marsh trends and management is critical to ecosystem protection and restoration. Thus, by analyzing previous coastal salt marsh studies, we found that the extent of coastal salt marsh varied greatly among the Liao River Delta, the Yellow River Delta, the middle coast of Jiangsu Province, Chongming Dongtan and Jiuduansha in Shanghai, with a 59% overall loss of salt marsh extent from the 1980s to the 2010s. The rate of salt marsh loss slowed down after the year 2000. Coastal land-claim (reclamation) is the most dominant driver of salt marsh loss. Climate change and coastal erosion, invasive species, and vegetation dynamics driven by competition and succession have also led to various effects on salt marsh extent and the ecological services they provide. Sea level rise, reclamation pressure and environmental pollution are the main factors, as negative drivers, together with conservation and restoration policies, as positive ones, affecting future trends in salt marshes. China has implemented several measures to protect and restore salt marshes, such as setting up protected areas, drawing marine ecological redline, and making strict regulations on reclamation. However, stronger legal protection for wetlands, more effective enforcement, and participation by local communities can further enhance salt marsh restoration, conservation and management.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 109
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Marsh', 'Wetland', 'Land reclamation', 'Environmental science', 'Blue carbon', 'Spartina alterniflora', 'Ecosystem services', 'Vegetation (pathology)', 'Ecosystem', 'Environmental protection', 'Geography', 'Ecology', 'Medicine', 'Pathology', 'Seagrass', 'Biology', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W2791569008
+TITLE: Does the Mid-Atlantic Ridge affect the distribution of abyssal benthic crustaceans across the Atlantic Ocean?
+AUTHOR: ['Simon Bober', 'Saskia Brix', 'Torben Riehl', 'Martin Schwentner', 'Angelika Brandt']
+ABSTRACT:
+A trans-Atlantic transect along the Vema Fracture Zone was sampled during the Vema-TRANSIT expedition in 2014/15. The aim of the cruise was to investigate whether the Mid-Atlantic Ridge (MAR) isolates the abyssal fauna of the western and eastern abyssal basins. Based on two genetic datasets of Macrostylidae and Desmosomatidae/Nannoniscidae studied by Riehl et al. and Brix et al. in this issue we found that most of the therein-delimitated species were found at only one side of the MAR. We analysed those species of Macrostylidae and Desmosomatidae that were sampled across the MAR and complemented these with one species of a third family: Munnopsidae. With these datasets we were further able to consider the effect of different niche adaptations: Macrostylidae are infaunal (burrowing), Munnopsidae are considered epifaunal with pronounced swimming capabilities and Desmosomatidae and Nannoniscidae are partly able to swim, but are not as well adapted to swimming as Munnopsidae. We concluded that the MAR seems to be a dispersal barrier for the non-swimming Macrostylidae as well as weakly-swimming Desmosomatidae and Nannoniscidae. However, four species of Macrostylidae and Desmosomatidae did cross the MAR, but evidence for regular unrestricted gene flow is still lacking. For the swimming Munnopsidae we were able to detect persistent gene flow across the MAR.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Mid-Atlantic Ridge', 'Transect', 'Benthic zone', 'Ridge', 'Oceanography', 'Geology', 'Biological dispersal', 'Fauna', 'Ecology', 'Biology', 'Geography', 'Paleontology', 'Population', 'Demography', 'Sociology']

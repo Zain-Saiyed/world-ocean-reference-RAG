@@ -1,0 +1,12 @@
+ID: W2320974967
+TITLE: Occurrence of the seagrass <i>Halophila stipulacea</i> (Hydrocharitaceae) in the southern Mediterranean Sea
+AUTHOR: ['Yassine Ramzi Sghaier', 'Rym Zakhama‐Sraieb', 'Ibrahem Benamer', 'Faouzia Charfi‐Cheikhrouha']
+ABSTRACT:
+Abstract Halophila stipulacea is a dioecious seagrass that colonised the Mediterranean basin probably following the opening of the Suez Canal in 1869. We investigated its occurrence in the southern Mediterranean. This was done by conducting targeted surveys in two countries (Tunisia and Libya) and compiling existing information from former research. Four new meadows of H. stipulacea were found in the study area: Al-wahesh Lagoon and Tobrouk Bay in Libya, and Kerkennah Island-Allama and Cap Monastir in Tunisia. The new record in Cap Monastir (Tunisia) documents a displacement of approximately 150 km north of the previous limit of H. stipulacea in the southern Mediterranean, which probably represents the westernmost extension of H. stipulacea ’s distribution 3000 km west along the coast from the site of first colonisation at the mouth of the Suez Canal in Port Said. In the Cap Monastir meadow, the shoot density (±SD) was 9900±3509 m -2 and the leaf area index was 3.15±0.5 m 2 m -2 . In Libya, a small meadow of H. stipulacea was documented for the first time in Tobrouk Bay, with an estimated shoot density of 476±83 m -2 .
+
+SOURCE: Botanica marina
+PDF URL: None
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Seagrass', 'Hydrocharitaceae', 'Bay', 'Mediterranean climate', 'Mediterranean sea', 'Geography', 'Mediterranean Basin', 'Biology', 'Ecology', 'Habitat', 'Archaeology']

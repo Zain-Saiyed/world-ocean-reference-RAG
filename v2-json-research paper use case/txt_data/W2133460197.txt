@@ -1,0 +1,12 @@
+ID: W2133460197
+TITLE: Species–energy relationship in the deep sea: a test using the Quaternary fossil record
+AUTHOR: ['Gene Hunt', 'Thomas M. Cronin', 'Kaustuv Roy']
+ABSTRACT:
+Abstract Little is known about the processes regulating species richness in deep‐sea communities. Here we take advantage of natural experiments involving climate change to test whether predictions of the species–energy hypothesis hold in the deep sea. In addition, we test for the relationship between temperature and species richness predicted by a recent model based on biochemical kinetics of metabolism. Using the deep‐sea fossil record of benthic foraminifera and statistical meta‐analyses of temperature‐richness and productivity‐richness relationships in 10 deep‐sea cores, we show that temperature but not productivity is a significant predictor of species richness over the past c. 130 000 years. Our results not only show that the temperature‐richness relationship in the deep‐sea is remarkably similar to that found in terrestrial and shallow marine habitats, but also that species richness tracks temperature change over geological time, at least on scales of c. 100 000 years. Thus, predicting biotic response to global climate change in the deep sea would require better understanding of how temperature regulates the occurrences and geographical ranges of species.
+
+SOURCE: Ecology letters
+PDF URL: None
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Species richness', 'Ecology', 'Benthic zone', 'Deep sea', 'Climate change', 'Foraminifera', 'Habitat', 'Body size and species richness', 'Productivity', 'Oceanography', 'Quaternary', 'Biology', 'Geology', 'Paleontology', 'Macroeconomics', 'Economics']

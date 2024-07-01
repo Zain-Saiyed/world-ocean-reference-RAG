@@ -1,0 +1,12 @@
+ID: W2805708151
+TITLE: Capturing expert uncertainty in spatial cumulative impact assessments
+AUTHOR: ['Alice Jones', 'Zoë A. Doubleday', 'Thomas A. A. Prowse', 'Kathryn H. Wiltshire', 'Marty R. Deveney', 'Tim Ward', 'Sally L. Scrivens', 'Phillip Cassey', 'Laura G. O’Connell', 'Bronwyn M. Gillanders']
+ABSTRACT:
+Understanding the spatial distribution of human impacts on marine environments is necessary for maintaining healthy ecosystems and supporting 'blue economies'. Realistic assessments of impact must consider the cumulative impacts of multiple, coincident threats and the differing vulnerabilities of ecosystems to these threats. Expert knowledge is often used to assess impact in marine ecosystems because empirical data are lacking; however, this introduces uncertainty into the results. As part of a spatial cumulative impact assessment for Spencer Gulf, South Australia, we asked experts to estimate score ranges (best-case, most-likely and worst-case), which accounted for their uncertainty about the effect of 32 threats on eight ecosystems. Expert scores were combined with data on the spatial pattern and intensity of threats to generate cumulative impact maps based on each of the three scoring scenarios, as well as simulations and maps of uncertainty. We compared our method, which explicitly accounts for the experts' knowledge-based uncertainty, with other approaches and found that it provides smaller uncertainty bounds, leading to more constrained assessment results. Collecting these additional data on experts' knowledge-based uncertainty provides transparency and simplifies interpretation of the outputs from spatial cumulative impact assessments, facilitating their application for sustainable resource management and conservation.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-19354-6.pdf
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Impact assessment', 'Cumulative effects', 'Computer science', 'Expert elicitation', 'Cumulative distribution function', 'Environmental resource management', 'Baseline (sea)', 'Environmental science', 'Statistics', 'Ecology', 'Mathematics', 'Probability density function', 'Oceanography', 'Geology', 'Public administration', 'Political science', 'Biology']

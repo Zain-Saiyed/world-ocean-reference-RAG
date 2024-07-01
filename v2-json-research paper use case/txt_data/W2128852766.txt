@@ -1,0 +1,12 @@
+ID: W2128852766
+TITLE: Seabirds, gyres and global trends in plastic pollution
+AUTHOR: ['J.A. van Franeker', 'Kara Lavender Law']
+ABSTRACT:
+Fulmars are effective biological indicators of the abundance of floating plastic marine debris. Long-term data reveal high plastic abundance in the southern North Sea, gradually decreasing to the north at increasing distance from population centres, with lowest levels in high-arctic waters. Since the 1980s, pre-production plastic pellets in North Sea fulmars have decreased by ∼75%, while user plastics varied without a strong overall change. Similar trends were found in net-collected floating plastic debris in the North Atlantic subtropical gyre, with a ∼75% decrease in plastic pellets and no obvious trend in user plastic. The decreases in pellets suggest that changes in litter input are rapidly visible in the environment not only close to presumed sources, but also far from land. Floating plastic debris is rapidly “lost” from the ocean surface to other as-yet undetermined sinks in the marine environment.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 228
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Marine debris', 'Plastic pollution', 'Ocean gyre', 'Debris', 'Environmental science', 'Microplastics', 'Oceanography', 'Pellets', 'Pollution', 'Abundance (ecology)', 'Population', 'Arctic', 'Subtropics', 'Physical geography', 'Ecology', 'Geography', 'Geology', 'Biology', 'Demography', 'Sociology']

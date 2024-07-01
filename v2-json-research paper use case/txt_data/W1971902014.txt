@@ -1,0 +1,12 @@
+ID: W1971902014
+TITLE: UNDERWATER NOISE OF WHALE‐WATCHING BOATS AND POTENTIAL EFFECTS ON KILLER WHALES (<i>ORCINUS ORCA</i>), BASED ON AN ACOUSTIC IMPACT MODEL
+AUTHOR: ['Christine Erbe']
+ABSTRACT:
+A bstract Underwater noise of whale‐watching boats was recorded in the popular killer whale‐watching region of southern British Columbia and northwestern Washington State. A software sound propagation and impact assessment model was applied to estimate zones around whale‐watching boats where boat noise was audible to killer whales, where it interfered with their communication, where it caused behavioral avoidance, and where it possibly caused hearing loss. Boat source levels ranged from 145 to 169 dB re 1 μPa @ 1 m, increasing with speed. The noise of fast boats was modeled to be audible to killer whales over 16 km, to mask killer whale calls over 14 km, to elicit a behavioral response over 200 m, and to cause a temporary threshold shift (TTS) in hearing of 5 dB after 30–50 min within 450 m. For boats cruising at slow speeds, the predicted ranges were 1 km for audibility and masking, 50 m for behavioral responses, and 20 m for TTS. Superposed noise levels of a number of boats circulating around or following the whales were close to the critical level assumed to cause a permanent hearing loss over prolonged exposure. These data should be useful in developing whale‐watching regulations. This study also gave lower estimates of killer whale call source levels of 105–124 dB re 1 μPa.
+
+SOURCE: Marine mammal science
+PDF URL: None
+CITED BY COUNT: 245
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Whale', 'Noise (video)', 'Sound exposure', 'Bioacoustics', 'Environmental science', 'Underwater', 'Masking (illustration)', 'Cetacea', 'Fishery', 'Sound (geography)', 'Acoustics', 'Biology', 'Oceanography', 'Geology', 'Physics', 'Art', 'Visual arts', 'Artificial intelligence', 'Computer science', 'Image (mathematics)']

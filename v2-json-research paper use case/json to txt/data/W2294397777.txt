@@ -1,0 +1,12 @@
+ID: W2294397777
+TITLE: Environmental health impacts of feeding crops to farmed fish
+AUTHOR: ['Jillian P. Fry', 'David C. Love', 'Graham K. MacDonald', 'Paul West', 'Peder Engstrom', 'Keeve E. Nachman', 'Robert S. Lawrence']
+ABSTRACT:
+Half of the seafood consumed globally now comes from aquaculture, or farmed seafood. Aquaculture therefore plays an increasingly important role in the global food system, the environment, and human health. Traditionally, aquaculture feed has contained high levels of wild fish, which is unsustainable for ocean ecosystems as demand grows. The aquaculture industry is shifting to crop-based feed ingredients, such as soy, to replace wild fish as a feed source and allow for continued industry growth. This shift fundamentally links seafood production to terrestrial agriculture, and multidisciplinary research is needed to understand the ecological and environmental health implications. We provide basic estimates of the agricultural resource use associated with producing the top five crops used in commercial aquaculture feed. Aquaculture's environmental footprint may now include nutrient and pesticide runoff from industrial crop production, and depending on where and how feed crops are produced, could be indirectly linked to associated negative health outcomes. We summarize key environmental health research on health effects associated with exposure to air, water, and soil contaminated by industrial crop production. Our review also finds that changes in the nutritional content of farmed seafood products due to altered feed composition could impact human nutrition. Based on our literature reviews and estimates of resource use, we present a conceptual framework describing the potential links between increasing use of crop-based ingredients in aquaculture and human health. Additional data and geographic sourcing information for crop-based ingredients are needed to fully assess the environmental health implications of this trend. This is especially critical in the context of a food system that is using both aquatic and terrestrial resources at unsustainable rates.
+
+SOURCE: Environment international
+PDF URL: None
+CITED BY COUNT: 141
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Aquaculture', 'Agriculture', 'Environmental science', 'Food processing', 'Biotechnology', 'Business', 'Fishery', 'Biology', 'Ecology', 'Fish <Actinopterygii>', 'Food science']

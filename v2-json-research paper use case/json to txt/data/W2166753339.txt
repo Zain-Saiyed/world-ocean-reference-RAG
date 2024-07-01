@@ -1,0 +1,12 @@
+ID: W2166753339
+TITLE: Oceanic fronts in the Sargasso Sea control the early life and drift of Atlantic eels
+AUTHOR: ['Peter Munk', 'Michael M. Hansen', 'Grégory E. Maes', 'Torkel Gissel Nielsen', 'Martin Castonguay', 'Lasse Riemann', 'Henrik Sparholt', 'Thomas Damm Als', 'Kim Aarestrup', 'Niels Gerner Andersen', 'Mirjam Bachler']
+ABSTRACT:
+Anguillid freshwater eels show remarkable life histories. In the Atlantic, the European eel ( Anguilla anguilla ) and American eel ( Anguilla rostrata ) undertake extensive migrations to spawn in the oceanic Sargasso Sea, and subsequently the offspring drift to foraging areas in Europe and North America, first as leaf-like leptocephali larvae that later metamorphose into glass eels. Since recruitment of European and American glass eels has declined drastically during past decades, there is a strong demand for further understanding of the early, oceanic phase of their life cycle. Consequently, during a field expedition to the eel spawning sites in the Sargasso Sea, we carried out a wide range of dedicated bio-physical studies across areas of eel larval distribution. Our findings suggest a key role of oceanic frontal processes, retaining eel larvae within a zone of enhanced feeding conditions and steering their drift. The majority of the more westerly distributed American eel larvae are likely to follow a westerly/northerly drift route entrained in the Antilles/Florida Currents. European eel larvae are generally believed to initially follow the same route, but their more easterly distribution close to the eastward flowing Subtropical Counter Current indicates that these larvae could follow a shorter, eastward route towards the Azores and Europe. The findings emphasize the significance of oceanic physical–biological linkages in the life-cycle completion of Atlantic eels.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2010.0900
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Sargasso sea', 'Spawn (biology)', 'Anguilla rostrata', 'Oceanography', 'Anguillidae', 'Diel vertical migration', 'Subtropics', 'Gulf Stream', 'Fishery', 'Ocean current', 'Geography', 'Biology', 'Geology', 'Fish <Actinopterygii>']

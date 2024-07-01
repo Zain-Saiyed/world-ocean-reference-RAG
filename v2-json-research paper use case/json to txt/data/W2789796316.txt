@@ -1,0 +1,12 @@
+ID: W2789796316
+TITLE: Experimental strategies to assess the biological ramifications of multiple drivers of global ocean change—A review
+AUTHOR: ['Philip W. Boyd', 'Sinéad Collins', 'Sam Dupont', 'Katharina Fabricius', 'Jean‐Pierre Gattuso', 'Jonathan N. Havenhand', 'David A. Hutchins', 'Ulf Riebesell', 'Max S. Rintoul', 'Marcello Vichi', 'Haimanti Biswas', 'Áurea Maria Ciotti', 'Kunshan Gao', 'Marion Gehlen', 'Catriona L. Hurd', 'Haruko Kurihara', 'Christina M. McGraw', 'Jorge M. Navarro', 'Göran Nilsson', 'Uta Passow', 'Hans‐Otto Pörtner']
+ABSTRACT:
+Marine life is controlled by multiple physical and chemical drivers and by diverse ecological processes. Many of these oceanic properties are being altered by climate change and other anthropogenic pressures. Hence, identifying the influences of multifaceted ocean change, from local to global scales, is a complex task. To guide policy-making and make projections of the future of the marine biosphere, it is essential to understand biological responses at physiological, evolutionary and ecological levels. Here, we contrast and compare different approaches to multiple driver experiments that aim to elucidate biological responses to a complex matrix of ocean global change. We present the benefits and the challenges of each approach with a focus on marine research, and guidelines to navigate through these different categories to help identify strategies that might best address research questions in fundamental physiology, experimental evolutionary biology and community ecology. Our review reveals that the field of multiple driver research is being pulled in complementary directions: the need for reductionist approaches to obtain process-oriented, mechanistic understanding and a requirement to quantify responses to projected future scenarios of ocean change. We conclude the review with recommendations on how best to align different experimental approaches to contribute fundamental information needed for science-based policy formulation.
+
+SOURCE: Global change biology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.14102
+CITED BY COUNT: 290
+PUBLICATION YEAR: 2018
+TYPE: review
+CONCEPTS: ['Climate change', 'Global change', 'Ecology', 'Biosphere', 'Environmental resource management', 'Computer science', 'Ocean acidification', 'Management science', 'Environmental science', 'Biology', 'Economics']

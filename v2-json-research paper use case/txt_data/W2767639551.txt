@@ -1,0 +1,12 @@
+ID: W2767639551
+TITLE: Massive Upland to Wetland Conversion Compensated for Historical Marsh Loss in Chesapeake Bay, USA
+AUTHOR: ['Nathalie W. Schieder', 'David C. Walters', 'Matthew L. Kirwan']
+ABSTRACT:
+Sea level rise leads to coastal transgression, and the survival of ecosystems depends on their ability to migrate inland faster than they erode and submerge. We compared marsh extent between nineteenth-century maps and modern aerial photographs across the Chesapeake Bay, the largest estuary in North America, and found that Chesapeake marshes have maintained their spatial extent despite relative sea level rise rates that are among the fastest in the world. In the mapped region (i.e., 25% of modern Chesapeake Bay marshland), 94 km2 of marsh was lost primarily to shoreline erosion, whereas 101 km2 of marsh was created by upland drowning. Simple projections over the entire Chesapeake region suggest that approximately 100,000 acres (400 km2) of uplands have converted to wetlands and that about a third of all present-day marsh was created by drowning of upland ecosystems since the late nineteenth century. Marsh migration rates were weakly correlated with topographic slope and the amount of development of adjacent uplands, suggesting that additional processes may also be important. Nevertheless, our results emphasize that the location of coastal ecosystems changes rapidly on century timescales and that sea level rise does not necessarily lead to overall habitat loss.
+
+SOURCE: Estuaries and coasts
+PDF URL: None
+CITED BY COUNT: 104
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marsh', 'Wetland', 'Estuary', 'Shore', 'Salt marsh', 'Ecosystem', 'Bay', 'Oceanography', 'Chesapeake bay', 'Sea level', 'Erosion', 'Environmental science', 'Geography', 'Hydrology (agriculture)', 'Ecology', 'Geology', 'Geotechnical engineering', 'Biology', 'Paleontology']

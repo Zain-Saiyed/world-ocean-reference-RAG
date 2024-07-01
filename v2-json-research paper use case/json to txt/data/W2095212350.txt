@@ -1,0 +1,12 @@
+ID: W2095212350
+TITLE: Winners and losers in a world where the high seas is closed to fishing
+AUTHOR: ['U. Rashid Sumaila', 'Vicky W. Y. Lam', 'Dana Miller', 'Louise Teh', 'Reg Watson', 'Dirk Zeller', 'William W. L. Cheung', 'Isabelle M. Côté', 'Alex D. Rogers', 'Callum M. Roberts', 'Enric Sala', 'Daniel Pauly']
+ABSTRACT:
+Fishing takes place in the high seas and Exclusive Economic Zones (EEZs) of maritime countries. Closing the former to fishing has recently been proposed in the literature and is currently an issue of debate in various international fora. We determine the degree of overlap between fish caught in these two areas of the ocean, examine how global catch might change if catches of straddling species or taxon groups increase within EEZs as a result of protection of adjacent high seas; and identify countries that are likely to gain or lose in total catch quantity and value following high-seas closure. We find that <0.01% of the quantity and value of commercial fish taxa are obtained from catch taken exclusively in the high seas and if the catch of straddling taxa increases by 18% on average following closure because of spillover, there would be no loss in global catch. The Gini coefficient, which measures income inequality, would decrease from 0.66 to 0.33. Thus, closing the high seas could be catch-neutral while inequality in the distribution of fisheries benefits among the world's maritime countries could be reduced by 50%.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep08481.pdf
+CITED BY COUNT: 128
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Fishing', 'Exclusive economic zone', 'International waters', 'Fishery', 'Gini coefficient', 'Geography', 'Spillover effect', 'Inequality', 'Biology', 'Economic inequality', 'Economics', 'Mathematics', 'Mathematical analysis', 'Microeconomics']

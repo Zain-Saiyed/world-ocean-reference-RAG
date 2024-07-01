@@ -1,0 +1,12 @@
+ID: W2598701004
+TITLE: Biodiversity redistribution under climate change: Impacts on ecosystems and human well-being
+AUTHOR: ['Gretta T. Pecl', 'Miguel B. Araújo', 'Johann D. Bell', 'Julia L. Blanchard', 'Timothy C. Bonebrake', 'I‐Ching Chen', 'Timothy D. Clark', 'Robert K. Colwell', 'Finn Danielsen', 'Birgitta Evengård', 'Lorena Falconi', 'Simon Ferrier', 'Stewart Frusher', 'Raquel García', 'Roger B. Griffis', 'Alistair J. Hobday', 'Charlene Janion‐Scheepers', 'Marta A. Jarzyna', 'Sarah Jennings', 'Jonathan Lenoir', 'Hlif I. Linnetved', 'Victoria Y. Martin', 'Phillipa C. McCormack', 'Jan McDonald', 'Nicola J. Mitchell', 'Tero Mustonen', 'John M. Pandolfi', 'Nathalie Pettorelli', 'Ekaterina Popova', 'Sharon Robinson', 'Brett R. Scheffers', 'Justine Shaw', 'Cascade J. B. Sorte', 'Jan M. Strugnell', 'Jennifer M. Sunday', 'Mao‐Ning Tuanmu', 'Adriana Vergés', 'Cecilia Villanueva', 'Thomas Wernberg', 'Erik Wapstra', 'Stephen E. Williams']
+ABSTRACT:
+Consequences of shifting species distributions Climate change is causing geographical redistribution of plant and animal species globally. These distributional shifts are leading to new ecosystems and ecological communities, changes that will affect human society. Pecl et al. review these current and future impacts and assess their implications for sustainable development goals. Science , this issue p. eaai9214
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 2207
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Redistribution (election)', 'Climate change', 'Biodiversity', 'Ecosystem', 'Sustainable development', 'Ecology', 'Environmental resource management', 'Natural resource economics', 'Ecosystem services', 'Geography', 'Environmental science', 'Biology', 'Political science', 'Economics', 'Politics', 'Law']

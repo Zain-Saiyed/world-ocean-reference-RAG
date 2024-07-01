@@ -1,0 +1,12 @@
+ID: W2810743411
+TITLE: Seabirds enhance coral reef productivity and functioning in the absence of invasive rats
+AUTHOR: ['Nicholas A. J. Graham', 'Shaun K. Wilson', 'Peter Carr', 'Andrew S. Hoey', 'Simon Jennings', 'M. Aaron MacNeil']
+ABSTRACT:
+Biotic connectivity between ecosystems can provide major transport of organic matter and nutrients, influencing ecosystem structure and productivity1, yet the implications are poorly understood owing to human disruptions of natural flows2. When abundant, seabirds feeding in the open ocean transport large quantities of nutrients onto islands, enhancing the productivity of island fauna and flora3,4. Whether leaching of these nutrients back into the sea influences the productivity, structure and functioning of adjacent coral reef ecosystems is not known. Here we address this question using a rare natural experiment in the Chagos Archipelago, in which some islands are rat-infested and others are rat-free. We found that seabird densities and nitrogen deposition rates are 760 and 251 times higher, respectively, on islands where humans have not introduced rats. Consequently, rat-free islands had substantially higher nitrogen stable isotope (δ15N) values in soils and shrubs, reflecting pelagic nutrient sources. These higher values of δ15N were also apparent in macroalgae, filter-feeding sponges, turf algae and fish on adjacent coral reefs. Herbivorous damselfish on reefs adjacent to the rat-free islands grew faster, and fish communities had higher biomass across trophic feeding groups, with 48% greater overall biomass. Rates of two critical ecosystem functions, grazing and bioerosion, were 3.2 and 3.8 times higher, respectively, adjacent to rat-free islands. Collectively, these results reveal how rat introductions disrupt nutrient flows among pelagic, island and coral reef ecosystems. Thus, rat eradication on oceanic islands should be a high conservation priority as it is likely to benefit terrestrial ecosystems and enhance coral reef productivity and functioning by restoring seabird-derived nutrient subsidies from large areas of ocean.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 235
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coral reef', 'Bioerosion', 'Ecosystem', 'Pelagic zone', 'Ecology', 'Reef', 'Productivity', 'Coral', 'Biology', 'Marine ecosystem', 'Biomass (ecology)', 'Damselfish', 'Environmental science', 'Coral reef fish', 'Economics', 'Macroeconomics']

@@ -1,0 +1,12 @@
+ID: W2755258774
+TITLE: Reconstructing overfishing: Moving beyond Malthus for effective and equitable solutions
+AUTHOR: ['Elena M. Finkbeiner', 'Nathan Bennett', 'Timothy H. Frawley', 'Julia G. Mason', 'Dana K. Briscoe', 'Cassandra M. Brooks', 'Crystal Ng', 'Rosana Ouréns', 'Katherine Seto', 'Shannon Switzer Swanson', 'José Urteaga', 'Larry B. Crowder']
+ABSTRACT:
+Abstract Inaccurate or incomplete diagnosis of the root causes of overfishing can lead to misguided and ineffective fisheries policies and programmes. The “Malthusian overfishing narrative” suggests that overfishing is driven by too many fishers chasing too few fish and that fishing effort grows proportionately to human population growth, requiring policy interventions that reduce fisher access, the number of fishers, or the human population. By neglecting other drivers of overfishing that may be more directly related to fishing pressure and provide more tangible policy levers for achieving fisheries sustainability, Malthusian overfishing relegates blame to regions of the world with high population growth rates, while consumers, corporations and political systems responsible for these other mediating drivers remain unexamined. While social–ecological systems literature has provided alternatives to the Malthusian paradigm, its focus on institutions and organized social units often fails to address fundamental issues of power and politics that have inhibited the design and implementation of effective fisheries policy. Here, we apply a political ecology lens to unpack Malthusian overfishing and, relying upon insights derived from the social sciences, reconstruct the narrative incorporating four exemplar mediating drivers: technology and innovation, resource demand and distribution, marginalization and equity, and governance and management. We argue that a more nuanced understanding of such factors will lead to effective and equitable fisheries policies and programmes, by identifying a suite of policy levers designed to address the root causes of overfishing in diverse contexts.
+
+SOURCE: Fish and fisheries
+PDF URL: None
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Overfishing', 'Population', 'Sustainability', 'Political ecology', 'Fisheries management', 'Economics', 'Population growth', 'Fishery', 'Fishing', 'Natural resource economics', 'Politics', 'Public economics', 'Ecology', 'Political science', 'Sociology', 'Biology', 'Law', 'Demography']

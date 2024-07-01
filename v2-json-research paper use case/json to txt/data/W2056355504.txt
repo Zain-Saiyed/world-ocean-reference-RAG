@@ -1,0 +1,12 @@
+ID: W2056355504
+TITLE: Halogenated persistent organic pollutants in relation to trophic level in deep sea fish
+AUTHOR: ['Lynda Webster', 'Martin Russell', 'Pam Walsham', 'Ines Hussy', 'Jean-Pierre Lacaze', 'Lesley Phillips', 'E. J. Dalgarno', 'Gill Packer', 'Francis Neat', 'Colin F. Moffat']
+ABSTRACT:
+The bioaccumulation of persistent organic pollutants (POPs) in deep sea fish from the Rockall fishing area was investigated. Predator and prey species were analysed for stable isotopes, fatty acids, polychlorinated biphenyls (PCBs) and polybrominated diphenyl ethers (PBDEs). δ(15)N indicated that black scabbard was at the highest trophic level and the prey the lowest. The fatty acid signatures indicated that black scabbard and black dogfish fed at a higher trophic level compared to the roundnose grenadier. PCBs and PBDEs were detected in the liver of all three predator species. PCB concentrations were significantly higher in the roundnose grenadier, possibly due to their longer life span. PCB concentrations were compared to OSPAR assessment criteria, concentrations were above background but below Environmental Assessment Criteria for all but one congener. PCB concentrations were below food safety levels in the flesh, but exceeded the limit for liver in the roundnose grenadier and black dogfish.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Trophic level', 'Congener', 'Polybrominated diphenyl ethers', 'Bioaccumulation', 'Pollutant', 'Biomagnification', 'Environmental chemistry', 'Persistent organic pollutant', 'Food chain', 'Fishery', 'Predation', 'Apex predator', 'Predator', 'Environmental science', 'Biology', 'Ecology', 'Chemistry']

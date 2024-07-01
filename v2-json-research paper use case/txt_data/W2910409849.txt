@@ -1,0 +1,12 @@
+ID: W2910409849
+TITLE: Influence of oceanographic and meteorological events on the quantity and quality of marine debris along an estuarine gradient
+AUTHOR: ['Allan Paul Krelling', 'Alexander Turra']
+ABSTRACT:
+The influence of three meteorological/oceanographic conditions - frontal systems (FS), high riverine discharges (HRD) and regular weather conditions (RWC) - over the quantity (Overall Abundance and Richness of types) and quality (composition and most probable source) of marine debris was assessed in sand beaches along three sectors (internal, I; median, M; and external, E) of an estuarine gradient. The highest overall abundance and richness of types were observed in HRD (I and E), while the lowest were observed in RWC (I and M). The external sector showed lowest abundance in FS. Greatest numbers of "domestic" and "sewage related debris" were observed under HRD (I > E > M). Greatest numbers of "fisheries" items were observed in HRD (I and E). For "unknown" sourced items, there was no indication of a single condition with smaller quantities (E > I = M). Results suggest that adopting oceanographical and meteorological conditions for analysis have the potential to detect temporal variations.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental science', 'Oceanography', 'Estuary', 'Debris', 'Marine debris', 'Marine pollution', 'Pollution', 'Geology', 'Ecology', 'Biology']

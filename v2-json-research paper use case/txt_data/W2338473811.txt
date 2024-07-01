@@ -1,0 +1,12 @@
+ID: W2338473811
+TITLE: The conservation status of the Galápagos marine iguanas, Amblyrhynchus cristatus: a molecular perspective
+AUTHOR: ['A. MacLeod', 'Sebastian Steinfartz']
+ABSTRACT:
+Traditionally, conservation management focuses efforts on taxonomic units. However, when the taxa used do not reflect biologically meaningful units, such methods should be reconsidered to avoid the loss of irreplaceable biodiversity. The Galápagos marine iguana ( Amblyrhynchus cristatus ) is listed as Vulnerable on the IUCN Red List of Threatened Species and is facing growing anthropogenic threats. Currently, management is based on a taxonomy which is questionable in the light of recent molecular data. As such, there is a danger that evolutionarily significant populations may be left vulnerable to extirpation. Herein, we apply molecular data to elucidate the population structure of this species across the Galápagos archipelago, and thus advise conservation management in the absence of a revised taxonomy. Applying a wealth of molecular data including 12 microsatellite loci and 1181 bp of the mitochondrial control region in over 1200 individuals, we delineate distinct populations and prioritize their management. Bayesian population structure analysis revealed 10 distinct population clusters, which we propose as management units (MUs). All MUs are significantly differentiated, with one unit on San Cristóbal Island being particularly distinct in terms of both microsatellite loci and mitochondrial data. Based on estimates of the genetic effective population size (N e ), we find the MUs comprised of populations occurring on Floreana, Española, Marchena, and San Cristóbal to be alarmingly small. In consideration of both N e and anthropogenic threats, we recommend that conservation practitioners focus efforts on Floreana and San Cristóbal islands, and argue that better census size estimates of populations are urgently needed.
+
+SOURCE: Amphibia-Reptilia/Amphibia-reptilia
+PDF URL: https://brill.com/downloadpdf/journals/amre/37/1/article-p91_9.pdf
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Threatened species', 'IUCN Red List', 'Biology', 'Population', 'Biodiversity', 'Archipelago', 'Endangered species', 'Ecology', 'Conservation status', 'Conservation genetics', 'Near-threatened species', 'Geography', 'Microsatellite', 'Habitat', 'Demography', 'Genetics', 'Allele', 'Sociology', 'Gene']

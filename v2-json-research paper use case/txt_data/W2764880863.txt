@@ -1,0 +1,12 @@
+ID: W2764880863
+TITLE: Plastics in the Marine Environment
+AUTHOR: ['Kara Lavender Law']
+ABSTRACT:
+Plastics contamination in the marine environment was first reported nearly 50 years ago, less than two decades after the rise of commercial plastics production, when less than 50 million metric tons were produced per year. In 2014, global plastics production surpassed 300 million metric tons per year. Plastic debris has been detected worldwide in all major marine habitats, in sizes from microns to meters. In response, concerns about risks to marine wildlife upon exposure to the varied forms of plastic debris have increased, stimulating new research into the extent and consequences of plastics contamination in the marine environment. Here, I present a framework to evaluate the current understanding of the sources, distribution, fate, and impacts of marine plastics. Despite remaining knowledge gaps in mass budgeting and challenges in investigating ecological impacts, the increasing evidence of the ubiquity of plastics contamination in the marine environment, the continued rapid growth in plastics production, and the evidence—albeit limited—of demonstrated impacts to marine wildlife support immediate implementation of source-reducing measures to decrease the potential risks of plastics in the marine ecosystem.
+
+SOURCE: Annual review of marine science
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-marine-010816-060409
+CITED BY COUNT: 727
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Marine debris', 'Environmental science', 'Wildlife', 'Marine ecosystem', 'Debris', 'Marine habitats', 'Plastic pollution', 'Contamination', 'Ecosystem', 'Tonne', 'Habitat', 'Environmental protection', 'Fishery', 'Ecology', 'Oceanography', 'Waste management', 'Engineering', 'Biology', 'Geology']

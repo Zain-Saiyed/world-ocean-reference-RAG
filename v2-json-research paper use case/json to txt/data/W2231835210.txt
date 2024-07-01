@@ -1,0 +1,12 @@
+ID: W2231835210
+TITLE: East is east and West is west? Management of marine bioinvasions in the Mediterranean Sea
+AUTHOR: ['Bella S. Galil', 'Agnese Marchini', 'Anna Occhipinti‐Ambrogi']
+ABSTRACT:
+At 726 the number of recorded multicellular non indigenous species (NIS) in the Mediterranean Sea is far higher than in other European Seas. Of these, 614 have established populations in the sea. 384 are considered Erythraean NIS, the balance are mostly ship and culture-introductions. In order to effectively implement EU Regulation on the prevention and management of the introduction and spread of invasive NIS and the Marine Strategy Framework Directive in the Mediterranean Sea it is crucial that this priority pathway is appropriately managed. Three potential impediments – incomplete and inaccurate data; unknown impacts; policy mismatch – hinder implementation. Current geographical, taxonomical and impact data gaps will be reduced only by instituting harmonized standards and methodologies for monitoring NIS populations in all countries bordering the Mediterranean Sea, prioritizing bridgehead sites and dispersal hubs. The option of implementing European environmental policies concerning marine NIS in member states alone may seem expedient, but piecemeal protection is futile. Since only 9 of the 23 states bordering the Mediterranean are EU member states, the crucial element for an effective strategy for slowing the influx of NIS is policy coordination with the Regional Sea Convention (Barcelona Convention) to ensure consistency in legal rules, standards and institutional structures to address all major vectors/pathways.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 146
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Marine Strategy Framework Directive', 'Biological dispersal', 'Mediterranean sea', 'Convention', 'Mediterranean climate', 'Member states', 'Directive', 'Geography', 'Habitats Directive', 'Indigenous', 'Environmental resource management', 'Environmental planning', 'Political science', 'European union', 'Ecology', 'Business', 'International trade', 'Biology', 'Environmental science', 'Computer science', 'Population', 'Demography', 'Ecosystem', 'Sociology', 'Law', 'Programming language', 'Archaeology']

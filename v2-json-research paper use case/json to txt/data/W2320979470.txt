@@ -1,0 +1,12 @@
+ID: W2320979470
+TITLE: Arctic Ocean: Is It a Sink or a Source of Atmospheric Mercury?
+AUTHOR: ['Ashu Dastoor', 'Dorothy Durnford']
+ABSTRACT:
+High levels of mercury in marine mammals threaten the health of Arctic inhabitants. Whether the Arctic Ocean (AO) is a sink or a source of atmospheric mercury is unknown. Given the paucity of observations in the Arctic, models are useful in addressing this question. GEOS-Chem and GRAHM, two complex numerical mercury models, present contrasting pictures of atmospheric mercury input to AO at 45 and 108 Mg yr–1, respectively, and ocean evasion at 90 and 33 Mg yr–1, respectively. We provide a comprehensive evaluation of GRAHM simulated atmospheric mercury input to AO using mercury observations in air, precipitation and snowpacks, and an analysis of the discrepancy between the two modeling estimates using observations. We discover two peaks in high-latitude summertime concentrations of atmospheric mercury. We show that the first is caused mainly by snowmelt revolatilization and the second by AO evasion of mercury. Riverine mercury export to AO is estimated at 50 Mg yr–1 based on measured DOC export and at 15.5–31 Mg yr–1 based on simulated mercury in meltwater. The range of simulated mercury fluxes to and from AO reflects uncertainties in modeling mercury in the Arctic; comprehensive observations in all compartments of the Arctic ecosystem are needed to close the gap.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 62
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Mercury (programming language)', 'Arctic', 'Environmental science', 'Atmospheric sciences', 'Sink (geography)', 'Climatology', 'Oceanography', 'Geology', 'Geography', 'Cartography', 'Computer science', 'Programming language']

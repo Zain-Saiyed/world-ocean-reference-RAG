@@ -1,0 +1,12 @@
+ID: W2042520283
+TITLE: Cumulative Losses of Sand to the California Coast by Dam Impoundment
+AUTHOR: ['Matthew Slagel', 'Gary Griggs']
+ABSTRACT:
+California beaches depend on rivers for the majority of their sand supply, but coastal dams, which prevent sand from getting to beaches and nourishing them naturally, have significantly reduced this supply. Cumulative sand impoundment volumes for each littoral cell provide insight into which littoral cells have been impacted by human activities and where there may be a potential need to augment the littoral budget. Suspended sediment rating curves were created for the 21 major coastal streams in the state to estimate present-day sand fluxes based on relationships between suspended load and bed load. We then compared the postdam sand fluxes to estimated sand fluxes under predam conditions to determine the effects that dams have had on fluvial sand delivery to the coast. The cumulative sand impounded by California's 66 major coastal dams was then calculated on a littoral cell basis.Under predam conditions, California rivers delivered an average of about 10,000,000 m3/y of sand to the coast, but this flux has been reduced by about 2,300,000 m3/y due to dams. The reductions vary regionally: in northern California, the predam annual sand flux has been reduced by about 5%; in central California, the predam annual sand flux has been reduced by about 31%; and in southern California, the predam annual sand flux has been reduced by about 50%. Cumulatively, about 152,000,000 m3 of sand has been trapped by all of California's coastal dams since 1885.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Littoral zone', 'Hydrology (agriculture)', 'Sedimentary budget', 'Sediment', 'Longshore drift', 'Fluvial', 'Flux (metallurgy)', 'Sand mining', 'Environmental science', 'STREAMS', 'Sediment transport', 'Geology', 'Oceanography', 'Structural basin', 'Ecology', 'Geomorphology', 'Geotechnical engineering', 'Computer network', 'Materials science', 'Biology', 'Computer science', 'Metallurgy']

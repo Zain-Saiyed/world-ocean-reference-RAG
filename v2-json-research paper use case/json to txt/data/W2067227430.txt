@@ -1,0 +1,12 @@
+ID: W2067227430
+TITLE: Australia׳s Oceans Policy: Past, present and future
+AUTHOR: ['Joanna Vince', 'Anthony D. M. Smith', 'Keith Sainsbury', 'Ian Cresswell', 'David C. Smith', 'Marcus Haward']
+ABSTRACT:
+Australia has a large and diverse marine jurisdiction. A federal division of responsibilities matched with complex intergovernmental arrangements shapes management of this jurisdiction. This paper first outlines Australia׳s ocean governance arrangements and then reviews attempts to establish a national Australian Oceans Policy in the late 1990s. Notwithstanding attempts to implement an integrated policy framework across jurisdictions and sectors this ambitious policy framework has not met its original aspirations. However some new approaches have been introduced into a range of ocean sectors. The paper explores twenty plus years of oceans policy development and implementation and identifies key future challenges in implementing national oceans policy.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Jurisdiction', 'Corporate governance', 'Political science', 'Policy development', 'Public administration', 'Environmental resource management', 'Business', 'Economics', 'Law', 'Finance']

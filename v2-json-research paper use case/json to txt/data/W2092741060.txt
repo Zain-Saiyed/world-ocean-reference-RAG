@@ -1,0 +1,12 @@
+ID: W2092741060
+TITLE: Recent intense hurricane response to global climate change
+AUTHOR: ['Greg J. Holland', 'Cindy L. Bruyère']
+ABSTRACT:
+An Anthropogenic Climate Change Index (ACCI) is developed and used to investigate the potential global warming contribution to current tropical cyclone activity. The ACCI is defined as the difference between the means of ensembles of climate simulations with and without anthropogenic gases and aerosols. This index indicates that the bulk of the current anthropogenic warming has occurred in the past four decades, which enables improved confidence in assessing hurricane changes as it removes many of the data issues from previous eras. We find no anthropogenic signal in annual global tropical cyclone or hurricane frequencies. But a strong signal is found in proportions of both weaker and stronger hurricanes: the proportion of Category 4 and 5 hurricanes has increased at a rate of ~25–30 % per °C of global warming after accounting for analysis and observing system changes. This has been balanced by a similar decrease in Category 1 and 2 hurricane proportions, leading to development of a distinctly bimodal intensity distribution, with the secondary maximum at Category 4 hurricanes. This global signal is reproduced in all ocean basins. The observed increase in Category 4–5 hurricanes may not continue at the same rate with future global warming. The analysis suggests that following an initial climate increase in intense hurricane proportions a saturation level will be reached beyond which any further global warming will have little effect.
+
+SOURCE: Climate dynamics
+PDF URL: https://link.springer.com/content/pdf/10.1007/s00382-013-1713-0.pdf
+CITED BY COUNT: 274
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Climatology', 'Global warming', 'Tropical cyclone', 'Environmental science', 'Climate change', 'Atlantic hurricane', 'Global change', 'Atmospheric sciences', 'Oceanography', 'Geology']

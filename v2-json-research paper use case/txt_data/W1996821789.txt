@@ -1,0 +1,12 @@
+ID: W1996821789
+TITLE: The microbial ocean from genomes to biomes
+AUTHOR: ['Edward F. DeLong']
+ABSTRACT:
+Numerically, microbial species dominate the oceans, yet their population dynamics, metabolic complexity and synergistic interactions remain largely uncharted. A full understanding of life in the ocean requires more than knowledge of marine microbial taxa and their genome sequences. The latest experimental techniques and analytical approaches can provide a fresh perspective on the biological interactions within marine ecosystems, aiding in the construction of predictive models that can interrelate microbial dynamics with the biogeochemical matter and energy fluxes that make up the ocean ecosystem.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 206
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Biome', 'Marine ecosystem', 'Biogeochemical cycle', 'Ecology', 'Population', 'Biology', 'Environmental science', 'Demography', 'Sociology']

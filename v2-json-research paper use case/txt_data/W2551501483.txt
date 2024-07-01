@@ -1,0 +1,12 @@
+ID: W2551501483
+TITLE: Polymetallic nodules, sediments, and deep waters in the equatorial North Pacific exhibit highly diverse and distinct bacterial, archaeal, and microeukaryotic communities
+AUTHOR: ['Christine N. Shulse', 'Brianne Maillot', 'Craig R. Smith', 'Matthew J. Church']
+ABSTRACT:
+Abstract Concentrated seabed deposits of polymetallic nodules, which are rich in economically valuable metals (e.g., copper, nickel, cobalt, manganese), occur over vast areas of the abyssal Pacific Ocean floor. Little is currently known about the diversity of microorganisms inhabiting abyssal habitats. In this study, sediment, nodule, and water column samples were collected from the Clarion‐Clipperton Zone of the Eastern North Pacific. The diversities of prokaryote and microeukaryote communities associated with these habitats were examined. Microbial community composition and diversity varied with habitat type, water column depth, and sediment horizon. Thaumarchaeota were relatively enriched in the sediments and nodules compared to the water column, whereas Gammaproteobacteria were the most abundant sequences associated with nodules. Among the Eukaryota, rRNA genes belonging to the Cryptomonadales were relatively most abundant among organisms associated with nodules, whereas rRNA gene sequences deriving from members of the Alveolata were relatively enriched in sediments and the water column. Nine operational taxonomic unit ( OTU )s were identified that occur in all nodules in this dataset, as well as all nodules found in a study 3000–9000 km from our site. Microbial communities in the sediments had the highest diversity, followed by nodules, and then by the water column with &lt;1/3 the number of OTU s as in the sediments.
+
+SOURCE: MicrobiologyOpen
+PDF URL: None
+CITED BY COUNT: 66
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Water column', 'Thaumarchaeota', 'Operational taxonomic unit', 'Sediment', 'Abyssal zone', 'Biology', 'Gammaproteobacteria', 'Abyssal plain', 'Ecology', 'Oceanography', 'Nodule (geology)', 'Habitat', 'Seabed', 'Archaea', 'Geology', 'Paleontology', '16S ribosomal RNA', 'Bacteria']

@@ -1,0 +1,12 @@
+ID: W2914832208
+TITLE: Stakeholder Processes in Marine Spatial Planning: Ambitions and Realities from the European Atlantic Experience
+AUTHOR: ['Sarah Twomey', 'Cathal O’Mahony']
+ABSTRACT:
+Abstract Marine Spatial Planning (MSP) requires the participation of various stakeholders representing the multiple sectors operating in any given planning area. At a theoretical level, early and effective stakeholder participation is a fundamental aspect of MSP; it is also a legal requirement under a host of international and European instruments. This chapter explores the real-life challenges associated with delivering multi-sector participatory MSP processes. Insights and practical recommendations are drawn from five case studies from Europe’s Atlantic sea basin including a research-based civil-society-led transboundary MSP pilot project, and four statutory initiatives from EU Member States on the island of Ireland and the Iberian coast. Various degrees of disconnect are identified between the conceptual underpinnings of MSP theory and the reality of recent stakeholder processes.
+
+SOURCE: Springer eBooks
+PDF URL: https://link.springer.com/content/pdf/10.1007%2F978-3-319-98696-8_13.pdf
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Stakeholder', 'Citizen journalism', 'Statutory law', 'Environmental planning', 'Spatial planning', 'Stakeholder engagement', 'Marine spatial planning', 'Participatory planning', 'Political science', 'Environmental resource management', 'Stakeholder analysis', 'Geography', 'Business', 'Public relations', 'Law', 'Environmental science']

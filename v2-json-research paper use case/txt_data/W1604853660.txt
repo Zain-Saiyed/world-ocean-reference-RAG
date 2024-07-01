@@ -1,0 +1,12 @@
+ID: W1604853660
+TITLE: Catches from World Seamount Fisheries
+AUTHOR: ['Reg Watson', 'Adrian Kitchingman', 'William Cheung']
+ABSTRACT:
+This chapter contains section titled: Abstract Introduction Methods Results Acknowledgements References
+
+SOURCE: Blackwell Publishing Ltd eBooks
+PDF URL: None
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2008
+TYPE: book-chapter
+CONCEPTS: ['Seamount', 'Section (typography)', 'Fishery', 'Oceanography', 'Geography', 'Computer science', 'Geology', 'Biology', 'Operating system']

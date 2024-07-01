@@ -1,0 +1,12 @@
+ID: W2103747630
+TITLE: Accumulation and fragmentation of plastic debris in global environments
+AUTHOR: ['David K. A. Barnes', 'François Galgani', 'Richard C. Thompson', 'Morton A. Barlaz']
+ABSTRACT:
+One of the most ubiquitous and long-lasting recent changes to the surface of our planet is the accumulation and fragmentation of plastics. Within just a few decades since mass production of plastic products commenced in the 1950s, plastic debris has accumulated in terrestrial environments, in the open ocean, on shorelines of even the most remote islands and in the deep sea. Annual clean-up operations, costing millions of pounds sterling, are now organized in many countries and on every continent. Here we document global plastics production and the accumulation of plastic waste. While plastics typically constitute approximately 10 per cent of discarded waste, they represent a much greater proportion of the debris accumulating on shorelines. Mega- and macro-plastics have accumulated in the highest densities in the Northern Hemisphere, adjacent to urban centres, in enclosed seas and at water convergences (fronts). We report lower densities on remote island shores, on the continental shelf seabed and the lowest densities (but still a documented presence) in the deep sea and Southern Ocean. The longevity of plastic is estimated to be hundreds to thousands of years, but is likely to be far longer in deep sea and non-surface polar environments. Plastic debris poses considerable threat by choking and starving wildlife, distributing non-native and potentially harmful organisms, absorbing toxic chemicals and degrading to micro-plastics that may subsequently be ingested. Well-established annual surveys on coasts and at sea have shown that trends in mega- and macro-plastic accumulation rates are no longer uniformly increasing: rather stable, increasing and decreasing trends have all been reported. The average size of plastic particles in the environment seems to be decreasing, and the abundance and global distribution of micro-plastic fragments have increased over the last few decades. However, the environmental consequences of such microscopic debris are still poorly understood.
+
+SOURCE: Philosophical transactions - Royal Society. Biological sciences
+PDF URL: None
+CITED BY COUNT: 4365
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Debris', 'Marine debris', 'Environmental science', 'Shore', 'Pelagic zone', 'Oceanography', 'Seabed', 'Geology']

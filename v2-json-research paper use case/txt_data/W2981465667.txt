@@ -1,0 +1,12 @@
+ID: W2981465667
+TITLE: Upwelling buffers climate change impacts on coral reefs of the eastern tropical Pacific
+AUTHOR: ['Carly J. Randall', 'Lauren T. Toth', 'James J. Leichter', 'Juan L. Maté', 'Richard B. Aronson']
+ABSTRACT:
+Abstract Corals of the eastern tropical Pacific live in a marginal and oceanographically dynamic environment. Along the Pacific coast of Panamá, stronger seasonal upwelling in the Gulf of Panamá in the east transitions to weaker upwelling in the Gulf of Chiriquí in the west, resulting in complex regional oceanographic conditions that drive differential coral‐reef growth. Over millennial timescales, reefs in the Gulf of Chiriquí recovered more quickly from climatic disturbances compared with reefs in the Gulf of Panamá. In recent decades, corals in the Gulf of Chiriquí have also had higher growth rates than in the Gulf of Panamá. As the ocean continues to warm, however, conditions could shift to favor the growth of corals in the Gulf of Panamá, where upwelling may confer protection from high‐temperature anomalies. Here we describe the recent spatial and temporal variability in surface oceanography of nearshore environments in Pacific Panamá and compare those conditions with the dynamics of contemporary coral‐reef communities during and after the 2016 coral‐bleaching event. Although both gulfs have warmed significantly over the last 150 yr, the annual thermal maximum in the Gulf of Chiriquí is increasing faster, and ocean temperatures there are becoming more variable than in the recent past. In contrast to historical trends, we found that coral cover, coral survival, and coral growth rates were all significantly higher in the Gulf of Panamá. Corals bleached extensively in the Gulf of Chiriquí following the 2015–2016 El Niño event, whereas upwelling in the Gulf of Panamá moderated the high temperatures caused by El Niño, allowing the corals largely to escape thermal stress. As the climate continues to warm, upwelling zones may offer a temporary and localized refuge from the thermal impacts of climate change, while reef growth in the rest of the eastern tropical Pacific continues to decline.
+
+SOURCE: Ecology
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/ecy.2918
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Upwelling', 'Oceanography', 'Reef', 'Coral', 'Coral reef', 'Panama', 'Coral bleaching', 'Sea surface temperature', 'Geology', 'Ecology', 'Biology']

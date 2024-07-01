@@ -1,0 +1,12 @@
+ID: W2531223711
+TITLE: The importance of sea ice for exchange of habitat-specific protist communities in the Central Arctic Ocean
+AUTHOR: ['Kristin Hardge', 'Ilka Peeken', 'Stefan Neuhaus', 'Benjamin Lange', 'Alexandra Stock', 'Thorsten Stoeck', 'Lea Weinisch', 'Katja Metfies']
+ABSTRACT:
+Sea ice is one of the main features influencing the Arctic marine protist community composition and diversity in sea ice and sea water. We analyzed protist communities within sea ice, melt pond water, under-ice water and deep-chlorophyll maximum water at eight sea ice stations sampled during summer of the 2012 record sea ice minimum year. Using Illumina sequencing, we identified characteristic communities associated with specific habitats and investigated protist exchange between these habitats. The highest abundance and diversity of unique taxa were found in sea ice, particularly in multi-year ice (MYI), highlighting the importance of sea ice as a unique habitat for sea ice protists. Melting of sea ice was associated with increased exchange of communities between sea ice and the underlying water column. In contrast, sea ice formation was associated with increased exchange between all four habitats, suggesting that brine rejection from the ice is an important factor for species redistribution in the Central Arctic. Ubiquitous taxa (e.g. Gymnodinium) that occurred in all habitats still had habitat-preferences. This demonstrates a limited ability to survive in adjacent but different environments. Our results suggest that the continued reduction of sea ice extent, and particularly of MYI, will likely lead to diminished protist exchange and subsequently, could reduce species diversity in all habitats of the Central Arctic Ocean. An important component of the unique sea ice protist community could be endangered because specialized taxa restricted to this habitat may not be able to adapt to rapid environmental changes.
+
+SOURCE: Journal of marine systems
+PDF URL: None
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sea ice', 'Oceanography', 'Habitat', 'Arctic', 'Ecology', 'Arctic ice pack', 'Protist', 'Environmental science', 'Biology', 'Geology', 'Biochemistry', 'Gene']

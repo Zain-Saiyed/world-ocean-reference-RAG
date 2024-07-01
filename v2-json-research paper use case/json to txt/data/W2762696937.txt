@@ -1,0 +1,12 @@
+ID: W2762696937
+TITLE: Analysis of the Residues of Pharmaceuticals in Marine Environment: State-of-the-art, Analytical Problems and Challenges
+AUTHOR: ['Ksenia Pazdro', 'Marta Borecka', 'Grzegorz Siedlewicz', 'Anna Bia.k-Bieli.ska', 'Piotr Stepnowski']
+ABSTRACT:
+During the last years there has been a growing interest in the research focused on the pharmaceutical residues in the environment. Those compounds have been recognized as a threat to environmental stability, due to their inherent biological activity and their pseudo-persistency. Nevertheless, the analysis of pharmaceuticals in environmental samples is still a very difficult and demanding task, due to the fact that environmental concentrations of these compounds are mostly in the ng L-1 to µg L-1 ranges and due to the complexity of the analyzed samples. Therefore, there has been increasing interest in the development of new, more selective and sensitive methods for their monitoring in environmental samples. Hence, the aim of our study is to present the overview of the analytical challenges, of the development of analytical methods used in exposure assessment, and of the priorities for future research. Moreover, as many studies published to date concentrate mainly on freshwater ecosystem, in our work we want to focus on the analysis of different marine ecosystem compartments (water, sediment, biota), as this is a critical knowledge gap in environmental studies. Keywords: Analytical procedures, biota, marine ecosystem, pharmaceuticals, seawater, sediments.
+
+SOURCE: Current analytical chemistry
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biota', 'Environmental science', 'Marine ecosystem', 'Ecosystem', 'Environmental research', 'Seawater', 'Biochemical engineering', 'Environmental chemistry', 'Environmental protection', 'Environmental resource management', 'Ecology', 'Chemistry', 'Engineering', 'Biology']

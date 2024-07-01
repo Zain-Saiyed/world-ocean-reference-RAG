@@ -1,0 +1,12 @@
+ID: W2884047472
+TITLE: The physiological response of the deep-sea coral<i>Solenosmilia variabilis</i>to ocean acidification
+AUTHOR: ['Malindi Gammon', 'Dianne M. Tracey', 'Peter Marriott', 'Vonda J. Cummings', 'Simon K. Davy']
+ABSTRACT:
+Several forms of calcifying scleractinian corals provide important habitat complexity in the deep-sea and are consistently associated with a high biodiversity of fish and other invertebrates. How these corals may respond to the future predicted environmental conditions of ocean acidification is poorly understood, but any detrimental effects on these marine calcifiers will have wider impacts on the ecosystem. Colonies of Solenosmilia variabilis , a protected deep-sea coral commonly occurring throughout the New Zealand region, were collected during a cruise in March 2014 from the Louisville Seamount Chain. Over a 12-month period, samples were maintained in temperature controlled (∼3.5 °C) continuous flow-through tanks at a seawater pH that reflects the region’s current conditions (7.88) and an end-of-century scenario (7.65). Impacts on coral growth and the intensity of colour saturation (as a proxy for the coenenchyme tissue that covers the coral exoskeleton and links the coral polyps) were measured bimonthly. In addition, respiration rate was measured after a mid-term (six months) and long-term (12 months) exposure period. Growth rates were highly variable, ranging from 0.53 to 3.068 mm year −1 and showed no detectable difference between the treatment and control colonies. Respiration rates also varied independently of pH and ranged from 0.065 to 1.756 µmol O 2 g protein −1 h −1 . A significant change in colour was observed in the treatment group over time, indicating a loss of coenenchyme. This loss was greatest after 10 months at 5.28% and could indicate a reallocation of energy with physiological processes (e.g. growth and respiration) being maintained at the expense of coenenchyme production. This research illustrates important first steps to assessing and understanding the sensitivity of deep-sea corals to ocean acidification.
+
+SOURCE: PeerJ
+PDF URL: https://peerj.com/articles/5236.pdf
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Coral', 'Seamount', 'Seawater', 'Biology', 'Oceanography', 'Ecosystem', 'Benthic zone', 'Ecology', 'Marine ecosystem', 'Environmental science', 'Geology']

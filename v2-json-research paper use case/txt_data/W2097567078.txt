@@ -1,0 +1,12 @@
+ID: W2097567078
+TITLE: Japan: Vents and Seeps in Close Proximity
+AUTHOR: ['Hiromi Watanabe', 'Katsunori Fujikura', 'Soichi Kojima', 'Junichi Miyazaki', 'Yoshihiro Fujiwara']
+ABSTRACT:
+Since the discovery of dense animal communities associated with deep-sea hydrothermal­ venting (Lonsdale 1997), biological knowledge of those animals has accumulated (Van Dover 2000). Some unique animals associated with vent fields were found to depend on chemosynthetic primary production (Corliss et al. 1979). Subsequently, similar chemosynthetic animal assemblages were also discovered associated with ­deep-sea methane-seep areas, whale falls, and sunken wood (Paull et al. 1984; Smith et al. 1989). To understand the pathways of adaptation to these environments, species shared between different habitats are of particular interest (Distel et al. 2000; Lorion et al. 2008). On a global scale, the number of species shared between vents and seeps is less than 10% of the total recorded vent or seep species (e.g. Tunnicliffe et al. 1998, 2003; Sibuet and Olu 1998). In the vent and seep communities around Japan, however, this figure exceeds 20% (based on a faunal list provided by Fujikura et al. 2008), although the identification of species is still in progress. This relatively high abundance of both vent- and seep-inhabiting species suggests close relationships between vent and seep communities around Japan. A high similarity between megafaunal communities at vents and seeps around Japan was already noted by Fujikura et al. (1995); however, that study was based on species abundances investigated at only a single vent and two methane-seep communities. To date, at least 55 vent and seep communities have been discovered around Japan (Fujikura et al. 2008), and further analyses are required to elucidate the nature of this similarity.
+
+SOURCE: Topics in geobiology
+PDF URL: None
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2010
+TYPE: book-chapter
+CONCEPTS: ['Chemosynthesis', 'Petroleum seep', 'Hydrothermal vent', 'Cold seep', 'Megafauna', 'Habitat', 'Taphonomy', 'Ecology', 'Oceanography', 'Geography', 'Geology', 'Biology', 'Paleontology', 'Methane', 'Hydrothermal circulation', 'Pleistocene']

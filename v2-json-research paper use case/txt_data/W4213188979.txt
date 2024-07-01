@@ -1,0 +1,12 @@
+ID: W4213188979
+TITLE: Social Determinants of Health
+AUTHOR: ['Monique Bégin']
+ABSTRACT:
+The health of populations is related to features of society and its social and economic organization. This crucial fact provides the basis for effective policy-making for improving population health. While there is, understandably, much concern regarding the appropriate provision and financing of health services as well as ensuring that the nature of the services provided is based on the best evidence of effectiveness, health is a matter that goes beyond the provision of health services. Policies pursued by many branches of government and by the private sector, both nationally and locally, exe ... More
+
+SOURCE: Oxford University Press eBooks
+PDF URL: None
+CITED BY COUNT: 1551
+PUBLICATION YEAR: 2005
+TYPE: book-chapter
+CONCEPTS: ['Health services', 'Business', 'Government (linguistics)', 'Health policy', 'Health sector', 'Public economics', 'Population health', 'Social determinants of health', 'Private sector', 'Social Welfare', 'Economic growth', 'Population', 'Health care', 'Political science', 'Environmental health', 'Medicine', 'Economics', 'Linguistics', 'Philosophy', 'Law']

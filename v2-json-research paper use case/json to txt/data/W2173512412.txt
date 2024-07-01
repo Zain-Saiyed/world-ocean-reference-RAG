@@ -1,0 +1,12 @@
+ID: W2173512412
+TITLE: A Geomorphic Interpretation of Shoreline Change Rates on Reef Islands
+AUTHOR: ['Thomas Mann', 'Tim Bayliss‐Smith', 'Hildegard Westphal']
+ABSTRACT:
+Mann, T.; Bayliss-Smith, T., and Westphal, H., 2016. A geomorphic interpretation of shoreline change rates on reef islands. Recent-past shoreline changes on reef islands are now subject to intensified monitoring via remote sensing data. Based on these data, rates of shoreline change calculated from long-term measurements (decadal) are often markedly lower than recent short-term rates (over a number of years). This observation has raised speculations about the growing influence of sea-level rise on reef island stability. This observation, however, can also be explained if we consider two basic principles of geomorphology and sedimentology. For Takú Atoll, Papua New Guinea, we show that natural shoreline fluctuations of dynamic reef islands have a crucial influence on the calculation of short-term rates of change. We analyze an extensive dataset of multitemporal shoreline change rates from 1943 to 2012 and find that differing rates between long- and short-term measurements consistently reflect the length of the observation interval. This relationship appears independent from the study era and indicates that reef islands were equally dynamic during the early periods of analysis, i.e. before the recent acceleration of sea-level rise. Consequently, we suggest that high rates of shoreline change calculated from recent short-term observations may simply result from a change in temporal scale and a shift from geomorphic equilibrium achieved over cyclic time toward an apparent disequilibrium during shorter periods of graded time. This new interpretation of short- and long-term shoreline change rates has important implications for the ongoing discussion about reef island vulnerability, showing that an observed jump from low to high rates of change may be independent from external influences, including but not limited to sea-level rise.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Reef', 'Shore', 'Geology', 'Climate change', 'Sea level', 'Oceanography', 'Coral reef', 'Environmental change', 'Physical geography', 'Atoll', 'Geography']

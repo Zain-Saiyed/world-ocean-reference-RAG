@@ -1,0 +1,12 @@
+ID: W2066450550
+TITLE: Environmental variability and biodiversity of megabenthos on the Hebrides Terrace Seamount (Northeast Atlantic)
+AUTHOR: ['Lea‐Anne Henry', 'Johanne Vad', 'Helen S. Findlay', 'J. Murillo', 'Rosanna Milligan', 'J. Murray Roberts']
+ABSTRACT:
+We present the first remotely operated vehicle investigation of megabenthic communities (1004-1695 m water depth) on the Hebrides Terrace Seamount (Northeast Atlantic). Conductivity-temperature-depth casts showed rapid light attenuation below the summit and an oceanographic regime on the flanks consistent with an internal tide, and high short-term variability in water temperature, salinity, light attenuation, aragonite and oxygen down to 1500 m deep. Minor changes in species composition (3-14%) were explained by changes in depth, substratum and oceanographic stability, whereas environmental variability explained substantially more variation in species richness (40-56%). Two peaks in species richness occurred, the first at 1300-1400 m where cooler Wyville Thomson Overflow Water (WTOW) mixes with subtropical gyre waters and the second at 1500-1600 m where WTOW mixes with subpolar mode waters. Our results suggest that internal tides, substrate heterogeneity and oceanographic interfaces may enhance biological diversity on this and adjacent seamounts in the Rockall Trough.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep05589.pdf
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Seamount', 'Oceanography', 'Geology', 'Species richness', 'Ocean gyre', 'Salinity', 'Temperature salinity diagrams', 'Subtropics', 'Ecology', 'Paleontology', 'Biology']

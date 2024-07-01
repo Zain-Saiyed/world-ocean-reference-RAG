@@ -1,0 +1,12 @@
+ID: W2899490776
+TITLE: A field effort to capture critically endangered vaquitas Phocoena sinus for protection from entanglement in illegal gillnets
+AUTHOR: ['Lorenzo Rojas‐Bracho', 'Frances M. D. Gulland', 'Cynthia R. Smith', 'Barbara L. Taylor', 'Randall S. Wells', 'Peter O. Thomas', 'Bruce H. Bauer', 'M. P. Heide‐Jørgensen', 'Jonas Teilmann', 'Runé Dietz', 'Jeppe Dalgaard Balle', 'Mikkel Villum Jensen', 'Mikkel Holger S. Sinding', 'Armando M. Jaramillo‐Legorreta', 'Grant Abel', 'Andrew J. Read', 'Andrew J. Westgate', 'Katie M. Colegrove', 'Forrest M. Gomez', 'Katharina Martz', 'Rolando Rebolledo', 'Sam H. Ridgway', 'Teri Rowles', 'Cornelis E. van Elk', 'J. T. Boehm', 'Gustavo Cárdenas‐Hinojosa', 'R González Constandse', 'Edwyna Nieto‐Garcia', 'W W A Phillips', 'Diana Filipa Leal Sábio', 'Regina Sánchez', 'Jay C. Sweeney', 'Forrest I. Townsend', 'Jiménez Vivanco', 'Jiménez Vivanco', 'Susan Walker']
+ABSTRACT:
+Here we describe 'VaquitaCPR' (CPR: conservation, protection, recovery), a project intended to save the vaquita Phocoena sinus from extinction by temporarily removing individuals from adverse in situ conditions and placing them into emergency care.The vaquita, first described in 1958 (Norris & McFarland 1958), is a species of porpoise endemic to the Upper Gulf of California, México.Since its discovery, the population has declined at an increasing rate: estimated population size was 567 in 1997,
+
+SOURCE: Endangered species research
+PDF URL: https://www.int-res.com/articles/esr2019/38/n038p011.pdf
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Bycatch', 'Endangered species', 'Phocoena', 'Geography', 'Fishery', 'Critically endangered', 'Population', 'Porpoise', 'Humanities', 'Fishing', 'Biology', 'Sociology', 'Philosophy', 'Computer science', 'Demography', 'Harbour', 'Programming language']

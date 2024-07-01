@@ -1,0 +1,12 @@
+ID: W2105464072
+TITLE: Aipysurus mosaicus, a new species of egg-eating sea snake (Elapidae: Hydrophiinae), with a redescription of Aipysurus eydouxii (Gray, 1849)
+AUTHOR: ['Kate L. Sanders', 'Arne Redsted Rasmussen', 'Johan Elmberg', 'Mumpuni Mumpuni', 'Michael L. Guinea', 'Peter Blias', 'Michael S. Y. Lee', 'Bryan G. Fry']
+ABSTRACT:
+We describe a new species of egg-eating sea snake, Aipysurus mosaicus sp. nov., from northern Australia and southernNew Guinea. This species was previously considered to be an allopatric population of A. eydouxii, which occursthroughout the Sunda Shelf and in New Guinea. Molecular analyses reveal these two species to be sister lineages withfixed nucleotide substitutions at three independent mitochondrial and nuclear loci, and a deep phylogenetic divergenceexceeding that of all other sampled species pairs in Aipysurus. Aipysurus mosaicus sp. nov. is also distinguished from A.eydouxii by morphological characters relating to scalation (e.g. number of ventral scales), colour pattern (e.g. number andshape of transverse body bands), internal soft anatomy (e.g. position of heart in relation to ventral scales), and skeletalmorphology (e.g. shape of nasal and caudal neural spines). Additional sampling is needed to clarify the extent ofgeographic contact between A. eydouxii and the new species in New Guinea where they appear to be sympatric. It is likelythat the boundaries between these taxa will be mirrored in other coastal sea snakes with ranges spanning the deep watersof the Timor Trench; discovery of such cryptic species will have important implications for conservation of this highly diverse but relatively poorly studied group of marine vertebrates.
+
+SOURCE: Zootaxa
+PDF URL: None
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Biology', 'Allopatric speciation', 'Elapidae', 'Zoology', 'Sympatric speciation', 'Sister group', 'Phylogenetic tree', 'Population', 'Ecology', 'Clade', 'Genetics', 'Demography', 'Sociology', 'Venom', 'Gene']

@@ -1,0 +1,12 @@
+ID: W2889973689
+TITLE: Harmful algal blooms and climate change: exploring future distribution changes
+AUTHOR: ['Bryony Townhill', 'Jonathan Tinker', 'Miranda C. Jones', 'Sophie Pitois', 'Véronique Créach', 'Stephen D. Simpson', 'Stephen Dye', 'Elizabeth A. Bear', 'John K. Pinnegar']
+ABSTRACT:
+Abstract Harmful algae can cause death in fish, shellfish, marine mammals, and humans, via their toxins or from effects associated with their sheer quantity. There are many species, which cause a variety of problems around north-west Europe, and the frequency and distribution of algal blooms have altered in the recent past. Species distribution modelling was used to understand how harmful algal species may respond in the future to climate change, by considering environmental preferences and how these may shift. Most distribution studies to date use low resolution global model outputs. In this study, high resolution, downscaled shelf seas climate projections for the north-west European shelf were nested within lower resolution global projections, to understand how the distribution of harmful algae may change by the mid to end of century. Projections suggest that the habitat of most species (defined by temperature, salinity, depth, and stratification) will shift north this century, with suitability increasing in the central and northern North Sea. An increase in occurrence here might lead to more frequent detrimental blooms if wind, irradiance and nutrient levels are also suitable. Prioritizing monitoring of species in these susceptible areas could help in establishing early-warning systems for aquaculture and health protection schemes.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/75/6/1882/31237400/fsy113.pdf
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Climate change', 'Algal bloom', 'Environmental science', 'Habitat', 'Species distribution', 'Oceanography', 'Algae', 'Global warming', 'Distribution (mathematics)', 'Ecology', 'Fishery', 'Geography', 'Biology', 'Phytoplankton', 'Nutrient', 'Geology', 'Mathematical analysis', 'Mathematics']

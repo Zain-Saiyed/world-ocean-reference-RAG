@@ -1,0 +1,12 @@
+ID: W1984354046
+TITLE: Ocean noise in the tropical and subtropical Pacific Ocean
+AUTHOR: ['Ana Širović', 'Sean M. Wiggins', 'Erin M. Oleson']
+ABSTRACT:
+Ocean ambient noise is well studied in the North Pacific and North Atlantic but is poorly described for most of the worlds' oceans. Calibrated passive acoustic recordings were collected during 2009-2010 at seven locations in the central and western tropical and subtropical Pacific. Monthly and hourly mean power spectra (15-1000 Hz) were calculated in addition to their skewness, kurtosis, and percentile distributions. Overall, ambient noise at these seven sites was 10-20 dB lower than reported recently for most other locations in the North Pacific. At frequencies <100 Hz, spectrum levels were equivalent to those predicted for remote or light shipping. Noise levels in the 40 Hz band were compared to the presence of nearby and distant ships as reported to the World Meteorological Organization Voluntary Observing Ship Scheme (VOS) project. There was a positive, but nonsignificant correlation between distant shipping and low frequency noise (at 40 Hz). There was a seasonal variation in ambient noise at frequencies >200 Hz with higher levels recorded in the winter than in the summer. Several species of baleen whales, humpback (Megaptera novaeangliae), blue (Balaenoptera musculus), and fin (B. physalus) whales, also contributed seasonally to ambient noise in characteristic frequency bands.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: https://pubs.aip.org/asa/jasa/article-pdf/134/4/2681/15306034/2681_1_online.pdf
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Environmental science', 'Balaenoptera', 'Subtropics', 'Ambient noise level', 'Oceanography', 'Noise (video)', 'Whale', 'Pacific ocean', 'Climatology', 'Geography', 'Geology', 'Sound (geography)', 'Fishery', 'Biology', 'Artificial intelligence', 'Computer science', 'Image (mathematics)']

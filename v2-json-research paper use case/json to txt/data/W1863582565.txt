@@ -1,0 +1,12 @@
+ID: W1863582565
+TITLE: Impact of diatom‐diazotroph associations on carbon export in the Amazon River plume
+AUTHOR: ['Laurence Y. Yeung', 'William M. Berelson', 'Edward Young', 'Maria G. Prokopenko', 'Nick Rollins', 'Victoria J. Coles', 'Joseph P. Montoya', 'Edward Carpenter', 'Deborah K. Steinberg', 'Rachel A. Foster', 'Douglas G. Capone', 'Patricia L. Yager']
+ABSTRACT:
+Offshore tropical river plumes are associated with areas of high N 2 fixation (diazotrophy) and biological carbon drawdown. Episodic blooms of the diatom Hemiaulus hauckii and its diazotrophic cyanobacterial symbiont Richelia intracellularis are believed to dominate that carbon drawdown, but the mechanism is not well understood. We report primary productivity associated with blooms of these diatom‐diazotroph assemblages (DDAs) in the offshore plume of the Amazon River using simultaneous measurements of O 2 /Ar ratios and the triple‐isotope composition of dissolved O 2 . In these blooms, we observe peaks in net community productivity, but relatively small changes in gross primary productivity, suggesting that DDA blooms increase the ecosystem carbon export ratio more than twofold. These events of enhanced export efficiency lead to biological uptake of dissolved inorganic carbon and silicate, whose longer mixed‐layer residence times otherwise obscure the differential impact of DDAs. The shorter‐term rate estimates presented here are consistent with the results derived from longer‐term geochemical tracers, confirming that DDAs drive a significant biological CO 2 pump in tropical oceans.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 64
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Diatom', 'Diazotroph', 'Environmental science', 'Oceanography', 'Bloom', 'Plume', 'Primary production', 'Productivity', 'Mesocosm', 'Carbon cycle', 'Drawdown (hydrology)', 'Ecosystem', 'Geology', 'Ecology', 'Biology', 'Nitrogen fixation', 'Paleontology', 'Bacteria', 'Physics', 'Geotechnical engineering', 'Macroeconomics', 'Aquifer', 'Groundwater', 'Economics', 'Thermodynamics']

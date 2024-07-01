@@ -1,0 +1,12 @@
+ID: W2549262061
+TITLE: Damaging sediment density flows triggered by tropical cyclones
+AUTHOR: ['Ed Pope', 'Peter J. Talling', 'Lionel Carter', 'Michael Clare', 'James E. Hunt']
+ABSTRACT:
+The global network of subsea fibre-optic cables plays a critical role in the world economy and is considered as strategic infrastructure for many nations. Sediment density flows have caused significant disruption to this network in the recent past. These cable breaks represent the only means to actively monitor such flows over large oceanic regions. Here, we use a global cable break database to analyse tropical cyclone triggering of sediment density flows worldwide over 25 yrs. Cable breaking sediment density flows are triggered in nearly all areas exposed to tropical cyclones but most occur in the NW Pacific. They are triggered by one of three sets of mechanisms. Tropical cyclones directly trigger flows, synchronous to their passage, as a consequence of storm waves, currents and surges. Cyclones also trigger flows indirectly, with near-synchronous timing to their passage, as a consequence of peak flood discharges. Last, cyclones trigger flows after a delay of days as a consequence of the failure of large volumes of rapidly deposited sediment. No clear relationship emerges between tropical cyclone activity (i.e. track, frequency and intensity) and the number of sediment density flows triggered. This is a consequence of the short period of observation. However, expansion of the cable network and predicted changes to cyclone activity in specific regions increases the likelihood of increasing numbers of damaging flows.
+
+SOURCE: Earth and planetary science letters
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Tropical cyclone', 'Geology', 'Storm surge', 'Cyclone (programming language)', 'Sediment', 'Sediment transport', 'Storm', 'Flood myth', 'Oceanography', 'Geomorphology', 'Geography', 'Field-programmable gate array', 'Computer science', 'Computer hardware', 'Archaeology']

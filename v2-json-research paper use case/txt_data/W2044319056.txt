@@ -1,0 +1,12 @@
+ID: W2044319056
+TITLE: Meiofaunal and bacterial community response to diesel additions in a microcosm study
+AUTHOR: ['J. Fredrik Lindgren', 'Ida‐Maja Hassellöv', 'Ingela Dahllöf']
+ABSTRACT:
+Effects of low PAH-containing diesel were studied in a 60-day microcosm experiment at PAH concentrations 130, 1300 and 13,000 μg/kg sediment. Nutrient fluxes, potential nitrification and meiofaunal community composition were analysed at three time points. Changed ∑NOx-fluxes indicated reduced sediment nitrification in Medium and High with time, in agreement with lowered potential nitrification rates in all treatments. Reduction in silicate and phosphate fluxes over time suggested severe effects on activity of meiofauna. Reduced activity increased the anoxic sediment layer, which could have contributed to the changed ∑NOx-fluxes. There were significant differences in meiofaunal community composition after 30 and 60 days in Medium and High. Changes were due to increasing numbers of harpacticoids and the foraminiferan group Rotaliina, as well as decreasing numbers of Nematodes and the foraminiferan group Reophax. In spite of the low PAH-level, small additions of this diesel can still have pronounced effects on meiofaunal and bacterial communities.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Microcosm', 'Diesel fuel', 'Environmental science', 'Environmental chemistry', 'Environmental protection', 'Waste management', 'Chemistry', 'Engineering']

@@ -1,0 +1,12 @@
+ID: W2495322778
+TITLE: Understanding the formation and evolution of rain‐formed fresh lenses at the ocean surface
+AUTHOR: ['Kyla Drushka', 'William E. Asher', 'Brian Ward', 'Kieran Walesby']
+ABSTRACT:
+Abstract Rain falling on the ocean produces a layer of buoyant fresher surface water, or “fresh lens.” Fresh lenses can have significant impacts on satellite‐in situ salinity comparisons and on exchanges between the surface and the bulk mixed layer. However, because these are small, transient features, relatively few observations of fresh lenses have been made. Here the Generalized Ocean Turbulence Model (GOTM) is used to explore the response of the upper few meters of the ocean to rain events. Comparisons with observations from several platforms demonstrate that GOTM can reproduce the main characteristics of rain‐formed fresh lenses. Idealized sensitivity tests show that the near‐surface vertical salinity gradient within fresh lenses has a linear dependence on rain rate and an inverse dependence on wind speed. Yearlong simulations forced with satellite rainfall and reanalysis atmospheric parameters demonstrate that the mean salinity difference between 0.01 and 5 m, equivalent to the measurement depths of satellite radiometers and Argo floats, is −0.04 psu when averaged over the 20°S–20°N tropical band. However, when averaged regionally, the mean vertical salinity difference exceeds −0.15 psu in the Indo‐Pacific warm pool, in the Pacific and Atlantic intertropical convergence zone, and in the South Pacific convergence zone. In most of these regions, salinities measured by the Aquarius satellite instrument have a fresh bias relative to Argo measurements at 5 m depth. These results demonstrate that the fresh bias in Aquarius salinities in rainy, low‐wind regions may be caused by the presence of rain‐produced fresh lenses.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015JC011527
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Argo', 'Intertropical Convergence Zone', 'Salinity', 'Mixed layer', 'Environmental science', 'Temperature salinity diagrams', 'Satellite', 'Atmospheric sciences', 'Climatology', 'Geology', 'Oceanography', 'Meteorology', 'Precipitation', 'Geography', 'Aerospace engineering', 'Engineering']

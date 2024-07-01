@@ -1,0 +1,12 @@
+ID: W1502730891
+TITLE: An interim framework for assessing the population consequences of disturbance
+AUTHOR: ['Stephanie L. King', 'Robert S. Schick', 'Carl Donovan', 'Cormac G. Booth', 'Mark A. Burgman', 'Len Thomas', 'John Harwood']
+ABSTRACT:
+Summary Changes in natural patterns of animal behaviour and physiology resulting from anthropogenic disturbance may alter the conservation status of a population if they affect the ability of individuals to survive, breed or grow. However, information to forecast population‐level consequences of such changes is often lacking. We developed an interim framework to assess the population consequences of disturbance when empirical information is sparse. We show how daily effects of disturbance, which are often straightforward to estimate, can be scaled to the disturbance duration and to multiple sources of disturbance. We used expert elicitation to estimate parameters that define how changes in individual behaviour or physiology affect vital rates and incorporated them into a stochastic population model. Model outputs can be used to evaluate cumulative impacts of disturbance over space and time. As an example, we forecast the potential effects of disturbance from offshore wind farm construction on the N orth S ea harbour porpoise ( P hocoena phocoena ) population. Synthesis and applications . The interim framework can be used to forecast the effects of disturbances from human activities on animal populations, to assess the effectiveness of mitigation measures and to identify priority areas for research that reduces uncertainty in population forecasts. The last two applications are likely to be important in situations where there is a risk of unacceptable change in a species' conservation status. The framework should, however, be augmented with empirical data as soon as these are available.
+
+SOURCE: Methods in ecology and evolution
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.12411
+CITED BY COUNT: 115
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Disturbance (geology)', 'Porpoise', 'Population', 'Interim', 'Vital rates', 'Environmental resource management', 'Phocoena', 'Population model', 'Environmental science', 'Cumulative effects', 'Ecology', 'Population growth', 'Geography', 'Computer science', 'Biology', 'Demography', 'Harbour', 'Sociology', 'Programming language', 'Paleontology', 'Archaeology']

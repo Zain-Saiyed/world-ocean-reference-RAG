@@ -1,0 +1,12 @@
+ID: W2898000142
+TITLE: Mantle‐Derived Helium and Multiple Methane Sources in Gas Bubbles of Cold Seeps Along the Cascadia Continental Margin
+AUTHOR: ['Tamara Baumberger', 'R. W. Embley', 'S. G. Merle', 'Marvin D. Lilley', 'N. Raineault', 'J. E. Lupton']
+ABSTRACT:
+Abstract During E/V Nautilus NA072 expedition, multibeam sonar surveys located over 800 individual bubble streams rising from the Cascadia Margin between the Strait of Juan de Fuca and Cape Mendocino at depths between 104 and 2,073 m. Gas bubbles were collected directly at the seafloor using gastight sampling bottles. These bubbles were consistently composed of over 99% methane with traces of carbon dioxide, oxygen, nitrogen, noble gases, and more rarely higher hydrocarbons. A common previous view was that a biogenic source was responsible for seeps from within the gas hydrate stability zone (upper limit near 500‐m isobath) and a thermogenic source was responsible for seeps from the upper slope and the shelf. Higher hydrocarbons in deep seeps with a biogenic methane signature, as well as the lack of higher hydrocarbons in some shallower seeps with a thermogenic methane signature, show that the origin of the gas cannot simply be attributed to seep location on the margin. Instead, mixing and oxidation processes play an integral role. 3 He/ 4 He ratios at Coquille SW point to a contribution of 30% mantle helium, whereas all the other investigated sites are characterized by a crustal helium signature. Hence, the Coquille SW seeps are directly or indirectly connected to the mantle or to very young oceanic crust. The detection of mantle helium in these seeps can thus be used as a tracer for deep‐reaching fracture systems and their changing pathways.
+
+SOURCE: Geochemistry, geophysics, geosystems
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2018GC007859
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Geology', 'Seafloor spreading', 'Cold seep', 'Petroleum seep', 'Methane', 'Mantle (geology)', 'Continental margin', 'Clathrate hydrate', 'Oceanic crust', 'Hotspot (geology)', 'Isotopic signature', 'Continental shelf', 'Oceanography', 'Paleontology', 'Geophysics', 'Subduction', 'Stable isotope ratio', 'Hydrate', 'Ecology', 'Tectonics', 'Physics', 'Biology', 'Chemistry', 'Organic chemistry', 'Quantum mechanics']

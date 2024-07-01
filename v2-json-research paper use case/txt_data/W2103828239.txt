@@ -1,0 +1,12 @@
+ID: W2103828239
+TITLE: Wave energy in Europe: Views on experiences and progress to date
+AUTHOR: ['Anne Marie O’Hagan', 'Cristina Huertas', 'J.R. O’Callaghan', 'Deborah Greaves']
+ABSTRACT:
+Through the Intelligent Energy Europe-funded SOWFIA project, the experiences of developers, regulators and stakeholders in relation to consenting wave energy deployments to date was assessed and analysed. The work focussed on wave energy test centres in Europe and involved consultation with wave energy device and project developers, regulatory authorities, stakeholders, environmental consultants and others through dedicated workshops and questionnaire surveys. Themes that arise in the analysis relate to planning and consenting processes, administrative procedures, Environmental Impact Assessment and stakeholder consultation. An analysis of the barriers as perceived by those consulted is presented and discussed, and recommendations are drawn from the analysis within each of the themes. In particular the need for Maritime Spatial Planning (MSP) to alleviate complex planning and consenting processes; the need for coordination of administrative procedures; the need for clearer requirements in the EIA process; and the need for early participation of stakeholders in consultation are discussed. Progress has been made in many EU countries but certain priority areas remain to be addressed if wave energy is to realise its full potential.
+
+SOURCE: International journal of marine energy
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Stakeholder', 'Work (physics)', 'Process (computing)', 'Energy (signal processing)', 'Test (biology)', 'Stakeholder analysis', 'Stakeholder engagement', 'Business', 'Energy planning', 'Public relations', 'Process management', 'Environmental planning', 'Engineering', 'Political science', 'Computer science', 'Geography', 'Renewable energy', 'Mechanical engineering', 'Paleontology', 'Statistics', 'Mathematics', 'Electrical engineering', 'Biology', 'Operating system']

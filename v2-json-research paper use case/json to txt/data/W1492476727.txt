@@ -1,0 +1,12 @@
+ID: W1492476727
+TITLE: Temperature impacts on deep‐sea biodiversity
+AUTHOR: ['Moriaki Yasuhara', 'Roberto Danovaro']
+ABSTRACT:
+Temperature is considered to be a fundamental factor controlling biodiversity in marine ecosystems, but precisely what role temperature plays in modulating diversity is still not clear. The deep ocean, lacking light and in situ photosynthetic primary production, is an ideal model system to test the effects of temperature changes on biodiversity. Here we synthesize current knowledge on temperature-diversity relationships in the deep sea. Our results from both present and past deep-sea assemblages suggest that, when a wide range of deep-sea bottom-water temperatures is considered, a unimodal relationship exists between temperature and diversity (that may be right skewed). It is possible that temperature is important only when at relatively high and low levels but does not play a major role in the intermediate temperature range. Possible mechanisms explaining the temperature-biodiversity relationship include the physiological-tolerance hypothesis, the metabolic hypothesis, island biogeography theory, or some combination of these. The possible unimodal relationship discussed here may allow us to identify tipping points at which on-going global change and deep-water warming may increase or decrease deep-sea biodiversity. Predicted changes in deep-sea temperatures due to human-induced climate change may have more adverse consequences than expected considering the sensitivity of deep-sea ecosystems to temperature changes.
+
+SOURCE: Biological reviews/Biological reviews of the Cambridge Philosophical Society
+PDF URL: None
+CITED BY COUNT: 116
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Deep sea', 'Climate change', 'Ecosystem', 'Global warming', 'Range (aeronautics)', 'Marine ecosystem', 'Environmental science', 'Global change', 'Ecology', 'Effects of global warming on oceans', 'Deep ocean water', 'Oceanography', 'Biology', 'Geology', 'Materials science', 'Composite material']

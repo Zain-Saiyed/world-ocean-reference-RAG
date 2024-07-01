@@ -1,0 +1,12 @@
+ID: W2791931380
+TITLE: Below the surface: Twenty-five years of seafloor litter monitoring in coastal seas of North West Europe (1992–2017)
+AUTHOR: ['Thomas Maes', 'Jon Barry', 'H.A. Leslie', 'A.D. Vethaak', 'E.E. Manuel Nicolaus', 'Robin Law', 'Brett P. Lyons', 'Roi Martinez', 'B.F.M. Harley', 'John E. Thain']
+ABSTRACT:
+Marine litter presents a global problem, with increasing quantities documented in recent decades. The distribution and abundance of marine litter on the seafloor off the United Kingdom's (UK) coasts were quantified during 39 independent scientific surveys conducted between 1992 and 2017. Widespread distribution of litter items, especially plastics, were found on the seabed of the North Sea, English Channel, Celtic Sea and Irish Sea. High variation in abundance of litter items, ranging from 0 to 1835 pieces km−2 of seafloor, was observed. Plastic tems such as bags, bottles and fishing related debris were commonly observed across all areas. Over the entire 25-year period (1992–2017), 63% of the 2461 trawls contained at least one plastic litter item. There was no significant temporal trend in the percentage of trawls containing any or total plastic litter items across the long-term datasets. Statistically significant trends, however, were observed in specific plastic litter categories only. These trends were all positive except for a negative trend in plastic bags in the Greater North Sea - suggesting that behavioural and legislative changes could reduce the problem of marine litter within decades.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 105
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Oceanography', 'North west', 'Seafloor spreading', 'Environmental science', 'Geography', 'Marine debris', 'Litter', 'Physical geography', 'Fishery', 'Geology', 'Ecology', 'Biology', 'Debris']

@@ -1,0 +1,12 @@
+ID: W2992572418
+TITLE: Coordination of Marine Functional Zoning Revision at the Provincial and Municipal Levels: A Case Study of Putian, China
+AUTHOR: ['Faming Huang', 'Yuan Lin', 'Liang Hui-xin', 'Rongrong Zhao', 'Qiuming Chen', 'Jiang Lin', 'Jinliang Huang']
+ABSTRACT:
+Marine functional zoning (MFZ) is a type of marine spatial planning (MSP) implemented widely in China and one of the three major systems defined in the Law of the PRC on the Administration of Sea Area Use. China adopts “top-down management” for MFZ, in which upper management levels impose clear constraints and restrictions on lower levels. However, this approach has led to issues, such as a rigid MFZ classification system and unreasonable re-allocation of control indicators in the process of assigning MFZ classification at different levels. In this study, we propose and demonstrate the coordination of MFZ revision in terms of the classification system and the re-allocation of control indicators in the coastal city of Putian, China. The results show that the proposed measures could help realize the effective and reasonable coordination of MFZ revisions at the provincial and municipal levels, providing a reference for such MFZ revisions in other regions of China and the coordination of MSP between different levels in other countries.
+
+SOURCE: Journal of marine science and engineering
+PDF URL: https://www.mdpi.com/2077-1312/7/12/442/pdf?version=1575367984
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['China', 'Control (management)', 'Zoning', 'Process (computing)', 'Marine spatial planning', 'Business', 'Environmental resource management', 'Computer science', 'Environmental planning', 'Geography', 'Engineering', 'Political science', 'Environmental science', 'Civil engineering', 'Law', 'Artificial intelligence', 'Operating system']

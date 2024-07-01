@@ -1,0 +1,12 @@
+ID: W2116673636
+TITLE: Wind turbine underwater noise and marine mammals: implications of current knowledge and data needs
+AUTHOR: ['Peter T. Madsen', 'Magnus Wahlberg', 'Jakob Tougaard', 'Klaus Lücke', 'Peter L. Tyack']
+ABSTRACT:
+The demand for renewable energy has led to construction of offshore wind farms with high-power turbines, and many more wind farms are being planned for the shallow waters of the world's marine habitats.The growth of offshore wind farms has raised concerns about their impact on the marine environment.Marine mammals use sound for foraging, orientation and communication and are therefore possibly susceptible to negative effects of man-made noise generated from constructing and operating large offshore wind turbines.This paper reviews the existing literature and assesses zones of impact from different noise-generating activities in conjunction with wind farms on 4 representative shallow-water species of marine mammals.Construction involves many types of activities that can generate high sound pressure levels, and pile-driving seems to be the noisiest of all.Both the literature and modeling show that pile-driving and other activities that generate intense impulses during construction are likely to disrupt the behavior of marine mammals at ranges of many kilometers, and that these activities have the potential to induce hearing impairment at close range.The reported noise levels from operating wind turbines are low, and are unlikely to impair hearing in marine mammals.The impact zones for marine mammals from operating wind turbines depend on the low-frequency hearing-abilities of the species in question, on sound-propagation conditions, and on the presence of other noise sources such as shipping.The noise impact on marine mammals is more severe during the construction of wind farms than during their operation.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2006/309/m309p279.pdf
+CITED BY COUNT: 333
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Offshore wind power', 'Wind power', 'Marine spatial planning', 'Turbine', 'Habitat', 'Underwater', 'Environmental science', 'Marine engineering', 'Arctic', 'Oceanography', 'Environmental resource management', 'Engineering', 'Ecology', 'Geology', 'Biology', 'Mechanical engineering']

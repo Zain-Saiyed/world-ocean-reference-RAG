@@ -1,0 +1,12 @@
+ID: W2894168339
+TITLE: Challenges for global ocean observation: the need for increased human capacity
+AUTHOR: ['Patricia Miloslavich', 'Sophie Seeyave', 'Frank Müller‐Karger', 'Nicholas J. Bax', 'Elham M. Ali', 'Cláudia Delgado', 'Hayley Evers-King', 'Benjamin R. Loveday', 'Vivian A. Lutz', 'Jan Newton', 'Glenn Nolan', 'Ana Carolina Peralta', 'Christine Traeger-Chatterjee', 'Edward R. Urban']
+ABSTRACT:
+Sustained global ocean observations are needed to recognise, understand, and manage changes in marine biodiversity, resources and habitats, and to implement wise conservation and sustainable development strategies. To meet this need, the Global Ocean Observing System (GOOS), a network of observing systems distributed around the world and coordinated by the Intergovernmental Oceanographic Commission (IOC) has proposed Essential Ocean Variables (EOVs) that are relevant to both the scientific and the broader community, including resource managers. Building a network that is truly global requires expanding participation beyond scientists from well-resourced countries to a far broader representation of the global community. New approaches are required to provide appropriate training, and resources and technology should follow to enable the application of this training to engage meaningfully in global observing networks and in the use of the data. Investments in technical capacity fulfil international reporting obligations under the UN Sustainable Development Goal 14A. Important opportunities are emerging now for countries to develop research partnerships with the IOC and GOOS to address these obligations. Implementing these partnerships requires new funding models and initiatives that support a sustained research capacity and marine technology transfer.
+
+SOURCE: Journal of operational oceanography
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/1755876X.2018.1526463?needAccess=true
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Capacity building', 'Business', 'Environmental resource management', 'Ocean observations', 'Marine conservation', 'Commission', 'Sustainable development', 'Global network', 'Resource (disambiguation)', 'Environmental planning', 'International community', 'Computer science', 'Political science', 'Environmental science', 'Economic growth', 'Geography', 'Telecommunications', 'Meteorology', 'Economics', 'Computer network', 'Finance', 'Politics', 'Law']

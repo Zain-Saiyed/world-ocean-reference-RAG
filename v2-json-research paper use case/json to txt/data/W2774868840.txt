@@ -1,0 +1,12 @@
+ID: W2774868840
+TITLE: Historical perspectives on the mangroves of Kakadu National Park
+AUTHOR: ['Richard Lucas', 'C. Max Finlayson', 'Renée E. Bartolo', 'Kerrylee Rogers', 'A. R. Mitchell', 'Colin D. Woodroffe', 'Emma Asbridge', 'Emilie Ens']
+ABSTRACT:
+Mangroves are a major ecosystem within Kakadu National Park in Australia’s Northern Territory, providing coastal protection, high biodiversity and an important resource for Aboriginal people. In the late Holocene (from c. 6000 before present), mangroves occupied much of the estuarine and coastal plains, but their range has subsequently contracted to the main river systems (the West Alligator, South Alligator and East Alligator Rivers, and the Wildman River), tributary creeks and offshore islands (Field and Barrow Islands). On the basis of maps of mangrove extent generated from aerial photography (1950, 1975, 1984 and 1991), compact airborne spectrographic imagery (CASI; 2002), light detection and ranging (LIDAR; 2011) and RapidEye data (2014 onward), changes in net area have been minor but significant redistribution has occurred, with this being attributed to both inland intrusion and seaward colonisation of mangroves. The greatest area changes have been associated with lower-stature mangroves dominated by Avicennia marina and Sonneratia alba, as determined from these datasets. Aerial surveys, conducted using a remote piloted aircraft (RPA) and fixed wing aircraft in September 2016, showed dieback of mangroves, with spaceborne RapidEye observations suggesting this occurred between late 2015 and 2016 and at the same time as the extensive mangrove losses reported in the Gulf of Carpentaria. Given the recent dieback and the associated need to better monitor and protect mangroves and proximal ecosystems in the World Heritage- and Ramsar-listed Kakadu National Park, the study recommends the development and implementation of a robust and long-term monitoring system that better utilises existing and ongoing earth observation and ground data, and is supported by a national approach.
+
+SOURCE: Marine and freshwater research
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mangrove', 'National park', 'Geography', 'Estuary', 'Biodiversity', 'Tributary', 'Fishery', 'Ecology', 'Cartography', 'Archaeology', 'Biology']

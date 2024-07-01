@@ -1,0 +1,12 @@
+ID: W2541068994
+TITLE: Riverine influence on ocean color in the equatorial South China Sea
+AUTHOR: ['Chenglin Sun']
+ABSTRACT:
+Analysis of SeaWiFS data off Northwest Borneo reveals coastal chlorophyll bloom extending more than 200 km to deep South China Sea during winter. A combination of remote sensing products is used to untangle its statistical relation with various forcing factors. River discharge rate is estimated from satellite measurements of land rainfall, and surface chlorophyll over the middle shelf is shown to vary with river discharge and lag by one month. Strong (weak) chlorophyll blooms tend to occur in La Niña (El Niño) years. The study provides evidence that river runoff from maritime continent has major influence on equatorial ocean color.
+
+SOURCE: Continental shelf research
+PDF URL: http://manuscript.elsevier.com/S0278434316305696/pdf/S0278434316305696.pdf
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['SeaWiFS', 'Ocean color', 'Oceanography', 'Discharge', 'Environmental science', 'Forcing (mathematics)', 'Surface runoff', 'Chlorophyll a', 'Bloom', 'Climatology', 'Algal bloom', 'Satellite', 'Geology', 'Phytoplankton', 'Geography', 'Drainage basin', 'Nutrient', 'Ecology', 'Chemistry', 'Botany', 'Cartography', 'Organic chemistry', 'Engineering', 'Biology', 'Aerospace engineering']

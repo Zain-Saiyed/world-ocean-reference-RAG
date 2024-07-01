@@ -1,0 +1,12 @@
+ID: W1970327765
+TITLE: Recent global-warming hiatus tied to equatorial Pacific surface cooling
+AUTHOR: ['Yu Kosaka', 'Shang‐Ping Xie']
+ABSTRACT:
+Despite the continued increase in atmospheric greenhouse gas concentrations, the annual-mean global temperature has not risen in the twenty-first century, challenging the prevailing view that anthropogenic forcing causes climate warming. Various mechanisms have been proposed for this hiatus in global warming, but their relative importance has not been quantified, hampering observational estimates of climate sensitivity. Here we show that accounting for recent cooling in the eastern equatorial Pacific reconciles climate simulations and observations. We present a novel method of uncovering mechanisms for global temperature change by prescribing, in addition to radiative forcing, the observed history of sea surface temperature over the central to eastern tropical Pacific in a climate model. Although the surface temperature prescription is limited to only 8.2% of the global surface, our model reproduces the annual-mean global temperature remarkably well with correlation coefficient r = 0.97 for 1970-2012 (which includes the current hiatus and a period of accelerated global warming). Moreover, our simulation captures major seasonal and regional characteristics of the hiatus, including the intensified Walker circulation, the winter cooling in northwestern North America and the prolonged drought in the southern USA. Our results show that the current hiatus is part of natural climate variability, tied specifically to a La-Niña-like decadal cooling. Although similar decadal hiatus events may occur in the future, the multi-decadal warming trend is very likely to continue with greenhouse gas increase.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 1402
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Hiatus', 'Climatology', 'Radiative forcing', 'Climate model', 'Environmental science', 'Global warming', 'Greenhouse gas', 'Forcing (mathematics)', 'Climate change', 'Global temperature', 'Sea surface temperature', 'Atmospheric sciences', 'Geology', 'Oceanography', 'Paleontology']

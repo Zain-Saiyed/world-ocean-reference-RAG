@@ -1,0 +1,12 @@
+ID: W2473009902
+TITLE: Climate-driven regime shift of a temperate marine ecosystem
+AUTHOR: ['Thomas Wernberg', 'Scott Bennett', 'Russell C. Babcock', 'Thibaut de Bettignies', 'Katherine Cure', 'Martial Depczynski', 'François Dufois', 'Jane Fromont', 'Christopher J. Fulton', 'Renae K. Hovey', 'Euan S. Harvey', 'Thomas H. Holmes', 'Gary A. Kendrick', 'Ben Radford', 'Julia Santana‐Garcon', 'Benjamin J. Saunders', 'Dan Smale', 'Mads S. Thomsen', 'Chenae A. Tuckett', 'Fernando Tuya', 'Mathew A. Vanderklift', 'Shaun K. Wilson']
+ABSTRACT:
+No turning back? Ecosystems over time have endured much disturbance, yet they tend to remain intact, a characteristic we call resilience. Though many systems have been lost and destroyed, for systems that remain physically intact, there is debate as to whether changing temperatures will result in shifts or collapses. Wernburg et al. show that extreme warming of a temperate kelp forest off Australia resulted not only in its collapse, but also in a shift in community composition that brought about an increase in herbivorous tropical fishes that prevent the reestablishment of kelp. Thus, many systems may not be resilient to the rapid climate change that we face. Science , this issue p. 169
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/353/6295/169.full.pdf
+CITED BY COUNT: 968
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Kelp forest', 'Kelp', 'Temperate climate', 'Ecosystem', 'Climate change', 'Disturbance (geology)', 'Ecology', 'Regime shift', 'Psychological resilience', 'Marine ecosystem', 'Herbivore', 'Environmental science', 'Oceanography', 'Biology', 'Geology', 'Psychology', 'Paleontology', 'Psychotherapist']

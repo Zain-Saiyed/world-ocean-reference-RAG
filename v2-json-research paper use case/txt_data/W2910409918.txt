@@ -1,0 +1,12 @@
+ID: W2910409918
+TITLE: The 26th annual Nucleic Acids Research database issue and Molecular Biology Database Collection
+AUTHOR: ['Daniel J. Rigden', 'Xosé M. Fernández']
+ABSTRACT:
+The 2019 Nucleic Acids Research (NAR) Database Issue contains 168 papers spanning molecular biology. Among them, 64 are new and another 92 are updates describing resources that appeared in the Issue previously. The remaining 12 are updates on databases most recently published elsewhere. This Issue contains two Breakthrough articles, on the Virtual Metabolic Human (VMH) database which links human and gut microbiota metabolism with diet and disease, and Vibrism DB, a database of mouse brain anatomy and gene (co-)expression with sophisticated visualization and session sharing. Major returning nucleic acid databases include RNAcentral, miRBase and LncRNA2Target. Protein sequence databases include UniProtKB, InterPro and Pfam, while wwPDB and RCSB cover protein structure. STRING and KEGG update in the section on metabolism and pathways. Microbial genomes are covered by IMG/M and resources for human and model organism genomics include Ensembl, UCSC Genome Browser, GENCODE and Flybase. Genomic variation and disease are well-covered by GWAS Catalog, PopHumanScan, OMIM and COSMIC, CADD being another major newcomer. Major new proteomics resources reporting here include iProX and jPOSTdb. The entire database issue is freely available online on the NAR website (https://academic.oup.com/nar). The NAR online Molecular Biology Database Collection has been updated, reviewing 506 entries, adding 66 new resources and eliminating 147 discontinued URLs, bringing the current total to 1613 databases. It is available at http://www.oxfordjournals.org/nar/database/c.
+
+SOURCE: Nucleic acids research
+PDF URL: https://academic.oup.com/nar/article-pdf/47/D1/D1/27437694/gky1267.pdf
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ensembl', 'UniProt', 'Database', 'Biology', 'MiRBase', 'SBML', 'RefSeq', 'Genomics', 'Biological database', 'Online database', 'Genome browser', 'Systems biology', 'KEGG', 'Computational biology', 'Genome', 'Bioinformatics', 'World Wide Web', 'Markup language', 'Genetics', 'Computer science', 'Gene', 'XML', 'RNA', 'Gene ontology', 'Gene expression']

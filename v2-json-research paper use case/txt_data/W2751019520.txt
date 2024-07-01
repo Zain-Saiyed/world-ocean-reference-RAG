@@ -1,0 +1,12 @@
+ID: W2751019520
+TITLE: A looming tragedy of the sand commons
+AUTHOR: ['Aurora Torres', 'Jodi S. Brandt', 'Kristen Lear', 'Jianguo Liu']
+ABSTRACT:
+Increasing sand extraction, trade, and consumption pose global sustainability challenges
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 329
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Looming', 'Tragedy of the commons', 'Tragedy (event)', 'Commons', 'Environmental ethics', 'Political science', 'Philosophy', 'Sociology', 'Law', 'Psychology', 'Social science', 'Cognitive psychology']

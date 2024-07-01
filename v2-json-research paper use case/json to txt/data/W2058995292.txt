@@ -1,0 +1,12 @@
+ID: W2058995292
+TITLE: Interesting Times for Marine N <sub>2</sub> O
+AUTHOR: ['Louis A Codispoti']
+ABSTRACT:
+Changes in ocean chemistry could exacerbate global warming by raising the atmospheric concentration of nitrous oxide, a potent greenhouse gas.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 179
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Geology']

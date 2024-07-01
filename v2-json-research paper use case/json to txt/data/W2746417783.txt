@@ -1,0 +1,12 @@
+ID: W2746417783
+TITLE: Sound physiological knowledge and principles in modeling shrinking of fishes under climate change
+AUTHOR: ['Daniel Pauly', 'William W. L. Cheung']
+ABSTRACT:
+One of the main expected responses of marine fishes to ocean warming is decrease in body size, as supported by evidence from empirical data and theoretical modeling. The theoretical underpinning for fish shrinking is that the oxygen supply to large fish size cannot be met by their gills, whose surface area cannot keep up with the oxygen demand by their three-dimensional bodies. However, Lefevre et al. (Global Change Biology, 2017, 23, 3449-3459) argue against such theory. Here, we re-assert, with the Gill-Oxygen Limitation Theory (GOLT), that gills, which must retain the properties of open surfaces because their growth, even while hyperallometric, cannot keep up with the demand of growing three-dimensional bodies. Also, we show that a wide range of biological features of fish and other water-breathing organisms can be understood when gill area limitation is used as an explanation. We also note that an alternative to GOLT, offering a more parsimonious explanation for these features of water-breathers has not been proposed. Available empirical evidence corroborates predictions of decrease in body sizes under ocean warming based on GOLT, with the magnitude of the predicted change increases when using more species-specific parameter values of metabolic scaling.
+
+SOURCE: Global change biology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.13831
+CITED BY COUNT: 183
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Gill', 'Fish <Actinopterygii>', 'Global warming', 'Climate change', 'Range (aeronautics)', 'Scaling', 'Ecology', 'Environmental science', 'Metabolic rate', 'Biology', 'Atmospheric sciences', 'Fishery', 'Geology', 'Mathematics', 'Materials science', 'Geometry', 'Composite material', 'Endocrinology']

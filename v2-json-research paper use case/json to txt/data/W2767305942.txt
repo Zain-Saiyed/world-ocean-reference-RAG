@@ -1,0 +1,12 @@
+ID: W2767305942
+TITLE: The closure history of the Central American seaway: evidence from isotopes and fossils to models and molecules
+AUTHOR: ['Daniela N. Schmidt']
+ABSTRACT:
+This book unites climate modelling, palaeoceanography and palaeontology to address fundamental events in the climate history of Earth over the past 600 million years. Understanding the ‘tipping points’ that have led to rapid changes in the Earth's climate is vitally important with the realization that humans modify global climate. In an effort to better understand past and future climate change, general circulation models have become the forerunners of attempts to simulate future climate. Although extraordinarily sophisticated, they remain imperfect tools that require ‘grounding’ in geological data. In this, the study of past major climate transitions like the Palaeozoic icehouse worlds and the extreme greenhouse of the Cretaceous are invaluable. Both the mechanisms that forced changes in the Earth's climate as well as the proxies that track these changes are discussed. The central message of the book is that general circulation models tested with geological data in an iterative ‘ground truth’ process provide the best estimates of the Earth's ancient climate.
+
+SOURCE: The Geological Society of London on behalf of The Micropalaeontological Society eBooks
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Climate change', 'Anthropocene', 'Climate model', 'Downscaling', 'General Circulation Model', 'Cretaceous', 'Geography', 'Earth science', 'Earth system science', 'Climate state', 'Paleontology', 'Geology', 'Global warming', 'Climatology', 'Effects of global warming', 'Oceanography']

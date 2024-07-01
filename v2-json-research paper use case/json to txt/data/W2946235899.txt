@@ -1,0 +1,12 @@
+ID: W2946235899
+TITLE: Assessing Reef-Island Shoreline Change Using UAV-Derived Orthomosaics and Digital Surface Models
+AUTHOR: ['Meagan Lowe', 'Farrah Anis Fazliatul Adnan', 'Sarah Hamylton', 'Rafael C. Carvalho', 'Colin D. Woodroffe']
+ABSTRACT:
+This study presents an analysis of shoreline change on reef islands using unmanned aerial vehicle (UAV)-derived orthomosaics and digital surface models (DSMs) collected on Sipadan Island, Sabah, Malaysia, and Sasahura Ite Island, Isabel Province, Solomon Islands. The high resolution of UAV-derived orthomosaics enabled changes in the position of the base of beach to be detected with confidence. The accuracy of the UAV-derived DSMs was assessed against equivalent topographic profiles via root-mean-square error, and found to be &lt;0.21 m in all but one case; this demonstrates the potential for using UAV-derived DSMs to interpret three-dimensional island beach morphology and detect patterns of geomorphic change. The correlation between planimetric and volumetric change along selected beach transects was also investigated and found to be variable, indicating that a multifaceted approach including both planimetric (two-dimensional) and volumetric (three-dimensional) metrics is of value when analysing reef-island change. However, interpretations of UAV-derived data must carefully consider errors associated with global positioning system (GPS) positioning, the distribution of ground control points, the chosen UAV flight parameters, and the data processing methodology. Further application of this technology has the potential to expand our understanding of reef-island morphodynamics and their vulnerability to sea-level rise and other stressors.
+
+SOURCE: Drones
+PDF URL: https://www.mdpi.com/2504-446X/3/2/44/pdf
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Transect', 'Reef', 'Shore', 'Coral reef', 'Geology', 'Change detection', 'Remote sensing', 'Aerial photography', 'Cartography', 'Geography', 'Oceanography']

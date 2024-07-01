@@ -1,0 +1,12 @@
+ID: W2883013245
+TITLE: Developing China’s Ecological Redline Policy using ecosystem services assessments for land use planning
+AUTHOR: ['Yang Bai', 'Christina P. Wong', 'Bo Jiang', 'Alice C. Hughes', 'Min Wang', 'Qing Wang']
+ABSTRACT:
+Abstract Ecosystems services (ES) assessment is a significant scientific topic recognized for its potential to address sustainability issues. However, there is an absence of science–policy frameworks in land use planning that lead to the ES science being used in policy. China’s Ecological Redline Policy (ERP) is one of the first national policies utilizing multiple ES, but there is no standardized approach for working across the science–policy interface. We propose a transdisciplinary framework to determine ecological redline areas (ERAs) in Shanghai using: ES, biodiversity and ecologically fragile hotspots, landscape structure, and stakeholder opinions. We determine the five criteria to identify ERAs for Shanghai using multi-temporal, high resolution images (0.5 m) and biophysical models. We examine ERP effectiveness by comparing land use scenarios for 2040. Compared to alternative land uses, ES increase significantly under the ERP. The inclusion of ES in spatial planning led stakeholders to increase terrestrial habitat protection by 174% in Shanghai. Our analysis suggests that strategic planning for ES could reduce tradeoffs between environmental quality and development.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-05306-1.pdf
+CITED BY COUNT: 312
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['China', 'Ecosystem services', 'Ecosystem', 'Land use', 'Environmental resource management', 'Business', 'Ecology', 'Natural resource economics', 'Environmental planning', 'Geography', 'Environmental science', 'Economics', 'Biology', 'Archaeology']

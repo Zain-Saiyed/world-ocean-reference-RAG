@@ -1,0 +1,12 @@
+ID: W2596585932
+TITLE: Large-scale dieback of mangroves in Australia
+AUTHOR: ['Norman C. Duke', 'John M. Kovacs', 'Anthony D. Griffiths', 'Luke Preece', 'Duncan J. E. Hill', 'Penny Van Oosterzee', 'Jock R. Mackenzie', 'Hailey S. Morning', 'Damien Burrows']
+ABSTRACT:
+This study records and documents the most severe and notable instance ever reported of sudden and widespread dieback of mangrove vegetation. Between late 2015 and early 2016, extensive areas of mangrove tidal wetland vegetation died back along 1000km of the shoreline of Australia’s remote Gulf of Carpentaria. The cause is not fully explained, but the timing was coincident with an extreme weather event; notably one of high temperatures and low precipitation lacking storm winds. The dieback was severe and widespread, affecting more than 7400ha or 6% of mangrove vegetation in the affected area from Roper River estuary in the Northern Territory, east to Karumba in Queensland. At the time, there was an unusually lengthy period of severe drought conditions, unprecedented high temperatures and a temporary drop in sea level. Although consequential moisture stress appears to have contributed to the cause, this occurrence was further coincidental with heat-stressed coral bleaching. This article describes the effect and diagnostic features of this severe dieback event in the Gulf, and considers potential causal factors.
+
+SOURCE: Marine and freshwater research
+PDF URL: None
+CITED BY COUNT: 238
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Carpentaria', 'Mangrove', 'Vegetation (pathology)', 'Estuary', 'Storm', 'Wetland', 'Shore', 'Coral', 'Oceanography', 'Geography', 'Environmental science', 'Ecology', 'Geology', 'Biology', 'Medicine', 'Pathology']

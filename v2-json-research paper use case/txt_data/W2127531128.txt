@@ -1,0 +1,12 @@
+ID: W2127531128
+TITLE: Poleward expansion of the coccolithophore Emiliania huxleyi
+AUTHOR: ['Amos Winter', 'Jorijntje Henderiks', 'Luc Beaufort', 'Rosalind E. M. Rickaby', 'Christopher W. Brown']
+ABSTRACT:
+Coccolithophores are one of the most abundant eukaryotic phytoplankton in the oceans and are distinguished by their ability to build calcitic platelets (coccoliths). Of the numerous species, Emiliania huxleyi is considered one of the major calcifiers in the pelagic ocean. There is growing concern that increasing levels of CO2 in the atmosphere and the subsequent acidification of the ocean may disrupt the production of coccoliths. Furthermore, any change in the global distribution and abundance of E. huxleyi relative to non-calcifying groups of phytoplankton (e.g. diatoms) will have important effects on the biogeochemical cycling of carbon and climatic feedbacks. We review different lines of evidence that suggest E. huxleyi is increasingly expanding its range into the polar oceans. These observations contribute to the debate on the climatic effects on natural coccolithophore populations. We postulate that E. huxleyi may be more sensitive to recent environmental changes such as increasing sea surface temperature and salinity than to changing ocean carbonate chemistry, partly because increased availability of CO2(aq) likely alleviates a carbon limitation for the inefficient Rubisco enzyme in these algae. Any potentially important climatic feedbacks of coccolithophores need a better knowledge of the mechanisms and rates of adaptation by natural populations. As more data and modelling work become available, the real significance of this poleward expansion will become clear.
+
+SOURCE: Journal of plankton research
+PDF URL: https://academic.oup.com/plankt/article-pdf/36/2/316/4329335/fbt110.pdf
+CITED BY COUNT: 118
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Emiliania huxleyi', 'Coccolithophore', 'Phytoplankton', 'Oceanography', 'Biogeochemical cycle', 'Coccolith', 'Ocean acidification', 'Carbon cycle', 'Environmental science', 'Algae', 'Ecology', 'Climate change', 'Biology', 'Ecosystem', 'Geology', 'Carbonate', 'Chemistry', 'Nutrient', 'Organic chemistry']

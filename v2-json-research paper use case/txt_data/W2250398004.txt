@@ -1,0 +1,12 @@
+ID: W2250398004
+TITLE: Fishing for the future: An overview of challenges and opportunities
+AUTHOR: ['U. Rashid Sumaila', 'Christophe Bellmann', 'Alice Tipping']
+ABSTRACT:
+This paper surveys the current state and major trends in global fisheries; the environmental and social dimensions of fisheries; and explains how the international community has tried to meet the policy challenges associated with oceans and fisheries. The ocean and the freshwater ecosystems of the world make significant contributions to people's well-being via the many vital social and environmental services they provide (for example, food and nutrition, employment and incomes, carbon cycling and sequestration). The impact that the increase in fishing since the 1950s has had on wild fish stocks, and the significant increase in aquaculture production in the 20th century, have resulted in severe environmental impacts. This has significant effects on marine ecosystems and the health of oceans. The erosion of the resource undermines communities' long-term interests, including food security, employment, and income. Attempts by the global community to address challenges of sustainable production by improving the governance and management of fisheries resources range from national management of fisheries resources, to regional fisheries management organisations (RFMOs) for international fisheries stocks. These attempts have not always successfully met the challenge of balancing current and future use of fisheries.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Business', 'Fisheries management', 'Fishing', 'Fish stock', 'Fisheries law', 'Fishery', 'Food security', 'Corporate governance', 'Sustainability', 'International waters', 'Natural resource economics', 'Ecosystem-based management', 'Fishing industry', 'Marine ecosystem', 'Environmental resource management', 'Ecosystem', 'Geography', 'Economics', 'Ecology', 'Finance', 'Archaeology', 'Biology', 'Agriculture']

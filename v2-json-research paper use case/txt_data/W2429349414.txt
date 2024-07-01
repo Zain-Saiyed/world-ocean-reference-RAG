@@ -1,0 +1,12 @@
+ID: W2429349414
+TITLE: Persistent pollutants, persistent threats
+AUTHOR: ['Paul D. Jepson', 'Robin Law']
+ABSTRACT:
+Polychlorinated biphenyls remain a major threat to marine apex predators such as orcas
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 137
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Pollutant', 'Business', 'Environmental health', 'Environmental science', 'Internet privacy', 'Computer security', 'Computer science', 'Medicine', 'Biology', 'Ecology']

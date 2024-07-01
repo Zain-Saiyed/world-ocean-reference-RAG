@@ -1,0 +1,12 @@
+ID: W2758133198
+TITLE: Three Decades of Antillean Manatee (<i>Trichechus manatus manatus</i>) Stranding Along the Brazilian Coast
+AUTHOR: ['Deisi Cristiane Balensiefer', 'Fernanda Löffler Niemeyer Attademo', 'Gláucia Pereira de Sousa', 'Augusto Carlos da Bôaviagem Freire', 'Fábio Adônis Gouveia Carneiro da Cunha', 'Ana Emília Barboza de Alencar', 'Flávio José de Lima Silva', 'Fábia de Oliveira Luna']
+ABSTRACT:
+Alive Antillean manatee stranding is one of the main challenges for the conservation of the species in Brazil. In the present study, data on Antillean manatee stranding recorded by the CMA/ICMBio's Wild Animals Rehabilitation Center from 1987 to 2015 were analyzed. The CMA and the REMANE's (Northeastern Aquatic Mammal Stranding Network's) institutions have rescued on average five Antillean manatees per year. Approximately 56% of the animals were alive when rescued, and 43.7% were found dead. The states of Ceará and Rio Grande do Norte have the highest records of stranding, rescue, and assistance of alive calves. Stranding of alive specimens is more frequent during the austral summer, especially in January, February, and March. In the North region, the main threat to the Antillean manatee population seems to be interaction with fishing activities. Studies on the causes of dependent calf stranding in northeast Brazil are urgently needed to promote the development of public policies for the conservation of the species. Brazil's manatee rehabilitation centers must undergo improvements to better assist stranded calves, which need special care to survive.
+
+SOURCE: Tropical conservation science
+PDF URL: https://journals.sagepub.com/doi/pdf/10.1177/1940082917728375
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Manatee', 'Fishery', 'Fishing', 'Endangered species', 'Marine mammal', 'Population', 'Geography', 'Ecology', 'Habitat', 'Biology', 'Medicine', 'Environmental health']

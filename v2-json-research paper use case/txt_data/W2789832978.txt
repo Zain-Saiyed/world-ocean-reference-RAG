@@ -1,0 +1,12 @@
+ID: W2789832978
+TITLE: Long-Term Stability of Back-Arc Basin Hydrothermal Vents
+AUTHOR: ['Cherisse Du Preez', 'Charles R. Fisher']
+ABSTRACT:
+Since the discovery of hydrothermal vents 40-years ago, long-term time-series have focused on mid-ocean ridge systems. Based on these studies, hydrothermal vents are widely considered to be dynamic, ephemeral habitats. Under this premise, national and international regulatory bodies are currently planning for the commercial mining of polymetallic sulfide deposits from hydrothermal vents. However, here we provide evidence of longevity and habitat stability that does not align with historic generalizations. Over a 10-year time-series focused on the back-arc basin systems off the west coast of the Kingdom of Tonga (South Pacific), we find the hydrothermal vents are remarkably stable habitats. Using high-resolution photo mosaics and spatially explicit in situ measurements to document natural changes of five hydrothermal vent edifices, we discovered striking stability in the vent structures themselves, as well as in the composition and coverage of the vent-associated species, with some evidence of microdistribution permanence. These findings challenge the way we think about hydrothermal vent ecosystems and their vulnerability and resilience to deep-sea mining activities.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00054/pdf
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Hydrothermal vent', 'Hydrothermal circulation', 'Ephemeral key', 'Geology', 'Habitat', 'Oceanography', 'Earth science', 'Chemosynthesis', 'Ridge', 'Ecology', 'Paleontology', 'Biology']

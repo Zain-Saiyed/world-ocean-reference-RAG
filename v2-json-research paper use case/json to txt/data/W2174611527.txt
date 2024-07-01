@@ -1,0 +1,12 @@
+ID: W2174611527
+TITLE: RANGE AND DISPERSAL OF A TROPICAL MARINE INVADER, THE ASIAN GREEN MUSSEL, PERNA VIRIDIS, IN SUBTROPICAL WATERS OF THE SOUTHEASTERN UNITED STATES
+AUTHOR: ['Patrick Baker', 'Jonathan S. Fajans', 'William S. Arnold', 'Debra A. Ingrao', 'Dan C. Marelli', 'Shirley M. Baker']
+ABSTRACT:
+The tropical Asian green mussel, Perna viridis (Bivalvia: Mytilidae) is a recent invader in the Caribbean Basin, including the subtropical southeastern United States. In this study we examined the (1) range of P. viridis in the southeastern United States, (2) relative abundance of P. viridis across habitats and (3) density of P. viridis in Tampa Bay, FL. The invasion and spread of P. viridis in the southeastern United States was estimated by a combination of first-hand qualitative sampling and second-hand observations. There were apparently at least two discrete introductions, each followed by natural dispersal. The initial invasion was discovered in Tampa Bay in 1999, and was followed by rapid spread of P. viridis south as far as Marco Island, FL, but limited spread northward. In 2002, a second invasion occurred in northeast Florida, separated from the west Florida population by 650 km of coastline. On the east coast, P. viridis appeared to be distributed discontinuously between South Carolina and the Indian River Lagoon, FL by 2007. The literature concerning native distribution, habitat use and invasion history, and vectors of P. viridis is also reviewed.
+
+SOURCE: Journal of shellfish research
+PDF URL: None
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Perna viridis', 'Bay', 'Biological dispersal', 'Ecology', 'Range (aeronautics)', 'Mytilidae', 'Biology', 'Subtropics', 'Bivalvia', 'Habitat', 'Mussel', 'Invasive species', 'Fishery', 'Population', 'Geography', 'Mollusca', 'Archaeology', 'Materials science', 'Demography', 'Sociology', 'Composite material']

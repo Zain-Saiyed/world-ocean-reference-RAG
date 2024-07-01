@@ -1,0 +1,12 @@
+ID: W2885177034
+TITLE: A quantitative analysis linking sea turtle mortality and plastic debris ingestion
+AUTHOR: ['Chris Wilcox', 'Melody Puckridge', 'Qamar Schuyler', 'Kathy A. Townsend', 'Britta Denise Hardesty']
+ABSTRACT:
+Plastic in the marine environment is a growing environmental issue. Sea turtles are at significant risk of ingesting plastic debris at all stages of their lifecycle with potentially lethal consequences. We tested the relationship between the amount of plastic a turtle has ingested and the likelihood of death, treating animals that died of known causes unrelated to plastic ingestion as a statistical control group. We utilized two datasets; one based on necropsies of 246 sea turtles and a second using 706 records extracted from a national strandings database. Animals dying of known causes unrelated to plastic ingestion had less plastic in their gut than those that died of either indeterminate causes or due to plastic ingestion directly (e.g. via gut impaction and perforation). We found a 50% probability of mortality once an animal had 14 pieces of plastic in its gut. Our results provide the critical link between recent estimates of plastic ingestion and the population effects of this environmental threat.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-30038-z.pdf
+CITED BY COUNT: 152
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ingestion', 'Turtle (robot)', 'Marine debris', 'Perforation', 'Population', 'Sea turtle', 'Debris', 'Biology', 'Impaction', 'Zoology', 'Medicine', 'Ecology', 'Environmental health', 'Surgery', 'Geography', 'Biochemistry', 'Punching', 'Materials science', 'Meteorology', 'Metallurgy']

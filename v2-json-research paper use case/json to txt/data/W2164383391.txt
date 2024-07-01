@@ -1,0 +1,12 @@
+ID: W2164383391
+TITLE: Primary production in the Southern Ocean, 1997–2006
+AUTHOR: ['Kevin R. Arrigo', 'Gert L. van Dijken', 'Seth M. Bushinsky']
+ABSTRACT:
+Estimates of primary production in the Southern Ocean are difficult to obtain but are essential if we are to understand its role in the global carbon cycle. Here we present a 9‐year time series of daily primary production calculated from remotely sensed ocean color, sea surface temperature, and sea ice concentration using a primary production algorithm parameterized specifically for use in Southern Ocean waters. Results suggest that total annual production in waters south of 50°S averaged 1949 ± 70.1 Tg C a −1 (where a is years) between 1998 and 2006, approximately half that of previous estimates. The large but relatively unproductive pelagic province accounted for ∼90% of Southern Ocean production, while area normalized rates of production were greatest on the much smaller continental shelf (109 g C m −2 a −1 ). Surprisingly, production in the marginal ice zone was only slightly higher than in the pelagic province. The Ross Sea was the most productive sector of the Southern Ocean (mean = 503 Tg C a −1 ), followed closely by the Weddell Sea (mean = 477 Tg C a −1 ). Unlike the Arctic Ocean, there was no secular trend in either sea ice cover or annual primary production in the Southern Ocean during our 9‐year study. Interannual variability in annual production was most closely tied to changes in sea ice cover, although changes in sea surface temperature also played a role. Only 31% of the variation in annual production was explained by the Southern Annular Mode. Annual primary production could increase in the future as stronger winds increase nutrient upwelling.
+
+SOURCE: Journal of geophysical research
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2007JC004551
+CITED BY COUNT: 597
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Sea ice', 'Oceanography', 'New production', 'Environmental science', 'Arctic', 'Climatology', 'Geology', 'Nutrient', 'Phytoplankton', 'Chemistry', 'Organic chemistry']

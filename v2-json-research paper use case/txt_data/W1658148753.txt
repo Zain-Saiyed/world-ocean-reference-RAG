@@ -1,0 +1,12 @@
+ID: W1658148753
+TITLE: Interactions between Karlodinium veneficum and Prorocentrum donghaiense from the East China Sea
+AUTHOR: ['Chengxu Zhou', 'Allen R. Place', 'Xiaojun Yan', 'Jilin Xu', 'Qijun Luo', 'Ernest William', 'Ying Jiang']
+ABSTRACT:
+The dinoflagellate Prorocentrum donghaiense is a dominant harmful algal bloom (HAB) species on the East China Sea (ECS) coast. The co-occurrence of Karlodinium veneficum with P. donghaiense is often observed and can later develop into dense blooms. However, the role of K. veneficum in P. donghaiense population dynamics is unknown. In the current study, three K. veneficum (GM1, GM2, and GM3) strains were isolated from the ECS with one (GM1) from a mixed, dense bloom of P. donghaiense and other HAB species. All three isolates had identical ITS sequences that were concordant with the species designation. Unique karlotoxin congeners were isolated from one strain (GM2). The sterol compositions of P. donghaiense and K. veneficum were consistent with sensitivity to karlotoxin in the former and insensitivity in the latter. Additional experimentation showed that: (1)in monocultures, higher growth rate of P. donghaiense than K. veneficum is observed in nutrient-enriched and nutrient-depleted media. In co-cultures, the growth of P. donghaiense is inhibited; (2) feeding on P. donghaiense by K. veneficum is clearly demonstrated by fluorescent dye tracking; and (3) the isolated karlotoxin is lethal to P. donghaiense in a concentration-dependent manner. From these studies we propose that K. veneficum may play a negative role in P. donghaiense bloom maintenance and that P. donghaiense may in turn be a bloom initiator as a prey item for K. veneficum.
+
+SOURCE: Harmful algae
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['China sea', 'China', 'Geography', 'Biology', 'Environmental science', 'Oceanography', 'Geology', 'Archaeology']

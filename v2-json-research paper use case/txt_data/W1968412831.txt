@@ -1,0 +1,12 @@
+ID: W1968412831
+TITLE: Willingness to pay for unfamiliar public goods: Preserving cold-water coral in Norway
+AUTHOR: ['Margrethe Aanesen', 'Claire W. Armstrong', 'Mikołaj Czajkowski', 'Jannike Falk-Petersen', 'Nick Hanley', 'Ståle Navrud']
+ABSTRACT:
+The world's largest concentration of cold-water coral (CWC) is found off the Norwegian coast. Most CWC discoveries are recent, posing new challenges for Norwegian coastal and fishery authorities regarding the management of deep-sea resources. Scientific knowledge of CWC is limited, and many citizens have not even heard about them. This creates problems for the application of the stated preference methods to capture their economic value, and very few such studies have been conducted. To fill this gap, we designed a discrete choice experiment, which was implemented in a valuation workshop setting in order to derive estimates of participants' willingness to pay (WTP) for increasing the protection of CWC. Despite the fact that marine industries such as oil/gas and fisheries could be adversely affected by CWC protection, this did not reduce the respondents' willingness to pay for further protection. The possibility that CWCs play an important role as habitat for fish was the single most important variable to explain respondents' WTP for CWC protection. The survey revealed a high degree of preference heterogeneity, while we found an average WTP for CWC protection in the range of EUR 274–287.
+
+SOURCE: Ecological economics
+PDF URL: None
+CITED BY COUNT: 74
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Willingness to pay', 'Contingent valuation', 'Marine protected area', 'Fishery', 'Valuation (finance)', 'Trophy', 'Preference', 'Business', 'Environmental resource management', 'Geography', 'Natural resource economics', 'Economics', 'Habitat', 'Ecology', 'Biology', 'Microeconomics', 'Archaeology', 'Finance']

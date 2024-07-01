@@ -1,0 +1,12 @@
+ID: W2914368534
+TITLE: Coastal Fisheries: The Past, Present, and Possible Futures
+AUTHOR: ['Maria Lourdes D. Palomares', 'Daniel Pauly']
+ABSTRACT:
+The coastal fisheries of the world, defined as fisheries that occur up to 50 km from inhabited coastlines or down to a depth of 200 m, whichever comes first (i.e., 3% of the global ocean), currently catch between 50 and 60 million tons per year, that is, about 50% of the global marine catch as reconstructed by the Sea Around Us (www.seaaroundus.org). One-third to half of this catch originates from small-scale fisheries (artisanal, subsistence, and recreational) which, however, do not receive as much attention from governmental management agencies as do the industrial fisheries that compete with small-scale fisheries. Coastal fisheries exhibit strong fishing down effects and their catch composition is changing due to global warming. Ensuring their future probably lies in phasing out coastal industrial fisheries and encouraging artisanal fisheries instead.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Fishery', 'Fishing', 'Fisheries management', 'Subsistence agriculture', 'Marine fisheries', 'Fisheries law', 'Geography', 'Fisheries science', 'Futures contract', 'Recreational fishing', 'Business', 'Agriculture', 'Biology', 'Archaeology', 'Finance']

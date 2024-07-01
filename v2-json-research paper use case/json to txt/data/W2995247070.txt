@@ -1,0 +1,12 @@
+ID: W2995247070
+TITLE: Effect of Desalination Discharge on the Abundance and Diversity of Reef Fishes
+AUTHOR: ['Brendan P. Kelaher', 'Graeme F. Clark', 'Emma L. Johnston', 'Melinda A. Coleman']
+ABSTRACT:
+Global growth in desalination industries has increased the need for an evidence-based understanding of associated environmental impacts. We completed a seven-year assessment of the responses of fish assemblages to hypersaline discharge from the large Sydney Desalination Plant. At 12 times before, eight times during, and four times following the cessation of discharging hypersaline brine, we sampled reef fishes at two outlet sites and two close reference sites, as well as four reference sites that were located from 2–8 km from the outlet. At each site and each time of sampling, five 50 m video transects were used to sample reef fish assemblages. Following the commencement of discharging, there was a 279% increase in the abundance of fish around the outlet, which included substantially greater abundances of pelagic and demersal fish, as well as fishes targeted by recreational and commercial fishers. Following the cessation of discharge, abundances of fishes mostly returned to levels such that there was no longer a significant effect compared to the period prior to the commencement of the desalination plant’s operations. Overall, our results demonstrate that well-designed marine infrastructure and processes used to support the growing demand for potable water can also enhance local fish abundances and species richness.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Demersal zone', 'Environmental science', 'Pelagic zone', 'Fishery', 'Abundance (ecology)', 'Reef', 'Bay', 'Transect', 'Artificial reef', 'Species richness', 'Desalination', 'Ecology', 'Oceanography', 'Biology', 'Geology', 'Genetics', 'Membrane']

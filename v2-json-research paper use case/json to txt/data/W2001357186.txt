@@ -1,0 +1,12 @@
+ID: W2001357186
+TITLE: Does living by the coast improve health and wellbeing?
+AUTHOR: ['Benedict W. Wheeler', 'Mathew P. White', 'Will Stahl-Timmins', 'Michael H. Depledge']
+ABSTRACT:
+It is often assumed that spending time by the coast leads to better health and wellbeing, but there is strikingly little evidence regarding specific effects or mechanisms to support such a view. We analysed small-area census data for the population of England, which indicate that good health is more prevalent the closer one lives to the coast. We also found that, consistent with similar analyses of greenspace accessibility, the positive effects of coastal proximity may be greater amongst more socio-economically deprived communities. We hypothesise that these effects may be due to opportunities for stress reduction and increased physical activity.
+
+SOURCE: Health and place/Health & place (Online)
+PDF URL: None
+CITED BY COUNT: 305
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Census', 'Geography', 'Population health', 'Population', 'Environmental health', 'Medicine']

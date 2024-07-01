@@ -1,0 +1,12 @@
+ID: W2085982244
+TITLE: Iodine losses during Winkler titrations
+AUTHOR: ['George P. Knapp', 'Marvel C. Stalcup', 'Robert J. Stanley']
+ABSTRACT:
+An experiment designed to measure iodine loss during the aliquot version of the Winkler titration for dissolved oxygen in seawater shows that 0.01–0.03 ml l−1 equivalent oxygen is lost at typical oceanic concentrations in the method presently used. A standardization technique, which mimics that employed during the titration of seawater samples, compensates for this iodine loss throughout the oceanic range. This result, contradicting an earlier report by Green and Carritt (1966, Analyst, 91, 207–208), demonstrates that the whole-bottle method of oxygen titration is not to be preferred over the aliquot method.
+
+SOURCE: Deep-sea research. Part A, Oceanographic research papers/Deep sea research. Part A, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 1991
+TYPE: article
+CONCEPTS: ['Titration', 'Seawater', 'Iodine', 'Oxygen', 'Chemistry', 'Bottle', 'Inorganic chemistry', 'Geology', 'Materials science', 'Oceanography', 'Organic chemistry', 'Composite material']

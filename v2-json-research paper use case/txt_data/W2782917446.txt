@@ -1,0 +1,12 @@
+ID: W2782917446
+TITLE: Assessing nature's contributions to people
+AUTHOR: ['Sandra Dı́az', 'Unai Pascual', 'Marie Stenseke', 'Berta Martín‐López', 'Robert Watson', 'Zsolt Molnár', 'Rosemary Hill', 'Kai M. A. Chan', 'Ivar Baste', 'Kate A. Brauman', 'Stephen Polasky', 'Andrew Church', 'Mark Lonsdale', 'Anne Larigauderie', 'Paul Leadley', 'Alexander P.E. van Oudenhoven', 'Felice van der Plaat', 'Matthias Schröter', 'Sandra Lavorel', 'Yildiz Aumeeruddy‐Thomas', 'Elena Bukvareva', 'Kirsten Davies', 'Sebsebe Demissew', 'Günay Erpul', 'Pierre Failler', 'Carlos A. Guerra', 'Chad L. Hewitt', 'Hans Keune', 'Sarah Lindley', 'Yoshihisa Shirayama']
+ABSTRACT:
+Recognizing culture, and diverse sources of knowledge, can improve assessments
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 1749
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Psychology']

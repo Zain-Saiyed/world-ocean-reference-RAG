@@ -1,0 +1,12 @@
+ID: W1491629615
+TITLE: Ecology and Diversity of Picoeukaryotes
+AUTHOR: ['Alexandra Z. Worden', 'Fabrice Not']
+ABSTRACT:
+This chapter contains sections titled: Introduction Functional Roles, Classification, and Biological Traits Environmental Diversity and Molecular Phylogenetics Distribution, Abundance, and Activities Genomic Approaches to Picoeukaryote Ecology Integration of Picoeukaryotes to the Microbial Food Web: Research Directions Summary Acknowledgments References
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 117
+PUBLICATION YEAR: 2008
+TYPE: other
+CONCEPTS: ['Ecology', 'Abundance (ecology)', 'Diversity (politics)', 'Biology', 'Geography', 'Food web', 'Evolutionary biology', 'Ecosystem', 'Sociology', 'Anthropology']

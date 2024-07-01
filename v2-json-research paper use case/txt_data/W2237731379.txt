@@ -1,0 +1,12 @@
+ID: W2237731379
+TITLE: Heterotrophic Planktonic Microbes: Virus, Bacteria, Archaea, and Protozoa
+AUTHOR: ['Jed A. Fuhrman', 'David A. Caron']
+ABSTRACT:
+Marine planktonic microorganisms, including Bacteria, Archaea, Protozoans (Protists), and Viruses, all play critically important roles in marine ecosystems and global biogeochemical cycles. This chapter focuses on the non-photosynthetic marine plankton organisms, and summarizes information on what organisms are present in the ocean, their diversity, distributions, activities and interactions.
+
+SOURCE: ASM Press eBooks
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2015
+TYPE: book-chapter
+CONCEPTS: ['Archaea', 'Plankton', 'Biology', 'Protozoa', 'Microorganism', 'Bacteria', 'Marine bacteriophage', 'Ecology', 'Biogeochemical cycle', 'Microbiology', 'Genetics']

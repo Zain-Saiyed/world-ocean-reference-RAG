@@ -1,0 +1,12 @@
+ID: W1989978375
+TITLE: The marine copepod, <i>Pseudocalanus elongatus</i>, as a mediator between climate variability and fisheries in the Central Baltic Sea
+AUTHOR: ['Christian Möllmann', 'Georgs Kornilovs', 'M. Fetter', 'Fritz Köster', 'Hans‐Harald Hinrichsen']
+ABSTRACT:
+Abstract Pseudocalanus elongatus is a key species in the pelagic zone of the deep basins of the Central Baltic Sea. The copepod serves as a major food organism for larval as well as for adult, pelagic planktivorous fish. Large interannual fluctuations in the standing stock of P. elongatus have been attributed to significant changes in the hydrographic environment over the last two decades. In particular, the decreasing salinity in the Baltic deep basins, a result of a change in atmospheric forcing leading to an increase in rainfall since the 1980s and of a lack of pulses of saline water intrusions from the North Sea, was found to affect reproduction and maturation of the copepod. In parallel, dramatic changes in the weight‐at‐age of herring, one of the most important commercial fishes of the Baltic Sea, have been observed since the late 1980s. Using time‐series on herring stomach contents, as well as length and weight, we provide evidence for a chain of events relating variability in climate, salinity and P. elongatus abundance to changes in diet and condition of herring in the Central Baltic Sea.
+
+SOURCE: Fisheries oceanography
+PDF URL: None
+CITED BY COUNT: 98
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Herring', 'Copepod', 'Hydrography', 'Pelagic zone', 'Oceanography', 'Salinity', 'Fishery', 'Environmental science', 'Climate change', 'Biology', 'Fish <Actinopterygii>', 'Crustacean', 'Geology']

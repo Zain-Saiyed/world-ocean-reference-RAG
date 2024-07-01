@@ -1,0 +1,12 @@
+ID: W2587506274
+TITLE: Zealandia: Earth’s Hidden Continent
+AUTHOR: ['Nick Mortimer', 'Hamish J. Campbell', 'A. J. Tulloch', 'Peter R. King', 'Vaughan Stagpoole', 'Ray Wood', 'Mark Rattenbury', 'Rupert Sutherland', 'C.J. Adams', 'Julien Collot', 'Maria Seton']
+ABSTRACT:
+A 4.9 Mkm 2 region of the southwest Pacific Ocean is made up of continental crust.The region has elevated bathymetry relative to surrounding oceanic crust, diverse and silica-rich rocks, and relatively thick and low-velocity crustal structure.Its isolation from Australia and large area support its definition as a continent-Zealandia.Zealandia was formerly part of Gondwana.Today it is 94% submerged, mainly as a result of widespread Late Cretaceous crustal thinning preceding supercontinent breakup and consequent isostatic balance.The identification of Zealandia as a geological continent, rather than a collection of continental islands, fragments, and slices, more correctly represents the geology of this part of Earth.Zealandia provides a fresh context
+
+SOURCE: GSA today
+PDF URL: None
+CITED BY COUNT: 260
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Geology', 'Earth (classical element)', 'Astrobiology', 'Astronomy', 'Physics']

@@ -1,0 +1,12 @@
+ID: W2607336221
+TITLE: Can Seaweed Farming Play a Role in Climate Change Mitigation and Adaptation?
+AUTHOR: ['Carlos M. Duarte', 'Jiaping Wu', 'Xi Xiao', 'Annette Bruhn', 'Dorte Krause‐Jensen']
+ABSTRACT:
+Seaweed aquaculture, the fastest-growing component of global food production, offers a slate of opportunities to mitigate and adapt to climate change. Seaweed farms release carbon that maybe buried in sediments or exported to the deep sea, therefore acting as a CO2 sink. The crop can also be used, in total or in part, for biofuel production, with a potential CO2 mitigation capacity, in terms of avoided emissions from fossil fuels, of about 1500 tons CO2 km-2 year-1. Seaweed aquaculture can also help reduce the emissions from agriculture, by improving soil quality substituting synthetic fertilizer and, when included in cattle fed, lowering methane emissions from cattle. Seaweed aquaculture contributes to climate change adaptation by damping wave energy and protecting shorelines, and by elevating pH and supplying oxygen to the waters, thereby locally reducing the effects of ocean acidification and de-oxygenation. The scope to expand seaweed aquaculture is, however, limited by the availability of suitable areas and competition for suitable areas with other uses, engineering systems capable of coping with rough conditions offshore and an increasing market demand for seaweed products, among other factors. Despite these limitations, seaweed farming practices can be optimized to maximize climate benefits, which may, if economically compensated, improve the income of seaweed farmers.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2017.00100/pdf
+CITED BY COUNT: 383
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Environmental science', 'Aquaculture', 'Agriculture', 'Mariculture', 'Climate change', 'Greenhouse gas', 'Fossil fuel', 'Ocean acidification', 'Algae fuel', 'Climate change mitigation', 'Environmental protection', 'Business', 'Fishery', 'Ecology', 'Biodiesel', 'Biology', 'Biochemistry', 'Chemistry', 'Fish <Actinopterygii>', 'Catalysis']

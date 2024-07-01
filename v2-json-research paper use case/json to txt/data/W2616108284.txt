@@ -1,0 +1,12 @@
+ID: W2616108284
+TITLE: Constraints on global oceanic emissions of N&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt;O from observations and models
+AUTHOR: ['Erik T. Buitenhuis', 'Parvadha Suntharalingam', 'Corinne Le Quéré']
+ABSTRACT:
+Abstract. We estimate the global ocean N2O flux to the atmosphere and its confidence interval using a statistical method based on model perturbation simulations and their fit to a database of ΔpN2O (n = 6136). We evaluate two submodels of N2O production. The first submodel splits N2O production into oxic and hypoxic pathways following previous publications. The second submodel explicitly represents the redox transformations of N that lead to N2O production (nitrification and hypoxic denitrification) and N2O consumption (suboxic denitrification), and is presented here for the first time. We perturb both submodels by modifying the key parameters of the N2O cycling pathways (nitrification rates; NH4+ uptake; N2O yields under oxic, hypoxic and suboxic conditions) and determine a set of optimal model parameters by minimisation of a cost function against four databases of N cycle observations. Our estimate of the global oceanic N2O flux resulting from this cost function minimisation derived from observed and model ΔpN2O concentrations is 2.4 ± 0.8 and 2.5 ± 0.8 Tg N yr−1 for the two N2O submodels. These estimates suggest that the currently available observational data of surface ΔpN2O constrain the global N2O flux to a narrower range relative to the large range of results presented in the latest IPCC report.
+
+SOURCE: Biogeosciences
+PDF URL: https://www.biogeosciences.net/15/2161/2018/bg-15-2161-2018.pdf
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Denitrification', 'Nitrification', 'Environmental science', 'Flux (metallurgy)', 'Nitrogen', 'Atmospheric sciences', 'Chemistry', 'Physics', 'Organic chemistry']

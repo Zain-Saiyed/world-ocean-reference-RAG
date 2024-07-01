@@ -1,0 +1,12 @@
+ID: W2143353079
+TITLE: Sea surface salinity under rain cells: SMOS satellite and in situ drifters observations
+AUTHOR: ['Jacqueline Boutin', 'Nicolas Martin', 'Gilles Reverdin', 'Simon Morisset', 'Xiaobin Yin', 'Luca Centurioni', 'Nicolás Reul']
+ABSTRACT:
+Abstract We study the signature of rainfall on S 1cm , the sea surface salinity retrieved from the Soil Moisture and Ocean Salinity (SMOS) satellite mission first by comparing SMOS S 1cm with ARGO sea surface salinity measured at about 5 m depth in the Intertropical Convergence Zone (ITCZ) and in the Southern Pacific Convergence Zone; second by investigating spatial variability of SMOS S 1cm related to rainfall. The resulting estimated S 1cm decrease associated with rainfall occurring within less than 1 h from the salinity measurement is close to −0.2 pss (mm h −1 ) −1 . We estimate that rain induced roughness and atmospheric effects are responsible for no more than 20% of this value. We also study the signature of rainfall on sea surface salinity measured by surface drifters at 45 cm depth and find a decrease associated with rainfall of −0.21 (±0.14) pss (mm h −1 ) −1 , consistent with SMOS observations. When averaged over one month, this rain associated salinity decrease is at most −0.2 in monthly 100 × 100 km 2 pixels, and at most 40% of the difference between SMOS S 1cm and interpolated in situ bulk salinity in pixels near the ITCZ. This suggests that more than half of this difference is related to the in situ products obtained from optimal interpolation and therefore influenced by smoothing and relaxation to climatology. Finally, further studies on the satellite‐derived salinities should pay attention to that as well as to other sources of uncertainties in satellite measurements and not interpret fully the observed differences between in situ and satellite mapped products, as rain induced SSS variability.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2014JC010070
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Salinity', 'Argo', 'Environmental science', 'Intertropical Convergence Zone', 'Satellite', 'Climatology', 'Sea surface temperature', 'La Niña', 'Atmospheric sciences', 'Geology', 'Meteorology', 'Oceanography', 'El Niño Southern Oscillation', 'Geography', 'Precipitation', 'Aerospace engineering', 'Engineering']

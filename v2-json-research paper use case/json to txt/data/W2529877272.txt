@@ -1,0 +1,12 @@
+ID: W2529877272
+TITLE: Defining “serious harm” to the marine environment in the context of deep-seabed mining
+AUTHOR: ['Lisa A. Levin', 'Kathryn J. Mengerink', 'Kristina M. Gjerde', 'Ashley A. Rowden', 'Cindy Lee Van Dover', 'Malcolm R. Clark', 'Eva Ramirez-Llodra', 'Bronwen Currie', 'Craig R. Smith', 'Kirk N. Sato', 'Natalya D. Gallo', 'Andrew K. Sweetman', 'Hannah Lily', 'Claire W. Armstrong', 'Joseph Brider']
+ABSTRACT:
+Increasing interest in deep-seabed mining has raised many questions surrounding its potential environmental impacts and how to assess the impacts’ significance. Under the United Nations Convention on the Law of the Sea (UNCLOS), the International Seabed Authority (ISA) is charged with ensuring effective protection of the marine environment as part of its responsibilities for managing mining in seabed areas beyond national jurisdiction (the Area) on behalf of humankind. This paper examines the international legal context for protection of the marine environment and defining the significant adverse change that can cause “serious harm”, a term used in the ISA Mining Code to indicate a level of harm that strong actions must be taken to avoid. It examines the thresholds and indicators that can reflect significant adverse change and considers the specific vulnerability of the four ecosystems associated with the minerals targeted for mining: (1) manganese (polymetallic) nodules, (2) seafloor massive (polymetallic) sulphides, (3) cobalt-rich (polymetallic) crusts and (4) phosphorites. The distributions and ecological setting, probable mining approaches and the potential environmental impacts of mining are examined for abyssal polymetallic nodule provinces, hydrothermal vents, seamounts and phosphorite-rich continental margins. Discussion focuses on the special features of the marine environment that affect the significance of the predicted environmental impacts and suggests actions that will advance understanding of these impacts.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 209
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Context (archaeology)', 'Seabed', 'Seafloor spreading', 'Harm', 'Jurisdiction', 'Exclusive economic zone', 'United Nations Convention on the Law of the Sea', 'Marine ecosystem', 'Oceanography', 'Marine protected area', 'Seamount', 'Environmental resource management', 'Ecosystem', 'Environmental protection', 'International law', 'Environmental science', 'Geology', 'Law', 'Political science', 'Ecology', 'Habitat', 'Paleontology', 'Biology']

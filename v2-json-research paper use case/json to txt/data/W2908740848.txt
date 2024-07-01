@@ -1,0 +1,12 @@
+ID: W2908740848
+TITLE: Four decades of Antarctic Ice Sheet mass balance from 1979–2017
+AUTHOR: ['Eric Rignot', 'J. Mouginot', 'B. Scheuchl', 'Michiel van den Broeke', 'Melchior van Wessem', 'Mathieu Morlighem']
+ABSTRACT:
+We use updated drainage inventory, ice thickness, and ice velocity data to calculate the grounding line ice discharge of 176 basins draining the Antarctic Ice Sheet from 1979 to 2017. We compare the results with a surface mass balance model to deduce the ice sheet mass balance. The total mass loss increased from 40 ± 9 Gt/y in 1979-1990 to 50 ± 14 Gt/y in 1989-2000, 166 ± 18 Gt/y in 1999-2009, and 252 ± 26 Gt/y in 2009-2017. In 2009-2017, the mass loss was dominated by the Amundsen/Bellingshausen Sea sectors, in West Antarctica (159 ± 8 Gt/y), Wilkes Land, in East Antarctica (51 ± 13 Gt/y), and West and Northeast Peninsula (42 ± 5 Gt/y). The contribution to sea-level rise from Antarctica averaged 3.6 ± 0.5 mm per decade with a cumulative 14.0 ± 2.0 mm since 1979, including 6.9 ± 0.6 mm from West Antarctica, 4.4 ± 0.9 mm from East Antarctica, and 2.5 ± 0.4 mm from the Peninsula (i.e., East Antarctica is a major participant in the mass loss). During the entire period, the mass loss concentrated in areas closest to warm, salty, subsurface, circumpolar deep water (CDW), that is, consistent with enhanced polar westerlies pushing CDW toward Antarctica to melt its floating ice shelves, destabilize the glaciers, and raise sea level.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/116/4/1095.full.pdf
+CITED BY COUNT: 725
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Algorithm', 'Geology', 'Artificial intelligence', 'Mathematics', 'Computer science']

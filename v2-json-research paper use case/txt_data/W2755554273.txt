@@ -1,0 +1,12 @@
+ID: W2755554273
+TITLE: On the potential causes of the recent Pelagic Sargassum blooms events in the tropical North Atlantic Ocean
+AUTHOR: ['Sandrine Djakouré', 'Moacyr Araújo', 'Gbèkpo Aubains Hounsou-Gbo', 'Carlos Noriega', 'Bernard Bourlès']
+ABSTRACT:
+Abstract. Since 2011, unprecedented and repetitive blooms and large mass strandings of the floating brown macroalgæ, Sargassum natans and Sargassum fluitans have been reported along the West Indies, the Caribbean, the Brazilian and the West Africa coasts. Recent studies have highlighted a new tank of Sargassum: the North Equatorial Recirculation Region of the Atlantic Ocean. This region is located off the northeast of Brazil, approximately between the equator and 10° N and from 50° W to 25° W. The potential causes of these recent blooms and mass strandings are still poorly understood. Observational datasets and modelling outputs involving hydrological parameters and climate events are examined focusing on their potential feedback on the observed blooms and mass strandings. The results show that combined conditions have been in favor of these recent changes. High anomalously unprecedented positive sea surface temperature observed in the tropical Atlantic in 2010–2011 could have induced favorable temperature conditions for Sargassum blooms. These favorable conditions were then fed by additional continental nutrients inputs, principally from the Amazon River. These continental nutrients load are the consequences of deforestation, agroindustrial and urban activities in the Amazonian forest. The results also suggest that subsurface intake of nutrients from the equatorial upwelling could also contribute to the blooms of the Sargassum seaweed in the Atlantic Ocean but further studies are needed to confirm these additional inputs.
+
+SOURCE: None
+PDF URL: https://www.biogeosciences-discuss.net/bg-2017-346/bg-2017-346.pdf
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2017
+TYPE: preprint
+CONCEPTS: ['Sargassum', 'Tropical Atlantic', 'Upwelling', 'Oceanography', 'Environmental science', 'Pelagic zone', 'Equator', 'Deforestation (computer science)', 'Amazon rainforest', 'Algal bloom', 'Nutrient', 'Sea surface temperature', 'Geography', 'Phytoplankton', 'Geology', 'Ecology', 'Algae', 'Latitude', 'Biology', 'Geodesy', 'Computer science', 'Programming language']

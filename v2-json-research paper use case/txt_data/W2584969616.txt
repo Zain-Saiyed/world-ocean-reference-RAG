@@ -1,0 +1,12 @@
+ID: W2584969616
+TITLE: Ingestion of marine debris by the White-chinned Petrel (Procellaria aequinoctialis): Is it increasing over time off southern Brazil?
+AUTHOR: ['Maria Virgı́nia Petry', 'Victória Renata Fontoura Benemann']
+ABSTRACT:
+Seabirds are amongst the most affected organisms by plastic pollution worldwide. Ingestion of marine debris has been reported in at least 122 species, and owing to the increasing global production and persistence of these anthropogenic materials within the marine environment, it is expected to be a growing problem to the marine fauna. Here we report evidence of an increasing frequency in marine debris ingestion and a decrease in the amount of plastic pellets ingested by White-chinned Petrels attending south Brazilian waters during the last three decades. Future studies comprising large temporal scales and large sample sizes are needed to better understand the trends of marine debris ingestion by seabirds. We expect our findings to highlight the need for prevention policies and mitigation measures to reduce the amount of solid litter in the oceans.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine debris', 'Plastic pollution', 'Debris', 'Microplastics', 'Seabird', 'Environmental science', 'Petrel', 'Ingestion', 'Fishery', 'Marine pollution', 'Oceanography', 'Ecology', 'Geography', 'Pollution', 'Biology', 'Predation', 'Geology', 'Biochemistry']

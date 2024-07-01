@@ -1,0 +1,12 @@
+ID: W2741925805
+TITLE: Eutrophication will increase during the 21st century as a result of precipitation changes
+AUTHOR: ['Eva Sinha', 'A. M. Michalak', 'V. Balaji']
+ABSTRACT:
+Eutrophication, or excessive nutrient enrichment, threatens water resources across the globe. We show that climate change-induced precipitation changes alone will substantially increase (19 ± 14%) riverine total nitrogen loading within the continental United States by the end of the century for the "business-as-usual" scenario. The impacts, driven by projected increases in both total and extreme precipitation, will be especially strong for the Northeast and the corn belt of the United States. Offsetting this increase would require a 33 ± 24% reduction in nitrogen inputs, representing a massive management challenge. Globally, changes in precipitation are especially likely to also exacerbate eutrophication in India, China, and Southeast Asia. It is therefore imperative that water quality management strategies account for the impact of projected future changes in precipitation on nitrogen loading.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/357/6349/405.full.pdf
+CITED BY COUNT: 688
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Precipitation', 'Environmental science', 'Climate change', 'Water quality', 'China', 'Nitrogen', 'Natural resource economics', 'Nutrient', 'Water resource management', 'Environmental protection', 'Geography', 'Ecology', 'Oceanography', 'Chemistry', 'Geology', 'Meteorology', 'Economics', 'Biology', 'Archaeology', 'Organic chemistry']

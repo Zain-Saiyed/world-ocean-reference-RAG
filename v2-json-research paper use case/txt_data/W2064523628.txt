@@ -1,0 +1,12 @@
+ID: W2064523628
+TITLE: Oxygen, ecology, and the Cambrian radiation of animals
+AUTHOR: ['Erik A. Sperling', 'Christina A. Frieder', 'A. V. Raman', 'Peter R. Girguis', 'Lisa A. Levin', 'Andrew H. Knoll']
+ABSTRACT:
+The Proterozoic-Cambrian transition records the appearance of essentially all animal body plans (phyla), yet to date no single hypothesis adequately explains both the timing of the event and the evident increase in diversity and disparity. Ecological triggers focused on escalatory predator-prey "arms races" can explain the evolutionary pattern but not its timing, whereas environmental triggers, particularly ocean/atmosphere oxygenation, do the reverse. Using modern oxygen minimum zones as an analog for Proterozoic oceans, we explore the effect of low oxygen levels on the feeding ecology of polychaetes, the dominant macrofaunal animals in deep-sea sediments. Here we show that low oxygen is clearly linked to low proportions of carnivores in a community and low diversity of carnivorous taxa, whereas higher oxygen levels support more complex food webs. The recognition of a physiological control on carnivory therefore links environmental triggers and ecological drivers, providing an integrated explanation for both the pattern and timing of Cambrian animal radiation.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/110/33/13446.full.pdf
+CITED BY COUNT: 286
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Ecology', 'Proterozoic', 'Phylum', 'Predation', 'Biology', 'Taxon', 'Paleontology', 'Tectonics', 'Bacteria']

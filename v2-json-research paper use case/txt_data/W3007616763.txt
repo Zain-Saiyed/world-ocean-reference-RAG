@@ -1,0 +1,12 @@
+ID: W3007616763
+TITLE: Advances in sandy beach research – Local and global perspectives
+AUTHOR: ['Lucia Fanini', 'Omar Defeo', 'Michael Elliott']
+ABSTRACT:
+• State-of-the-art of sandy beach research is presented. • Local and global knowledge achievements and gaps are summarized. • Further research directions are indicated.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Geology', 'Oceanography', 'Beach nourishment', 'Environmental resource management', 'Environmental science', 'Shore']

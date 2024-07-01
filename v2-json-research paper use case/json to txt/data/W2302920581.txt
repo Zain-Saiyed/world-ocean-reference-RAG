@@ -1,0 +1,12 @@
+ID: W2302920581
+TITLE: Seismic air gun exposure during early-stage embryonic development does not negatively affect spiny lobster Jasus edwardsii larvae (Decapoda:Palinuridae)
+AUTHOR: ['Ryan D. Day', 'Robert D. McCauley', 'Quinn P. Fitzgibbon', 'JM Semmens']
+ABSTRACT:
+Abstract Marine seismic surveys are used to explore for sub-seafloor oil and gas deposits. These surveys are conducted using air guns, which release compressed air to create intense sound impulses, which are repeated around every 8–12 seconds and can travel large distances in the water column. Considering the ubiquitous worldwide distribution of seismic surveys, the potential impact of exposure on marine invertebrates is poorly understood. In this study, egg-bearing female spiny lobsters ( Jasus edwardsii ) were exposed to signals from three air gun configurations, all of which exceeded sound exposure levels (SEL) of 185 dB re 1 μPa 2 ·s. Lobsters were maintained until their eggs hatched and the larvae were then counted for fecundity, assessed for abnormal morphology using measurements of larval length and width, tested for larval competency using an established activity test and measured for energy content. Overall there were no differences in the quantity or quality of hatched larvae, indicating that the condition and development of spiny lobster embryos were not adversely affected by air gun exposure. These results suggest that embryonic spiny lobster are resilient to air gun signals and highlight the caution necessary in extrapolating results from the laboratory to real world scenarios or across life history stages.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep22723.pdf
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Spiny lobster', 'Larva', 'Fishery', 'Decapoda', 'Biology', 'Fecundity', 'Sound exposure', 'Invertebrate', 'Zoology', 'Environmental science', 'Crustacean', 'Ecology', 'Oceanography', 'Sound (geography)', 'Population', 'Geology', 'Medicine', 'Environmental health']

@@ -1,0 +1,12 @@
+ID: W2264818452
+TITLE: The reproductive biology and diet of sea snake bycatch of prawn trawling in northern Australia: characteristics important for assessing the impacts on populations
+AUTHOR: ['Gary C. Fry', 'DA Milton', 'T.J. Wassenberg']
+ABSTRACT:
+Trawlers catch up to 17 species of sea snake as bycatch in the Northern Prawn Fishery (NPF) in northern Australia. We examined the biological characteristics of 660 sea snakes caught by research, scientific observer and commercial vessels between 1986 and 1998 as part of a project to assess their vulnerability. Three species accounted for more than 75% of the total sea snakes caught. Hydrophis species were more common in unstructured habitats close to prawn trawling grounds, while Aipysurus species were the dominant species in areas having reef structure. Sea snakes were caught more frequently at night on commercial trawlers and even more were caught during the day by research trawling. Female sea snakes were caught more often than males for 10 out of 13 species examined. The proportion of mature sea snakes in trawl catches was high (67% males, 89% females). Juvenile sea snakes of most species are not caught suggesting there is little impact of trawling on recruits. We found all species breed annually, producing a few large young after a gestation period of 6-7 months. Litter size varied between 1 to 20 and young of most species were born during the NPF closed season (Nov-Mar). Except for Aipysurus duboisii, Disteira major and Hydrophis ornatus, pregnant females of most species were not more catchable by prawn trawls than non-pregnant females. The relative clutch mass had little effect on the catchability of pregnant females. Most sea snake species had a specialized diet, feeding on one to four benthic fish species and did not appear to be attracted into trawl grounds by the increased availability of discarded bycatch. Their reproductive characteristics mean that populations of many species caught by trawlers in northern Australia are potentially vulnerable.
+
+SOURCE: Pacific conservation biology
+PDF URL: None
+CITED BY COUNT: 44
+PUBLICATION YEAR: 2001
+TYPE: article
+CONCEPTS: ['Trawling', 'Bycatch', 'Fishery', 'Biology', 'Prawn', 'Ecology', 'Fishing']

@@ -1,0 +1,12 @@
+ID: W2135185827
+TITLE: Marine urbanization: an ecological framework for designing multifunctional artificial structures
+AUTHOR: ['Katherine A. Dafforn', 'Tim M. Glasby', 'Laura Airoldi', 'Natalie K Rivero', 'Mariana Mayer‐Pinto', 'Emma L. Johnston']
+ABSTRACT:
+Underwater cities have long been the subject of science fiction novels and movies, but the “urban sprawl” of artificial structures being developed in marine environments has widespread ecological consequences. The practice of combining ecological principles with the planning, design, and operation of marine artificial structures is gaining in popularity, and examples of successful engineering applications are accumulating. Here we use case studies to explore marine ecological engineering in practice, and introduce a conceptual framework for designing artificial structures with multiple functions. The rate of marine urbanization will almost certainly escalate as “aquatourism” drives the development of underwater accommodations. We show that current and future marine developments could be designed to reduce negative ecological impacts while promoting ecosystem services.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: None
+CITED BY COUNT: 317
+PUBLICATION YEAR: 2015
+TYPE: review
+CONCEPTS: ['Urban sprawl', 'Urbanization', 'Ecological engineering', 'Popularity', 'Marine ecosystem', 'Ecology', 'Environmental resource management', 'Underwater', 'Computer science', 'Environmental planning', 'Urban planning', 'Ecosystem', 'Environmental science', 'Geography', 'Political science', 'Biology', 'Archaeology', 'Law']

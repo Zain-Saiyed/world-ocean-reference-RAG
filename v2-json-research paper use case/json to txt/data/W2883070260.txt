@@ -1,0 +1,12 @@
+ID: W2883070260
+TITLE: Marine biodiversity in space and time: What tiny fossils tell
+AUTHOR: ['Moriaki Yasuhara']
+ABSTRACT:
+Biodiversity has been changing both in space and time. For example, we have more species in the tropics and less species in the Arctic and Antarctic regions, constituting latitudinal diversity gradient, one of the patterns we can see most consistently in this complex world. We know much less regarding the biodiversity gradients with time. This is because it would require a well designed continuous monitoring program, which seldom persist beyond a few decades. But, luckily, we have remains of ancient organisms, called fossils. These are basically the only direct records of past biodiversity.
+
+SOURCE: Mètode. Annual review
+PDF URL: https://ojs.uv.es/index.php/Metode/article/download/11404/14238
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Marine biodiversity', 'Geography', 'Tropics', 'Arctic', 'The arctic', 'Ecology', 'Global biodiversity', 'Oceanography', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2335952220
+TITLE: Population expansion of a tropical seagrass (Halophila decipiens) in the southwest Atlantic (Brazil)
+AUTHOR: ['Daniel Gorman', 'Alexander Turra', 'Ellie Bergstrom', 'Paulo Antunes Horta']
+ABSTRACT:
+The seagrass Halophila decipiens (Ostenfeld) was recently discovered as mono-specific meadows at a number of sites within the São Sebastião Channel (São Paulo State, Brazil). This represents a 60 km extension to the southernmost recorded limit of this genus in the southwest Atlantic and may represent a poleward expansion of this tropical species into temperate seas. Meadows comprised patches of plantlets ranging in diameter from <1 m to >50 m; with paired leaf counts ranging from 150 to 2034/m−2 and estimates of biomass ranging from 8.8– 35.7 g DW m−2. Across sites, biomass estimates and leaf counts were negatively correlated with depth; while all measured aspects of morphology (i.e. leaf length/width and petiole length) were greater at deeper sites suggesting a possible effect of light limitation. In a subsequent mesocosm experiment testing the physiological effects of SST from the tropics (Bahia state) and warm temperate zone (São Paulo state) H. decipiens returned maximum electron transport rates (ETRmax) after 14 days that were 34% lower when exposed to 20 °C compared to 27 °C (corroborating its tropical affinity), but returned similar effective quantum yields (ΔF/Fm′; 0.695–0.713) attesting to the phenotypic plasticity of the species. Overall we show that the newly discovered populations can tolerate the reduced irradiance and low temperatures of the southwest Atlantic, a trait that may have implications for the broader trend of climate mediated range shifts.
+
+SOURCE: Aquatic botany
+PDF URL: None
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seagrass', 'Temperate climate', 'Biology', 'Range (aeronautics)', 'Population', 'Biomass (ecology)', 'Ecology', 'Botany', 'Habitat', 'Materials science', 'Composite material', 'Demography', 'Sociology']

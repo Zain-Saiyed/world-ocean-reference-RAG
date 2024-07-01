@@ -1,0 +1,12 @@
+ID: W2116766516
+TITLE: Shifting Patterns of Life in the Pacific Arctic and Sub-Arctic Seas
+AUTHOR: ['Jacqueline M. Grebmeier']
+ABSTRACT:
+Recent changes in the timing of sea ice formation and retreat, along with increasing seawater temperatures, are driving shifts in marine species composition that may signal marine ecosystem reorganization in the Pacific Arctic sector. Interannual variability in seasonal sea ice retreat in the northern Bering Sea has been observed over the past decade; north of the Bering Strait, the Chukchi Sea ecosystem has had consistent earlier spring sea ice retreat and later fall sea ice formation. The latitudinal gradient in sea ice persistence, water column chlorophyll, and carbon export to the sediments has a direct impact on ecosystem structure in this Arctic/sub-Arctic complex. Large-scale decadal patterns in the benthic biological system are driven by sea ice extent, hydrographic forcing, and export production that influences benthic processes. Shifts in species composition and northward faunal range expansions indicate a changing system. The shifting patterns of life and change in key biological processes have the potential for a system-wide reorganization of the marine ecosystem.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 364
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Sea ice', 'Oceanography', 'Arctic', 'Arctic ice pack', 'Arctic sea ice decline', 'Benthic zone', 'Ecosystem', 'Marine ecosystem', 'Arctic ecology', 'Environmental science', 'Drift ice', 'Geology', 'Ecology', 'Biology']

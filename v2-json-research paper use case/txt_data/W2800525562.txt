@@ -1,0 +1,12 @@
+ID: W2800525562
+TITLE: Increasing thermal stress for tropical coral reefs: 1871–2017
+AUTHOR: ['Janice Lough', 'Kristen D. Anderson', 'Terry P. Hughes']
+ABSTRACT:
+Abstract Tropical corals live close to their upper thermal limit making them vulnerable to unusually warm summer sea temperatures. The resulting thermal stress can lead to breakdown of the coral-algal symbiosis, essential for the functioning of reefs, and cause coral bleaching. Mass coral bleaching is a modern phenomenon associated with increases in reef temperatures due to recent global warming. Widespread bleaching has typically occurred during El Niño events. We examine the historical level of stress for 100 coral reef locations with robust bleaching histories. The level of thermal stress (based on a degree heating month index, DHMI) at these locations during the 2015–2016 El Niño was unprecedented over the period 1871–2017 and exceeded that of the strong 1997–1998 El Niño. The DHMI was also 5 times the level of thermal stress associated with the ‘pre-industrial’, 1877–1878, El Niño. Coral reefs have, therefore, already shown their vulnerability to the modest (~0.92 °C) global warming that has occurred to date. Estimates of future levels of thermal stress suggest that even the optimistic 1.5 °C Paris Agreement target is insufficient to prevent more frequent mass bleaching events for the world’s reefs. Effectively, reefs of the future will not be the same as those of the past.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-24530-9.pdf
+CITED BY COUNT: 189
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Reef', 'Coral bleaching', 'Coral reef', 'Coral', 'Environmental science', 'Oceanography', 'Effects of global warming on oceans', 'Global warming', 'Atoll', 'Climate change', 'Geology']

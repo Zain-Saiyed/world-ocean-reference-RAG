@@ -1,0 +1,12 @@
+ID: W2084156540
+TITLE: Assessing the global threat of invasive species to marine biodiversity
+AUTHOR: ['Jennifer Molnar', 'Rebecca L Gamboa', 'Carmen Revenga', 'Mark Spalding']
+ABSTRACT:
+Although invasive species are widely recognized as a major threat to marine biodiversity, there has been no quantitative global assessment of their impacts and routes of introduction. Here, we report initial results from the first such global assessment. Drawing from over 350 databases and other sources, we synthesized information on 329 marine invasive species, including their distribution, impacts on biodiversity, and introduction pathways. Initial analyses show that only 16% of marine ecoregions have no reported marine invasions, and even that figure may be inflated due to under‐reporting. International shipping, followed by aquaculture, represent the major means of introduction. Our geographically referenced and publicly available database provides a framework that can be used to highlight the invasive taxa that are most threatening, as well as to prioritize the invasion pathways that pose the greatest threat.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: None
+CITED BY COUNT: 1175
+PUBLICATION YEAR: 2008
+TYPE: review
+CONCEPTS: ['Biodiversity', 'Marine biodiversity', 'Global biodiversity', 'Invasive species', 'Marine species', 'Geography', 'Environmental resource management', 'Marine protected area', 'Ecology', 'Fishery', 'Biology', 'Environmental science', 'Habitat']

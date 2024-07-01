@@ -1,0 +1,12 @@
+ID: W1965696010
+TITLE: Noctiluca scintillans may act as a vector of toxigenic microalgae
+AUTHOR: ['Laura Escalera', 'Yolanda Pazos', 'Á. Moroño', 'B. Reguera']
+ABSTRACT:
+Noctiluca scintillans food vacuoles containing toxigenic microalgae of the genera Dinophysis and Pseudo-nitzschia are reported in samples from the Galician Rías Baixas (NW Spain). N. scintillans may play an important role in the population dynamics of toxigenic microalgae blooms, and may act as a vector of phycotoxins to higher trophic levels. The harmful effects of Noctiluca in natural shellfish beds and/or aquaculture sites may be magnified if cells are loaded with toxigenic microalgal prey.
+
+SOURCE: Harmful algae
+PDF URL: None
+CITED BY COUNT: 55
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Dinophysis', 'Biology', 'Algal bloom', 'Shellfish', 'Algae', 'Population', 'Trophic level', 'Fishery', 'Zoology', 'Phytoplankton', 'Aquaculture', 'Ecology', 'Aquatic animal', 'Fish <Actinopterygii>', 'Demography', 'Sociology', 'Nutrient']

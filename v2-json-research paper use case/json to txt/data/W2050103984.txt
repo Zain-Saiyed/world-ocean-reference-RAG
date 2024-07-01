@@ -1,0 +1,12 @@
+ID: W2050103984
+TITLE: Evidence for Upwelling of Corrosive "Acidified" Water onto the Continental Shelf
+AUTHOR: ['Richard A. Feely', 'Christopher L. Sabine', 'J. Martin Hernandez-Ayon', 'Debby Ianson', 'Burke Hales']
+ABSTRACT:
+The absorption of atmospheric carbon dioxide (CO 2 ) into the ocean lowers the pH of the waters. This so-called ocean acidification could have important consequences for marine ecosystems. To better understand the extent of this ocean acidification in coastal waters, we conducted hydrographic surveys along the continental shelf of western North America from central Canada to northern Mexico. We observed seawater that is undersaturated with respect to aragonite upwelling onto large portions of the continental shelf, reaching depths of ∼40 to 120 meters along most transect lines and all the way to the surface on one transect off northern California. Although seasonal upwelling of the undersaturated waters onto the shelf is a natural phenomenon in this region, the ocean uptake of anthropogenic CO 2 has increased the areal extent of the affected area.
+
+SOURCE: Science
+PDF URL: https://www.science.org/cms/asset/c5dec041-1ed3-4f50-98f3-431962fcfbae/pap.pdf
+CITED BY COUNT: 1268
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Upwelling', 'Oceanography', 'Transect', 'Continental shelf', 'Hydrography', 'Seawater', 'Ocean acidification', "Carbon dioxide in Earth's atmosphere", 'Geology', 'Aragonite', 'Environmental science', 'Climate change', 'Geochemistry', 'Calcite']

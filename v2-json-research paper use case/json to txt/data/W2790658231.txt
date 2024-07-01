@@ -1,0 +1,12 @@
+ID: W2790658231
+TITLE: Distribution Expansion and Historical Population Outbreak Patterns of Crown-of-Thorns Starfish, Acanthaster planci sensu lato, in Japan from 1912 to 2015
+AUTHOR: ['Nina Yasuda']
+ABSTRACT:
+The present chapter reviews the distribution and population outbreak records of the crown-of-thorns starfish, Acanthaster planci sensu lato, in Japan from 1912 to 2015. The literature survey suggests that A. planci sensu lato distribution has been extending northward since 1945 from Amami Oshima (its previous northernmost distribution) to Miyake Island and Goto Island. Genetic homogeneity within Japanese A. planci sensu lato populations indicates that larval dispersal has likely caused this poleward migration. Water temperatures have significantly increased in the temperate area of Japan, implying that global warming is partly responsible for this poleward migration. More frequent and intense population outbreaks in temperate areas were also observed, possibly in relation to increased water temperatures and successive larval dispersal from the south. Overall, complex and persistent patterns were observed for two major successive population outbreaks in Japan: from 1969 to 1991 and from 1995 to now. The evidence suggests that the western Okinawa populations are the most likely origin for secondary outbreaks within Japan. The Amami population is also likely to be an important source for outbreaks in temperate regions. However, no records of population outbreaks were found for least in two regions: Ogasawara and the Osumi Islands. Ogasawara is located approximately 1000 km south of the Kuroshio Current, so infestation via larval dispersal from other populations is more limited than in other Kuroshio regions. The Osumi Islands are, however, located in the middle of the Kuroshio Current, implying that insufficient corals are available for the growth of A. planci sensu lato or that unknown environment factors such as abundant predators of juvenile starfish suppress recruitment and juvenile survival.
+
+SOURCE: Coral reefs of the world
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Sensu', 'Biological dispersal', 'Population', 'Acanthaster', 'Outbreak', 'Starfish', 'Ecology', 'Biology', 'Geography', 'Reef', 'Genus', 'Demography', 'Great barrier reef', 'Virology', 'Sociology']

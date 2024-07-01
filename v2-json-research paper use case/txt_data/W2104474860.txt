@@ -1,0 +1,12 @@
+ID: W2104474860
+TITLE: Killer Whale Predation on Sea Otters Linking Oceanic and Nearshore Ecosystems
+AUTHOR: ['James A. Estes', 'M. Tim Tinker', 'Terrie M. Williams', 'Daniel F. Doak']
+ABSTRACT:
+After nearly a century of recovery from overhunting, sea otter populations are in abrupt decline over large areas of western Alaska. Increased killer whale predation is the likely cause of these declines. Elevated sea urchin density and the consequent deforestation of kelp beds in the nearshore community demonstrate that the otter's keystone role has been reduced or eliminated. This chain of interactions was probably initiated by anthropogenic changes in the offshore oceanic ecosystem.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 1106
+PUBLICATION YEAR: 1998
+TYPE: article
+CONCEPTS: ['Otter', 'Whale', 'Kelp forest', 'Keystone species', 'Ecosystem', 'Kelp', 'Predation', 'Fishery', 'Trophic cascade', 'Marine ecosystem', 'Oceanography', 'Ecology', 'Geography', 'Environmental science', 'Biology', 'Food web', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2028864963
+TITLE: The diversity of small eukaryotic phytoplankton (≤3 μm) in marine ecosystems
+AUTHOR: ['Daniel Vaulot', 'Wenche Eikrem', 'Manon Viprey', 'Hervé Moreau']
+ABSTRACT:
+Small cells dominate photosynthetic biomass and primary production in many marine ecosystems. Traditionally, picoplankton refers to cells < or =2 microm. Here we extend the size range of the organisms considered to 3 microm, a threshold often used operationally in field studies. While the prokaryotic component of picophytoplankton is dominated by two genera, Prochlorococcus and Synechococcus, the eukaryotic fraction is much more diverse. Since the discovery of the ubiquitous Micromonas pusilla in the early 1950s, just over 70 species that can be <3 microm have been described. In fact, most algal classes contain such species. Less than a decade ago, culture-independent approaches (in particular, cloning and sequencing, denaturing gradient gel electrophoresis, FISH) have demonstrated that the diversity of eukaryotic picoplankton is much more extensive than could be assumed from described taxa alone. These approaches revealed the importance of certain classes such as the Prasinophyceae but also unearthed novel divisions such as the recently described picobiliphytes. In the last couple of years, the first genomes of photosynthetic picoplankton have become available, providing key information on their physiological capabilities. In this paper, we discuss the range of methods that can be used to assess small phytoplankton diversity, present the species described to date, review the existing molecular data obtained on field populations, and end up by looking at the promises offered by genomics.
+
+SOURCE: FEMS microbiology reviews
+PDF URL: https://academic.oup.com/femsre/article-pdf/32/5/795/18128371/32-5-795.pdf
+CITED BY COUNT: 348
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Picoplankton', 'Biology', 'Prochlorococcus', 'Phytoplankton', 'Ecology', 'Synechococcus', 'Ecosystem', 'Marine biology', 'Cyanobacteria', 'Marine ecosystem', 'Evolutionary biology', 'Genetics', 'Nutrient', 'Bacteria']

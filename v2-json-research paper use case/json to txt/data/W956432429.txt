@@ -1,0 +1,12 @@
+ID: W956432429
+TITLE: Seagrass meadows (Posidonia oceanica) distribution and trajectories of change
+AUTHOR: ['Luca Telesca', 'Andrea Belluscio', 'Alessandro Criscoli', 'Giandomenico Ardizzone', 'Eugenia T. Apostolaki', 'Simonetta Fraschetti', 'Michele Gristina', 'Leyla Knittweis', 'Corinne Martin', 'Gérard Pergent', 'Adriana Alagna', 'Fabio Badalamenti', 'Germana Garofalo', 'Vasilis Gerakaris', 'Marie Louise Pace', 'Christine Pergent‐Martini', 'Maria Salomidi']
+ABSTRACT:
+Posidonia oceanica meadows are declining at alarming rates due to climate change and human activities. Although P. oceanica is considered the most important and well-studied seagrass species of the Mediterranean Sea, to date there has been a limited effort to combine all the spatial information available and provide a complete distribution of meadows across the basin. The aim of this work is to provide a fine-scale assessment of (i) the current and historical known distribution of P. oceanica, (ii) the total area of meadows and (iii) the magnitude of regressive phenomena in the last decades. The outcomes showed the current spatial distribution of P. oceanica, covering a known area of 1,224,707 ha, and highlighted the lack of relevant data in part of the basin (21,471 linear km of coastline). The estimated regression of meadows amounted to 34% in the last 50 years, showing that this generalised phenomenon had to be mainly ascribed to cumulative effects of multiple local stressors. Our results highlighted the importance of enforcing surveys to assess the status and prioritize areas where cost-effective schemes for threats reduction, capable of reversing present patterns of change and ensuring P. oceanica persistence at Mediterranean scale, could be implemented.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep12505.pdf
+CITED BY COUNT: 265
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Posidonia oceanica', 'Seagrass', 'Mediterranean climate', 'Mediterranean sea', 'Ecology', 'Climate change', 'Spatial distribution', 'Structural basin', 'Distribution (mathematics)', 'Mediterranean Basin', 'Environmental science', 'Geography', 'Physical geography', 'Habitat', 'Biology', 'Paleontology', 'Mathematical analysis', 'Remote sensing', 'Mathematics']

@@ -1,0 +1,12 @@
+ID: W2800054955
+TITLE: Phosphorus Processing—Potentials for Higher Efficiency
+AUTHOR: ['Ludwig Hermann', 'Fabian Kraus', 'Ralf Hermann']
+ABSTRACT:
+In the aftermath of the adoption of the Sustainable Development Goals (SDGs) and the Paris Agreement (COP21) by virtually all United Nations, producing more with less is imperative.In this context, phosphorus processing, despite its high efficiency compared to other steps in the value chain, needs to be revisited by science and industry.During processing, phosphorus is lost to phosphogypsum, disposed of in stacks globally piling up to 3-4 billion tons and growing by about 200 million tons per year, or directly discharged to the sea.Eutrophication, acidification, and long-term pollution are the environmental impacts of both practices.Economic and regulatory framework conditions determine whether the industry continues wasting phosphorus, pursues efficiency improvements or stops operations altogether.While reviewing current industrial practice and potentials for increasing processing efficiency with lower impact, the article addresses potentially conflicting goals of low energy and material use as well as Life Cycle Assessment (LCA) as a tool for evaluating the relative impacts of improvement strategies.Finally, options by which corporations could pro-actively and credibly demonstrate phosphorus stewardship as well as options by which policy makers could enforce improvement without impairing business locations are discussed.
+
+SOURCE: Sustainability
+PDF URL: https://www.mdpi.com/2071-1050/10/5/1482/pdf?version=1525781869
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Stewardship (theology)', 'Context (archaeology)', 'Phosphogypsum', 'Natural resource economics', 'Efficient energy use', 'Environmental stewardship', 'Environmental economics', 'Life-cycle assessment', 'Business', 'Sustainability', 'Environmental science', 'Sustainable development', 'Phosphorus', 'Environmental resource management', 'Environmental planning', 'Engineering', 'Economics', 'Production (economics)', 'Political science', 'Raw material', 'Paleontology', 'Ecology', 'Chemistry', 'Materials science', 'Electrical engineering', 'Macroeconomics', 'Organic chemistry', 'Politics', 'Metallurgy', 'Law', 'Biology']

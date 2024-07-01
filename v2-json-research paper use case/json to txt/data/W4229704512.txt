@@ -1,0 +1,12 @@
+ID: W4229704512
+TITLE: Whale Watching
+AUTHOR: ['Erich Hoyt']
+ABSTRACT:
+Whale watching is the human activity of encountering cetaceans in their natural habitat. It can be for scientific, educational, and/or recreational purposes. The wide variety of whale watching activities includes tours lasting from 1 h to 2 weeks, using platforms ranging from kayaks to cruise ships, from land points including cliffs and beaches, from sea planes and helicopters in the air, as well as swimming and diving activities in which the whale watcher enters the water with cetaceans. Whale watching grew out of the traditions of bird watching and, to a lesser extent, other forms of land-based wildlife watching. The species originally responsible for the development of whale watching was the gray whale (Eschrichtius robustus). Whale watching for the purposes of research can be traced back to Aristotle, who spent time on boats and with fishermen in the Aegean Sea. A successful partnership between science and commercial whale watching began in Provincetown, Massachusetts, in 1975, when Al Avellar of the Dolphin fleet asked Charles “Stormy” Mayo to be his naturalist. This key partnership between science and commerce has determined the course of whale watching, as well as the practice of whale research, throughout southern New England. Despite the competitive atmosphere of commercial whale watching in New England, the researchers and their representative institutions have cooperated in setting up the North Atlantic Humpback Whale Catalog, which is a photo catalog and database covering more than 10,000 individual whales.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2009
+TYPE: book-chapter
+CONCEPTS: ['Whale', 'Fishery', 'Geography', 'Wildlife', 'Sperm whale', 'Cruise', 'Minke whale', 'Oceanography', 'Ecology', 'Biology', 'Biochemistry', 'Myoglobin', 'Balaenoptera', 'Geology']

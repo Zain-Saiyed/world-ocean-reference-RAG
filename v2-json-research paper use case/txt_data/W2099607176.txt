@@ -1,0 +1,12 @@
+ID: W2099607176
+TITLE: Paradigms in seamount ecology: fact, fiction and future
+AUTHOR: ['Ashley A. Rowden', 'John F. Dower', 'Thomas A. Schlacher', 'Mireille Consalvey', 'Malcolm R. Clark']
+ABSTRACT:
+Abstract Despite a relatively short history, the field of seamount ecology is rife with ecological paradigms, many of which have already become cemented in the scientific literature and in the minds of advocates for seamount protection. Together, these paradigms have created a widely held view of seamounts as unique environments, hotspots of biodiversity and endemicity, and fragile ecosystems of exceptional ecological worth. However, closer examination reveals significant gaps in our knowledge, thereby calling the accuracy of some of these paradigms into question. Here, we review the evolution of the major paradigms in seamount ecology, assess their status against the weight of existing evidence to date, identify emerging paradigms, and suggest future research directions. We find the assertions that seamount communities are vulnerable to fishing, and that these communities have high sensitivity and low resilience to bottom trawling disturbance are well supported by existing data. We find plausible evidence that seamounts are stepping stones for dispersal, oases of abundance and biomass, and hotspots of species richness. Nonetheless, the poor sampling coverage of these discrete but globally distributed environments prevents us from accepting these ideas as paradigms. Also plausible, but requiring further investigation, are the emerging paradigms that seamount communities are structurally distinct, that populations of invertebrates on seamounts are the source of propagules for nearby slope sinks, and that seamounts have acted and can act as biological refugia from large‐scale catastrophic environmental events. In contrast, the generalizations that seamounts are island habitats with highly endemic faunas that comprise unique communities distinct in species composition from other deep‐sea habitats, and that they have high production supported by localized bottom‐up forcing, are not supported by the weight of existing evidence.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 166
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seamount', 'Ecology', 'Species richness', 'Habitat', 'Biological dispersal', 'Propagule', 'Biodiversity', 'Geography', 'Biology', 'Oceanography', 'Geology', 'Population', 'Demography', 'Sociology']

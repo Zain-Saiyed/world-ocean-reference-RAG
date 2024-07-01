@@ -1,0 +1,12 @@
+ID: W2909681691
+TITLE: How fast are the oceans warming?
+AUTHOR: ['Lijing Cheng', 'John Abraham', 'Zeke Hausfather', 'Kevin E. Trenberth']
+ABSTRACT:
+Observational records of ocean heat content show that ocean warming is accelerating
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 364
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental science', 'Warming up', 'Oceanography', 'Global warming', 'Climate change', 'Climatology', 'Geology', 'Biology', 'Physiology']

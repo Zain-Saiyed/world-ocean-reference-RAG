@@ -1,0 +1,12 @@
+ID: W2740321168
+TITLE: Effects of recreational activities on Patagonian rocky shores
+AUTHOR: ['María M. Mendez', 'Juan Pablo Livore', 'Javier Á. Calcagno', 'Gregório Bigatti']
+ABSTRACT:
+Recreational activities can be an important source of anthropogenic disturbance in intertidal benthic assemblages. On rocky shores, activities such as trampling, snorkeling and the handling of organisms may have a negative effect on benthic communities by modifying the abundance and distribution of key species. Here, we describe and quantify impacts due to recreational activities on benthic communities on a Patagonian rocky shore by investigating their resilience to two types of human disturbance: vehicle traffic and human trampling. To evaluate the effects of these activities, we carried out an observational study and assessed post-disturbance assemblage recovery. The rocky shores is most intensively visited during summer, and marked differences in the distribution and abundance of benthic species among disturbed and control plots were found after this season. The benthic community on the high intertidal was weakly impacted by disturbance generated due to vehicle traffic in summer (one vehicle on a single occasion, pulse disturbance); which did not affect the cover of dominant species. This suggests that the high intertidal community would be resistant to the passage of one vehicle on a single occasion. The effects of continuous trampling (press disturbance) were drastic and the community of the mid intertidal level did not recover before the next recreational season. Mid intertidal communities exposed to press disturbances require more than one tourist season of human inactivity to recover from anthropogenic effects, suggesting that resilience mechanisms in this community operate at broad timescales. Our findings highlight the need to establish and implement management actions that contemplate the nature of the disturbance and intertidal level to minimize habitat degradation due to human recreational activities.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Trampling', 'Intertidal zone', 'Benthic zone', 'Disturbance (geology)', 'Ecology', 'Rocky shore', 'Environmental science', 'Abundance (ecology)', 'Recreation', 'Shore', 'Geography', 'Fishery', 'Biology', 'Grazing', 'Paleontology']

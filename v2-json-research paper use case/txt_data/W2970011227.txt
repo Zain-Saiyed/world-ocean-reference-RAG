@@ -1,0 +1,12 @@
+ID: W2970011227
+TITLE: Intra-annual variation in rainfall and it’s influence of the adult’s Cyprideis spp (Ostracoda, Crustacea) on a eutrophic estuary (Guanabara Bay, Rio de Janeiro, Brazil).
+AUTHOR: ['L. A. Pessoa', 'Paulo Cesar Paiva', 'Rodolfo Paranhos', 'Marcos Aurélio Vasconcelos de Freitas', 'Carlos Alejandro Echeverría']
+ABSTRACT:
+Abstract Spatial and temporal distribution of two species of adult´s ostracods (Cyprideis sp. and Cyprideis salebrosa) were studied as a function of the rainfall patterns in the Guanabara Bay, Rio de Janeiro, Brazil. Samples were taken in ten stations, along six surveys representing three periods (Dry, Early and Late Rainy) for two years. Stations were nested in four areas (Outer, Central, EPA Guapimirim and Impacted). The bottom water (temperature, salinity, dissolved oxygen and oxygen saturation) were measured in each area to characterize the influence of seasonal variations by rainfall. Cyprideis sp. and Cyprideis salebrosa showed patterns distribution to seasonality/surveys (p = 0,002 and p &lt;0,001, respectly). The spatial distribution of Cyprideis sp was significantly different areas studied (p &lt;0.001) indicated well defined areas and distribution in along of the surveys. However, C. salebrosa showed homogeneous distribution in along of the areas within of each survey (p &lt;0.001). Redundancy Analysis (RDA) for the two years evidenced environment preference of the Cyprideis sp. for areas with marine conditions (high influence for channel central) and C. salebrosa for brackish water (high influence of the rivers). This observation reinforces of the existence of areas created by the seasonality of pluviometric regime, a possible dispersion of the adult’s ostracods and possibility the use with bioindicators.
+
+SOURCE: Brazilian Journal of Biology
+PDF URL: https://www.scielo.br/j/bjb/a/xSsny9bgzptyb6rrHwxgS7q/?lang=en&format=pdf
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Bay', 'Estuary', 'Brackish water', 'Seasonality', 'Salinity', 'Oceanography', 'Eutrophication', 'Biology', 'Ecology', 'Environmental science', 'Geology', 'Nutrient']

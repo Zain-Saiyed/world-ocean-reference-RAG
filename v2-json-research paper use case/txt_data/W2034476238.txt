@@ -1,0 +1,12 @@
+ID: W2034476238
+TITLE: Impacts of climate change on fisheries
+AUTHOR: ['Keith Brander']
+ABSTRACT:
+Evidence of the impacts of anthropogenic climate change on marine ecosystems is accumulating, but must be evaluated in the context of the “normal” climate cycles and variability which have caused fluctuations in fisheries throughout human history. The impacts on fisheries are due to a variety of direct and indirect effects of a number of physical and chemical factors, which include temperature, winds, vertical mixing, salinity, oxygen, pH and others. The direct effects act on the physiology, development rates, reproduction, behaviour and survival of individuals and can in some cases be studied experimentally and in controlled conditions. Indirect effects act via ecosystem processes and changes in the production of food or abundance of competitors, predators and pathogens. Recent studies of the effects of climate on primary production are reviewed and the consequences for fisheries production are evaluated through regional examples. Regional examples are also used to show changes in distribution and phenology of plankton and fish, which are attributed to climate. The role of discontinuous and extreme events (regime shifts, exceptional warm periods) is discussed. Changes in fish population processes can be investigated in experiments and by analysis of field data, particularly by assembling comparative data from regional examples. Although our existing knowledge is in many respects incomplete it nevertheless provides an adequate basis for improved management of fisheries and of marine ecosystems and for adapting to climate change. In order to adapt to changing climate, future monitoring and research must be closely linked to responsive, flexible and reflexive management systems.
+
+SOURCE: Journal of marine systems
+PDF URL: None
+CITED BY COUNT: 548
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Climate change', 'Context (archaeology)', 'Plankton', 'Environmental science', 'Ecosystem', 'Marine ecosystem', 'Fisheries management', 'Population', 'Effects of global warming', 'Population dynamics of fisheries', 'Abundance (ecology)', 'Fishery', 'Ecology', 'Environmental resource management', 'Global warming', 'Geography', 'Biology', 'Fish <Actinopterygii>', 'Fishing', 'Demography', 'Archaeology', 'Sociology']

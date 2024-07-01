@@ -1,0 +1,12 @@
+ID: W2920163517
+TITLE: Plastics in sea surface waters around the Antarctic Peninsula
+AUTHOR: ['Ana Luzia Lacerda', 'Lucas Rodrigues', 'Erik van Sebille', 'Fábio Lameiro Rodrigues', 'Lourenço Ribeiro', 'Eduardo R. Secchi', 'Felipe Kessler', 'Maíra Proietti']
+ABSTRACT:
+Although marine plastic pollution has been the focus of several studies, there are still many gaps in our understanding of the concentrations, characteristics and impacts of plastics in the oceans. This study aimed to quantify and characterize plastic debris in oceanic surface waters of the Antarctic Peninsula. Sampling was done through surface trawls, and mean debris concentration was estimated at 1,794 items.km-2 with an average weight of 27.8 g.km-2. No statistical difference was found between the amount of mesoplastics (46%) and microplastics (54%). We found hard and flexible fragments, spheres and lines, in nine colors, composed mostly of polyurethane, polyamide, and polyethylene. An oceanographic dispersal model showed that, for at least seven years, sampled plastics likely did not originate from latitudes lower than 58°S. Analysis of epiplastic community diversity revealed bacteria, microalgae, and invertebrate groups adhered to debris. Paint fragments were present at all sampling stations and were approximately 30 times more abundant than plastics. Although paint particles were not included in plastic concentration estimates, we highlight that they could have similar impacts as marine plastics. We call for urgent action to avoid and mitigate plastic and paint fragment inputs to the Southern Ocean.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-40311-4.pdf
+CITED BY COUNT: 225
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Plastic pollution', 'Microplastics', 'Debris', 'Environmental science', 'Peninsula', 'Oceanography', 'Marine life', 'Marine debris', 'Pollution', 'Biological dispersal', 'Latitude', 'Invertebrate', 'Arctic', 'Seawater', 'Benthic zone', 'Barnacle', 'Ecology', 'Geology', 'Biology', 'Larva', 'Population', 'Demography', 'Geodesy', 'Sociology']

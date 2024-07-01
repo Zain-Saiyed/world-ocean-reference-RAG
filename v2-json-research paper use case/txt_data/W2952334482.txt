@@ -1,0 +1,12 @@
+ID: W2952334482
+TITLE: Thermal stress induces persistently altered coral reef fish assemblages
+AUTHOR: ['James P. W. Robinson', 'Shaun K. Wilson', 'Simon Jennings', 'Nicholas A. J. Graham']
+ABSTRACT:
+Abstract Ecological communities are reorganizing in response to warming temperatures. For continuous ocean habitats this reorganization is characterized by large‐scale species redistribution, but for tropical discontinuous habitats such as coral reefs, spatial isolation coupled with strong habitat dependence of fish species imply that turnover and local extinctions are more significant mechanisms. In these systems, transient marine heatwaves are causing coral bleaching and profoundly altering habitat structure, yet despite severe bleaching events becoming more frequent and projections indicating annual severe bleaching by the 2050s at most reefs, long‐term effects on the diversity and structure of fish assemblages remain unclear. Using a 23‐year time series spanning a thermal stress event, we describe and model structural changes and recovery trajectories of fish communities after mass bleaching. Communities changed fundamentally, with the new emergent communities dominated by herbivores and persisting for &gt;15 years, a period exceeding realized and projected intervals between thermal stress events on coral reefs. Reefs which shifted to macroalgal states had the lowest species richness and highest compositional dissimilarity, whereas reefs where live coral recovered exceeded prebleaching fish richness, but remained dissimilar to prebleaching compositions. Given realized and projected frequencies of bleaching events, our results show that fish communities historically associated with coral reefs will not re‐establish, requiring substantial adaptation by managers and resource users.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coral reef', 'Reef', 'Coral reef fish', 'Ecology', 'Coral bleaching', 'Species richness', 'Habitat', 'Resilience of coral reefs', 'Effects of global warming on oceans', 'Coral reef protection', 'Coral', 'Beta diversity', 'Marine reserve', 'Environmental science', 'Climate change', 'Fishery', 'Biology', 'Global warming']

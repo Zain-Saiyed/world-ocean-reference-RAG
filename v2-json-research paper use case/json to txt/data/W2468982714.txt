@@ -1,0 +1,12 @@
+ID: W2468982714
+TITLE: CO2 sensitivity experiments are not sufficient to show an effect of ocean acidification
+AUTHOR: ['Paul McElhany']
+ABSTRACT:
+The ocean acidification (OA) literature is replete with laboratory studies that report species sensitivity to seawater carbonate chemistry in experimental treatments as an “effect of OA”. I argue that this is unintentionally misleading, since these studies do not actually demonstrate an effect of OA but rather show sensitivity to CO2. Documenting an effect of OA involves showing a change in a species (e.g. population abundance or distribution) as a consequence of anthropogenic changes in marine carbonate chemistry. To date, there have been no unambiguous demonstrations of a population level effect of anthropogenic OA, as that term is defined by the IPCC.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/74/4/926/28655143/fsw085.pdf
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Seawater', 'Carbonate', 'Abundance (ecology)', 'Environmental science', 'Sensitivity (control systems)', 'Oceanography', 'Population', 'Environmental chemistry', 'Ecology', 'Chemistry', 'Biology', 'Geology', 'Demography', 'Organic chemistry', 'Sociology', 'Electronic engineering', 'Engineering']

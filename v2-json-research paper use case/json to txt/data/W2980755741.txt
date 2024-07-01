@@ -1,0 +1,12 @@
+ID: W2980755741
+TITLE: Seasonal Variability of the Southern Tip of the Oxygen Minimum Zone in the Eastern South Pacific (30°‐38°S): A Modeling Study
+AUTHOR: ['Matías Pizarro‐Koch', 'Óscar Pizarro', 'Boris Dewitte', 'Ivonne Montès', 'Marcel Ramos', 'Aurélien Paulmier', 'Véronique Garçon']
+ABSTRACT:
+Abstract We investigate the seasonal variability of the southern tip (30°–38°S) of the eastern South Pacific oxygen minimum zone (OMZ) based on a high horizontal resolution (1/12°) regional coupled physical‐biogeochemical model simulation. The simulation is validated by available in situ observations and the OMZ seasonal variability is documented. The model OMZ, bounded by the contour of 45 μM, occupies a large volume (4.5x10 4 km 3 ) during the beginning of austral winter and a minimum (3.5x10 4 km 3 ) at the end of spring, just 1 and 2 months after the southward transport of the Peru‐Chile Undercurrent (PCUC) is maximum and minimum, respectively. We showed that the PCUC significantly impacts the alongshore advection of dissolved oxygen (DO) modulating the OMZ seasonal variability. However, zonal transport of DO by meridionally alternating zonal jets and mesoscale eddy fluxes play also a major role in the seasonal and spatial variability of the OMZ. Consistently, a DO budget analysis reveals a significant contribution of advection terms to the rate of change of DO and the prominence of mesoscale variability within the seasonal cycle of these terms. Biogeochemical processes and horizontal and vertical mixing, associated with subgrid scale processes, play only a secondary role in the OMZ seasonal cycle. Overall, our study illustrates the interplay of mean and (mesoscale) eddy‐induced transports of DO in shaping the OMZ and its seasonal cycle off Central Chile.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2019JC015201
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mesoscale meteorology', 'Oxygen minimum zone', 'Advection', 'Climatology', 'Biogeochemical cycle', 'Annual cycle', 'Oceanography', 'Seasonality', 'Geology', 'Environmental science', 'Upwelling', 'Physics', 'Chemistry', 'Environmental chemistry', 'Thermodynamics', 'Statistics', 'Mathematics']

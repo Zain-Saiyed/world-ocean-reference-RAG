@@ -1,0 +1,12 @@
+ID: W2887088538
+TITLE: A review of coastal management approaches to support the integration of ecological and human community planning for climate change
+AUTHOR: ['Emily J. Powell', 'Megan C. Tyrrell', 'Andrew Milliken', 'John M. Tirpak', 'Michelle D. Staudinger']
+ABSTRACT:
+The resilience of socio-ecological systems to sea level rise, storms and flooding can be enhanced when coastal habitats are used as natural infrastructure. Grey infrastructure has long been used for coastal flood protection but can lead to unintended negative impacts. Natural infrastructure often provides similar services as well as added benefits that support short- and long-term biological, cultural, social, and economic goals. While natural infrastructure is becoming more widespread in practice, it often represents a relatively small fraction within portfolios of coastal risk-reducing strategies compared to more traditional grey infrastructure. This study provides a comprehensive review of how natural infrastructure is being used along the United States Atlantic, Gulf of Mexico, and Caribbean coasts related to four habitats – tidal marshes, beaches and barrier islands, mangroves, and biogenic reefs. We compare information on the benefits, opportunities and challenges of implementing natural, grey and hybrid infrastructure in the coastal zone. In addition, we present a suite of actions to increase information and reduce uncertainty so that coastal mangers and planners are aware of the full suite of options for restoration, conservation and planning that maximize ecosystem services over short- and long-term planning horizons.
+
+SOURCE: Journal of coastal conservation
+PDF URL: https://link.springer.com/content/pdf/10.1007/s11852-018-0632-y.pdf
+CITED BY COUNT: 104
+PUBLICATION YEAR: 2018
+TYPE: review
+CONCEPTS: ['Ecosystem services', 'Habitat', 'Environmental resource management', 'Climate change', 'Flooding (psychology)', 'Natural (archaeology)', 'Coastal flood', 'Coastal management', 'Marsh', 'Mangrove', 'Resilience (materials science)', 'Geography', 'Flood myth', 'Environmental planning', 'Ecosystem', 'Wetland', 'Environmental science', 'Ecology', 'Biology', 'Psychology', 'Sea level rise', 'Physics', 'Archaeology', 'Psychotherapist', 'Thermodynamics']

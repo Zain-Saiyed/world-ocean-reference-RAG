@@ -1,0 +1,12 @@
+ID: W2016596697
+TITLE: Informing climate adaptation: A review of the economic costs of natural disasters
+AUTHOR: ['Carolyn Kousky']
+ABSTRACT:
+This paper reviews the empirical literature on the economic impacts of natural disasters to inform both the modeling of potential future climate damages and climate adaptation policy related to extreme events. It covers papers that estimate the short- and/or long-run economic impacts of weather-related extreme events as well as studies identifying the determinants of the magnitude of those damages (including fatalities). The paper also reviews the small number of empirical papers on the potential extent of adaptation in response to changing extreme events.
+
+SOURCE: Energy economics
+PDF URL: None
+CITED BY COUNT: 245
+PUBLICATION YEAR: 2014
+TYPE: review
+CONCEPTS: ['Damages', 'Natural disaster', 'Adaptation (eye)', 'Climate change', 'Extreme weather', 'Environmental resource management', 'Natural resource economics', 'Economics', 'Geography', 'Political science', 'Ecology', 'Meteorology', 'Biology', 'Physics', 'Optics', 'Law']

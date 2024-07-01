@@ -1,0 +1,12 @@
+ID: W1970402339
+TITLE: Deep-sea litter: a comparison of seamounts, banks and a ridge in the Atlantic and Indian Oceans reveals both environmental and anthropogenic factors impact accumulation and composition
+AUTHOR: ['Lucy C. Woodall', 'Laura F. Robinson', 'Alex D. Rogers', 'Bhavani E. Narayanaswamy', 'Gordon L.J. Paterson']
+ABSTRACT:
+Marine litter is a global challenge that has recently received policymakers’ attention, with new environmental targets in addition to changes to old legislation. There are no global estimates of benthic litter because of the scarcity of data and only patchy survey coverage. However, estimates of baseline abundance and composition of litter are vital in order to implement litter reduction policies and adequate monitoring schemes. Two large-scale surveys of submarine geomorphological features in the Indian and Atlantic Oceans reveal that litter was found at all locations, despite their remoteness. Litter abundance was patchy, but both surveyed oceans had sites of high litter density. There was a significant difference in the type of litter found in the two oceans, with the Indian Ocean sites being dominated by fishing gear, whereas the Atlantic Ocean sites displayed a greater mix of general refuse. This study suggests that seabed litter is ubiquitous on raised benthic features, such as seamounts. It also concludes that the pattern of accumulation and composition of the litter is determined by a complex range of factors both environmental and anthropogenic. We suggest that the tracing of fishing effort and gear type would be an important step to elucidate hotspots of litter abundance on seamounts, ridges and banks.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2015.00003/pdf
+CITED BY COUNT: 97
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Seamount', 'Litter', 'Benthic zone', 'Abundance (ecology)', 'Oceanography', 'Marine debris', 'Environmental science', 'Fishing', 'Fishery', 'Ecology', 'Biology', 'Geology', 'Debris']

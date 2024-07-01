@@ -1,0 +1,12 @@
+ID: W2961217117
+TITLE: Mapping the consequences of artificial light at night for intertidal ecosystems
+AUTHOR: ['Matthew J. Garratt', 'Stuart R. Jenkins', 'Thomas W. Davies']
+ABSTRACT:
+Widespread coastal urbanization has resulted in artificial light pollution encroaching into intertidal habitats, which are highly valued by society for ecosystem services including coastal protection, climate regulation and recreation. While the impacts of artificial light at night in terrestrial and riparian ecosystems are increasingly well documented, those on organisms that reside in coastal intertidal habitats are less well explored. The distribution of artificial light at night from seaside promenade lighting was mapped across a sandy shore, and its consequences for macroinvertebrate community structure quantified accounting for other collinear environmental variables known to shape biodiversity in intertidal ecosystems (shore height, wave exposure and organic matter content). Macroinvertebrate community composition significantly changed along artificial light gradients. Greater numbers of species and total community biomass were observed with increasing illumination, a relationship that was more pronounced (increased effects size) with increasing organic matter availability. Individual taxa exhibited different relationships with artificial light illuminance; the abundances of 27% of non-rare taxa [including amphipods (Amphipoda), catworms (Nephtys spp.), and sand mason worms (Lanice conchilega)] decreased with increasing illumination, while 20% [including tellins (Tellinidae spp.), lugworms (Arenicola marina) and ragworms (Nereididae spp.)] increased. Possible causes of these relationships are discussed, including direct effects of artificial light on macroinvertebrate behaviour and indirect effects via trophic interactions. With increasing light pollution in coastal zones around the world, larger scale changes in intertidal ecosystems could be occurring.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Intertidal zone', 'Ecology', 'Ecosystem', 'Light pollution', 'Intertidal ecology', 'Environmental science', 'Biomass (ecology)', 'Habitat', 'Oceanography', 'Biology', 'Physics', 'Optics', 'Geology']

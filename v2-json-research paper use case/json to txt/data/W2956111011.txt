@@ -1,0 +1,12 @@
+ID: W2956111011
+TITLE: Aligning the sustainable development goals to the small-scale fisheries guidelines: A case for EU fisheries governance
+AUTHOR: ['Alicia Said', 'Ratana Chuenpagdee']
+ABSTRACT:
+Since the launch of the Sustainable Development Goals (SDGs) in 2015, several countries, funding organizations, environmental groups and research communities have pledged support and made commitment to help achieve these goals. SDG14: Life Below Water, for instance, has been embraced as the global goal for conservation and sustainable uses of the oceans, seas and marine resources. Among its many targets, SDG14b speaks directly to small-scale fisheries, calling for secured access to resources and markets for this sector. We argue that achieving SDG 14b requires a holistic approach encompassing several SDGs, including livelihoods, economic growth, community sustainability, strong institutions and partnerships. It is also important to align the SDG targets with the Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries (SSF Guidelines), as the mutuality that exists between the scope and nature of the two instruments can help guide the formulation of appropriate governance tools. Yet, the alignment of these two instruments alone does not guarantee sustainability of small-scale fisheries, especially without an official mandate from the governments. The case in point is the European Union where small-scale fisheries are not sufficiently recognized within the Common Fisheries Policy (CFP), despite being the largest sector (75% of the fleet). Through an examination of the CFP in the context of the SSF Guidelines and the SDGs, we discuss options and possibilities for inclusive consideration of small-scale fisheries in the upcoming policy reform, which might then lead to both achieving fisheries sustainability and the SDGs in the EU.
+
+SOURCE: Marine policy
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S0308597X18307553
+CITED BY COUNT: 55
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Sustainability', 'Business', 'Scope (computer science)', 'Corporate governance', 'Fisheries law', 'Livelihood', 'Scale (ratio)', 'Sustainable development', 'Fisheries management', 'Mandate', 'Context (archaeology)', 'European union', 'Environmental resource management', 'Marine conservation', 'Fishery', 'Environmental planning', 'Political science', 'Economics', 'Finance', 'Geography', 'Economic policy', 'Ecology', 'Fishing', 'Agriculture', 'Cartography', 'Archaeology', 'Computer science', 'Law', 'Biology', 'Programming language']

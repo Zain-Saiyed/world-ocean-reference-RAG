@@ -1,0 +1,12 @@
+ID: W2609295025
+TITLE: Intermittently Closed/Open Lakes and Lagoons: Their global distribution and boundary conditions
+AUTHOR: ['Sarah McSweeney', 'David M. Kennedy', 'Ian Rutherfurd', 'Jane C. Stout']
+ABSTRACT:
+Intermittently Closed/Open Lakes and Lagoons (ICOLLs) are a particularly dynamic form of estuary characterised by periodic entrance closure to the ocean. Closure occurs when a subaerial sand berm stabilises across the entrance channel during times of low fluvial discharge. ICOLLs are of global importance as they provide valuable ecological habitats for many species and are associated with a wide range of management issues due to their cycle of entrance closure and opening. ICOLLs are found to be more widespread globally than previously described with 1477 of these estuaries being identified in this study. This constitutes an estimated 3% of the world's estuaries and 15% of all estuaries along microtidal coastlines. ICOLLs are concentrated along microtidal to low mesotidal coastlines in the mid-latitudes and predominantly on coasts with temperate climates. This distribution is related to greater wave heights as driven by high intensity winds and a longer fetch distance. The highest proportion of ICOLLs are present in Australia (21% all global ICOLLs), South Africa (16%) and Mexico (16%). In Australia, a comparison with fluvial input found that it is less important than marine processes in determining ICOLL formation and that ICOLLs are associated with a relative tidal range of < 3.22. Additionally the majority of ICOLLS are small systems with catchments < 2000 km2 and tidal prisms < 30 × 106 m3, forming at the mouths of rivers with generally low mean annual and specific discharges.
+
+SOURCE: Geomorphology
+PDF URL: None
+CITED BY COUNT: 89
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Fluvial', 'Estuary', 'Geology', 'Subaerial', 'Oceanography', 'Range (aeronautics)', 'Tidal range', 'Berm', 'Intertidal zone', 'Sea level', 'Fetch', 'Hydrology (agriculture)', 'Geomorphology', 'Paleontology', 'Structural basin', 'Geotechnical engineering', 'Materials science', 'Composite material']

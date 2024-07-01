@@ -1,0 +1,12 @@
+ID: W2917532651
+TITLE: Microplastics and synthetic particles ingested by deep-sea amphipods in six of the deepest marine ecosystems on Earth
+AUTHOR: ['Alan J. Jamieson', 'Lucy Brooks', 'William D. Reid', 'Stuart B. Piertney', 'Bhavani E. Narayanaswamy', 'Thomas D. Linley']
+ABSTRACT:
+While there is now an established recognition of microplastic pollution in the oceans, and the detrimental effects this may have on marine animals, the ocean depth at which such contamination is ingested by organisms has still not been established. Here, we detect the presence of ingested microplastics in the hindguts of Lysianassoidea amphipod populations, in six deep ocean trenches from around the Pacific Rim (Japan, Izu-Bonin, Mariana, Kermadec, New Hebrides and the Peru-Chile trenches), at depths ranging from 7000 m to 10 890 m. This illustrates that microplastic contaminants occur in the very deepest reaches of the oceans. Over 72% of individuals examined (65 of 90) contained at least one microparticle. The number of microparticles ingested per individual across all trenches ranged from 1 to 8. The mean and standard error of microparticles varied per trench, from 0.9 ± 0.4 (New Hebrides Trench) to 3.3 ± 0.7 (Mariana Trench). A subsample of microfibres and fragments analysed using FTIR were found to be a collection of plastic and synthetic materials (Nylon, polyethylene, polyamide, polyvinyl alcohol, polyvinylchloride, often with inorganic filler material), semi-synthetic (rayon and lyocell) and natural fibre (ramie). Notwithstanding, this study reports the deepest record of microplastic ingestion, indicating that anthropogenic debris is bioavailable to organisms at some of the deepest locations in the Earth's oceans.
+
+SOURCE: Royal Society open science
+PDF URL: None
+CITED BY COUNT: 291
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Microplastics', 'Plastic pollution', 'Oceanography', 'Marine ecosystem', 'Deep sea', 'Debris', 'Marine debris', 'Marine life', 'Geology', 'Marine snow', 'Trench', 'Echinoderm', 'Environmental science', 'Ecosystem', 'Fishery', 'Ecology', 'Water column', 'Biology', 'Paleontology', 'Chemistry', 'Organic chemistry', 'Layer (electronics)']

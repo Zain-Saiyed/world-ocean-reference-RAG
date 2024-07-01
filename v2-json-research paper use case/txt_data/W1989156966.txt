@@ -1,0 +1,12 @@
+ID: W1989156966
+TITLE: A summary of global 129I in marine waters
+AUTHOR: ['Peng He', 'Ala Aldahan', 'Göran Possnert', 'Xiaolin Hou']
+ABSTRACT:
+Despite the many investigations concerning the occurrence of anthropogenic iodine-129 in the atmosphere, terrestrial and marine environments, there is a lack of a comprehensive collection of data on the distribution of the isotope in marine waters. The temporal and spatial variability of anthropogenic 129I is strongly linked to the major point sources in the Irish Sea and the English Channel and the global marine spreading pathways are partly outlined from these sources. The temporal evolution is still, however, not well defined when transport and dissipation are considered in the different oceans and ocean compartments. We here summarize available published literature data on 129I temporal and spatial distribution in the global marine water. The results show presence of numerous data sets for the North Atlantic and Arctic Oceans where strong variability in terms of water depth, time and location also occur. Scarcity of data on 129I from the Pacific, Indian and South Atlantic Oceans demonstrates gaps in the coverage of the isotope spatial extent. These shortcomings in the spatial coverage may relate to the understanding that the anthropogenic 129I signal will take a long time to be transported, if at all, from the North Atlantic into other oceans. Data from recent expeditions in the Southern oceans and the Geotraces ocean profiling will reveal additional information about 129I distribution in the marine waters.
+
+SOURCE: Nuclear instruments and methods in physics research. Section B, Beam interactions with materials and atoms/Nuclear instruments & methods in physics research. Section B, Beam interactions with materials and atoms
+PDF URL: None
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Geotraces', 'Oceanography', 'Pelagic zone', 'Environmental science', 'Spatial distribution', 'Geography', 'Geology', 'Seawater', 'Remote sensing']

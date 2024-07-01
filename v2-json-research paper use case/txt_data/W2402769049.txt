@@ -1,0 +1,12 @@
+ID: W2402769049
+TITLE: Merging scleractinian genera: the overwhelming genetic similarity between solitary Desmophyllum and colonial Lophelia
+AUTHOR: ['Anna Maria Addamo', 'Agostina Vertino', 'Jarosław Stolarski', 'Ricardo García‐Jiménez', 'Marco Taviani', 'Annie Machordom']
+ABSTRACT:
+In recent years, several types of molecular markers and new microscale skeletal characters have shown potential as powerful tools for phylogenetic reconstructions and higher-level taxonomy of scleractinian corals. Nonetheless, discrimination of closely related taxa is still highly controversial in scleractinian coral research. Here we used newly sequenced complete mitochondrial genomes and 30 microsatellites to define the genetic divergence between two closely related azooxanthellate taxa of the family Caryophylliidae: solitary Desmophyllum dianthus and colonial Lophelia pertusa.In the mitochondrial control region, an astonishing 99.8 % of nucleotides between L. pertusa and D. dianthus were identical. Variability of the mitochondrial genomes of the two species is represented by only 12 non-synonymous out of 19 total nucleotide substitutions. Microsatellite sequence (37 loci) analysis of L. pertusa and D. dianthus showed genetic similarity is about 97 %. Our results also indicated that L. pertusa and D. dianthus show high skeletal plasticity in corallum shape and similarity in skeletal ontogeny, micromorphological (septal and wall granulations) and microstructural characters (arrangement of rapid accretion deposits, thickening deposits).Molecularly and morphologically, the solitary Desmophyllum and the dendroid Lophelia appear to be significantly more similar to each other than other unambiguous coral genera analysed to date. This consequently leads to ascribe both taxa under the generic name Desmophyllum (priority by date of publication). Findings of this study demonstrate that coloniality may not be a robust taxonomic character in scleractinian corals.
+
+SOURCE: BMC evolutionary biology
+PDF URL: https://bmcevolbiol.biomedcentral.com/track/pdf/10.1186/s12862-016-0654-8
+CITED BY COUNT: 127
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biology', 'Dianthus', 'Taxon', 'Evolutionary biology', 'Coral', 'Zoology', 'Ecology', 'Botany', 'Carnation']

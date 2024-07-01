@@ -1,0 +1,12 @@
+ID: W2793192241
+TITLE: Invasion of aquarium origin soft corals on a tropical rocky reef in the southwest Atlantic, Brazil
+AUTHOR: ['Marcelo Checoli Mantelatto', 'Amanda Guilherme da Silva', 'Tayana dos Santos Louzada', 'Catherine S. McFadden', 'Joel C. Creed']
+ABSTRACT:
+Non-indigenous species (NIS) can cause substantial change in ecosystems and as marine invasives they can become a major threat to coastal and subtidal habitats. In September 2017 previously unknown and apparently NIS soft corals were detected on a shallow subtidal tropical rocky reef at Ilha Grande Bay, southeast Brazil. The present study aims to identify the species, quantify their distribution, abundance, and their interactions with native species. The most abundant NIS belonged to the recently described genus Sansibia (family Xeniidae) and the less common species was identified as Clavularia cf. viridis (family Clavulariidae). They were found along 170 m of shoreline at all depths where hard substrate was available. Sansibia sp. dominated deeper communities, associated positively with some macroalgal and negatively with the zoantharian Palythoa caribaeorum, which probably provided greater biotic resistance to invasion. Both species are of Indo-Pacific origin and typical of those ornamentals found in the aquarium trade.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Rocky shore', 'Bay', 'Reef', 'Ecology', 'Habitat', 'Coral reef', 'Geography', 'Genus', 'Biology', 'Tropical Eastern Pacific', 'Oceanography', 'Geology', 'Pacific ocean', 'Archaeology']

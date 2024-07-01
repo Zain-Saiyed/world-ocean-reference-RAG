@@ -1,0 +1,12 @@
+ID: W2970874578
+TITLE: Origin, development and prospects of sand islands off the north coast of Viti Levu Island, Fiji, Southwest Pacific
+AUTHOR: ['Patrick D. Nunn', 'Michelle McKeown', 'Adrian McCallum', 'Peter L. Davies', 'Eleanor H. John', 'Reemal Chandra', 'Frank R. Thomas', 'Sharon N. Raj']
+ABSTRACT:
+This study sought to understand why/when sand islands formed off the north coast of Viti Levu Island (Fiji), how they subsequently developed, and what is likely to happen to them in future. During fieldwork in 2010 and 2016, six groups of sand islands were mapped and their sub-surface stratigraphy analysed; radiocarbon ages were obtained for 16 samples. All islands rise from emerged bevelled reefal platforms 0.55 m below msl on average. Radiocarbon ages from sediments overlying these platforms suggest they emerged above low-tide level around AD 1300. Once emerged, mangroves and/or seagrass beds developed on platform surfaces, allowing sediment to accumulate. Interior sand islands developed and grew to occupy most of the emerged platforms, pushing mangroves and seagrasses to their margins. Recent sea-level rise has seen island shorelines recede; Severe Tropical Cyclone Winston (February 2016) caused profound changes to the form of some and led to deposition of rubble banks along their fringes. This study contributes evidence for the origin, development and likely prospects of such sand islands under a changing climate. It has implications for the future sustainability of coastal ecosystems in such regions and for the livelihoods of the peoples who depend upon them.
+
+SOURCE: Journal of coastal conservation
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Radiocarbon dating', 'Oceanography', 'Seagrass', 'Rubble', 'Shore', 'Geology', 'Rocky shore', 'Geography', 'Headland', 'Archaeology', 'Ecosystem', 'Paleontology', 'Ecology', 'Biology']

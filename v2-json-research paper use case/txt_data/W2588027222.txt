@@ -1,0 +1,12 @@
+ID: W2588027222
+TITLE: Extreme oceanographic forcing and coastal response due to the 2015–2016 El Niño
+AUTHOR: ['Patrick L. Barnard', 'Daniel J. Hoover', 'David M. Hubbard', 'Alex Snyder', 'Bonnie C. Ludka', 'Jonathan C. Allan', 'George M. Kaminsky', 'Peter Ruggiero', 'Timu W. Gallien', 'Laura L. Gabel', 'Diana McCandless', 'Heather M. Weiner', 'Nicholas Cohn', 'Dylan Anderson', 'Katherine A. Serafin']
+ABSTRACT:
+Abstract The El Niño-Southern Oscillation is the dominant mode of interannual climate variability across the Pacific Ocean basin, with influence on the global climate. The two end members of the cycle, El Niño and La Niña, force anomalous oceanographic conditions and coastal response along the Pacific margin, exposing many heavily populated regions to increased coastal flooding and erosion hazards. However, a quantitative record of coastal impacts is spatially limited and temporally restricted to only the most recent events. Here we report on the oceanographic forcing and coastal response of the 2015–2016 El Niño, one of the strongest of the last 145 years. We show that winter wave energy equalled or exceeded measured historical maxima across the US West Coast, corresponding to anomalously large beach erosion across the region. Shorelines in many areas retreated beyond previously measured landward extremes, particularly along the sediment-starved California coast.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms14365.pdf
+CITED BY COUNT: 149
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Coastal flood', 'Oceanography', 'Shore', 'Flooding (psychology)', 'Coastal erosion', 'Forcing (mathematics)', 'Climatology', 'Pacific decadal oscillation', 'Geology', 'Climate change', 'Structural basin', 'Coastal hazards', 'Sediment', 'Erosion', 'Environmental science', 'Pacific ocean', 'Sea level rise', 'Geomorphology', 'Psychology', 'Psychotherapist']

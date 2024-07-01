@@ -1,0 +1,12 @@
+ID: W2802000586
+TITLE: Lack of access to medical care during Hurricane Sandy and mental health symptoms
+AUTHOR: ['Julia Ruskin', 'Rehana Rasul', 'Samantha Schneider', 'Kristin Bevilacqua', 'Emanuela Taioli', 'Rebecca Schwartz']
+ABSTRACT:
+Destruction caused by natural disasters compromises medical providers' and hospitals' abilities to administer care. Hurricane Sandy was particularly devastating, resulting in massive disruptions of medical care in the region. This study aimed to determine whether a lack of access to medical care during Hurricane Sandy was associated with posttraumatic stress disorder (PTSD) symptoms and other mental health/substance abuse outcomes. A secondary aim was to examine whether having a chronic illness moderates those associations. Self-reported medical access and mental health symptomatology were obtained from New York City and Long Island residents (n = 1669) following Hurricane Sandy under the Leaders in Gathering Hope Together project (10/23/2013-2/25/2015) and Project Restoration (6/5/2014-8/9/2016). Multivariable logistic regressions were utilized to determine the relationship between lack of access to medical care and mental health outcomes. Of the 1669 participants, 994 (59.57%) were female, 866 (51.89%) were white, and the mean age was 46.22 (SD = 19.2) years old. Those without access to medical care had significantly higher odds of showing symptoms of PTSD (AOR = 2.71, CI = [1.77-4.16]), as well as depression (AOR = 1.94, CI = [1.29-2.92]) and anxiety (AOR = 1.61, CI = [1.08-2.39]) compared to those with access. Lack of access to care was associated with a 2.12 point increase in perceived stress scale score (SE = 0.63). The interaction between having a chronic illness and lack of access to medical care was not significantly associated with any outcomes. The findings emphasize the importance of making medical care more accessible to patients, both chronically and acutely ill, during natural disasters to benefit their physical as well as their mental health.
+
+SOURCE: Preventive medicine reports
+PDF URL: None
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mental health', 'Anxiety', 'Medicine', 'Depression (economics)', 'Odds', 'Odds ratio', 'Health care', 'Psychiatry', 'Mental illness', 'Family medicine', 'Logistic regression', 'Internal medicine', 'Economics', 'Macroeconomics', 'Economic growth']

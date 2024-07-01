@@ -1,0 +1,12 @@
+ID: W2053185221
+TITLE: Emergent Toxins in North Atlantic Temperate Waters: A Challenge for Monitoring Programs and Legislation
+AUTHOR: ['Marisa Silva', 'V. Pratheepa', 'Luís M. Botana', 'Vı́tor Vasconcelos']
+ABSTRACT:
+Harmful Algal Blooms (HAB) are complex to manage due to their intermittent nature and their severe impact on the economy and human health. The conditions which promote HAB have not yet been fully explained, though climate change and anthropogenic intervention are pointed as significant factors. The rise of water temperature, the opening of new sea canals and the introduction of ship ballast waters all contribute to the dispersion and establishment of toxin-producing invasive species that promote the settling of emergent toxins in the food-chain. Tetrodotoxin, ciguatoxin, palytoxin and cyclic imines are commonly reported in warm waters but have also caused poisoning incidents in temperate zones. There is evidence that monitoring for these toxins exclusively in bivalves is simplistic and underestimates the risk to public health, since new vectors have been reported for these toxins and as well for regulated toxins such as PSTs and DSTs. In order to avoid public health impacts, there is a need for adequate monitoring programs, a need for establishing appropriate legislation, and a need for optimizing effective methods of analysis. In this review, we will compile evidence concerning emergent marine toxins and provide data that may indicate the need to restructure the current monitoring programs of HAB.
+
+SOURCE: Toxins
+PDF URL: https://www.mdpi.com/2072-6651/7/3/859/pdf?version=1426501167
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Legislation', 'Marine toxin', 'Algal bloom', 'Ballast', 'Environmental planning', 'Environmental science', 'Fishery', 'Ecology', 'Biology', 'Political science', 'Toxin', 'Biochemistry', 'Phytoplankton', 'Nutrient', 'Law']

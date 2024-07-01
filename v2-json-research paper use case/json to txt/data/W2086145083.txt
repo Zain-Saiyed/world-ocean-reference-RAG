@@ -1,0 +1,12 @@
+ID: W2086145083
+TITLE: Anthropogenic origin of positive gadolinium anomalies in river waters
+AUTHOR: ['Michael Bau', 'Peter Dulski']
+ABSTRACT:
+Positive Gd anomalies in shale-normalised rare earth element (REESN) patterns of natural waters may provide information on the types of ligands which control surface complexation of REE on particle surfaces. However, REESN patterns of rivers which drain densely populated and industrialised areas in Central Europe and North America are characterised by pronounced positive GdSN anomalies, whereas rivers in thinly populated, non-industrialised areas in Värmland and Dalarna, central Sweden, and Hokkaido, Japan, do not show such anomalies. Acidification experiments suggest that, unlike the other REE, the excess Gd found in German rivers is almost completely related to the ‘dissolved’ REE fraction (< 0.2 μm) in a water sample and not to the acid-soluble particulate fraction, suggesting a negligible particle reactivity of the excess Gd. The positive GdSN anomalies are of anthropogenic origin and are most likely to result from the application of gadopentetic acid, Gd(DTPA)2−, in magnetic resonance imaging (MRI). In MRI, gadopentetic acid, which is an organic aqueous Gd(III) complex with very high stability constant, is used as a paramagnetic contrast agent. Since positive GdSN anomalies in rivers, lakes, semi-closed sea basins, and coastal seas, which receive riverine REE input from industrialised, densely populated areas may (partly) be of anthropogenic origin, the positive GdSN anomaly can no longer be used as a natural geochemical indicator.
+
+SOURCE: Earth and planetary science letters
+PDF URL: None
+CITED BY COUNT: 491
+PUBLICATION YEAR: 1996
+TYPE: article
+CONCEPTS: ['Geology', 'Geochemistry', 'Structural basin', 'Oil shale', 'Drainage basin', 'Surface water', 'Anomaly (physics)', 'Natural (archaeology)', 'Environmental science', 'Geomorphology', 'Paleontology', 'Physics', 'Cartography', 'Condensed matter physics', 'Environmental engineering', 'Geography']

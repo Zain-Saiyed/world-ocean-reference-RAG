@@ -1,0 +1,12 @@
+ID: W1995037665
+TITLE: <i>Limacina helicina</i>shell dissolution as an indicator of declining habitat suitability owing to ocean acidification in the California Current Ecosystem
+AUTHOR: ['Nina Bednaršek', 'Richard A. Feely', 'Jonathan C. P. Reum', 'Brittany F. Peterson', 'Jennifer Menkel', 'Simone R. Alin', 'Burke Hales']
+ABSTRACT:
+Few studies to date have demonstrated widespread biological impacts of ocean acidification (OA) under conditions currently found in the natural environment. From a combined survey of physical and chemical water properties and biological sampling along the Washington-Oregon-California coast in August 2011, we show that large portions of the shelf waters are corrosive to pteropods in the natural environment. We show a strong positive correlation between the proportion of pteropod individuals with severe shell dissolution damage and the percentage of undersaturated water in the top 100 m with respect to aragonite. We found 53% of onshore individuals and 24% of offshore individuals on average to have severe dissolution damage. Relative to pre-industrial CO2 concentrations, the extent of undersaturated waters in the top 100 m of the water column has increased over sixfold along the California Current Ecosystem (CCE). We estimate that the incidence of severe pteropod shell dissolution owing to anthropogenic OA has doubled in near shore habitats since pre-industrial conditions across this region and is on track to triple by 2050. These results demonstrate that habitat suitability for pteropods in the coastal CCE is declining. The observed impacts represent a baseline for future observations towards understanding broader scale OA effects.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2014.0123
+CITED BY COUNT: 194
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Water column', 'Environmental science', 'Ecosystem', 'Oceanography', 'Habitat', 'Aragonite', 'Marine life', 'Shore', 'Marine ecosystem', 'Ecology', 'Climate change', 'Geology', 'Biology', 'Mineralogy', 'Calcite']

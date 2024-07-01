@@ -1,0 +1,12 @@
+ID: W2598556578
+TITLE: Evolution of Dimethylsulfoniopropionate Metabolism in Marine Phytoplankton and Bacteria
+AUTHOR: ['Hannah Bullock', 'Haiwei Luo', 'William B. Whitman']
+ABSTRACT:
+The elucidation of the pathways for dimethylsulfoniopropionate (DMSP) synthesis and metabolism and the ecological impact of DMSP have been studied for nearly 70 years. Much of this interest stems from the fact that DMSP metabolism produces the climatically active gas dimethyl sulfide (DMS), the primary natural source of sulfur to the atmosphere. DMSP plays many important roles for marine life, including use as an osmolyte, antioxidant, predator deterrent, and cryoprotectant for phytoplankton and as a reduced carbon and sulfur source for marine bacteria. DMSP is hypothesized to have become abundant in oceans approximately 250 million years ago with the diversification of the strong DMSP producers, the dinoflagellates. This event coincides with the first genome expansion of the Roseobacter clade, known DMSP degraders. Structural and mechanistic studies of the enzymes of the bacterial DMSP demethylation and cleavage pathways suggest that exposure to DMSP led to the recruitment of enzymes from preexisting metabolic pathways. In some cases, such as DmdA, DmdD, and DddP, these enzymes appear to have evolved to become more specific for DMSP metabolism. By contrast, many of the other enzymes, DmdB, DmdC, and the acrylate utilization hydratase AcuH, have maintained broad functionality and substrate specificities, allowing them to carry out a range of reactions within the cell. This review will cover the experimental evidence supporting the hypothesis that, as DMSP became more readily available in the marine environment, marine bacteria adapted enzymes already encoded in their genomes to utilize this new compound.
+
+SOURCE: Frontiers in microbiology
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmicb.2017.00637/pdf
+CITED BY COUNT: 97
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Dimethylsulfoniopropionate', 'Roseobacter', 'Marine bacteriophage', 'Biology', 'Dimethyl sulfide', 'Anoxygenic photosynthesis', 'Metabolic pathway', 'Osmolyte', 'Bacteria', 'Biochemistry', 'Chemistry', 'Phytoplankton', 'Metabolism', 'Ecology', 'Photosynthesis', 'Sulfur', 'Phototroph', 'Phylogenetics', 'Genetics', 'Clade', 'Organic chemistry', 'Nutrient', 'Gene']

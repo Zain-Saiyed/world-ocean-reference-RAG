@@ -1,0 +1,12 @@
+ID: W1984326798
+TITLE: Global Circumnavigations: Tracking Year-Round Ranges of Nonbreeding Albatrosses
+AUTHOR: ['John P. Croxall', 'J. R. D. Silk', 'Richard A. Phillips', 'Vsevolod Afanasyev', 'Dirk R. Briggs']
+ABSTRACT:
+Although albatrosses are paradigms of oceanic specialization, their foraging areas and migration routes when not breeding remain essentially unknown. Our continuous remote tracking of 22 adult gray-headed albatrosses for over 30 bird-years reveals three distinct strategies: (i) Stay in breeding home range; (ii) make return migrations to a specific area of the southwest Indian Ocean; and (iii) make one or more global circumnavigations (the fastest in just 46 days). The consistencies in patterns, routes, and timings offer the first hope of identifying areas of critical habitat for nonbreeding albatrosses, wherein appropriate management of longline fisheries might alleviate the plight of the world's most threatened family of birds.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 289
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Foraging', 'Threatened species', 'Albatross', 'Geography', 'Habitat', 'Fishery', 'Range (aeronautics)', 'Tracking (education)', 'Ecology', 'Biology', 'Engineering', 'Psychology', 'Pedagogy', 'Aerospace engineering']

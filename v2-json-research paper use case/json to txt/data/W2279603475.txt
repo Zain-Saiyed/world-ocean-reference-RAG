@@ -1,0 +1,12 @@
+ID: W2279603475
+TITLE: Mitigating bycatch and depredation of marine mammals in longline fisheries
+AUTHOR: ['Timothy B. Werner', 'Simon Northridge', 'Kate McClellan Press', 'Nina M. Young']
+ABSTRACT:
+Abstract Demersal and pelagic longline fisheries involve frequent and geographically widespread interactions with many individuals, populations, and species of marine mammals. Animals sometimes suffer mortality and serious injury following these interactions, attracted mainly to longlines as a source of food. This depredating behaviour can have serious consequences for fishermen, especially when they lose valuable catch and face other associated operational and regulatory challenges. Using input from a group of international experts in the science, fishing industry, and government sectors, we produced a list of methods for mitigating depredation and bycatch of marine mammals in longline fisheries, collectively assessed their potential as a solution, and determined priorities for further research. The intention of this review is to help synthesize our current understanding about potential solutions, to provide an introduction to the articles that appear in this themed set of the ICES Journal of Marine Science, and to help fishermen, fisheries managers, and research scientists advance solutions to this global problem.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/72/5/1576/31229314/fsv092.pdf
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Bycatch', 'Fishery', 'Demersal zone', 'Pelagic zone', 'Fishing', 'Fisheries science', 'Business', 'Government (linguistics)', 'Marine fisheries', 'Geography', 'Fisheries management', 'Biology', 'Linguistics', 'Philosophy']

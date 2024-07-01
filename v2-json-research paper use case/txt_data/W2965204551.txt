@@ -1,0 +1,12 @@
+ID: W2965204551
+TITLE: Comments on the non-indigenous microalgae in the European seas
+AUTHOR: ['Fernando Gómez']
+ABSTRACT:
+The article entitled “Non-indigenous species refined national baseline inventories: A synthesis in the context of the European Union's Marine Strategy Framework Directive” by Tsiamis et al. (2019, Mar. Pollut. Bull. 145, 429–435) reports a list of 52 non-indigenous microalgae in the European Seas. Comments on the validity of categorizing these species as non-indigenous are reported.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Indigenous', 'European union', 'Context (archaeology)', 'Marine Strategy Framework Directive', 'Directive', 'Baseline (sea)', 'Geography', 'Environmental protection', 'Oceanography', 'Political science', 'Fishery', 'Environmental resource management', 'Environmental science', 'Ecology', 'Biology', 'International trade', 'Business', 'Archaeology', 'Computer science', 'Ecosystem', 'Geology', 'Programming language']

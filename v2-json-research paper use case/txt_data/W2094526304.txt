@@ -1,0 +1,12 @@
+ID: W2094526304
+TITLE: Happiness, geography and the environment
+AUTHOR: ['Finbarr Brereton', 'J. Peter Clinch', 'Susana Ferreira']
+ABSTRACT:
+In recent years, economists have been using socio-economic and socio-demographic characteristics to explain self-reported individual happiness or satisfaction with life. Using Geographical Information Systems (GIS), we employ data disaggregated at the individual and local level to show that while these variables are important, consideration of amenities such as climate, environmental and urban conditions is critical when analyzing subjective well-being. Location-specific factors are shown to have a direct impact on life satisfaction. Most importantly, however, the explanatory power of our happiness function substantially increases when the spatial variables are included, highlighting the importance of the role of the spatial dimension in determining well-being.
+
+SOURCE: Ecological economics
+PDF URL: None
+CITED BY COUNT: 383
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Happiness', 'Explanatory power', 'Dimension (graph theory)', 'Life satisfaction', 'Subjective well-being', 'Geography', 'Function (biology)', 'Economic geography', 'Regional science', 'Econometrics', 'Economics', 'Psychology', 'Social psychology', 'Mathematics', 'Philosophy', 'Epistemology', 'Evolutionary biology', 'Pure mathematics', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2332631176
+TITLE: Cold-water coral ecosystem (Tisler Reef, Norwegian Shelf) may be a hotspot for carbon cycling
+AUTHOR: ['Martin White', 'GA Wolff', 'Tomas Lundälv', 'Damien Guihen', 'Kostas Kiriakoulakis', 'Marc Lavaleye', 'G.C.A. Duineveld']
+ABSTRACT:
+Cold-water coral (CWC) reefs are recognised as an important marine benthic ecosystem at continental margins.Where abundant, they most likely play a role both in the maintenance of biodiversity and in the provision of ecosystem services provided by shelf seas.Here, we directly measure the community respiration of a CWC reef on the Norwegian shelf and show that rates of oxygen uptake are high in summer (25-88 mmol O 2 m -2 d -1 ), with lower spring values (7.5-9 mmol O 2 m -2 d -1 ).Spring uptake rates are comparable to values at shelf sediments at similar water depths, while summer values are much higher.We calculate that with such high respiration rates, CWC reef ecosystems potentially turnover a significant proportion (~25%) of the annual shelf carbon export in the Norwegian Sea, where CWC reefs are abundant.The loss of CWCs through physical destruction or ocean acidification may have a significant impact on local carbon cycling in the mid-to high-latitude North Atlantic Ocean.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2012/465/m465p011.pdf
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Oceanography', 'Coral reef', 'Marine ecosystem', 'Geography', 'Reef', 'Benthic zone', 'Ecosystem', 'Arctic', 'Fishery', 'Ecology', 'Biology', 'Geology']

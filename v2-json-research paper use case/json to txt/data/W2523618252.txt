@@ -1,0 +1,12 @@
+ID: W2523618252
+TITLE: Timing of ice retreat alters seabird abundances and distributions in the southeast Bering Sea
+AUTHOR: ['Martin Renner', 'S. A. Salo', 'Lisa B. Eisner', 'Patrick H. Ressler', 'Carol Ladd', 'Kathy J. Kuletz', 'Jarrod A. Santora', 'John F. Piatt', 'Gary S. Drew', 'George L. Hunt']
+ABSTRACT:
+Timing of spring sea-ice retreat shapes the southeast Bering Sea food web. We compared summer seabird densities and average bathymetry depth distributions between years with early (typically warm) and late (typically cold) ice retreat. Averaged over all seabird species, densities in early-ice-retreat-years were 10.1% (95% CI: 1.1–47.9%) of that in late-ice-retreat-years. In early-ice-retreat-years, surface-foraging species had increased numbers over the middle shelf (50–150 m) and reduced numbers over the shelf slope (200–500 m). Pursuit-diving seabirds showed a less clear trend. Euphausiids and the copepod Calanus marshallae/glacialis were 2.4 and 18.1 times less abundant in early-ice-retreat-years, respectively, whereas age-0 walleye pollock Gadus chalcogrammus near-surface densities were 51× higher in early-ice-retreat-years. Our results suggest a mechanistic understanding of how present and future changes in sea-ice-retreat timing may affect top predators like seabirds in the southeastern Bering Sea.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2016.0276
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seabird', 'Oceanography', 'Sea ice', 'Arctic ice pack', 'Iceberg', 'Foraging', 'Predation', 'Fast ice', 'Biology', 'Antarctic sea ice', 'Geology', 'Ecology']

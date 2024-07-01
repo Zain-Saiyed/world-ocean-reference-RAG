@@ -1,0 +1,12 @@
+ID: W2808029689
+TITLE: Mapping the resilience of chemosynthetic communities in hydrothermal vent fields
+AUTHOR: ['Kenta Suzuki', 'Katsuhiko Yoshida', 'Hiromi Watanabe', 'Hiroyuki Yamamoto']
+ABSTRACT:
+Hydrothermal vent fields are vulnerable to natural disturbances, such as volcanic activity, and are currently being considered as targets for mineral mining. Local vent communities are linked by pelagic larval dispersal and form regional metacommunities, nested within a number of biogeographic provinces. Larval supply depends on the connectivity of the dispersal networks, and affects recoverability of communities from disturbances. However, it is unclear how the dispersal networks contribute to recoverability of local communities. Here, we integrated a population dynamics model and estimation of large scale dispersal networks. By simulating disturbances to vent fields, we mapped recoverability of communities in 131 hydrothermal vent fields in the western Pacific Ocean. Our analysis showed substantial variation in recovery time due to variation in regional connectivity between known vent fields, and was not qualitatively affected by potential larval recruitment from unknown vent fields. In certain cases, simultaneous disturbance of a series of vent fields either delayed or wholly prevented recovery. Our approach is applicable to a dispersal network estimated from genetic diversity. Our method not only reveals distribution of recoverability of chemosynthetic communities in hydrothermal vent fields, but is also a practical tool for planning conservation strategies.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-27596-7.pdf
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Hydrothermal vent', 'Ecology', 'Population', 'Pelagic zone', 'Biology', 'Oceanography', 'Geology', 'Hydrothermal circulation', 'Paleontology', 'Demography', 'Sociology']

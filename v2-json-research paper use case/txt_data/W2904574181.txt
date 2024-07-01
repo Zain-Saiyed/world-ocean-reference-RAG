@@ -1,0 +1,12 @@
+ID: W2904574181
+TITLE: Worldwide oil and gas platform decommissioning: A review of practices and reefing options
+AUTHOR: ['Ann Scarborough Bull', 'Milton S. Love']
+ABSTRACT:
+Consideration of whether to completely remove an oil and gas production platform from the seafloor or to leave the submerged jacket as a reef is an imminent decision for California, as a number of offshore platforms in both state and federal waters are in the early stages of decommissioning. Laws require that a platform at the end of its production life be totally removed unless the submerged jacket section continues as a reef under state sponsorship. Consideration of the eventual fate of the populations of fishes and invertebrates beneath platforms has led to global reefing of the jacket portion of platforms instead of removal at the time of decommissioning. The construction and use of artificial reefs are centuries old and global in nature using a great variety of materials. The history that led to the reefing option for platforms begins in the mid-20th century in an effort for general artificial reefs to provide both fishing opportunities and increase fisheries production for a burgeoning U.S. population. The trend toward reefing platforms at end of their lives followed after the oil and gas industry installed thousands of standing platforms in the Gulf of Mexico where they had become popular fishing destinations. The National Fishing Enhancement Act and subsequent National Artificial Reef Plan laid the foundation for Rig-to-Reefs. Reefing platforms in the Gulf of Mexico is a well-established practice that is also applied globally. Deliberation of reefing decommissioned platforms and many years of scientific study beneath California platforms has culminated in a California State law that now allows consideration of the concept. This paper summarizes the history, practices, published science, and available information involved when considering the reefing option. It is hoped that this material will inform the public, policy makers, and regulators about their upcoming decisions.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 126
+PUBLICATION YEAR: 2019
+TYPE: review
+CONCEPTS: ['Nuclear decommissioning', 'Reef', 'Engineering', 'Fishing', 'Fishery', 'Waste management', 'Biology']

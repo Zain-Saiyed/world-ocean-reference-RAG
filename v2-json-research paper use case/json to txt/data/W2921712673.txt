@@ -1,0 +1,12 @@
+ID: W2921712673
+TITLE: Dealing with the effects of ocean acidification on coral reefs in the Indian Ocean and Asia
+AUTHOR: ['Vicky W. Y. Lam', 'Suchana Chavanich', 'Salpie Djoundourian', 'Sam Dupont', 'Françoise Gaill', 'Guillaume Holzer', 'Kirsten Isensee', 'Stephen Katua', 'Frank Mars', 'Marc Métian', 'Jason M. Hall‐Spencer']
+ABSTRACT:
+Shallow coral reefs provide food, income, well-being and coastal protection to countries around the Indian Ocean and Asia. These reefs are under threat due to many anthropogenic stressors including pollution, sedimentation, overfishing, sea surface warming and habitat destruction. Ocean acidification interacts with these factors to exacerbate stress on coral reefs. Effective solutions in tackling the impact of ocean acidification require a thorough understanding of the current adaptive capacity of each nation to deal with the consequences. Here, we aim to help the decision-making process for policy makers in dealing with these future challenges at the regional and national levels. We recommend that a series of evaluations be made to understand the current status of each nation in this region in dealing with ocean acidification impacts by assessing the climate policy, education, policy coherence, related research activities, adaptive capacity of reef-dependent economic sectors and local management. Indonesia and Thailand, are selected as case studies. We also highlight general recommendations on mitigation and adaptation to ocean acidification impacts on coral reefs and propose well-designed research program would be necessary for developing a more targeted policy agenda in this region.
+
+SOURCE: Regional studies in marine science
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Coral reef', 'Overfishing', 'Reef', 'Effects of global warming on oceans', 'Coral bleaching', 'Coral reef protection', 'Climate change', 'Oceanography', 'Environmental science', 'Resilience of coral reefs', 'Fishery', 'Geography', 'Global warming', 'Environmental resource management', 'Fishing', 'Biology', 'Geology']

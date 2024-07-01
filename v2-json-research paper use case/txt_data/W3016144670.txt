@@ -1,0 +1,12 @@
+ID: W3016144670
+TITLE: Regulation of ion transport and energy metabolism enables certain coral genotypes to maintain calcification under experimental ocean acidification
+AUTHOR: ['Amanda Glazier', 'Santiago Herrera', 'Alexis M. Weinnig', 'Melissa Kurman', 'Carlos E. Gómez', 'Erik E. Cordes']
+ABSTRACT:
+Abstract Cold‐water corals (CWCs) are important foundation species in the world's largest ecosystem, the deep sea. They support a rich faunal diversity but are threatened by climate change and increased ocean acidification. As part of this study, fragments from three genetically distinct Lophelia pertusa colonies were subjected to ambient pH (pH = 7.9) and low pH (pH = 7.6) for six months. RNA was sampled at two, 4.5, and 8.5 weeks and sequenced. The colony from which the fragments were sampled explained most of the variance in expression patterns, but a general pattern emerged where upregulation of ion transport, required to maintain normal function and calcification, was coincident with lowered expression of genes involved in metabolic processes; RNA regulation and processing in particular. Furthermore, there was no differential expression of carbonic anhydrase detected in any analyses, which agrees with a previously described lack of response in enzyme activity in the same corals. However, one colony was able to maintain calcification longer than the other colonies when exposed to low pH and showed increased expression of ion transport genes including proton transport and expression of genes associated with formation of microtubules and the organic matrix, suggesting that certain genotypes may be better equipped to cope with ocean acidification in the future. While these genotypes exist in the contemporary gene pool, further stresses would reduce the genetic variability of the species, which would have repercussions for the maintenance of existing populations and the ecosystem as a whole.
+
+SOURCE: Molecular ecology
+PDF URL: None
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Biology', 'Foundation species', 'Ecosystem', 'Ecology', 'Carbonic anhydrase', 'Biochemistry', 'Seawater', 'Enzyme']

@@ -1,0 +1,12 @@
+ID: W2937528935
+TITLE: Actinobacteria Isolated From Laminaria ochroleuca: A Source of New Bioactive Compounds
+AUTHOR: ['Mariana Girão', 'Inês Ribeiro', 'Tiago Ribeiro', 'Isabel C. Azevedo', 'Filipe Pereira', 'Ralph Urbatzka', 'Pedro N. Leão', 'Maria de Fátima Carvalho']
+ABSTRACT:
+Nature is the major reservoir of biologically active molecules. The urgent need of finding novel molecules for pharmaceutical application is prompting the research of underexplored environments, such as marine ecosystems. Here, we investigated cultivable actinobacteria associated with the macroalgae Laminaria ochroleuca and assessed their potential to produce compounds with antimicrobial or anticancer activities. A specimen of L. ochroleuca was collected in a rocky shore in northern Portugal, and fragments of tissues from different parts of the macroalgae (holdfast, stipe, and blades) were surface sterilized and plated in three culture media selective for actinobacteria. A total of 90 actinobacterial strains were isolated, most of which affiliated with the genus Streptomyces. Isolates associated with the genera Isoptericola, Rhodococcus, Nonomuraeae, Nocardiopsis, Microbispora, and Microbacterium were also obtained. Organic extracts from the isolates were tested for their antimicrobial activity using the agar-based disk diffusion method, followed by determination of minimum inhibitory concentration (MIC) values. Forty-five isolates inhibited the growth of Candida albicans and/or Staphylococcus aureus, with MIC values ranging from <0.5 to 1000 μg mL-1. The actinobacterial isolates were also tested for their anticancer potential on two human cancer cell lines. Twenty-eight extracts affected the viability of at least one human cancer cell line (breast carcinoma T-47D and neuroblastoma SH-SY5Y) and non-carcinogenic endothelial cell line (hCMEC/D3). Seven extracts affected the viability of cancer cells only. This study revealed that L. ochroleuca is a rich source of actinobacteria with promising antimicrobial and anticancer activities and suggests that macroalgae may be a valuable source of actinobacteria and, consequently, of new molecules with biotechnological importance.
+
+SOURCE: Frontiers in microbiology
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmicb.2019.00683/pdf
+CITED BY COUNT: 57
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Actinobacteria', 'Laminaria', 'Botany', 'Chemistry', 'Biology', 'Biochemistry', 'Algae', 'Gene', '16S ribosomal RNA']

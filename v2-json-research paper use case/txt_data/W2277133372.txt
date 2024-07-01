@@ -1,0 +1,12 @@
+ID: W2277133372
+TITLE: Ocean acidification impairs crab foraging behaviour
+AUTHOR: ['Luke Dodd', 'Jonathan H. Grabowski', 'Michael F. Piehler', 'Isaac Westfield', 'Justin B. Ries']
+ABSTRACT:
+Anthropogenic elevation of atmospheric CO2 is driving global-scale ocean acidification, which consequently influences calcification rates of many marine invertebrates and potentially alters their susceptibility to predation. Ocean acidification may also impair an organism's ability to process environmental and biological cues. These counteracting impacts make it challenging to predict how acidification will alter species interactions and community structure. To examine effects of acidification on consumptive and behavioural interactions between mud crabs (Panopeus herbstii) and oysters (Crassostrea virginica), oysters were reared with and without caged crabs for 71 days at three pCO2 levels. During subsequent predation trials, acidification reduced prey consumption, handling time and duration of unsuccessful predation attempt. These negative effects of ocean acidification on crab foraging behaviour more than offset any benefit to crabs resulting from a reduction in the net rate of oyster calcification. These findings reveal that efforts to evaluate how acidification will alter marine food webs should include quantifying impacts on both calcification rates and animal behaviour.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2015.0333
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Foraging', 'Predation', 'Crassostrea', 'Oyster', 'Biology', 'Invertebrate', 'Ecology', 'Effects of global warming on oceans', 'Fishery', 'Escape response', 'Environmental science', 'Climate change', 'Global warming']

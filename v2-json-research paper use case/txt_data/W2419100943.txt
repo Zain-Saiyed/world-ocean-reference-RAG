@@ -1,0 +1,12 @@
+ID: W2419100943
+TITLE: Linking rapid erosion of the Mekong River delta to human activities
+AUTHOR: ['Edward J. Anthony', 'Guillaume Brunier', 'Manon Besset', 'Marc Goichot', 'Philippe Dussouillez', 'Van Lap Nguyen']
+ABSTRACT:
+Abstract As international concern for the survival of deltas grows, the Mekong River delta, the world’s third largest delta, densely populated, considered as Southeast Asia’s most important food basket and rich in biodiversity at the world scale, is also increasingly affected by human activities and exposed to subsidence and coastal erosion. Several dams have been constructed upstream of the delta and many more are now planned. We quantify from high-resolution SPOT 5 satellite images large-scale shoreline erosion and land loss between 2003 and 2012 that now affect over 50% of the once strongly advancing &gt;600 km-long delta shoreline. Erosion, with no identified change in the river’s discharge and in wave and wind conditions over this recent period, is consistent with: (1) a reported significant decrease in coastal surface suspended sediment from the Mekong that may be linked to dam retention of its sediment, (2) large-scale commercial sand mining in the river and delta channels and (3) subsidence due to groundwater extraction. Shoreline erosion is already responsible for displacement of coastal populations. It is an additional hazard to the integrity of this Asian mega delta now considered particularly vulnerable to accelerated subsidence and sea-level rise and will be exacerbated by future hydropower dams.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep14745.pdf
+CITED BY COUNT: 392
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Delta', 'River delta', 'Coastal erosion', 'Shore', 'Erosion', 'Subsidence', 'Hydropower', 'Environmental science', 'Hydrology (agriculture)', 'Physical geography', 'Geology', 'Geography', 'Oceanography', 'Ecology', 'Geomorphology', 'Geotechnical engineering', 'Structural basin', 'Engineering', 'Biology', 'Aerospace engineering']

@@ -1,0 +1,12 @@
+ID: W2158863451
+TITLE: Temperature, resources, and phytoplankton size structure in the ocean
+AUTHOR: ['Emilio Marañón', 'Pedro Cermeño', 'Mikel Latasa', 'Rémy D. Tadonléké']
+ABSTRACT:
+We conducted a meta‐analysis of temperature, phytoplankton size structure, and productivity in cold, temperate, and warm waters of the world's oceans. Our data set covers all combinations of temperature and resource availability, thus allowing us to disentangle their effects. The partitioning of biomass between different size classes is independent of temperature, but depends strongly on the rate of resource use as reflected in the rate of primary production. Temperature and primary production explained 2% and 62%, respectively, of the variability in the contribution of microphytoplankton to total biomass. This contribution increases rapidly with total biomass and productivity, reaching values &gt; 80% when chlorophyll a concentration is &gt; 2 µg L −1 or primary production is &gt; 100 µg C L −1 d −1 , irrespective of water temperature. Conversely, picophytoplankton contribution is substantial (&gt; 40%), at all temperatures, only when chlorophyll a concentration is &lt; 1 µg L −1 or primary production is &lt; 50 µg C L −1 d −1 . The temperature‐size rule cannot explain these changes, which instead reflect fundamental reorganizations in the species composition of the assemblage, arising from taxon‐ and size‐dependent differences in resource acquisition and use. Given that resource availability, rather than temperature per se, is the key factor explaining the relative success of different algal size classes, there will be no single, universal effect of global warming on phytoplankton size structure.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.2012.57.5.1266
+CITED BY COUNT: 171
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Biomass (ecology)', 'Temperate climate', 'Primary productivity', 'Productivity', 'Chlorophyll a', 'Primary producers', 'Environmental science', 'Atmospheric sciences', 'Primary production', 'Growth rate', 'Ecology', 'Resource (disambiguation)', 'Biology', 'Oceanography', 'Nutrient', 'Ecosystem', 'Botany', 'Mathematics', 'Physics', 'Geology', 'Computer network', 'Geometry', 'Computer science', 'Economics', 'Macroeconomics']

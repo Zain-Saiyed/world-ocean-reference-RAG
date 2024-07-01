@@ -1,0 +1,12 @@
+ID: W2113064716
+TITLE: Microzooplankton production in the oceans
+AUTHOR: ['Michael R. Landry', 'Albert Calbet']
+ABSTRACT:
+Abstract A literature synthesis of phytoplankton growth (μ) and grazing (m) rate estimates from dilution experiments reveals that microzooplankton account for most phytoplankton mortality in the oceans, averaging 60–75% of daily phytoplankton production (PP) across a spectrum of open-ocean and coastal systems. For reasonable estimates of gross growth efficiency (GGE=30–40%), such impacts imply that secondary production rates of microzooplankton (MP2°) are typically in the range 21–34% of PP. However, multiple trophic transfers within the microbial community can further enhance total microzooplankton production by an additional third to a half (MPtot=28–55% of PP). These estimates are 2–5 times typical values for bacterial production (10–15% of PP). Thus, in aggregate and on average, microzooplankton consume substantially more (6–7 times) production from phytoplankton than from heterotrophic bacteria. High grazing impacts and relatively high GGEs are consistent with population growth rates for microzooplankton and phytoplankton that are roughly equivalent under ambient conditions, which may be requisite for grazing regulation. Transfer efficiencies of microzooplankton production to mesozooplankton depend critically on the number of predatory interactions among micro-consumers, and may be one way in which systems differ substantially. Overall, the ability to quantify microzooplankton production in terms of more broadly measured rates of PP provides a potential avenue for broadening our understanding of ocean community dynamics through remote sensing and modelling.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/61/4/501/29122375/61-4-501.pdf
+CITED BY COUNT: 183
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Trophic level', 'Zooplankton', 'Environmental science', 'Grazing', 'Heterotroph', 'Production (economics)', 'Microbial loop', 'Oceanography', 'Ecology', 'Biology', 'Nutrient', 'Bacteria', 'Economics', 'Genetics', 'Macroeconomics', 'Geology']

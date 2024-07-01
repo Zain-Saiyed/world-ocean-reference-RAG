@@ -1,0 +1,12 @@
+ID: W2216244657
+TITLE: Under Pressure: Climate Change, Upwelling, and Eastern Boundary Upwelling Ecosystems
+AUTHOR: ['Marisol García‐Reyes', 'William J. Sydeman', 'David S. Schoeman', 'Ryan R. Rykaczewski', 'Bryan A. Black', 'Albertus J. Smit', 'Steven J. Bograd']
+ABSTRACT:
+The IPCC AR5 provided an overview of the likely effects of climate change on Eastern Boundary Upwelling Systems (EBUS), stimulating increased interest in research examining the issue. We use these recent studies to develop a new synthesis describing climate change impacts on EBUS. We find that model and observational data suggest coastal upwelling-favorable winds in poleward portions of EBUS have intensified and will continue to do so in the future. Although evidence is weak in data that are presently available, future projections show that this pattern might be driven by changes in the positioning of the oceanic high-pressure systems rather than by deepening of the continental low-pressure systems, as previously proposed. There is low confidence regarding the future effects of climate change on coastal temperatures and biogeochemistry due to uncertainty in the countervailing responses to increasing upwelling and coastal warming, the latter of which could increase thermal stratification and render upwelling less effective in lifting nutrient-rich deep waters into the photic zone. Although predictions of ecosystem responses are uncertain, EBUS experience considerable natural variability and may be inherently resilient. However, multi-trophic level, end-to-end (i.e., "winds to whales") studies are needed to resolve the resilience of EBUS to climate change, especially their response to long-term trends or extremes that exceed pre-industrial ranges.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2015.00109/pdf
+CITED BY COUNT: 177
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Upwelling', 'Climate change', 'Environmental science', 'Ecosystem', 'Global warming', 'Oceanography', 'Climatology', 'Marine ecosystem', 'Downscaling', 'Geology', 'Ecology', 'Biology']

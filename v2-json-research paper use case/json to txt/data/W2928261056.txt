@@ -1,0 +1,12 @@
+ID: W2928261056
+TITLE: Population growth of an endangered pinniped—the New Zealand sea lion (Phocarctos hookeri)—is limited more by high pup mortality than fisheries bycatch
+AUTHOR: ['Sheryl Hamilton', 'G. Barry Baker']
+ABSTRACT:
+Abstract The endangered New Zealand sea lion, Phocarctos hookeri is killed as incidental bycatch in a trawl fishery operating near their second largest population on Campbell Island in New Zealand’s sub-Antarctic. Using the Potential Biological Removal (PBR) procedure to assess the sustainability of this bycatch for the sea lion population on Campbell Island indicated that annual bycatch estimates, particularly following the implementation of bycatch mitigation measures, are below the PBR threshold of 25 (derived using a precautionary approach). Preliminary Population Viability Analysis (PVA) modelling supported the finding that current bycatch levels, especially given a strong male bias (98%) in bycatch, are sustainable for this population. Models showed that reducing pup mortality through management actions, such as installing ramps in wallows where large numbers of pups drown, would lead to increased population growth. While obtaining more accurate data on population status and demographic parameters for the Campbell Island population should be a priority, this will take many years of research. The PBR and PVA tools demonstrate that contemporary conservation management should continue to focus on increasing pup survival while maintaining mitigation approaches that have reduced bycatch to low levels, together with high observer coverage to sustain confidence in annual bycatch estimates.
+
+SOURCE: ICES journal of marine science
+PDF URL: None
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Bycatch', 'Fishery', 'Endangered species', 'Population', 'Population viability analysis', 'Population growth', 'Geography', 'Sustainability', 'Biology', 'Ecology', 'Fishing', 'Demography', 'Sociology']

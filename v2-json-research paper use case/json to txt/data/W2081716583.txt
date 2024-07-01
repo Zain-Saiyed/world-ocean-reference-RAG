@@ -1,0 +1,12 @@
+ID: W2081716583
+TITLE: Truth and consequences: the bioinvasion of the Mediterranean Sea
+AUTHOR: ['Bella S. Galil']
+ABSTRACT:
+Over 660 alien marine multicellular species have been recorded in the Mediterranean Sea, with many establishing viable populations and subsequently dispersing from their points of entry. A brief overview is presented of the current state of knowledge of bioinvasions in the Mediterranean Sea, with particular attention paid to gelatinous invasive species. A database of alien species records was used to characterize their identity, pattern of expansion and native region, and to discuss the relative importance of different taxa and vectors in the various regions of the sea. The temporal and spatial spread of 4 alien scyphozoans and 2 alien ctenophores is outlined. Although thermophilic species constitute the majority of Mediterranean aliens, Erythrean aliens are predominant in the east, with shipping and mariculture being mainly responsible for introductions in the northwest. The propagule pressure driving the Erythrean invasion is powerful in the establishment and spread of alien species in the eastern Mediterranean. The implications of the enlargement of the Suez Canal, reflecting patterns in global trade and economy, are briefly discussed. Finally, as alien species inventories play a pivotal role in informing regional policy and management decisions and identifying resource priorities, the scientific community is called upon to pay particular attention to their accuracy and veracity.
+
+SOURCE: Integrative Zoology
+PDF URL: None
+CITED BY COUNT: 62
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Alien', 'Propagule pressure', 'Mediterranean sea', 'Invasive species', 'Mediterranean climate', 'Introduced species', 'Geography', 'Alien species', 'Ecology', 'Mariculture', 'Suez canal', 'Biology', 'Biological dispersal', 'Fishery', 'Fish <Actinopterygii>', 'Political science', 'Business', 'International trade', 'Aquaculture', 'Population', 'Demography', 'Sociology', 'Politics', 'Citizenship', 'Law']

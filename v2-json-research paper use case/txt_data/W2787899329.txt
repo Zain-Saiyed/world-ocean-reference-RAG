@@ -1,0 +1,12 @@
+ID: W2787899329
+TITLE: Marine microbes in 4D — using time series observation to assess the dynamics of the ocean microbiome and its links to ocean health
+AUTHOR: ['Pier Luigi Buttigieg', 'Eduard Fadeev', 'Christina Bienhold', 'Laura Hehemann', 'Pierre Offre', 'Antje Boëtius']
+ABSTRACT:
+Microbial observation is of high relevance in assessing marine phenomena of scientific and societal concern including ocean productivity, harmful algal blooms, and pathogen exposure. However, we have yet to realise its potential to coherently and comprehensively report on global ocean status. The ability of satellites to monitor the distribution of phytoplankton has transformed our appreciation of microbes as the foundation of key ecosystem services; however, more in-depth understanding of microbial dynamics is needed to fully assess natural and anthropogenically induced variation in ocean ecosystems. While this first synthesis shows that notable efforts exist, vast regions such as the ocean depths, the open ocean, the polar oceans, and most of the Southern Hemisphere lack consistent observation. To secure a coordinated future for a global microbial observing system, existing long-term efforts must be better networked to generate shared bioindicators of the Global Ocean's state and health.
+
+SOURCE: Current opinion in microbiology
+PDF URL: None
+CITED BY COUNT: 51
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Marine ecosystem', 'Biology', 'Ecosystem', 'Marine biology', 'Ocean observations', 'Microbiome', 'Ecology', 'Pelagic zone', 'Southern Hemisphere', 'Oceanography', 'Environmental resource management', 'Environmental science', 'Bioinformatics', 'Geology', 'Nutrient']

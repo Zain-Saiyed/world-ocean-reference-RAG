@@ -1,0 +1,12 @@
+ID: W3034302116
+TITLE: OES-Environmental 2020 State of the Science Report: Environmental Effects of Marine Renewable Energy Development Around the World. Report for Ocean Energy Systems (OES)
+AUTHOR: ['Andrea Copping', 'Lenaïg G. Hemery']
+ABSTRACT:
+This report summarizes the state of the science related to marine renewable energy devices and their interactions with and effects on the marine environment, the animals that live there, and the habitats that support them. This report serves an update and a complement to the 2016 Annex IV report. https://tethys.pnnl.gov/publications/state-of-the-science-2020
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2020
+TYPE: report
+CONCEPTS: ['Renewable energy', 'Environmental research', 'Marine energy', 'Environmental science', 'Marine habitats', 'Oceanography', 'Habitat', 'Ecology', 'Environmental resource management', 'Biology', 'Geology']

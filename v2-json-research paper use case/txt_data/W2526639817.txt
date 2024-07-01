@@ -1,0 +1,12 @@
+ID: W2526639817
+TITLE: Ecological impacts of non-native Pacific oysters (Crassostrea gigas) and management measures for protected areas in Europe
+AUTHOR: ['Roger J.H. Herbert', 'John Humphreys', 'Clare Davies', 'Caroline M. Roberts', 'Stephen Fletcher', 'Tasman P. Crowe']
+ABSTRACT:
+Pacific oysters are now one of the most ‘globalised’ marine invertebrates. They dominate bivalve aquaculture production in many regions and wild populations are increasingly becoming established, with potential to displace native species and modify habitats and ecosystems. While some fishing communities may benefit from wild populations, there is now a tension between the continued production of Pacific oysters and risk to biodiversity, which is of particular concern within protected sites. The issue of the Pacific oyster therefore locates at the intersection between two policy areas: one concerning the conservation of protected habitats, the other relating to livelihoods and the socio-economics of coastal aquaculture and fishing communities. To help provide an informed basis for management decisions, we first summarise evidence for ecological impacts of wild Pacific oysters in representative coastal habitats. At local scales, it is clear that establishment of Pacific oysters can significantly alter diversity, community structure and ecosystem processes, with effects varying among habitats and locations and with the density of oysters. Less evidence is available to evaluate regional-scale impacts. A range of management measures have been applied to mitigate negative impacts of wild Pacific oysters and we develop recommendations which are consistent with the scientific evidence and believe compatible with multiple interests. We conclude that all stakeholders must engage in regional decision making to help minimise negative environmental impacts, and promote sustainable industry development.
+
+SOURCE: Biodiversity and conservation
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs10531-016-1209-4.pdf
+CITED BY COUNT: 99
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Fishery', 'Habitat', 'Biodiversity', 'Fishing', 'Aquaculture', 'Pacific oyster', 'Ecology', 'Ecosystem', 'Oyster', 'Invertebrate', 'Marine protected area', 'Crassostrea', 'Marine habitats', 'Geography', 'Biology', 'Fish <Actinopterygii>']

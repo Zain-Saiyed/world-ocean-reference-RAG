@@ -1,0 +1,12 @@
+ID: W2094778117
+TITLE: The implications of Arctic sea ice decline on shipping
+AUTHOR: ['Joshua Ho']
+ABSTRACT:
+Although a ‘blue’ Arctic Ocean is predicted in the summertime to occur from the middle of this century, current rates of warming indicate an earlier realization. Also, routes along the coast of Siberia will be navigable much earlier. However, before the Arctic routes can reliably be used on a large scale for transit by shipping along its passages, more investments are required on infrastructure and the provision of marine services to ensure the safe and secure transit of shipping with minimal environmental impact.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 105
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Transit (satellite)', 'Arctic', 'The arctic', 'Environmental science', 'Oceanography', 'Arctic ice pack', 'Scale (ratio)', 'Current (fluid)', 'Climatology', 'Physical geography', 'Geography', 'Geology', 'Transport engineering', 'Public transport', 'Engineering', 'Cartography']

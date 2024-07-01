@@ -1,0 +1,12 @@
+ID: W2008644502
+TITLE: Rapidly Measured Indicators of Recreational Water Quality Are Predictive of Swimming-Associated Gastrointestinal Illness
+AUTHOR: ['Timothy J. Wade', 'Rebecca L. Calderon', 'Elizabeth Sams', 'Michael J. Beach', 'Kristen P. Brenner', 'Amy Williams', 'Alfred Dufour']
+ABSTRACT:
+Standard methods to measure recreational water quality require at least 24 hr to obtain results, making it impossible to assess the quality of water within a single day. Methods to measure recreational water quality in <or=2 hr have been developed. Application of rapid methods could give considerably more accurate and timely assessments of recreational water quality. We conducted a prospective study of beachgoers at two Great Lakes beaches to examine the association between recreational water quality, obtained using rapid methods, and gastrointestinal (GI) illness after swimming. Beachgoers were asked about swimming and other beach activities and 10-12 days later were asked about the occurrence of GI symptoms. We tested water samples for Enterococcus and Bacteroides species using the quantitative polymerase chain reaction (PCR) method. We observed significant trends between increased GI illness and Enterococcus at the Lake Michigan beach and a positive trend for Enterococcus at the Lake Erie beach. The association remained significant for Enterococcus when the two beaches were combined. We observed a positive trend for Bacteroides at the Lake Erie beach, but no trend was observed at the Lake Michigan beach. Enterococcus samples collected at 0800 hr were predictive of GI illness that day. The association between Enterococcus and illness strengthened as time spent swimming in the water increased. This is the first study to show that water quality measured by rapid methods can predict swimming-associated health effects.
+
+SOURCE: Environmental health perspectives
+PDF URL: None
+CITED BY COUNT: 374
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Recreation', 'Water quality', 'Enterococcus', 'Environmental health', 'Medicine', 'Environmental science', 'Biology', 'Ecology', 'Microbiology', 'Antibiotics']

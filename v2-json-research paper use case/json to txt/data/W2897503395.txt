@@ -1,0 +1,12 @@
+ID: W2897503395
+TITLE: A Methodology to Characterize Riverine Macroplastic Emission Into the Ocean
+AUTHOR: ['Tim van Emmerik', 'Thuy-Chung Kieu-Le', 'Michelle Loozen', 'Kees van Oeveren', 'Emilie Strady', 'Xuan‐Thanh Bui', 'Matthias Egger', 'Johnny Gaspéri', 'Laurent Lebreton', 'Phuoc‐Dan Nguyen', 'Anna Schwarz', 'Boyan Slat', 'Bruno Tassin']
+ABSTRACT:
+Land-based macroplastic is considered one of the major sources of marine plastic debris. However, estimations of plastic emission from rivers into the oceans remain scarce and uncertain, mainly due to a severe lack of standardized observations. To properly assess global plastic fluxes, detailed information on spatiotemporal variation in river plastic quantities and composition are urgently needed. In this paper, we present a new methodology to characterize riverine macroplastic dynamics. The proposed methodology was applied to estimate the plastic emission from the Saigon River, Vietnam. During a two-week period, hourly cross-sectional profiles of plastic transport were made across the river width. Simultaneously, sub-hourly samples were taken to determine the weight, size and composition of riverine macroplastics (>5cm). Finally, extrapolation of the observations based on available hydrological data yielded new estimates of daily, monthly and annual macroplastic emission into the ocean. Our results suggest that plastic emissions from the Saigon River are up to 4 times higher than previously estimated. Importantly, our flexible methodology can be adapted to local hydrological circumstances and data availability, thus enabling a consistent characterization of macroplastic dynamics in rivers worldwide. Such data will provide crucial knowledge for the optimization of future mediation and recycling efforts.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00372/pdf
+CITED BY COUNT: 173
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Environmental science', 'Debris', 'Extrapolation', 'Climatology', 'Hydrology (agriculture)', 'Meteorology', 'Geography', 'Geology', 'Mathematics', 'Geotechnical engineering', 'Mathematical analysis']

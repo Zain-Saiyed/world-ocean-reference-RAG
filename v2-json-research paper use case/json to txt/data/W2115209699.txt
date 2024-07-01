@@ -1,0 +1,12 @@
+ID: W2115209699
+TITLE: Transformations in methane hydrates
+AUTHOR: ['I‐Ming Chou', 'Anurag Sharma', 'Robert C. Burruss', 'Jinfu Shu', 'Ho‐kwang Mao', 'Russell J. Hemley', 'Alexander F. Goncharov', 'Laura A. Stern', 'Stephen H. Kirby']
+ABSTRACT:
+Detailed study of pure methane hydrate in a diamond cell with in situ optical, Raman, and x-ray microprobe techniques reveals two previously unknown structures, structure II and structure H, at high pressures. The structure II methane hydrate at 250 MPa has a cubic unit cell of a = 17.158(2) A and volume V = 5051.3(13) A(3); structure H at 600 MPa has a hexagonal unit cell of a = 11.980(2) A, c = 9.992(3) A, and V = 1241.9(5) A(3). The compositions of these two investigated phases are still not known. With the effects of pressure and the presence of other gases in the structure, the structure II phase is likely to dominate over the known structure I methane hydrate within deep hydrate-bearing sediments underlying continental margins.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 181
+PUBLICATION YEAR: 2000
+TYPE: article
+CONCEPTS: ['Methane', 'Hydrate', 'Clathrate hydrate', 'Microprobe', 'Raman spectroscopy', 'Electron microprobe', 'Crystal structure', 'Phase (matter)', 'Chemistry', 'Mineralogy', 'Natural gas', 'Crystallography', 'Materials science', 'Chemical engineering', 'Organic chemistry', 'Physics', 'Optics', 'Engineering']

@@ -1,0 +1,12 @@
+ID: W2416888298
+TITLE: Assessing the persistence of pharmaceuticals in the aquatic environment: Challenges and needs
+AUTHOR: ['Qingwei Bu', 'Xiao Shi', 'Gang Yu', 'Jun Huang', 'Bin Wang']
+ABSTRACT:
+Chemical’s persistence is known to be an important parameter applied for decades to identify persistent organic pollutants in hazard and/or risk assessments. Nevertheless it is greatly challenged in the case of emerging contaminants such as pharmaceuticals because the persistence of these chemicals could be more affected by environmental conditions. This fact brings more challenges to the current system for evaluating the persistence of chemical contaminants. In this paper, challenges in assessing the persistence of pharmaceuticals were identified, and more importantly research needs were addressed based on the existing data and knowledge.
+
+SOURCE: Emerging contaminants
+PDF URL: None
+CITED BY COUNT: 83
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Persistence (discontinuity)', 'Environmental science', 'Hazard', 'Pollutant', 'Risk analysis (engineering)', 'Biochemical engineering', 'Environmental planning', 'Business', 'Ecology', 'Engineering', 'Biology', 'Geotechnical engineering']

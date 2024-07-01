@@ -1,0 +1,12 @@
+ID: W2125303562
+TITLE: Climate change: a catalyst for global expansion of harmful cyanobacterial blooms
+AUTHOR: ['Hans W. Paerl', 'Jef Huisman']
+ABSTRACT:
+Summary Cyanobacteria are the Earth's oldest known oxygen‐evolving photosynthetic microorganisms, and they have had major impacts on shaping our current atmosphere and biosphere. Their long evolutionary history has enabled cyanobacteria to develop survival strategies and persist as important primary producers during numerous geochemical and climatic changes that have taken place on Earth during the past 3.5 billion years. Today, some cyanobacterial species form massive surface growths or ‘blooms’ that produce toxins, cause oxygen depletion and alter food webs, posing a major threat to drinking and irrigation water supplies, fishing and recreational use of surface waters worldwide. These harmful cyanobacteria can take advantage of anthropogenically induced nutrient over‐enrichment (eutrophication), and hydrologic modifications (water withdrawal, reservoir construction). Here, we review recent studies revealing that regional and global climatic change may benefit various species of harmful cyanobacteria by increasing their growth rates, dominance, persistence, geographic distributions and activity. Future climatic change scenarios predict rising temperatures, enhanced vertical stratification of aquatic ecosystems, and alterations in seasonal and interannual weather patterns (including droughts, storms, floods); these changes all favour harmful cyanobacterial blooms in eutrophic waters. Therefore, current mitigation and water management strategies, which are largely based on nutrient input and hydrologic controls, must also accommodate the environmental effects of global warming.
+
+SOURCE: Environmental microbiology reports
+PDF URL: None
+CITED BY COUNT: 1275
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Environmental science', 'Climate change', 'Global warming', 'Ecosystem', 'Algal bloom', 'Ecology', 'Dominance (genetics)', 'Cyanobacteria', 'Global change', 'Aquatic ecosystem', 'Phytoplankton', 'Nutrient', 'Biology', 'Biochemistry', 'Genetics', 'Gene', 'Bacteria']

@@ -1,0 +1,12 @@
+ID: W2341810800
+TITLE: Ecosystem services returned through seagrass restoration
+AUTHOR: ['Laura K. Reynolds', 'Michelle Waycott', 'Karen J. McGlathery', 'Robert J. Orth']
+ABSTRACT:
+Ecosystem restoration is often costly, but can be effective at increasing biodiversity and ecosystem services. We used a case study—reseeding seagrass to a coastal lagoon—to demonstrate the value of enhanced ecosystem services as a result of restoration. We modeled the recovery of areal plant coverage in a system where seagrasses were lost due to disease and disturbance, and estimated the value of the returned functions of nitrogen removal and carbon sequestration. We estimated, as of 2010, that this restoration removes 170 ton of nitrogen per year via denitrificiation and sequesters carbon at a rate of 630 tons carbon per year in the sediment. Further, we estimated that natural recovery would take more than 100 years to reach the areal coverage achieved by restoration using seeds in just 10 years. Restoration enhanced this recovery, and the earlier establishment of plants results in a net gain of at least 4,100 ton of nitrogen removed from the system via denitrification and 15,000 ton of carbon sequestered in the sediment. These services have significant ecological and societal value.
+
+SOURCE: Restoration ecology
+PDF URL: None
+CITED BY COUNT: 55
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seagrass', 'Environmental science', 'Ecosystem services', 'Carbon sequestration', 'Ecosystem', 'Restoration ecology', 'Blue carbon', 'Sediment', 'Disturbance (geology)', 'Biodiversity', 'Denitrification', 'Ecology', 'Nitrogen', 'Carbon dioxide', 'Biology', 'Chemistry', 'Paleontology', 'Organic chemistry']

@@ -1,0 +1,12 @@
+ID: W2608843927
+TITLE: Far-reaching transport of Pearl River plume water by upwelling jet in the northeastern South China Sea
+AUTHOR: ['Zhaoyun Chen', 'Jiayi Pan', 'Yuwu Jiang', 'Hui Lin']
+ABSTRACT:
+Satellite images from the Moderate Resolution Imaging Spectroradiometer (MODIS) show that there was a belt of turbid water appearing along an upwelling front near the Chinese coast of Guangdong, and indicate that the turbid water of the Pearl River plume water could be transported to a far-reaching area east of the Taiwan Bank. Numerical modeling results are consistent with the satellite observations, and reveal that a strong jet exists at the upwelling front with a speed as high as 0.8 m s− 1, which acts as a pathway for transporting the high-turbidity plume water. The dynamical analysis suggests that geostrophic equilibrium dominates in the upwelling front and plume areas, and the baroclinicity of the upwelling front resulting from the horizontal density gradient is responsible for the generation of the strong jet, which enhances the far-reaching transport of the terrigenous nutrient-rich water of the Pearl River plume. Model sensitivity analyses also confirm that this jet persists as long as the upwelling front exists, even when the wind subsides and becomes insignificant. Further idealized numerical model experiments indicate that the formation and persistence of the upwelling front jet depend on the forcing strength of the upwelling-favorable wind. The formation time of the jet varies from 15 to 158 h as the stress of the upwelling-favorable wind changes from 0.2 to 0.01 N m− 2. With the persistent transport of the nutrient-rich plume water, biophysical activities can be promoted significantly in the far-reaching destination area of the oligotrophic water.
+
+SOURCE: Journal of marine systems
+PDF URL: None
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Upwelling', 'Plume', 'Geology', 'Oceanography', 'Front (military)', 'Downwelling', 'Jet (fluid)', 'Environmental science', 'Climatology', 'Atmospheric sciences', 'Meteorology', 'Geography', 'Physics', 'Thermodynamics']

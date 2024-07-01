@@ -1,0 +1,12 @@
+ID: W2541810669
+TITLE: Evaluating the Benefits of Green Infrastructure for Coastal Areas: Location, Location, Location
+AUTHOR: ['Mary Ruckelshaus', 'Greg Guannel', 'Katherine Arkema', 'Gregory M. Verutes', 'Robert Griffin', 'Anne D. Guerry', 'Jess Silver', 'Joe Faries', 'Jorge Brenner', 'Amy Rosenthal']
+ABSTRACT:
+Coastal protection of communities and property using "green infrastructure" approaches is gaining popularity as the science and practice improve. Guidance is limited for decision makers interested in taking action to protect shorelines. Here, we offer practical guidance for decision makers interested in moving beyond generalities for coastal protection strategies. We present three case examples from the U.S. Gulf of Mexico and in Belize, each posing different questions, and thus using different approaches, to evaluate whether green infrastructure strategies could be useful. For basic questions about where habitat-based approaches are likely to add value, index-based models are useful in identifying priority areas for habitat protection or restoration. Process-based models are best used to examine strategies where the interest is in the likely magnitude of value from gray and green infrastructure approaches. Process-based models in coastal Texas demonstrate that marsh habitats are spatially variable in their ability to reduce the height and costs of levees necessary to protect property from storms and sea-level rise. Such spatial variation in the value of green infrastructure can be readily incorporated in a variety of decisions, allowing action now, before more science and lessons from applications emerge.
+
+SOURCE: Coastal management
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/08920753.2016.1208882?needAccess=true
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Habitat', 'Environmental resource management', 'Marsh', 'Popularity', 'Green infrastructure', 'Shore', 'Process (computing)', 'Variety (cybernetics)', 'Computer science', 'Environmental planning', 'Business', 'Geography', 'Environmental science', 'Wetland', 'Ecology', 'Fishery', 'Psychology', 'Social psychology', 'Artificial intelligence', 'Biology', 'Operating system']

@@ -1,0 +1,12 @@
+ID: W2740671980
+TITLE: Marine archaea and archaeal viruses under global change
+AUTHOR: ['Roberto Danovaro', 'Eugenio Rastelli', 'Cinzia Corinaldesi', 'Michael Tangherlini', 'Antonio Dell’Anno']
+ABSTRACT:
+<ns4:p>Global change is altering oceanic temperature, salinity, pH, and oxygen concentration, directly and indirectly influencing marine microbial food web structure and function. As microbes represent &gt;90% of the ocean’s biomass and are major drivers of biogeochemical cycles, understanding their responses to such changes is fundamental for predicting the consequences of global change on ecosystem functioning. Recent findings indicate that marine archaea and archaeal viruses are active and relevant components of marine microbial assemblages, far more abundant and diverse than was previously thought. Further research is urgently needed to better understand the impacts of global change on virus–archaea dynamics and how archaea and their viruses can interactively influence the ocean’s feedbacks on global change.</ns4:p>
+
+SOURCE: F1000Research
+PDF URL: https://f1000research.com/articles/6-1241/v1/pdf
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2017
+TYPE: preprint
+CONCEPTS: ['Archaea', 'Biogeochemical cycle', 'Biology', 'Global change', 'Ecology', 'Ecosystem', 'Marine ecosystem', 'Climate change', 'Bacteria', 'Genetics']

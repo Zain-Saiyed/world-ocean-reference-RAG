@@ -1,0 +1,12 @@
+ID: W3195038079
+TITLE: Poisonous and venomous: marine alien species in the Mediterranean Sea and human health.
+AUTHOR: ['Bella S. Galil']
+ABSTRACT:
+<title>Abstract</title> The Suez Canal is the main pathway of introduction of alien species into the Mediterranean Sea. Its successive enlargements left the entire sea prone to colonization by highly impacting invasive alien species, including poisonous and venomous ones. The temporal and spatial extent of occurrence in the Mediterranean Sea of nine species (fish, sea-urchin, jellyfish and stinging hydroid), the evidence of their impacts on human health in their native range, the frequency and severity of human health impacts in their introduced range are described, as well as management measures. This chapter aims to acquaint and forewarn the public, stake-holders and decision makers, and to urge the latter to take the necessary steps to control the pathways and vectors of introduction and prepare themselves for these new health hazards.
+
+SOURCE: CABI eBooks
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Alien', 'Mediterranean sea', 'Human health', 'Geography', 'Alien species', 'Range (aeronautics)', 'Mediterranean climate', 'Biology', 'Fishery', 'Ecology', 'Invasive species', 'Medicine', 'Environmental health', 'Engineering', 'Population', 'Census', 'Aerospace engineering']

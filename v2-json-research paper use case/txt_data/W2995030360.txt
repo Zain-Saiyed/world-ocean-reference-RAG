@@ -1,0 +1,12 @@
+ID: W2995030360
+TITLE: Spatiotemporal variability in microphytobenthic primary production across bare intertidal flat, saltmarsh, and mangrove forest of Asia and Australia
+AUTHOR: ['Bong-Oh Kwon', 'Hosang Kim', 'Junsung Noh', 'Joe Lee', 'Jungho Nam', 'Jong Seong Khim']
+ABSTRACT:
+The ecological role of intertidal microphytobenthos (MPB) is increasingly recognized in coastal production systems. MPB primary production (PP) measured in coastal wetlands of Korea, Cambodia, and Australia confirmed large variability at the global scale. Surprisingly, MPB biomass in mangrove forests almost doubled those measured in nearby bare tidal flats. However, MPB productivity (Pb) in vegetated habitats was significantly reduced (by ~50%) compared to that on bare tidal flats. Extensive measurements of MPB biomass, PP, and Pb across 12 Korean tidal flats revealed large spatiotemporal variations, suggesting complex sediment-MPB coupled dynamics. The key factors included sediment type, tide, bed elevation, irradiation, temperature, and vegetation. Winter MPB blooms and the elevated Pb seem to be unique characteristics of the Korean intertidal flats. The present study provides the baseline data of MPB PPs in mudflat, saltmarsh, and mangrove habitats in the highly productive zones of the Western Indo-Pacific Rim.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Intertidal zone', 'Mangrove', 'Salt marsh', 'Environmental science', 'Biomass (ecology)', 'Productivity', 'Intertidal ecology', 'Sediment', 'Wetland', 'Oceanography', 'Seagrass', 'Habitat', 'Ecology', 'Blue carbon', 'Ecosystem', 'Geology', 'Biology', 'Paleontology', 'Economics', 'Macroeconomics']

@@ -1,0 +1,12 @@
+ID: W2909324942
+TITLE: Ambient noise estimation in territorial waters using AIS data
+AUTHOR: ['Soubhagya Roul', 'Suthikshn Kumar', 'Arnab Das']
+ABSTRACT:
+Ambient noise in ocean is a complex combination of numerous types of natural and anthropogenic noise. The noise is dominant in all frequencies from 1 Hz to over 100 KHz with the various noise sources contributing in specific frequency bands as per their acoustic attributes. Various noise models have been developed for modelling the UW channel and for determining the nature sound propagates in such noisy environments. These models have been utilised in the signal processing backend in UW equipment. However, due to the spatio-temporal variations in the oceanographic parameters and presence of dynamic Shipping traffic, the mapping of the noise pattern is marred with high levels of inaccuracies and thus deviates from such noise models in the real time scenario. The primary objective of this paper is to establish a spatial ambient noise pattern in the territorial waters of the IOR region using the AIS data available with the Marine Traffic1 or the DGLL2. The ambient noise spatial map, could be used for earmarking and establishing areas for conduct of tuning/calibration of underwater sensors, submarine sonar trials and various other UW applications irrespective of the backend noise model that has been used. The map can be generated real time for specific noise frequencies when updated AIS data is available for the region.
+
+SOURCE: Applied acoustics
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Noise (video)', 'Ambient noise level', 'Sonar', 'Computer science', 'Environmental science', 'Submarine', 'Underwater', 'Sea trial', 'Noise measurement', 'Remote sensing', 'Acoustics', 'Calibration', 'Geology', 'Sound (geography)', 'Oceanography', 'Noise reduction', 'Artificial intelligence', 'Physics', 'Statistics', 'Mathematics', 'Image (mathematics)']

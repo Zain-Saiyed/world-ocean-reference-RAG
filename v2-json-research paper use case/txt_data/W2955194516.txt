@@ -1,0 +1,12 @@
+ID: W2955194516
+TITLE: Physical modelling of the response of reef islands to sea-level rise
+AUTHOR: ['Megan E. Tuck', 'Paul S. Kench', 'Murray R. Ford', 'Gerd Masselink']
+ABSTRACT:
+Abstract Sea-level rise and increased storminess are expected to destabilize low-lying reef islands formed on coral reef platforms, and increased flooding is expected to render them uninhabitable within the coming decades. Such projections are founded on the assumption that islands are geologically static landforms that will simply drown as sea-level rises. Here, we present evidence from physical model experiments of a reef island that demonstrates islands have the capability to morphodynamically respond to rising sea level through island accretion. Challenging outputs from existing models based on the assumption that islands are geomorphologically inert, results demonstrate that islands not only move laterally on reef platforms, but overwash processes provide a mechanism to build and maintain the freeboard of islands above sea level. Implications of island building are profound, as it will offset existing scenarios of dramatic increases in island flooding. Future predictive models must include the morphodynamic behavior of islands to better resolve flood impacts and future island vulnerability.
+
+SOURCE: Geology
+PDF URL: None
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Reef', 'Geology', 'Overwash', 'Oceanography', 'Sea level rise', 'Coral reef', 'Sea level', 'Flooding (psychology)', 'Freeboard', 'Coastal flood', 'Coastal geography', 'Storm surge', 'Barrier island', 'Storm', 'Shore', 'Climate change', 'Psychology', 'Engineering', 'Fluidized bed', 'Waste management', 'Psychotherapist']

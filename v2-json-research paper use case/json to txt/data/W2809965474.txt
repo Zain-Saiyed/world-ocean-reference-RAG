@@ -1,0 +1,12 @@
+ID: W2809965474
+TITLE: Coastal landscape planning for improving the value of ecosystem services in coastal areas: Using system dynamics model
+AUTHOR: ['Soojin You', 'Min Kim', 'Junga Lee', 'Jinhyung Chon']
+ABSTRACT:
+Coastal areas provide important ecosystem services and affect local tourism. However, these areas are also sensitive to coastal erosion. The purpose of this study was to simulate a landscape plan scenario to improve the value of ecosystem services. The Shinduri coastal area in South Korea which has important natural resources, such as coastal sand dunes and coastal forests. To simulate landscape changes, this study was conducted using system dynamics. The study progressed in three stages: first, an analysis of the landscape change behavior model of Shinduri in its current state and an evaluation of the value of ecosystem services was conducted. Second, a simulation was carried out by applying a coastal erosion scenario. Third, a simulation of landscape change was run, and the value of ecosystem services was estimated, with regard to afforestation, thinning, weeding and coastal sand dune restoration plan scenarios. The results were as follows: in the absence of disturbances, current landscape change models are stable, and the value of ecosystem services, which was $859,259 in 2014, has increased over time. However, the value of ecosystem services decreased when subjected to a coastal erosion scenario. The evaluation of value of ecosystem services under afforestation, thinning, weeding and coastal sand dune plan scenarios revealed an optimal landscape plan that focuses on a coastal sand dune restoration plan suggesting restoration of these dunes at a rate of 27.05 ha per year. When the coastal sand dune restoration plan is applied, the value of ecosystem services increases to $ 895,474 by 2054. The coastal sand dune restoration plan should prioritize the protection of the coastal sand dune area as component of the restoration of coastal ecological resources in the area. These findings could contribute to the ecological management and improvement of coastal ecosystem services.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Afforestation', 'Ecosystem', 'Environmental science', 'Coastal erosion', 'Environmental resource management', 'Sand dune stabilization', 'Erosion', 'Erosion control', 'Geography', 'Ecology', 'Agroforestry', 'Geology', 'Paleontology', 'Biology']

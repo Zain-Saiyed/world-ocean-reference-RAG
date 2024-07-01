@@ -1,0 +1,12 @@
+ID: W2967022105
+TITLE: Quantifying the impact of uncertainty on threat management for biodiversity
+AUTHOR: ['Sam Nicol', 'James Brazill‐Boast', 'Emma Gorrod', 'Adam McSorley', 'Nathalie Peyrard', 'Iadine Chadès']
+ABSTRACT:
+Abstract With inadequate resources to manage the threats facing biodiversity worldwide, achieving projected management outcomes is critical for efficient resource allocation and species recovery. Despite this, conservation plans to mitigate threats rarely articulate the likelihood of management success. Here we develop a general value of information approach to quantify the impact of uncertainty on 20 threatening processes affecting 976 listed species and communities. To our knowledge, this is the most comprehensive quantification of the impacts of uncertainty on threat management. We discover that, on average, removing uncertainty about management effectiveness could triple the gain in persistence achieved by managing under current uncertainty. Management of fire, invasive animals and a plant pathogen are most impeded by uncertainty; management of invasive plants is least impacted. Our results emphasise the tremendous importance of reducing uncertainty about species responses to management, and show that failure to consider management effectiveness wastes resources and impedes species recovery.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-019-11404-5.pdf
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Environmental resource management', 'Resource management (computing)', 'Business', 'Risk analysis (engineering)', 'Biodiversity conservation', 'Computer science', 'Environmental planning', 'Environmental science', 'Ecology', 'Biology', 'Computer network']

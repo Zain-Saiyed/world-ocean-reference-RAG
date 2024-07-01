@@ -1,0 +1,12 @@
+ID: W2049851793
+TITLE: Traditional Ecological Knowledge and the mapping of benthic marine habitats
+AUTHOR: ['João Batista Teixeira', 'Agnaldo Silva Martins', 'Hudson T. Pinheiro', 'Nélio Augusto Secchin', 'Rodrigo L. Moura', 'Alex Cardoso Bastos']
+ABSTRACT:
+Traditional Ecological Knowledge (TEK) is the empirically accumulated knowledge of local communities whose livelihoods depend directly on natural resources. TEK has a considerable potential as a reliable, rapid and low cost information source. However, its use for decision making in environmental management is frequently challenged due to the lack of scientific validation and the multiple and poorly understood biases deriving from measurement and analytical errors, as well as from political, cultural and religious sources. During the planning stage of a Marine Protected Area (MPA) in Southeastern Brazil we assessed fisherfolk TEK regarding seabed features, comparing it with results from a conventional oceanographic assessment. TEK was acquired and synthesized during a survey involving 19 fishing villages and a consensus analysis that minimized variation among individual fisherfolks and communities. The oceanographic survey included high resolution benthic habitat mapping tools such as sidescan sonar and ground-truthing with SCUBA near the interfaces of benthic features identified by fisherfolk. Nearly 3000 km2 of seafloor were mapped by local fisherfolk as “gravel”, “sand”, “mud” and “reef structures”, while side-scan sonar surveys covered approximately 360 km with an average 400 m swath. Analyses of overlap and proximity showed that TEK is relatively cost-effective and accurate for large-scale benthic surveys, especially as a starting point for planning oceanographic surveys. Moreover, including TEK in the planning stage of MPAs may increase communities' participation and understanding of the costs and benefits of the new access and fishing effort regulations.
+
+SOURCE: Journal of environmental management
+PDF URL: None
+CITED BY COUNT: 54
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Marine protected area', 'Benthic zone', 'Marine spatial planning', 'Fishing', 'Benthic habitat', 'Environmental resource management', 'Habitat', 'Side-scan sonar', 'Livelihood', 'Marine habitats', 'Geography', 'Benthos', 'Environmental science', 'Fishery', 'Oceanography', 'Ecology', 'Sonar', 'Geology', 'Archaeology', 'Biology', 'Agriculture']

@@ -1,0 +1,12 @@
+ID: W2792950337
+TITLE: Temporal Variability of Trichodesmium spp. and Diatom-Diazotroph Assemblages in the North Pacific Subtropical Gyre
+AUTHOR: ['Angelicque White', 'Katie S. Watkins-Brandt', 'Matthew J. Church']
+ABSTRACT:
+In oligotrophic ocean regions such as the North Pacific Subtropical Gyre (NPSG), N2 fixation (i.e. diazotrophy) by a diverse consortium of microorganisms has been shown to contribute significantly to new production and particle export. In 2015 and 2016, we measured near-monthly abundances of the large cell-sized (> 10 m) diazotrophic genera Trichodesmium and diatom-associated Richelia and Calothrix spp. in the NPSG via microscopy and quantitative PCR of nifH genes. Of these genera, we find Trichodesmium to be the more abundant over our study period, with cell concentrations in the upper water column (0-45 m) ranging from 1-5988 cells L-1, while the sum of Richelia and Calothrix spp. abundances ranged from 4-157 heterocysts L-1. Significant discrepancies between absolute abundances were noted between cell and gene-based approaches to biomass determination (nifH copies L-1 were up to 102-103 higher than cell concentrations). Potential explanations for these striking discrepancies are discussed. Using the maximum N2 fixation rates per cell found in the existing literature for these genera, we estimate potential N2 fixation rates via these large diazotroph communities to be between 0.01-1.5 nmol N L-1 d-1. When comparing these rates to available 15N2 tracer measurements, we conclude that large diazotrophs were generally minor (50% of measured N2 fixation rates. While these large cell-sized and heterogeneously distributed organisms may still disproportionately contribute to export, cell-abundance based rate estimates suggests that other diazotrophs are largely responsible for N2 fixation rates measured in bottle-based incubations.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00027/pdf
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Diazotroph', 'Trichodesmium', 'Diatom', 'Biology', 'Ocean gyre', 'Nitrogen fixation', 'Subtropics', 'Nitrogenase', 'Botany', 'Ecology', 'Genetics', 'Bacteria']

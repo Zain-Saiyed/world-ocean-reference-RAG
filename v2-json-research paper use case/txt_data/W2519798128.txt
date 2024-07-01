@@ -1,0 +1,12 @@
+ID: W2519798128
+TITLE: Occurrence of Toxigenic Vibrio cholerae O1 in Oysters in Mobile Bay, Alabama: An Ecological Investigation
+AUTHOR: ['Miles L. Motes', 'Angelo DePaola', 'Sabrina Zywno-van Ginkel', 'Merrill Mcphearson']
+ABSTRACT:
+Toxigenic Vibrio cholerae O1 Inaba, resembling the epidemic Latin American strains (C6706, C6707), was recovered from oysters taken from Mobile Bay, Alabama, on five separate occasions between July 1991 and September 1992. Levels of toxigenic V. cholerae in the oysters, estimated by the most probable number procedure, ranged from 101 to 107 per 100 g. Isolates characterized by pulsed field gel electrophoresis resembled isolates previously recovered from five cargo ships docked at Gulf of Mexico ports. This study details the first reported isolation of toxigenic V. cholerae O1 from oysters in U.S. coastal waters. As with the Gulf Coast strain, the occurrence of the epidemic strain seems to be sporadic and essentially limited to the warmer months.
+
+SOURCE: Journal of food protection
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 1994
+TYPE: article
+CONCEPTS: ['Bay', 'Vibrio cholerae', 'Vibrionaceae', 'Oyster', 'Biology', 'Shellfish', 'Vibrio', 'El Tor', 'Microbiology', 'Isolation (microbiology)', 'Fishery', 'Veterinary medicine', 'Geography', 'Aquatic animal', 'Bacteria', 'Fish <Actinopterygii>', 'Genetics', 'Archaeology', 'Medicine']

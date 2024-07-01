@@ -1,0 +1,12 @@
+ID: W2236035221
+TITLE: Using ecologically or biologically significant marine areas (EBSAs) to implement marine spatial planning
+AUTHOR: ['Piers K. Dunstan', 'Nicholas J. Bax', 'Jeffrey M. Dambacher', 'Keith R. Hayes', 'Paul Hedge', 'David C. Smith', 'Anthony D. M. Smith']
+ABSTRACT:
+The Convention on Biological Diversity (CBD) agreed in 2008 on the need to identify Ecologically or Biologically Significant Marine Areas (EBSAs) in the world's oceans to focus future conservation and management efforts. From 2010 to 2014, 9 workshops had described 204 areas meeting the EBSA criteria in approximately 68% of the world's oceans. The workshops comprised experts nominated by more than 100 governments and a similar number of regional and global non government and intergovernmental organizations, supported by a technical team that collated data and provided mapping expertise. Despite this progress, there is uncertainty about how to use EBSA in Marine Spatial Planning (MSP). We review a suite of the existing MSP, Ecosystem Based Management, fisheries and conservation frameworks to determine their common elements and suggest how they can be synthesized. We propose an adaptive hierarchical approach that takes key elements from existing frameworks and show how EBSA can be used to support this approach within national jurisdictions and in areas beyond national jurisdiction. The adaptive hierarchical process encourages early implementation of MSP/EBM using available scientific knowledge and governance and supports the gradual progress to more complex and information rich structures as needed and appropriate. The EBSA process provides a sound basis for developing the scientific advice to support national and international management of the world's oceans by identifying marine systems and the criteria for which they are valued by regional experts.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 77
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Convention on Biological Diversity', 'Marine protected area', 'Adaptive management', 'Environmental resource management', 'Marine spatial planning', 'Ecosystem-based management', 'Process (computing)', 'Jurisdiction', 'Environmental planning', 'Corporate governance', 'Government (linguistics)', 'Business', 'Geography', 'Biodiversity', 'Political science', 'Computer science', 'Ecology', 'Ecosystem', 'Environmental science', 'Habitat', 'Biology', 'Linguistics', 'Philosophy', 'Finance', 'Law', 'Operating system']

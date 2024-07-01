@@ -1,0 +1,12 @@
+ID: W2018291779
+TITLE: Global imprint of climate change on marine life
+AUTHOR: ['Elvira S. Poloczanska', 'Christopher J. Brown', 'William J. Sydeman', 'Wolfgang Kiessling', 'David S. Schoeman', 'Pippa J. Moore', 'Keith Brander', 'John F. Bruno', 'Lauren B. Buckley', 'Michael T. Burrows', 'Carlos M. Duarte', 'Benjamin S. Halpern', 'Johnna M. Holding', 'Carrie V. Kappel', 'Mary I. O’Connor', 'John M. Pandolfi', 'Camille Parmesan', 'Franklin B. Schwing', 'Sarah Thompson', 'Anthony J. Richardson']
+ABSTRACT:
+Research that combines all available studies of biological responses to regional and global climate change shows that 81–83% of all observations were consistent with the expected impacts of climate change. These findings were replicated across taxa and oceanic basins. Past meta-analyses of the response of marine organisms to climate change have examined a limited range of locations1,2, taxonomic groups2,3,4 and/or biological responses5,6. This has precluded a robust overview of the effect of climate change in the global ocean. Here, we synthesized all available studies of the consistency of marine ecological observations with expectations under climate change. This yielded a meta-database of 1,735 marine biological responses for which either regional or global climate change was considered as a driver. Included were instances of marine taxa responding as expected, in a manner inconsistent with expectations, and taxa demonstrating no response. From this database, 81–83% of all observations for distribution, phenology, community composition, abundance, demography and calcification across taxa and ocean basins were consistent with the expected impacts of climate change. Of the species responding to climate change, rates of distribution shifts were, on average, consistent with those required to track ocean surface temperature changes. Conversely, we did not find a relationship between regional shifts in spring phenology and the seasonality of temperature. Rates of observed shifts in species’ distributions and phenology are comparable to, or greater, than those for terrestrial systems.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 1636
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Climate change', 'Phenology', 'Global change', 'Ecology', 'Abundance (ecology)', 'Taxon', 'Environmental science', 'Global warming', 'Sea surface temperature', 'Effects of global warming', 'Geography', 'Climatology', 'Physical geography', 'Biology', 'Geology']

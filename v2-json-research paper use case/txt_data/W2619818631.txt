@@ -1,0 +1,12 @@
+ID: W2619818631
+TITLE: A global biogeographic classification of the mesopelagic zone
+AUTHOR: ['Tracey Sutton', 'Malcolm R. Clark', 'Daniel C. Dunn', 'Patrick N. Halpin', 'Alex D. Rogers', 'John M. Guinotte', 'Steven J. Bograd', 'Martín Angel', 'J. A. A. Perez', 'Karen F. Wishner', 'Richard L. Haedrich', 'Dhugal J. Lindsay', 'Jeffrey C. Drazen', 'Alexander L. Vereshchaka', 'Uwe Piatkowski', 'Telmo Morato', 'Katarzyna Błachowiak‐Samołyk', 'Bruce H. Robison', 'Kristina M. Gjerde', 'A.C. Pierrot-Bults', 'Patricio Bernal', 'Gabriel Reygondeau', 'Mikko Heino']
+ABSTRACT:
+We have developed a global biogeographic classification of the mesopelagic zone to reflect the regional scales over which the ocean interior varies in terms of biodiversity and function. An integrated approach was necessary, as global gaps in information and variable sampling methods preclude strictly statistical approaches. A panel combining expertise in oceanography, geospatial mapping, and deep-sea biology convened to collate expert opinion on the distributional patterns of pelagic fauna relative to environmental proxies (temperature, salinity, and dissolved oxygen at mesopelagic depths). An iterative Delphi Method integrating additional biological and physical data was used to classify biogeographic ecoregions and to identify the location of ecoregion boundaries or inter-regions gradients. We define 33 global mesopelagic ecoregions. Of these, 20 are oceanic while 13 are ‘distant neritic.’ While each is driven by a complex of controlling factors, the putative primary driver of each ecoregion was identified. While work remains to be done to produce a comprehensive and robust mesopelagic biogeography (i.e., reflecting temporal variation), we believe that the classification set forth in this study will prove to be a useful and timely input to policy planning and management for conservation of deep-pelagic marine resources. In particular, it gives an indication of the spatial scale at which faunal communities are expected to be broadly similar in composition, and hence can inform application of ecosystem-based management approaches, marine spatial planning and the distribution and spacing of networks of representative protected areas.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 194
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Mesopelagic zone', 'Pelagic zone', 'Biodiversity', 'Ecoregion', 'Geography', 'Ecology', 'Oceanography', 'Geology', 'Biology']

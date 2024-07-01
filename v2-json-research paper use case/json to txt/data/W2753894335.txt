@@ -1,0 +1,12 @@
+ID: W2753894335
+TITLE: Strong sustainability in coastal areas: a conceptual interpretation of SDG 14
+AUTHOR: ['Barbara Neumann', 'Konrad Ott', 'Richard Kenchington']
+ABSTRACT:
+Humans derive many tangible and intangible benefits from coastal areas, providing essential components for social and economic development especially of less developed coastal states and island states. At the same time, growing human and environmental pressures in coastal areas have significant impacts on coastal systems, requiring urgent attention in many coastal areas globally. Sustainable development goal (SDG) 14 of the 2030 Agenda for Sustainable Development (henceforth the 2030 Agenda) aims for conservation and sustainable use of the oceans, seas, and marine resources, explicitly considering coastal areas in two of its targets (14.2 and 14.5). These promote, as we argue in this article, a strong sustainability concept by addressing protection, conservation, and management of coastal ecosystems and resources. The 2030 Agenda adopts the so-called "three-pillar-model" but does not specify how to balance the economic, social, and environmental dimensions in cases of trade-offs or conflicts. By analysing SDG 14 for the underlying sustainability concept, we derive decisive arguments for a strong sustainability concept and for the integration of constraint functions to avoid depletion of natural capital of coastal areas beyond safe minimum standards. In potential negotiations, targets 14.2 and 14.5 ought to serve as constraints to such depletion. However, such a rule-based framework has challenges and pitfalls which need to be addressed in the implementation and policy process. We discuss these for coastal areas in the context of SDG 14 and provide recommendations for coastal governance and for the process ahead.
+
+SOURCE: Sustainability science
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs11625-017-0472-y.pdf
+CITED BY COUNT: 137
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sustainability', 'Sustainable development', 'Environmental resource management', 'Natural capital', 'Context (archaeology)', 'Environmental planning', 'Corporate governance', 'Marine conservation', 'Natural resource', 'Negotiation', 'Ecosystem services', 'Business', 'Geography', 'Ecosystem', 'Political science', 'Economics', 'Ecology', 'Archaeology', 'Law', 'Biology', 'Finance']

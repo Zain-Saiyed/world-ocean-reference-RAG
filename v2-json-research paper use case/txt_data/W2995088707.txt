@@ -1,0 +1,12 @@
+ID: W2995088707
+TITLE: Diet of the snow crab in the Barents Sea and macrozoobenthic communities in the area of its distribution
+AUTHOR: ['D. V. Zakharov', 'И. Е. Манушин', 'Н. А. Стрелкова', 'V. A. Pavlov', 'T. B. Nosova']
+ABSTRACT:
+Труды ВНИРО.Т
+
+SOURCE: Trudy VNIRO
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Snow', 'Fishery', 'Distribution (mathematics)', 'Oceanography', 'Environmental science', 'Geography', 'Biology', 'Meteorology', 'Geology', 'Mathematics', 'Mathematical analysis']

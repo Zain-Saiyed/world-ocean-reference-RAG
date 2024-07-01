@@ -1,0 +1,12 @@
+ID: W2922330197
+TITLE: Encouraging policy change for sustainable and resilient fisheries
+AUTHOR: ['Claire Delpeuch', 'Barbara Hutniczak']
+ABSTRACT:
+How can policy makers successfully implement the policy changes needed to achieve greater economic, social, and environmental sustainability and resilience? This report combines lessons from the available literature, discussions with experts and stakeholders, as well as information on past policy change processes. Results suggest that, over the last decade, changes to fisheries policy have largely been triggered by the performance of the sector itself and how it is perceived, particularly with respect to resource management and to socio-economic outcomes. Other important factors stand out, in particular initiatives by people in charge of fisheries management and legal commitments to adopt changes. Macroeconomic and macro-political factors, however, appear to have had less impact on fisheries policy than on other policy domains. Key recommendations are proposed to facilitate policy change in the future through better use of data, commitment mechanisms, non-sectoral policies, and consultation processes.
+
+SOURCE: OECD food, agriculture and fisheries working papers
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2019
+TYPE: paratext
+CONCEPTS: ['Sustainability', 'Business', 'Fisheries management', 'Psychological resilience', 'Fisheries law', 'Resilience (materials science)', 'Macro', 'Politics', 'Resource (disambiguation)', 'Environmental resource management', 'Public economics', 'Economics', 'Fishery', 'Political science', 'Ecology', 'Fishing', 'Psychology', 'Computer network', 'Physics', 'Computer science', 'Law', 'Psychotherapist', 'Biology', 'Programming language', 'Thermodynamics']

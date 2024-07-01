@@ -1,0 +1,12 @@
+ID: W1995117380
+TITLE: The role of ecosystems in coastal protection: Adapting to climate change and coastal hazards
+AUTHOR: ['Mark Spalding', 'Susan Ruffo', 'Carmen Lacambra', 'Imèn Meliane', 'Lynne Zeitlin Hale', 'Christine C. Shepard', 'Michael W. Beck']
+ABSTRACT:
+Coastal ecosystems, particularly intertidal wetlands and reefs (coral and shellfish), can play a critical role in reducing the vulnerability of coastal communities to rising seas and coastal hazards, through their multiple roles in wave attenuation, sediment capture, vertical accretion, erosion reduction and the mitigation of storm surge and debris movement. There is growing understanding of the array of factors that affect the strength or efficacy of these ecosystem services in different locations, as well as management interventions which may restore or enhance such values. Improved understanding and application of such knowledge will form a critical part of coastal adaptation planning, likely reducing the need for expensive engineering options in some locations, and providing a complementary tool in hybrid engineering design. Irrespective of future climate change, coastal hazards already impact countless communities and the appropriate use of ecosystem-based adaptation strategies offers a valuable and effective tool for present-day management. Maintaining and enhancing coastal systems will also support the continued provision of other coastal services, including the provision of food and maintenance of coastal resource dependent livelihoods.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 477
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Coastal hazards', 'Coastal management', 'Coastal erosion', 'Storm surge', 'Climate change', 'Environmental resource management', 'Intertidal zone', 'Ecosystem', 'Coral reef', 'Environmental science', 'Vulnerability (computing)', 'Ecosystem services', 'Wetland', 'Coastal flood', 'Storm', 'Oceanography', 'Ecology', 'Sea level rise', 'Shore', 'Geology', 'Biology', 'Computer security', 'Computer science']

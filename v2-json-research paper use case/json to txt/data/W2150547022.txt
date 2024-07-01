@@ -1,0 +1,12 @@
+ID: W2150547022
+TITLE: The Ocean as a Global Reservoir of Antibiotic Resistance Genes
+AUTHOR: ['Stephen M. Hatosy', 'Adam C. Martiny']
+ABSTRACT:
+ABSTRACT Recent studies of natural environments have revealed vast genetic reservoirs of antibiotic resistance (AR) genes. Soil bacteria and human pathogens share AR genes, and AR genes have been discovered in a variety of habitats. However, there is little knowledge about the presence and diversity of AR genes in marine environments and which organisms host AR genes. To address this, we identified the diversity of genes conferring resistance to ampicillin, tetracycline, nitrofurantoin, and sulfadimethoxine in diverse marine environments using functional metagenomics (the cloning and screening of random DNA fragments). Marine environments were host to a diversity of AR-conferring genes. Antibiotic-resistant clones were found at all sites, with 28% of the genes identified as known AR genes (encoding beta-lactamases, bicyclomycin resistance pumps, etc.). However, the majority of AR genes were not previously classified as such but had products similar to proteins such as transport pumps, oxidoreductases, and hydrolases. Furthermore, 44% of the genes conferring antibiotic resistance were found in abundant marine taxa (e.g., Pelagibacter , Prochlorococcus , and Vibrio ). Therefore, we uncovered a previously unknown diversity of genes that conferred an AR phenotype among marine environments, which makes the ocean a global reservoir of both clinically relevant and potentially novel AR genes.
+
+SOURCE: Applied and environmental microbiology
+PDF URL: https://aem.asm.org/content/aem/81/21/7593.full.pdf
+CITED BY COUNT: 176
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Biology', 'Gene', 'Genetics', 'Metagenomics', 'Antibiotic resistance', 'Marine bacteriophage', 'Horizontal gene transfer', 'Resistome', 'Integron', 'Bacteria', 'Microbiology', 'Phylogenetics']

@@ -1,0 +1,12 @@
+ID: W2955601254
+TITLE: A 40-y record reveals gradual Antarctic sea ice increases followed by decreases at rates far exceeding the rates seen in the Arctic
+AUTHOR: ['Claire L. Parkinson']
+ABSTRACT:
+Significance A newly completed 40-y record of satellite observations is used to quantify changes in Antarctic sea ice coverage since the late 1970s. Sea ice spreads over vast areas and has major impacts on the rest of the climate system, reflecting solar radiation and restricting ocean/atmosphere exchanges. The satellite record reveals that a gradual, decades-long overall increase in Antarctic sea ice extents reversed in 2014, with subsequent rates of decrease in 2014–2017 far exceeding the more widely publicized decay rates experienced in the Arctic. The rapid decreases reduced the Antarctic sea ice extents to their lowest values in the 40-y record, both on a yearly average basis (record low in 2017) and on a monthly basis (record low in February 2017).
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/116/29/14414.full.pdf
+CITED BY COUNT: 367
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Sea ice', 'Arctic sea ice decline', 'Arctic ice pack', 'Oceanography', 'Climatology', 'Ice-albedo feedback', 'Environmental science', 'Antarctic sea ice', 'Arctic', 'Satellite', 'Atmospheric sciences', 'Geology', 'Aerospace engineering', 'Engineering']

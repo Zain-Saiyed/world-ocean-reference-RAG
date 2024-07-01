@@ -1,0 +1,16 @@
+ID: W2035835693
+TITLE: Introduction to air guns and air-gun arrays
+AUTHOR: ['Bill Dragoset']
+ABSTRACT:
+The effect of seismic operations on marine mammals has been debated vigorously for years. Some feel that these operations could harm the animals. Others, based on anecdotal evidence of marine mammals swimming (or even playing) near active air-gun arrays, feel that harmful effects are unlikely. They claim that such evidence indicates, at the very least, that air guns do not physically damage the animals. Still others have relied on acoustic measurements to argue that any potential effect on the marine mammal population within a seismic survey area is negligible. Because of the importance of the discussion, the seismic industry has conducted numerous tests and monitoring studies to try to address this issue. To date, those studies have not identified any harmful long-term effects due to the proximity of marine mammals to air guns. Why then, does the debate continue?
+
+The answer may lie in the shear complexity of the issues. Air-gun design, underwater acoustics, animal behavior, and marine mammal physiology are complex subjects and interactions between them are even more complicated. Although many debate participants are experts in one or more of these fields, none is an expert in all. Thus, individuals can interpret the same data in different ways and report their interpretations using different terms. Suppose two individuals with varying backgrounds observed a dolphin jumping near an active air-gun array. One might see a dolphin “leaping from the water to avoid the noise” while the other may conclude that same dolphin is “playing in the air bubbles.”
+
+Because of this communication problem and a lack of definitive scientific studies, no clear consensus has been reached about how air guns affect marine mammals. Thus, many organizations have recommended mitigation practices until a clear answer is found. One common mitigation procedure is air-gun ramp-up, in which guns in an array …
+
+SOURCE: Leading edge
+PDF URL: None
+CITED BY COUNT: 80
+PUBLICATION YEAR: 2000
+TYPE: article
+CONCEPTS: ['Harm', 'Marine mammal', 'Underwater', 'Population', 'Aeronautics', 'Psychology', 'Fishery', 'Engineering', 'Oceanography', 'Geology', 'Biology', 'Social psychology', 'Medicine', 'Environmental health']

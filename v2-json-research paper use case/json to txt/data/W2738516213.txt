@@ -1,0 +1,12 @@
+ID: W2738516213
+TITLE: Extended Reconstructed Sea Surface Temperature, Version 5 (ERSSTv5): Upgrades, Validations, and Intercomparisons
+AUTHOR: ['Boyin Huang', 'Peter Thorne', 'Viva F. Banzon', 'Tim Boyer', 'Gennady A. Chepurin', 'Jay Lawrimore', 'Matthew J. Menne', 'Thomas M. Smith', 'Russell S. Vose', 'Huai‐Min Zhang']
+ABSTRACT:
+Abstract The monthly global 2° × 2° Extended Reconstructed Sea Surface Temperature (ERSST) has been revised and updated from version 4 to version 5. This update incorporates a new release of ICOADS release 3.0 (R3.0), a decade of near-surface data from Argo floats, and a new estimate of centennial sea ice from HadISST2. A number of choices in aspects of quality control, bias adjustment, and interpolation have been substantively revised. The resulting ERSST estimates have more realistic spatiotemporal variations, better representation of high-latitude SSTs, and ship SST biases are now calculated relative to more accurate buoy measurements, while the global long-term trend remains about the same. Progressive experiments have been undertaken to highlight the effects of each change in data source and analysis technique upon the final product. The reconstructed SST is systematically decreased by 0.077°C, as the reference data source is switched from ship SST in ERSSTv4 to modern buoy SST in ERSSTv5. Furthermore, high-latitude SSTs are decreased by 0.1°–0.2°C by using sea ice concentration from HadISST2 over HadISST1. Changes arising from remaining innovations are mostly important at small space and time scales, primarily having an impact where and when input observations are sparse. Cross validations and verifications with independent modern observations show that the updates incorporated in ERSSTv5 have improved the representation of spatial variability over the global oceans, the magnitude of El Niño and La Niña events, and the decadal nature of SST changes over 1930s–40s when observation instruments changed rapidly. Both long- (1900–2015) and short-term (2000–15) SST trends in ERSSTv5 remain significant as in ERSSTv4.
+
+SOURCE: Journal of climate
+PDF URL: None
+CITED BY COUNT: 1864
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Buoy', 'Argo', 'Environmental science', 'Climatology', 'Sea surface temperature', 'Latitude', 'Sea ice', 'Meteorology', 'Magnitude (astronomy)', 'Geology', 'Geodesy', 'Oceanography', 'Geography', 'Physics', 'Astronomy']

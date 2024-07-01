@@ -1,0 +1,12 @@
+ID: W2332901901
+TITLE: Towards a better quantitative assessment of the relevance of deep-sea viruses, Bacteria and Archaea in the functioning of the ocean seafloor
+AUTHOR: ['Roberto Danovaro', 'Cinzia Corinaldesi', 'Eugenio Rastelli', 'Antonio Dell’Anno']
+ABSTRACT:
+The deep-ocean interior contains the majority of microbes present on Earth.Most deep-sea microbes are concentrated in surface sediments, with abundances up to 4 orders of magnitude higher, per unit of volume, than in highly productive waters of the photic zone.To date, it has been shown that prokaryotic biomass largely dominates over all other biotic components, but the relative importance of Bacteria, Archaea and viruses to the global benthic biomass has not yet been quantified.Here, we report that the microbial abundance in the top 50 cm of deep-sea sediments of the world oceans is on the order of 1.5 ± 0.4 × 10 29 .This is largely represented by viruses (9.8 ± 2.5 × 10 28 ), followed by Bacteria (3.5 ± 0.9 × 10 28 cells) and Archaea (1.4 ± 0.4 × 10 28 cells).The overall biomass in the top 50 cm of the deep-sea sediments is 1.7 ± 0.4 Pg C, largely represented by bacterial biomass (ca.78%), followed by archaeal biomass (ca.21%) and viruses (<1%).The bathymetric patterns of abundance and biomass of the 3 microbial components show differences: abundance and biomass of Bacteria decrease with increasing water depth, whereas those of Archaea and viruses remain constant.These results support the hypothesis that the role of Archaea and viruses could be more relevant in the deepest part of the ocean floor.
+
+SOURCE: Aquatic microbial ecology
+PDF URL: https://www.int-res.com/articles/ame_oa/a075p081.pdf
+CITED BY COUNT: 44
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Archaea', 'Deep sea', 'Benthic zone', 'Microbial ecology', 'Ecology', 'Biology', 'Marine bacteriophage', 'Microbial loop', 'Microbial population biology', 'Seafloor spreading', 'Bacterioplankton', 'Oceanography', 'Marine biology', 'Aquatic science', 'Bacteria', 'Phytoplankton', 'Aquatic ecosystem', 'Food web', 'Ecosystem', 'Geology', 'Paleontology', 'Fishery', 'Nutrient']

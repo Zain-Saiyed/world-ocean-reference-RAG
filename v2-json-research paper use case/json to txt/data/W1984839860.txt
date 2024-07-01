@@ -1,0 +1,12 @@
+ID: W1984839860
+TITLE: Youth characteristics and contextual variables influencing physical activity in young adolescents of parents with premature coronary heart disease
+AUTHOR: ['Mary Jo Gilmer', 'Joanne S. Harrell', 'Margaret Shandor Miles', 'Joseph T. Hepworth']
+ABSTRACT:
+This study examined influences on physical activity of young adolescents whose parents have premature coronary heart disease (CHD). Consistent with Bronfenbrenner's theory, the influences examined were personal characteristics of the subjects and selected contextual variables (peers, family, and community). Subjects were 113 youths, aged 11 to 14, 53% boys, 73% Caucasian, all with parents with premature CHD. Children were most likely to be active if their fathers were active, and those living in the coastal region were less likely to be active than other children. Peer influence interacted with both pubertal status and geographic region in its effect on children's activity. Children were more active when they had active peers only when the youth were midpubertal or when they were in the coastal region. Results emphasize the importance of nursing interventions to influence behaviors of these vulnerable children.
+
+SOURCE: Journal of pediatric nursing
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Developmental psychology', 'Physical activity', 'Coronary heart disease', 'Psychological intervention', 'Psychology', 'Medicine', 'Gerontology', 'Demography', 'Physical therapy', 'Internal medicine', 'Psychiatry', 'Sociology']

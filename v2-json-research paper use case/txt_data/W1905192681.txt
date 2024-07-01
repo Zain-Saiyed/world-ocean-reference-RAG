@@ -1,0 +1,12 @@
+ID: W1905192681
+TITLE: Vertical ecology of the pelagic ocean: classical patterns and new perspectives
+AUTHOR: ['Tracey Sutton']
+ABSTRACT:
+Applications of acoustic and optical sensing and intensive, discrete-depth sampling, in concert with collaborative international research programmes, have substantially advanced knowledge of pelagic ecosystems in the 17 years since the 1996 Deepwater Fishes Symposium of the Fisheries Society of the British Isles. Although the epipelagic habitat is the best-known, and remote sensing and high-resolution modelling allow near-synoptic investigation of upper layer biophysical dynamics, ecological studies within the mesopelagic and deep-demersal habitats have begun to link lower and upper trophic level processes. Bathypelagic taxonomic inventories are far from complete, but recent projects (e.g. MAR-ECO and CMarZ, supported by the Census of Marine Life programme) have quantitatively strengthened distribution patterns previously described for fishes and have provided new perspectives. Synthesis of net and acoustic studies suggests that the biomass of deep-pelagic fishes may be two to three orders of magnitude greater than the total global commercial fisheries landings. Discrete-depth net sampling has revealed relatively high pelagic fish biomass below 1000 m in some regions, and that gelatinous zooplankton may be key energy vectors for deep-pelagic fish production. Lastly, perhaps, the most substantive paradigm shift is that vertical connectivity among fishes across classical depth zones is prevalent- suggesting that a whole-water column approach is warranted for deep ocean conservation and management.
+
+SOURCE: Journal of fish biology
+PDF URL: None
+CITED BY COUNT: 154
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Mesopelagic zone', 'Bathyal zone', 'Trophic level', 'Demersal zone', 'Biology', 'Habitat', 'Biomass (ecology)', 'Fishery', 'Ecology', 'Marine habitats', 'Water column', 'Oceanography', 'Marine ecosystem', 'Ecosystem', 'Benthic zone', 'Geology']

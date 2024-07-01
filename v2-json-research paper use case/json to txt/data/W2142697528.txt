@@ -1,0 +1,12 @@
+ID: W2142697528
+TITLE: Coastal nitrogen pollution: A review of sources and trends globally and regionally
+AUTHOR: ['Robert W. Howarth']
+ABSTRACT:
+The past few decades have seen a massive increase in coastal eutrophication globally, leading to widespread hypoxia and anoxia, habitat degradation, alteration of food-web structure, loss of biodiversity, and increased frequency, spatial extent, and duration of harmful algal blooms. Much of this eutrophication is due to increased inputs of nitrogen to coastal oceans. Before the advent of the industrial revolution and the green revolution, the rate of supply of nitrogen on Earth was limited to the rate of bacterial nitrogen fixation, but human activity now has roughly doubled the rate of creation of reactive, biologically available nitrogen on the land masses of the Earth. Regional variation in this increase is great, and some regions of the Earth have seen little change, while in other areas, nitrogen fluxes through the atmosphere and through rivers have increased by 10–15-fold or more. Much of this increase has occurred over the past few decades. Increased use of synthetic nitrogen fertilizer and increased intensity of meat production has led the change globally and in many regions, and agricultural sources are the largest source of nitrogen pollution to many of the planet’s coastal marine ecosystems. The rate of change in nitrogen use in agriculture is incredible, and over half of the synthetic nitrogen fertilizer ever produced has been used in the past 15 years. Atmospheric deposition of nitrogen from fossil fuel combustion also contributes to the global budget for reactive nitrogen and is the largest single source of nitrogen pollution in some regions. Technical solutions for reducing nitrogen pollution exist at reasonable cost, but implementation has been poor in many regions.
+
+SOURCE: Harmful algae
+PDF URL: None
+CITED BY COUNT: 680
+PUBLICATION YEAR: 2008
+TYPE: review
+CONCEPTS: ['Eutrophication', 'Reactive nitrogen', 'Nutrient pollution', 'Environmental science', 'Nitrogen', 'Pollution', 'Ecosystem', 'Hypoxia (environmental)', 'Agriculture', 'Nitrogen cycle', 'Biodiversity', 'Marine ecosystem', 'Nitrogen fixation', 'Environmental protection', 'Ecology', 'Nutrient', 'Biology', 'Chemistry', 'Organic chemistry', 'Oxygen']

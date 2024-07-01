@@ -1,0 +1,12 @@
+ID: W2003740652
+TITLE: Seasonal presence of cetaceans and ambient noise levels in polar waters of the North Atlantic
+AUTHOR: ['Holger Klinck', 'Sharon L. Nieukirk', 'David K. Mellinger', 'Karolin Klinck', 'H. Matsumoto', 'Robert P. Dziak']
+ABSTRACT:
+In 2009 two calibrated acoustic recorders were deployed in polar waters of the North Atlantic to study the seasonal occurrence of blue, fin, and sperm whales and to assess current ambient noise levels. Sounds from these cetaceans were recorded at both locations in most months of the year. During the summer months, seismic airguns associated with oil and gas exploration were audible for weeks at a time and dominated low frequency noise levels. Noise levels might further increase in the future as the receding sea ice enables extended human use of the area.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: https://pubs.aip.org/asa/jasa/article-pdf/132/3/EL176/14018862/el176_1_online.pdf
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Noise (video)', 'Environmental science', 'Ambient noise level', 'Oceanography', 'Polar', 'Sound (geography)', 'Marine mammal', 'Geology', 'Current (fluid)', 'Acoustics', 'Fishery', 'Biology', 'Physics', 'Astronomy', 'Artificial intelligence', 'Computer science', 'Image (mathematics)']

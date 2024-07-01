@@ -1,0 +1,12 @@
+ID: W2055654927
+TITLE: Exploring global changes in nitrogen and phosphorus cycles in agriculture induced by livestock production over the 1900–2050 period
+AUTHOR: ['Lex Bouwman', 'Kees Klein Goldewijk', 'K.W. van der Hoek', 'Arthur H.W. Beusen', 'Detlef van Vuuren', 'J. Willems', 'Mariana C. Rufino', 'Elke Stehfest']
+ABSTRACT:
+Crop-livestock production systems are the largest cause of human alteration of the global nitrogen (N) and phosphorus (P) cycles. Our comprehensive spatially explicit inventory of N and P budgets in livestock and crop production systems shows that in the beginning of the 20th century, nutrient budgets were either balanced or surpluses were small; between 1900 and 1950, global soil N surplus almost doubled to 36 trillion grams (Tg)·y −1 and P surplus increased by a factor of 8 to 2 Tg·y −1 . Between 1950 and 2000, the global surplus increased to 138 Tg·y −1 of N and 11 Tg·y −1 of P. Most surplus N is an environmental loss; surplus P is lost by runoff or accumulates as residual soil P. The International Assessment of Agricultural Knowledge, Science, and Technology for Development scenario portrays a world with a further increasing global crop (+82% for 2000–2050) and livestock production (+115%); despite rapidly increasing recovery in crop (+35% N recovery and +6% P recovery) and livestock (+35% N and P recovery) production, global nutrient surpluses continue to increase (+23% N and +54% P), and in this period, surpluses also increase in Africa (+49% N and +236% P) and Latin America (+75% N and +120% P). Alternative management of livestock production systems shows that combinations of intensification, better integration of animal manure in crop production, and matching N and P supply to livestock requirements can effectively reduce nutrient flows. A shift in human diets, with poultry or pork replacing beef, can reduce nutrient flows in countries with intensive ruminant production.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 791
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Livestock', 'Manure', 'Agriculture', 'Nutrient', 'Environmental science', 'Nutrient management', 'Phosphorus', 'Crop', 'Production (economics)', 'Agronomy', 'Manure management', 'Agricultural science', 'Agricultural economics', 'Biology', 'Economics', 'Ecology', 'Chemistry', 'Macroeconomics', 'Organic chemistry']

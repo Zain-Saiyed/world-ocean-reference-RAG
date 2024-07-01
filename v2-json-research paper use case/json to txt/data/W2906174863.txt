@@ -1,0 +1,12 @@
+ID: W2906174863
+TITLE: The future of resilience-based management in coral reef ecosystems
+AUTHOR: ['Elizabeth McLeod', 'Kenneth R. N. Anthony', 'Peter J. Mumby', 'Jeffrey Maynard', 'Roger Beeden', 'Nicholas A. J. Graham', 'Scott F. Heron', 'Ove Hoegh‐Guldberg', 'Stacy D. Jupiter', 'Petra MacGowan', 'Sangeeta Mangubhai', 'Nadine Marshall', 'Paul Marshall', 'Tim R. McClanahan', 'Karen L. McLeod', 'Magnus Nyström', 'David Obura', 'B. A. Parker', 'Hugh P. Possingham', 'Rodney V. Salm', 'Jerker Tamelander']
+ABSTRACT:
+Resilience underpins the sustainability of both ecological and social systems. Extensive loss of reef corals following recent mass bleaching events have challenged the notion that support of system resilience is a viable reef management strategy. While resilience-based management (RBM) cannot prevent the damaging effects of major disturbances, such as mass bleaching events, it can support natural processes that promote resistance and recovery. Here, we review the potential of RBM to help sustain coral reefs in the 21st century. We explore the scope for supporting resilience through existing management approaches and emerging technologies and discuss their opportunities and limitations in a changing climate. We argue that for RBM to be effective in a changing world, reef management strategies need to involve both existing and new interventions that together reduce stress, support the fitness of populations and species, and help people and economies to adapt to a highly altered ecosystem.
+
+SOURCE: Journal of environmental management
+PDF URL: None
+CITED BY COUNT: 147
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coral reef', 'Scope (computer science)', 'Resilience (materials science)', 'Coral bleaching', 'Reef', 'Environmental resource management', 'Sustainability', 'Resilience of coral reefs', 'Ecosystem', 'Climate change', 'Psychological resilience', 'Coral', 'Ecology', 'Business', 'Environmental science', 'Computer science', 'Biology', 'Psychology', 'Physics', 'Psychotherapist', 'Programming language', 'Thermodynamics']

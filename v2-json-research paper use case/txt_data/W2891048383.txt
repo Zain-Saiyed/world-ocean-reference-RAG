@@ -1,0 +1,12 @@
+ID: W2891048383
+TITLE: Dead Zones: Oxygen Depletion in Coastal Ecosystems
+AUTHOR: ['Andrew H. Altieri', 'Robert J. Díaz']
+ABSTRACT:
+Depletion of oxygen in coastal waters causes mortality and emigration of fish, crustaceans, and other animals. The resulting areas that appear largely lifeless are known as “dead zones.” The lack of oxygen (hypoxia) is primarily due to increased microbial respiration accompanying the decomposition of organic material. If reoxygenation is limited by factors such as water-column stratification or the residence time of a body of water, then oxygen concentrations become insufficient for normal biological functions. Organisms vary in their tolerance for hypoxia and in their metabolic and behavioral strategies for avoiding mortality. Although a few species benefit from decreased oxygen, recent research has revealed complex yet predictable ways in which hypoxia has a largely negative, and sometimes catastrophic, effect on community structure and ecosystem function. Alarmingly, the number and severity of dead zones is increasing at an accelerating rate due to anthropogenic factors including eutrophication and climate change.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Hypoxia (environmental)', 'Ecosystem', 'Eutrophication', 'Fish kill', 'Ecology', 'Water column', 'Oxygen', 'Environmental science', 'Water body', 'Respiration', 'Biology', 'Nutrient', 'Chemistry', 'Environmental engineering', 'Algal bloom', 'Botany', 'Organic chemistry', 'Phytoplankton']

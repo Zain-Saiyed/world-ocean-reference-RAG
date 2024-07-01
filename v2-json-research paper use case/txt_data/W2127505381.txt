@@ -1,0 +1,12 @@
+ID: W2127505381
+TITLE: Combined climate- and prey-mediated range expansion of Humboldt squid (<i>Dosidicus gigas</i>), a large marine predator in the California Current System
+AUTHOR: ['Julia S. Stewart', 'Elliott L. Hazen', 'Steven J. Bograd', 'Jarrett E. K. Byrnes', 'David G. Foley', 'William F. Gilly', 'Bruce H. Robison', 'John C. Field']
+ABSTRACT:
+Climate-driven range shifts are ongoing in pelagic marine environments, and ecosystems must respond to combined effects of altered species distributions and environmental drivers. Hypoxic oxygen minimum zones (OMZs) in midwater environments are shoaling globally; this can affect distributions of species both geographically and vertically along with predator–prey dynamics. Humboldt (jumbo) squid (Dosidicus gigas) are highly migratory predators adapted to hypoxic conditions that may be deleterious to their competitors and predators. Consequently, OMZ shoaling may preferentially facilitate foraging opportunities for Humboldt squid. With two separate modeling approaches using unique, long-term data based on in situ observations of predator, prey, and environmental variables, our analyses suggest that Humboldt squid are indirectly affected by OMZ shoaling through effects on a primary food source, myctophid fishes. Our results suggest that this indirect linkage between hypoxia and foraging is an important driver of the ongoing range expansion of Humboldt squid in the northeastern Pacific Ocean.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 70
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Predation', 'Pelagic zone', 'Diel vertical migration', 'Apex predator', 'Squid', 'Foraging', 'Ecology', 'Predator', 'Marine ecosystem', 'Oceanography', 'Biology', 'Range (aeronautics)', 'Hypoxia (environmental)', 'Fishery', 'Shoaling and schooling', 'Environmental science', 'Ecosystem', 'Geology', 'Chemistry', 'Materials science', 'Organic chemistry', 'Composite material', 'Oxygen']

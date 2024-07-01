@@ -1,0 +1,12 @@
+ID: W2947772066
+TITLE: Biological effects 26 years after simulated deep-sea mining
+AUTHOR: ['Erik Simon‐Lledó', 'Brian J. Bett', 'Veerle A.I. Huvenne', 'Kevin Köser', 'Timm Schoening', 'Jens Greinert', 'Daniel O. B. Jones']
+ABSTRACT:
+The potential for imminent abyssal polymetallic nodule exploitation has raised considerable scientific attention. The interface between the targeted nodule resource and sediment in this unusual mosaic habitat promotes the development of some of the most biologically diverse communities in the abyss. However, the ecology of these remote ecosystems is still poorly understood, so it is unclear to what extent and timescale these ecosystems will be affected by, and could recover from, mining disturbance. Using data inferred from seafloor photo-mosaics, we show that the effects of simulated mining impacts, induced during the "DISturbance and reCOLonization experiment" (DISCOL) conducted in 1989, were still evident in the megabenthos of the Peru Basin after 26 years. Suspension-feeder presence remained significantly reduced in disturbed areas, while deposit-feeders showed no diminished presence in disturbed areas, for the first time since the experiment began. Nevertheless, we found significantly lower heterogeneity diversity in disturbed areas and markedly distinct faunal compositions along different disturbance levels. If the results of this experiment at DISCOL can be extrapolated to the Clarion-Clipperton Zone, the impacts of polymetallic nodule mining there may be greater than expected, and could potentially lead to an irreversible loss of some ecosystem functions, especially in directly disturbed areas.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-44492-w.pdf
+CITED BY COUNT: 84
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Disturbance (geology)', 'Ecosystem', 'Ecology', 'Environmental science', 'Habitat', 'Abyssal zone', 'Nodule (geology)', 'Structural basin', 'Sediment', 'Geology', 'Oceanography', 'Biology', 'Paleontology']

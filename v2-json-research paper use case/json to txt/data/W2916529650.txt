@@ -1,0 +1,12 @@
+ID: W2916529650
+TITLE: Future evolution of Marine Heatwaves in the Mediterranean Sea
+AUTHOR: ['Sofia Darmaraki', 'Samuel Somot', 'Florence Sevault', 'Pierre Nabat', 'William Cabos', 'Leone Cavicchia', 'Vladimir Djurdjević', 'Zhaoxin Li', 'Gianmaria Sannino', 'William Cabos']
+ABSTRACT:
+Extreme ocean warming events, known as marine heatwaves (MHWs), have been observed to perturb significantly marine ecosystems and fisheries around the world. Here, we propose a detection method for long-lasting and large-scale summer MHWs, using a local, climatological 99th percentile threshold, based on present-climate (1976–2005) daily SST. To assess their future evolution in the Mediterranean Sea we use, for the first time, a dedicated ensemble of fully-coupled Regional Climate System Models from the Med-CORDEX initiative and a multi-scenario approach. The models appear to simulate well MHW properties during historical period, despite biases in mean and extreme SST. In response to increasing greenhouse gas forcing, the events become stronger and more intense under RCP4.5 and RCP8.5 than RCP2.6. By 2100 and under RCP8.5, simulations project at least one long-lasting MHW every year, up to three months longer, about 4 times more intense and 42 times more severe than present-day events. They are expected to occur from June-October and to affect at peak the entire basin. Their evolution is found to occur mainly due to an increase in the mean SST, but increased daily SST variability also plays a noticeable role. Until the mid-21st century, MHW characteristics rise independently of the choice of the emission scenario, the influence of which becomes more evident by the end of the period. Further analysis reveals different climate change responses in certain configurations, more likely linked to their driving global climate model rather than to the individual model biases.
+
+SOURCE: Climate dynamics
+PDF URL: https://link.springer.com/content/pdf/10.1007/s00382-019-04661-z.pdf
+CITED BY COUNT: 158
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Climatology', 'Environmental science', 'Climate change', 'Climate model', 'Representative Concentration Pathways', 'Sea surface temperature', 'Forcing (mathematics)', 'Mediterranean climate', 'Mediterranean sea', 'Climate system', 'Greenhouse gas', 'Oceanography', 'Geography', 'Geology', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W2170153270
+TITLE: Climate Change Impacts on Marine Ecosystems
+AUTHOR: ['Scott C. Doney', 'Mary Ruckelshaus', 'J. Emmett Duffy', 'James Barry', 'Francis Chan', 'Chad A. English', 'Heather M. Galindo', 'Jacqueline M. Grebmeier', 'Anne B. Hollowed', 'Nancy\xad Knowlton\xad', 'Jeffrey J. Polovina', 'Nancy N. Rabalais', 'William J. Sydeman', 'Lynne D. Talley']
+ABSTRACT:
+In marine ecosystems, rising atmospheric CO 2 and climate change are associated with concurrent shifts in temperature, circulation, stratification, nutrient input, oxygen content, and ocean acidification, with potentially wide-ranging biological effects. Population-level shifts are occurring because of physiological intolerance to new environments, altered dispersal patterns, and changes in species interactions. Together with local climate-driven invasion and extinction, these processes result in altered community structure and diversity, including possible emergence of novel ecosystems. Impacts are particularly striking for the poles and the tropics, because of the sensitivity of polar ecosystems to sea-ice retreat and poleward species migrations as well as the sensitivity of coral-algal symbiosis to minor increases in temperature. Midlatitude upwelling systems, like the California Current, exhibit strong linkages between climate and species distributions, phenology, and demography. Aggregated effects may modify energy and material flows as well as biogeochemical cycles, eventually impacting the overall ecosystem functioning and services upon which people and societies depend.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 2178
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Marine ecosystem', 'Climate change', 'Ecology', 'Biological dispersal', 'Upwelling', 'Environmental science', 'Population', 'Oceanography', 'Biology', 'Geology', 'Demography', 'Sociology']

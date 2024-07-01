@@ -1,0 +1,12 @@
+ID: W2897322244
+TITLE: Wave refraction and reef island stability under rising sea level
+AUTHOR: ['Mirella B. Costa', 'Eduardo Cavalcante de Macedo', 'Eduardo Siegle']
+ABSTRACT:
+The location and stability of low-lying carbonated reef islands are closely related to wave refraction over reef platforms, which create low energy wave convergence zones favorable for sediment deposition. Although there is great concern about the stability of reef islands in future decades, few studies have attempted to assess the effects of sea-level rise on wave refraction patterns and the migration of wave convergence zones, which may promote changes in island positions. To investigate the mechanisms of wave refraction over a shallow lagoon atoll (Rocas Atoll), we performed a detailed topo-bathymetric survey to simulate wave propagation for different water levels and wave conditions considering the complex atoll morphology. Our results show that the locations of convergence zones are not only influenced by wave direction and wave interactions with the elliptical reef shape but also controlled by topographic variations in the reef structure. In particular, the presence of a wide reef passage on the leeward margin of Rocas Atoll has an important role in the atoll wave refraction pattern. Model simulations show a displacement of the wave convergence zone and increase in wave energy under increased sea level. However, the direction of this displacement is more sensitive to the incident wave period than to the wave direction due to topographic control. Swell waves, either from the north or south, tend to move the convergence zone lagoonwards, whereas wind waves tend to move this zone seawards. Thus, the results suggest that, under sea-level rise scenarios, areas prone to sediment accumulation will become less stable. The relative frequency between swell and wind wave incidence will be an important driver of morphological change patterns in reef islands.
+
+SOURCE: Global and planetary change
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Atoll', 'Geology', 'Reef', 'Refraction', 'Bathymetry', 'Swell', 'Waves and shallow water', 'Oceanography', 'Physics', 'Optics']

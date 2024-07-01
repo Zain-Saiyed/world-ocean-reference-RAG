@@ -1,0 +1,12 @@
+ID: W2805576180
+TITLE: Marine Dynamics and Productivity in the Bay of Bengal
+AUTHOR: ['Susan Kay', 'John Caesar', 'Tamara Janes']
+ABSTRACT:
+The Bay of Bengal provides important ecosystem services to the Bangladesh delta. It is also subject to the consequences of climate change as monsoon atmospheric circulation and fresh water input from the major rivers are the dominating influences. Changes in marine circulation will affect patterns of biological production through alterations in the supply of nutrients to photosynthesising plankton. Productivity in the northern Bay will also be sensitive to changes in riverborne nutrients. In turn, these changes could influence potential fish catch. The Bay also affects the physical environment of Bangladesh: relative sea-level rise is expected to be in the range of 0.5–1.7 m by 2100, and changing climate could affect the development of tropical cyclones over the Bay.
+
+SOURCE: Springer eBooks
+PDF URL: https://link.springer.com/content/pdf/10.1007%2F978-3-319-71093-8_14.pdf
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Bay', 'BENGAL', 'Productivity', 'Environmental science', 'Plankton', 'Oceanography', 'Nutrient', 'Climate change', 'Ecosystem', 'Monsoon', 'Fishery', 'Geography', 'Ecology', 'Biology', 'Geology', 'Economics', 'Macroeconomics']

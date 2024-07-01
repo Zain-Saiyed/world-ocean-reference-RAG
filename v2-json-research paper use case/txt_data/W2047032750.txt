@@ -1,0 +1,12 @@
+ID: W2047032750
+TITLE: Polar organic micropollutants in the coastal environment of different marine systems
+AUTHOR: ['Karsten Nödler', 'Dimitra Voutsa', 'Tobias Licha']
+ABSTRACT:
+Polar anthropogenic organic micropollutants are frequently detected in freshwater and discharged on large scale into marine systems. In this work the results of 153 samples collected from the shorelines of the Baltic Sea (Germany), Northern Adriatic Sea (Italy), Aegean Sea and Dardanelles (Greece & Turkey), San Francisco Bay (USA), Pacific Ocean (USA), Mediterranean Sea (Israel), and Balearic Sea (Spain) are presented. The samples were analyzed for various classes of micropollutants such as pharmaceuticals, corrosion inhibitors, biocides, and stimulants. Caffeine, paraxanthine, theobromine, tolyltriazole, 1H-benzotriazole, and atrazine were detected in >50% of all samples. The detection frequencies of carbamazepine, iopamidol, diuron, sulfamethoxazole, paracetamol, theophylline, and atenolol were between 20% and 32%. As caffeine is linked to untreated wastewater, the widespread occurrence of raw sewage in marine environments and thus potentially elevated nutrient concentrations and risk for the presence of wastewater-related pathogens is remarkable.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 227
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Environmental science', 'Paraxanthine', 'Environmental chemistry', 'Bay', 'Mediterranean sea', 'Wastewater', 'Theobromine', 'Oceanography', 'Mediterranean climate', 'Environmental engineering', 'Chemistry', 'Theophylline', 'Ecology', 'Geology', 'Biology', 'Biochemistry', 'Cytochrome P450', 'Metabolism', 'Endocrinology', 'CYP1A2']

@@ -1,0 +1,12 @@
+ID: W2804809178
+TITLE: Phytoplankton size diversity and ecosystem function relationships across oceanic regions
+AUTHOR: ['Esteban Acevedo‐Trejos', 'Emilio Marañón', 'Agostino Merico']
+ABSTRACT:
+Trait diversity, a key component of biodiversity, mediates many essential ecosystem functions and services. However, the mechanisms behind such relationships at large spatial scales are not fully understood. Here we adopt the functional biogeography approach to investigate how the size composition of phytoplankton communities relates to primary production and export production along a broad latitudinal gradient. Using in situ phytoplankton size distribution data and a trait-based model, we find an increase in the average phytoplankton size, size diversity, primary production and export when moving from low to high latitudes. Our analysis indicates that the interplay between spatio-temporal heterogeneities in environmental conditions and a trade-off between the high affinity for nutrients of smaller cells and the ability to avoid predation by larger cells are the main mechanisms driving the observed patterns. Our results also suggest that variations in size diversity alone do not directly lead to changes in primary production and export. The trade-off thus introduces a feedback that influences the relationship between size diversity and ecosystem functions. These findings support the importance of environmentally mediated trade-offs as crucial mechanisms shaping biodiversity and ecosystem function relationships at large spatial scales.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2018.0621
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Biodiversity', 'Phytoplankton', 'Ecology', 'Trait', 'Latitude', 'Primary producers', 'Spatial ecology', 'Functional ecology', 'Diversity (politics)', 'Environmental science', 'Biology', 'Geography', 'Nutrient', 'Computer science', 'Geodesy', 'Sociology', 'Anthropology', 'Programming language']

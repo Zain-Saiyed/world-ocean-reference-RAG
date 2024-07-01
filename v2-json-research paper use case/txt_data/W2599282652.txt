@@ -1,0 +1,12 @@
+ID: W2599282652
+TITLE: Black corals (Anthozoa: Antipatharia) of the Clarion-Clipperton Fracture Zone
+AUTHOR: ['Tina N. Molodtsova', 'Dennis M. Opresko']
+ABSTRACT:
+The antipatharian fauna of the Clarion-Clipperton Fracture Zone is discussed. Five species of black corals from three genera were identified in collections from this area, including one new species. A list is provided of the 15 species of antipatharians that have been collected at depths greater than 3000 m, and a figure is included that shows the bathymetric distribution of all genera in the order. A new genus, Alternatipathes, in the family Schizopathidae is also described herein.
+
+SOURCE: Marine biodiversity
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs12526-017-0659-6.pdf
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Anthozoa', 'CLARION', 'Octocorallia', 'Genus', 'Fauna', 'Fracture zone', 'Biodiversity', 'Biology', 'Ecology', 'Paleontology', 'Geology', 'Coelenterata', 'Cnidaria', 'Oceanography', 'Coral', 'Artificial intelligence', 'Computer science']

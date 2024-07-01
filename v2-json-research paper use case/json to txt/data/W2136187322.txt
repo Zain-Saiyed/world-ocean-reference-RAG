@@ -1,0 +1,12 @@
+ID: W2136187322
+TITLE: Qualitative modelling and indicators of exploited ecosystems
+AUTHOR: ['Jeffrey M. Dambacher', 'D.J. Gaughan', 'Marie‐Joëlle Rochet', 'Philippe A. Rossignol', 'Verena M. Trenkel']
+ABSTRACT:
+Abstract Implementing ecosystem‐based fisheries management requires indicators and models that address the impacts of fishing across entire ecological communities. However, the complexity of many ecosystems presents a challenge to analysis, especially if reliant on quantification because of the onerous task of precisely measuring or estimating numerous parameters. We present qualitative modelling as a complementary approach to quantitative methods. Qualitative modelling clarifies how community structure alone affects dynamics, here of exploited populations. We build an array of models that describe different ecosystems with different harvesting practices, and analyse them to predict responses to various perturbations. This approach demonstrates the utility of qualitative modelling as a means to identify and interpret community‐level indicators for systems that are at or near equilibrium, and for those that are frequently perturbed away from equilibrium. Examining the interaction of ecological and socio‐economic variables associated with commercial fisheries provides an understanding of the main feedbacks that drive and regulate exploited ecosystems. The method is particularly useful for systems where the basic relationships between variables are understood but where precise or detailed data are lacking.
+
+SOURCE: Fish and fisheries
+PDF URL: None
+CITED BY COUNT: 96
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Ecosystem', 'System dynamics', 'Computer science', 'Ecosystem-based management', 'Environmental resource management', 'Task (project management)', 'Fishing', 'Fisheries management', 'Ecology', 'Environmental science', 'Engineering', 'Biology', 'Systems engineering', 'Artificial intelligence']

@@ -1,0 +1,12 @@
+ID: W2899181990
+TITLE: Securing a Long-term Future for Coral Reefs
+AUTHOR: ['Ove Hoegh‐Guldberg', 'Emma V. Kennedy', 'Hawthorne L. Beyer', 'Caleb McClennen', 'Hugh P. Possingham']
+ABSTRACT:
+Rapid ocean warming as a result of climate change poses a key risk for coral reefs. Even if the goals of the Paris Climate Agreement are achieved, coral reefs are likely to decline by 70-90% relative to their current abundance by midcentury. Although alarming, coral communities that survive will play a key role in the regeneration of reefs by mid-to-late century. Here, we argue for a coordinated, global coral reef conservation strategy that is centred on 50 large (500km2) regions that are the least vulnerable to climate change and which are positioned to facilitate future coral reef regeneration. The proposed strategy and actions should strengthen and expand existing conservation efforts for coral reefs as we face the long-term consequences of intensifying climate change.
+
+SOURCE: Trends in ecology & evolution
+PDF URL: http://www.cell.com/article/S016953471830226X/pdf
+CITED BY COUNT: 134
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Resilience of coral reefs', 'Climate change', 'Coral', 'Coral bleaching', 'Coral reef organizations', 'Environmental issues with coral reefs', 'Fishery', 'Regeneration (biology)', 'Coral reef protection', 'Oceanography', 'Geography', 'Ecology', 'Biology', 'Geology', 'Cell biology']

@@ -1,0 +1,12 @@
+ID: W2919126677
+TITLE: Scientists Should Disclose Origin in Marine Gene Patents
+AUTHOR: ['Robert Blasiak', 'Jean‐Baptiste Jouffray', 'Colette C.C. Wabnitz', 'Henrik Österblom']
+ABSTRACT:
+Universities are key players in the collection and commercialization of marine genetic resources. We argue that the research community can promote systematic disclosure of sample origin in patents, thereby taking a global responsibility for setting new norms of transparency that would influence ongoing policy processes and improve sharing of benefits.
+
+SOURCE: Trends in ecology & evolution
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Commercialization', 'Transparency (behavior)', 'Business', 'Key (lock)', 'Sample (material)', 'Genetic resources', 'Biology', 'Political science', 'Biotechnology', 'Ecology', 'Marketing', 'Chemistry', 'Chromatography', 'Law']

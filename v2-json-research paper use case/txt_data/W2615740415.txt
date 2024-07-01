@@ -1,0 +1,12 @@
+ID: W2615740415
+TITLE: Vertical Profiles, Sources, and Transport of PFASs in the Arctic Ocean
+AUTHOR: ['Leo W. Y. Yeung', 'Clifton Dassuncao', 'Scott A. Mabury', 'Elsie M. Sunderland', 'Xian‐Ming Zhang', 'Rainer Lohmann']
+ABSTRACT:
+The relative importance of atmospheric versus oceanic transport for poly- and perfluorinated alkyl substances (PFASs) reaching the Arctic Ocean is not well understood. Vertical profiles from the Central Arctic Ocean and shelf water, snow and meltwater samples were collected in 2012; 13 PFASs (C6–C12 PFCAs; C6, 8, 10 PFSAs; MeFOSAA and EtFOSAA; and FOSA) were routinely detected (range: <5–343 pg/L). PFASs were only detectable above 150 m depth in the polar mixed layer (PML) and halocline. Enhanced concentrations were observed in snow and meltpond samples, implying atmospheric deposition as an important source of PFASs. Model results suggested atmospheric inputs to account for 34–59% (∼11–19 pg/L) of measured PFOA concentrations in the PML (mean 32 ± 15 pg/L). Modeled surface and halocline measurements for PFOS based on North Atlantic inflow (11–36 pg/L) agreed with measurements (mean, 17, range <5–41 pg/L). Modeled deep water concentrations below 200 m (5–15 pg/L) were slightly higher than measurements (<5 pg/L), suggesting the lower bound of PFAS emissions estimates from wastewater and rivers may provide the best estimate of inputs to the Arctic. Despite low concentrations in deep water, this reservoir is expected to contain most of the PFOS mass in the Arctic (63–180 Mg) and is projected to continue increasing to 2038.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 105
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Halocline', 'Arctic', 'Snow', 'Environmental science', 'Environmental chemistry', 'Atmospheric sciences', 'Meltwater', 'The arctic', 'Oceanography', 'Deposition (geology)', 'Water mass', 'Chemistry', 'Geology', 'Sediment', 'Salinity', 'Geomorphology']

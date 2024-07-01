@@ -1,0 +1,12 @@
+ID: W110492116
+TITLE: Marine Bioinvasions in Australia
+AUTHOR: ['Cathryn Sliwa', 'Sasha Migus', 'Felicity McEnnulty', 'Keith R. Hayes']
+ABSTRACT:
+Australia has been a regular port of call for ocean going vessels since the beginning of the nineteenth century, and the first records of non-native species followed soon after (Table 25.1). However, it has taken over one hundred years and several prominent invasions by demonstrably harmful species, for marine invasions to attract significant management attention (Thresher 1999; Ferguson 2000; Bax et al. 2001, 2002; Hewitt 2003). The detection of the Japanese sea star, Asterias amurensis (Turner 1992; Morrice 1995; Goggin 1998), the European shore crab, Carcinus maenas (Gardner et al. 1994) and the population explosion of the European fan worm, Sabella spallanzanii (Clapin and Evans 1995; Thresher et al. 1999) in Australia led to the establishment of a Centre for Research on Introduced Marine Pests (CRIMP) at the marine division of the Commonwealth Scientific and Industrial Research Organization (CSIRO) in 1994 by the Federal Government. Initial research of the Centre focused on investigating the impacts and ecology of these highly visible non-native species which had potential impacts on aquaculture and shipping (Thresher 1999). More recent research has concentrated on risk assessment, management and control strategies and early detection/identification methods such as genetic identification probes for larval stages of marine pest species (e.g. Deagle et al. 2003).
+
+SOURCE: Ecological studies
+PDF URL: None
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2008
+TYPE: book-chapter
+CONCEPTS: ['Fishery', 'Carcinus maenas', 'Commonwealth', 'Geography', 'Biology', 'Population', 'Invasive species', 'Ecology', 'Marine species', 'Decapoda', 'Archaeology', 'Crustacean', 'Demography', 'Sociology']

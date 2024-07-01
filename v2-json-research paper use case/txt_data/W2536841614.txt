@@ -1,0 +1,12 @@
+ID: W2536841614
+TITLE: Moving from ecosystem-based policy objectives to operational implementation of ecosystem-based management measures
+AUTHOR: ['Roland Cormier', 'Christopher R. Kelble', 'M. Robin Anderson', 'J. Icarus Allen', 'Anthony Grehan', 'Ólavur Gregersen']
+ABSTRACT:
+The aim of ecosystem-based management (EBM) is to maintain an ecosystem in a healthy, productive and resilient condition through the implementation of policies and management measures. Although cross-sectoral planning may be led by a planning competent authority, it is up to the sector competent authority to implement the necessary management measures within their operations to achieve EBM goals and objectives. We suggest that scientific impediments to EBM are no longer significant to implement EBM operationally. Instead, we consider that approaching EBM within current policy cycle approaches would provide the necessary policymaking process step to operationalize EBM. In addition to enabling and facilitating collaboration, exchange, understanding as promoted by EBM, policymaking processes also require that policy is to be implemented through programs, measures, procedures and controls that have expected outcomes to “carry into effect” the policy objective. We are of the view that moving EBM from planning and objective setting to operational implementation is a management problem solving issues instead of a scientific one.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/74/1/406/28657878/fsw181.pdf
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Operationalization', 'Process (computing)', 'Process management', 'Business', 'Environmental resource management', 'Management by objectives', 'Computer science', 'Management science', 'Economics', 'Marketing', 'Philosophy', 'Operating system', 'Epistemology']

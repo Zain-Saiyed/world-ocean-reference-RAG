@@ -1,0 +1,12 @@
+ID: W2963462197
+TITLE: Advances in exploring the therapeutic potential of marine natural products
+AUTHOR: ['Xiao Liang', 'Danmeng Luo', 'Hendrik Luesch']
+ABSTRACT:
+Marine natural products represent novel and diverse chemotypes that serve as templates for the discovery and development of therapeutic agents with distinct mechanisms of action. These genetically encoded compounds produced by an evolutionary optimized biosynthetic machinery are usually quite complex and can be difficult to recreate in the laboratory. The isolation from the source organism results in limited amount of material; however, the development of advanced NMR technologies and dereplication strategies has enabled the structure elucidation on small scale. In order to rigorously explore the therapeutic potential of marine natural products and advance them further, the biological characterization has to keep pace with the chemical characterization. The limited marine natural product supply has been a serious challenge for thorough investigation of the biological targets. Several marine drugs have reached the markets or are in clinical trials, where those challenges have been overcome, including through the development of scalable syntheses. However, the identification of mechanisms of action of marine natural products early in the discovery process is potentially game changing, since effectively linking marine natural products to potential therapeutic applications in turn triggers motivation to tackle challenging syntheses and solve the supply problem. An increasing number of sensitive technologies and methods have been developed in recent years, some of which have been successfully applied to marine natural products, increasing the value of these compounds with respect to their biomedical utility. In this review, we discuss advances in overcoming the bottlenecks in marine natural product research, emphasizing on the development and advances of diverse target identification technologies applicable for marine natural product research.
+
+SOURCE: Pharmacological research
+PDF URL: None
+CITED BY COUNT: 74
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Identification (biology)', 'Biochemical engineering', 'Natural product', 'Organism', 'Natural (archaeology)', 'Computer science', 'Process (computing)', 'Isolation (microbiology)', 'Risk analysis (engineering)', 'Computational biology', 'Data science', 'Biology', 'Business', 'Engineering', 'Bioinformatics', 'Ecology', 'Paleontology', 'Biochemistry', 'Operating system']

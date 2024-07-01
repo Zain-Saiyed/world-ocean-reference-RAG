@@ -1,0 +1,12 @@
+ID: W1983774667
+TITLE: Circulation, retention, and mixing of waters within the Weddell‐Scotia Confluence, Southern Ocean: The role of stratified Taylor columns
+AUTHOR: ['Michael P. Meredith', 'Andrew Meijers', 'Alberto C. Naveira Garabato', 'Peter J. Brown', 'Hugh J. Venables', 'E. Povl Abrahamsen', 'Loïc Jullion', 'Marie‐José Messias']
+ABSTRACT:
+Abstract The waters of the Weddell‐Scotia Confluence (WSC) lie above the rugged topography of the South Scotia Ridge in the Southern Ocean. Meridional exchanges across the WSC transfer water and tracers between the Antarctic Circumpolar Current (ACC) to the north and the subpolar Weddell Gyre to the south. Here, we examine the role of topographic interactions in mediating these exchanges, and in modifying the waters transferred. A case study is presented using data from a free‐drifting, intermediate‐depth float, which circulated anticyclonically over Discovery Bank on the South Scotia Ridge for close to 4 years. Dimensional analysis indicates that the local conditions are conducive to the formation of Taylor columns. Contemporaneous ship‐derived transient tracer data enable estimation of the rate of isopycnal mixing associated with this column, with values of O(1000 m 2 /s) obtained. Although necessarily coarse, this is of the same order as the rate of isopycnal mixing induced by transient mesoscale eddies within the ACC. A picture emerges of the Taylor column acting as a slow, steady blender, retaining the waters in the vicinity of the WSC for lengthy periods during which they can be subject to significant modification. A full regional float data set, bathymetric data, and a Southern Ocean state estimate are used to identify other potential sites for Taylor column formation. We find that they are likely to be sufficiently widespread to exert a significant influence on water mass modification and meridional fluxes across the southern edge of the ACC in this sector of the Southern Ocean.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Isopycnal', 'Water column', 'Geology', 'Ocean gyre', 'Oceanography', 'Potential temperature', 'Circumpolar deep water', 'Ridge', 'Water mass', 'Antarctic Bottom Water', 'Atmospheric sciences', 'Thermohaline circulation', 'North Atlantic Deep Water', 'Paleontology', 'Subtropics', 'Fishery', 'Biology']

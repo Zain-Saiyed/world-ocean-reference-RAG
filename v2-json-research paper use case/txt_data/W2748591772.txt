@@ -1,0 +1,12 @@
+ID: W2748591772
+TITLE: Antifouling Compounds from Marine Invertebrates
+AUTHOR: ['Shu‐Hua Qi', 'Ming Xuan']
+ABSTRACT:
+In this review, a comprehensive overview about the antifouling compounds from marine invertebrates is described. In total, more than 198 antifouling compounds have been obtained from marine invertebrates, specifically, sponges, gorgonian and soft corals.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/15/9/263/pdf?version=1503894217
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Gorgonian', 'Biofouling', 'Marine invertebrates', 'Invertebrate', 'Ecology', 'Sponge', 'Biology', 'Coral', 'Botany', 'Membrane', 'Genetics']

@@ -1,0 +1,12 @@
+ID: W2875535636
+TITLE: First insights into the movements of young-of-the-year white sharks (Carcharodon carcharias) in the western North Atlantic Ocean
+AUTHOR: ['Tobey H. Curtis', 'Gregory A. Metzger', 'Christopher J. Fischer', 'Brett McBride', 'Michael McCallister', 'Leann J. Winn', 'Jessica Quinlan', 'Matthew J. Ajemian']
+ABSTRACT:
+Abstract In recent years, white sharks ( Carcharodon carcharias ) have become more accessible to researchers off the northeastern U.S. as feeding aggregation sites have emerged and the population has increased. However, there has been limited research on young-of-the-year (YOY) sharks relative to older age classes in this region. Previous research indicated that YOY white sharks were most frequently observed in the New York Bight, suggesting the region serves a nursery role. To further examine the species’ use of this area, we deployed satellite and acoustic tags on ten YOY white sharks (138–166 cm total length) off Long Island, New York. The sharks remained resident in New York Bight waters through summer (August through October), further supporting the notion that the region is a nursery area. Southward movements were observed during fall, with overwintering habitat identified off North and South Carolina shelf waters. Return migrations toward the New York Bight were observed in some individuals the following spring. YOY white sharks in this heavily-populated region are exposed to anthropogenic impacts such as fisheries bycatch and coastal habitat degradation. As juvenile survival rates are important for long-term population sustainability, further research is necessary to assess the potential impacts of these activities on the western North Atlantic white shark population.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-29180-5.pdf
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Carcharias', 'Bycatch', 'Fishery', 'Population', 'Juvenile', 'Habitat', 'Geography', 'Overwintering', 'White (mutation)', 'Chondrichthyes', 'Oceanography', 'Ecology', 'Biology', 'Demography', 'Fishing', 'Geology', 'Biochemistry', 'Sociology', 'Gene']

@@ -1,0 +1,12 @@
+ID: W2282358361
+TITLE: A review of renewable energy utilization in islands
+AUTHOR: ['Yonghong Kuang', 'Yongjun Zhang', 'Bin Zhou', 'Canbing Li', 'Yijia Cao', 'Canbing Li', 'Long Zeng']
+ABSTRACT:
+With the surge in the fossil fuel prices and increasing environmental concerns, significant efforts have been made to propel and develop alternative energy technologies to cope with the energy shortage for island power grids. Recent advancements and developments on power electronic technologies have enabled the renewable energy sources to be grid-connected with gradually higher penetration in island electricity supply. Consequently, the utilization and efficiency of renewable energy resources in islands has received remarkable attention from both the academia and industry. In this paper, a brief overview on the current status of island energy resources is described. Then, the existing utilization status and development potential of various renewable generations for island power grids, including solar, wind, hydropower, biomass, ocean and geothermal energy, are investigated. Furthermore, the advanced technologies to improve the penetration level of island renewables, including energy storage techniques, hybrid renewable energy system, microgrid, demand side management, distributed generation and smart grid, are presented.
+
+SOURCE: Renewable & sustainable energy reviews
+PDF URL: None
+CITED BY COUNT: 344
+PUBLICATION YEAR: 2016
+TYPE: review
+CONCEPTS: ['Renewable energy', 'Microgrid', 'Intermittent energy source', 'Wind power', 'Energy development', 'Distributed generation', 'Environmental economics', 'Energy storage', 'Hydropower', 'Energy engineering', 'Pumped-storage hydroelectricity', 'Environmental science', 'Fossil fuel', 'Electricity generation', 'Natural resource economics', 'Engineering', 'Waste management', 'Power (physics)', 'Electrical engineering', 'Economics', 'Physics', 'Quantum mechanics']

@@ -1,0 +1,12 @@
+ID: W2955948037
+TITLE: Non‐resource effects of foundation species on meta‐ecosystem stability and function
+AUTHOR: ['Julien Massé Jodoin', 'Frédéric Guichard']
+ABSTRACT:
+Ecosystems such as forests and mussel beds, that are driven by foundation species can be characterized by the slow accumulation of matter that affect their structural stability. This non‐resource effect of matter on ecosystems can lead to disturbances and to pulsed release and transport of matter over regional scales. However, non‐resource effects of endogenous pulses of matter on meta‐ecosystem stability and function remain largely unknown. Using a two‐patch meta‐ecosystem model of mussel bed dynamics, we show that non‐resource effects of matter on the structural stability of mussel beds promote pulsed releases of matter and fluctuations in population abundance. These pulsed fluctuations explain the maintenance of meta‐ecosystem heterogeneity in the distribution of abundance and matter through out‐of‐phase synchrony and asynchrony over a broad range of connectivity. These regimes of spatial (a)synchrony explain a tradeoff between the regional retention of matter (ecosystem function) and metapopulation persistence. These results reveal how foundation species can cause local and catastrophic changes that can promote regional asynchrony and stability, even under strong connectivity.
+
+SOURCE: Oikos
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Metapopulation', 'Ecology', 'Foundation species', 'Ecosystem engineer', 'Environmental science', 'Abundance (ecology)', 'Population', 'Biology', 'Biological dispersal', 'Demography', 'Sociology']

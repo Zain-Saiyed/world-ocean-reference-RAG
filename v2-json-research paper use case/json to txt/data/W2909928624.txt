@@ -1,0 +1,12 @@
+ID: W2909928624
+TITLE: Satellite surveillance of fishing vessel activity in the Ascension Island Exclusive Economic Zone and Marine Protected Area
+AUTHOR: ['Gwilym Rowlands', 'Judith Brown', 'Bradley Soule', 'Pablo Trueba Boluda', 'Alex D. Rogers']
+ABSTRACT:
+Designation of large expanses of the ocean as Marine Protected Area (MPA) is increasingly advocated and realised. The effectiveness of such MPAs, however, requires improvements to vessel monitoring and enforcement capability. In 2014 commercial fishing was excluded from the Ascension Island Exclusive Economic Zone (EEZ). In 2015, through updated regulations, a licenced fishery re-opened in the northern half of the EEZ while the southern half remained closed. To assess compliance with these closures and regulations, several promising satellite technologies (Satellite Automatic Identification System (S-AIS), Synthetic Aperture Radar (SAR), Vessel Monitoring System (VMS) of two vessels), were trialled alongside at-sea patrols. Use of SAR enabled assessment of 'dark' (non-AIS transmitting) vessels, the scope of whose activities are hardest to gauge. The high level of compliance with regulations observed, suggests the MPA may prove effective, yet a need for vigilance remains. Vessels aggregate near the EEZ border and a quarter of vessels tracked across three years exhibited S-AIS transmission gaps and present a heightened compliance risk. Use of remote, rather than local, expertise and infrastructure provide a blue-print and economies of scale for replicating monitoring across similarly sized MPAs; particularly for large (>~ 25 m) vessels with metallic superstructures conducive to SAR detection. Funding ongoing monitoring in Ascension is challenged by current levels of license uptake, which provides insufficient offsetting revenue. Satellite-derived intelligence, can be used to set risk thresholds and trigger detailed investigations. Planning long-term monitoring must, however, incorporate adequate resources for follow-up, through patrols and correspondence with flag-states and fisheries management organisations.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Exclusive economic zone', 'Marine protected area', 'Fishing', 'Enforcement', 'Business', 'Geography', 'Fishery', 'Political science', 'Habitat', 'Law', 'Biology', 'Ecology']

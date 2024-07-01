@@ -1,0 +1,12 @@
+ID: W2736714237
+TITLE: Microbial and genetically engineered oils as replacements for fish oil in aquaculture feeds
+AUTHOR: ['Matthew Sprague', 'Mónica B. Betancor', 'Douglas R. Tocher']
+ABSTRACT:
+As the global population grows more of our fish and seafood are being farmed. Fish are the main dietary source of the omega-3 (n-3) long-chain polyunsaturated fatty acids (LC-PUFA), eicosapentaenoic (EPA) and docosahexaenoic (DHA) acids, but these cannot be produced in sufficient quantities as are now required for human health. Farmed fish have traditionally been fed a diet consisting of fishmeal and fish oil, rich in n-3 LC-PUFA. However, the increase in global aquaculture production has resulted in these finite and limited marine ingredients being replaced with sustainable alternatives of terrestrial origin that are devoid of n-3 LC-PUFA. Consequently, the nutritional value of the final product has been partially compromised with EPA and DHA levels both falling. Recent calls from the salmon industry for new sources of n-3 LC-PUFA have received significant commercial interest. Thus, this review explores the technologies being applied to produce de novo n-3 LC-PUFA sources, namely microalgae and genetically engineered oilseed crops, and how they may be used in aquafeeds to ensure that farmed fish remain a healthy component of the human diet.
+
+SOURCE: Biotechnology letters
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs10529-017-2402-6.pdf
+CITED BY COUNT: 130
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Fish oil', 'Aquaculture', 'Polyunsaturated fatty acid', 'Docosahexaenoic acid', 'Eicosapentaenoic acid', 'Biology', 'Food science', 'Commercial fish feed', 'Fish meal', 'Biotechnology', 'Genetically modified organism', 'Population', 'Fish <Actinopterygii>', 'Fishery', 'Fatty acid', 'Biochemistry', 'Demography', 'Sociology', 'Gene']

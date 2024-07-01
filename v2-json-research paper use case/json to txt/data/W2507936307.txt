@@ -1,0 +1,12 @@
+ID: W2507936307
+TITLE: A Global Review of Cumulative Pressure and Impact Assessments in Marine Environments
+AUTHOR: ['Samuli Korpinen', 'Jesper H. Andersen']
+ABSTRACT:
+Ever more extensive use of marine space by human activities and greater demands for marine natural resources has led to increases in both duration and spatial extent of pressures on the marine environment. In parallel, the global crisis of decreasing biodiversity and loss of habitats has revitalized scientific research on human impacts and lead to methodological development of cumulative pressure and impact assessments (CPIA). In Europe alone, almost twenty CPIAs have been published in the past 10 years and some more in other sea regions of the world. In this review, we have analysed 36 recent marine CPIAs and focused on their methodological approaches. We were especially interested in uncovering methodological similarities, identifying best practices and analysing whether the CPIAs have addressed the recent criticism. The review results showed surprisingly similar methodological approaches in >50% of the studies, raising hopes for finding coherence in international assessment efforts. Although the CPIA methods showed relatively few innovative approaches for addressing the major caveats of previous CPIAs, the most recent studies indicate that improved approaches may be soon found.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2016.00153/pdf
+CITED BY COUNT: 102
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Marine biodiversity', 'Cumulative effects', 'Environmental resource management', 'Environmental planning', 'Geography', 'Environmental science', 'Ecology', 'Biology']

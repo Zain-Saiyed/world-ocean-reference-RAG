@@ -1,0 +1,12 @@
+ID: W2585745483
+TITLE: Bioaccumulation of persistent organic pollutants in the deepest ocean fauna
+AUTHOR: ['Alan J. Jamieson', 'Tamas Malkocs', 'Stuart B. Piertney', 'Toyonobu Fujii', 'Zulin Zhang']
+ABSTRACT:
+The legacy and reach of anthropogenic influence is most clearly evidenced by its impact on the most remote and inaccessible habitats on Earth. Here we identify extraordinary levels of persistent organic pollutants in the endemic amphipod fauna from two of the deepest ocean trenches (>10,000 metres). Contaminant levels were considerably higher than documented for nearby regions of heavy industrialization, indicating bioaccumulation of anthropogenic contamination and inferring that these pollutants are pervasive across the world’s oceans and to full ocean depth. Amphipod fauna from the deepest ocean trenches are revealed to contain significant levels of persistent organic pollutants.
+
+SOURCE: Nature ecology & evolution
+PDF URL: None
+CITED BY COUNT: 262
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Bioaccumulation', 'Fauna', 'Pollutant', 'Environmental science', 'Habitat', 'Invertebrate', 'Ecology', 'Oceanography', 'Geology', 'Biology']

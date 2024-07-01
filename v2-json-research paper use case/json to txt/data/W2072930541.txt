@@ -1,0 +1,12 @@
+ID: W2072930541
+TITLE: The vulnerability of global cities to climate hazards
+AUTHOR: ['Alex de Sherbinin', 'A. Schiller', 'Alex Pulsipher']
+ABSTRACT:
+This paper examines the vulnerabilities of three global coastal cities — Mumbai, Rio de Janeiro and Shanghai — to climate hazards. The paper highlights system characteristics that, in unique combinations, create place-based vulnerabilities to climate hazards. It describes these vulnerabilities then discusses the implications of the results for city planners and managers. A concluding section assesses some of the political obstacles to better disaster preparedness.
+
+SOURCE: Environment and urbanization
+PDF URL: https://journals.sagepub.com/doi/pdf/10.1177/0956247807076725
+CITED BY COUNT: 403
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Vulnerability (computing)', 'Preparedness', 'Environmental planning', 'Disaster preparedness', 'Climate change', 'Politics', 'Geography', 'Vulnerability assessment', 'Emergency management', 'Political science', 'Environmental resource management', 'Environmental science', 'Computer security', 'Psychological resilience', 'Computer science', 'Psychology', 'Ecology', 'Law', 'Psychotherapist', 'Biology']

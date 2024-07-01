@@ -1,0 +1,12 @@
+ID: W2124140738
+TITLE: Centennial-Scale Sea Surface Temperature Analysis and Its Uncertainty
+AUTHOR: ['Shoji Hirahara', 'Masayoshi Ishii', 'Yoshihiro Fukuda']
+ABSTRACT:
+Abstract A new sea surface temperature (SST) analysis on a centennial time scale is presented. In this analysis, a daily SST field is constructed as a sum of a trend, interannual variations, and daily changes, using in situ SST and sea ice concentration observations. All SST values are accompanied with theory-based analysis errors as a measure of reliability. An improved equation is introduced to represent the ice–SST relationship, which is used to produce SST data from observed sea ice concentrations. Prior to the analysis, biases of individual SST measurement types are estimated for a homogenized long-term time series of global mean SST. Because metadata necessary for the bias correction are unavailable for many historical observational reports, the biases are determined so as to ensure consistency among existing SST and nighttime air temperature observations. The global mean SSTs with bias-corrected observations are in agreement with those of a previously published study, which adopted a different approach. Satellite observations are newly introduced for the purpose of reconstruction of SST variability over data-sparse regions. Moreover, uncertainty in areal means of the present and previous SST analyses is investigated using the theoretical analysis errors and estimated sampling errors. The result confirms the advantages of the present analysis, and it is helpful in understanding the reliability of SST for a specific area and time period.
+
+SOURCE: Journal of climate
+PDF URL: None
+CITED BY COUNT: 436
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Climatology', 'Sea surface temperature', 'Environmental science', 'Scale (ratio)', 'Sea ice', 'Satellite', 'Meteorology', 'Geology', 'Geography', 'Cartography', 'Aerospace engineering', 'Engineering']

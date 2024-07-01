@@ -1,0 +1,12 @@
+ID: W2519536588
+TITLE: Are Mediterranean Monk Seals, Monachus monachus, Being Left to Save Themselves from Extinction?
+AUTHOR: ['Giuseppe Notarbartolo di Sciara', 'S. Kotomatas']
+ABSTRACT:
+Mediterranean monk seals (Monachus monachus), amongst the most endangered marine mammals, are showing localised signs of recovery warranting their recent down-listing, from Critically Endangered to Endangered, on the International Union for the Conservation of Nature (IUCN) Red List. This, however, cannot be taken as a reason for complacency, as the species’ condition is still very critical, having been extirpated from most of its historical range. Monk seals within the Mediterranean, a ‘unit to conserve’ separate from Atlantic conspecifics, were once widely distributed throughout the Mediterranean Sea, with their range also extending into the Sea of Marmara and the Black Sea. Today breeding nuclei persist only in the northeastern portion of the region, in Greek, Turkish and Cypriot waters. The main reasons for their decline include deliberate killing and human encroachment of their critical habitat. Past conservation efforts have mostly failed due to the inability of implementing institutional commitments, lack of coordination and continuity of efforts and insufficient consideration of the socioeconomic implications of conserving monk seals. Yet the small reversal of the species’ decline that has been observed in Greece may have resulted from conservation efforts by civil society, combined with ongoing societal change within the local communities coexisting with the seals. The inaccessibility of large portions of monk seal habitat in the Eastern Mediterranean Sea may also have contributed, by offering to the monk seals a refuge from persecution and encroachment. Despite continued threats to monk seals, conservation activities at the local scale that utilise lessons learned from previous failures and successes could secure the survival of the largest Mediterranean colony of monk seals, while also providing a model to support the species’ recovery in other portions of its former range.
+
+SOURCE: Advances in marine biology
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['IUCN Red List', 'Endangered species', 'Geography', 'Critically endangered', 'Fishery', 'Mediterranean climate', 'Habitat', 'Ecology', 'Biology', 'Archaeology']

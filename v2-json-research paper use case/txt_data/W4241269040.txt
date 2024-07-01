@@ -1,0 +1,12 @@
+ID: W4241269040
+TITLE: Marine Power Generation Technologies
+AUTHOR: ['Paul Breeze']
+ABSTRACT:
+There are four ways in which the world’s oceans can provide an energy source for power generation. Marine currents around coastlines, inlets and estuaries can be exploited with underwater turbines. Ocean waves are also a source of energy that can be tapped using a variety of different devices that convert the oscillating motion of waves into a motion that can be used to provide electricity generation. The world’s oceans, particularly in the tropical regions, are massive solar collectors, absorbing heat which creates a hot layer on the surface of the sea. This hot water can be used to drive a heat engine, with cooling taken from the ocean depths where the temperature remains low. The mixing of fresh and salt water also releases energy, and this too can be tapped in a number of ways to generate electricity. All these are being developed as a means of power generation.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Marine energy', 'Electricity generation', 'Underwater', 'Marine engineering', 'Environmental science', 'Oceanography', 'Electricity', 'Inlet', 'Meteorology', 'Power (physics)', 'Engineering', 'Geology', 'Renewable energy', 'Geography', 'Electrical engineering', 'Physics', 'Quantum mechanics']

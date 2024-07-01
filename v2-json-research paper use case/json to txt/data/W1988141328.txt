@@ -1,0 +1,12 @@
+ID: W1988141328
+TITLE: Impact of storms and dense water cascading on shelf‐slope exchanges in the Gulf of Lion (NW Mediterranean)
+AUTHOR: ['Caroline Ulses', 'Claude Estournel', 'Jérôme Bonnin', 'Xavier Durrieu de Madron', 'Patrick Marsaleix']
+ABSTRACT:
+In situ observations of ocean temperature, salinity, density and current collected from November 2003 to May 2004 in the Gulf of Lion were combined with numerical modeling in order to better understand the mechanisms and forcing conditions that control shelf‐slope exchanges during autumn and winter times. Outputs from a 3‐D coastal circulation model revealed that marine storms (and related processes) and dense water cascading were the two major mechanisms controlling shelf‐slope exchanges. Marine storms induced accumulation of seawater along the coast, generated a strong cyclonic circulation on the shelf, and caused downwelling in submarine canyons that facilitated export of shelf water. During fall, because of strong water column stratification at that time, the depth of export remained shallow. In winter, the destratification together with the density increase of shelf water, due to the cooling effect of strong and cold northerly winds, enabled shelf water to plunge down the slope. The results of this study thus highlighted the importance of marine storms for shelf‐slope exchanges, particularly during winter mixed conditions when they reinforced the cascading of dense water.
+
+SOURCE: Journal of geophysical research
+PDF URL: None
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Downwelling', 'Oceanography', 'Stratification (seeds)', 'Storm', 'Geology', 'Current (fluid)', 'Continental shelf', 'Submarine canyon', 'Mediterranean sea', 'Environmental science', 'Water column', 'Mediterranean climate', 'Upwelling', 'Geography', 'Seed dormancy', 'Botany', 'Germination', 'Dormancy', 'Biology', 'Archaeology']

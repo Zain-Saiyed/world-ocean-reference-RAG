@@ -1,0 +1,12 @@
+ID: W2914210254
+TITLE: Río de la Plata: A Neotropical Estuarine System
+AUTHOR: ['Javier García‐Alonso', 'Diego Lercari', 'Omar Defeo']
+ABSTRACT:
+The Río de la Plata, one of the biggest estuaries in the world, is the second largest in South America. The basin is within five countries: Argentina, Bolivia, Brazil, Paraguay, and Uruguay. It has two main tributaries, the Paraná and the Uruguay rivers that feed the Río de la Plata, which in turn discharges the water into the Southwest Atlantic Ocean. Agriculture, forestry, and animal farms are the most important human activities at the basin level, with several dams for electricity generation. Maritime and fluvial traffic, fisheries, and coastal urbanization (including tourism and pollution) are the main drivers at the estuary itself. Its inner part is the source of drinking water for the city of Buenos Aires, while the brackish area harbors sandy beaches that provide ecosystem services mainly associated with recreation, leisure, and tourism. Since the 1970s, an Argentinean-Uruguayan binational commission regulates activities in the estuary. Coastal deterioration, pollution, and overfishing are main threats that need to be more strictly regulated to maintain both the health status and functional ecosystem services.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Estuary', 'Tributary', 'Geography', 'Overfishing', 'Brackish water', 'Recreation', 'Urbanization', 'Environmental protection', 'Fishery', 'Fishing', 'Ecology', 'Cartography', 'Salinity', 'Biology']

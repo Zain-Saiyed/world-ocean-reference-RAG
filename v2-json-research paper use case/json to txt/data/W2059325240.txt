@@ -1,0 +1,12 @@
+ID: W2059325240
+TITLE: Behavior of captive herring exposed to naval sonar transmissions (1.0–1.6 kHz) throughout a yearly cycle
+AUTHOR: ['Lise Doksæter', 'Nils Olav Handegard', 'Olav Rune Godø', 'Petter H. Kvadsheim', 'Nina Nordlund']
+ABSTRACT:
+Atlantic herring, Clupea harengus, is a hearing specialist, and several studies have demonstrated strong responses to man-made noise, for example, from an approaching vessel. To avoid negative impacts from naval sonar operations, a set of studies of reaction patters of herring to low-frequency (1.0–1.5 kHz) naval sonar signals has been undertaken. This paper presents herring reactions to sonar signals and other stimuli when kept in captivity under detailed acoustic and video monitoring. Throughout the experiment, spanning three seasons of a year, the fish did not react significantly to sonar signals from a passing frigate, at received root-mean-square sound-pressure level (SPL) up to 168 dB re 1μPa. In contrast, the fish did exhibit a significant diving reaction when exposed to other sounds, with a much lower SPL, e.g., from a two-stroke engine. This shows that the experimental setup is sensitive to herring reactions when occurring. The lack of herring reaction to sonar signals is consistent with earlier in situ behavioral studies. The complexity of the behavioral reactions in captivity underline the need for better understanding of the causal relationship between stimuli and reaction patterns of fish.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: None
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Herring', 'Sonar', 'Atlantic herring', 'Clupea', 'Captivity', 'Fish <Actinopterygii>', 'Fishery', 'Acoustics', 'Oceanography', 'Environmental science', 'Marine mammals and sonar', 'Noise (video)', 'Marine engineering', 'Sound (geography)', 'Geology', 'Computer science', 'Engineering', 'Zoology', 'Biology', 'Physics', 'Artificial intelligence', 'Image (mathematics)']

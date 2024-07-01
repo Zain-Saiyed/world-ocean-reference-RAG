@@ -1,0 +1,12 @@
+ID: W2328008725
+TITLE: First quantitative exploration of benthic megafaunal assemblages on the mid-oceanic ridge system of the Carlsberg Ridge, Indian Ocean
+AUTHOR: ['Sabyasachi Sautya', 'Baban Ingole', 'Daniel O. B. Jones', 'Durbar Ray', 'K.A. KameshRaju']
+ABSTRACT:
+There are few quantitative studies on deep-sea biodiversity from the Indian Ocean, particularly on the mid-ocean ridges (MOR). We investigated the benthic megafaunal community structure of the Indian Ocean MOR at the Carlsberg Ridge (CR) using underwater video observation by the Television Gripper (TVG) and Ocean Floor Observation System (OFOS) during a multidisciplinary scientific cruise in 2007. Our aim was to observe megafaunal assemblages and their variation with bottom substrate at different geological settings in the CR region. The fauna was identified at best possible taxonomic resolution from video images and data were quantified by photogrammetry. Variation of substratum type was greatest in the deeper areas of the CR region, with substrata varying from fine sediments to basalts. A total of eight substratum types and 90 megafaunal taxa, representing seven phyla, have been classified throughout the 10 transects. Faunal abundances ranged between 171.3 to 5.7 animals 1000 m −2 , with higher abundances at the shallower transects, in off-axial highs, and lower at deeper zones, on the rift valley wall and floor. Cnidarians were dominant at off-axial highs while echinoderms prevailed at rift valley floor transects. Other frequently encountered faunal components were poriferans and chordates, observed at shallower as well as deeper transects. This is the first detailed investigation of megafaunal assemblages from the Indian Ocean MOR.
+
+SOURCE: Journal of the Marine Biological Association of the United Kingdom/Journal of the Marine Biological Association of the UK
+PDF URL: None
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Megafauna', 'Transect', 'Geology', 'Oceanography', 'Ridge', 'Benthic zone', 'Seamount', 'Fauna', 'Paleontology', 'Ecology', 'Pleistocene', 'Biology']

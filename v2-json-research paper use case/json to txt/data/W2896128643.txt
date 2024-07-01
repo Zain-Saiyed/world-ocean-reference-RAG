@@ -1,0 +1,12 @@
+ID: W2896128643
+TITLE: Impacts and adaptation options for estuarine vegetation in a large city
+AUTHOR: ['Kerrylee Rogers', 'Laura A. Mogensen', 'Peter J. Davies', 'Jeffrey J. Kelleway', 'Neil Saintilan', 'G Withycombe']
+ABSTRACT:
+Climate change adaptation options for natural systems are particularly challenging in high density urban settings. We model the vulnerability of estuarine vegetation (mangroves, saltmarshes and Casuarina forest) to sea-level rise in Australia's most populous city, Sydney, and conduct a detailed assessment of impacts and adaptation options for a densely urbanised estuary, the Cooks River. Our modelling demonstrates a range of opportunities for the preservation and, in some cases, expansion of estuarine vegetation area under sea-level rise, though this is largely dependent on the degree of flexibility applied in the management of existing open space. Mangrove area increases under a high sea-level rise scenario, more so than under a low sea-level rise scenario, due to opportunities for landward colonisation. However, this would require estuarine vegetation expansion and land-use conversion of recreational, industrial or private land. Sediment nourishment emerges as a potentially cost-efficient means of preserving wetlands. The mix of wetland types is likely to change without active management, with higher proportion of mangrove and substantially less saltmarsh under all scenarios. Implementation of living shorelines, as opposed to hard defensive structures, could be incentivised. This could be achieved by planning concessions, 'payment for ecosystem services' such as managing 'blue carbon' values, and zoning controls that promote visual amenity and ecological adaptation.
+
+SOURCE: Landscape and urban planning
+PDF URL: None
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Vegetation (pathology)', 'Salt marsh', 'Environmental science', 'Wetland', 'Microclimate', 'Zoning', 'Estuary', 'Climate change', 'Geography', 'Environmental resource management', 'Ecology', 'Law', 'Biology', 'Medicine', 'Pathology', 'Archaeology', 'Political science']

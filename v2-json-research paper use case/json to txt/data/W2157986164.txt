@@ -1,0 +1,12 @@
+ID: W2157986164
+TITLE: Feeding response of the polychaete Sabellaria alveolata (Sabellariidae) to changes in seston concentration
+AUTHOR: ['Stanislas F. Dubois', 'Laurent Barillé', 'Bruno Cognie']
+ABSTRACT:
+Sabellaria alveolata is a tube-building gregarious polychaete that constructs large biogenic reefs. In macrotidal shellfish ecosystems, this species competes for food with cultivated suspension-feeders. The suspension-feeding activity and clearance rate of S. alveolata were investigated in response to changes in seston concentration. A flow-through system was designed to study 225 cm2 reef blocks with more than 500 individuals. The experimental conditions were characterized by increasing concentrations of suspended particulate matter ranging from 6.5 to 153.8 mg L−1, while the organic content of the diet (microalgae Skeletonema costatum) decreased inversely from 49 to 9%, to mimic the dilution of organic matter by inorganic particles, characteristic of tidal resuspension. We showed that the clearance rate exponentially decreased in relation to an increase in SPM concentration. Clearance rate was estimated at 5.3 10− 3 L h− 1 or 0.93 L h− 1 g− 1 (dry weight) for the lowest seston concentration (SPM = 6.5 mg L− 1) and reached the asymptote at CR = 1.97 10− 3 L h− 1 or 0.35 L h− 1 g− 1 (dry weight) when SPM exceeded 45 mg L− 1. Using picture analyses of polychaete movements, we showed that, paradoxically, an increase in SPM concentration did not adversely affect the feeding activity of S. alveolata since the number of filtering individuals remained stable from SPM = 6.5 to 55.5 mg L− 1. These values were applied at the scale of the bay of Mont-Saint-Michel (France) to demonstrate that the filtration pressure of large populations of wild suspension-feeders should not be underestimated when the carrying capacity has to be assessed in the context of increasing bivalve cultures.
+
+SOURCE: Journal of experimental marine biology and ecology
+PDF URL: None
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Seston', 'Polychaete', 'Biology', 'Clearance rate', 'Bay', 'Ecology', 'Dry weight', 'Animal science', 'Environmental chemistry', 'Oceanography', 'Botany', 'Chemistry', 'Phytoplankton', 'Nutrient', 'Geology', 'Endocrinology']

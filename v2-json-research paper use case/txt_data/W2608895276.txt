@@ -1,0 +1,12 @@
+ID: W2608895276
+TITLE: Doubling of coastal flooding frequency within decades due to sea-level rise
+AUTHOR: ['Sean Vitousek', 'Patrick L. Barnard', 'Charles H. Fletcher', 'L. Neil Frazer', 'Li H. Erikson', 'Curt D. Storlazzi']
+ABSTRACT:
+Global climate change drives sea-level rise, increasing the frequency of coastal flooding. In most coastal regions, the amount of sea-level rise occurring over years to decades is significantly smaller than normal ocean-level fluctuations caused by tides, waves, and storm surge. However, even gradual sea-level rise can rapidly increase the frequency and severity of coastal flooding. So far, global-scale estimates of increased coastal flooding due to sea-level rise have not considered elevated water levels due to waves, and thus underestimate the potential impact. Here we use extreme value theory to combine sea-level projections with wave, tide, and storm surge models to estimate increases in coastal flooding on a continuous global scale. We find that regions with limited water-level variability, i.e., short-tailed flood-level distributions, located mainly in the Tropics, will experience the largest increases in flooding frequency. The 10 to 20 cm of sea-level rise expected no later than 2050 will more than double the frequency of extreme water-level events in the Tropics, impairing the developing economies of equatorial coastal cities and the habitability of low-lying Pacific island nations.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-01362-7.pdf
+CITED BY COUNT: 555
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sea level rise', 'Flooding (psychology)', 'Coastal flood', 'Sea level', 'Oceanography', 'Geography', 'Climate change', 'Geology', 'Psychology', 'Psychotherapist']

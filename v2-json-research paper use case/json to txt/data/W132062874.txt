@@ -1,0 +1,12 @@
+ID: W132062874
+TITLE: Measurement of Underwater Noise Arising From Marine Aggregate Operations
+AUTHOR: ['Stephen Robinson', 'Pete D. Theobald', 'Paul A. Lepper', 'Gary Hayman', 'Victor F. Humphrey', 'Lian Sheng Wang', 'Samantha Mumford']
+ABSTRACT:
+As of 2009, there were 75 licensed areas within UK waters for marine aggregate extraction, with dredging activity taking place at any given point in time. In 2008, the dredged area totaled 137.9 km2, extracting 21.24 million tons of sand and gravel for the building and construction industry. There is concern that the extraction of marine aggregate has the potential to generate noise levels that could have a negative impact on marine species in or around the dredging area. Although this paper deals only with the underwater noise generated and the potential impact it might have, there are many ways in which dredging can have an impact on marine life. For marine aggregate extraction, the type of dredger used is a trailing suction hopper dredger (TSHD). This type of dredger lowers a drag head and suction pipe to the sea floor, in water depths of up to 50 m, to extract the sand or gravel, depositing it in a hopper on the vessel. The vessel will often screen the dredged material for granular size and return the unwanted material and water over the side of the vessel. Such an operation can take from as little as 3 h to up to 12 h, concentrated in a relatively small area. The vessels usually dredge in tight lanes, usually less than 2 km in length and up to 100 m in width.
+
+SOURCE: Advances in experimental medicine and biology
+PDF URL: None
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2012
+TYPE: book-chapter
+CONCEPTS: ['Dredging', 'Environmental science', 'Marine engineering', 'Suction', 'Underwater', 'Aggregate (composite)', 'Extraction (chemistry)', 'Seabed', 'Fishing', 'Oceanography', 'Geology', 'Geotechnical engineering', 'Engineering', 'Fishery', 'Materials science', 'Mechanical engineering', 'Chemistry', 'Chromatography', 'Composite material', 'Biology']

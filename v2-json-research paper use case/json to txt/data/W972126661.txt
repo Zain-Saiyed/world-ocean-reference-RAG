@@ -1,0 +1,12 @@
+ID: W972126661
+TITLE: Emerging contaminants (pharmaceuticals, personal care products, a food additive and pesticides) in waters of Sydney estuary, Australia
+AUTHOR: ['G.F. Birch', 'Daniel S. Drage', 'Kristie Thompson', 'Geoff Eaglesham', 'Jochen F. Mueller']
+ABSTRACT:
+The current investigation of marine water from 30 sites adjacent to stormwater outlets across the entire Sydney estuary is the first such research in Australia. The number of analytes detected were: 8/59 pharmaceutical compounds (codeine, paracetamol, tramadol, venlafaxine, propranolol, fluoxetine, iopromide and carbamazepine), 7/38 of the pesticides (2,4-dichlorophenoxyacetic acid (2,4-D), 3,4-dichloroaniline, carbaryl, diuron, 2-methyl-4-chlorophenoxyacetic acid (MCPA), mecoprop and simazine) and 0/3 of the personal care products (PCPs) analysed. An artificial sweetener (acesulfame) was detected, however none of the nine antibiotics analysed were identified. Sewage water is not discharged to this estuary, except infrequently as overflow during high-precipitation events. The presence of acesulfame (a recognised marker of domestic wastewater) and pharmaceuticals in water from all parts of the estuary after a dry period, suggests sewage water is leaking into the stormwater system in this catchment. The pesticides are applied to the environment and were discharged via stormwater to the estuary.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 159
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Environmental impact of pharmaceuticals and personal care products', 'Stormwater', 'Estuary', 'Environmental science', 'Sewage', 'Environmental chemistry', 'Wastewater', 'Pesticide', 'Surface runoff', 'Environmental engineering', 'Chemistry', 'Fishery', 'Ecology', 'Biology']

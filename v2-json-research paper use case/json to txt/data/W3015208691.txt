@@ -1,0 +1,12 @@
+ID: W3015208691
+TITLE: Biodegradation of weathered crude oil in seawater with frazil ice
+AUTHOR: ['Synnøve Lofthus', 'Ingrid Bakke', 'Julien Tremblay', 'Charles W. Greer', 'Odd Gunnar Brakstad']
+ABSTRACT:
+As ice extent in the Arctic is declining, oil and gas activities will increase, with higher risk of oil spills to the marine environment. To determine biotransformation of dispersed weathered oil in newly formed ice, oil dispersions (2–3 ppm) were incubated in a mixture of natural seawater and frazil ice for 125 days at −2 °C. Dispersed oil in seawater without frazil ice were included in the experimental setup. Presence or absence of frazil ice was a strong driver for microbial community structures and affected the rate of oil degradation. n-alkanes were degraded faster in the presence of frazil ice, the opposite was the case for naphthalenes and 2–3 ring PAHs. No degradation of 4–6 ring PAHs was observed in any of the treatments. The total petroleum oil was not degraded to any significant degree, suggesting that oil will freeze into the ice matrix and persist throughout the icy season.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Seawater', 'Sea ice', 'Petroleum', 'Environmental science', 'Biodegradation', 'Environmental chemistry', 'Arctic', 'Geology', 'Chemistry', 'Oceanography', 'Organic chemistry', 'Paleontology']

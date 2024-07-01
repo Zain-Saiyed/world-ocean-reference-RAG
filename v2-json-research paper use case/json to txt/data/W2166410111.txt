@@ -1,0 +1,12 @@
+ID: W2166410111
+TITLE: The Pacific‐Atlantic seesaw and the Bering Strait
+AUTHOR: ['Aixue Hu', 'Gerald A. Meehl', 'Weiqing Han', 'Ayako Abe‐Ouchi', 'C. Morrill', 'Yusuke Okazaki', 'M. O. Chikamoto']
+ABSTRACT:
+Paleo proxy data and previous modeling studies both indicate that the massive discharge of icebergs into the North Atlantic may have led to a (nearly) collapsed Atlantic meridional overturning circulation (AMOC), resulting in a seesaw‐like climate change between the North Pacific and North Atlantic, with a warming in the former and a cooling in the latter. Here by using a fully coupled climate model, we show that this Pacific‐Atlantic seesaw associated with changes of the AMOC can only occur when the Bering Strait is closed. As this strait is closed, the oceanic communication between the North Pacific and Atlantic is cut off. When AMOC collapses, the North Atlantic becomes cooler, but the North Pacific becomes warmer due to the buildup of the Pacific meridional overturning circulation which transports more warm and salty subtropical water into the North Pacific, leading to seesaw‐like climate changes in the two ocean basins.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Oceanography', 'Geology', 'Seesaw molecular geometry', 'Pacific ocean', 'Climatology', 'Physics', 'Nuclear physics', 'Neutrino']

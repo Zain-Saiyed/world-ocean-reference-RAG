@@ -1,0 +1,12 @@
+ID: W2104878703
+TITLE: Assessing environmental impacts of offshore wind farms: lessons learned and recommendations for the future
+AUTHOR: ['Helen Bailey', 'Kate L. Brookes', 'Paul M. Thompson']
+ABSTRACT:
+Offshore wind power provides a valuable source of renewable energy that can help reduce carbon emissions. Technological advances are allowing higher capacity turbines to be installed and in deeper water, but there is still much that is unknown about the effects on the environment. Here we describe the lessons learned based on the recent literature and our experience with assessing impacts of offshore wind developments on marine mammals and seabirds, and make recommendations for future monitoring and assessment as interest in offshore wind energy grows around the world. The four key lessons learned that we discuss are: 1) Identifying the area over which biological effects may occur to inform baseline data collection and determining the connectivity between key populations and proposed wind energy sites, 2) The need to put impacts into a population level context to determine whether they are biologically significant, 3) Measuring responses to wind farm construction and operation to determine disturbance effects and avoidance responses, and 4) Learn from other industries to inform risk assessments and the effectiveness of mitigation measures. As the number and size of offshore wind developments increases, there will be a growing need to consider the population level consequences and cumulative impacts of these activities on marine species. Strategically targeted data collection and modeling aimed at answering questions for the consenting process will also allow regulators to make decisions based on the best available information, and achieve a balance between climate change targets and environmental legislation.
+
+SOURCE: Aquatic biosystems
+PDF URL: https://aquaticbiosystems.biomedcentral.com/counter/pdf/10.1186/2046-9063-10-8
+CITED BY COUNT: 213
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Offshore wind power', 'Context (archaeology)', 'Wind power', 'Environmental resource management', 'Baseline (sea)', 'Renewable energy', 'Population', 'Legislation', 'Environmental impact assessment', 'Environmental planning', 'Environmental science', 'Climate change', 'Business', 'Risk analysis (engineering)', 'Environmental economics', 'Engineering', 'Geography', 'Ecology', 'Fishery', 'Electrical engineering', 'Demography', 'Archaeology', 'Sociology', 'Political science', 'Law', 'Economics', 'Biology']

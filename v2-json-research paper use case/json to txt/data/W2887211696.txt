@@ -1,0 +1,12 @@
+ID: W2887211696
+TITLE: Wealthy countries dominate industrial fishing
+AUTHOR: ['Douglas J. McCauley', 'Caroline Jablonicky', 'Edward H. Allison', 'Christopher D. Golden', 'Francis H. Joyce', 'Juan Mayorga', 'David A. Kroodsma']
+ABSTRACT:
+The patterns by which different nations share global fisheries influence outcomes for food security, trajectories of economic development, and competition between industrial and small-scale fishing. We report patterns of industrial fishing effort for vessels flagged to higher- and lower-income nations, in marine areas within and beyond national jurisdiction, using analyses of high-resolution fishing vessel activity data. These analyses reveal global dominance of industrial fishing by wealthy nations. Vessels flagged to higher-income nations, for example, are responsible for 97% of the trackable industrial fishing on the high seas and 78% of such effort within the national waters of lower-income countries. These publicly accessible vessel tracking data have important limitations. However, insights from these new analyses can begin to strategically inform important international- and national-level efforts underway now to ensure equitable and sustainable sharing of fisheries.
+
+SOURCE: Science advances
+PDF URL: https://www.science.org/doi/pdf/10.1126/sciadv.aau2161?download=true
+CITED BY COUNT: 77
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishing', 'Jurisdiction', 'Business', 'Fishery', 'International waters', 'Food security', 'Fish stock', 'Exclusive economic zone', 'Scale (ratio)', 'Dominance (genetics)', 'Natural resource economics', 'Geography', 'Economics', 'Political science', 'Biochemistry', 'Chemistry', 'Cartography', 'Archaeology', 'Gene', 'Law', 'Biology', 'Agriculture']

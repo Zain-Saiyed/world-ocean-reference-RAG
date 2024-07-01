@@ -1,0 +1,12 @@
+ID: W2018497432
+TITLE: Sources, impacts and trends of pharmaceuticals in the marine and coastal environment
+AUTHOR: ['Sally Gaw', 'Kevin V. Thomas', 'Thomas H. Hutchinson']
+ABSTRACT:
+There has been a significant investment in research to define exposures and potential hazards of pharmaceuticals in freshwater and terrestrial ecosystems. A substantial number of integrated environmental risk assessments have been developed in Europe, North America and many other regions for these situations. In contrast, comparatively few empirical studies have been conducted for human and veterinary pharmaceuticals that are likely to enter coastal and marine ecosystems. This is a critical knowledge gap given the significant increase in coastal human populations around the globe and the growth of coastal megacities, together with the increasing importance of coastal aquaculture around the world. There is increasing evidence that pharmaceuticals are present and are impacting on marine and coastal environments. This paper reviews the sources, impacts and concentrations of pharmaceuticals in marine and coastal environments to identify knowledge gaps and suggests focused case studies as a priority for future research.
+
+SOURCE: Philosophical transactions - Royal Society. Biological sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2013.0572
+CITED BY COUNT: 353
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Ecosystem', 'Aquaculture', 'Environmental resource management', 'Megacity', 'Fishery', 'Human health', 'Geography', 'Environmental science', 'Environmental protection', 'Environmental planning', 'Ecology', 'Fish <Actinopterygii>', 'Biology', 'Environmental health', 'Medicine']

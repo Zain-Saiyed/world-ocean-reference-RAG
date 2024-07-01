@@ -1,0 +1,12 @@
+ID: W2927866601
+TITLE: An assessment of the wind and wave power potential in the island environment
+AUTHOR: ['Eugen Rusu', 'Florin Onea']
+ABSTRACT:
+The objective of the present work is to provide a comprehensive picture of the benefits coming from a wind and wave project that would operate near the largest and the most significant islands. According to the data processed in this study, the wind power has values in the range 47.1 W/m2 (Borneo) – 1430 W/m2 (Greenland), while for the wave power a minimum value of 2.28 kW/m is noticed close to Sulawesi, compared to a maximum of 68.8 kW/m encountered close to Tasmania. As a next step, the performances of several wind and wave generators were evaluated. Thus, a wind farm may reduce the emissions with a maximum 84% in the case of Madagascar, or 88% near Iceland, while from the wave converters, only the Wave Dragon may reduce about 8% in Ireland or, on the other hand 86% in Iceland. In the final part of the work, the levelised cost of energy (LCOE) was also assessed. Thus, it was estimated that for some sites the wind systems already satisfy the EU target for the year 2025 of 0.11 USD/kWh, compared to the wave systems that still have a high electricity price being quite far from these targets.
+
+SOURCE: Energy
+PDF URL: None
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Wind power', 'Cost of electricity by source', 'Work (physics)', 'Meteorology', 'Range (aeronautics)', 'Electricity', 'Environmental science', 'Wave power', 'Electricity generation', 'Wind speed', 'Offshore wind power', 'Power (physics)', 'Engineering', 'Geography', 'Electrical engineering', 'Physics', 'Aerospace engineering', 'Mechanical engineering', 'Quantum mechanics']

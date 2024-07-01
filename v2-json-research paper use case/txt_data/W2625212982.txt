@@ -1,0 +1,12 @@
+ID: W2625212982
+TITLE: Invasive alien species on islands: impacts, distribution, interactions and management
+AUTHOR: ['James C. Russell', 'Jean‐Yves Meyer', 'Nick D. Holmes', 'Shyama Pagad']
+ABSTRACT:
+SUMMARY Invasive alien species (IASs) on islands have broad impacts across biodiversity, agriculture, economy, health and culture, which tend to be stronger than on continents. Across small-island developing states (SIDSs), although only a small number of IASs are widely distributed, many more, including those with greatest impact, are found on only a small number of islands. Patterns of island invasion are not consistent across SIDS geographic regions, with differences attributable to correlated patterns in island biogeography and human development. We identify 15 of the most globally prevalent IASs on islands. IAS impacts on islands are exacerbated through interactions with a number of other global change threats, including over-exploitation, agricultural intensification, urban development and climate change. Biosecurity is critical in preventing IAS invasion of islands. Eradication of IASs on islands is possible at early stages of invasion, but otherwise is largely restricted to invasive mammals, or otherwise control is the only option. Future directions in IAS management and research on islands must consider IASs within a broader portfolio of threats to species, ecosystems and people's livelihoods on islands. We advocate for stronger collaborations among island countries and territories faced with the same IASs in similar socio-ecological environments.
+
+SOURCE: Environmental conservation
+PDF URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/730636DB8A207082D7FFAB9EAEA2234A/S0376892917000297a.pdf/div-class-title-invasive-alien-species-on-islands-impacts-distribution-interactions-and-management-div.pdf
+CITED BY COUNT: 175
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biosecurity', 'Geography', 'Livelihood', 'Small Island Developing States', 'Biodiversity', 'Invasive species', 'Alien species', 'Agriculture', 'Ecology', 'Distribution (mathematics)', 'Ecosystem', 'Alien', 'Archipelago', 'Climate change', 'Biology', 'Mathematical analysis', 'Mathematics', 'Politics', 'Citizenship', 'Political science', 'Law']

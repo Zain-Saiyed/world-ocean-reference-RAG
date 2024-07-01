@@ -1,0 +1,12 @@
+ID: W2588131923
+TITLE: Extent of Assessment of Marine Biological Diversity
+AUTHOR: ['United Nations']
+ABSTRACT:
+This chapter provides a summary of currently assessed marine biodiversity in terms of its coverage for the most conspicuous and well known taxonomic groups, particular ecosystems, and large geographic regions. Assessments will be focused on the evaluation of the state of knowledge of marine biodiversity; however, for some groups, such evaluations are provided indirectly by studies aimed to establish threat and or risk status. The groups that have been summarized globally are the sea mammals (cetaceans and pinnipeds), seabirds, sea turtles, sharks, tunas, billfish, corals, and plankton. The special ecosystems are seamounts, vents, and seeps. Regional summaries of coverage of assessments are provided whenever possible for large basins, such as North Atlantic, South Atlantic, North Pacific, South Pacific, Indian Ocean, Arctic Ocean, and Southern Ocean. However, in some cases, information is compiled by countries (e.g., Canada) when these have more than one basin, or by large continents (e.g., South America) which share a history of surveys and exploration. After each of the sections, a global analysis of the status of knowledge of marine biodiversity is summarized within a few synthesis graphs. About 40 scientists contributed to this effort, each within their area of expertise and specified for each subsection. Supplementary material providing a list of assessments with date, special area, habitat, taxonomic groups, and web information has also been compiled for a few of the regions (Caribbean, Europe, Gulf of Mexico, the Southern Ocean and Sub-Saharan Africa) and States (China, India and Japan), as well as for vents and seeps ecosystems and for turtles (Appendix I). In addition, a complete reference list for further reading for each of the taxonomic groups and regions is provided (Appendix II).
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Geography', 'Biodiversity', 'Marine ecosystem', 'Seamount', 'Fishery', 'Taxonomic rank', 'Oceanography', 'Marine life', 'Marine biodiversity', 'Ecosystem', 'Ecology', 'Biology', 'Geology', 'Taxon']

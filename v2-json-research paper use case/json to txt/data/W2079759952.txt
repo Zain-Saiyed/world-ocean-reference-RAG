@@ -1,0 +1,12 @@
+ID: W2079759952
+TITLE: Understanding bird collisions at wind farms: An updated review on the causes and possible mitigation strategies
+AUTHOR: ['Ana Teresa Marques', 'Helena R. Batalha', 'Sandra Rodrigues', 'Hugo Costa', 'María João Ramos Pereira', 'Carlos Fonseca', 'Miguel Mascarenhas', 'Joana Bernardino']
+ABSTRACT:
+Bird mortality due to collisions with wind turbines is one of the major ecological concerns associated with wind farms. Data on the factors influencing collision risk and bird fatality are sparse and lack integration. This baseline information is critical to the development and implementation of effective mitigation measures and, therefore, is considered a priority research topic. Through an extensive literature review (we compiled 217 documents and include 111 in this paper), we identify and summarize the wide range of factors influencing bird collisions with wind turbines and the available mitigation strategies. Factors contributing to collision risk are grouped according to species characteristics (morphology, sensorial perception, phenology, behavior or abundance), site (landscape, flight paths, food availability and weather) and wind farm features (turbine type and configuration, and lighting). Bird collision risk results from complex interactions between these factors. Due to this complexity, no simple formula can be broadly applied in terms of mitigation strategies. The best mitigation option may involve a combination of more than one measure, adapted to the specificities of each site, wind farm and target species. Assessments during project development and turbine curtailment during operation have been presented as promising strategies in the literature, but need further investigation. Priority areas for future research are: (1) further development of the methodologies used to predict impacts when planning a new facility; (2) assessment of the effectiveness of existing minimization techniques; and (3) identification of new mitigation approaches.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 231
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Collision', 'Turbine', 'Identification (biology)', 'Computer science', 'Environmental resource management', 'Environmental science', 'Wind power', 'Range (aeronautics)', 'Risk analysis (engineering)', 'Business', 'Ecology', 'Engineering', 'Biology', 'Mechanical engineering', 'Computer security', 'Aerospace engineering']

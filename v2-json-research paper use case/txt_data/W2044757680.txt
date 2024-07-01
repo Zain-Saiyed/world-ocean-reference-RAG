@@ -1,0 +1,12 @@
+ID: W2044757680
+TITLE: The excessive complexity of national marine governance systems – Has this decreased in England since the introduction of the Marine and Coastal Access Act 2009?
+AUTHOR: ['Suzanne J. Boyes', 'Michael Elliott']
+ABSTRACT:
+With successive Government restructuring and the introduction of the Marine and Coastal Access Act in 2009, this paper revisits a previous set of organograms created in 2006 indicating the government departments with responsibilities relating to the marine and coastal environment in England in 2014. The 2009 Act presented an opportunity to harmonise marine management by simplifying the complexity in England through a radical restructuring of marine governance; however this is apparently not the case with many overlapping responsibilities still existing. This paper provides an overview of the 2009 Act, discussing some of the significant changes like the creation of the Marine Management Organisation (MMO), examines the current structure of marine management in England following its enactment and highlights the continued overlaps in jurisdiction, responsibilities and complexity of the government agencies with a marine remit.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 68
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Restructuring', 'Jurisdiction', 'Government (linguistics)', 'Corporate governance', 'Business', 'Marine protected area', 'Public administration', 'Marine conservation', 'Political science', 'Environmental resource management', 'Law', 'Ecology', 'Economics', 'Finance', 'Biology', 'Linguistics', 'Philosophy', 'Habitat']

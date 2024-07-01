@@ -1,0 +1,12 @@
+ID: W2030999843
+TITLE: Oxygen control on Holocene cold-water coral development in the eastern Mediterranean Sea
+AUTHOR: ['Hiske G Fink', 'Claudia Wienberg', 'Dierk Hebbeln', 'Helen McGregor', 'Gerhard Schmiedl', 'Marco Taviani', 'André Freiwald']
+ABSTRACT:
+Continuous sedimentary records from an eastern Mediterranean cold-water coral ecosystem thriving in intermediate water depths (∼600 m) reveal a temporary extinction of cold-water corals during the Early to Mid Holocene from 11.4–5.9 cal kyr BP. Benthic foraminiferal assemblage analysis shows low-oxygen conditions of 2 ml l−1 during the same period, compared to bottom-water oxygen values of 4–5 ml l−1 before and after the coral-free interval. The timing of the corals' demise coincides with the sapropel S1 event, during which the deep eastern Mediterranean basin turned anoxic. Our results show that during the sapropel S1 event low oxygen conditions extended to the rather shallow depths of our study site in the Ionian Sea and caused the cold-water corals temporary extinction. This first evidence for the sensitivity of cold-water corals to low oceanic oxygen contents suggests that the projected expansion of tropical oxygen minimum zones resulting from global change will threaten cold-water coral ecosystems in low latitudes in the same way that ocean acidification will do in the higher latitudes.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 73
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Sapropel', 'Coral', 'Oceanography', 'Benthic zone', 'Holocene', 'Geology', 'Mediterranean climate', 'Anoxic waters', 'Water column', 'Bottom water', 'Environmental science', 'Ecology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2339456589
+TITLE: Mangrove response to environmental change in Australia's Gulf of Carpentaria
+AUTHOR: ['Emma Asbridge', 'Richard Lucas', 'Catherine Ticehurst', 'Peter Bunting']
+ABSTRACT:
+Abstract Across their range, mangroves are responding to coastal environmental change. However, separating the influence of human activities from natural events and processes (including that associated with climatic fluctuation) is often difficult. In the Gulf of Carpentaria, northern Australia (Leichhardt, Nicholson, Mornington Inlet, and Flinders River catchments), changes in mangroves are assumed to be the result of natural drivers as human impacts are minimal. By comparing classifications from time series of Landsat sensor data for the period 1987–2014, mangroves were observed to have extended seawards by up to 1.9 km (perpendicular to the coastline), with inland intrusion occurring along many of the rivers and rivulets in the tidal reaches. Seaward expansion was particularly evident near the mouth of the Leichhardt River, and was associated with peaks in river discharge with Li DAR data indicating distinct structural zones developing following each large rainfall and discharge event. However, along the Gulf coast, and particularly within the Mornington Inlet catchment, the expansion was more gradual and linked to inundation and regular sediment supply through freshwater input. Landward expansion along the Mornington Inlet catchment was attributed to the combined effects of sea level rise and prolonged periods of tidal and freshwater inundation on coastal lowlands. The study concluded that increased amounts of rainfall and associated flooding and sea level rise were responsible for recent seaward and landward extension of mangroves in this region.
+
+SOURCE: Ecology and evolution
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.2140
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Carpentaria', 'Mangrove', 'Inlet', 'Oceanography', 'Geology', 'Hydrology (agriculture)', 'Discharge', 'Estuary', 'Drainage basin', 'Sediment', 'Flooding (psychology)', 'Water level', 'Tidal range', 'Environmental change', 'Wetland', 'Environmental science', 'Climate change', 'Fishery', 'Geography', 'Ecology', 'Geomorphology', 'Psychology', 'Geotechnical engineering', 'Cartography', 'Psychotherapist', 'Biology']

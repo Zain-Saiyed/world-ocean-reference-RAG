@@ -1,0 +1,12 @@
+ID: W4372171628
+TITLE: The structure and distribution of coral reefs,
+AUTHOR: ['Charles Darwin']
+ABSTRACT:
+Closely resemble in general form and structure atoll-reefs -"Width and depth of the lagoon-channels -Breaches through the reef in front of valleys, and generally on the leeward side-Checks to the filling up of the lagoon-channels-Size and constitution of the encircled islands-Number of islands within the same reef-Barrier-reefs of New Caledonia and Australia-Position of the reef relative to the slope of the adjoining land-Probable great thickness of barrier- reefs page 56 to 68 CHAPTER III. FRINGING OR SHORE REEFS.Reefs of Mauritius-Shallow channel within the reef-Its slow filling up-Currents of water formed within it-Upraised reefs -Narrow fringing-reefs in deep seas-Reefs on the coast of E. Africa and of Brazil-Fringing-reefs in very shallow seas, round banks of sediment and on worn-down islands-Fringing-reefs affected by currents of the sea-Coral coating the bottom of the sea, but not forming reefs 69 to 79 CHAPTER IV.
+
+SOURCE: None
+PDF URL: https://www.biodiversitylibrary.org/itempdf/120623
+CITED BY COUNT: 212
+PUBLICATION YEAR: 1874
+TYPE: book
+CONCEPTS: ['Coral reef', 'Coral', 'Coral reef organizations', 'Resilience of coral reefs', 'Geography', 'Distribution (mathematics)', 'Reef', 'Oceanography', 'Environmental issues with coral reefs', 'Fishery', 'Ecology', 'Coral reef protection', 'Geology', 'Biology', 'Mathematics', 'Mathematical analysis']

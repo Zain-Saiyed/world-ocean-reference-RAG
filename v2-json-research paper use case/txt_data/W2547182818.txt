@@ -1,0 +1,12 @@
+ID: W2547182818
+TITLE: Assessing tidal marsh resilience to sea-level rise at broad geographic scales with multi-metric indices
+AUTHOR: ['Kenneth B. Raposa', 'Kerstin Wasson', 'Erik M. Smith', 'Jeffrey A. Crooks', 'Patricia Delgado', 'Sarah Fernald', 'Matthew C. Ferner', 'Alicia Helms', 'Lyndie A. Hice', 'Jordan W. Mora', 'Brandon J. Puckett', 'Denise Sanger', 'Suzanne Shull', 'Lindsay Spurrier', 'Rachel Stevens', 'Scott Lerberg']
+ABSTRACT:
+Tidal marshes and the ecosystem services they provide may be at risk from sea-level rise (SLR). Tidal marsh resilience to SLR can vary due to differences in local rates of SLR, geomorphology, sediment availability and other factors. Understanding differences in resilience is critical to inform coastal management and policy, but comparing resilience across marshes is hindered by a lack of simple, effective analysis tools. Quantitative, multi-metric indices are widely employed to inform management of benthic aquatic ecosystems, but not coastal wetlands. Here, we develop and apply tidal marsh resilience to sea-level rise (MARS) indices incorporating ten metrics that contribute to overall marsh resilience to SLR. We applied MARS indices to tidal marshes at 16 National Estuarine Research Reserves across the conterminous U.S. This assessment revealed moderate resilience overall, although nearly all marshes had some indication of risk. Pacific marshes were generally more resilient to SLR than Atlantic ones, with the least resilient marshes found in southern New England. We provide a calculation tool to facilitate application of the MARS indices to additional marshes. MARS index scores can inform the choice of the most appropriate coastal management strategy for a marsh: moderate scores call for actions to enhance resilience while low scores suggest investment may be better directed to adaptation strategies such as creating opportunities for marsh migration rather than attempting to save existing marshes. The MARS indices thus provide a powerful new approach to evaluate tidal marsh resilience and to inform development of adaptation strategies in the face of SLR.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Marsh', 'Environmental science', 'Salt marsh', 'Wetland', 'Environmental resource management', 'Mars Exploration Program', 'Ecological resilience', 'Resilience (materials science)', 'Geography', 'Ecosystem', 'Ecology', 'Oceanography', 'Geology', 'Physics', 'Astronomy', 'Biology', 'Thermodynamics']

@@ -1,0 +1,12 @@
+ID: W2884672909
+TITLE: Ocean acidification drives community shifts towards simplified non-calcified habitats in a subtropical−temperate transition zone
+AUTHOR: ['Sylvain Agostini', 'Ben P. Harvey', 'Shigeki Wada', 'Koetsu Kon', 'Marco Milazzo', 'Kazuo Inaba', 'Jason M. Hall‐Spencer']
+ABSTRACT:
+Abstract Rising atmospheric concentrations of carbon dioxide are causing surface seawater pH and carbonate ion concentrations to fall in a process known as ocean acidification. To assess the likely ecological effects of ocean acidification we compared intertidal and subtidal marine communities at increasing levels of p CO 2 at recently discovered volcanic seeps off the Pacific coast of Japan (34° N). This study region is of particular interest for ocean acidification research as it has naturally low levels of surface seawater p CO 2 (280–320 µatm) and is located at a transition zone between temperate and sub-tropical communities. We provide the first assessment of ocean acidification effects at a biogeographic boundary. Marine communities exposed to mean levels of p CO 2 predicted by 2050 experienced periods of low aragonite saturation and high dissolved inorganic carbon. These two factors combined to cause marked community shifts and a major decline in biodiversity, including the loss of key habitat-forming species, with even more extreme community changes expected by 2100. Our results provide empirical evidence that near-future levels of p CO 2 shift sub-tropical ecosystems from carbonate to fleshy algal dominated systems, accompanied by biodiversity loss and major simplification of the ecosystem.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-29251-7.pdf
+CITED BY COUNT: 90
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Temperate climate', 'Subtropics', 'Ocean acidification', 'Habitat', 'Ecology', 'Oceanography', 'Environmental science', 'Biology', 'Geology', 'Climate change']

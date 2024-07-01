@@ -1,0 +1,12 @@
+ID: W2119191227
+TITLE: Oxygen: A Fundamental Property Regulating Pelagic Ecosystem Structure in the Coastal Southeastern Tropical Pacific
+AUTHOR: ['Arnaud Bertrand', 'Alexis Chaigneau', 'Salvador Peraltilla', 'Jesús Ledesma', 'Michelle Graco', 'Florian Monetti', 'Francisco P. Chávez']
+ABSTRACT:
+In the southeastern tropical Pacific anchovy (Engraulis ringens) and sardine (Sardinops sagax) abundance have recently fluctuated on multidecadal scales and food and temperature have been proposed as the key parameters explaining these changes. However, ecological and paleoecological studies, and the fact that anchovies and sardines are favored differently in other regions, raise questions about the role of temperature. Here we investigate the role of oxygen in structuring fish populations in the Peruvian upwelling ecosystem that has evolved over anoxic conditions and is one of the world's most productive ecosystems in terms of forage fish. This study is particularly relevant given that the distribution of oxygen in the ocean is changing with uncertain consequences.A comprehensive data set is used to show how oxygen concentration and oxycline depth affect the abundance and distribution of pelagic fish. We show that the effects of oxygen on anchovy and sardine are opposite. Anchovy flourishes under relatively low oxygen conditions while sardine avoid periods/areas with low oxygen concentration and restricted habitat. Oxygen consumption, trophic structure and habitat compression play a fundamental role in fish dynamics in this important ecosystem.For the ocean off Peru we suggest that a key process, the need to breathe, has been neglected previously. Inclusion of this missing piece allows the development of a comprehensive conceptual model of pelagic fish populations and change in an ocean ecosystem impacted by low oxygen. Should current trends in oxygen in the ocean continue similar effects may be evident in other coastal upwelling ecosystems.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0029558&type=printable
+CITED BY COUNT: 139
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Anchovy', 'Sardine', 'Upwelling', 'Ecosystem', 'Fishery', 'Trophic level', 'Environmental science', 'Ecology', 'Marine ecosystem', 'Abundance (ecology)', 'Oceanography', 'Biology', 'Geology', 'Fish <Actinopterygii>']

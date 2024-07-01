@@ -1,0 +1,12 @@
+ID: W2601164573
+TITLE: When does hypoxia affect management performance of a fishery? A management strategy evaluation of Dungeness crab (<i>Metacarcinus magister</i>) fisheries in Hood Canal, Washington, USA
+AUTHOR: ['Halley E. Froehlich', 'Timothy E. Essington', 'P. Sean McDonald']
+ABSTRACT:
+Management strategies for fisheries typically do not account for environmental stressors, such as hypoxia (dissolved oxygen &lt; 2 mg·L −1 ). Hypoxia can lead to shoaling of organisms into normoxic habitats, enhancing catchability, which could reduce the performance of fishery management strategies. Here, we conducted a management strategy evaluation of Dungeness crab (Metacarcinus magister) fisheries in Hood Canal, Washington, a seasonally hypoxic fjord in Puget Sound. Specifically, we asked whether the current management strategy was robust to hypoxia-induced catchability changes under alternative scenarios of illegal take, incidental capture mortality, and reproductive limitation. We find that the management strategy performed well to changes in catchability when illegal and incidental fishing mortality was low and fishing did not lead to reproductive limitation. However, the performance eroded markedly (reduced long-term catch and (or) population and higher catch variation) under the alternative scenarios. These findings underscore the benefit of applying an ecosystem approach to fisheries management because it identifies potential risks to management strategies in systems subject to environmental change.
+
+SOURCE: Canadian journal of fisheries and aquatic sciences
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Fishery', 'Hypoxia (environmental)', 'Fishing', 'Fisheries management', 'Management strategy', 'Ecosystem', 'Population', 'Habitat', 'Biology', 'Ecology', 'Business', 'Business administration', 'Chemistry', 'Demography', 'Organic chemistry', 'Sociology', 'Oxygen']

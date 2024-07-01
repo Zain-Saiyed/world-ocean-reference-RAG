@@ -1,0 +1,12 @@
+ID: W2103536887
+TITLE: Species discovery in marine planktonic invertebrates through global molecular screening
+AUTHOR: ['Erica Goetze']
+ABSTRACT:
+Abstract Species discovery through large‐scale sampling of mitochondrial diversity, as advocated under DNA barcoding, has been widely criticized. Two of the primary weaknesses of this approach, the use of a single gene marker for species delineation and the possible co‐amplification of nuclear pseudogenes, can be circumvented through incorporation of multiple data sources. Here I show that for taxonomic groups with poorly characterized systematics, large‐scale genetic screening using a mitochondrial DNA marker can be a very effective approach to species discovery. Global sampling (120 locations) of 1295 individuals of 22 described species of eucalanid copepods identified 15 novel evolutionarily significant units (ESUs) within this marine holoplanktonic family. Species limits were tested under reciprocal monophyly at the mitochondrial (mt) gene 16S rRNA, and 13 of 15 lineages were reciprocally monophyletic under three phylogenetic inference methods. Five of these mitochondrial ESUs also received moderate support for reciprocal monophyly at the independently‐inherited nuclear gene, internal transcribed spacer 2 (ITS2). Additional support for the utility of mt DNA as a proxy for species boundaries in this taxon is discussed, including results from related morphological and biogeographic studies. Minimal overlap of intra‐ESU and inter‐ESU 16S rRNA genetic distances was observed, suggesting that this mt marker performs well for species discovery via molecular screening. Sampling coverage required for the discovery of new ESUs was found to be in the range of &gt;50 individuals/species, well above the sampling intensity of most current DNA Barcoding studies. Large‐scale genetic screening can provide critical first data on the presence of cryptic species, and should be used as an approach to generate systematic hypotheses in groups with incomplete taxonomies.
+
+SOURCE: Molecular ecology
+PDF URL: None
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Biology', 'Monophyly', 'DNA barcoding', 'Internal transcribed spacer', 'Evolutionary biology', 'Pseudogene', 'Phylogenetic tree', 'Mitochondrial DNA', 'Genetics', 'Gene', 'Clade', 'Genome']

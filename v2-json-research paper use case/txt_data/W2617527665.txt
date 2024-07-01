@@ -1,0 +1,12 @@
+ID: W2617527665
+TITLE: Decision support tools in marine spatial planning: Present applications, gaps and future perspectives
+AUTHOR: ['Kemal Pınarbaşı', 'Ibon Galparsoro', 'Ángel Borja', 'Vanessa Stelzenmüller', 'Charles N. Ehler', 'Antje Gimpel']
+ABSTRACT:
+Evidence-based decision making is an essential process for sustainable, effective, and efficient marine spatial planning (MSP). In that sense, decision support tools (DSTs) could be considered to be the primary assistant of planners. Although there are many DSTs listed in tool databases, most of them are conceptual and not used in real MSP implementation. The main objective of this review is to: (i) characterize and analyse the present use of the DSTs in existing MSP implementation processes around the world, (ii) identify weaknesses and gaps of existing tools, and (iii) propose new functionalities both to improve their feasibility and to promote their application. In total, 34 DSTs have been identified in 28 different MSP initiatives with different levels of complexity, applicability and usage purposes. Main characteristics of the tools were transferred into a DST matrix. It was observed that limited functionality, tool stability, consideration of economic and social decision problems, ease of use, and tool costs could be considered as the main gaps of existing DSTs. Future developments are needed and should be in the direction of the specific need of marine planners and stakeholders. Results revealed that DST developments should consider both spatial and temporal dynamics of the ocean, and new tools should provide multi-functionality and integrity; meanwhile they should be easy to use and freely available. Hence, this research summarised current use, gaps, and expected development trends of DSTs and it concludes that there is still a big potential of DST developments to assist operational MSP processes.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 134
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Computer science', 'Marine spatial planning', 'Process (computing)', 'Process management', 'Decision support system', 'Management science', 'Risk analysis (engineering)', 'Spatial planning', 'Systems engineering', 'Environmental resource management', 'Business', 'Engineering', 'Environmental planning', 'Artificial intelligence', 'Geography', 'Environmental science', 'Operating system']

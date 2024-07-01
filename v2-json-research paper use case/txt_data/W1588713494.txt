@@ -1,0 +1,12 @@
+ID: W1588713494
+TITLE: Climate Change 2014 Impacts, Adaptation, and Vulnerability
+AUTHOR: ['Intergovernmental Panel on Climate Change']
+ABSTRACT:
+This latest Fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC) will again form the standard reference for all those concerned with climate change and its consequences, including students, researchers and policy makers in environmental science, meteorology, climatology, biology, ecology, atmospheric chemistry and environmental policy.
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 974
+PUBLICATION YEAR: 2014
+TYPE: book
+CONCEPTS: ['Climate change', 'Vulnerability (computing)', 'Adaptation (eye)', 'Environmental resource management', 'Environmental science', 'Vulnerability assessment', 'Climatology', 'Environmental policy', 'Geography', 'Environmental planning', 'Ecology', 'Political science', 'Computer science', 'Biology', 'Psychology', 'Computer security', 'Neuroscience', 'Psychological resilience', 'Psychotherapist', 'Geology']

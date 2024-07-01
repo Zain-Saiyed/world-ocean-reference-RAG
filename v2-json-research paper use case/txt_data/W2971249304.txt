@@ -1,0 +1,12 @@
+ID: W2971249304
+TITLE: Hidden Loss of Wetlands in China
+AUTHOR: ['Weihua Xu', 'Xinyue Fan', 'Jia Ma', 'Stuart L. Pimm', 'Lingqiao Kong', 'Yuan Zeng', 'Xiaosong Li', 'Yi Xiao', 'Hua Zheng', 'Jianguo Liu', 'Bingfang Wu', 'Li An', 'Lu Zhang', 'Xiaoke Wang', 'Zhiyun Ouyang']
+ABSTRACT:
+To counter their widespread loss, global aspirations are for no net loss of remaining wetlands [1]. We examine whether this goal alone is sufficient for managing China's wetlands, for they constitute 10% of the world's total. Analyzing wetland changes between 2000 and 2015 using 30-m-resolution satellite images, we show that China's wetlands expanded by 27,614 km2 but lost 26,066 km2-a net increase of 1,548 km2 (or 0.4%). This net change hides considerable complexities in the types of wetlands created and destroyed. The area of open water surface increased by 9,110 km2, but natural wetlands-henceforth "marshes"-decreased by 7,562 km2. Of the expanded wetlands, restoration policies contributed 24.5% and dam construction contributed 20.8%. Climate change accounted for 23.6% but is likely to involve a transient increase due to melting glaciers. Of the lost wetlands, agricultural and urban expansion contributed 47.7% and 13.8%, respectively. The increase in wetlands from conservation efforts (6,765 km2) did not offset human-caused wetland losses (16,032 km2). The wetland changes may harm wildlife. The wetland loss in east China threatens bird migration across eastern Asia [2]. Open water from dam construction flooded the original habitats of threatened terrestrial species and affected aquatic species by fragmenting wetland habitats [3]. Thus, the "no net loss" target measures total changes without considering changes in composition and the corresponding ecological functions. It may result in "paper offsets" and should be used carefully as a target for wetland conservation.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982219309339/pdf
+CITED BY COUNT: 96
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Wetland', 'Marsh', 'Habitat', 'Threatened species', 'Habitat destruction', 'Ecology', 'Wildlife', 'China', 'Climate change', 'Environmental science', 'Biology', 'Geography', 'Archaeology']

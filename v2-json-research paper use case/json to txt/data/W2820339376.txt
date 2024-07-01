@@ -1,0 +1,12 @@
+ID: W2820339376
+TITLE: Benthic Estuarine Assemblages of the Southeastern Brazil Marine Ecoregion (SBME)
+AUTHOR: ['Paulo da Cunha Lana', 'Ronaldo Adriano Christofoletti', 'Joao B. Gusmao', 'Thayanne Lima Barros', 'Daphne Spier', 'Tânia Márcia Costa', 'Abílio Soares Gomes', 'Cinthya Simone Gomes Santos']
+ABSTRACT:
+We assess the current knowledge of the benthic assemblages in the Southeastern Brazil Marine Ecoregion (SBME), which extends for approximately 1200 km of coastline and includes seven major estuarine systems from Guanabara Bay in Rio de Janeiro to Babitonga Bay (or São Francisco do Sul) in Santa Catarina. The high ecosystem diversity of SBME putatively accounts for the high levels of endemism of the regional marine invertebrate fauna. However, until more taxonomical and biogeographical evidence is available, the SBME should be treated as a working biogeographical hypothesis rather than a cohesive unit identified by endemic fauna. As a consequence of urban, agricultural, and industrial development, the coastal areas from the SBME have been the most altered in the country over the last 500 years. Some of the largest cities and busiest harbors of the country are in or near the regional estuarine areas. The rapid environmental changes over the last several decades do not allow for the assessment if current similarities and dissimilarities in the benthic assemblages express pristine conditions or if they are already the result of major human interventions, especially in the case of the Guanabara, Sepetiba, and Santos estuaries.
+
+SOURCE: Brazilian marine biodiversity
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Ecoregion', 'Benthic zone', 'Estuary', 'Bay', 'Geography', 'Fauna', 'Ecology', 'Endemism', 'Marine ecosystem', 'Invertebrate', 'Ecosystem', 'Oceanography', 'Biology', 'Archaeology', 'Geology']

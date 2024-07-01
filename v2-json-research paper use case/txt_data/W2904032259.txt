@@ -1,0 +1,12 @@
+ID: W2904032259
+TITLE: Evidence for Stable Holocene Basin‐Scale Overturning Circulation Despite Variable Currents Along the Deep Western Boundary of the North Atlantic Ocean
+AUTHOR: ['S. S. Hoffmann', 'Jerry F McManus', 'Emerson Swank']
+ABSTRACT:
+Abstract While substantial changes in thermohaline circulation related to deglacial climate variability are well established, the role of this circulation in Holocene climate variability remains uncertain. Here we use two dynamical proxies, 231 Pa/ 230 Th ratios and mean sortable silt size ( ), to reconstruct Holocene bottom water circulation at the intermediate‐depth Carolina Slope. We find no substantial change in deep current speed or 231 Pa export at this site during the Holocene, suggesting consistent 231 Pa export via the Deep Western Boundary Current. shows increasing millennial‐scale variability in the middle‐late Holocene, which may reflect Labrador Sea Water contribution to current speed. We conclude that deepwater export from the North Atlantic has remained remarkably stable during the Holocene, decoupled from changing rates of specific water masses, while production of these water masses varied at millennial to centennial time scales. The persistence of the large‐scale overturning may reflect the ocean's stabilizing influence on Holocene climate.
+
+SOURCE: Geophysical research letters
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1029/2018gl080187
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Holocene', 'Thermohaline circulation', 'Geology', 'Oceanography', 'Climatology', 'Ocean current', 'Holocene climatic optimum', 'Younger Dryas', 'Boundary current', 'Current (fluid)', 'Climate change']

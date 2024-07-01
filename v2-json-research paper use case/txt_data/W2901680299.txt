@@ -1,0 +1,12 @@
+ID: W2901680299
+TITLE: How Guyana’s Oil Discovery Rekindled a Border Controversy
+AUTHOR: ['Anthony R. Cummings']
+ABSTRACT:
+The Guyana-Venezuela border controversy has remained an ever-present element overshadowing the relations between the two countries. While the controversy dates back to the late 1400s, the subject has gained increased prominence since Guyana’s independence in 1966. Given the interest in how oil influences intra-country conflict, this paper’s overarching goal is to examine how Guyana’s discovery of oil impacted its relationship with Venezuela. For the purposes of this study, the archives of the state-owned Guyana Chronicle were coded into a 21-element classification system that allowed for the general themes and moments in changing relations between the two countries to be captured. The pre-oil discovery period was dominated by diplomacy, while the post-oil discovery period was dominated by the border controversy and an ongoing political crisis in Venezuela. A Venezuelan decree, asserting its claim to over two-thirds of Guyanese territory and issued immediately after Guyana announced finding oil, triggered tensions over the border. However, both the decree and the ensuing tensions appeared to have been used to divert attention away from the Venezuelan internal political crisis.
+
+SOURCE: Journal of Latin American geography
+PDF URL: None
+CITED BY COUNT: 1
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Decree', 'Diplomacy', 'Independence (probability theory)', 'Element (criminal law)', 'Politics', 'Political science', 'Subject (documents)', 'Period (music)', 'Political crisis', 'State (computer science)', 'Economy', 'Geography', 'Law', 'Economics', 'Statistics', 'Physics', 'Mathematics', 'Algorithm', 'Library science', 'Computer science', 'Acoustics']

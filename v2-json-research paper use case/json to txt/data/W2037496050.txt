@@ -1,0 +1,12 @@
+ID: W2037496050
+TITLE: Plastic waste inputs from land into the ocean
+AUTHOR: ['Jenna Jambeck', 'Roland Geyer', 'Chris Wilcox', 'Theodore R. Siegler', 'Miriam Elaine Perryman', 'Anthony L. Andrady', 'Ramáni Narayan', 'Kara Lavender Law']
+ABSTRACT:
+Plastic debris in the marine environment is widely documented, but the quantity of plastic entering the ocean from waste generated on land is unknown. By linking worldwide data on solid waste, population density, and economic status, we estimated the mass of land-based plastic waste entering the ocean. We calculate that 275 million metric tons (MT) of plastic waste was generated in 192 coastal countries in 2010, with 4.8 to 12.7 million MT entering the ocean. Population size and the quality of waste management systems largely determine which countries contribute the greatest mass of uncaptured waste available to become plastic marine debris. Without waste management infrastructure improvements, the cumulative quantity of plastic waste available to enter the ocean from land is predicted to increase by an order of magnitude by 2025.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 8149
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Plastic waste', 'Environmental science', 'Debris', 'Tonne', 'Waste management', 'Population', 'Municipal solid waste', 'Environmental engineering', 'Meteorology', 'Geography', 'Engineering', 'Demography', 'Sociology']

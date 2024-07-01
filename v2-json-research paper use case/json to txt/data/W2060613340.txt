@@ -1,0 +1,12 @@
+ID: W2060613340
+TITLE: Massive outbreaks of Noctiluca scintillans blooms in the Arabian Sea due to spread of hypoxia
+AUTHOR: ['Helga do Rosário Gomes', 'Joaquim I. Goés', 'S.G.P. Matondkar', 'Edward J. Buskey', 'Subhajit Basu', 'Sushma G. Parab', 'Prasad Thoppil']
+ABSTRACT:
+In the last decade, the northern Arabian Sea has witnessed a radical shift in the composition of winter phytoplankton blooms, which previously comprised mainly of diatoms, the unicellular, siliceous photosynthetic organisms favoured by nutrient-enriched waters from convective mixing. These trophically important diatom blooms have been replaced by widespread blooms of a large, green dinoflagellate, Noctiluca scintillans, which combines carbon fixation from its chlorophyll-containing endosymbiont with ingestion of prey. Here, we report that these massive outbreaks of N. scintillans during winter are being facilitated by an unprecedented influx of oxygen deficient waters into the euphotic zone and by the extraordinary ability of its endosymbiont Pedinomonas noctilucae to fix carbon more efficiently than other phytoplankton under hypoxic conditions. We contend that N. scintillans blooms could disrupt the traditional diatom-sustained food chain to the detriment of regional fisheries and long-term health of an ecosystem supporting a coastal population of nearly 120 million people.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms5862.pdf
+CITED BY COUNT: 170
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Dinoflagellate', 'Phytoplankton', 'Algal bloom', 'Diatom', 'Photic zone', 'Oceanography', 'Bloom', 'Hypoxia (environmental)', 'Biology', 'Plankton', 'Population', 'Ecology', 'Nutrient', 'Chemistry', 'Oxygen', 'Geology', 'Demography', 'Organic chemistry', 'Sociology']

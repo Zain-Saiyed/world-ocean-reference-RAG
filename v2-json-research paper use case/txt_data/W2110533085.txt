@@ -1,0 +1,12 @@
+ID: W2110533085
+TITLE: Eutrophication and harmful algal blooms: A scientific consensus
+AUTHOR: ['J. Heisler', 'Patricia M. Glibert', 'JoAnn M. Burkholder', 'Donald M. Anderson', 'William P. Cochlan', 'William C. Dennison', 'Quay Dortch', 'Christopher J. Gobler', 'Cynthia A. Heil', 'EM Humphries', 'Alan J. Lewitus', 'Robert E. Magnien', 'Harold G. Marshall', 'Kevin G. Sellner', 'Dean A. Stockwell', 'Diane K. Stoecker', 'Marc Suddleson']
+ABSTRACT:
+In January 2003, the US Environmental Protection Agency sponsored a "roundtable discussion" to develop a consensus on the relationship between eutrophication and harmful algal blooms (HABs), specifically targeting those relationships for which management actions may be appropriate. Academic, federal, and state agency representatives were in attendance. The following seven statements were unanimously adopted by attendees based on review and analysis of current as well as pertinent previous data: 1) Degraded water quality from increased nutrient pollution promotes the development and persistence of many HABs and is one of the reasons for their expansion in the U.S. and the world; 2) The composition - not just the total quantity - of the nutrient pool impacts HABs; 3) High biomass blooms must have exogenous nutrients to be sustained; 4) Both chronic and episodic nutrient delivery promote HAB development; 5) Recently developed tools and techniques are already improving the detection of some HABs, and emerging technologies are rapidly advancing toward operational status for the prediction of HABs and their toxins; 6) Experimental studies are critical to further the understanding of the role of nutrients in HAB expression, and will strengthen prediction and mitigation of HABs; and 7) Management of nutrient inputs to the watershed can lead to significant reduction in HABs. Supporting evidence and pertinent examples for each consensus statement is provided herein.
+
+SOURCE: Harmful algae
+PDF URL: None
+CITED BY COUNT: 1617
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Algal bloom', 'Nutrient pollution', 'Nutrient', 'Environmental science', 'Water quality', 'Agency (philosophy)', 'Environmental planning', 'Ecology', 'Biology', 'Phytoplankton', 'Philosophy', 'Epistemology']

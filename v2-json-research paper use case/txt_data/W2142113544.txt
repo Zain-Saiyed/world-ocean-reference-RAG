@@ -1,0 +1,12 @@
+ID: W2142113544
+TITLE: Successful high‐level accumulation of fish oil omega‐3 long‐chain polyunsaturated fatty acids in a transgenic oilseed crop
+AUTHOR: ['Noemí Ruiz‐López', 'Richard P. Haslam', 'Johnathan A. Napier', 'Olga Sayanova']
+ABSTRACT:
+Omega-3 (also called n-3) long-chain polyunsaturated fatty acids (≥C20; LC-PUFAs) are of considerable interest, based on clear evidence of dietary health benefits and the concurrent decline of global sources (fish oils). Generating alternative transgenic plant sources of omega-3 LC-PUFAs, i.e. eicosapentaenoic acid (20:5 n-3, EPA) and docosahexaenoic acid (22:6 n-3, DHA) has previously proved problematic. Here we describe a set of heterologous genes capable of efficiently directing synthesis of these fatty acids in the seed oil of the crop Camelina sativa, while simultaneously avoiding accumulation of undesirable intermediate fatty acids. We describe two iterations: RRes_EPA in which seeds contain EPA levels of up to 31% (mean 24%), and RRes_DHA, in which seeds accumulate up to 12% EPA and 14% DHA (mean 11% EPA and 8% DHA). These omega-3 LC-PUFA levels are equivalent to those in fish oils, and represent a sustainable, terrestrial source of these fatty acids. We also describe the distribution of these non-native fatty acids within C. sativa seed lipids, and consider these data in the context of our current understanding of acyl exchange during seed oil synthesis.
+
+SOURCE: Plant journal
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tpj.12378
+CITED BY COUNT: 284
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Polyunsaturated fatty acid', 'Docosahexaenoic acid', 'Camelina sativa', 'Eicosapentaenoic acid', 'Fish oil', 'Food science', 'Biology', 'Context (archaeology)', 'Crop', 'Fatty acid', 'Chemistry', 'Biochemistry', 'Fish <Actinopterygii>', 'Agronomy', 'Fishery', 'Paleontology']

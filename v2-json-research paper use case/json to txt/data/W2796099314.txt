@@ -1,0 +1,12 @@
+ID: W2796099314
+TITLE: Driving forces and their contribution to the recent decrease in sediment flux to ocean of major rivers in China
+AUTHOR: ['Tong Li', 'Shuai Wang', 'Yanxu Liu', 'Bojie Fu', 'Wenwu Zhao']
+ABSTRACT:
+Understanding the mechanisms behind land–ocean sediment transport processes is crucial, due to the resulting impacts on the sustainable management of water and soil resources. This study investigated temporal trends and historical phases of sediment flux delivered to the sea by nine major rivers in China, while also quantifying the contribution of key anthropogenic and natural driving forces. During the past six decades, sediment flux from these nine major rivers exhibited a statistically significant negative trend, decreasing from 1.92 Gt yr−1 during 1954–1968 to 1.39 Gt yr−1, 0.861 Gt yr−1 and 0.335 Gt yr−1 during 1969–1985, 1986–1999 and 2000–2016, respectively. We used a recently developed Sediment Identity approach and found that the sharp decrease in sediment load observed across China was mainly (~95%) caused by a reduction in sediment concentration. Reservoir construction exerted the strongest influence on land–ocean sediment fluxes, while soil conservation measures represented a secondary driver. Before 1999, soil erosion was not controlled effectively in China and reservoirs, especially large ones, played a dominant role in reducing riverine sediments. After 1999, soil erosion has gradually been brought under control across China, so that conservation measures directly accounted for ~40% of the observed decrease in riverine sediments. With intensifying human activities, it is predicted that the total sediment flux delivered to the sea by the nine major rivers will continue to decrease in the coming decades, although at a slower rate, resulting in severe challenges for the sustainable management of drainage basins and river deltas.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Sediment', 'China', 'Environmental science', 'Flux (metallurgy)', 'Oceanography', 'Earth science', 'Geology', 'Geography', 'Chemistry', 'Geomorphology', 'Archaeology', 'Organic chemistry']

@@ -1,0 +1,12 @@
+ID: W2780886612
+TITLE: Metabolic suppression in the pelagic crab, Pleuroncodes planipes, in oxygen minimum zones
+AUTHOR: ['Brad A. Seibel', 'Bryan E. Luu', 'Shannon N. Tessier', 'Trisha Towanda', 'Kenneth B. Storey']
+ABSTRACT:
+The pelagic red crab, Pleuroncodes planipes, is abundant throughout the Eastern Tropical Pacific in both benthic and pelagic environments to depths of several hundred meters. The oxygen minimum zones in this region reaches oxygen levels as low as 0.1kPa at depths within the crabs vertical range. Crabs maintain aerobic metabolism to a critical PO2 of ~0.27±0.2kPa (10°C), in part by increasing ventilation as oxygen declines. At subcritical oxygen levels, they enhance anaerobic ATP production slightly as indicated by modest increases in lactate levels. However, hypoxia tolerance is primarily mediated via a pronounced suppression of aerobic metabolism (~70%). Metabolic suppression is achieved, primarily, via reduced protein synthesis, which is a major sink for metabolic energy. Posttranslational modifications on histone H3 suggest a condensed chromatin state and, hence, decreased transcription. Under hypoxia, p-H3S10, Ac-H3K9, Ac-H3K14 were 39, 68, and 36% of control values, respectively. We also report a net decrease in protein translation. In particular, eEF2 activity is reduced due to a ~5-fold increase in inhibitory phosphorylation and a significant decrease in protein level. Elevated heat shock proteins suggest that, despite impressive tolerance, the cellular stress response is triggered during hypoxia. We discuss the implications for pelagic ecology and biogeochemical cycles.
+
+SOURCE: Comparative biochemistry and physiology. Part B, Biochemistry & molecular biology
+PDF URL: http://manuscript.elsevier.com/S1096495917302130/pdf/S1096495917302130.pdf
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Biology', 'Hypoxia (environmental)', 'Oxygen', 'Benthic zone', 'Ecology', 'Anaerobic exercise', 'Biochemistry', 'Chemistry', 'Physiology', 'Organic chemistry']

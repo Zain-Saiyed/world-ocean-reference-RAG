@@ -1,0 +1,12 @@
+ID: W2760571983
+TITLE: A big data approach to macrofaunal baseline assessment, monitoring and sustainable exploitation of the seabed
+AUTHOR: ['Keith Cooper', 'Jon Barry']
+ABSTRACT:
+In this study we produce a standardised dataset for benthic macrofauna and sediments through integration of data (33,198 samples) from 777 grab surveys. The resulting dataset is used to identify spatial and temporal patterns in faunal distribution around the UK, and the role of sediment composition and other explanatory variables in determining such patterns. We show how insight into natural variability afforded by the dataset can be used to improve the sustainability of activities which affect sediment composition, by identifying conditions which should remain favourable for faunal recolonisation. Other big data applications and uses of the dataset are discussed.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-11377-9.pdf
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Baseline (sea)', 'Sediment', 'Seabed', 'Sustainability', 'Environmental science', 'Natural (archaeology)', 'Ecology', 'Oceanography', 'Geology', 'Biology', 'Paleontology']

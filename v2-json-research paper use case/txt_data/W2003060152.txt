@@ -1,0 +1,12 @@
+ID: W2003060152
+TITLE: The case for offshore wind farms, artificial reefs and sustainable tourism in the French mediterranean
+AUTHOR: ['Vanja Westerberg', 'Jette Bredahl Jacobsen', 'Robert Lifran']
+ABSTRACT:
+As the French government strives to achieve their offshore renewable energy target, the impact of offshore wind farms on coastal tourism in the Languedoc Rousillon is now being questioned. To assess this issue, a choice experiment was undertaken to elicit tourist preferences for wind turbines at different distances from the shore. We also examined whether potential visual nuisances may be compensated by wind farm associated reef-recreation or by adopting a coherent environmental policy. The findings indicate that age, nationality, vacation activities and their destination loyalty influence attitudes towards compensatory policies. Two policy recommendations are suggested. First, everything else being equal, wind farms should be located no closer than 12 km from the shore. Second, and alternatively, a wind farm can be located from 5 km and outwards without a loss in tourism revenues if accompanied by a coherent environmental policy and wind farm associated recreational activities.
+
+SOURCE: Tourism management
+PDF URL: None
+CITED BY COUNT: 133
+PUBLICATION YEAR: 2013
+TYPE: preprint
+CONCEPTS: ['Offshore wind power', 'Tourism', 'Wind power', 'Recreation', 'Shore', 'Revenue', 'Government (linguistics)', 'Renewable energy', 'Geography', 'Business', 'Submarine pipeline', 'Environmental resource management', 'Environmental planning', 'Natural resource economics', 'Environmental science', 'Oceanography', 'Economics', 'Engineering', 'Political science', 'Finance', 'Geology', 'Archaeology', 'Linguistics', 'Philosophy', 'Electrical engineering', 'Law']

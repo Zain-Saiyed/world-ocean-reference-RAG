@@ -1,0 +1,12 @@
+ID: W2943014363
+TITLE: A rapid environmental DNA method for detecting white sharks in the open ocean
+AUTHOR: ['Nathan K. Truelove', 'Elizabeth A. Andruszkiewicz', 'Barbara A. Block']
+ABSTRACT:
+Abstract Environmental DNA (eDNA) research often requires returning to the laboratory for processing, which can delay species identification by weeks–months. Using a portable Oxford Nanopore MinIon sequencer, eDNA from white shark ( Carcharodon carcharias ) was rapidly identified from seawater samples collected in the high seas where they have historically been identified with biologging datasets. A total of 10 sequencing runs were performed on the MinIon onboard an oceanographic vessel with a turnaround time from water collection to sequence results and annotation of ~48 hr. Identifying vertebrates by amplifying eDNA from seawater provides a novel approach for sampling and detecting the presence of elusive species of conservation importance in remote locations.
+
+SOURCE: Methods in ecology and evolution
+PDF URL: https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13201
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Minion', 'Environmental DNA', 'Fishery', 'Sampling (signal processing)', 'Seawater', 'Nanopore sequencing', 'Carcharias', 'Biology', 'White (mutation)', 'Ecology', 'Oceanography', 'DNA sequencing', 'Biodiversity', 'Computer science', 'Geology', 'DNA', 'Genetics', 'Filter (signal processing)', 'Computer vision', 'Biochemistry', 'Juvenile', 'Gene']

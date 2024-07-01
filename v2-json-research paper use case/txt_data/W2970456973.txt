@@ -1,0 +1,12 @@
+ID: W2970456973
+TITLE: Persistent and substantial impacts of the Deepwater Horizon oil spill on deep-sea megafauna
+AUTHOR: ['Craig R. McClain', 'Clifton Nunnally', 'Mark C. Benfield']
+ABSTRACT:
+The Deepwater Horizon spill is one of the largest environmental disasters with extensive impacts on the economic and ecological health of the Gulf of Mexico. Surface oil and coastal impacts received considerable attention, but the far larger oil spill in the deep ocean and its effects received considerably less examination. Based on 2017 ROV surveys within 500 m of the wellhead, we provide evidence of continued impacts on diversity, abundance and health of deep-sea megafauna. At locations proximal to the wellhead, megafaunal communities are more homogeneous than in unimpacted areas, lacking many taxonomic groups, and driven by high densities of arthropods. Degraded hydrocarbons at the site may be attracting arthropods. The scope of impacts may extend beyond the impacted sites with the potential for impacts to pelagic food webs and commercially important species. Overall, deep-sea ecosystem health, 7 years post spill, is recovering slowly and lingering effects may be extreme.
+
+SOURCE: Royal Society open science
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Wellhead', 'Megafauna', 'Deepwater horizon', 'Environmental science', 'Ecosystem', 'Pelagic zone', 'Oceanography', 'Marine ecosystem', 'Deep sea', 'Fishery', 'Oil spill', 'Ecology', 'Geography', 'Geology', 'Environmental protection', 'Biology', 'Archaeology', 'Petroleum engineering', 'Pleistocene']

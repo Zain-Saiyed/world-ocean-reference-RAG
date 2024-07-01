@@ -1,0 +1,12 @@
+ID: W2948382167
+TITLE: Mangroves shelter coastal economic activity from cyclones
+AUTHOR: ['Jacob Hochard', 'Stuart E. Hamilton', 'Edward B. Barbier']
+ABSTRACT:
+Mangroves shelter coastlines during hazardous storm events with coastal communities experiencing mangrove deforestation are increasingly vulnerable to economic damages resulting from cyclones. To date, the benefits of mangroves in terms of protecting coastal areas have been estimated only through individual case studies of specific regions or countries. Using spatially referenced data and statistical methods, we track from 2000 to 2012 the impact of cyclones on economic activity in coastal regions inhabited by nearly 2,000 tropical and subtropical communities across 23 major mangrove-holding countries. We use nighttime luminosity to represent temporal trends in coastal economic activity and find that direct cyclone exposure typically results in permanent loss of 5.4-6.7 mo for a community with an average mangrove extent (6.3 m per meter of coastline); whereas, a community with more extensive mangroves (25.6 m per meter of coastline) experiences a loss equivalent to 2.6-5.5 mo. These results suggest that mangrove restoration efforts for protective benefits may be more cost effective, and mangrove deforestation more damaging, than previously thought.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/116/25/12232.full.pdf
+CITED BY COUNT: 125
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Subtropics', 'Tropical cyclone', 'Deforestation (computer science)', 'Storm', 'Geography', 'Environmental science', 'Environmental protection', 'Ecology', 'Meteorology', 'Biology', 'Computer science', 'Programming language']

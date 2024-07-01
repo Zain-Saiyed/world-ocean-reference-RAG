@@ -1,0 +1,12 @@
+ID: W2744145998
+TITLE: North Atlantic Deep Water formation inhibits high Arctic contamination by continental perfluorooctane sulfonate discharges
+AUTHOR: ['Xian‐Ming Zhang', 'Yanxu Zhang', 'Clifton Dassuncao', 'Rainer Lohmann', 'Elsie M. Sunderland']
+ABSTRACT:
+Abstract Perfluorooctane sulfonate (PFOS) is an aliphatic fluorinated compound with eight carbon atoms that is extremely persistent in the environment and can adversely affect human and ecological health. The stability, low reactivity, and high water solubility of PFOS combined with the North American phaseout in production around the year 2000 make it a potentially useful new tracer for ocean circulation. Here we characterize processes affecting the lifetime and accumulation of PFOS in the North Atlantic Ocean and transport to sensitive Arctic regions by developing a 3‐D simulation within the MITgcm. The model captures variability in measurements across biogeographical provinces ( R 2 = 0.90, p = 0.01). In 2015, the North Atlantic PFOS reservoir was equivalent to 60% of cumulative inputs from the North American and European continents (1400 Mg). Cumulative inputs to the Arctic accounted for 30% of continental discharges, while the remaining 10% was transported to the tropical Atlantic and other regions. PFOS concentrations declined rapidly after 2002 in the surface mixed layer (half‐life: 1–2 years) but are still increasing below 1000 m depth. During peak production years (1980–2000), plumes of PFOS‐enriched seawater were transported to the sub‐Arctic in energetic surface ocean currents. However, Atlantic Meridional Overturning Circulation (AMOC) and deep ocean transport returned a substantial fraction of this northward transport (20%, 530 Mg) to southern latitudes and reduced cumulative inputs to the Arctic (730 Mg) by 70%. Weakened AMOC due to climate change is thus likely to increase the magnitude of persistent bioaccumulative pollutants entering the Arctic Ocean.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/2017gb005624
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Arctic', 'Oceanography', 'Perfluorooctane', 'North Atlantic Deep Water', 'Environmental science', 'Seawater', 'Continental shelf', 'Thermohaline circulation', 'Ocean current', 'Geology', 'Chemistry', 'Sulfonate', 'Organic chemistry', 'Sodium']

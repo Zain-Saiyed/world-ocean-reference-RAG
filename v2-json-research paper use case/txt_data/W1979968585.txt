@@ -1,0 +1,12 @@
+ID: W1979968585
+TITLE: The marine nitrogen cycle: recent discoveries, uncertainties and the potential relevance of climate change
+AUTHOR: ['Maren Voß', 'Hermann W. Bange', 'Joachim W. Dippner', 'Jack J. Middelburg', 'Joseph P. Montoya', 'Bess B. Ward']
+ABSTRACT:
+The ocean's nitrogen cycle is driven by complex microbial transformations, including nitrogen fixation, assimilation, nitrification, anammox and denitrification. Dinitrogen is the most abundant form of nitrogen in sea water but only accessible by nitrogen-fixing microbes. Denitrification and nitrification are both regulated by oxygen concentrations and potentially produce nitrous oxide (N 2 O), a climate-relevant atmospheric trace gas. The world's oceans, including the coastal areas and upwelling areas, contribute about 30 per cent to the atmospheric N 2 O budget and are, therefore, a major source of this gas to the atmosphere. Human activities now add more nitrogen to the environment than is naturally fixed. More than half of the nitrogen reaches the coastal ocean via river input and atmospheric deposition, of which the latter affects even remote oceanic regions. A nitrogen budget for the coastal and open ocean, where inputs and outputs match rather well, is presented. Furthermore, predicted climate change will impact the expansion of the oceans' oxygen minimum zones, the productivity of surface waters and presumably other microbial processes, with unpredictable consequences for the cycling of nitrogen. Nitrogen cycling is closely intertwined with that of carbon, phosphorous and other biologically important elements via biological stoichiometric requirements. This linkage implies that human alterations of nitrogen cycling are likely to have major consequences for other biogeochemical processes and ecosystem functions and services.
+
+SOURCE: Philosophical transactions - Royal Society. Biological sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2013.0121
+CITED BY COUNT: 242
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Nitrogen cycle', 'Denitrification', 'Environmental science', 'Upwelling', 'Ecosystem', 'Nitrogen', 'Nitrogen fixation', 'Nitrification', 'Biogeochemistry', 'Reactive nitrogen', 'Anammox', 'Climate change', 'Cycling', 'Ecology', 'Environmental chemistry', 'Oceanography', 'Denitrifying bacteria', 'Chemistry', 'Biology', 'Geology', 'History', 'Archaeology', 'Organic chemistry']

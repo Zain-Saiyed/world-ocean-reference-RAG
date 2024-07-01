@@ -1,0 +1,12 @@
+ID: W2955234199
+TITLE: The great Atlantic <i>Sargassum</i> belt
+AUTHOR: ['Mengqiu Wang', 'Chuanmin Hu', 'Brian B. Barnes', 'Gary T. Mitchum', 'Brian E. Lapointe', 'Joseph P. Montoya']
+ABSTRACT:
+The biggest bloom Floating mats of Sargassum seaweed in the center of the North Atlantic were first reported by Christopher Columbus in the 15th century. These mats, although abundant, have until recently been limited and discontinuous. However, Wang et al. report that, since 2011, the mats have increased in density and aerial extent to generate a 8850-kilometer-long belt that extends from West Africa to the Caribbean Sea and Gulf of Mexico (see the Perspective by Gower and King). This represents the world's largest macroalgal bloom. Such recurrent blooms may become the new normal. Science , this issue p. 83 ; see also p. 27
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/365/6448/83.full.pdf
+CITED BY COUNT: 378
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Sargassum', 'Oceanography', 'Bloom', 'Algal bloom', 'Geography', 'Algae', 'Geology', 'Ecology', 'Biology', 'Phytoplankton', 'Nutrient']

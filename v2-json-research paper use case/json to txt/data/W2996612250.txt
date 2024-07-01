@@ -1,0 +1,12 @@
+ID: W2996612250
+TITLE: The seaweed resources of Israel in the Eastern Mediterranean Sea
+AUTHOR: ['Álvaro Israel', 'Alexander Golberg', 'Amir Neori']
+ABSTRACT:
+Abstract In spite of the natural harsh marine environments and continuous global change stressors affecting the Levant basin, the Israeli marine flora in the Eastern Mediterranean Sea is quite diverse, with about 300 recognized species. Such high seaweed biodiversity for a small maritime area is remarkable compared to the ca. 1200 species described for the entire Eastern Mediterranean Sea. Since about the year 1890, the Levant basin has been hosting over 115 seaweeds species that migrated from the Indo-Pacific through the Suez Canal. Indeed, approximately 16% of the marine flora is regarded as invasive or exotic to the Israeli shores, in a process that constantly reshapes seaweed populations and their biodiversity. In spite of significant contributions by Israeli scientists to the general biology and technologies for seaweed cultivation worldwide, Israel has little historical and cultural tradition of commercial seaweed cultivation, or use. At present, only two commercial companies are engaged in land-based seaweed cultivation ( Ulva sp. and Gracilaria sp.) with a number of products marketed locally and abroad. Recently, offshore cultivation and biorefinery approaches have been explored, but not yet commercialized.
+
+SOURCE: Botanica marina
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Flora (microbiology)', 'Biodiversity', 'Mediterranean sea', 'Geography', 'Mediterranean climate', 'Algae', 'Fishery', 'Ecology', 'Biology', 'Genetics', 'Bacteria']

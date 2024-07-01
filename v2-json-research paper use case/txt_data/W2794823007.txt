@@ -1,0 +1,12 @@
+ID: W2794823007
+TITLE: Regional coastal erosion assessment based on global open access data: a case study for Colombia
+AUTHOR: ['J. Stronkhorst', 'Alex Levering', 'Gerrit Hendriksen', 'Nelson Rangel-Buitrago', 'Lars Rosendahl Appelquist']
+ABSTRACT:
+Many coastlines throughout the world are retreating, as a result of erosion and sea level rise. The damage incurred to property, infrastructure, coastal flood defence, and the loss of ecosystem services and agricultural land have substantial economic repercussions. For many coastal regions located in developing countries, the assessment of the spatial extent of coastal erosion is very time-consuming and is often hampered by lack of data. To investigate the suitability of global open access data for coastal erosion assessments at regional scale six biogeophysical variables (geological layout, waves, sediment balance, tides, storms, and vegetation) were integrated using the Coastal Hazard Wheel approach (CHW). Original datasets with global coverage were retrieved from the internet and from various research institutes. The data were processed and assigned to the CHW classes, so that the CHW method could be applied to assess coastal erosion hazard levels. The data can be viewed in the Coastal Hazard Wheel App ( www.coastalhazardwheel.org ) that also allows the coastal erosion hazard levels to be determined for each point at coastlines around the world. The application of the CHW with global open access data was tested for the Caribbean and Pacific coasts of Colombia and revealed a high to very high erosion hazard along 47% of the Caribbean coast and along 23% of the Pacific coast. The application provides additional information on capital stock near the coast, as a tentative indication of assets at risk. This approach provides a straightforward and uniform erosion hazard identification method that can be used for spatial planning on coastal developments at a regional scale.
+
+SOURCE: Journal of coastal conservation
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs11852-018-0609-x.pdf
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coastal erosion', 'Coastal hazards', 'Hazard', 'Storm', 'Hazard analysis', 'Coastal management', 'Erosion', 'Environmental science', 'Geography', 'Environmental resource management', 'Physical geography', 'Shore', 'Oceanography', 'Meteorology', 'Geology', 'Climate change', 'Ecology', 'Engineering', 'Sea level rise', 'Paleontology', 'Aerospace engineering', 'Biology']

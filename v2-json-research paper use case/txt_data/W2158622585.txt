@@ -1,0 +1,12 @@
+ID: W2158622585
+TITLE: Cumulative impact mapping: Advances, relevance and limitations to marine management and conservation, using Canada's Pacific waters as a case study
+AUTHOR: ['Natalie C. Ban', 'Hussein M. Alidina', 'Jeff Ardron']
+ABSTRACT:
+Analysis of cumulative human impacts in the marine environment is still in its infancy but developing rapidly. In this study, existing approaches were expanded upon, aiming for a realistic consideration of cumulative impacts at a regional scale. Thirty-eight human activities were considered, with each broken down according to stressor types and a range of spatial influences. To add to the policy relevance, existing stressors within and outside of conservation areas were compared. Results indicate the entire continental shelf of Canada's Pacific marine waters is affected by multiple human activities at some level. Commercial fishing, land-based activities and marine transportation accounted for 57.0%, 19.1%, and 17.7% of total cumulative impacts, respectively. Surprisingly, most areas with conservation designations contained higher impact scores than the mean values of their corresponding ecoregions. Despite recent advances in mapping cumulative impacts, many limitations remain. Nonetheless, preliminary analyses such as these can provide information relevant to precautionary management and conservation efforts.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 205
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Cumulative effects', 'Fishing', 'Marine protected area', 'Marine conservation', 'Environmental resource management', 'Marine spatial planning', 'Relevance (law)', 'Geography', 'Scale (ratio)', 'Range (aeronautics)', 'Fishery', 'Environmental science', 'Environmental planning', 'Ecology', 'Habitat', 'Cartography', 'Biology', 'Political science', 'Law', 'Materials science', 'Composite material']

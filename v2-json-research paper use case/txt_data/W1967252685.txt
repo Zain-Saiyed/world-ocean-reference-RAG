@@ -1,0 +1,12 @@
+ID: W1967252685
+TITLE: Metals in sediments and fish from Sea Lots and Point Lisas Harbors, Trinidad and Tobago
+AUTHOR: ['Azad Mohammed', 'Thomas W. May', 'Kathy R. Echols', 'Mike Walther', 'Anton Manoo', 'Dexter Maraj', 'John Agard', 'Carl E. Orazio']
+ABSTRACT:
+Concentrations of heavy metals were determined in nearshore marine sediments and fish tissue from Sea Lots area on the west coast, at Caroni Lagoon National Park, and in the Point Lisas harbor, Trinidad. The most dominant metals found in sediments were Al, Fe and Zn with mean concentrations highest at Sea Lots (Al-39420 μg/g; Fe-45640 μg/g; Zn-245 μg/g), when compared to sediments from Point Lisas (Al-11936 μg/g; Fe-30171 μg/g; Zn-69 μg/g) and Caroni (Al-0400 μg/g; Fe-19000 μg/g; Zn-32 μg/g), High concentration of Cu, Al, Fe and Zn were also detected in fish tissue from Point Lisas and Caroni. Metal concentrations in fish tissue showed significant correlation with sediment metals concentration, which suggests that tissue levels are influenced by sediment concentration. Of the metals, only Zn, Hg and Cu had a bioaccumulation factor (BAF) greater than one, which suggests a high bioaccumulation potential for these metals.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Bioaccumulation', 'Sediment', 'Environmental chemistry', 'Fish <Actinopterygii>', 'Environmental science', 'Heavy metals', 'Chemistry', 'Fishery', 'Geology', 'Biology', 'Geomorphology']

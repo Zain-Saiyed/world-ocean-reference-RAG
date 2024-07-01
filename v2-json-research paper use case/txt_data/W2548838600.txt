@@ -1,0 +1,12 @@
+ID: W2548838600
+TITLE: Assessing the cumulative environmental effects of marine renewable energy developments: Establishing common ground
+AUTHOR: ['Edward Willsteed', 'Andrew B. Gill', 'Silvana N.R. Birchenough', 'Simon Jude']
+ABSTRACT:
+Assessing and managing the cumulative impacts of human activities on the environment remains a major challenge to sustainable development. This challenge is highlighted by the worldwide expansion of marine renewable energy developments (MREDs) in areas already subject to multiple activities and climate change. Cumulative effects assessments in theory provide decision makers with adequate information about how the environment will respond to the incremental effects of licensed activities and are a legal requirement in many nations. In practise, however, such assessments are beset by uncertainties resulting in substantial delays during the licensing process that reduce MRED investor confidence and limit progress towards meeting climate change targets. In light of these targets and ambitions to manage the marine environment sustainably, reducing the uncertainty surrounding MRED effects and cumulative effects assessment are timely and vital. This review investigates the origins and evolution of cumulative effects assessment to identify why the multitude of approaches and pertinent research have emerged, and discusses key considerations and challenges relevant to assessing the cumulative effects of MREDs and other activities on ecosystems. The review recommends a shift away from the current reliance on disparate environmental impact assessments and limited strategic environmental assessments, and a move towards establishing a common system of coordinated data and research relative to ecologically meaningful areas, focussed on the needs of decision makers tasked with protecting and conserving marine ecosystems and services.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Cumulative effects', 'Sustainability', 'Environmental resource management', 'Climate change', 'Environmental planning', 'Environmental impact assessment', 'Strategic environmental assessment', 'Process (computing)', 'Renewable energy', 'Risk analysis (engineering)', 'Impact assessment', 'Business', 'Environmental science', 'Computer science', 'Engineering', 'Ecology', 'Political science', 'Electrical engineering', 'Biology', 'Operating system', 'Public administration']

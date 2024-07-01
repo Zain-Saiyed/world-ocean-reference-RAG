@@ -1,0 +1,12 @@
+ID: W2976562182
+TITLE: Management of Coastal Erosion Under Climate Change Through Wave Farms
+AUTHOR: ['Rafael J. Bergillos', 'Cristóbal Rodríguez‐Delgado', 'G. Iglesias']
+ABSTRACT:
+In this chapter, the efficiency of wave farms in coastal protection under sea-level rise is investigated. A wave farm formed by 11 wave energy converters was modelled off Playa Granada, a gravel-dominated coast in Southern Spain, under three sea-level rise scenarios: the current water level and the water level in 2100 according to a low- and high-emission scenario. In order to explore the effects produced by the wave farm, the natural scenario without wave farm was also studied. Waves were propagated through the wave farm by means of Delft3D-Wave and breaking parameters were obtained in order to apply a longshore sediment transport (LST) formulation. The results obtained with the LST formulation were used in a one-line model to compute the changes in the position of the shoreline at the study site. The results highlight that wave farms are able to decrease beach erosion (shoreline retreat) even under sea-level rise scenarios. That makes wave farms attractive management strategies, as they contribute to the decarbonisation of the energy mix and more efficient in terms of coastal protection under sea-level rise than traditional hard-engineering structures.
+
+SOURCE: SpringerBriefs in energy
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Coastal erosion', 'Shore', 'Environmental science', 'Erosion', 'Current (fluid)', 'Wave height', 'Water level', 'Climate change', 'Wave model', 'Longshore drift', 'Sediment', 'Wind wave', 'Hydrology (agriculture)', 'Sediment transport', 'Oceanography', 'Geology', 'Geography', 'Meteorology', 'Geomorphology', 'Geotechnical engineering', 'Cartography']

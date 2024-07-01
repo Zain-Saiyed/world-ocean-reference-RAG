@@ -1,0 +1,12 @@
+ID: W1877005220
+TITLE: Carbon‐cycle feedbacks of changes in the Atlantic meridional overturning circulation under future atmospheric CO<sub>2</sub>
+AUTHOR: ['Kirsten Zickfeld', 'Michael Eby', 'Andrew J. Weaver']
+ABSTRACT:
+An Earth System model of intermediate complexity is used to quantify the effects of potential reorganizations of the Atlantic meridional overturning circulation, ranging from a weakening to a complete shutdown, on future uptake of excess CO 2 by the ocean and the terrestrial biosphere. Circulation changes significantly reduce oceanic CO 2 uptake, with the largest effects occurring under a complete shutdown. The reduction in uptake is caused to a large extent by a decline in marine export of organic particulate matter. On land, soil carbon increases because of reduced soil respiration in the mid‐latitudes of the Northern Hemisphere. This gain is partially compensated by loss of vegetation carbon associated with reduced primary production in the northern high latitudes due to a cooler and dryer climate. Altogether, these processes act to modestly enhance CO 2 concentration levels in the atmosphere, thereby leading to a small positive feedback. The rise in atmospheric CO 2 ranges from 13 ppm to 34 ppm in 2500, depending on the amount of AMOC weakening, the magnitude of the anthropogenic CO 2 perturbation, and the future CO 2 fertilization effect.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2007GB003118
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Environmental science', 'Carbon cycle', 'Northern Hemisphere', 'Atmospheric sciences', 'Climatology', 'Biosphere', 'Thermohaline circulation', 'Shutdown of thermohaline circulation', 'Latitude', 'Atmosphere (unit)', 'Zonal and meridional', 'Oceanography', 'North Atlantic Deep Water', 'Ecosystem', 'Geology', 'Ecology', 'Meteorology', 'Physics', 'Geodesy', 'Biology']

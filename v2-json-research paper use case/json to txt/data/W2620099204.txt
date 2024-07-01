@@ -1,0 +1,12 @@
+ID: W2620099204
+TITLE: Plastic and Human Health: A Micro Issue?
+AUTHOR: ['Sarah Wright', 'Frank J. Kelly']
+ABSTRACT:
+Microplastics are a pollutant of environmental concern. Their presence in food destined for human consumption and in air samples has been reported. Thus, microplastic exposure via diet or inhalation could occur, the human health effects of which are unknown. The current review article draws upon cross-disciplinary scientific literature to discuss and evaluate the potential human health impacts of microplastics and outlines urgent areas for future research. Key literature up to September 2016 relating to accumulation, particle toxicity, and chemical and microbial contaminants was critically examined. Although microplastics and human health is an emerging field, complementary existing fields indicate potential particle, chemical and microbial hazards. If inhaled or ingested, microplastics may accumulate and exert localized particle toxicity by inducing or enhancing an immune response. Chemical toxicity could occur due to the localized leaching of component monomers, endogenous additives, and adsorbed environmental pollutants. Chronic exposure is anticipated to be of greater concern due to the accumulative effect that could occur. This is expected to be dose-dependent, and a robust evidence-base of exposure levels is currently lacking. Although there is potential for microplastics to impact human health, assessing current exposure levels and burdens is key. This information will guide future research into the potential mechanisms of toxicity and hence therein possible health effects.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 1797
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Human health', 'Pollutant', 'Toxicity', 'Environmental science', 'Inhalation exposure', 'Environmental chemistry', 'Environmental health', 'Toxicology', 'Chemistry', 'Biology', 'Ecology', 'Medicine', 'Organic chemistry']

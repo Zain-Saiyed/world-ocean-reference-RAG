@@ -1,0 +1,12 @@
+ID: W2104073851
+TITLE: Development of an air bubble curtain to reduce underwater noise of percussive piling
+AUTHOR: ['Bernd Würsig', 'Charles R. Greene', 'Thomas A. Jefferson']
+ABSTRACT:
+Underwater bubbles can inhibit sound transmission through water due to density mismatch and concomitant reflection and absorption of sound waves. For the present study, a perforated rubber hose was used to produce a bubble curtain, or screen, around pile-driving activity in 6-8-m depth waters of western Hong Kong. The percussive hammer blow sounds of the pile driver were measured on 2 days at distances of 250, 500, and 1000 m; broadband pulse levels were reduced by 3-5 dB by the bubble curtain. Sound intensities were measured from 100 Hz to 25.6 kHz, and greatest sound reduction by the bubble curtain was evident from 400 to 6400 Hz. Indo-Pacific hump-backed dolphins (Sousa chinensis) occurred in the immediate area of the industrial activity before and during pile driving, but with a lower abundance immediately after it. While hump-backed dolphins generally showed no overt behavioral changes with and without pile driving, their speeds of travel increased during pile driving, indicating that bubble screening did not eliminate all behavioral responses to the loud noise. Because the bubble curtain effectively lowered sound levels within 1 km of the activity, the experiment and its application during construction represented a success, and this measure should be considered for other appropriate areas with high industrial noises and resident or migrating sound-sensitive animals.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 148
+PUBLICATION YEAR: 2000
+TYPE: article
+CONCEPTS: ['Bubble', 'Pile', 'Hammer', 'Underwater', 'Noise (video)', 'Acoustics', 'Sound (geography)', 'Environmental science', 'Marine engineering', 'Geology', 'Physics', 'Engineering', 'Geotechnical engineering', 'Oceanography', 'Structural engineering', 'Mechanics', 'Computer science', 'Artificial intelligence', 'Image (mathematics)']

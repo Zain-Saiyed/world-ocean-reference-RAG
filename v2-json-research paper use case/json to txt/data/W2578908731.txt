@@ -1,0 +1,12 @@
+ID: W2578908731
+TITLE: Microzooplankton and meroplanktonic larvae at two seamounts in the subtropical and tropical NE Atlantic
+AUTHOR: ['Anneke Denda', 'Christian Mohn', 'Hella Wehrmann', 'Bernd Christiansen']
+ABSTRACT:
+Spatial distribution patterns of microzooplankton (0.055–0.3 mm) biomass and abundance were studied in relation to the hydrographic situation and the local flow field in the waters off Ampère and Senghor, two shallow seamounts in the subtropical and tropical NE Atlantic, in comparison with unaffected open ocean reference sites. Ampère was sampled during November/December 2010 and Senghor during December 2011 and February 2013. The study includes taxonomic composition, abundance of meroplanktonic larvae and an estimation of the respiratory carbon demand. Biomass (dry weight) standing stocks of microzooplankton in the upper 100 m ranged between 30–120 mg m −2 over Ampère and 140–260 mg m −2 over Senghor Seamount, corresponding to 33 and 24% of the total zooplankton (0.055–20 mm). Highest total abundance was always found in the upper 50 m with numbers of 1070–5060 Ind m −3 at Ampère and 5050–20,000 Ind m −3 at Senghor with microzooplankton contributing 70–95%. Zooplankton accumulated mainly at the thermocline coincident with the deep fluorescence maximum and was ascertained by food supply rather than by oxygen limitation. The microzooplankton contribution to the total respiratory carbon demand was ~50% in the subtropical waters off Ampère and ~30% at Senghor, reflecting the important role of microzooplankton in the waters of the NE Atlantic subtropical gyre. Clear evidence of local seamount effects resulting in enhanced microzooplankton biomass compared with the unaffected reference sites were not detected. However, we confirmed Senghor as a hotspot for meroplanktonic larvae, suggesting a retention potential that results in significantly enhanced larval abundance in the seamount waters as compared with the open ocean.
+
+SOURCE: Journal of the Marine Biological Association of the United Kingdom/Journal of the Marine Biological Association of the UK
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seamount', 'Oceanography', 'Ocean gyre', 'Zooplankton', 'Subtropics', 'Copepod', 'Environmental science', 'Thermocline', 'Biology', 'Fishery', 'Geology', 'Crustacean']

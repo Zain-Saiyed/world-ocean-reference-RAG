@@ -1,0 +1,12 @@
+ID: W2961026775
+TITLE: ROV Observations on Reproduction by Deep-Sea Cephalopods in the Central Pacific Ocean
+AUTHOR: ['Michael Vecchione']
+ABSTRACT:
+Telepresence-enabled operations by remotely operated vehicles (ROVs) allow many researchers a unique perspective on morphology, behavior, and small-scale distributions of deep-sea animals. I present some examples of cephalopod natural history from recent ROV dives in the central Pacific Ocean. These examples include clues to reproductive behavior of deep-sea squids and cirrate “dumbo” octopods. During 7-12 March 2017, the ROV Deep Discoverer (D2) operating from NOAA Ship Okeanos Explorer recorded high-definition video of several squid in the genus Chiroteuthis. These included a mature male, a mature female, and a moribund squid identifiable as C. picteti. The female had obviously mated, with spermatangia implanted in many locations, and was holding in its arms another squid that appeared to be another Chiroteuthis. Considered together, these observations may indicate a deep-sea spawning aggregation and, possibly, sexual cannibalism. Another series of observations by D2 revealed eggs of cirrate octopods attached to octocorals. The remarkable thing about these observations was that in two of them (18 March and 4 May) the egg chorion had swollen and burst the external egg capsule. This may explain how the hatching embryo is able to escape from the tough protective coating secreted by the oviducal gland of cirrates but not secreted by the better-known incirrate octopods.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00403/pdf
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Cephalopod', 'Squid', 'Biology', 'Remotely operated underwater vehicle', 'Deep sea', 'Hatching', 'Oceanography', 'octopus (software)', 'Fishery', 'Zoology', 'Reproduction', 'Anatomy', 'Geology', 'Ecology', 'Artificial intelligence', 'Physics', 'Computer science', 'Robot', 'Mobile robot', 'Quantum mechanics']

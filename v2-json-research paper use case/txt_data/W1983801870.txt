@@ -1,0 +1,12 @@
+ID: W1983801870
+TITLE: A long‐term chlorophyll dataset reveals regime shift in North Sea phytoplankton biomass unconnected to nutrient levels
+AUTHOR: ['Abigail McQuatters‐Gollop', '\u202aDionysios E. Raitsos', 'Martin Edwards', 'Yaswant Pradhan', 'Laurence Mee', 'Samantha Lavender', 'Martin J. Attrill']
+ABSTRACT:
+During the 1980s, a rapid increase in the Phytoplankton Colour Index (PCI), a semiquantitative visual estimate of algal biomass, was observed in the North Sea as part of a regionwide regime shift. Two new data sets created from the relationship between the PCI and SeaWiFS chlorophyll a (Chl a ) quantify differences in the previous and current regimes for both the anthropogenically affected coastal North Sea and the comparatively unaffected open North Sea. The new regime maintains a 13% higher Chl a concentration in the open North Sea and a 21% higher concentration in coastal North Sea waters. However, the current regime has lower total nitrogen and total phosphorus concentrations than the previous regime, although the molar N: P ratio in coastal waters is now well above the Redfield ratio and continually increasing. Besides becoming warmer, North Sea waters are also becoming clearer (i.e., less turbid), thereby allowing the normally light‐limited coastal phytoplankton to more effectively utilize lower concentrations of nutrients. Linear regression analyses indicate that winter Secchi depth and sea surface temperature are the most important predictors of coastal Chl a , while Atlantic inflow is the best predictor of open Chl a ; nutrient concentrations are not a significant predictor in either model. Thus, despite decreasing nutrient concentrations, Chl a continues to increase, suggesting that climatic variability and water transparency may be more important than nutrient concentrations to phytoplankton production at the scale of this study.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.2007.52.2.0635
+CITED BY COUNT: 192
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'SeaWiFS', 'Redfield ratio', 'Environmental science', 'Oceanography', 'Chlorophyll a', 'Nutrient', 'Biomass (ecology)', 'Regime shift', 'Ecology', 'Biology', 'Geology', 'Ecosystem', 'Botany']

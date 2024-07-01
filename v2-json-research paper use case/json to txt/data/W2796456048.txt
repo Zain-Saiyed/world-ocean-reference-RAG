@@ -1,0 +1,12 @@
+ID: W2796456048
+TITLE: Factors controlling coccolithophore biogeography in the Southern Ocean
+AUTHOR: ['Cara Nissen', 'Meike Vogt', 'Matthias Münnich', 'Nicolas Gruber', 'F. Alexander Haumann']
+ABSTRACT:
+Abstract. The biogeography of Southern Ocean phytoplankton controls the local biogeochemistry and the export of macronutrients to lower latitudes and depth. Of particular relevance is the competitive interaction between coccolithophores and diatoms, with the former being prevalent along the “Great Calcite Belt” (40–60∘ S), while diatoms tend to dominate the regions south of 60∘ S. To address the factors controlling coccolithophore distribution and the competition between them and diatoms, we use a regional high-resolution model (ROMS–BEC) for the Southern Ocean (24–78∘ S) that has been extended to include an explicit representation of coccolithophores. We assess the relative importance of bottom-up (temperature, nutrients, light) and top-down (grazing by zooplankton) factors in controlling Southern Ocean coccolithophore biogeography over the course of the growing season. In our simulations, coccolithophores are an important member of the Southern Ocean phytoplankton community, contributing 17 % to annually integrated net primary productivity south of 30∘ S. Coccolithophore biomass is highest north of 50∘ S in late austral summer, when light levels are high and diatoms become limited by silicic acid. Furthermore, we find top-down factors to be a major control on the relative abundance of diatoms and coccolithophores in the Southern Ocean. Consequently, when assessing potential future changes in Southern Ocean coccolithophore abundance, both abiotic (temperature, light, and nutrients) and biotic factors (interaction with diatoms and zooplankton) need to be considered.
+
+SOURCE: Biogeosciences
+PDF URL: https://bg.copernicus.org/articles/15/6997/2018/bg-15-6997-2018.pdf
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coccolithophore', 'Oceanography', 'Emiliania huxleyi', 'Phytoplankton', 'Zooplankton', 'Environmental science', 'Biogeochemistry', 'Ecology', 'Biogeography', 'Plankton', 'Biology', 'Geology', 'Nutrient']

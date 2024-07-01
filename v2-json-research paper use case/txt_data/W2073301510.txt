@@ -1,0 +1,12 @@
+ID: W2073301510
+TITLE: Biochemical ecology of deep-sea animals
+AUTHOR: ['George N. Somero']
+ABSTRACT:
+Deep-sea ecosystems contain unique endemic species whose distributions show strong vertical patterning in the case of pelagic animals and sharp horizontal patterning in the case of benthic animals living in or near the deep-sea hydothermal vents. This review discusses the biochemical adaptations that enable deep-sea animals to exploit diverse deep-sea habitats and that help establish biogeographic patterning in the deep-sea. The abilities of deep-sea animals to tolerate the pressure and temperature conditions of deep-sea habitats are due to pervasive adaptations at the biochemical level: enzymes exhibit reduced perturbation of function by pressure, membranes have fluidities adapted to deep-sea pressures and temperatures, and proteins show enhanced structural stability relative to homologous proteins from cold-adapted shallow-living species. Animals from the warmest habitable regions of hydrothermal vent ecosystems have enzymes and mitochondria adapted to high pressure and relatively high temperatures. The low metabolic rates of bathypelagic fishes correlate with greatly reduced capacities for ATP turnover in locomotory muscle. Reduced light and food availability in bathypelagic regions select for low rates of energy expenditure in locomotory activity. Deep-sea animals thus reflect the importance of biochemical adaptations in establishing species distribution patterns and appropriate rates of metabolic turnover in different ecosystems.
+
+SOURCE: Experientia
+PDF URL: None
+CITED BY COUNT: 73
+PUBLICATION YEAR: 1992
+TYPE: article
+CONCEPTS: ['Bathyal zone', 'Deep sea', 'Pelagic zone', 'Biology', 'Habitat', 'Ecosystem', 'Ecology', 'Hydrothermal vent', 'Benthic zone', 'Marine ecosystem', 'Oceanography', 'Fishery', 'Paleontology', 'Geology', 'Hydrothermal circulation']

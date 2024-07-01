@@ -1,0 +1,12 @@
+ID: W2773978608
+TITLE: Marine N<sub>2</sub>O Emissions From Nitrification and Denitrification Constrained by Modern Observations and Projected in Multimillennial Global Warming Simulations
+AUTHOR: ['Gianna Battaglia', 'Fortunat Joos']
+ABSTRACT:
+Nitrous oxide (N 2 O) is a potent greenhouse gas (GHG) and ozone destructing agent; yet global estimates of N 2 O emissions are uncertain. Marine N 2 O stems from nitrification and denitrification processes which depend on organic matter cycling and dissolved oxygen (O 2 ). We introduce N 2 O as an obligate intermediate product of denitrification and as an O 2 ‐dependent by‐product from nitrification in the Bern3D ocean model. A large model ensemble is used to probabilistically constrain modern and to project marine N 2 O production for a low (Representative Concentration Pathway (RCP)2.6) and high GHG (RCP8.5) scenario extended to A.D. 10,000. Water column N 2 O and surface ocean partial pressure N 2 O data serve as constraints in this Bayesian framework. The constrained median for modern N 2 O production is 4.5 (±1 σ range: 3.0 to 6.1) Tg N yr −1 , where 4.5% stems from denitrification. Modeled denitrification is 65.1 (40.9 to 91.6) Tg N yr −1 , well within current estimates. For high GHG forcing, N 2 O production decreases by 7.7% over this century due to decreasing organic matter export and remineralization. Thereafter, production increases slowly by 21% due to widespread deoxygenation and high remineralization. Deoxygenation peaks in two millennia, and the global O 2 inventory is reduced by a factor of 2 compared to today. Net denitrification is responsible for 7.8% of the long‐term increase in N 2 O production. On millennial timescales, marine N 2 O emissions constitute a small, positive feedback to climate change. Our simulations reveal tight coupling between the marine carbon cycle, O 2 , N 2 O, and climate.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2017GB005671
+CITED BY COUNT: 68
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Denitrification', 'Nitrous oxide', 'Nitrification', 'Environmental science', 'Greenhouse gas', 'Organic matter', 'Environmental chemistry', 'New production', 'Nitrate', 'Remineralisation', 'Chemistry', 'Atmospheric sciences', 'Nitrogen', 'Nutrient', 'Ecology', 'Geology', 'Biology', 'Inorganic chemistry', 'Fluoride', 'Organic chemistry', 'Phytoplankton']

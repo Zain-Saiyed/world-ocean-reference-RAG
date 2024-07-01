@@ -1,0 +1,12 @@
+ID: W2090311853
+TITLE: Permafrost-Associated Gas Hydrate: Is It Really Approximately 1 % of the Global System?
+AUTHOR: ['C. Ruppel']
+ABSTRACT:
+Permafrost-associated gas hydrates are often assumed to contain ∼1 % of the global gas-in-place in gas hydrates based on a study26 published over three decades ago. As knowledge of permafrost-associated gas hydrates has grown, it has become clear that many permafrost-associated gas hydrates are inextricably linked to an associated conventional petroleum system, and that their formation history (trapping of migrated gas in situ during Pleistocene cooling) is consistent with having been sourced at least partially in nearby thermogenic gas deposits. Using modern data sets that constrain the distribution of continuous permafrost onshore5 and subsea permafrost on circum-Arctic Ocean continental shelves offshore and that estimate undiscovered conventional gas within arctic assessment units,16 the analysis done here reveals where permafrost-associated gas hydrates are most likely to occur, concluding that Arctic Alaska and the West Siberian Basin are the best prospects. A conservative estimate is that 20 Gt C (2.7·1013 kg CH4) may be sequestered in permafrost-associated gas hydrates if methane were the only hydrate-former. This value is slightly more than 1 % of modern estimates (corresponding to 1600 Gt C to 1800 Gt C2,22) for global gas-in-place in methane hydrates and about double the absolute estimate (11.2 Gt C) made in 1981.26
+
+SOURCE: Journal of chemical and engineering data/Journal of chemical & engineering data
+PDF URL: None
+CITED BY COUNT: 83
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Permafrost', 'Clathrate hydrate', 'Arctic', 'Methane', 'Geology', 'Subsea', 'Earth science', 'Hydrate', 'Natural gas', 'Oceanography', 'Chemistry', 'Organic chemistry']

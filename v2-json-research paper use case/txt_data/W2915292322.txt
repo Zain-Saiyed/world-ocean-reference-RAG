@@ -1,0 +1,12 @@
+ID: W2915292322
+TITLE: Future recovery of baleen whales is imperiled by climate change
+AUTHOR: ['Vivitskaia J. D. Tulloch', 'Éva E. Plagányi', 'Christopher J. Brown', 'Anthony J. Richardson', 'Richard J. Matear']
+ABSTRACT:
+Historical harvesting pushed many whale species to the brink of extinction. Although most Southern Hemisphere populations are slowly recovering, the influence of future climate change on their recovery remains unknown. We investigate the impacts of two anthropogenic pressures-historical commercial whaling and future climate change-on populations of baleen whales (blue, fin, humpback, Antarctic minke, southern right) and their prey (krill and copepods) in the Southern Ocean. We use a climate-biological coupled "Model of Intermediate Complexity for Ecosystem Assessments" (MICE) that links krill and whale population dynamics with climate change drivers, including changes in ocean temperature, primary productivity and sea ice. Models predict negative future impacts of climate change on krill and all whale species, although the magnitude of impacts on whales differs among populations. Despite initial recovery from historical whaling, models predict concerning declines under climate change, even local extinctions by 2100, for Pacific populations of blue, fin and southern right whales, and Atlantic/Indian fin and humpback whales. Predicted declines were a consequence of reduced prey (copepods/krill) from warming and increasing interspecific competition between whale species. We model whale population recovery under an alternative scenario whereby whales adapt their migratory patterns to accommodate changing sea ice in the Antarctic and a shifting prey base. Plasticity in range size and migration was predicted to improve recovery for ice-associated blue and minke whales. Our study highlights the need for ongoing protection to help depleted whale populations recover, as well as local management to ensure the krill prey base remains viable, but this may have limited success without immediate action to reduce emissions.
+
+SOURCE: Global change biology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.14573
+CITED BY COUNT: 101
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Baleen', 'Krill', 'Whaling', 'Minke whale', 'Climate change', 'Whale', 'Antarctic krill', 'Fishery', 'Capelin', 'Population', 'Calanus finmarchicus', 'Humpback whale', 'Predation', 'Oceanography', 'Ecology', 'Biology', 'Balaenoptera', 'Environmental science', 'Copepod', 'Geology', 'Crustacean', 'Demography', 'Sociology']

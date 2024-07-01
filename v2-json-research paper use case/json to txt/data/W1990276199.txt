@@ -1,0 +1,12 @@
+ID: W1990276199
+TITLE: Input and dispersion of nutrients from the Jeddah Metropolitan Area, Red Sea
+AUTHOR: ['David Peña-García', 'Norbert Ladwig', 'Adnan J. Turki', 'M. Mudarris']
+ABSTRACT:
+Large amounts of waste water are discharged from the Jeddah Metropolitan Area into the Red Sea. Daily loads of total nitrogen (TN) and phosphorus (TP) amount to 6564 kg and 2241 kg, respectively, comprising 83% of dissolved inorganic nitrogen and 33% of dissolved phosphate. Steep gradients prevail nearshore, ranging from 2000 μM TN and 250 μM TP in the hypertrophic city lagoons to 6 μM TN and 0.4 μM TP in the adjacent oligotrophic water. Sewage inputs from Al Khumra, Jeddah’s main outfall, cause a widespread but moderate increase in surface nutrient concentrations due to the submerged diffuser. The nutrient pool in the oligotrophic water is dominated by dissolved organic and particulate forms, with nitrate frequently below the detection limit, indicating rapid transformation of inorganic nutrients. N:P ratios, as well as half-saturation constants for phytoplankton growth, suggest that nitrogen is the limiting factor restricting primary production in the area.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Nutrient', 'Environmental science', 'Nitrate', 'Outfall', 'Phytoplankton', 'Environmental chemistry', 'Phosphorus', 'Bay', 'Nitrogen', 'Phosphate', 'Surface water', 'Saturation (graph theory)', 'Hydrology (agriculture)', 'Particulates', 'Environmental engineering', 'Chemistry', 'Oceanography', 'Geology', 'Mathematics', 'Geotechnical engineering', 'Organic chemistry', 'Combinatorics']

@@ -1,0 +1,12 @@
+ID: W2908789328
+TITLE: Nitrogen and Phosphorus Eutrophication in Marine Ecosystems
+AUTHOR: ['Lucy W. Ngatia', 'Johnny M. Grace', 'Daniel N. Moriasi', 'Robert W. Taylor']
+ABSTRACT:
+Nitrogen (N) and phosphorus (P) eutrophication in marine ecosystems is a global problem. Marine eutrophication has a negative impact on food security, ecosystem health and economy through disruptions in tourism, fisheries and health industries. Both N and P have known point and non-point sources. Control of point sources has been easier than non-point sources particularly agricultural sources for both N and P as well as fossil fuel combustion for N, which remains a major challenge. Implementing mitigation strategies for N has been reported to be effective for P mitigation; however, the converse is not true due to mobility and volatility of N. Excessive N and P cause algae blooms, anoxic conditions, and ocean acidification with these conditions leading to dead zones, fish kill, toxin production, altered plant species diversity, food web disruption, tourism disruption and health issues. Management of N and P pollution includes reduction of leaching from farms through crop selection, timely and precise application of fertilizer and building artificial wetlands, proper management of animal waste, reduction of fossil fuel N emission, mitigating N and P from urban sources and restoration of aquatic ecosystem. Mitigation measures need to focus on dual nutrient strategy for successful N and P reduction.
+
+SOURCE: IntechOpen eBooks
+PDF URL: https://www.intechopen.com/citation-pdf-url/64674
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Eutrophication', 'Environmental science', 'Ecosystem', 'Marine ecosystem', 'Nutrient pollution', 'Environmental protection', 'Agriculture', 'Ecology', 'Nutrient', 'Biology']

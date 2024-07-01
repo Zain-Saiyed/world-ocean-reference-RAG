@@ -1,0 +1,12 @@
+ID: W2124987298
+TITLE: Effects of giant icebergs on two emperor penguin colonies in the Ross Sea, Antarctica
+AUTHOR: ['Gerald L. Kooyman', 'David G. Ainley', 'Grant Ballard', 'Paul J. Ponganis']
+ABSTRACT:
+The arrival in January 2001 in the south-west Ross Sea of two giant icebergs, C16 and B15A, subsequently had dramatic affects on two emperor penguin colonies. B15A collided with the north-west tongue of the Ross Ice Shelf at Cape Crozier, Ross Island, in the following months and destroyed the penguins' nesting habitat. The colony totally failed in 2001, and years after, with the icebergs still in place, exhibited reduced production that ranged from 0 to 40% of the 1201 chicks produced in 2000. At Beaufort Island, 70 km NW of Crozier, chick production declined to 6% of the 2000 count by 2004. Collisions with the Ross Ice Shelf at Cape Crozier caused incubating adults to be crushed, trapped in ravines, or to abandon the colony and, since 2001, to occupy poorer habitat. The icebergs separated Beaufort Island from the Ross Sea Polynya, formerly an easy route to feeding and wintering areas. This episode has provided a glimpse of events which have probably occurred infrequently since the West Antarctic Ice Sheet began to retreat 12 000 years ago. The results allow assessment of recovery rates for one colony decimated by both adult and chick mortality, and the other colony by adult abandonment and chick mortality.
+
+SOURCE: Antarctic science
+PDF URL: None
+CITED BY COUNT: 54
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Iceberg', 'Cape', 'Rookery', 'Oceanography', 'Beaufort scale', 'Beaufort sea', 'Geology', 'Geography', 'Sea ice', 'Fishery', 'Archaeology', 'Biology', 'Population', 'Demography', 'Sociology']

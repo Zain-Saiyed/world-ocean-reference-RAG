@@ -1,0 +1,12 @@
+ID: W2805478926
+TITLE: Recruitment Drives Spatial Variation in Recovery Rates of Resilient Coral Reefs
+AUTHOR: ['Sally J. Holbrook', 'Thomas C. Adam', 'Peter J. Edmunds', 'Russell J. Schmitt', 'R. C. Carpenter', 'Andrew J. Brooks', 'Hunter S. Lenihan', 'Cheryl J. Briggs']
+ABSTRACT:
+Tropical reefs often undergo acute disturbances that result in landscape-scale loss of coral. Due to increasing threats to coral reefs from climate change and anthropogenic perturbations, it is critical to understand mechanisms that drive recovery of these ecosystems. We explored this issue on the fore reef of Moorea, French Polynesia, following a crown-of-thorns seastar outbreak and cyclone that dramatically reduced cover of coral. During the five-years following the disturbances, the rate of re-establishment of coral cover differed systematically around the triangular-shaped island; coral cover returned most rapidly at sites where the least amount of live coral remained after the disturbances. Although sites differed greatly in the rate of return of coral, all showed at least some evidence of re-assembly to their pre-disturbance community structure in terms of relative abundance of coral taxa and other benthic space holders. The primary driver of spatial variation in recovery was recruitment of sexually-produced corals; subsequent growth and survivorship were less important in shaping the spatial pattern. Our findings suggest that, although the coral community has been resilient, some areas are unlikely to attain the coral cover and taxonomic structure they had prior to the most recent disturbances before the advent of another landscape-scale perturbation.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-25414-8.pdf
+CITED BY COUNT: 96
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Resilience of coral reefs', 'Coral', 'Coral reef', 'Reef', 'Aquaculture of coral', 'Ecology', 'Environmental issues with coral reefs', 'Benthic zone', 'Coral bleaching', 'Fishery', 'Anthozoa', 'Coral reef protection', 'Geography', 'Oceanography', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W1147987924
+TITLE: Abyssal hills – hidden source of increased habitat heterogeneity, benthic megafaunal biomass and diversity in the deep sea
+AUTHOR: ['Jennifer M. Durden', 'Brian J. Bett', 'Daniel O.B. Jones', 'Veerle A.I. Huvenne', 'Henry A. Ruhl']
+ABSTRACT:
+Abyssal hills are the most abundant landform on Earth, yet the ecological impact of the resulting habitat heterogeneity on the wider abyss is largely unexplored. Topographic features are known to influence food availability and the sedimentary environment in other deep-sea habitats, in turn affecting the species assemblage and biomass. To assess this spatial variation, benthic assemblages and environmental conditions were compared at four hill and four plain sites at the Porcupine Abyssal Plain. Here we show that differences in megabenthic communities on abyssal hills and the adjacent plain are related to environmental conditions, which may be caused by local topography and hydrodynamics. Although these hills may receive similar particulate organic carbon flux (food supply from the surface ocean) to the adjacent plain, they differ significantly in depth, slope, and sediment particle size distribution. We found that megafaunal biomass was significantly greater on the hills (mean 13.45 g m−2, 95% confidence interval 9.25–19.36 g m−2) than the plain (4.34 g m−2, 95% CI 2.08–8.27 g m−2; ANOVA F(1, 6) = 23.8, p < 0.01). Assemblage and trophic compositions by both density and biomass measures were significantly different between the hill and plain, and correlated with sediment particle size distributions. Hydrodynamic conditions responsible for the local sedimentary environment may be the mechanism driving these assemblage differences. Since the ecological heterogeneity provided by hills in the abyss has been underappreciated, regional assessments of abyssal biological heterogeneity and diversity may be considerably higher than previously thought.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 92
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Benthic zone', 'Megafauna', 'Abyssal plain', 'Biomass (ecology)', 'Oceanography', 'Geology', 'Sediment', 'Spatial heterogeneity', 'Ecology', 'Environmental science', 'Trophic level', 'Paleontology', 'Pleistocene', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2178030162
+TITLE: Climate change and marine vertebrates
+AUTHOR: ['William J. Sydeman', 'Elvira S. Poloczanska', 'Thomas E. Reed', 'Sarah Thompson']
+ABSTRACT:
+Climate change impacts on vertebrates have consequences for marine ecosystem structures and services. We review marine fish, mammal, turtle, and seabird responses to climate change and discuss their potential for adaptation. Direct and indirect responses are demonstrated from every ocean. Because of variation in research foci, observed responses differ among taxonomic groups (redistributions for fish, phenology for seabirds). Mechanisms of change are (i) direct physiological responses and (ii) climate-mediated predator-prey interactions. Regional-scale variation in climate-demographic functions makes range-wide population dynamics challenging to predict. The nexus of metabolism relative to ecosystem productivity and food webs appears key to predicting future effects on marine vertebrates. Integration of climate, oceanographic, ecosystem, and population models that incorporate evolutionary processes is needed to prioritize the climate-related conservation needs for these species.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/350/6262/772.full.pdf
+CITED BY COUNT: 196
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Climate change', 'Seabird', 'Ecosystem', 'Marine ecosystem', 'Ecology', 'Population', 'Range (aeronautics)', 'Apex predator', 'Geography', 'Biology', 'Predation', 'Materials science', 'Demography', 'Composite material', 'Sociology']

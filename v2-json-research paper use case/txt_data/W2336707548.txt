@@ -1,0 +1,12 @@
+ID: W2336707548
+TITLE: A computer vision approach for monitoring the spatial and temporal shrimp distribution at the LoVe observatory
+AUTHOR: ['Jonas Osterloff', 'Ingunn Nilssen', 'Tim W. Nattkemper']
+ABSTRACT:
+This paper demonstrates how computer vision can be applied for the automatic detection of shrimp in smaller areas of interest with a high temporal resolution for long time periods. A recorded sequence of digital HD camera images from fixed underwater observatories provides unique opportunities to study shrimp behavior in their natural environment, such as number of shrimp and their abundance at different locations (micro habitats) over time. Temporal color contrast features were applied to enable the detection of the semi-transparent shrimp. To study the spatial–temporal characteristics of the shrimp, pseudo-color visualizations referred to as shrimp abundance maps (SAM) are introduced. SAMs for different time periods are presented, to show the potential of the methodology.
+
+SOURCE: Methods in oceanography
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Shrimp', 'Underwater', 'Abundance (ecology)', 'Computer vision', 'Cartography', 'Artificial intelligence', 'Computer science', 'Geography', 'Remote sensing', 'Environmental science', 'Fishery', 'Biology', 'Archaeology']

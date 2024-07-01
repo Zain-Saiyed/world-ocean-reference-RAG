@@ -1,0 +1,12 @@
+ID: W2116893062
+TITLE: Short-time scale coupling of picoplankton community structure and single-cell heterotrophic activity in winter in coastal NW Mediterranean Sea waters
+AUTHOR: ['Thomas Lefort', 'Josep M. Gasol']
+ABSTRACT:
+We used flow cytometry to follow the diel variations of picoplankton community structure (PCS) and heterotrophic activity in coastal North Western Mediterranean surface waters during two successive 72 h cycles in winter 2007. Photosynthetic picoeukaryotes (pPeuk) dominated the photosynthetic fraction of the PCS during the first cycle, while Synechococcus (Syn) dominated during the second. For each group, pronounced and significant diel patterns were observed in flow cytometrically determined proxies of cell size (side scatter) and pigment content (fluorescence). Syn and pPeuk grew during the light period and divided at night; opposite patterns were observed in Prochlorococcus. The diel patterns of the overall PCS were strongly disrupted before the second cycle by a wind change event with associated rainfall and increased turbulence, suggesting that the shift observed in PCS resulted from the imbalances between growth and loss processes. During the first cycle, heterotrophic activity was higher at night than during the light period, indicating that bacterial growth was phased with the diel variations of PCS. During the second cycle, no diel patterns were observed. However, similar increasing trends in bacterial activity and small grazer abundance suggested that grazing activity was a possible source of dissolved organic matter (DOM) release that likely drove bacterial activity.
+
+SOURCE: Journal of plankton research
+PDF URL: https://academic.oup.com/plankt/article-pdf/36/1/243/14109910/fbt073.pdf
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Picoplankton', 'Diel vertical migration', 'Prochlorococcus', 'Synechococcus', 'Annual cycle', 'Phytoplankton', 'Heterotroph', 'Biology', 'Chlorophyll a', 'Plankton', 'Photosynthesis', 'Oceanography', 'Ecology', 'Cyanobacteria', 'Environmental science', 'Botany', 'Nutrient', 'Geology', 'Bacteria', 'Genetics']

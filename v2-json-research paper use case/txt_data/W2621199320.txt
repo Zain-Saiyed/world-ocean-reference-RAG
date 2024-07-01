@@ -1,0 +1,12 @@
+ID: W2621199320
+TITLE: Mercury accumulation in Lethrinus nebulosus from the marine waters of the Qatar EEZ
+AUTHOR: ['Ebrahim M.A.S. Al-Ansari', 'Mohamed A. Abdel-Moati', 'Oğuz Yiğiterhan', 'Ibrahim Al-Maslamani', 'Yousria Soliman', 'Gilbert T. Rowe', 'Terry L. Wade', 'Ismail Al‐Shaikh', 'Ahmed Helmi', 'Ligita Kuklyte', 'Mark Chatting', 'Mehsin A. Al-Ansi Al-Yafei']
+ABSTRACT:
+Total mercury (THg) and methylmercury (MeHg) were recorded in the commercial demersal fish Lethrinus nebulosus, caught from six locations in Qatar EEZ (Exclusive Economic Zone). Concentrations of THg decreased in the order: liver˃muscle˃gonad. THg concentrations in fish tissue ranged from 0.016ppm in gonad to 0.855ppm (mgkg-1w/w) in liver tissues, while concentrations in muscle tissue ranged from 0.24 to 0.49ppm (mgkg-1w/w) among sampling sites. MeHg concentrations were used to validate food web transfer rate calculations. Intake rates were calculated to assess the potential health impact of the fish consumption. There is no major threat to human health from the presence of Hg in L. nebulosus, based upon reasonable consumption patterns, limited to no more than three meals of L. nebulosus per week.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Methylmercury', 'Mercury (programming language)', 'Demersal fish', 'Fishery', 'Demersal zone', 'Bioaccumulation', 'Fish consumption', 'Exclusive economic zone', 'Gonad', 'Biology', 'Food chain', 'Animal science', 'Fish <Actinopterygii>', 'Ecology', 'Anatomy', 'Computer science', 'Programming language']

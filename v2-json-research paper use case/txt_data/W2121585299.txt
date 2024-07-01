@@ -1,0 +1,12 @@
+ID: W2121585299
+TITLE: Understanding the Role of the Biological Pump in the Global Carbon Cycle: An Imperative for Ocean Science
+AUTHOR: ['Susumu Honjo', 'T. I. Eglinton', 'Craig D. Taylor', 'Kevin M. Ulmer', 'Stefan M. Sievert', 'Astrid Bracher', 'Christopher R. German', 'Virginia P. Edgcomb', 'Roger François', 'M. Débora Iglesias‐Rodríguez', 'Benjamin A. S. Van Mooy', 'Daniel J. Repeta']
+ABSTRACT:
+Anthropogenically driven climate change will rapidly become Earth's dominant transformative influence in the coming decades. The oceanic biological pump—the complex suite of processes that results in the transfer of particulate and dissolved organic carbon from the surface to the deep ocean—constitutes the main mechanism for removing CO2 from the atmosphere and sequestering carbon at depth on submillennium time scales. Variations in the efficacy of the biological pump and the strength of the deep ocean carbon sink, which is larger than all other bioactive carbon reservoirs, regulate Earth's climate and have been implicated in past glacial-​interglacial cycles. The numerous biological, chemical, and physical processes involved in the biological pump are inextricably linked and heterogeneous over a wide range of spatial and temporal scales, and they influence virtually the entire ocean ecosystem. Thus, the functioning of the oceanic biological pump is not only relevant to the modulation of Earth's climate but also constitutes the basis for marine biodiversity and key food resources that support the human population. Our understanding of the biological pump is far from complete. Moreover, how the biological pump and the deep ocean carbon sink will respond to the rapid and ongoing anthropogenic changes to our planet—including warming, acidification, and deoxygenation of ocean waters—remains highly uncertain. To understand and quantify present-day and future changes in biological pump processes requires sustained global observations coupled with extensive modeling studies supported by international scientific coordination and funding
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/27-3_honjo.pdf
+CITED BY COUNT: 96
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Biological pump', 'Carbon cycle', 'Environmental science', 'Oceanography', 'Ocean science', 'Climatology', 'Ecology', 'Geology', 'Biology', 'Ecosystem']

@@ -1,0 +1,12 @@
+ID: W2055667516
+TITLE: Primary production of prochlorophytes, cyanobacteria, and eucaryotic ultraphytoplankton: Measurements from flow cytometric sorting
+AUTHOR: ['William K. W. Li']
+ABSTRACT:
+A partitioning of ultraphytoplankton primary production among prochlorophytes, cyanobacteria, and eucaryotic algae was made by shipboard flow cytometric sorting of 10 C‐labeled cells. Aggregate primary production was derived from the sum, over all three ultraplankton groups, of the product of cell abundance and cell‐specific rate of 14 C uptake which ranged from 0.03 to 4 fg C cell −1 h −1 for prochlorophytes and 0.2 to 10 fg C cell −1 h −1 for cyanobacteria. Results indicated that the dominant primary producer was not necessarily the numerical dominant nor necessarily the group with the highest cell‐specific rate of 14 C uptake. Generally, eucaryotic ultraphytoplankton are dominant because of their high cell‐specific rate of 14 C uptake and in spite of their relatively low abundance. Less often, it seems, procaryotic picoplankton may dominate in spite of their low cell‐specific rate of 14 C uptake because of their high abundance.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.1994.39.1.0169
+CITED BY COUNT: 475
+PUBLICATION YEAR: 1994
+TYPE: article
+CONCEPTS: ['Cyanobacteria', 'Picoplankton', 'Abundance (ecology)', 'Algae', 'Biology', 'Cell sorting', 'Flow cytometry', 'Cell', 'Botany', 'Chemistry', 'Biochemistry', 'Ecology', 'Molecular biology', 'Bacteria', 'Genetics']

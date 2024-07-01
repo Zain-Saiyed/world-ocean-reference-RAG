@@ -1,0 +1,12 @@
+ID: W2115194445
+TITLE: Expansion of oxygen minimum zones may reduce available habitat for tropical pelagic fishes
+AUTHOR: ['Lothar Stramma', 'Eric D. Prince', 'Sunke Schmidtko', 'Jiangang Luo', 'John P. Hoolihan', 'Martin Visbeck', 'Douglas W.R. Wallace', 'Peter Brandt', 'Arne Körtzinger']
+ABSTRACT:
+One of the impacts of ocean warming is a decrease in dissolved oxygen, with implications for valuable pelagic fish species. A study shows that the oxygenated upper ocean layer in the tropical northeast Atlantic thinned at a rate of around one metre per year between 1960 and 2010, and, by tracking individually tagged fish, demonstrates that this contraction in the oxygenated layer limited the movement of blue marlin. Climate model predictions1,2 and observations3,4 reveal regional declines in oceanic dissolved oxygen, which are probably influenced by global warming5. Studies indicate ongoing dissolved oxygen depletion and vertical expansion of the oxygen minimum zone (OMZ) in the tropical northeast Atlantic Ocean6,7. OMZ shoaling may restrict the usable habitat of billfishes and tunas to a narrow surface layer8,9. We report a decrease in the upper ocean layer exceeding 3.5 ml l−1 dissolved oxygen at a rate of ≤1 m yr−1 in the tropical northeast Atlantic (0–25° N, 12–30° W), amounting to an annual habitat loss of ∼5.95×1013 m3, or 15% for the period 1960–2010. Habitat compression and associated potential habitat loss was validated using electronic tagging data from 47 blue marlin. This phenomenon increases vulnerability to surface fishing gear for billfishes and tunas8,9, and may be associated with a 10–50% worldwide decline of pelagic predator diversity10. Further expansion of the Atlantic OMZ along with overfishing may threaten the sustainability of these valuable pelagic fisheries and marine ecosystems.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 423
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Oceanography', 'Overfishing', 'Tropical Atlantic', 'Environmental science', 'Fishery', 'Habitat', 'Hypoxia (environmental)', 'Oxygen minimum zone', 'Marine ecosystem', 'Habitat destruction', 'Climate change', 'Ecosystem', 'Fishing', 'Upwelling', 'Sea surface temperature', 'Ecology', 'Biology', 'Geology', 'Oxygen', 'Chemistry', 'Organic chemistry']

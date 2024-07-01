@@ -1,0 +1,12 @@
+ID: W2766557692
+TITLE: Status of vulnerable Cystoseira populations along the Italian infralittoral fringe, and relationships with environmental and anthropogenic variables
+AUTHOR: ['Francesco Paolo Mancuso', 'Elisabeth M. A. Strain', 'Enrico Piccioni', 'Olivier De Clerck', 'Gianluca Sarà', 'Laura Airoldi']
+ABSTRACT:
+We analyzed the occurrence and status of infralittoral fringe populations of Cystoseira spp. (Fucales) at thirteen rocky sites around the Italian coastline, and explored the relationships with relevant environmental and anthropogenic variables. We found Cystoseira populations at 11 sites: most were scattered and comprised monospecific stands of C. compressa, and only 6 sites also supported sparse specimens of either C. amentacea var. stricta or C. brachycarpa. Coastal human population density, Chlorophyll a seawater concentrations, sea surface temperature, annual range of sea surface temperature and wave fetch explained most of the variation of the status of C. compressa. We hypothesize a generally unhealthy state of the Italian Cystoseira infralittoral fringe populations and identify multiple co-occurring anthropogenic stressors as the likely drivers of these poor conditions. Extensive baseline monitoring is needed to describe how Cystoseira populations are changing, and implement a management framework for the conservation of these valuable but vulnerable habitats.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fucales', 'Habitat', 'Ecology', 'Range (aeronautics)', 'Geography', 'Population', 'Fetch', 'Environmental science', 'Oceanography', 'Biology', 'Algae', 'Geology', 'Materials science', 'Demography', 'Sociology', 'Composite material']

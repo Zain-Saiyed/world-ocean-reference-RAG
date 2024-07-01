@@ -1,0 +1,12 @@
+ID: W2806322703
+TITLE: The Arctic's sea ice cover: trends, variability, predictability, and comparisons to the Antarctic
+AUTHOR: ['Mark C. Serreze', 'W. Meier']
+ABSTRACT:
+Abstract As assessed over the period of satellite observations, October 1978 to present, there are downward linear trends in Arctic sea ice extent for all months, largest at the end of the melt season in September. The ice cover is also thinning. Downward trends in extent and thickness have been accompanied by pronounced interannual and multiyear variability, forced by both the atmosphere and ocean. As the ice thins, its response to atmospheric and oceanic forcing may be changing. In support of a busier Arctic, there is a growing need to predict ice conditions on a variety of time and space scales. A major challenge to providing seasonal scale predictions is the 7–10 days limit of numerical weather prediction. While a seasonally ice‐free Arctic Ocean is likely well within this century, there is much uncertainty in the timing. This reflects differences in climate model structure, the unknown evolution of anthropogenic forcing, and natural climate variability. In sharp contrast to the Arctic, Antarctic sea ice extent, while highly variable, has increased slightly over the period of satellite observations. The reasons for this different behavior remain to be resolved, but responses to changing atmospheric circulation patterns appear to play a strong role.
+
+SOURCE: Annals of the New York Academy of Sciences
+PDF URL: None
+CITED BY COUNT: 148
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Arctic sea ice decline', 'Climatology', 'Sea ice', 'Arctic ice pack', 'Predictability', 'Forcing (mathematics)', 'Environmental science', 'Arctic', 'Arctic geoengineering', 'Cryosphere', 'Drift ice', 'Ice-albedo feedback', 'Climate change', 'Antarctic sea ice', 'Atmospheric sciences', 'Oceanography', 'Geology', 'Physics', 'Quantum mechanics']

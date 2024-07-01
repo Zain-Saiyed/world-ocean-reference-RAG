@@ -1,0 +1,12 @@
+ID: W1990469714
+TITLE: Sinking deltas due to human activities
+AUTHOR: ['James P. M. Syvitski', 'Albert J. Kettner', 'Irina Overeem', 'Eric Hutton', 'Mark T. Hannon', 'G. Robert Brakenridge', 'John W. Day', 'Charles J Vörösmarty', 'Yoshiki Saito', 'Liviu Giosan', 'Robert J. Nicholls']
+ABSTRACT:
+Many of the world's deltas are densely populated and intensively farmed. An assessment of recent publications indicates that the majority of these deltas have been subject to intense flooding over the past decade, and that this threat will grow as global sea-level rises and as the deltas subside. Many of the world's largest deltas are densely populated and heavily farmed. Yet many of their inhabitants are becoming increasingly vulnerable to flooding and conversions of their land to open ocean. The vulnerability is a result of sediment compaction from the removal of oil, gas and water from the delta's underlying sediments, the trapping of sediment in reservoirs upstream and floodplain engineering in combination with rising global sea level. Here we present an assessment of 33 deltas chosen to represent the world's deltas. We find that in the past decade, 85% of the deltas experienced severe flooding, resulting in the temporary submergence of 260,000 km2. We conservatively estimate that the delta surface area vulnerable to flooding could increase by 50% under the current projected values for sea-level rise in the twenty-first century. This figure could increase if the capture of sediment upstream persists and continues to prevent the growth and buffering of the deltas.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 1876
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Delta', 'Flooding (psychology)', 'River delta', 'Sediment', 'Oceanography', 'Floodplain', 'Environmental science', 'Hydrology (agriculture)', 'Geology', 'Geography', 'Paleontology', 'Cartography', 'Psychology', 'Geotechnical engineering', 'Engineering', 'Psychotherapist', 'Aerospace engineering']

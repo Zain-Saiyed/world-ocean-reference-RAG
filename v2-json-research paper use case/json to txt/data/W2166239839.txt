@@ -1,0 +1,12 @@
+ID: W2166239839
+TITLE: A New Alternative to Saving Our Beaches from Sea-Level Rise: The Sand Engine
+AUTHOR: ['Marcel Stive', 'Matthieu A. de Schipper', 'Arjen Luijendijk', 'Stefan Aarninkhof', 'Carola van Gelder-Maas', 'J.S.M. van Thiel de Vries', 'Sierd de Vries', 'Martijn Henriquez', 'Sarah Marx', 'Roshanka Ranasinghe']
+ABSTRACT:
+Stive, M.J.F.; de Schipper, M.A.; Luijendijk, A.P.; Aarninkhof, S.G.J.; van Gelder-Maas, C.; van Thiel de Vries, J.S.M.; de Vries, S.; Henriquez, M.; Marx, S., and Ranasinghe, R., 2013. A new alternative to saving our beaches from local sea-level rise: the sand engine.A boldly innovative soft engineering intervention, comprising an unprecedented 21.5 Mm3 sand nourishment known as the Sand Engine, has recently been implemented in the Netherlands. The Sand Engine nourishment is a pilot project to test the efficacy of local mega-nourishments as a counter measure for the anticipated enhanced coastal recession in the 21st century. The proposed concept, a single mega-nourishment, is expected to be more efficient, economical, and environmentally friendly in the long term than traditional beach and shoreface nourishments presently being used to negate coastal recession. Preliminary numerical model results indicate that this local nourishment will result in the widening of the beach along a 10 to 20 km stretch of the coastline and a beach area gain of 200 ha over a 20-year period. First observations show indeed a redistribution of the sand feeding the adjacent coasts, roughly 40% toward the south and 60% toward the north. While the jury is still out on this globally unique intervention, if proven successful, it may well become a global generic solution for combating sea-level-rise driven coastal recession on open coasts.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 244
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Beach nourishment', 'Recession', 'Oceanography', 'Coastal erosion', 'Geography', 'Geology', 'Environmental science', 'Fishery', 'Shore', 'Economics', 'Keynesian economics', 'Biology']

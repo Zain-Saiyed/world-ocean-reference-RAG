@@ -1,0 +1,12 @@
+ID: W1953000621
+TITLE: MinION Analysis and Reference Consortium: Phase 1 data release and analysis
+AUTHOR: ['Camilla L. C. Ip', 'Matthew Loose', 'John R. Tyson', 'Mariateresa de Cesare', 'Bonnie L. Brown', 'Miten Jain', 'Richard M. Leggett', 'David Eccles', 'Vadim Zalunin', 'John Urban', 'Paolo Piazza', 'Rory Bowden', 'Benedict Paten', 'Solomon Mwaigwisya', 'Elizabeth M. Batty', 'Jared T. Simpson', 'Terrance P. Snutch', 'Ewan Birney', 'David Buck', 'Sara Goodwin', 'Hans J. Jansen', 'Justin O’Grady', 'Hugh E. Olsen']
+ABSTRACT:
+<ns4:p>The advent of a miniaturized DNA sequencing device with a high-throughput contextual sequencing capability embodies the next generation of large scale sequencing tools. The MinION™ Access Programme (MAP) was initiated by Oxford Nanopore Technologies™ in April 2014, giving public access to their USB-attached miniature sequencing device. The MinION Analysis and Reference Consortium (MARC) was formed by a subset of MAP participants, with the aim of evaluating and providing standard protocols and reference data to the community. Envisaged as a multi-phased project, this study provides the global community with the Phase 1 data from MARC, where the reproducibility of the performance of the MinION was evaluated at multiple sites. Five laboratories on two continents generated data using a control strain of <ns4:italic>Escherichia coli</ns4:italic> K-12, preparing and sequencing samples according to a revised ONT protocol. Here, we provide the details of the protocol used, along with a preliminary analysis of the characteristics of typical runs including the consistency, rate, volume and quality of data produced. Further analysis of the Phase 1 data presented here, and additional experiments in Phase 2 of <ns4:italic>E. coli</ns4:italic> from MARC are already underway to identify ways to improve and enhance MinION performance.</ns4:p>
+
+SOURCE: F1000Research
+PDF URL: https://f1000research.com/articles/4-1075/v1/pdf
+CITED BY COUNT: 282
+PUBLICATION YEAR: 2015
+TYPE: preprint
+CONCEPTS: ['Minion', 'Nanopore sequencing', 'DNA sequencing', 'USB', 'Protocol (science)', 'Computer science', 'Computational biology', 'Biology', 'Genetics', 'DNA', 'Medicine', 'Operating system', 'Alternative medicine', 'Software', 'Pathology']

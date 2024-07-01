@@ -1,0 +1,12 @@
+ID: W2682318222
+TITLE: Contribution of pharmaceuticals and personal care products (PPCPs) to whole toxicity of water samples collected in effluent-dominated urban streams
+AUTHOR: ['Ikumi Tamura', 'Yusuke Yasuda', 'Kei ichiro Kagota', 'Saori Yoneda', 'Norihide Nakada', 'Vimal Kumar', 'Yutaka Kameda', 'Kumiko Kimura', 'Norihisa Tatarazako', 'Hiroshi Yamamoto']
+ABSTRACT:
+Water samples were collected from effluent-dominated urban streams in Tokushima, Kyoto, and Saitama in Japan to roughly determine the contribution of pharmaceuticals and personal care products (PPCPs) and surfactants to whole toxicity of the water. Approximately 100 PPCPs including anionic surfactants such as linear alkylbenzene sulfonate (LAS), were chemically analyzed. Using 14 water samples, chronic or sub-chronic toxicity tests were conducted on three aquatic species, the green alga Raphidocelis subcapitata, the cladoceran Ceriodaphnia dubia, and the zebrafish Danio rerio. Bioassays for the selected individual PPCPs were conducted using the three species. Assuming the concentration addition (CA) model, the contribution of each PPCP to the whole toxicity of the riverwater was estimated based on toxicity unit (TU). The contribution of PPCPs, which primarily consists of a few antibiotic agents such as triclosan and clarithromycin, ranged from 0.9% to 69% of the whole toxicity of the water samples for algae, whereas the selected LAS congeners accounted for at most 5.3%. In contrast, the contribution of LAS ranged from 0.067% to 86% and from 0.021% to 27% of the whole toxicity for cladoceran and zebrafish, respectively, whereas that of PPCPs for these species was at most 2.1% at all sampling points. Our results suggest a limited contribution of PPCPs except for antimicrobial agents and the possible substantial contribution of LAS to toxicity in cladocerans and zebrafish.
+
+SOURCE: Ecotoxicology and environmental safety
+PDF URL: None
+CITED BY COUNT: 77
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Environmental impact of pharmaceuticals and personal care products', 'Triclosan', 'Ceriodaphnia dubia', 'Effluent', 'Bioassay', 'Environmental chemistry', 'Toxicity', 'Ecotoxicity', 'Aquatic toxicology', 'Chronic toxicity', 'Biology', 'Acute toxicity', 'Toxicology', 'Chemistry', 'Environmental science', 'Ecology', 'Environmental engineering', 'Medicine', 'Organic chemistry', 'Pathology']

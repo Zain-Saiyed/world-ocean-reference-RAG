@@ -1,0 +1,12 @@
+ID: W2893037771
+TITLE: Space-Time Geostatistical Assessment of Hypoxia in the Northern Gulf of Mexico
+AUTHOR: ['Venkata Rohith Reddy Matli', 'Shiqi Fang', 'Joseph Guinness', 'Nancy N. Rabalais', 'J. Kevin Craig', 'Daniel R. Obenour']
+ABSTRACT:
+Nearly every summer, a large hypoxic zone forms in the northern Gulf of Mexico. Research on the causes and consequences of hypoxia requires reliable estimates of hypoxic extent, which can vary at submonthly time scales due to hydro-meteorological variability. Here, we use an innovative space-time geostatistical model and data collected by multiple research organizations to estimate bottom-water dissolved oxygen (BWDO) concentrations and hypoxic area across summers from 1985 to 2016. We find that 27% of variability in BWDO is explained by deterministic trends with location, depth, and date, while correlated stochasticity accounts for 62% of observational variance within a range of 185 km and 28 days. Space-time modeling reduces uncertainty in estimated hypoxic area by 30% when compared to a spatial-only model, and results provide new insights into the temporal variability of hypoxia. For years with shelf-wide cruises in multiple months, hypoxia is most severe in July in 59% of years, 29% in August, and 12% in June. Also, midsummer cruise estimates of hypoxic area are only modestly correlated with summer-wide (June-August) average estimates (r2 = 0.5), suggesting midsummer cruises are not necessarily reflective of seasonal hypoxic severity. Furthermore, summer-wide estimates are more strongly correlated with nutrient loading than midsummer estimates.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Hypoxia (environmental)', 'Environmental science', 'Cruise', 'Spatial variability', 'Range (aeronautics)', 'Climatology', 'Oceanography', 'Statistics', 'Geology', 'Oxygen', 'Mathematics', 'Chemistry', 'Materials science', 'Organic chemistry', 'Composite material']

@@ -1,0 +1,12 @@
+ID: W2089762567
+TITLE: Potential Threats Posed by New or Emerging Marine Biotoxins in UK Waters and Examination of Detection Methodology Used in Their Control: Brevetoxins
+AUTHOR: ['Andrew D. Turner', 'Cowan Higgins', 'Keith Davidson', 'Andrea Veszelovszki', 'Daniel C. Payne', 'James M. Hungerford', 'Wendy Higman']
+ABSTRACT:
+Regular occurrence of brevetoxin-producing toxic phytoplankton in commercial shellfishery areas poses a significant risk to shellfish consumer health. Brevetoxins and their causative toxic phytoplankton are more limited in their global distribution than most marine toxins impacting commercial shellfisheries. On the other hand, trends in climate change could conceivably lead to increased risk posed by these toxins in UK waters. A request was made by UK food safety authorities to examine these toxins more closely to aid possible management strategies, should they pose a threat in the future. At the time of writing, brevetoxins have been detected in the Gulf of Mexico, the Southeast US coast and in New Zealand waters, where regulatory levels for brevetoxins in shellfish have existed for some time. This paper reviews evidence concerning the prevalence of brevetoxins and brevetoxin-producing phytoplankton in the UK, together with testing methodologies. Chemical, biological and biomolecular methods are reviewed, including recommendations for further work to enable effective testing. Although the focus here is on the UK, from a strategic standpoint many of the topics discussed will also be of interest in other parts of the world since new and emerging marine biotoxins are of global concern.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/13/3/1224/pdf?version=1426149690
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Marine toxin', 'Shellfish poisoning', 'Fishery', 'Red tide', 'Shellfish', 'Ecology', 'Biology', 'Geography', 'Aquatic animal', 'Fish <Actinopterygii>', 'Toxin', 'Biochemistry', 'Nutrient']

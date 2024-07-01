@@ -1,0 +1,12 @@
+ID: W2734583350
+TITLE: Modeling sources of nutrients in rivers draining into the Bay of Bengal—a scenario analysis
+AUTHOR: ['Simona Pedde', 'Carolien Kroeze', 'Emilio Mayorga', 'Sybil P. Seitzinger']
+ABSTRACT:
+We model future trends in river export of nutrients to the Bay of Bengal, and the sources of this pollution. We focus on total nitrogen (TN), total phosphorus (TP), and dissolved silica (DSi) inputs to the Bay of Bengal Large Marine Ecosystem (BOB LME) in the years 2000, 2030, and 2050. In 2000, rivers exported 7.1 Tg N and 1.5 Tg P to the BOB LME. Three rivers (Ganges, Godavari, Irrawaddy) account for 75–80% of the total river export of N and P. For 2050, we calculate an increase in river export of N to 8.6 Tg, while P export stabilizes at the 2000 level. Future trends are the net effect of increasing river export of dissolved N (by 40%) and P (by 80%), and decreasing river export of particulate N and P. The increases in dissolved N and P loads are associated primarily with increased N and P losses from agriculture and sewage systems. The decreasing export of particulate N and P is associated with damming of rivers and increased human water consumption. There are large differences in nutrient export among rivers. Rivers draining into the western BOB LME generally export more N and P than eastern BOB LME rivers. Most N and P in western BOB LME rivers are from anthropogenic sources. Future increases in dissolved inorganic N and P (DIN and DIP) export can be large for individual rivers: up to more than a factor of five for DIP and more than a doubling for DIN. The calculated nutrient export ratios (N and P relative to DSi) indicate an increasing risk for blooms of non-siliceous algal species, which can potentially produce toxins and otherwise disrupt coastal ecosystems. Our results indicate that basin-specific management may be the most effective approach towards reducing the risk of coastal eutrophication in the BOB LME.
+
+SOURCE: Regional environmental change
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs10113-017-1176-7.pdf
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Nutrient', 'Bay', 'Environmental science', 'Particulates', 'BENGAL', 'Hydrology (agriculture)', 'Nutrient pollution', 'Ecosystem', 'Phosphorus', 'Drainage basin', 'Pollution', 'Oceanography', 'Geography', 'Ecology', 'Chemistry', 'Geology', 'Biology', 'Geotechnical engineering', 'Cartography', 'Organic chemistry']

@@ -1,0 +1,12 @@
+ID: W1894222296
+TITLE: Use of a seagrass residency index to apportion commercial fishery landing values and recreation fisheries expenditure to seagrass habitat service
+AUTHOR: ['Emma L. Jackson', 'Siân Rees', 'C Wilding', 'Martin J. Attrill']
+ABSTRACT:
+Where they dominate coastlines, seagrass beds are thought to have a fundamental role in maintaining populations of exploited species. Thus, Mediterranean seagrass beds are afforded protection, yet no attempt to determine the contribution of these areas to both commercial fisheries landings and recreational fisheries expenditure has been made. There is evidence that seagrass extent continues to decline, but there is little understanding of the potential impacts of this decline. We used a seagrass residency index, that was trait and evidence based, to estimate the proportion of Mediterranean commercial fishery landings values and recreation fisheries total expenditure that can be attributed to seagrass during different life stages. The index was calculated as a weighted sum of the averages of the estimated residence time in seagrass (compared with other habitats) at each life stage of the fishery species found in seagrass. Seagrass-associated species were estimated to contribute 30%-40% to the value of commercial fisheries landings and approximately 29% to recreational fisheries expenditure. These species predominantly rely on seagrass to survive juvenile stages. Seagrass beds had an estimated direct annual contribution during residency of €58-91 million (4% of commercial landing values) and €112 million (6% of recreation expenditure) to commercial and recreational fisheries, respectively, despite covering <2% of the area. These results suggest there is a clear cost of seagrass degradation associated with ineffective management of seagrass beds and that policy to manage both fisheries and seagrass beds should take into account the socioeconomic implications of seagrass loss to recreational and commercial fisheries.
+
+SOURCE: Conservation biology
+PDF URL: None
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Seagrass', 'Fishery', 'Index (typography)', 'Environmental science', 'Habitat', 'Recreation', 'Recreational fishing', 'Oceanography', 'Fish <Actinopterygii>', 'Ecology', 'Biology', 'Geology', 'Computer science', 'World Wide Web']

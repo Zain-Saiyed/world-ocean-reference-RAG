@@ -1,0 +1,12 @@
+ID: W2125056769
+TITLE: A review of floating photovoltaic installations: 2007–2013
+AUTHOR: ['Kim Trapani', 'Miguel Redón Santafé']
+ABSTRACT:
+Abstract The paper gives a review of the various projects that have been realised in throughout the years. These have all been in enclosed water bodies such as reservoirs, ponds and small lakes. The main motivation for the floating photovoltaic (PV) panels was the land premium, especially for agricultural sites were the land was more valuable for growth of the crops (in these cases, grapes because the sites were wineries). The PV panels of the existing projects are mounted on a rigid pontoon structure and vary between horizontal and tilted installations. Future concepts proposed for marine and large lacusterine sites are envisaged to incorporate laminated thin film PV, which would allow the structure to be flexible and able to yield with the oncoming waves, and submergible arrays, which would be submerged in harsh weather conditions. Interest and research has been developing in this niche field throughout the years and has currently reached the megawatt scale with even bigger plans for the future. Copyright © 2014 John Wiley &amp; Sons, Ltd.
+
+SOURCE: Progress in photovoltaics
+PDF URL: None
+CITED BY COUNT: 211
+PUBLICATION YEAR: 2014
+TYPE: review
+CONCEPTS: ['Photovoltaic system', 'Environmental science', 'Marine engineering', 'Scale (ratio)', 'Agriculture', 'Agricultural engineering', 'Civil engineering', 'Meteorology', 'Engineering', 'Ecology', 'Geography', 'Electrical engineering', 'Cartography', 'Biology']

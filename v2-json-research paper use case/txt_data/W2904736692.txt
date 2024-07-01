@@ -1,0 +1,12 @@
+ID: W2904736692
+TITLE: High rates of viral lysis stimulate prokaryotic turnover and C recycling in bathypelagic waters of a Ligurian canyon (Mediterranean Sea)
+AUTHOR: ['Cinzia Corinaldesi', 'Eugenio Rastelli', 'Sara Canensi', 'Michael Tangherlini', 'Roberto Danovaro', 'Antonio Dell’Anno']
+ABSTRACT:
+Submarine canyons are able to preferentially channel primary production and shelf export to the deep ocean, thus acting as hotspots of biomass and biogeochemical cycling of organic matter. Despite their global relevance, no information is available about the influence of submarine canyons on deep-sea virus-prokaryote interactions. Here, we show that deep-sea waters overlying the Bisagno Canyon (Ligurian Sea, NW Mediterranean) can sustain up to 4 times higher abundances of bathypelagic prokaryotes and viruses when compared to the waters overlying the adjacent slope. We also report that the bathypelagic waters of the canyon are hotspots of viral infections, with rates of virus-induced prokaryotic mortality and biomass turnover up to 10 times faster compared to the adjacent slope at similar depths. In addition, C released by viral lysis of their prokaryotic hosts in bathypelagic waters of the canyon was up to 40 times higher than in the slope. The prokaryotic distribution in bathypelagic waters of the investigated area of the Ligurian margin was largely influenced by organic C concentrations and temperature. Our results highlight that the peculiar characteristics of the canyons (such as the Bisagno canyon) could contribute to sustain the metabolism of bathypelagic prokaryotes, promoting C cycling through virus-induced prokaryotic mortality. We conclude that submarine canyons could represent hot spots of prokaryotic and viral activities able to support the deep-sea pelagic food webs.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Bathyal zone', 'Submarine canyon', 'Canyon', 'Oceanography', 'Deep sea', 'Mediterranean sea', 'Mediterranean climate', 'Pelagic zone', 'Plankton', 'Ecology', 'Benthic zone', 'Geology', 'Biology', 'Geomorphology']

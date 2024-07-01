@@ -1,0 +1,12 @@
+ID: W2388689933
+TITLE: Determination of Heavy Metal Levels in Sediment and Macroalgae (Ulva Sp. and Enteromorpha Sp.) on the Mersin Coast
+AUTHOR: ['Mehmet Tahir', 'Özgür Özbay', 'Mehmet Alı Sungur']
+ABSTRACT:
+This study was conducted to determine heavy metal levels in macroalgae (Ulva sp. and Enteromorpha sp.) on four beach heavily used by the people in the province of Mersin, for this purpose; Aluminum (Al), chromium (Cr), manganese (Mn), iron (Fe), nickel (Ni), copper (Cu), zinc (Zn), lead (Pb) and cadmium (Cd) levels were determined on a monthly basis. The results showed that the highest accumulation of heavy metals in algae were detected at station 1 with Cu and Zn, at station 2 with Cd and at station 4 with Al, Mn, Fe and Ni. Accumulation levels of heavy metals have been detected in the order Fe>Al>Mn>Ni>Zn> Cr>Cu>Pb>Cd;         Fe>Al>Ni>Mn>Zn>Cr>Cu>Pb>Cd        and        Fe>Al>Mn>Ni>Cr>Zn>Pb>Cd> Cu in Ulva sp, in Enteromorpha sp. and in sediment samples respectively.
+
+SOURCE: Ekoloji çevre dergisi
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Sediment', 'Algae', 'Heavy metals', 'Environmental science', 'Botany', 'Ecology', 'Biology', 'Environmental chemistry', 'Chemistry', 'Paleontology']

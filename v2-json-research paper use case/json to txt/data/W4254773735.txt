@@ -1,0 +1,12 @@
+ID: W4254773735
+TITLE: Sea Level Change
+AUTHOR: []
+ABSTRACT:
+This chapter considers changes in global mean sea level, regional sea level, sea level extremes, and waves. Confidence in projections of global mean sea level rise has increased since the Fourth Assessment Report (AR4) because of the improved physical understanding of the components of sea level, the improved agreement of process-based models with observations, and the inclusion of ice-sheet dynamical changes.
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 226
+PUBLICATION YEAR: 2014
+TYPE: book-chapter
+CONCEPTS: ['Sea level', 'Climatology', 'Sea level change', 'Environmental science', 'Sea level rise', 'Oceanography', 'Geography', 'Geology', 'Climate change']

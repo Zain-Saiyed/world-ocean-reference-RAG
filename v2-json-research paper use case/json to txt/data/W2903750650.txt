@@ -1,0 +1,12 @@
+ID: W2903750650
+TITLE: A Multi Criteria Assessment Method for Identifying Vulnerable Marine Ecosystems in the North-East Atlantic
+AUTHOR: ['Telmo Morato', 'Christopher K. Pham', 'Carlos Pinto', 'Neil Golding', 'Jeff Ardron', 'P. Durán-Muñoz', 'Francis Neat']
+ABSTRACT:
+In international fisheries management, scientific advice on the presence of ‘Vulnerable Marine Ecosystems’ (VMEs) per United Nations resolutions, has generally used qualitative assessments based on expert judgement of the occurrence of indicator taxa such as cold-water corals and sponges. Use of expert judgement alone can be criticised for inconsistency and sometimes a lack of transparency; therefore, development of robust and repeatable numeric methods to detect the presence of VMEs would be advantageous. Here, we present a multi-criteria assessment (MCA) method to evaluate how likely a given area of seafloor represents a VME. The MCA is a taxa-dependent spatial method that accounts for both the quantity and data quality available. This was applied to a database of records of VMEs built, held and compiled by the International Council for the Exploration of the Sea (ICES). A VME index was generated which ranged from 1.51 to 4.52, with 5.0 being reserved for confirmed VME habitats. An index of confidence was also computed that ranged from 0.0 to 0.75, with 1 being reserved for those confirmed VME habitats. Overall the MCA captured the important elements of the ICES VME database and provided a simplified, spatially aggregated and weighted estimate of how likely a given area is to contain VMEs. The associated estimate of confidence gave an indication of how uncertain that assessment was for the same given area. This methodology provides a more systematic and standardised approach for assessing the likelihood of presence of VMEs in the North-East Atlantic.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00460/pdf
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Habitat', 'Transparency (behavior)', 'Marine ecosystem', 'Geography', 'Environmental resource management', 'Ecology', 'Ecosystem', 'Computer science', 'Environmental science', 'Biology', 'Computer security']

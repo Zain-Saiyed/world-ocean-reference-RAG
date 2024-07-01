@@ -1,0 +1,12 @@
+ID: W2791964597
+TITLE: Synthetic biology approaches: Towards sustainable exploitation of marine bioactive molecules
+AUTHOR: ['George Seghal Kiran', 'P. Ramasamy', 'Sivasankari Sekar', 'R. Meenatchi', 'Saqib Hassan', 'A S Ninawe', 'Joseph Selvin']
+ABSTRACT:
+The discovery of genes responsible for the production of bioactive metabolites via metabolic pathways combined with the advances in synthetic biology tools, has allowed the establishment of numerous microbial cell factories, for instance the yeast cell factories, for the manufacture of highly useful metabolites from renewable biomass. Genome mining and metagenomics are two platforms provide base-line data for reconstruction of genomes and metabolomes which is based in the development of synthetic/semi-synthetic genomes for marine natural products discovery. Engineered biofilms are being innovated on synthetic biology platform using genetic circuits and cell signalling systems as represillators controlling biofilm formation. Recombineering is a process of homologous recombination mediated genetic engineering, includes insertion, deletion or modification of any sequence specifically. Although this discipline considered new to the scientific domain, this field has now developed as promising endeavor on the accomplishment of sustainable exploitation of marine natural products.
+
+SOURCE: International journal of biological macromolecules
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Synthetic biology', 'Computational biology', 'Genome', 'Recombineering', 'Metabolic engineering', 'Metagenomics', 'Biology', 'Drug discovery', 'Genome engineering', 'Genome editing', 'Biochemical engineering', 'Biotechnology', 'Gene', 'Genetics', 'Bioinformatics', 'Engineering']

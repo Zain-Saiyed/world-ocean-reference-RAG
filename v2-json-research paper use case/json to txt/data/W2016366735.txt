@@ -1,0 +1,12 @@
+ID: W2016366735
+TITLE: Hypoxia in the East China Sea: One of the largest coastal low-oxygen areas in the world
+AUTHOR: ['Chung‐Chi Chen', 'Gwo-Ching Gong', 'Fuh Kwo Shiah']
+ABSTRACT:
+Anoxia and hypoxia have been widely observed in estuarine and coastal regions over the past few decades; however, few reports have focused on the East China Sea (ECS). In June and August 2003, two cruises sampled at stations covering almost the entire shelf of the ECS to examine hypoxic events and their potential causes. In August, DO concentrations <2-3 mg l(-1) covered an area estimated at greater than 12,000 km(2) (or 432 km(3) volume). In contrast, water column DO concentrations exceeded 4 mg l(-1) throughout most of the shelf region. A sharp density gradient was observed under the mixed layer in August, restricting vertical re-aeration across this strong pycnocline. Oxygen depletion events, such as that described here for the ECS shelf, are fueled by decomposition of newly produced marine and river-borne biogenic substances (as well as older residual organic matter) deposited to the bottom waters.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 352
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['China sea', 'Hypoxia (environmental)', 'Oceanography', 'Pycnocline', 'Environmental science', 'Water column', 'Estuary', 'Continental shelf', 'Anoxic waters', 'Oxygen', 'Geology', 'Chemistry', 'Organic chemistry']

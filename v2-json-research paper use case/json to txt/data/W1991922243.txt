@@ -1,0 +1,12 @@
+ID: W1991922243
+TITLE: Sediment subsidy: effects on soil–plant responses in a rapidly submerging coastal salt marsh
+AUTHOR: ['Irving A. Mendelssohn', 'Nathan L. Kuhn']
+ABSTRACT:
+Abstract The tidal energy subsidy hypothesis postulates that the high primary productivity of coastal salt marshes is the result of an energy subsidy provided by the tides. The sediment component of this subsidy is especially important in contributing to the elevation increase of the marsh surface, a process essential for the sustainability of salt marshes during periods of sea level rise. This research tested the hypothesis that sediment subsidies have an ameliorating effect on sea level rise-induced impacts to salt marsh vigor. We assessed the plant structural and soil physico-chemical responses to different intensities of sediment subsidy in a salt marsh experiencing a high rate of relative sea level rise. Sediments were hydraulically dredged with a high fluid to solids ratio (85%:15%) from the Gulf of Mexico and dispersed into a Spartina alterniflora dominated salt marsh. Approximately 2 years after this fluid-sediment-enrichment, maximum sediment elevation did not exceed 30 cm above ambient and both plant cover and aboveground biomass responded positively. Sediment subsidy increased soil mineral matter, and, in turn, soil fertility and marsh elevation, and thereby reduced nutrient deficiency, flooding, and interstitial sulfide stresses. Thus, sediment subsidy generated a more favorable environment for plant growth and potentially, marsh sustainability.
+
+SOURCE: Ecological engineering
+PDF URL: None
+CITED BY COUNT: 156
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Sediment', 'Environmental science', 'Dredging', 'Marsh', 'Sedimentation', 'Geology', 'Hydrology (agriculture)', 'Oceanography', 'Geotechnical engineering', 'Ecology', 'Wetland', 'Geomorphology', 'Biology']

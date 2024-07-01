@@ -1,0 +1,12 @@
+ID: W2307172074
+TITLE: News from the seabed – Geological characteristics and resource potential of deep-sea mineral resources
+AUTHOR: ['Sven Petersen', 'Anna Krätschell', 'Nico Augustin', 'John W. Jamieson', 'James R. Hein', 'Mark D. Hannington']
+ABSTRACT:
+Marine minerals such as manganese nodules, Co-rich ferromanganese crusts, and seafloor massive sulfides are commonly seen as possible future resources that could potentially add to the global raw materials supply. At present, a proper assessment of these resources is not possible due to a severe lack of information regarding their size, distribution, and composition. It is clear, however, that manganese nodules and Co-rich ferromanganese crusts are a vast resource and mining them could have a profound impact on global metal markets, whereas the global resource potential of seafloor massive sulfides appears to be small. These deep-sea mineral commodities are formed by very different geological processes resulting in deposits with distinctly different characteristics. The geological boundary conditions also determine the size of any future mining operations and the area that will be affected by mining. Similarly, the sizes of the most favorable areas that need to be explored for a global resource assessment are also dependent on the geological environment. Size reaches 38 million km2 for manganese nodules, while those for Co-rich crusts (1.7 million km2) and massive sulfides (3.2 million km2) are much smaller. Moreover, different commodities are more abundant in some jurisdictions than in others. While only 19% of the favorable area for manganese nodules lies within the Exclusive Economic Zone of coastal states or is covered by proposals for the extension of the continental shelf, 42% of the favorable areas for massive sulfides and 54% for Co-rich crusts are located in EEZs.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 247
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seafloor spreading', 'Geology', 'Mineral resource classification', 'Seabed', 'Ferromanganese', 'Resource (disambiguation)', 'Earth science', 'Geochemistry', 'Oceanography', 'Manganese', 'Computer network', 'Chemistry', 'Organic chemistry', 'Computer science']

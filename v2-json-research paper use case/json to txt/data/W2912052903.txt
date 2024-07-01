@@ -1,0 +1,12 @@
+ID: W2912052903
+TITLE: Marine protected areas in the 21st century: Current situation and trends
+AUTHOR: ['María Maestro', 'María Luisa Pérez Cayeiro', 'Juan Adolfo Chica Ruiz', 'Harry Reyes']
+ABSTRACT:
+In recent years, the environmental crisis affecting the planet has caused the deterioration of the oceans and a great loss of biodiversity. In response to these changes, the quantity and extension of coastal and marine protected areas (MPAs) has increased, highlighting protection as one of the most effective instruments to conserve biodiversity and its resources. In this study the evolution to the current standing of MPAs within the international framework has been analysed, utalising information extracted from the United Nations databases and the study of specific cases. For this purpose, the planet has been divided into eight regions (according to the United Nations) and two MPAs have been evaluated within each region, reported in different periods. The results provide a view of changes to the management of MPAs since their consolidation, as well as current approaches and challenges. Since the beginning of this century, the criteria used to establish MPAs have been unified throughout the planet. However, the planning and management of these spaces differs between various regions. Three main achievements have been identified since the last decade: 1) There is a tendency towards the implementation of an ecosystem approach, widely extended in both the terrestrial and marine environment, which gives greater importance to the maintenance of ecosystem services; 2) It is recognised that MPAs are an effective instrument to mitigate the effects of climate change; 3) To achieve effective protection, it is recommended that MPAs are established beyond waters under national jurisdiction, which is where the majority are concentrated today. Notably, despite international recommendations and the efforts made by governments and institutions, the oceans remain one of the ecosystems most affected by the development of human activities.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 76
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine protected area', 'Biodiversity', 'Environmental resource management', 'Marine conservation', 'Ecosystem services', 'Environmental protection', 'Geography', 'Environmental planning', 'Ecosystem', 'Environmental science', 'Ecology', 'Habitat', 'Biology']

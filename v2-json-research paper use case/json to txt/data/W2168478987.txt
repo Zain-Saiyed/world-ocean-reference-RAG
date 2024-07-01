@@ -1,0 +1,12 @@
+ID: W2168478987
+TITLE: A century of variation in the dependence of Greenland iceberg calving on ice sheet surface mass balance and regional climate change
+AUTHOR: ['Grant R. Bigg', 'Hua‐Liang Wei', 'David J. Wilton', 'Yifan Zhao', 'S.A. Billings', 'Edward Hanna', 'Visakan Kadirkamanathan']
+ABSTRACT:
+Iceberg calving is a major component of the total mass balance of the Greenland ice sheet (GrIS). A century-long record of Greenland icebergs comes from the International Ice Patrol's record of icebergs (I48N) passing latitude 48° N, off Newfoundland. I48N exhibits strong interannual variability, with a significant increase in amplitude over recent decades. In this study, we show, through a combination of nonlinear system identification and coupled ocean-iceberg modelling, that I48N's variability is predominantly caused by fluctuation in GrIS calving discharge rather than open ocean iceberg melting. We also demonstrate that the episodic variation in iceberg discharge is strongly linked to a nonlinear combination of recent changes in the surface mass balance (SMB) of the GrIS and regional atmospheric and oceanic climate variability, on the scale of the previous 1-3 years, with the dominant causal mechanism shifting between glaciological (SMB) and climatic (ocean temperature) over time. We suggest that this is a change in whether glacial run-off or under-ice melting is dominant, respectively. We also suggest that GrIS calving discharge is episodic on at least a regional scale and has recently been increasing significantly, largely as a result of west Greenland sources.
+
+SOURCE: Proceedings - Royal Society. Mathematical, physical and engineering sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2013.0662
+CITED BY COUNT: 62
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Iceberg', 'Greenland ice sheet', 'Glacier mass balance', 'Climatology', 'Ice sheet', 'Glacier', 'Geology', 'Ice calving', 'Climate change', 'Glacial period', 'Ice stream', 'Ice core', 'Post-glacial rebound', 'Oceanography', 'Cryosphere', 'Physical geography', 'Sea ice', 'Geography', 'Geomorphology', 'Pregnancy', 'Lactation', 'Biology', 'Genetics']

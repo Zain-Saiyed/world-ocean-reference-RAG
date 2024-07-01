@@ -1,0 +1,12 @@
+ID: W2520286314
+TITLE: IUU Fishing and Impact on the Seafood Industry
+AUTHOR: ['Dana Miller', 'U. Rashid Sumaila']
+ABSTRACT:
+Illegal, unreported and unregulated (IUU) fishing may, in some cases, be the instigating activity that eventually leads to occurrences of seafood fraud. In efforts to conceal illegally caught fish and to mislead authorities, fishers or supply chain middlemen may mislabel catches or shipments of seafood products, indicating false species identities and/or origins of catch. In this chapter, we define and describe IUU fishing as a concept, giving examples of many different recognized forms of IUU fishing and the avoidance tactics that are often employed by those engaging in these activities. We also summarize the efforts that are currently being made to combat IUU fishing, and discuss the potential impacts that IUU fishing can have on the seafood industry.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['Fishing', 'Business', 'Fishery', 'Fish <Actinopterygii>', 'Supply chain', 'Fishing industry', 'Marketing', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2104501935
+TITLE: Transgenerational effects alleviate severe fecundity loss during ocean acidification in a ubiquitous planktonic copepod
+AUTHOR: ['Peter Thor', 'Sam Dupont']
+ABSTRACT:
+Ocean acidification (OA) caused by anthropogenic CO2 emission is projected for thousands of years to come, and significant effects are predicted for many marine organisms. While significant evolutionary responses are expected during such persistent environmental change, most studies consider only short-term effects. Little is known about the transgenerational effects of parental environments or natural selection on the capacity of populations to counter detrimental OA effects. In this study, six laboratory populations of the calanoid copepod Pseudocalanus acuspes were established at three different CO2 partial pressures (pCO2 of 400, 900 and 1550 μatm) and grown for two generations at these conditions. Our results show evidence of alleviation of OA effects as a result of transgenerational effects in P. acuspes. Second generation adults showed a 29% decrease in fecundity at 900 μatm CO2 compared to 400 μatm CO2 . This was accompanied by a 10% increase in metabolic rate indicative of metabolic stress. Reciprocal transplant tests demonstrated that this effect was reversible and the expression of phenotypic plasticity. Furthermore, these tests showed that at a pCO2 exceeding the natural range experienced by P. acuspes (1550 μatm), fecundity would have decreased by as much as 67% compared to at 400 μatm CO2 as a result of this plasticity. However, transgenerational effects partly reduced OA effects so that the loss of fecundity remained at a level comparable to that at 900 μatm CO2 . This also relieved the copepods from metabolic stress, and respiration rates were lower than at 900 μatm CO2 . These results highlight the importance of tests for transgenerational effects to avoid overestimation of the effects of OA.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 188
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Fecundity', 'Copepod', 'Ocean acidification', 'Transgenerational epigenetics', 'Phenotypic plasticity', 'Biology', 'Plankton', 'Ecology', 'Climate change', 'Population', 'Offspring', 'Crustacean', 'Demography', 'Pregnancy', 'Genetics', 'Sociology']

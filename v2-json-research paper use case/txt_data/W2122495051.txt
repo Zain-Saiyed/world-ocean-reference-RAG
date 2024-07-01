@@ -1,0 +1,12 @@
+ID: W2122495051
+TITLE: An IFRAME approach for assessing impacts of climate change on fisheries
+AUTHOR: ['Chang Ik Zhang', 'Anne B. Hollowed', 'Jae-Bong Lee', 'Do-Hoon Kim']
+ABSTRACT:
+Abstract Zhang, C. I., Hollowed, A. B., Lee, J-B., and Kim, D-H. 2011. An IFRAME approach for assessing impacts of climate change on fisheries. – ICES Journal of Marine Science, 68: 1318–1328. A new assessment framework is proposed for evaluating the performance of management strategies relative to the goals of an ecosystem approach to management (EAM) under different climate change scenarios. Earlier studies have demonstrated how global climate model simulations from the Intergovernmental Panel on Climate Change can be used to force regional ocean circulation models and forecast regional changes in bottom-up forcing. We extend this approach to assess the ecosystem impacts of resource use and climate change in marine ecosystems, by developing an Integrated Fisheries Risk Analysis Method for Ecosystems (IFRAME) framework. The IFRAME approach tracks climate change impacts on the flow of energy through the planktonic foodweb using NEMURO and projects the implications of these shifts in bottom-up forcing on the fisheries foodweb using Ecopath with Ecosim. Resource management scenarios are developed and incorporated into the projection framework by characterizing the action for changes in fishing mortality or availability of resources. An integrated suite of ecosystem status indicators are proposed to assess the performance of management scenarios relative to the goals of an EAM. These ecosystem status indicators track four key management objectives of the ecosystem: sustainability, biodiversity, habitat quantity, and quality and socio-economic status.
+
+SOURCE: ICES journal of marine science
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Climate change', 'Environmental science', 'Ecosystem', 'Environmental resource management', 'Marine ecosystem', 'Sustainability', 'Fisheries management', 'Fishing', 'Ecosystem model', 'Fishery', 'Ecology', 'Biology']

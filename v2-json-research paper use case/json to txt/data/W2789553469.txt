@@ -1,0 +1,12 @@
+ID: W2789553469
+TITLE: Sustained climate warming drives declining marine biological productivity
+AUTHOR: ['J. Keith Moore', 'Weiwei Fu', 'François Primeau', 'Gregory L. Britten', 'Keith Lindsay', 'Matthew C. Long', 'Scott C. Doney', 'N. M. Mahowald', 'Forrest M. Hoffman', 'James T. Randerson']
+ABSTRACT:
+Starving ocean productivity Projected increases in greenhouse gas emissions could suppress marine biological productivity for a thousand years or more. As the climate warms, westerly winds in the Southern Hemisphere will strengthen and shift poleward, surface waters will warm, and sea ice will disappear. Moore et al. suggest that one effect of these changes will be a dramatic decrease in marine biological productivity (see the Perspective by Laufkötter and Gruber). This decrease will result from a global-scale redistribution of nutrients, with a net transfer to the deep ocean. By 2300, this could drive declines in fisheries yields by more than 20% globally and by nearly 60% in the North Atlantic. Science , this issue p. 1139 ; see also p. 1103
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/359/6380/1139.full.pdf
+CITED BY COUNT: 289
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Productivity', 'Oceanography', 'Environmental science', 'Climate change', 'Southern Hemisphere', 'Greenhouse gas', 'Primary productivity', 'Global warming', 'Greenhouse effect', 'Oceanic climate', 'Climatology', 'Fishery', 'Nutrient', 'Ecology', 'Geology', 'Biology', 'Economics', 'Macroeconomics']

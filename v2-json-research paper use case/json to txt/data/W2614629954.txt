@@ -1,0 +1,12 @@
+ID: W2614629954
+TITLE: World Meteorological Organization (WMO)—Concerted International Efforts for Advancing Multi-hazard Early Warning Systems
+AUTHOR: ['Jochen Luther', 'Alasdair Hainsworth', 'Xu Tang', 'John Harding', 'Jair Torres', 'Margherita Fanchiotti']
+ABSTRACT:
+Recent international agreements such as the Sendai Framework for Disaster Risk Reduction 2015–2030, the 2030 Agenda for Sustainable Development and the Paris Agreement have all recognized the importance of developing and operationalising multi-hazard early warning systems that integrate the specificities of single-hazard early warning systems in a holistic, systematic and coordinated manner to promote synergies and maximize efficiency. While much progress has been made in recent years towards the advancement of knowledge and practice related to early warning systems worldwide, the lack of multi-disciplinary and transboundary cooperation among and across communities of scientists, decision-makers and practitioners continues to be a key challenge for the successful establishment and operation of these systems. To address this gap, major international and national organizations have collaborated to establish the International Network for Multi-Hazard Early Warning Systems (IN-MHEWS), with the aim of facilitating knowledge sharing and capacity development for multi-hazard early warning systems around the globe. This paper presents an overview of advances and challenges in promoting a multi-hazard and systematic approach to early warning, as well as the aim, objectives and expected contributions of this newly established Network.
+
+SOURCE: Springer eBooks
+PDF URL: https://link.springer.com/content/pdf/10.1007%2F978-3-319-59469-9_9.pdf
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Warning system', 'Hazard', 'Early warning system', 'Disaster risk reduction', 'Globe', 'Business', 'Risk analysis (engineering)', 'Political science', 'Environmental planning', 'Engineering', 'Geography', 'Medicine', 'Telecommunications', 'Chemistry', 'Organic chemistry', 'Ophthalmology']

@@ -1,0 +1,12 @@
+ID: W2112915940
+TITLE: A model for late Quaternary methane ice core signals: Wetlands versus a shallow marine source
+AUTHOR: ['Kieran D. O’Hara']
+ABSTRACT:
+A three‐reservoir model with first order kinetics for methane records in the Vostok (Antarctica) and GISP2 (Greenland) ice cores reproduces the sawtooth pattern and the maximum and minimum concentrations. The model also returns an atmospheric methane relaxation time of ∼10 years for both cores, which is the same as current estimates. The characteristics of the source reservoirs are long relaxation times (33.3 and 100 ky) and high initial methane concentrations (2500 and 7000 ppm) for GISP2 and Vostok, respectively. These characteristics are consistent with gas hydrate sources in shallow marine sediments, but not with wetland sources which have insufficient storage capacity and low source strength.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2007GL032317
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Methane', 'Geology', 'Ice core', 'Quaternary', 'Wetland', 'Oceanography', 'Atmospheric sciences', 'Environmental science', 'Paleontology', 'Chemistry', 'Ecology', 'Organic chemistry', 'Biology']

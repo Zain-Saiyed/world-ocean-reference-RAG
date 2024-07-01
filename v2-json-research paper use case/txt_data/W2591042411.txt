@@ -1,0 +1,12 @@
+ID: W2591042411
+TITLE: Linking the biological impacts of ocean acidification on oysters to changes in ecosystem services: A review
+AUTHOR: ['Anaëlle J. Lemasson', 'Stephen Fletcher', 'Jason M. Hall‐Spencer', 'Antony M. Knights']
+ABSTRACT:
+Continued anthropogenic carbon dioxide emissions are acidifying our oceans, and hydrogen ion concentrations in surface oceans are predicted to increase 150% by 2100. Ocean acidification (OA) is changing ocean carbonate chemistry, including causing rapid reductions in calcium carbonate availability with implications for many marine organisms, including biogenic reefs formed by oysters. The impacts of OA are marked. Adult oysters display both decreased growth and calcification rates, while larval oysters show stunted growth, developmental abnormalities, and increased mortality. These physiological impacts are affecting ecosystem functioning and the provision of ecosystem services by oyster reefs. Oysters are ecologically and economically important, providing a wide range of ecosystem services, such as improved water quality, coastlines protection, and food provision. OA has the potential to alter the delivery and the quality of the ecosystem services associated with oyster reefs, with significant ecological and economic losses. This review provides a summary of current knowledge of OA on oyster biology, but then links these impacts to potential changes to the provision of ecosystem services associated with healthy oyster reefs.
+
+SOURCE: Journal of experimental marine biology and ecology
+PDF URL: None
+CITED BY COUNT: 83
+PUBLICATION YEAR: 2017
+TYPE: review
+CONCEPTS: ['Oyster', 'Ocean acidification', 'Ecosystem', 'Ecosystem services', 'Reef', 'Ecosystem engineer', 'Biology', 'Fishery', 'Marine ecosystem', 'Ecology', 'Oceanography', 'Environmental science', 'Climate change', 'Geology']

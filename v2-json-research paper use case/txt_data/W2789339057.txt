@@ -1,0 +1,12 @@
+ID: W2789339057
+TITLE: A model for assessing iceberg hazard
+AUTHOR: ['Grant R. Bigg', 'Thomas Cropper', 'Clare O’Neill', 'Alex Arnold', 'Andrew Fleming', 'Robert Marsh', 'V. O. Ivchenko', 'Nicolas Fournier', 'Michael Osborne', 'R.V. Stephens']
+ABSTRACT:
+With the polar regions opening up to more marine activities but iceberg numbers more likely to increase than decline as a result of global warming, the risk from icebergs to shipping and offshore facilities is increasing. The NW Atlantic iceberg hazard has been well monitored by the International Ice Patrol for a century, but many other polar regions have little detailed climatological knowledge of the iceberg risk. Here, we develop a modelling approach to assessing iceberg hazard. This uses the region of the Falklands Plateau and its shipping routes for a case study, but the approach has general geographical applicability and can be used for assessing iceberg hazard for routes or fixed locations. The iceberg risk for a number of locations selected from the main shipping routes in the SW Atlantic is assessed by using an iceberg model, forced by the output from a high-resolution ocean model. The iceberg model was seeded with icebergs around the edge of the modelled region using a number of scenarios for the seeding distribution, based on a combination of idealised, modelled and observed iceberg fluxes from the Southern Ocean. This enabled us to determine measures of iceberg risk linked to a mix of starting location and the likelihood of icebergs being encountered in such a position. For our study area, the main area of iceberg risk is linked to the East Falklands Current, but small, yet nonzero, risk covers much of the east and north of the region.
+
+SOURCE: Natural hazards
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Iceberg', 'Hazard', 'Hazard analysis', 'Submarine pipeline', 'Glacier', 'Climatology', 'Geology', 'Physical geography', 'Oceanography', 'Geography', 'Sea ice', 'Engineering', 'Organic chemistry', 'Aerospace engineering', 'Chemistry']

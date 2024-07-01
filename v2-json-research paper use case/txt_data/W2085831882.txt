@@ -1,0 +1,12 @@
+ID: W2085831882
+TITLE: Microplastic pollution in deep-sea sediments
+AUTHOR: ['L. Van Cauwenberghe', 'Ann Vanreusel', 'Jan Mees', 'Colin R. Janssen']
+ABSTRACT:
+Microplastics are small plastic particles (<1 mm) originating from the degradation of larger plastic debris. These microplastics have been accumulating in the marine environment for decades and have been detected throughout the water column and in sublittoral and beach sediments worldwide. However, up to now, it has never been established whether microplastic presence in sediments is limited to accumulation hot spots such as the continental shelf, or whether they are also present in deep-sea sediments. Here we show, for the first time ever, that microplastics have indeed reached the most remote of marine environments: the deep sea. We found plastic particles sized in the micrometre range in deep-sea sediments collected at four locations representing different deep-sea habitats ranging in depth from 1100 to 5000 m. Our results demonstrate that microplastic pollution has spread throughout the world's seas and oceans, into the remote and largely unknown deep sea.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 1176
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Microplastics', 'Plastic pollution', 'Oceanography', 'Deep sea', 'Debris', 'Pollution', 'Water column', 'Marine debris', 'Environmental science', 'Continental shelf', 'Sediment', 'Geology', 'Marine habitats', 'Seabed', 'Habitat', 'Ecology', 'Paleontology', 'Biology']

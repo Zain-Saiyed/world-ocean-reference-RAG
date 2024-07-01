@@ -1,0 +1,12 @@
+ID: W2579038484
+TITLE: Introduced Marine Species of the North Sea Coasts
+AUTHOR: ['Karsten Reise', 'Stephan Gollasch', 'W.J. Wolff']
+ABSTRACT:
+Approximately 80 nonindigenous species occur in the North Sea in self-sustaining populations. The main introducing vectors are shipping and aquaculture activities. Most invertebrate invaders originate from the Atlantic coast of America and were predominantly introduced by shipping, while most algae stem from the Pacific being introduced with live oysters imports. At the open North Sea coasts approximately 6% of the macrobenthic species are exotics, while in estuaries their share is up to 20%. About a quarter of the established non-natives are widespread and some inshore habitats are entirely dominated by exotics. However, the overall effect on the North Sea ecosystem seems to be more additive rather than one of displacement, suggesting that the coastal habitats of the North Sea are capable of accommodating newcomers. It has to be noted that this is no guarantee that the next invader may pose a negative impact. There is a need to reduce the number of new invaders, but current research on exotics in the North Sea is regarded as inadequate.
+
+SOURCE: Springer eBooks
+PDF URL: None
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2002
+TYPE: book-chapter
+CONCEPTS: ['Habitat', 'Fishery', 'Geography', 'Invertebrate', 'Marine habitats', 'Marine ecosystem', 'Oceanography', 'Ecology', 'Ecosystem', 'Aquaculture', 'Estuary', 'Algae', 'Biology', 'Fish <Actinopterygii>', 'Geology']

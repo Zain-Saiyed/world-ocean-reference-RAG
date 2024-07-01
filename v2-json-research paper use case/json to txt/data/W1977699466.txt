@@ -1,0 +1,12 @@
+ID: W1977699466
+TITLE: Increasing frequency of extreme El Niño events due to greenhouse warming
+AUTHOR: ['Wenju Cai', 'Simon Borlace', 'Matthieu Lengaigne', 'Peter van Rensch', 'Matthew Collins', 'Gabriel A. Vecchi', 'Axel Timmermann', 'Agus Santoso', 'Michael J. McPhaden', 'Lixin Wu', 'Matthew H. England', 'Guojian Wang', 'Éric Guilyardi', 'Fei‐Fei Jin']
+ABSTRACT:
+Extreme El Niño events cause global disruption of weather patterns and affect ecosystems and agriculture through changes in rainfall. Model projections show that a doubling in the occurrence of such extreme episodes is caused by increased surface warming of the eastern equatorial Pacific Ocean, which results in the atmospheric conditions required for these event to occur. El Niño events are a prominent feature of climate variability with global climatic impacts. The 1997/98 episode, often referred to as ‘the climate event of the twentieth century’1,2, and the 1982/83 extreme El Niño3, featured a pronounced eastward extension of the west Pacific warm pool and development of atmospheric convection, and hence a huge rainfall increase, in the usually cold and dry equatorial eastern Pacific. Such a massive reorganization of atmospheric convection, which we define as an extreme El Niño, severely disrupted global weather patterns, affecting ecosystems4,5, agriculture6, tropical cyclones, drought, bushfires, floods and other extreme weather events worldwide3,7,8,9. Potential future changes in such extreme El Niño occurrences could have profound socio-economic consequences. Here we present climate modelling evidence for a doubling in the occurrences in the future in response to greenhouse warming. We estimate the change by aggregating results from climate models in the Coupled Model Intercomparison Project phases 3 (CMIP3; ref. 10) and 5 (CMIP5; ref. 11) multi-model databases, and a perturbed physics ensemble12. The increased frequency arises from a projected surface warming over the eastern equatorial Pacific that occurs faster than in the surrounding ocean waters13,14, facilitating more occurrences of atmospheric convection in the eastern equatorial region.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 1620
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Climatology', 'Environmental science', 'Climate model', 'Extreme weather', 'Climate change', 'Global warming', 'Coupled model intercomparison project', 'Atmospheric sciences', 'Tropical cyclone', 'Greenhouse gas', 'Oceanography', 'Geology']

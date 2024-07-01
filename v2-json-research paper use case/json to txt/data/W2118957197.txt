@@ -1,0 +1,12 @@
+ID: W2118957197
+TITLE: Anthropogenic noise causes body malformations and delays development in marine larvae
+AUTHOR: ['Natacha Aguilar de Soto', 'Natalí J. Delorme', 'John Alfred Atkins', 'Sunkita Howard', 'James R. Williams', 'Mark Johnson']
+ABSTRACT:
+Understanding the impact of noise on marine fauna at the population level requires knowledge about the vulnerability of different life-stages. Here we provide the first evidence that noise exposure during larval development produces body malformations in marine invertebrates. Scallop larvae exposed to playbacks of seismic pulses showed significant developmental delays and 46% developed body abnormalities. Similar effects were observed in all independent samples exposed to noise while no malformations were found in the control groups (4881 larvae examined). Malformations appeared in the D-veliger larval phase, perhaps due to the cumulative exposure attained by this stage or to a greater vulnerability of D-veliger to sound-mediated physiological or mechanical stress. Such strong impacts suggest that abnormalities and growth delays may also result from lower sound levels or discrete exposures during the D-stage, increasing the potential for routinely-occurring anthropogenic noise sources to affect recruitment of wild scallop larvae in natural stocks.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep02831.pdf
+CITED BY COUNT: 109
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Veliger', 'Biology', 'Larva', 'Marine invertebrates', 'Scallop', 'Population', 'Invertebrate', 'Zoology', 'Ecology', 'Medicine', 'Environmental health']

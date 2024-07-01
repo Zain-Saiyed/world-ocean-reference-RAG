@@ -1,0 +1,12 @@
+ID: W2111525568
+TITLE: Global Patterns of Extinction Risk in Marine and Non-marine Systems
+AUTHOR: ['Thomas J. Webb', 'Beth Mindel']
+ABSTRACT:
+<h2>Summary</h2> Despite increasing concern over the effects of human activities on marine ecosystems [1, 2], extinction in the sea remains scarce: 19–24 out of a total of >850 recorded extinctions [3, 4] implies a 9-fold lower marine extinction rate compared to non-marine systems. The extent of threats faced by marine systems, and their resilience to them, receive considerable attention [2, 4–6], but the detectability of marine extinctions is less well understood. Before its extinction or threat status is recorded, a species must be both taxonomically described and then formally assessed; lower rates of either process for marine species could thus impact patterns of extinction risk, especially as species missing from taxonomic inventories may often be more vulnerable than described species [7–11]. We combine data on taxonomic description with conservation assessments from the International Union for Conservation of Nature (IUCN) to test these possibilities across almost all marine and non-marine eukaryotes. We find that the 9-fold lower rate of recorded extinctions and 4-fold lower rate of ongoing extinction risk across marine species can be explained in part by differences in the proportion of species assessed by the IUCN (3% cf. 4% of non-marine species). Furthermore, once taxonomic knowledge and conservation assessments pass a threshold level, differences in extinction risk between marine and non-marine groups largely disappear. Indeed, across the best-studied taxonomic groups, there is no difference between marine and non-marine systems, with on average between 20% and 25% of species being threatened with extinction, regardless of realm.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982214016248/pdf
+CITED BY COUNT: 99
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['IUCN Red List', 'Extinction (optical mineralogy)', 'Biology', 'Marine ecosystem', 'Threatened species', 'Marine species', 'Ecology', 'Extinction event', 'Marine protected area', 'Biodiversity', 'Taxonomic rank', 'Porpoise', 'Ecosystem', 'Taxon', 'Habitat', 'Population', 'Harbour', 'Paleontology', 'Computer science', 'Biological dispersal', 'Demography', 'Sociology', 'Programming language']

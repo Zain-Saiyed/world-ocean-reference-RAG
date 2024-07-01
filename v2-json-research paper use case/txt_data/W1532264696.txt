@@ -1,0 +1,12 @@
+ID: W1532264696
+TITLE: Maintenance and Broadening of the Ocean’s Salinity Distribution by the Water Cycle
+AUTHOR: ['Jan D. Zika', 'Nikolaos Skliris', 'A. J. George Nurser', 'Simon A. Josey', 'Lawrence Mudryk', 'Frédéric Laliberté', 'Robert Marsh']
+ABSTRACT:
+Abstract The global water cycle leaves an imprint on ocean salinity through evaporation and precipitation. It has been proposed that observed changes in salinity can be used to infer changes in the water cycle. Here salinity is characterized by the distribution of water masses in salinity coordinates. Only mixing and sources and sinks of freshwater and salt can modify this distribution. Mixing acts to collapse the distribution, making saline waters fresher and fresh waters more saline. Hence, in steady state, there must be net precipitation over fresh waters and net evaporation over saline waters. A simple model is developed to describe the relationship between the breadth of the distribution, the water cycle, and mixing—the latter being characterized by an e-folding time scale. In both observations and a state-of-the-art ocean model, the water cycle maintains a salinity distribution in steady state with a mixing time scale of the order of 50 yr. The same simple model predicts the response of the salinity distribution to a change in the water cycle. This study suggests that observations of changes in ocean salinity could be used to infer changes in the hydrological cycle.
+
+SOURCE: Journal of climate
+PDF URL: https://journals.ametsoc.org/downloadpdf/journals/clim/28/24/jcli-d-15-0273.1.pdf
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Salinity', 'Water cycle', 'Precipitation', 'Environmental science', 'Temperature salinity diagrams', 'Saline water', 'Seawater', 'Climatology', 'Mixing (physics)', 'Water mass', 'Annual cycle', 'Oceanography', 'Atmospheric sciences', 'Geology', 'Ecology', 'Meteorology', 'Biology', 'Physics', 'Quantum mechanics']

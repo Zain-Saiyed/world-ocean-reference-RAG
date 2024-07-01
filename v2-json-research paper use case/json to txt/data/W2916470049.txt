@@ -1,0 +1,12 @@
+ID: W2916470049
+TITLE: Flipping for Food: The Use of a Methane Seep by Tanner Crabs (Chionoecetes tanneri)
+AUTHOR: ['Sarah Seabrook', 'Fabio C. De Léo', 'Andrew R. Thurber']
+ABSTRACT:
+Methane seep habitats are widespread chemosynthesis-based ecosystem that span continental margins and interact with surrounding marine systems. With many of these habitats occurring below 200m, seeps can serve as an important source of nutrients in otherwise food limited deep-sea environments. However, the potential for marauding megafauna to assimilate seep derived nutrition has been difficult to quantify. Here, we provide the first evidence of a commercially harvested species, Chionoecetes tanneri (tanner crab), assimilating chemosynthetic production. Although bulk isotope analysis of C. tanneri tissue indicated no quantifiable incorporation of seep-derived carbon or sulfur (mean δ13C, -18.5‰; mean δ34S, 19.5‰), depletions in 13C (δ13C as light as -38.8 ‰) were noted in fatty acid (FA) compounds. In addition, diagnostic biomarkers for seep bacteria, including 16:16 and 18:18c FA's, were found to have been assimilated by C. tanneri. Futher supporting a trophic link between the seep and the C. tanneri, seep associated bacteria and archaea were, in certain cases, the dominant taxa in the gut contents of the crab. This work provides the first insights into a link between seep production and deep-sea ecosystem services, specifically fisheries production. In addition, it reveals a methodological bias that could exist in some trophic studies where bulk isotopes under-represent the role of seep nutrition in the diet of marauding animals.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00043/pdf
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Petroleum seep', 'Chemosynthesis', 'Trophic level', 'Food web', 'Cold seep', 'Biology', 'Isotope analysis', 'Ecosystem', 'Ecology', 'Food chain', 'δ13C', 'Habitat', 'δ34S', 'Fishery', 'Methane', 'Stable isotope ratio', 'Hydrothermal vent', 'Paleontology', 'Physics', 'Quartz', 'Quantum mechanics', 'Fluid inclusions', 'Hydrothermal circulation']

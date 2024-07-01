@@ -1,0 +1,12 @@
+ID: W2607109283
+TITLE: Microplastics in the Antarctic marine system: An emerging area of research
+AUTHOR: ['Catherine Waller', 'Huw J. Griffiths', 'Claire M. Waluda', 'Sally Thorpe', 'Iván Loaiza', 'Bernabé Moreno', 'César O. Pacherres', 'Kevin A. Hughes']
+ABSTRACT:
+It was thought that the Southern Ocean was relatively free of microplastic contamination; however, recent studies and citizen science projects in the Southern Ocean have reported microplastics in deep-sea sediments and surface waters. Here we reviewed available information on microplastics (including macroplastics as a source of microplastics) in the Southern Ocean. We estimated primary microplastic concentrations from personal care products and laundry, and identified potential sources and routes of transmission into the region. Estimates showed the levels of microplastic pollution released into the region from ships and scientific research stations were likely to be negligible at the scale of the Southern Ocean, but may be significant on a local scale. This was demonstrated by the detection of the first microplastics in shallow benthic sediments close to a number of research stations on King George Island. Furthermore, our predictions of primary microplastic concentrations from local sources were five orders of magnitude lower than levels reported in published sampling surveys (assuming an even dispersal at the ocean surface). Sea surface transfer from lower latitudes may contribute, at an as yet unknown level, to Southern Ocean plastic concentrations. Acknowledging the lack of data describing microplastic origins, concentrations, distribution and impacts in the Southern Ocean, we highlight the urgent need for research, and call for routine, standardised monitoring in the Antarctic marine system.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 551
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Oceanography', 'Plastic pollution', 'Environmental science', 'Marine life', 'Benthic zone', 'Marine debris', 'Marine pollution', 'Pollution', 'Ecology', 'Geology', 'Biology', 'Debris']

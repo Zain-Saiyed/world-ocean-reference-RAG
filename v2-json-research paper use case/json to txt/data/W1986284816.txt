@@ -1,0 +1,12 @@
+ID: W1986284816
+TITLE: Mitochondrial genome diversity and population structure of the giant squid <i>Architeuthis</i> : genetics sheds new light on one of the most enigmatic marine species
+AUTHOR: ['Inger E. Winkelmann', 'Paula F. Campos', 'Jan M. Strugnell', 'Yves Cherel', 'Peter Smith', 'Tsunemi Kubodera', 'A. Louise Allcock', 'Marie‐Louise Kampmann', 'Hannes Schroeder', 'Ángel Guerra', 'Mark D. Norman', 'Julian Finn', 'Debra A. Ingrao', 'M. R. Clarke', 'M. Thomas P. Gilbert']
+ABSTRACT:
+Despite its charismatic appeal to both scientists and the general public, remarkably little is known about the giant squid Architeuthis , one of the largest of the invertebrates. Although specimens of Architeuthis are becoming more readily available owing to the advancement of deep-sea fishing techniques, considerable controversy exists with regard to topics as varied as their taxonomy, biology and even behaviour. In this study, we have characterized the mitochondrial genome (mitogenome) diversity of 43 Architeuthis samples collected from across the range of the species, in order to use genetic information to provide new and otherwise difficult to obtain insights into the life of this animal. The results show no detectable phylogenetic structure at the mitochondrial level and, furthermore, that the level of nucleotide diversity is exceptionally low. These observations are consistent with the hypotheses that there is only one global species of giant squid, Architeuthis dux (Steenstrup, 1857), and that it is highly vagile, possibly dispersing through both a drifting paralarval stage and migration of larger individuals. Demographic history analyses of the genetic data suggest that there has been a recent population expansion or selective sweep, which may explain the low level of genetic diversity.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2013.0273
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Biology', 'Evolutionary biology', 'Mitochondrial DNA', 'Genetic diversity', 'Population', 'Invertebrate', 'Range (aeronautics)', 'Ecology', 'Zoology', 'Genetics', 'Gene', 'Materials science', 'Composite material', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2558467148
+TITLE: Estimating long-term trends in abundance and survival for nesting flatback turtles in Kakadu National Park, Australia
+AUTHOR: ['Rachel Groom', 'Anthony D. Griffiths', 'Milani Chaloupka']
+ABSTRACT:
+Flatback turtles Natator depressus are endemic to Australia and Papua New Guinea's tropical oceans and, although the species has an extensive distribution around northern Australia, there are few published long-term abundance trends of nesting populations.We conducted a longterm capture-mark-recapture program on nesting flatback turtles on Field Island in Kakadu National Park, a World Heritage Area that is jointly managed by Aboriginal landowners and the Australian Government, from 2002 to 2013 for between 12 and 20 monitoring days per year.We used a Cormack-Jolly-Seber (CJS) model that accounted for transience and recapture heterogeneity to estimate apparent survival and recapture probability, and estimated abundance using a Horvitz-Thompson type estimator.A total of 257 flatback turtles attempted nesting during that period, averaging 3.68 ± 0.28 (mean ± SE) nesting attempts per night of monitoring.Annual apparent survival of nesting flatback turtles was 0.97 (95% CI = 0.94 to 0.98) and increased relative to body size.Recapture probability averaged 0.38 (95% CI = 0.34 to 0.42) and was influenced by inter-annual climatic variability.The size of the Field Island nesting flatback turtle population ranged from 97 (95% CI = 87 to 106) to 183 (95% CI = 165 to 200) and there was a non-significant trend over 12 yr of monitoring.Understanding long-term population trends of nesting marine turtles is fundamental for management and recovery of these at-risk species.
+
+SOURCE: Endangered species research
+PDF URL: https://www.int-res.com/articles/esr2017/32/n032p203.pdf
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['National park', 'Geography', 'Endangered species', 'Abundance (ecology)', 'Mark and recapture', 'Fishery', 'Ecology', 'Archaeology', 'Population', 'Demography', 'Biology', 'Habitat', 'Sociology']

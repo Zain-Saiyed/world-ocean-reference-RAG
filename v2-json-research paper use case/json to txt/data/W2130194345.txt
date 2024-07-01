@@ -1,0 +1,12 @@
+ID: W2130194345
+TITLE: Trophic interactions of fish communities at midwater depths enhance long-term carbon storage and benthic production on continental slopes
+AUTHOR: ['Clive N. Trueman', 'Graham Johnston', 'B. O’Hea', 'Kirsteen M. MacKenzie']
+ABSTRACT:
+Biological transfer of nutrients and materials between linked ecosystems influences global carbon budgets and ecosystem structure and function. Identifying the organisms or functional groups that are responsible for nutrient transfer, and quantifying their influence on ecosystem structure and carbon capture is an essential step for informed management of ecosystems in physically distant, but ecologically linked areas. Here, we combine natural abundance stable isotope tracers and survey data to show that mid-water and bentho-pelagic-feeding demersal fishes play an important role in the ocean carbon cycle, bypassing the detrital particle flux and transferring carbon to deep long-term storage. Global peaks in biomass and diversity of fishes at mid-slope depths are explained by competitive release of the demersal fish predators of mid-water organisms, which in turn support benthic fish production. Over 50% of the biomass of the demersal fish community at depths between 500 and 1800 m is supported by biological rather than detrital nutrient flux processes, and we estimate that bentho-pelagic fishes from the UK–Irish continental slope capture and store a volume of carbon equivalent to over 1 million tonnes of CO 2 every year.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2014.0669
+CITED BY COUNT: 110
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Trophic level', 'Benthic zone', 'Environmental science', 'Term (time)', 'Oceanography', 'Continental shelf', 'Fishery', 'Ecology', 'Geology', 'Biology', 'Physics', 'Quantum mechanics']

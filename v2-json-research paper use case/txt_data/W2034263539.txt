@@ -1,0 +1,12 @@
+ID: W2034263539
+TITLE: A multi-criteria evaluation system for marine litter pollution based on statistical analyses of OSPAR beach litter monitoring time series
+AUTHOR: ['Martin Schulz', 'Daniel Neumann', 'David M. Fleet', 'Michael Matthies']
+ABSTRACT:
+During the last decades, marine pollution with anthropogenic litter has become a worldwide major environmental concern. Standardized monitoring of litter since 2001 on 78 beaches selected within the framework of the Convention for the Protection of the Marine Environment of the North-East Atlantic (OSPAR) has been used to identify temporal trends of marine litter. Based on statistical analyses of this dataset a two-part multi-criteria evaluation system for beach litter pollution of the North-East Atlantic and the North Sea is proposed. Canonical correlation analyses, linear regression analyses, and non-parametric analyses of variance were used to identify different temporal trends. A classification of beaches was derived from cluster analyses and served to define different states of beach quality according to abundances of 17 input variables. The evaluation system is easily applicable and relies on the above-mentioned classification and on significant temporal trends implied by significant rank correlations.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Environmental science', 'Marine debris', 'Pollution', 'Litter', 'Marine pollution', 'Marine Strategy Framework Directive', 'Environmental resource management', 'Environmental protection', 'Ecology', 'Geography', 'Ecosystem', 'Meteorology', 'Biology', 'Debris']

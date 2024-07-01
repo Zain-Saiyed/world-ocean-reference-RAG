@@ -1,0 +1,12 @@
+ID: W2022568776
+TITLE: Potential effects of gas hydrate on human welfare
+AUTHOR: ['Keith A. Kvenvolden']
+ABSTRACT:
+For almost 30 years. serious interest has been directed toward natural gas hydrate, a crystalline solid composed of water and methane, as a potential ( i ) energy resource, ( ii ) factor in global climate change, and ( iii ) submarine geohazard. Although each of these issues can affect human welfare, only ( iii ) is considered to be of immediate importance. Assessments of gas hydrate as an energy resource have often been overly optimistic, based in part on its very high methane content and on its worldwide occurrence in continental margins. Although these attributes are attractive, geologic settings, reservoir properties, and phase-equilibria considerations diminish the energy resource potential of natural gas hydrate. The possible role of gas hydrate in global climate change has been often overstated. Although methane is a “greenhouse” gas in the atmosphere, much methane from dissociated gas hydrate may never reach the atmosphere, but rather may be converted to carbon dioxide and sequestered by the hydrosphere/biosphere before reaching the atmosphere. Thus, methane from gas hydrate may have little opportunity to affect global climate change. However, submarine geohazards (such as sediment instabilities and slope failures on local and regional scales, leading to debris flows, slumps, slides, and possible tsunamis) caused by gas-hydrate dissociation are of immediate and increasing importance as humankind moves to exploit seabed resources in ever-deepening waters of coastal oceans. The vulnerability of gas hydrate to temperature and sea level changes enhances the instability of deep-water oceanic sediments, and thus human activities and installations in this setting can be affected.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 507
+PUBLICATION YEAR: 1999
+TYPE: article
+CONCEPTS: ['Clathrate hydrate', 'Methane', 'Natural gas', 'Greenhouse gas', 'Environmental science', 'Permafrost', 'Atmospheric methane', 'Earth science', 'Geohazard', 'Climate change', 'Hydrate', 'Geology', 'Global warming', 'Continental shelf', 'Oceanography', 'Ecology', 'Chemistry', 'Landslide', 'Geomorphology', 'Organic chemistry', 'Biology']

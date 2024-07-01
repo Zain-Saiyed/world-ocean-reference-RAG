@@ -1,0 +1,12 @@
+ID: W2041105542
+TITLE: Future seagrass beds: Can increased productivity lead to increased carbon storage?
+AUTHOR: ['Bayden D. Russell', 'Sean D. Connell', 'Sven Uthicke', 'Nancy Muehllehner', 'Katharina Fabricius', 'Jason M. Hall‐Spencer']
+ABSTRACT:
+While carbon capture and storage (CCS) is increasingly recognised as technologically possible, recent evidence from deep-sea CCS activities suggests that leakage from reservoirs may result in highly CO2 impacted biological communities. In contrast, shallow marine waters have higher primary productivity which may partially mitigate this leakage. We used natural CO2 seeps in shallow marine waters to assess if increased benthic primary productivity could capture and store CO2 leakage in areas targeted for CCS. We found that the productivity of seagrass communities (in situ, using natural CO2 seeps) and two individual species (ex situ, Cymodocea serrulata and Halophila ovalis) increased with CO2 concentration, but only species with dense belowground biomass increased in abundance (e.g. C. serrulata). Importantly, the ratio of below:above ground biomass of seagrass communities increased fivefold, making seagrass good candidates to partially mitigate CO2 leakage from sub-seabed reservoirs, since they form carbon sinks that can be buried for millennia.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 104
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Seagrass', 'Blue carbon', 'Environmental science', 'Productivity', 'Carbon sink', 'Benthic zone', 'Carbon sequestration', 'Biomass (ecology)', 'Seabed', 'Ecosystem', 'Oceanography', 'Marine ecosystem', 'Fishery', 'Ecology', 'Carbon dioxide', 'Biology', 'Geology', 'Economics', 'Macroeconomics']

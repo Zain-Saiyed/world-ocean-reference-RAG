@@ -1,0 +1,12 @@
+ID: W2179601253
+TITLE: MARINE PLANKTON FOOD CHAINS
+AUTHOR: ['Tom Fenchel']
+ABSTRACT:
+Species distribution models (SDMs) are numerical tools that combine observations of species occurrence or abundance with environmental estimates. They are used to gain ecological and evolutionary insights and to predict distributions across landscapes, ...Read More
+
+SOURCE: Annual review of ecology and systematics
+PDF URL: None
+CITED BY COUNT: 378
+PUBLICATION YEAR: 1988
+TYPE: article
+CONCEPTS: ['Plankton', 'Abundance (ecology)', 'Food chain', 'Ecology', 'Distribution (mathematics)', 'Environmental science', 'Oceanography', 'Geography', 'Biology', 'Geology', 'Mathematics', 'Mathematical analysis']

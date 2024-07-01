@@ -1,0 +1,12 @@
+ID: W3014687346
+TITLE: Methanotrophic bacterial symbionts fuel dense populations of deep-sea feather duster worms (Sabellida, Annelida) and extend the spatial influence of methane seepage
+AUTHOR: ['Shana K. Goffredi', 'Tilic Ekin', 'Sean W. Mullin', 'Katherine S. Dawson', 'Abigail Keller', 'Raymond W. Lee', 'Fabai Wu', 'Lisa A. Levin', 'Greg W. Rouse', 'Erik E. Cordes', 'Victoria J. Orphan']
+ABSTRACT:
+Hidden in plain sight: Methanotrophic feather duster worms redefine the methane seep sphere of influence.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/6/14/eaay8562.full.pdf
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Feather', 'Methane', 'Biology', 'Deep sea', 'Ecology', 'Oceanography', 'Zoology', 'Geology', 'Fishery']

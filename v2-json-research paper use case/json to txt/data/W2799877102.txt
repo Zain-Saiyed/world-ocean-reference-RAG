@@ -1,0 +1,12 @@
+ID: W2799877102
+TITLE: Living shorelines enhanced the resilience of saltmarshes to Hurricane Matthew (2016)
+AUTHOR: ['Charles S. Smith', 'Brandon J. Puckett', 'Rachel K. Gittman', 'Charles H. Peterson']
+ABSTRACT:
+Nature-based solutions, such as living shorelines, have the potential to restore critical ecosystems, enhance coastal sustainability, and increase resilience to natural disasters; however, their efficacy during storm events compared to traditional hardened shorelines is largely untested. This is a major impediment to their implementation and promotion to policy-makers and homeowners. To address this knowledge gap, we evaluated rock sill living shorelines as compared to natural marshes and hardened shorelines (i.e., bulkheads) in North Carolina, USA for changes in surface elevation, Spartina alterniflora stem density, and structural damage from 2015 to 2017, including before and after Hurricane Matthew (2016). Our results show that living shorelines exhibited better resistance to landward erosion during Hurricane Matthew than bulkheads and natural marshes. Additionally, living shorelines were more resilient than hardened shorelines, as they maintained landward elevation over the two-year study period without requiring any repair. Finally, rock sill living shorelines were able to enhance S. alterniflora stem densities over time when compared to natural marshes. Our results suggest that living shorelines have the potential to improve coastal resilience while supporting important coastal ecosystems.
+
+SOURCE: Ecological applications
+PDF URL: https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eap.1722
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Resilience (materials science)', 'Ecology', 'Shore', 'Geography', 'Psychological resilience', 'Habitat', 'Environmental science', 'Environmental resource management', 'Biology', 'Fishery', 'Psychology', 'Physics', 'Psychotherapist', 'Thermodynamics']

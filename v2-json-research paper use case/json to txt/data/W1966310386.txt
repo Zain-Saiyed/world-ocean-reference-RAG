@@ -1,0 +1,12 @@
+ID: W1966310386
+TITLE: River discharge into the Bay of Bengal in an inverse ocean model
+AUTHOR: ['Max Yaremchuk', 'Zuojun Yu', 'Julian P. McCreary']
+ABSTRACT:
+The seasonal cycle of river runoff in the Bay of Bengal is estimated by assimilating climatological salinity/temperature and precipitation data into an ocean model of intermediate complexity. The resulting optimized river‐transport field fits independent land‐based observations within their error bars. Six precipitation products are discussed for their ability to reproduce the observed salinity field within the Bay.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Bay', 'BENGAL', 'Discharge', 'Precipitation', 'Salinity', 'Surface runoff', 'Environmental science', 'Oceanography', 'Climatology', 'Hydrology (agriculture)', 'Geology', 'Drainage basin', 'Meteorology', 'Geography', 'Ecology', 'Geotechnical engineering', 'Biology', 'Cartography']

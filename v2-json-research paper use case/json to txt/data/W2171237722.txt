@@ -1,0 +1,12 @@
+ID: W2171237722
+TITLE: Thermal Erosion of a Permafrost Coastline: Improving Process-Based Models Using Time-Lapse Photography
+AUTHOR: ['Cameron Wobus', 'Robert S. Anderson', 'Irina Overeem', 'Nora Matell', 'Gary D. Clow', 'F. E. Urban']
+ABSTRACT:
+Coastal erosion rates locally exceeding 30 m y−1 have been documented along Alaska’s Beaufort Sea coastline, and a number of studies suggest that these erosion rates have accelerated as a result of climate change. However, a lack of direct observational evidence has limited our progress in quantifying the specific processes that connect climate change to coastal erosion rates in the Arctic. In particular, while longer ice-free periods are likely to lead to both warmer surface waters and longer fetch, the relative roles of thermal and mechanical (wave) erosion in driving coastal retreat have not been comprehensively quantified. We focus on a permafrost coastline in the northern National Petroleum Reserve–Alaska (NPR-A), where coastal erosion rates have averaged 10–15 m y−1 over two years of direct monitoring. We take advantage of these extraordinary rates of coastal erosion to observe and quantify coastal erosion directly via time-lapse photography in combination with meteorological observations. Our observations indicate that the erosion of these bluffs is largely thermally driven, but that surface winds play a crucial role in exposing the frozen bluffs to the radiatively warmed seawater that drives melting of interstitial ice. To first order, erosion in this setting can be modeled using formulations developed to describe iceberg deterioration in the open ocean. These simple models provide a conceptual framework for evaluating how climate-induced changes in thermal and wave energy might influence future erosion rates in this setting.
+
+SOURCE: Arctic, antarctic, and alpine research
+PDF URL: None
+CITED BY COUNT: 51
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Coastal erosion', 'Erosion', 'Permafrost', 'Climate change', 'Arctic', 'Geology', 'Fetch', 'Environmental science', 'Sea ice', 'Physical geography', 'Oceanography', 'Climatology', 'Earth science', 'Geomorphology', 'Geography']

@@ -1,0 +1,12 @@
+ID: W2613677461
+TITLE: Sooty tern (<i>Onychoprion fuscatus</i>) survival, oil spills, shrimp fisheries, and hurricanes
+AUTHOR: ['Ryan M. Huang', 'Oron L. Bass', 'Stuart L. Pimm']
+ABSTRACT:
+Migratory seabirds face threats from climate change and a variety of anthropogenic disturbances. Although most seabird research has focused on the ecology of individuals at the colony, technological advances now allow researchers to track seabird movements at sea and during migration. We combined telemetry data on Onychoprion fuscatus (sooty terns) with a long-term capture-mark-recapture dataset from the Dry Tortugas National Park to map the movements at sea for this species, calculate estimates of mortality, and investigate the impact of hurricanes on a migratory seabird. Included in the latter analysis is information on the locations of recovered bands from deceased individuals wrecked by tropical storms. We present the first known map of sooty tern migration in the Atlantic Ocean. Our results indicate that the birds had minor overlaps with areas affected by the major 2010 oil spill and a major shrimp fishery. Indices of hurricane strength and occurrence are positively correlated with annual mortality and indices of numbers of wrecked birds. As climate change may lead to an increase in severity and frequency of major hurricanes, this may pose a long-term problem for this colony.
+
+SOURCE: PeerJ
+PDF URL: https://peerj.com/articles/3287.pdf
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seabird', 'Shrimp', 'Fishery', 'Tern', 'Geography', 'Climate change', 'Oil spill', 'Ecology', 'Oceanography', 'Environmental science', 'Biology', 'Environmental protection', 'Predation', 'Geology']

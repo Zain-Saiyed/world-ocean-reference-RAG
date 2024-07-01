@@ -1,0 +1,12 @@
+ID: W2139883965
+TITLE: First evidence that marine protected areas can work for marine mammals
+AUTHOR: ['Andrew M. Gormley', 'Elisabeth Slooten', 'Stephen M. Dawson', 'Richard J. Barker', 'William Rayment', 'Sam Du Fresne', 'Stefan Bräger']
+ABSTRACT:
+Summary 1. Marine protected areas (MPAs) have been advocated for the protection of threatened marine mammals, but there is no empirical evidence that they are effective. In 1988, the Banks Peninsula Marine Mammal Sanctuary was established to reduce gillnet mortalities of Hector’s dolphin Cephalorhynchus hectori , an endangered dolphin species endemic to New Zealand. This study assesses the effectiveness of the MPA in improving the survival rate of Hector’s dolphin at Banks Peninsula. 2. Over 21 years, we undertook photo‐identification surveys of Hector’s dolphins along standardized transects from small outboard‐powered boats. From 1986 to 2006, we photographically captured 462 reliably marked individuals. We estimated mean annual survival during the pre‐sanctuary and post‐sanctuary periods by applying a Bayesian random effects capture‐recapture model to the data. Population growth was estimated from population simulations using a stage‐structured matrix model. 3. We estimate a 90% probability that survival has improved between the pre‐sanctuary and post‐sanctuary periods, with estimates of mean survival probability increasing by 5·4% (from 0·863 to 0·917). This improvement in survival corresponds to a 6% increase in mean annual population growth (from 0·939 to 0·995). 4. Synthesis and applications . Our study demonstrates improvement in a demographic parameter of an endangered marine mammal species following conservation action. Our results provide evidence that area‐based protection measures can be effective for marine mammals. We note that estimating demographic parameters in marine mammals requires many years of data to achieve sufficient precision to detect biologically meaningful change. MPAs should be established with a commitment to long‐term monitoring.
+
+SOURCE: Journal of applied ecology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2664.2012.02121.x
+CITED BY COUNT: 135
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Endangered species', 'Threatened species', 'Fishery', 'Marine mammal', 'Peninsula', 'Population', 'Marine protected area', 'Geography', 'Ecology', 'Vital rates', 'Transect', 'Mark and recapture', 'Population size', 'Marine reserve', 'Population growth', 'Fishing', 'Biology', 'Habitat', 'Demography', 'Sociology']

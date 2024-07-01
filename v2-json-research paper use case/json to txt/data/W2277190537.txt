@@ -1,0 +1,12 @@
+ID: W2277190537
+TITLE: Greenhouse Gas Fluxes from Salt Marshes Exposed to Chronic Nutrient Enrichment
+AUTHOR: ['Gail L. Chmura', 'Lisa Kellman', 'Lee B. van Ardenne', 'Glenn R. Guntenspergen']
+ABSTRACT:
+We assessed the impact of nutrient additions on greenhouse gas fluxes using dark static chambers in a microtidal and a macrotidal marsh along the coast of New Brunswick, Canada approximately monthly over a year. Both were experimentally fertilized for six years with varying levels of N and P. For unfertilized, N and NPK treatments, average yearly CO2 emissions (which represent only respiration) at the microtidal marsh (13, 19, and 28 mmoles CO2 m(-2) hr(-1), respectively) were higher than at the macrotidal marsh (12, 15, and 19 mmoles m(-2) hr(-1), respectively, with a flux under the additional high N/low P treatment of 21 mmoles m(-2) hr(-1)). Response of CH4 to fertilization was more variable. At the macrotidal marsh average yearly fluxes were 1.29, 1.26, and 0.77 μmol CH4 m(-2) hr(-1) with control, N, and NPK treatments, respectively and 1.21 μmol m(-2) hr(-1) under high N/low P treatment. At the microtidal marsh CH4 fluxes were 0.23, 0.16, and -0.24 μmol CH4 m(-2) hr(-1) in control, N, and NPK and treatments, respectively. Fertilization changed soils from sinks to sources of N2O. Average yearly N2O fluxes at the macrotidal marsh were -0.07, 0.08, and 1.70, μmol N2O m(-2) hr(-1) in control, N, NPK and treatments, respectively and 0.35 μmol m(-2) hr(-1) under high N/low P treatment. For the control, N, and NPK treatments at the microtidal marsh N2O fluxes were -0.05, 0.30, and 0.52 μmol N2O m(-2) hr(-1), respectively. Our results indicate that N2O fluxes are likely to vary with the source of pollutant nutrients but emissions will be lower if N is not accompanied by an adequate supply of P (e.g., atmospheric deposition vs sewage or agricultural runoff). With chronic fertilization the global warming potential of the increased N2O emissions may be enough to offset the global cooling potential of the C sequestered by salt marshes.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0149937&type=printable
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Nutrient', 'Marsh', 'Animal science', 'Human fertilization', 'Flux (metallurgy)', 'Environmental science', 'Chemistry', 'Agronomy', 'Wetland', 'Ecology', 'Biology', 'Organic chemistry']

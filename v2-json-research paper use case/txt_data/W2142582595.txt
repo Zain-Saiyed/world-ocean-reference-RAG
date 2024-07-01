@@ -1,0 +1,12 @@
+ID: W2142582595
+TITLE: Argo - A Decade of Progress
+AUTHOR: ['Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland', 'Howard J. Freeland']
+ABSTRACT:
+Howard J. Freeland , Dean Roemmich , Silvia L. Garzoli , Pierre-Yves Le Traon , Muthalagu Ravichandran , Stephen Riser , Virginie Thierry , Susan Wijffels , Mathieu Belbeoch , John Gould , Fiona Grant , Mark Ignazewski , Brian King , Birgit Klein , Kjell Arne Mork , Breck Owens , Sylvie Pouliquen , Andreas Sterl , Toshio Suga , Moon-Sik Suk , Philip Sutton , Ariel Troisi , Pedro Joaquin Velez-Belchi , and Jianping Xu (24)
+
+SOURCE: None
+PDF URL: http://www.oceanobs09.net/proceedings/cwp/Freeland-OceanObs09.cwp.32.pdf
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Argo', 'Computer science', 'Data science', 'Climatology', 'Geology']

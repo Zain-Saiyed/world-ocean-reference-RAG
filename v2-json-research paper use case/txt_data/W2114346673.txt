@@ -1,0 +1,12 @@
+ID: W2114346673
+TITLE: The future of the northeast Atlantic benthic flora in a high CO<sub>2</sub> world
+AUTHOR: ['Juliet Brodie', 'Christopher Williamson', 'Dan Smale', 'Nicholas A. Kamenos', 'Nova Mieszkowska', 'Rui Santos', 'Michael Cunliffe', 'Michael Steinke', 'Chris Yesson', 'Kathryn M. Anderson', 'Valentina Asnaghi', 'Colin Brownlee', 'Heidi L. Burdett', 'Michael T. Burrows', 'Sinéad Collins', 'Penelope Donohue', 'Ben P. Harvey', 'Andrew Foggo', 'Fanny Noisette', 'Joana Nunes', 'Federica Ragazzola', 'John A. Raven', 'Daniela N. Schmidt', 'David J. Suggett', 'Mirta Teichberg', 'Jason M. Hall‐Spencer']
+ABSTRACT:
+Seaweed and seagrass communities in the northeast Atlantic have been profoundly impacted by humans, and the rate of change is accelerating rapidly due to runaway CO2 emissions and mounting pressures on coastlines associated with human population growth and increased consumption of finite resources. Here, we predict how rapid warming and acidification are likely to affect benthic flora and coastal ecosystems of the northeast Atlantic in this century, based on global evidence from the literature as interpreted by the collective knowledge of the authorship. We predict that warming will kill off kelp forests in the south and that ocean acidification will remove maerl habitat in the north. Seagrasses will proliferate, and associated epiphytes switch from calcified algae to diatoms and filamentous species. Invasive species will thrive in niches liberated by loss of native species and spread via exponential development of artificial marine structures. Combined impacts of seawater warming, ocean acidification, and increased storminess may replace structurally diverse seaweed canopies, with associated calcified and noncalcified flora, with simple habitats dominated by noncalcified, turf-forming seaweeds.
+
+SOURCE: Ecology and evolution
+PDF URL: None
+CITED BY COUNT: 176
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Flora (microbiology)', 'Biology', 'Bacteria', 'Genetics']

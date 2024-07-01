@@ -1,0 +1,12 @@
+ID: W575361688
+TITLE: Microplastics in the Marine Environment: Distribution, Interactions and Effects
+AUTHOR: ['Amy Lusher']
+ABSTRACT:
+Microplastics are an emerging marine pollutant. It is important to understand their distribution in the marine environment and their implications on marine habitats and marine biota. Microplastics have been found in almost every marine habitat around the world, with plastic composition and environmental conditions significantly affecting their distribution. Marine biota interact with microplastics including birds, fish, turtles, mammals and invertebrates. The biological repercussions depend on to the size of microplastics encountered, with smaller sizes having greater effects on organisms at the cellular level. In the micrometre range plastics are readily ingested and egested, whereas nanometre-sized plastics can pass through cell membranes. Despite concerns raised by ingestion, the effects of microplastic ingestion in natural populations and the implications for food webs are not understood. Without knowledge of retention and egestion rates of field populations, it is difficult to deduce ecological consequences. There is evidence to suggest that microplastics enter food chains and there is trophic transfer between predators and prey. What is clear is that further research on a variety of marine organisms is required to understand the environmental implications of microplastics in more detail and to establish effects in natural populations.
+
+SOURCE: Springer eBooks
+PDF URL: https://link.springer.com/content/pdf/10.1007/978-3-319-16510-3_10.pdf
+CITED BY COUNT: 245
+PUBLICATION YEAR: 2015
+TYPE: book-chapter
+CONCEPTS: ['Microplastics', 'Biota', 'Food chain', 'Trophic level', 'Predation', 'Marine habitats', 'Biology', 'Ecology', 'Invertebrate', 'Marine invertebrates', 'Habitat']

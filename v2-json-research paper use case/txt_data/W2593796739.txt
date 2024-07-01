@@ -1,0 +1,12 @@
+ID: W2593796739
+TITLE: Organophosphate Ester Flame Retardants and Plasticizers in Ocean Sediments from the North Pacific to the Arctic Ocean
+AUTHOR: ['Yuxin Ma', 'Zhiyong Xie', 'Rainer Lohmann', 'Wenying Mi', 'Guoping Gao']
+ABSTRACT:
+The presence of organophosphate ester (OPE) flame retardants and plasticizers in surface sediment from the North Pacific to Arctic Ocean was observed for the first time during the fourth National Arctic Research Expedition of China in the summer of 2010. The samples were analyzed for three halogenated OPEs [tris(2-chloroethyl) phosphate (TCEP), tris(1-chloro-2-propyl) phosphate (TCPP), and tris(dichloroisopropyl) phosphate], three alkylated OPEs [triisobutyl phosphate (TiBP), tri-n-butyl phosphate, and tripentyl phosphate], and triphenyl phosphate. Σ7OPEs (total concentration of the observed OPEs) was in the range of 159–4658 pg/g of dry weight. Halogenated OPEs were generally more abundant than the nonhalogenated OPEs; TCEP and TiBP dominated the overall concentrations. Except for that of the Bering Sea, Σ7OPEs values increased with increasing latitudes from Bering Strait to the Central Arctic Ocean, while the contributions of halogenated OPEs (typically TCEP and TCPP) to the total OPE profile also increased from the Bering Strait to the Central Arctic Ocean, indicating they are more likely to be transported to the remote Arctic. The median budget of 52 (range of 17–292) tons for Σ7OPEs in sediment from the Central Arctic Ocean represents only a very small amount of their total production volume, yet the amount of OPEs in Arctic Ocean sediment was significantly larger than the sum of polybrominated diphenyl ethers (PBDEs) in the sediment, indicating they are equally prone to long-range transport away from source regions. Given the increasing level of production and usage of OPEs as substitutes of PBDEs, OPEs will continue to accumulate in the remote Arctic.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 148
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Arctic', 'TCEP', 'Sediment', 'Polybrominated diphenyl ethers', 'Phosphate', 'The arctic', 'Environmental chemistry', 'Organophosphate', 'Plasticizer', 'Oceanography', 'Triphenyl phosphate', 'Environmental science', 'Chemistry', 'Fire retardant', 'Geology', 'Pollutant', 'Ecology', 'Pesticide', 'Organic chemistry', 'Geomorphology', 'Phosphine', 'Biology', 'Catalysis']

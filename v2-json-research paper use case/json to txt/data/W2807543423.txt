@@ -1,0 +1,12 @@
+ID: W2807543423
+TITLE: Iron from a submarine source impacts the productive layer of the Western Tropical South Pacific (WTSP)
+AUTHOR: ['Cécile Guieu', 'Sophie Bonnet', 'Anne Petrenko', 'Christophe Menkès', 'Valérie Chavagnac', 'Karine Desboeufs', 'Christophe Maes', 'Thierry Moutin']
+ABSTRACT:
+Abstract In the Western Tropical South Pacific, patches of high chlorophyll concentrations linked to the occurrence of N 2 -fixing organisms are found in the vicinity of volcanic islands. The survival of these organisms relies on a high bioavailable iron supply whose origin and fluxes remain unknown. Here, we measured high dissolved iron (DFe) concentrations (up to 66 nM) in the euphotic layer, extending zonally over 10 degrees longitude (174 E−175 W) at ∼20°S latitude. DFe atmospheric fluxes were at the lower end of reported values of the remote ocean and could not explain the high DFe concentrations measured in the water column in the vicinity of Tonga. We argue that the high DFe concentrations may be sustained by a submarine source, also characterized by freshwater input and recorded as salinity anomalies by Argo float in situ measurements and atlas data. The observed negative salinity anomalies are reproduced by simulations from a general ocean circulation model. Submarine iron sources reaching the euphotic layer may impact nitrogen fixation across the whole region.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-27407-z.pdf
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Photic zone', 'Oceanography', 'Argo', 'Longitude', 'Salinity', 'Environmental science', 'Latitude', 'Water column', 'Volcano', 'Submarine', 'Geology', 'Subtropics', 'Phytoplankton', 'Nutrient', 'Biology', 'Ecology', 'Geodesy', 'Seismology']

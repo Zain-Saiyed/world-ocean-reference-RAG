@@ -1,0 +1,12 @@
+ID: W2414127386
+TITLE: Fukushima Daiichi–Derived Radionuclides in the Ocean: Transport, Fate, and Impacts
+AUTHOR: ['Ken O. Buesseler', 'Minhan Dai', 'Michio Aoyama', 'Claudia Benitez‐Nelson', 'Sabine Charmasson', 'Kathryn A. Higley', 'Vladimir Maderіch', 'Pere Masqué', 'Paul J. Morris', 'Deborah Oughton', 'J. N. Smith']
+ABSTRACT:
+The events that followed the Tohoku earthquake and tsunami on March 11, 2011, included the loss of power and overheating at the Fukushima Daiichi nuclear power plants, which led to extensive releases of radioactive gases, volatiles, and liquids, particularly to the coastal ocean. The fate of these radionuclides depends in large part on their oceanic geochemistry, physical processes, and biological uptake. Whereas radioactivity on land can be resampled and its distribution mapped, releases to the marine environment are harder to characterize owing to variability in ocean currents and the general challenges of sampling at sea. Five years later, it is appropriate to review what happened in terms of the sources, transport, and fate of these radionuclides in the ocean. In addition to the oceanic behavior of these contaminants, this review considers the potential health effects and societal impacts.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 222
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Radionuclide', 'Environmental science', 'Oceanography', 'Overheating (electricity)', 'Nuclear power', 'Seawater', 'Earth science', 'Geology', 'Ecology', 'Physics', 'Quantum mechanics', 'Biology']

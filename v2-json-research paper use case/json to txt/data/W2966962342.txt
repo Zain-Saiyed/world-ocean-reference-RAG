@@ -1,0 +1,12 @@
+ID: W2966962342
+TITLE: An atlas of protected hydrothermal vents
+AUTHOR: ['Elisabetta Menini', 'C. L. Van Dover']
+ABSTRACT:
+Active hydrothermal vents are valued worldwide because of the importance of their biodiversity and their influence on scientific discovery and insight about life on Earth and elsewhere in the Universe. There exist at least 20 areas and area networks with conservation measures for deep-sea hydrothermal vents, established by 11 countries and three Regional Fisheries Management Organisations, in six oceanic regions. Area-based management tools (ABMT) implemented by these countries illustrate multiple categories and means of protection and management of these rare and vulnerable habitats. Some ABMTs only regulate bottom and deep-trawling fisheries activities, others manage additional activities such as mining, scientific research, and bioprospecting, while still others protect active hydrothermal vents through broad conservation interventions. This atlas summarizes the "who", "what", "when", "where" of protected hydrothermal vents worldwide and underscores recognition of the importance of hydrothermal-vent ecosystems by coastal States.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Hydrothermal vent', 'Trawling', 'Biodiversity', 'Hydrothermal circulation', 'Fishery', 'Bioprospecting', 'Habitat', 'Environmental resource management', 'Oceanography', 'Ecology', 'Geography', 'Environmental science', 'Geology', 'Fishing', 'Biology', 'Paleontology']

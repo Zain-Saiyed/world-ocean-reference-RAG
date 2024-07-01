@@ -1,0 +1,12 @@
+ID: W2899293948
+TITLE: Modern slavery and the race to fish
+AUTHOR: ['David Tickler', 'Jessica J. Meeuwig', 'Katharine Bryant', 'Fiona David', 'J. A. H. Forrest', 'Elise Gordon', 'Jacqueline Joudo Larsen', 'Beverly Z. L. Oh', 'Daniel Pauly', 'U. Rashid Sumaila', 'Dirk Zeller']
+ABSTRACT:
+Marine fisheries are in crisis, requiring twice the fishing effort of the 1950s to catch the same quantity of fish, and with many fleets operating beyond economic or ecological sustainability. A possible consequence of diminishing returns in this race to fish is serious labour abuses, including modern slavery, which exploit vulnerable workers to reduce costs. Here, we use the Global Slavery Index (GSI), a national-level indicator, as a proxy for modern slavery and labour abuses in fisheries. GSI estimates and fisheries governance are correlated at the national level among the major fishing countries. Furthermore, countries having documented labour abuses at sea share key features, including higher levels of subsidised distant-water fishing and poor catch reporting. Further research into modern slavery in the fisheries sector is needed to better understand how the issue relates to overfishing and fisheries policy, as well as measures to reduce risk in these labour markets.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-07118-9.pdf
+CITED BY COUNT: 95
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Overfishing', 'Fishing', 'Fishery', 'Exploit', 'Corporate governance', 'Fish stock', 'Business', 'Sustainability', 'Fisheries management', 'Fishing industry', 'Fisheries law', 'Fish <Actinopterygii>', 'Natural resource economics', 'Economics', 'Ecology', 'Finance', 'Computer security', 'Computer science', 'Biology']
