@@ -64,8 +64,56 @@ Your response should be:
 
 Answer response:
 """
+PROMPT_TEMPLATE_SUMMARY = """
+You are an expert marine scientist assistant tasked with summarizing research papers related to the Second World Ocean Assessment.
 
-models = ["phi3", "llama2"]
+Context: 
+{context}
+
+Instructions:
+1. Analyze the context and synthesize their key information.
+2. Create a comprehensive summary that integrates insights from all relevant papers in Context.
+3. Structure your summary as follows:
+
+   a. Overview (100-150 words)
+   Provide a high-level summary of the main themes and findings across all papers.
+
+   b. Key Findings (3-5 bullet points)
+   List the most significant discoveries or conclusions from the papers.
+
+   c. Methodologies (50-75 words)
+   Briefly describe the primary research methods used across the studies.
+
+   d. Comparative Analysis (75-100 words)
+   Highlight any notable similarities or differences between the papers' approaches or results.
+
+   e. Research Implications (50-75 words)
+   Summarize the broader implications of these findings for marine science or policy.
+
+   f. Future Directions (50-75 words)
+   Identify gaps in current knowledge or areas for future research as mentioned in the papers.
+
+   g. Key Terms and Concepts
+   Define 3-5 important technical terms or concepts crucial to understanding the research.
+
+4. Cite the relevant document Title in your summary using the format [1], [2], etc. and list them at the end from the context.
+5. Aim for clarity, conciseness, and accuracy in your summary.
+6. Stick strictly to the information presented in the documents; avoid speculation or external information.
+7. If the question is out of context or not clear based on the available documents, respond with: "That question is out of the scope of the available documents."
+
+Your summary should be:
+- Comprehensive, covering the main points from all relevant papers
+- Accurate and fact-based
+- Well-structured according to the outline provided
+- Properly cited using the document IDs
+
+Summary:
+"""
+
+models = ["llama3", "phi3:14b", ]
+model_names = ["model_1 - Llama3 [8B]","model_2 - Phi3 medium [14B]", ]
+# models = ["llama3", "llama3"]
+# model_names = [ "model_1 - Llama3 [8B]", "model_2 - Llama3 [8B]"]
 
 if "init_status" not in st.session_state:
     st.session_state["init_status"] = False
@@ -82,8 +130,9 @@ def initialize():
     # Prepare the models
     for idx, model_name in enumerate(models):
         st.session_state[f"model_{idx+1}"] = Ollama(model=model_name)
+        print(f"...Loaded {model_name}")
     
-def query_rag(query_text: str, model_name:str):
+def query_rag(query_text: str, model_name:str, summary:bool):
     # embedding_function = st.session_state["embedding_function"]
     db = st.session_state["db"] 
     model = st.session_state[model_name]
@@ -107,7 +156,10 @@ def query_rag(query_text: str, model_name:str):
 
         context_text = "\n\n---\n\n".join(context_entries)
         
-        prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
+        if summary:
+            prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE_SUMMARY)
+        else:
+            prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
         prompt = prompt_template.format(context=context_text, question=query_text, none="I do not know about this one!")
 
     with st.spinner(f"{model_name.replace('_',' ')} is processing query..."):
@@ -118,11 +170,8 @@ def query_rag(query_text: str, model_name:str):
 
     sources_with_scores = [(doc.metadata.get("id", None), score) for doc, score in results]
 
-    # Sort the list based on score in descending order
     sorted_sources = sorted(sources_with_scores, key=lambda x: x[1], reverse=True)
 
-    # If you need separate lists for sources and scores
-    
     return response_text, sorted_sources, end_time
 
 # Function to display PDF
@@ -194,9 +243,14 @@ def display_sample_prompts():
         
         if selected_prompt:
             if st.button("Use Selected Prompt"):
+                st.session_state.query_text = selected_prompt
+
                 return selected_prompt
     
     return None
+
+def update_query_text():
+    st.session_state.query_text = st.session_state.query_input
 
 
 def main():
@@ -218,6 +272,12 @@ def main():
             "What are the major sources of marine pollution?"
         ]
 
+        if 'query_text' not in st.session_state:
+            st.session_state.query_text = ""
+
+        with st.sidebar:
+            mode = st.radio("Select Mode:", ["Summarization", "Chat"])
+
 
     # Streamlit UI
     st.title("LLM RAG-Ocean: Navigate World Ocean Assessment PDF References")
@@ -229,20 +289,29 @@ def main():
     col1, col2 = st.columns([3, 1])
     
     with col1:
+        # st.write(st.session_state.query_text or selected_prompt)
         query_text = st.text_area("Enter your query:", 
-                                value= selected_prompt if selected_prompt else "",
-                                placeholder= "Type your question here...", 
+                                value= st.session_state.query_text,
+                                placeholder= "Type your question here...",          
                                 help= "Press Enter to add a new line. Use Shift+Enter to submit.", 
+                                key= "query_input",
+                                # on_change=update_query_text,
                                 max_chars= 1000, height= 100)
+        if st.session_state.query_text != query_text:
+            st.session_state.query_text = query_text
+            
     with col2:
         st.write('<div style="display: flex; justify-content: center; align-items: center; height: 55px;">', unsafe_allow_html=True)
-        ask_button = st.button("Ask", type="primary", use_container_width=True,)
+        ask_button = st.button("Summarize" if mode=="Summarization" else "Ask", type="primary", use_container_width=True,)
         st.write('</div>', unsafe_allow_html=True)
+
     
-    if ask_button or selected_prompt:
-        if query_text:
-            for model_name in ["model_1", "model_2"]:
-                response, sources, response_time = query_rag(query_text, model_name)
+    if ask_button:
+        query_to_ask_model = st.session_state.query_text
+        print(query_to_ask_model)
+        if query_to_ask_model: 
+            for model_name in model_names:
+                response, sources, response_time = query_rag(query_to_ask_model, model_name.split('-')[0].strip(),summary=(mode == "Summarization"))
                 with st.expander(f"Response - {model_name.replace('_',' ')}"):
                     
                     st.write(f"*Generated in {response_time:.2f} seconds.*")
@@ -253,9 +322,7 @@ def main():
         else:
             st.warning("Please enter a query or select a sample prompt.")
 
-
 if __name__ == "__main__":
-    
     main()
 
 
