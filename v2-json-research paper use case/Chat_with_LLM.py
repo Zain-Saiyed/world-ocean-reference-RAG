@@ -51,7 +51,7 @@ Instructions:
 2. Utilize the retrieved information to identify the most relevant research documents.
 3. Synthesize information from the relevant abstracts to formulate a comprehensive answer.
 4. Provide a clear, concise, and factual response that directly addresses the user's question.
-5. Cite the relevant document IDs in your response using the format [1], [2], etc. and at the end list them.
+5. Cite the relevant 'source' document IDs in your response using the format [Citations: [1] (the source), [2] (the source), etc.] and at the end list them.
 6. If the question is out of context or unclear based on the available documents, respond with: "That question is out of the scope of the available documents."
 7. If the information requested is not present in the available documents, respond with: "The information you're seeking is not available in the referenced documents."
 8. Stick strictly to the facts presented in the documents; do not generate speculative answers.
@@ -170,7 +170,7 @@ def query_rag(query_text: str, model_name:str, summary:bool):
 
     sources_with_scores = [(doc.metadata.get("id", None), score) for doc, score in results]
 
-    sorted_sources = sorted(sources_with_scores, key=lambda x: x[1], reverse=True)
+    sorted_sources = sorted(sources_with_scores, key=lambda x: x[1], reverse=False)
 
     return response_text, sorted_sources, end_time
 
@@ -191,6 +191,12 @@ def display_sources( sources ):
         # pdf_files = list(set([re.search(r'pdf_data/(.*?\.pdf)', source).group(1) for source, _score in sources if re.search(r'pdf_data/(.*?\.pdf)', source)]))
         pdf_sources = [source.split(":")[0].split("/")[1] for source, _ in sources]
         scores = [round(score,2) for _, score in sources]
+
+        for idx, (pdf_file, score) in enumerate(zip(pdf_sources,scores)):
+            st.write(f"{idx+1}◦ {pdf_file} [score: {score}]")
+
+        st.write("---")
+
         # Display PDFs
         num_columns = 2  # Adjust the number of columns as needed
         col1, col2 = st.columns(num_columns)
