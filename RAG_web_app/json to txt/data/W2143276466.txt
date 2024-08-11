@@ -1,0 +1,12 @@
+ID: W2143276466
+TITLE: Estimating relative energetic costs of human disturbance to killer whales (Orcinus orca)
+AUTHOR: ['Rob Williams', 'David Lusseau', 'Philip S. Hammond']
+ABSTRACT:
+This study examined the activities of “northern resident” killer whales (Orcinus orca) in Johnstone Strait, British Columbia, Canada, in July and August, from 1995 to 2002. Disturbance from boat traffic has been identified as a conservation concern for this population. The primary aims of the study were to test whether boat presence altered whales’ activities, and if so, to estimate whether behavioural responses were likely to have carried energetic costs. A land-based observation site near a vessel-exclusion marine protected area allowed us to conduct a natural experiment to monitor whale activities in the presence and absence of boats. Using Time-Discrete Markov Chain models, boat presence was linked to significant changes in the probability that focal whales would switch from one activity state to another, which led to significantly different activity budgets in the presence and absence of boats. We estimated that the energetic cost of meeting these budgets differed by only 3–4%. In the presence of boats, however, whales reduced their time spent feeding and the time spent rubbing their bodies on smooth pebble beaches. These lost feeding opportunities could have resulted in a substantial (18%) estimated decrease in energy intake. Our sensitivity analysis provides preliminary evidence that disturbance could carry higher costs to killer whales in terms of reducing energy acquisition than increasing energetic demand, and future research should address this directly. Meanwhile, our observations suggest that protected areas would confer greatest conservation benefit to endangered killer whale populations if they were designed to protect important foraging areas.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 324
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Whale', 'Foraging', 'Disturbance (geology)', 'Fishery', 'Endangered species', 'Population', 'Geography', 'Ecology', 'Wildlife conservation', 'Environmental science', 'Wildlife', 'Habitat', 'Biology', 'Paleontology', 'Demography', 'Sociology']

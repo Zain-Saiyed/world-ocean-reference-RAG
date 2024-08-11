@@ -1,0 +1,12 @@
+ID: W2339184257
+TITLE: Are we missing important areas in pelagic marine conservation? Redefining conservation hotspots in the ocean
+AUTHOR: ['Dana K. Briscoe', 'Sara M. Maxwell', 'Raphael M. Kudela', 'Larry B. Crowder', 'Donald A. Croll']
+ABSTRACT:
+The protection of biodiversity is one of the most important goals in terrestrial and marine conservation.Marine conservation approaches have traditionally followed the example of terrestrial initiatives.However, patterns, processes, habitats, and threats differ greatly between the 2 systems -and even within the marine environment.As a result, there is still a lack of congruence as to how to best identify and prioritize conservation approaches moving from the static terrestrial and nearshore realm into a more fluid, 3-dimensional pelagic realm.To address this problem, we investigate how the conservation science literature has been used to inform and guide management strategies in the marine system from coastal to pelagic environments.As cumulative impacts on the health of the oceans continue to increase, conservation priorities have shifted to include highly dynamic areas of the pelagic marine system.By evaluating whether priorities match science with current place-based management approaches (i.e.marine protected areas, MPAs), we identify important gaps that must be considered in current conservation schemes.Effective pelagic MPA design requires monitoring and evaluation across multiple physical, biological, and human dimensions.Because many threatened and exploited marine species move through an ephemeral and ever-changing environment, our results highlight the need to move beyond traditional, 2-dimensional approaches to marine conservation, and into dynamic management approaches that incorporate metrics of biodiversity as well as oceanographic features known to promote multilevel, trophic productivity.
+
+SOURCE: Endangered species research
+PDF URL: https://www.int-res.com/articles/esr2016/29/n029p229.pdf
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Marine conservation', 'Marine protected area', 'Conservation biology', 'Geography', 'Endangered species', 'Ecology', 'Oceanography', 'Habitat', 'Biology', 'Geology']

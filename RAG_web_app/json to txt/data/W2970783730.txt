@@ -1,0 +1,12 @@
+ID: W2970783730
+TITLE: Scoping Global Aquaculture Occupational Safety and Health
+AUTHOR: ['Lissandra Souto Cavalli', 'Mohamed F. Jeebhay', 'Flavielle Blanco Marques', 'Robert J. Mitchell', 'Barbara Neis', 'Dorothy Ngajilo', 'Andrew Watterson']
+ABSTRACT:
+Objectives: In 2017 the Food and Agriculture Organization (FAO) Committee on Fisheries committed to prioritize occupational safety and health issues in aquaculture (AOSH). An international team was established to synthesize OSH knowledge concerning more than 19 million, often vulnerable, aquaculture workers found globally.Methods: The study was conducted as a desktop scoping exercise using both peer-reviewed and gray literature and the knowledge and expertize of an international panel. Collated information used a standard proforma. Panel members developed draft national and regional AOSH profiles outlining occupational hazards contributing to occupational injuries, diseases, and known solutions. These were work-shopped and refined after gathering additional information and used to compile the first global scoping review report on AOSH.Results: Synthesized results revealed multiple hazards, significant global knowledge gaps and some successful and unsuccessful global, national and industry-specific AOSH policies, practices and standards along the primary supply chain, in marine and freshwater contexts. Some constructive initiatives by the International Labor Organization (ILO) and FAO, industry, labor and civil society groups in a range of employment and geographical settings and across diverse populations of workers were identified.Conclusion: Global commitment to AOSH should be given the same focus as product quality, biosecurity, food safety and environmental sustainability in the sector. This needs development and implementation of integrated AOSH actions appropriate for diverse settings especially in low and middle-income countries encompassing greater uptake of international codes, better risk assessment and OSH management, adoption of technological innovations, effective OSH regulation and enforcement, adequate resources, training and information.
+
+SOURCE: Journal of agromedicine
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Occupational safety and health', 'Business', 'Enforcement', 'Biosecurity', 'Sustainability', 'Work (physics)', 'Environmental resource management', 'Engineering', 'Political science', 'Medicine', 'Economics', 'Mechanical engineering', 'Ecology', 'Pathology', 'Law', 'Biology']

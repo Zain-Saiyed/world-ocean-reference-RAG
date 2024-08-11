@@ -1,0 +1,12 @@
+ID: W2218465512
+TITLE: A methodology for assessing and mapping pressure of human activities on coastal region based on stepwise logic decision process and GIS technology
+AUTHOR: ['Zhengxuan Wu', 'Zhiming Yu', 'Xiuxian Song', 'Yanfeng Li', 'Xihua Cao', 'Yunbin Yuan']
+ABSTRACT:
+Assessing and mapping impacts or pressures of human activities on coastal region help managers and policy makers have insight about the degree and magnitude of human influence, thus important in decision making of management practice, e.g. rationalize spatial distribution or management of human industry. In this research, a methodology for assessing and mapping pressures of a variety of human activities was described. The intensity of each activity at its source was obtained based on a stepwise logic decision process. Then the pressure of each human activity on the coastal area was calculated based on weighted distance from the activity by spatial analysis tools in Geographic Information System (GIS). Considering different types and pressures of activities, a weighting factor for each activity was determined through analytic hierarchy process (AHP). Finally maps of multiple pressures were combined into a single cumulative human impact on coastal regions. The methodology was applied to Jiaozhou Bay and results showed that human activities impact almost every part of the bay. Spatially, the pressure intensity in the east and northeast part were the highest due to a variety of intensive human activities surrounding this part. Pressures caused by sewage/riverine discharge, anchor ground and urbanization were relatively high among all the human pressures. Coastal management authorities should bear in mind that population and industry in the east and northeast coast of Jiaozhou Bay may already be saturated and call for more rationalized distribution of human activities for the whole Jiaozhou Bay.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Bay', 'Analytic hierarchy process', 'Weighting', 'Coastal management', 'Urbanization', 'Environmental resource management', 'Population', 'Geographic information system', 'Hierarchy', 'Distribution (mathematics)', 'Environmental science', 'Geography', 'Operations research', 'Civil engineering', 'Cartography', 'Ecology', 'Engineering', 'Mathematics', 'Medicine', 'Mathematical analysis', 'Demography', 'Market economy', 'Radiology', 'Sociology', 'Biology', 'Economics']

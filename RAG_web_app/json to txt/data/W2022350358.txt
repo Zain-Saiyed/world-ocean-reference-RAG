@@ -1,0 +1,12 @@
+ID: W2022350358
+TITLE: Exceptional twentieth-century slowdown in Atlantic Ocean overturning circulation
+AUTHOR: ['Stefan Rahmstorf', 'Jason E. Box', 'Georg Feulner', 'Michael Mann', 'A. Robinson', 'Scott Rutherford', 'Erik Schaffernicht']
+ABSTRACT:
+Possible changes in Atlantic meridional overturning circulation (AMOC) provide a key source of uncertainty regarding future climate change. Maps of temperature trends over the twentieth century show a conspicuous region of cooling in the northern Atlantic. Here we present multiple lines of evidence suggesting that this cooling may be due to a reduction in the AMOC over the twentieth century and particularly after 1970. Since 1990 the AMOC seems to have partly recovered. This time evolution is consistently suggested by an AMOC index based on sea surface temperatures, by the hemispheric temperature difference, by coral-based proxies and by oceanic measurements. We discuss a possible contribution of the melting of the Greenland Ice Sheet to the slowdown. Using a multi-proxy temperature reconstruction for the AMOC index suggests that the AMOC weakness after 1975 is an unprecedented event in the past millennium (p > 0.99). Further melting of Greenland in the coming decades could contribute to further weakening of the AMOC. Cooling has been observed over the past century in the northern Atlantic, and this study presents multiple lines of evidence that suggest it may be a result of a reduction in the Atlantic meridional overturning circulation. The decrease in this circulation, particularly after 1970, seems to be unprecedented in the past millennium and melt from the Greenland Ice Sheet may be a contributing factor.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 742
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Shutdown of thermohaline circulation', 'Climatology', 'Proxy (statistics)', 'Slowdown', 'Greenland ice sheet', 'North Atlantic Deep Water', 'Gulf Stream', 'Ice sheet', 'Sea surface temperature', 'Ocean current', 'Thermohaline circulation', 'Geology', 'Oceanography', 'Political science', 'Law', 'Machine learning', 'Computer science']

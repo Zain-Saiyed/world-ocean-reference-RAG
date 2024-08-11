@@ -1,0 +1,12 @@
+ID: W2015935872
+TITLE: Concentration and vertical flux of Fukushima-derived radiocesium in sinking particles from two sites in the Northwestern Pacific Ocean
+AUTHOR: ['Makio C. Honda', 'Hiroyoshi Kawakami', 'Shuichi Watanabe', 'Toshiro Saino']
+ABSTRACT:
+Abstract. At two stations in the western North Pacific, K2 in the subarctic gyre and S1 in the subtropical gyre, time-series sediment traps were collecting sinking particles when the Fukushima Daiichi Nuclear Power Plant (FNPP1) accident occurred on 11 March 2011. Radiocesium (134Cs and 137Cs) derived from the FNPP1 accident was detected in sinking particles collected at 500 m in late March 2011 and at 4810 m in early April 2011 at both stations. The sinking velocity of 134Cs and 137Cs was estimated to be 22 to 71 m day−1 between the surface and 500 m and &gt;180 m day−1 between 500 m and 4810 m. 137Cs concentrations varied from 0.14 to 0.25 Bq g−1 dry weight. These values are higher than those of surface seawater, suspended particles, and zooplankton collected in April 2011. Although the radiocesium may have been adsorbed onto or incorporated into clay minerals, correlations between 134Cs and lithogenic material were not always significant; therefore, the form of the cesium associated with the sinking particles is still an open question. The total 137Cs inventory by late June at K2 and by late July at S1 was 0.5 to 1.7 Bq m−2 at both depths. Compared with 137Cs input from both stations by April 2011, estimated from the surface 137Cs concentration and mixed-layer depth and by assuming that the observed 137Cs flux was constant throughout the year, the estimated removal rate of 137Cs from the upper layer (residence time in the upper layer) was 0.3 to 1.5% yr−1 (68 to 312 yr). The estimated removal rates and residence times are comparable to previously reported values after the Chernobyl accident (removal rate: 0.2–1%, residence time: 130–390 yr).
+
+SOURCE: Biogeosciences
+PDF URL: https://bg.copernicus.org/articles/10/3525/2013/bg-10-3525-2013.pdf
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'Environmental science', 'Mixed layer', 'Flux (metallurgy)', 'Sediment trap', 'Subarctic climate', 'Sediment', 'Oceanography', 'Caesium', 'Seawater', 'Radionuclide', 'Atmospheric sciences', 'Environmental chemistry', 'Subtropics', 'Geology', 'Water column', 'Chemistry', 'Physics', 'Paleontology', 'Organic chemistry', 'Biology', 'Quantum mechanics', 'Fishery']

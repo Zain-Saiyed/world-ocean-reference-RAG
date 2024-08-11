@@ -1,0 +1,12 @@
+ID: W2159419978
+TITLE: Patterns of top‐down control in a seagrass ecosystem: could a roving apex predator induce a behaviour‐mediated trophic cascade?
+AUTHOR: ['Derek A. Burkholder', 'Michael R. Heithaus', 'James W. Fourqurean', 'Aaron J. Wirsing', 'Lawrence M. Dill']
+ABSTRACT:
+1. The loss of large-bodied herbivores and/or top predators has been associated with large-scale changes in ecosystems around the world, but there remain important questions regarding the contexts in which such changes are most likely and the mechanisms through which they occur, particularly in marine ecosystems. 2. We used long-term exclusion cages to examine the effects of large grazers (sea cows, Dugong dugon; sea turtles Chelonia mydas) on seagrass community structure, biomass and nutrient dynamics. Experiments were conducted in habitats with high risk of predation (interior of shallow banks) and lower risk (edges of banks) to elucidate whether nonconsumptive (risk) effects of tiger sharks (Galeocerdo cuvier), a roving predator, structure herbivore impacts on seagrasses. 3. In lower-risk habitats, excluding large herbivores resulted in increased leaf length for Cymodocea angustata and Halodule uninervis. C. angustata shoot densities nearly tripled when released from herbivory, while H. uninervis nearly disappeared from exclusion cages over the course of the study. 4. We found no support for the hypothesis that grazing increases seagrass nutrient content. Instead, phosphorus content was higher in seagrasses within exclosures. This pattern is consistent with decreased light availability in the denser C. angustata canopies that formed in exclosures, and may indicate that competition for light led to the decrease in H. uninervis. 5. Impacts of large grazers were consistent with a behaviour-mediated trophic cascade (BMTC) initiated by tiger sharks and mediated by risk-sensitive foraging by large grazers. 6, Our results suggest that large-bodied grazers likely played important roles in seagrass ecosystem dynamics historically and that roving predators are capable of initiating a BMTC. Conservation efforts in coastal ecosystems must account for such interactions or risk unintended consequences.
+
+SOURCE: Journal of animal ecology
+PDF URL: None
+CITED BY COUNT: 157
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Seagrass', 'Trophic cascade', 'Herbivore', 'Biology', 'Apex predator', 'Trophic level', 'Ecology', 'Predation', 'Ecosystem', 'Biomass (ecology)', 'Marine ecosystem', 'Habitat', 'Food web', 'Fishery']

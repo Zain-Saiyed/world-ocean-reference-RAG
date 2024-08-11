@@ -1,0 +1,12 @@
+ID: W2565721251
+TITLE: The interaction of climate change and methane hydrates
+AUTHOR: ['C. Ruppel', 'J. D. Kessler']
+ABSTRACT:
+Abstract Gas hydrate, a frozen, naturally‐occurring, and highly‐concentrated form of methane, sequesters significant carbon in the global system and is stable only over a range of low‐temperature and moderate‐pressure conditions. Gas hydrate is widespread in the sediments of marine continental margins and permafrost areas, locations where ocean and atmospheric warming may perturb the hydrate stability field and lead to release of the sequestered methane into the overlying sediments and soils. Methane and methane‐derived carbon that escape from sediments and soils and reach the atmosphere could exacerbate greenhouse warming. The synergy between warming climate and gas hydrate dissociation feeds a popular perception that global warming could drive catastrophic methane releases from the contemporary gas hydrate reservoir. Appropriate evaluation of the two sides of the climate‐methane hydrate synergy requires assessing direct and indirect observational data related to gas hydrate dissociation phenomena and numerical models that track the interaction of gas hydrates/methane with the ocean and/or atmosphere. Methane hydrate is likely undergoing dissociation now on global upper continental slopes and on continental shelves that ring the Arctic Ocean. Many factors—the depth of the gas hydrates in sediments, strong sediment and water column sinks, and the inability of bubbles emitted at the seafloor to deliver methane to the sea‐air interface in most cases—mitigate the impact of gas hydrate dissociation on atmospheric greenhouse gas concentrations though. There is no conclusive proof that hydrate‐derived methane is reaching the atmosphere now, but more observational data and improved numerical models will better characterize the climate‐hydrate synergy in the future.
+
+SOURCE: Reviews of geophysics
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2016RG000534
+CITED BY COUNT: 587
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Methane', 'Permafrost', 'Clathrate hydrate', 'Greenhouse gas', 'Atmospheric methane', 'Environmental science', 'Hydrate', 'Global warming', 'Arctic', 'Geology', 'Earth science', 'Atmospheric sciences', 'Climate change', 'Oceanography', 'Chemistry', 'Organic chemistry']

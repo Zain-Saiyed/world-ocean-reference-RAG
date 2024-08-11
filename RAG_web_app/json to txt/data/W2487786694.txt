@@ -1,0 +1,12 @@
+ID: W2487786694
+TITLE: Habitat suitability models for predicting the occurrence of vulnerable marine ecosystems in the seas around New Zealand
+AUTHOR: ['Owen F. Anderson', 'John M. Guinotte', 'Ashley A. Rowden', 'Dianne M. Tracey', 'Kevin Mackay', 'Malcolm R. Clark']
+ABSTRACT:
+Spatial management planning for vulnerable marine ecosystems (VME) across broad areas of un-sampled seafloor requires detailed predictions of species distribution. We utilised two habitat suitability modelling techniques, boosted regression trees (BRT) and maximum entropy (MaxEnt), to create potential distribution maps for 11 VME indicator taxa in the New Zealand area and adjacent seas. New bathymetry data were combined with existing environmental, chemical and physical data to produce a set of 45 predictor variables describing conditions at the seafloor. Nine of these variables were selected for use in the models based on low covariance and high explanatory power. Historical biological survey data were used to provide models with absence data (BRT) or target-group background data (MaxEnt). Model agreement was high, with each model predicting similar areas of suitable habitat both in the vicinity of known VME indicator taxa presence locations as well as across broad regions of un-sampled seafloor. Model performance measures, including cross-validation testing against sets of spatially independent data, did not clearly indicate a preferred modelling method across all taxa. Previous habitat suitability modelling efforts have rarely accounted for model precision, and in this study we used a bootstrap re-sampling technique to produce model uncertainty maps to accompany each habitat suitability map. Because of the similar performance of BRT and MaxEnt methods in this study, we conclude that the best approach to incorporating the results into decision-support tools for spatial conservation planning is to average predictions and uncertainty from both.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Bathymetry', 'Habitat', 'Environmental science', 'Rugosity', 'Geography', 'Ecology', 'Physical geography', 'Cartography', 'Biology']

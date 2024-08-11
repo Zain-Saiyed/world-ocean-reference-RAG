@@ -1,0 +1,12 @@
+ID: W1989655334
+TITLE: Discrimination of Tropical Mangroves at the Species Level with EO-1 Hyperion Data
+AUTHOR: ['Werapong Koedsin', 'Chaichoke Vaiphasa']
+ABSTRACT:
+Understanding the dynamics of mangroves at the species level is the key for securing sustainable conservation of mangrove forests around the globe.This study demonstrates the capability of the hyper-dimensional remote sensing data for discriminating diversely-populated tropical mangrove species.It was found that five different tropical mangrove species of Southern Thailand, including Avicennia alba, Avicennia marina, Bruguiera parviflora, Rhizophora apiculata, and Rhizophora mucronata, were correctly classified.The selected data treatment (a well-established spectral band selector) helped improve the overall accuracy from 86% to 92%, despite the remaining confusion between the two members of the Rhizophoraceae family and the pioneer species.It is therefore anticipated that the methodology presented in this study can be used as a practical guideline for detailed mangrove species mapping in other study areas.The next stage of this work will be to exploit the differences between the leaf textures of the two Rhizophoraceae mangroves in order to refine the classification outcome.
+
+SOURCE: Remote sensing
+PDF URL: https://www.mdpi.com/2072-4292/5/7/3562/pdf?version=1403132804
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Mangrove', 'Rhizophoraceae', 'Rhizophora mucronata', 'Rhizophora', 'Avicennia', 'Avicennia marina', 'Bruguiera', 'Tropics', 'Geography', 'Biology', 'Ecology', 'Forestry']

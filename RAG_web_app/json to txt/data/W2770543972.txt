@@ -1,0 +1,12 @@
+ID: W2770543972
+TITLE: Evaluating the threat of IUU fishing to sea turtles in the Indian Ocean and Southeast Asia using expert elicitation
+AUTHOR: ['Kimberly A. Riskas', 'Renae Tobin', 'Mariana M. P. B. Fuentes', 'Mark Hamann']
+ABSTRACT:
+Illegal, unreported and unregulated (IUU) fishing is a pervasive issue that affects economic, social, regulatory and environmental systems in all ocean basins. Research on the ecological impacts of IUU fishing has been relatively underrepresented, with minimal investigation into how IUU fishing may negatively affect populations of marine megafauna, such as sea turtles. To address this knowledge gap and identify priority areas for future research and management, we evaluated IUU fishing as a threat to a marine megafauna species group (sea turtles) in the Indian Ocean and Southeast Asia region (IOSEA). We designed and distributed an online survey to experts in the fields of sea turtle research, marine conservation, fisheries management, consulting and NGOs throughout IOSEA. Our results reveal that IUU fishing is likely to have potentially significant impacts on sea turtle populations in IOSEA through targeted exploitation and international wildlife trafficking. Addressing domestic IUU fishing needs to be actioned as a high priority within the study area, as does the issue of patrolling maritime borders to deter illegal cross-border transhipment. There is a demonstrable need to strengthen MCS and employ regional coordination to help build capacity in less-developed nations. Future research requirements include evaluating IUU fishing as a threat to sea turtles and other threatened marine species at multiple scales, further investigation into market forces throughout IOSEA, and examination of potential barriers to implementing management solutions. We advocate for introducing sea turtle-specific measures into IUU fishing mitigation strategies to help maximize the opportunity for positive outcomes in creating healthy ecosystems and stable communities.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishing', 'Sea turtle', 'Fishery', 'Marine protected area', 'Megafauna', 'International waters', 'Turtle (robot)', 'Geography', 'Bycatch', 'Environmental resource management', 'Marine ecosystem', 'Commercial fishing', 'Business', 'Environmental planning', 'Ecosystem', 'Ecology', 'Environmental science', 'Biology', 'Habitat', 'Pleistocene', 'Archaeology']

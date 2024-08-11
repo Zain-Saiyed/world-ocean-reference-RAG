@@ -1,0 +1,12 @@
+ID: W2130878599
+TITLE: Carbonate chemistry in the coastal zone responds more strongly to eutrophication than ocean acidification
+AUTHOR: ['Alberto V. Borgesa', 'Nathalie Gypens']
+ABSTRACT:
+The accumulation of anthropogenic CO 2 in the ocean has altered carbonate chemistry in surface waters since preindustrial times and is expected to continue to do so in the coming centuries. Changes in carbonate chemistry can modify the rates and fates of marine primary production and calcification. These modifications can in turn lead to feedback on increasing atmospheric CO 2 . We show, using a numerical model, that in highly productive nearshore coastal marine environments, the effect of eutrophication on carbon cycling can counter the effect of ocean acidification on the carbonate chemistry of surface waters. Also, changes in river nutrient delivery due to management regulation policies can lead to stronger changes in carbonate chemistry than ocean acidification. Whether antagonistic or synergistic, the response of carbonate chemistry to changes of nutrient delivery to the coastal zone (increase or decrease, respectively) is stronger than ocean acidification.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.2010.55.1.0346
+CITED BY COUNT: 295
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Carbonate', 'Eutrophication', 'Oceanography', 'Ocean chemistry', 'Total inorganic carbon', 'Environmental science', 'Nutrient', 'Carbon dioxide', 'Calcium carbonate', 'Environmental chemistry', 'Chemistry', 'Seawater', 'Geology', 'Organic chemistry']

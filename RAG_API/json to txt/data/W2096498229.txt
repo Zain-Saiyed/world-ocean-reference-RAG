@@ -1,0 +1,12 @@
+ID: W2096498229
+TITLE: Environmental predictors and turnover of biota along a seamount chain
+AUTHOR: ['Timothy D. O’Hara', 'Mireille Consalvey', 'Helena Passeri Lavrado', 'Karen Stocks']
+ABSTRACT:
+Abstract Biological communities on seamounts are widely regarded as being distinct from those in other offshore habitats, but it is unclear what factors drive any differences. We used invertebrate and algal data from the extensive REVIZEE benthic surveys from the continental margin and seamounts in the Southwest Atlantic Ocean off Eastern Brazil to investigate environmental predictors of seamount assemblage composition. We found that seamount summit samples were significantly different from those of the continental shelf for both invertebrates and algae. Invertebrate samples from the shelf showed more spatial variability than those from seamounts, congruent with the increased variability in both sampled sea‐floor habitats and oceanographic conditions recorded along the continental margin. The most important environmental predictors of assemblage composition across all habitats were distance from shore, temperature, dissolved oxygen and particulate organic carbon for invertebrates, and distance from shore, nitrate and phosphate concentrations for algae. Only distance from shore for invertebrates, and distance from shore, nitrate and phosphate concentrations for algae were consistently emphasised in analyses restricted to seamount and island samples. We found no support for the hypothesis that seamount assemblages in this region become less species rich with distance from the continental margin. However, algal samples did form a serial gradient of compositional turnover with distance from shore. In summary, the seamounts shared the same species pool as nearby continental margins but samples contained a different, equally rich, assemblage of species.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seamount', 'Oceanography', 'Biota', 'Invertebrate', 'Benthic zone', 'Continental shelf', 'Continental margin', 'Habitat', 'Geology', 'Shore', 'Ecology', 'Biology', 'Paleontology', 'Tectonics']

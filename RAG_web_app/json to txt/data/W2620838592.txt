@@ -1,0 +1,12 @@
+ID: W2620838592
+TITLE: Assessing groundwater availability of the Maldives under future climate conditions
+AUTHOR: ['Chenda Deng', 'Ryan T. Bailey']
+ABSTRACT:
+Abstract Groundwater resources of the Republic of the Maldives are threatened by a variety of factors including variable future rainfall patterns, continued population growth and associated pumping demands, rising sea level, and contamination from the land surface. This study assesses changes in groundwater availability due to variable rainfall patterns and sea level rise (SLR) in the coming decades, a key component of water resources management for the country. Using a suite of two‐dimensional density‐dependent groundwater flow models, time‐dependent thickness of the freshwater lens is simulated for a range of island sizes (200 to 1,100 m) during the time period of 2011 to 2050, with recharge to the freshwater lens calculated using rainfall patterns provided by general circulation models for the three distinct geographic regions of the Maldives. The effect of SLR on the freshwater lens is quantified using estimates of shoreline recession and associated decreases in island width. If rainfall is solely considered, groundwater availability is projected to increase, as lens thickness during the 2031–2050 time periods is slightly greater (1–5%) than during the 2011–2030 time period. However, including the impact of SLR indicates an overall decrease in lens thickness, with drastic decreases (60% to 100%) projected for small islands (200 m) and moderate decreases (12% to 14%) expected for 400 m islands, which accommodate one third of the national population. Similar methodologies can be used for other atoll island nations, such as the Republic of Marshall Islands, Federated States of Micronesia, and the Republic of Kiribati. For the Maldives, results from this study can be used in conjunction with population growth estimates to determine the feasibility of including groundwater in water resources planning and management for the country.
+
+SOURCE: Hydrological processes
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Groundwater recharge', 'Environmental science', 'Threatened species', 'Population', 'Shore', 'Groundwater', 'Climate change', 'Hydrology (agriculture)', 'Range (aeronautics)', 'Atoll', 'Aquifer', 'Geography', 'Oceanography', 'Physical geography', 'Geology', 'Ecology', 'Habitat', 'Geotechnical engineering', 'Materials science', 'Demography', 'Sociology', 'Reef', 'Composite material', 'Biology']

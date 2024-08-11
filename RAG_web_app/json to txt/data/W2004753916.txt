@@ -1,0 +1,12 @@
+ID: W2004753916
+TITLE: Resolving coastal conflicts using marine spatial planning
+AUTHOR: ['Arthur Omondi Tuda', 'Tim Stevens', 'Lynda D. Rodwell']
+ABSTRACT:
+We applied marine spatial planning (MSP) to manage conflicts in a multi-use coastal area of Kenya. MSP involves several steps which were supported by using geographical information systems (GISs), multi-criteria decision analysis (MCDA) and optimization. GIS was used in identifying overlapping coastal uses and mapping conflict hotspots. MCDA was used to incorporate the preferences of user groups and managers into a formal decision analysis procedure. Optimization was applied in generating optimal allocation alternatives to competing uses. Through this analysis three important objectives that build a foundation for future planning of Kenya's coastal waters were achieved: 1) engaging competing stakeholders; 2) illustrating how MSP can be adapted to aid decision-making in multi-use coastal regions; and 3) developing a draft coastal use allocation plan. The successful application of MSP to resolve conflicts in coastal regions depends on the level of stakeholder involvement, data availability and the existing knowledge base.
+
+SOURCE: Journal of environmental management
+PDF URL: None
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Stakeholder', 'Multiple-criteria decision analysis', 'Plan (archaeology)', 'Marine spatial planning', 'Environmental resource management', 'Decision analysis', 'Decision support system', 'Environmental planning', 'Operations research', 'Computer science', 'Geographic information system', 'Geography', 'Environmental science', 'Engineering', 'Remote sensing', 'Data mining', 'Political science', 'Statistics', 'Public relations', 'Mathematics', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W1979194351
+TITLE: Community dynamics over 14 years at the Eiffel Tower hydrothermal edifice on the Mid‐Atlantic Ridge
+AUTHOR: ['Daphné Cuvelier', 'Jozée Sarrazin', 'Ana Colaço', 'Jon Copley', 'Adrian G. Glover', 'Paul A. Tyler', 'Ricardo Serrão Santos', 'Daniel Desbruyères']
+ABSTRACT:
+The Lucky Strike hydrothermal vent field, situated on the Mid‐Atlantic Ridge (MAR), has been visited on a regular basis since 1992. The video imagery analyzed in this study originated from 10 cruises and was acquired either with the Nautile submersible or with the Remotely Operated Vehicle Victor 6000 between 1994 and 2008. Four faunal assemblages and two substratum types were identified on a large mussel‐dominated sulfide edifice named “Eiffel Tower.” Their dynamics over 14 yr were investigated both at the scale of the entire edifice, between the edifice sides, and at small patch scales, making this the first high‐time‐resolution long‐term variations study on the MAR. Overall percentage of biological colonization and overall mussel coverage were stable on a decadal scale. However, on shorter time scales as well as on smaller spatial scales, significant differences in microbial cover and in individual assemblage coverage and distribution were observed. The small fluctuations in the rather constant overall percentage of colonization (~ 50%) were explained by subtle changes in hydrothermal activity, which showed a significant negative correlation. However, not all variations occurring in the community structure could be explained by the hydrothermal activity, whereas the orientation of the edifice appeared to play an important role. We proposed a succession model for the shallower MAR fields, in addition to the first quantification of the rate of change in community dynamics at this slow‐spreading ridge. This rate of change appeared to be about 15% slower than that observed on sulfide edifices from faster‐spreading ridges in the Northeast Pacific.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.2011.56.5.1624
+CITED BY COUNT: 51
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Ridge', 'Hydrothermal vent', 'Hydrothermal circulation', 'Geology', 'Mid-Atlantic Ridge', 'Colonization', 'Submarine volcano', 'Ecological succession', 'Mussel', 'Volcano', 'Oceanography', 'Ecology', 'Paleontology', 'Biology']

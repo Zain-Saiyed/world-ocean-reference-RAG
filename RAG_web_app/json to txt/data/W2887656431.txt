@@ -1,0 +1,12 @@
+ID: W2887656431
+TITLE: Coral colonies in the eastern tropical Pacific: predation by Acanthaster cf. solaris
+AUTHOR: ['J. C. Rodríguez-Vilalobos', 'Arturo Ayala‐Bocos']
+ABSTRACT:
+The crown of thorns (CoTS; Acanthaster cf. solaris) have not been reported as an actual threat to reefs in the Gulf of California; however, in the Espiritu Santo Archipelago National Park, we have evidenced massive predation over scleractinian corals. Its abundance is now over outbreaks threshold value and it is higher than historical records
+
+SOURCE: Pacific conservation biology
+PDF URL: None
+CITED BY COUNT: 1
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Acanthaster', 'Predation', 'Coral', 'Archipelago', 'Reef', 'Coral reef', 'Fishery', 'Ecology', 'Abundance (ecology)', 'Geography', 'Great barrier reef', 'Biology']

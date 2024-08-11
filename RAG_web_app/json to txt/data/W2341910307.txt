@@ -1,0 +1,12 @@
+ID: W2341910307
+TITLE: Distribution of skates and sharks in the North Sea: 112 years of change
+AUTHOR: ['Camilla Sguotti', 'Christopher P. Lynam', 'Bernardo García‐Carreras', 'Jim Ellis', 'Georg H. Engelhard']
+ABSTRACT:
+How have North Sea skate and shark assemblages changed since the early 20th century when bottom trawling became widespread, whilst their environment became increasingly impacted by fishing, climate change, habitat degradation and other anthropogenic pressures? This article examines long-term changes in the distribution and occurrence of the elasmobranch assemblage of the southern North Sea, based on extensive historical time series (1902-2013) of fishery-independent survey data. In general, larger species (thornback ray, tope, spurdog) exhibited long-term declines, and the largest (common skate complex) became locally extirpated (as did angelshark). Smaller species increased (spotted and starry ray, lesser-spotted dogfish) as did smooth-hound, likely benefiting from greater resilience to fishing and/or climate change. This indicates a fundamental shift from historical dominance of larger, commercially valuable species to current prevalence of smaller, more productive species often of low commercial value. In recent years, however, some trends have reversed, with the (cold-water associated) starry ray now declining and thornback ray increasing. This shift may be attributed to (i) fishing, including mechanised beam trawling introduced in the 1960s-1970s, and historical target fisheries for elasmobranchs; (ii) climate change, currently favouring warm-water above cold-water species; and (iii) habitat loss, including potential degradation of coastal and outer estuarine nursery habitats. The same anthropogenic pressures, here documented to have impacted North Sea elasmobranchs over the past century, are likewise impacting shelf seas worldwide and may increase in the future; therefore, parallel changes in elasmobranch communities in other regions are to be expected.
+
+SOURCE: Global change biology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.13316
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Bottom trawling', 'Trawling', 'Fishing', 'Fishery', 'Climate change', 'Dominance (genetics)', 'Habitat', 'Habitat destruction', 'Oceanography', 'Geography', 'Overfishing', 'Skate', 'Biodiversity', 'Ecology', 'Biology', 'Geology', 'Biochemistry', 'Gene']

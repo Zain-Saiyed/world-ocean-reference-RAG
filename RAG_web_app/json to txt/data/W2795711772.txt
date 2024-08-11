@@ -1,0 +1,12 @@
+ID: W2795711772
+TITLE: A decade of the World Register of Marine Species – General insights and experiences from the Data Management Team: Where are we, what have we learned and how can we continue?
+AUTHOR: ['L. Vandepitte', 'B. Vanhoorne', 'Wim Decock', 'Sofie Vranken', 'Thomas Lanssens', 'Stefanie Dekeyzer', 'Kevin Verfaille', 'Tammy Horton', 'Andreas Kroh', 'F. Hernández', 'Jan Mees']
+ABSTRACT:
+The World Register of Marine Species (WoRMS) celebrated its 10th anniversary in 2017. WoRMS is a unique database: there is no comparable global database for marine species, which is driven by a large, global expert community, is supported by a Data Management Team and can rely on a permanent host institute, dedicated to keeping WoRMS online. Over the past ten years, the content of WoRMS has grown steadily, and the system currently contains more than 242,000 accepted marine species. WoRMS has not yet reached completeness: approximately 2,000 newly described species per year are added, and editors also enter the remaining missing older names–both accepted and unaccepted–an effort amounting to approximately 20,000 taxon name additions per year. WoRMS is used extensively, through different channels, indicating that it is recognized as a high-quality database on marine species information. It is updated on a daily basis by its Editorial Board, which currently consists of 490 taxonomic and thematic experts located around the world. Owing to its unique qualities, WoRMS has become a partner in many large-scale initiatives including OBIS, LifeWatch and the Catalogue of Life, where it is recognized as a high-quality and reliable source of information for marine taxonomy.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0194599&type=printable
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Data science', 'Taxonomy (biology)', 'Taxon', 'Marine life', 'Data quality', 'Data management', 'Computer science', 'World Wide Web', 'Biology', 'Ecology', 'Database', 'Business', 'Metric (unit)', 'Marketing']

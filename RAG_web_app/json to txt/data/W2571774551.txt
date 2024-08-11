@@ -1,0 +1,12 @@
+ID: W2571774551
+TITLE: Human Disruption of Coral Reef Trophic Structure
+AUTHOR: ['Nicholas A. J. Graham', 'Tim R. McClanahan', 'M. Aaron MacNeil', 'Shaun K. Wilson', 'Joshua E. Cinner', 'Cindy Huchery', 'Thomas H. Holmes']
+ABSTRACT:
+The distribution of biomass among trophic levels provides a theoretical basis for understanding energy flow and the hierarchical structure of animal communities. In the absence of energy subsidies [1], bottom-heavy trophic pyramids are expected to predominate, based on energy transfer efficiency [2] and empirical evidence from multiple ecosystems [3]. However, the predicted pyramid of biomass distribution among trophic levels may be disrupted through trophic replacement by alternative organisms in the ecosystem, trophic cascades, and humans preferentially impacting specific trophic levels [4-6]. Using empirical data spanning >250 coral reefs, we show how trophic pyramid shape varies given human-mediated gradients along two orders of magnitude in reef fish biomass. Mean trophic level of the assemblage increased modestly with decreasing biomass, contrary to predictions of fishing down the food web [7]. The mean trophic level pattern is explained by trophic replacement of herbivorous fish by sea urchins at low biomass and the accumulation of slow-growing, large-bodied, herbivorous fish at high biomass. Further, at high biomass, particularly where fishers are not selectively removing higher trophic level individuals, a concave trophic distribution emerges. The concave trophic distribution implies a more direct link between lower and upper trophic levels, which may confer greater energy efficiency. This trophic distribution emerges when community biomass exceeds ∼650 kg/ha, suggesting that fisheries for upper trophic level species will only be supported under lightly fished scenarios.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982216313252/pdf
+CITED BY COUNT: 120
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Trophic level', 'Trophic cascade', 'Biomass (ecology)', 'Biology', 'Mesopredator release hypothesis', 'Ecology', 'Food web', 'Ecosystem', 'Trophic state index', 'Coral reef', 'Coral reef fish', 'Apex predator', 'Nutrient', 'Phytoplankton']

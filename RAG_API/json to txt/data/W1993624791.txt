@@ -1,0 +1,12 @@
+ID: W1993624791
+TITLE: Impact of the <i>Deepwater Horizon</i> oil spill on a deep-water coral community in the Gulf of Mexico
+AUTHOR: ['Helen K. White', 'Pen‐Yuan Hsing', 'Walter Cho', 'Timothy M. Shank', 'Erik E. Cordes', 'Andrea M. Quattrini', 'Robert K. Nelson', 'Richard Camilli', 'Amanda W.J. Demopoulos', 'Christopher R. German', 'James M. Brooks', 'Harry H. Roberts', 'William Shedd', 'Christopher M. Reddy', 'Charles R. Fisher']
+ABSTRACT:
+To assess the potential impact of the Deepwater Horizon oil spill on offshore ecosystems, 11 sites hosting deep-water coral communities were examined 3 to 4 mo after the well was capped. Healthy coral communities were observed at all sites >20 km from the Macondo well, including seven sites previously visited in September 2009, where the corals and communities appeared unchanged. However, at one site 11 km southwest of the Macondo well, coral colonies presented widespread signs of stress, including varying degrees of tissue loss, sclerite enlargement, excess mucous production, bleached commensal ophiuroids, and covering by brown flocculent material (floc). On the basis of these criteria the level of impact to individual colonies was ranked from 0 (least impact) to 4 (greatest impact). Of the 43 corals imaged at that site, 46% exhibited evidence of impact on more than half of the colony, whereas nearly a quarter of all of the corals showed impact to >90% of the colony. Additionally, 53% of these corals' ophiuroid associates displayed abnormal color and/or attachment posture. Analysis of hopanoid petroleum biomarkers isolated from the floc provides strong evidence that this material contained oil from the Macondo well. The presence of recently damaged and deceased corals beneath the path of a previously documented plume emanating from the Macondo well provides compelling evidence that the oil impacted deep-water ecosystems. Our findings underscore the unprecedented nature of the spill in terms of its magnitude, release at depth, and impact to deep-water ecosystems.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/109/50/20303.full.pdf
+CITED BY COUNT: 343
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Coral', 'Ecosystem', 'Deepwater horizon', 'Oceanography', 'Marine ecosystem', 'Environmental science', 'Plume', 'Deep water', 'Submarine pipeline', 'Anthozoa', 'Oil spill', 'Ecology', 'Fishery', 'Biology', 'Geology', 'Geography', 'Environmental protection', 'Meteorology']

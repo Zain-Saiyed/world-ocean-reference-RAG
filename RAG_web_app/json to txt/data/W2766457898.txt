@@ -1,0 +1,12 @@
+ID: W2766457898
+TITLE: Conservation of reef manta rays (Manta alfredi) in a UNESCO World Heritage Site: Large-scale island development or sustainable tourism?
+AUTHOR: ['Steven T. Kessel', 'Nasreldin Alhasan Elamin', 'David J. Yurkowski', 'Tarik Chekchak', 'Ryan P. Walter', 'Rebecca Klaus', 'Graham Hill', 'Nigel E. Hussey']
+ABSTRACT:
+A large reef manta ray (Manta alfredi) aggregation has been observed off the north Sudanese Red Sea coast since the 1950s. Sightings have been predominantly within the boundaries of a marine protected area (MPA), which was designated a UNESCO World Heritage Site in July 2016. Contrasting economic development trajectories have been proposed for the area (small-scale ecotourism and large-scale island development). To examine space-use, Wildlife Computers® SPOT 5 tags were secured to three manta rays. A two-state switching Bayesian state space model (BSSM), that allowed movement parameters to switch between resident and travelling, was fit to the recorded locations, and 50% and 95% kernel utilization distributions (KUD) home ranges calculated. A total of 682 BSSM locations were recorded between 30 October 2012 and 6 November 2013. Of these, 98.5% fell within the MPA boundaries; 99.5% for manta 1, 91.5% for manta 2, and 100% for manta 3. The BSSM identified that all three mantas were resident during 99% of transmissions, with 50% and 95% KUD home ranges falling mainly within the MPA boundaries. For all three mantas combined (88.4%), and all individuals (manta 1-92.4%, manta 2-64.9%, manta 3-91.9%), the majority of locations occurred within 15 km of the proposed large-scale island development. Results indicated that the MPA boundaries are spatially appropriate for manta rays in the region, however, a close association to the proposed large-scale development highlights the potential threat of disruption. Conversely, the focused nature of spatial use highlights the potential for reliable ecotourism opportunities.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0185419&type=printable
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Geography', 'Fishery', 'Oceanography', 'Geology', 'Biology']

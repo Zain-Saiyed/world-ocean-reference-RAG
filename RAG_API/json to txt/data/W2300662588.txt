@@ -1,0 +1,12 @@
+ID: W2300662588
+TITLE: Residential exposure to visible blue space (but not green space) associated with lower psychological distress in a capital city
+AUTHOR: ['Daniel Nutsford', 'Amber L. Pearson', 'Simon Kingham', 'Femke Reitsma']
+ABSTRACT:
+As urbanisation escalates globally, urban neighbourhood features which may improve physical and mental health are of growing importance. Using a cross-sectional survey of adults and the application of novel geospatial techniques, this study investigated whether increased visibility of nature (green and blue space) was associated with lower psychological distress (K10 scores), in the capital city of Wellington, New Zealand. To validate, we also tested whether visibility of blue space was associated missing teeth in the same sample. Cluster robust, linear regression models were fitted to test the association between visibility of nature and K10 scores, adjusted for age, sex, personal income, neighbourhood population density, housing quality, crime and deprivation. Higher levels of blue space visibility were associated with lower psychological distress (β=-0.28, p<0.001). Importantly, blue space visibility was not significantly associated with tooth loss. Further research is needed to confirm whether increased visibility of blue space could promote mental well-being and reduce distress in other cities.
+
+SOURCE: Health and place/Health & place (Online)
+PDF URL: None
+CITED BY COUNT: 256
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Neighbourhood (mathematics)', 'Visibility', 'Mental health', 'Urbanization', 'Psychology', 'Psychological distress', 'Geography', 'Demography', 'Distress', 'Population', 'Environmental health', 'Space (punctuation)', 'Social psychology', 'Medicine', 'Clinical psychology', 'Sociology', 'Psychiatry', 'Economic growth', 'Computer science', 'Mathematics', 'Economics', 'Mathematical analysis', 'Meteorology', 'Operating system']

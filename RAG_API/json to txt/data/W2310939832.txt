@@ -1,0 +1,12 @@
+ID: W2310939832
+TITLE: A global empirical typology of anthropogenic drivers of environmental change in deltas
+AUTHOR: ['Z. D. Tessler', 'Charles J Vörösmarty', 'Michael Grossberg', 'Irina Gladkova', 'Hannah Aizenman']
+ABSTRACT:
+It is broadly recognized that river delta systems around the world are under threat from a range of anthropogenic activities. These activities occur at the local delta scale, at the regional river and watershed scale, and at the global scale. Tools are needed to support generalization of results from case studies in specific deltas. Here, we present a methodology for quantitatively constructing an empirical typology of anthropogenic change in global deltas. Utilizing a database of environmental change indicators, each associated with increased relative sea-level rise and coastal wetland loss, a clustering analysis of 48 global deltas provides a quantitative assessment of systems experiencing similar or dissimilar sources and degrees of anthropogenic stress. By identifying quantitatively similar systems, we hope to improve the transferability of scientific results across systems, and increase the effectiveness of delta management best practices. Both K-Means and Affinity Propagation clustering algorithms find similar clusters, with relative stability across small changes in K-Means cluster number. High-latitude deltas appear similar, in terms of anthropogenic environmental stress, to several low-population, low-latitude systems, including the Amazon delta, despite substantially different climatic regimes. Highly urbanized deltas in Southeast Asia form a distinct cluster. By providing a quantitative boundary between groups of delta systems, this approach may also be useful for assessing future delta change and sustainability given projected population growth, urbanization, and economic development trends.
+
+SOURCE: Sustainability science
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs11625-016-0357-5.pdf
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Delta', 'Environmental change', 'Geography', 'Population', 'River delta', 'Global change', 'Urbanization', 'Physical geography', 'Wetland', 'Environmental science', 'Environmental resource management', 'Climate change', 'Ecology', 'Demography', 'Sociology', 'Engineering', 'Biology', 'Aerospace engineering']

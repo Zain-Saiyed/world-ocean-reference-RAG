@@ -1,0 +1,12 @@
+ID: W2916568923
+TITLE: Survival under conditions of variable food availability: Resource utilization and storage in the cold‐water coral <i>Lophelia pertusa</i>
+AUTHOR: ['Sandra R. Maier', 'Tina Kutti', 'Raymond J. Bannister', 'Peter van Breugel', 'Pieter van Rijswijk', 'Dick van Oevelen']
+ABSTRACT:
+Abstract Cold‐water coral (CWC) reefs are hotspots of biodiversity and productivity in the deep sea, but their distribution is limited by the availability of food, which undergoes complex local and temporal variability. We studied the resource utilization, metabolism, and tissue storage of CWC Lophelia pertusa during an experimentally simulated 3‐day food pulse, of 13 C 15 N‐enriched phytodetritus, followed by a 4‐week food deprivation. Oxygen consumption (0.145 μ mol O 2 [mmol organic carbon {OC}] −1 h −1 ), release of particulate organic matter (0.029 μ mol particulate organic carbon [POC] [mmol OC] −1 h −1 and 0.005 μ mol particulate organic nitrogen [mmol OC] −1 h −1 ), ammonium excretion (0.004 μ mol NH 4 + [mmol OC] −1 h −1 ), tissue C and N content, and fatty acid (FA) and amino acid composition did not change significantly during the experiment. Metabolization of the labeled phytodetritus, however, underwent distinct temporal dynamics. Initially, L. pertusa preferentially used phytodetritus‐derived C for respiration (2.2 ± 0.36 nmol C [mmol OC] −1 h −1 ) and mucus production (0.94 ± 0.52 nmol C [mmol OC] −1 h −1 ), but those tracer fluxes declined exponentially to &lt;20% within 2 weeks after feeding and then remained stable, indicating that the remainder of the incorporated phytodetritus had entered a tissue pool with lower turnover. Analysis of 13 C in individual FAs revealed a mismatch between the FAs incorporated from phytodetritus and the FA requirements of the coral. We suggest that feeding on other resources, such as lipid‐rich zooplankton, could fill this deficiency. A release of 10% of their total OC as respired C and POC during the 4‐week food deprivation underlines the importance of regular food pulses for CWC reefs.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.11142
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Phytodetritus', 'Coral', 'Chemistry', 'Environmental chemistry', 'Animal science', 'Botany', 'Biology', 'Ecology', 'Nutrient', 'Phytoplankton']

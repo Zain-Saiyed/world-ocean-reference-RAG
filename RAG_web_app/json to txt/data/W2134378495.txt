@@ -1,0 +1,12 @@
+ID: W2134378495
+TITLE: The Ecology of Seamounts: Structure, Function, and Human Impacts
+AUTHOR: ['Malcolm R. Clark', 'Ashley A. Rowden', 'Thomas A. Schlacher', 'Alan Williams', 'Mireille Consalvey', 'Karen Stocks', 'Alex D. Rogers', 'Timothy D. O’Hara', 'Martin White', 'Timothy M. Shank', 'Jason M. Hall‐Spencer']
+ABSTRACT:
+In this review of seamount ecology, we address a number of key scientific issues concerning the structure and function of benthic communities, human impacts, and seamount management and conservation. We consider whether community composition and diversity differ between seamounts and continental slopes, how important dispersal capabilities are in seamount connectivity, what environmental factors drive species composition and diversity, whether seamounts are centers of enhanced biological productivity, and whether they have unique trophic architecture. We discuss how vulnerable seamount communities are to fishing and mining, and how we can balance exploitation of resources and conservation of habitat. Despite considerable advances in recent years, there remain many questions about seamount ecosystems that need closer integration of molecular, oceanographic, and ecological research.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 427
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seamount', 'Ecology', 'Habitat', 'Geography', 'Biodiversity', 'Biology', 'Oceanography', 'Geology']

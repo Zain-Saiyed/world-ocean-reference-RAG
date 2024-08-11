@@ -1,0 +1,12 @@
+ID: W2887833501
+TITLE: Southern Ocean Warming
+AUTHOR: ['Jean‐Baptiste Sallée', 'Locean-Ipsl Cnrs']
+ABSTRACT:
+of the world ocean volume having last had contact with the atmosphere in the Southern Ocean surface layer (DeVries and Primeau, 2011).Any change in the Southern Ocean can therefore have massive global ocean and climate consequences.In addition, its ability to buffer
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/31-2_sallee.pdf
+CITED BY COUNT: 87
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Effects of global warming on oceans', 'Oceanography', 'Climatology', 'Environmental science', 'Warming up', 'Geology', 'Global warming', 'Climate change', 'Biology', 'Physiology']

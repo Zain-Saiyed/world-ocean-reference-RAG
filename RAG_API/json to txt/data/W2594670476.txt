@@ -1,0 +1,12 @@
+ID: W2594670476
+TITLE: Marine Mammals in Asian Societies; Trends in Consumption, Bait, and Traditional Use
+AUTHOR: ['Lindsay Porter', 'Hong Yu Lai']
+ABSTRACT:
+In Asia many marine mammal species are consumed as food or for other purposes. The prevalence of this exploitation appears to increase from west to east. An escalating use of marine mammals and the emergence of commercialisation of a trade in marine mammals is supported by: o Regular documentation of both open and covert trade; o A shift in focus in some diminishing traditional hunts to other marine mammal species; o A possible revival in some targeted hunts, which had previously ceased; o The recent implication of some cultures, which have little history of marine mammal consumption previously, in targeted hunts; and o The growing importation of marine mammal parts from outside of Asia. The factors that may drive marine mammal use include population reductions in species that have been traditionally targeted; diminishing returns from traditional fisheries; and an increase in market demand for marine mammal products. Lessons from similar studies in terrestrial wildlife trade will better focus future studies of marine mammal use in Asia.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2017.00047/pdf
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine mammal', 'Mammal', 'Wildlife trade', 'Wildlife', 'Consumption (sociology)', 'Geography', 'Ecology', 'Population', 'Biology', 'Fishery', 'Social science', 'Demography', 'Sociology']

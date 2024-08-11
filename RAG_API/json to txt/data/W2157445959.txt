@@ -1,0 +1,12 @@
+ID: W2157445959
+TITLE: Using Bayesian state-space modelling to assess the recovery and harvest potential of the Hawaiian green sea turtle stock
+AUTHOR: ['Milani Chaloupka', 'George H. Balazs']
+ABSTRACT:
+The Hawaiian green sea turtle genetic stock is endemic to the Hawaiian Archipelago. This stock was depleted over the past century mainly due to over-exploitation that ceased during the 1970s following protection under the US Endangered Species Act. Nesting trends suggest the stock has been recovering but no formal stock assessment has been undertaken. So, we used a Bayesian state-space surplus-production model to describe Hawaiian green turtle population dynamics given limited data and uncertainty about sea turtle demography. Data series comprised commercial landings of green turtles reported from the Archipelago (1944–1973) and nester abundance recorded at the primary rookery on East Island, French Frigate Shoals (1973–2004). The model incorporated process and observation error and was fitted using Markov chain Monte Carlo simulation with a mix of informative and non-informative priors. We estimated that the Hawaiian green turtle stock was ca. 20% of pre-exploitation biomass when monitoring and protection began in the 1970s. The stock is estimated to be now ca. 83% of pre-exploitation biomass with an intrinsic growth rate ca. 5.4% pa (95% Bayesian credible interval: 3.1–8.9%). Rebound or recovery potential (also exploitation rate at MSP) of this stock was estimated to be 3.4% (1.6–6.2%), which is consistent with estimates for other long-lived late-maturing marine species. So, this once-seriously-depleted green turtle stock is well on the way to recovery and a limited harvest might now be demographically feasible. These findings are relevant for supporting informed public policy debate on the restoration of indigenous hunting rights in the Archipelago. Parameter estimates and model structure from the Bayesian surplus-production model were incorporated in an interactive easy-to-use stochastic simulation model to help support policy analysts in stock recovery planning and to explore sustainable harvest potential.
+
+SOURCE: Ecological modelling
+PDF URL: None
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Stock assessment', 'Archipelago', 'Fishery', 'Stock (firearms)', 'Rookery', 'Population', 'Sea turtle', 'Ecology', 'Fishing', 'Geography', 'Biology', 'Turtle (robot)', 'Demography', 'Archaeology', 'Sociology']

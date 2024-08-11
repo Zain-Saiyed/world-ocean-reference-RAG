@@ -1,0 +1,12 @@
+ID: W2120954925
+TITLE: Diversity and evolution of marine phytoplankton
+AUTHOR: ['Nathalie Simon', 'Anne-Lise Cras', 'Elodie Foulon', 'Rodolphe Lemée']
+ABSTRACT:
+Marine phytoplankton organisms account for more than 45% of the photosynthetic net primary production on Earth. They are distributed across many of the major clades of the tree of life and include prokaryotes, and eukaryotes that acquired photosynthesis through the process of endosymbiosis. If the number of extant described species is relatively low compared to the diversity of the terrestrial plants, recent insights into the genetic diversity of natural assemblages have revealed a large unsuspected diversity at different taxonomic levels. Wide infra-specific diversity is also being discovered in many widespread and well known morphological species. This review summarizes data obtained in the fields of ecology, evolutionary biology, physiology and genomics that have improved our understanding of the biodiversity and evolution of marine phytoplankton.
+
+SOURCE: Comptes rendus Biologies/Comptes rendus. Biologies
+PDF URL: None
+CITED BY COUNT: 108
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Biology', 'Biodiversity', 'Ecology', 'Phytoplankton', 'Ecosystem diversity', 'Marine biology', 'Evolutionary biology', 'Nutrient']

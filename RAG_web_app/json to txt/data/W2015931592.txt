@@ -1,0 +1,12 @@
+ID: W2015931592
+TITLE: Marine invasive aliens on South African shores: implications for community structure and trophic functioning
+AUTHOR: ['CL Griffiths', 'Philip A. R. Hockey', 'C. van Erkom Schurink', 'P. J. Le Roux']
+ABSTRACT:
+Up to 12 marine mollusc and three crab species are thought to have been deliberately or accidentally introduced to South Africa. Of these, only the Mediterranean mussel Mytilus galloprovincialis and the European shore crab Carcinus meanas have become invasive. M. galloprovincialis, probably introduced in the late 1970s, is already the dominant mussel throughout the Cape west coast. As a result, indigenous intertidal mussels Aulacomya ater have been largely displaced, mussel standing stock has increased and the upshore limit of mussel beds has become considerably elevated. Implications include competitive exclusion of large limpets but enhanced recruitment of juvenile limpets, increased habitat availability for mussel infauna, reduction of habitat for algal infauna and enhanced food availability for predators, particularly terrestrial species. C. maenas was first recorded from Table Bay Docks in 1983 and currently ranges from Camps Bay to Saldanha Bay. Although it is a voracious predator, it appears unable to colonize wave-swept shores, so is unlikely to displace indigenous crabs, or to severely impact prey species on the open coast. Valuable conservation areas and mariculture sites in sheltered lagoonal areas are, however, threatened by it.
+
+SOURCE: South African journal of marine sciences
+PDF URL: https://www.tandfonline.com/doi/pdf/10.2989/02577619209504736?needAccess=true
+CITED BY COUNT: 127
+PUBLICATION YEAR: 1992
+TYPE: article
+CONCEPTS: ['Carcinus maenas', 'Fishery', 'Bay', 'Mussel', 'Mytilus', 'Predation', 'Biology', 'Ecology', 'Habitat', 'Rocky shore', 'Intertidal zone', 'Threatened species', 'Shore', 'Geography', 'Crustacean', 'Decapoda', 'Archaeology']

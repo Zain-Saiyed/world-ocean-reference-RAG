@@ -1,0 +1,12 @@
+ID: W2145670859
+TITLE: Sand temperatures for nesting sea turtles in the Caribbean: Implications for hatchling sex ratios in the face of climate change
+AUTHOR: ['Jacques‐Olivier Laloë', 'Nicole Esteban', 'Jessica Berkel', 'Graeme C. Hays']
+ABSTRACT:
+A 200-year time series of incubation temperatures and primary sex ratios for green (Chelonia mydas), hawksbill (Eretmochelys imbricata) and leatherback (Dermochelys coriacea) sea turtles nesting in St. Eustatius (North East Caribbean) was created by combining sand temperature measurements with historical and current environmental data and climate projections. Rainfall and spring tides were important because they cooled the sand and lowered incubation temperatures. Mean annual sand temperatures are currently 31.0 °C (SD = 1.6) at the nesting beach but show seasonality, with lower temperatures (29.1–29.6 °C) during January–March and warmer temperatures (31.9–33.3 °C) in June–August. Results suggest that all three species have had female-biased hatchling production for the past decades with less than 15.5%, 36.0%, and 23.7% males produced every year for greens, hawksbills and leatherbacks respectively since the late nineteenth century. Global warming will exacerbate this female-skew. For example, projections indicate that only 2.4% of green turtle hatchlings will be males by 2030, 1.0% by 2060, and 0.4% by 2090. On the other hand, future changes to nesting phenology have the potential to mitigate the extent of feminisation. In the absence of such phenological changes, management strategies to artificially lower incubation temperatures by shading nests or relocating nest clutches to deeper depths may be the only way to prevent the localised extinction of these turtle populations.
+
+SOURCE: Journal of experimental marine biology and ecology
+PDF URL: None
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Hatchling', 'Turtle (robot)', 'Nest (protein structural motif)', 'Phenology', 'Biology', 'Incubation', 'Climate change', 'Sea turtle', 'Seasonality', 'Ecology', 'Sex ratio', 'Range (aeronautics)', 'Global warming', 'Nesting (process)', 'Fishery', 'Population', 'Demography', 'Hatching', 'Materials science', 'Sociology', 'Metallurgy', 'Biochemistry', 'Composite material']

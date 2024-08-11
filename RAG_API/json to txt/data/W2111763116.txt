@@ -1,0 +1,12 @@
+ID: W2111763116
+TITLE: An authoritative global database for active submarine hydrothermal vent fields
+AUTHOR: ['Stace E. Beaulieu', 'Edward T. Baker', 'Christopher R. German', 'A. R. Maffei']
+ABSTRACT:
+The InterRidge Vents Database is available online as the authoritative reference for locations of active submarine hydrothermal vent fields. Here we describe the revision of the database to an open source content management system and conduct a meta‐analysis of the global distribution of known active vent fields. The number of known active vent fields has almost doubled in the past decade (521 as of year 2009), with about half visually confirmed and others inferred active from physical and chemical clues. Although previously known mainly from mid‐ocean ridges (MORs), active vent fields at MORs now comprise only half of the total known, with about a quarter each now known at volcanic arcs and back‐arc spreading centers. Discoveries in arc and back‐arc settings resulted in an increase in known vent fields within exclusive economic zones, consequently reducing the proportion known in high seas to one third. The increase in known vent fields reflects a number of factors, including increased national and commercial interests in seafloor hydrothermal deposits as mineral resources. The purpose of the database now extends beyond academic research and education and into marine policy and management, with at least 18% of known vent fields in areas granted or pending applications for mineral prospecting and 8% in marine protected areas.
+
+SOURCE: Geochemistry, geophysics, geosystems
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2013GC004998
+CITED BY COUNT: 194
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Geology', 'Submarine', 'Prospecting', 'Seafloor spreading', 'Hydrothermal vent', 'Hydrothermal circulation', 'Volcano', 'Oceanography', 'Island arc', 'Mineral resource classification', 'Earth science', 'Database', 'Paleontology', 'Geochemistry', 'Tectonics', 'Subduction', 'Computer science']

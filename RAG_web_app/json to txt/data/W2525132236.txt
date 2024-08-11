@@ -1,0 +1,12 @@
+ID: W2525132236
+TITLE: SAR11 Bacteria: The Most Abundant Plankton in the Oceans
+AUTHOR: ['Stephen J. Giovannoni']
+ABSTRACT:
+SAR11 is a group of small, carbon-oxidizing bacteria that reach a global estimated population size of 2.4×1028 cells-approximately 25% of all plankton. They are found throughout the oceans but reach their largest numbers in stratified, oligotrophic gyres, which are an expanding habitat in the warming oceans. SAR11 likely had a Precambrian origin and, over geological time, evolved into the niche of harvesting labile, low-molecular-weight dissolved organic matter (DOM). SAR11 cells are minimal in size and complexity, a phenomenon known as streamlining that is thought to benefit them by lowering the material costs of replication and maximizing transport functions that are essential to competition at ultralow nutrient concentrations. One of the surprises in SAR11 metabolism is their ability to both oxidize and produce a variety of volatile organic compounds that can diffuse into the atmosphere. SAR11 cells divide slowly and lack many forms of regulation commonly used by bacterial cells to adjust to changing environmental conditions. As a result of genome reduction, they require an unusual range of nutrients, which leads to complex biochemical interactions with other plankton. The study of SAR11 is providing insight into the biogeochemistry of labile DOM and is affecting microbiology beyond marine science by providing a model for understanding the evolution and function of streamlined cells.
+
+SOURCE: Annual review of marine science
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-marine-010814-015934
+CITED BY COUNT: 392
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Plankton', 'Biogeochemistry', 'Biology', 'Ecology', 'Competition (biology)', 'Nutrient', 'Dissolved organic carbon', 'Bacterioplankton', 'Population', 'Niche', 'Archaea', 'Phytoplankton', 'Bacteria', 'Genetics', 'Demography', 'Sociology']

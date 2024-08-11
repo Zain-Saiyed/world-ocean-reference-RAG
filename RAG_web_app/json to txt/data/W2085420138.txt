@@ -1,0 +1,12 @@
+ID: W2085420138
+TITLE: Nutrient and phytoplankton biomass in the Amazon River shelf waters
+AUTHOR: ['Maria Lucivânia Souza dos Santos', 'Kátia Muniz', 'Benício Barros-Neto', 'Moacyr Araújo']
+ABSTRACT:
+The Amazon River estuary is notable at the Amazon Continental Shelf, where the presence of the large amount of water originating from the Amazon during the river's falling discharge period was made evident by the low salinity values and high nutrient levels. Even so, the presence of oceanic waters in the shelf area was significant. Dissolved organic nitrogen was the predominant species of the nitrogen cycle phases, followed by total particulate nitrogen, nitrate, ammonium and nitrite. The chlorophyll a data in the eutrophic area indicated that there is sufficient nitrogen in the area to withstand productivity, though dissolved inorganic nitrogen removal processes are faster than regeneration or mineralization. The anomalous amounts of inorganic dissolved nitrogen showed more removal than addition. The simulations with the bidimensional MAAC-2D model confirmed that high nutrient waters are displaced northwest-ward (two cores at 2.5ºN-50ºW and 4ºN-51ºW) by the stronger NBC during falling river discharge. During high river flow period these nutrient-rich lenses are distributed around 0.5ºN-48.5ºW as well as along the shallow Amazonian shelf (20m-50m depth, 1ºN-3.5ºN), as a result of the spreading of Amazon freshwater outflow.
+
+SOURCE: Anais da Academia Brasileira de Ciências
+PDF URL: https://www.scielo.br/j/aabc/a/ygdq8mSyy7hSySVxTdMBqYC/?lang=en&format=pdf
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Environmental science', 'Eutrophication', 'Nutrient', 'Nitrate', 'Biogeochemical cycle', 'Phytoplankton', 'Amazon rainforest', 'Nitrogen', 'Upwelling', 'Discharge', 'Oceanography', 'Ammonium', 'Chlorophyll a', 'Salinity', 'Hydrology (agriculture)', 'Environmental chemistry', 'Chemistry', 'Geology', 'Ecology', 'Biology', 'Drainage basin', 'Biochemistry', 'Cartography', 'Geotechnical engineering', 'Organic chemistry', 'Geography']

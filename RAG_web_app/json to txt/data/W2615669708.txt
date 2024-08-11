@@ -1,0 +1,12 @@
+ID: W2615669708
+TITLE: Exceptional and rapid accumulation of anthropogenic debris on one of the world’s most remote and pristine islands
+AUTHOR: ['Jennifer L. Lavers', 'Alexander L. Bond']
+ABSTRACT:
+In just over half a century plastic products have revolutionized human society and have infiltrated terrestrial and marine environments in every corner of the globe. The hazard plastic debris poses to biodiversity is well established, but mitigation and planning are often hampered by a lack of quantitative data on accumulation patterns. Here we document the amount of debris and rate of accumulation on Henderson Island, a remote, uninhabited island in the South Pacific. The density of debris was the highest reported anywhere in the world, up to 671.6 items/m2 (mean ± SD: 239.4 ± 347.3 items/m2) on the surface of the beaches. Approximately 68% of debris (up to 4,496.9 pieces/m2) on the beach was buried <10 cm in the sediment. An estimated 37.7 million debris items weighing a total of 17.6 tons are currently present on Henderson, with up to 26.8 new items/m accumulating daily. Rarely visited by humans, Henderson Island and other remote islands may be sinks for some of the world's increasing volume of waste.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/114/23/6052.full.pdf
+CITED BY COUNT: 377
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Debris', 'Biodiversity', 'Marine debris', 'Environmental science', 'Hazard', 'Geography', 'Physical geography', 'Archaeology', 'Environmental protection', 'Oceanography', 'Geology', 'Ecology', 'Biology']

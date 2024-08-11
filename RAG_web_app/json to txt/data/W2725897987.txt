@@ -1,0 +1,12 @@
+ID: W2725897987
+TITLE: Google Earth Engine: Planetary-scale geospatial analysis for everyone
+AUTHOR: ['Noel Gorelick', 'M. Hancher', 'Mike Dixon', 'Simon Ilyushchenko', 'David Thau', 'Rebecca Moore']
+ABSTRACT:
+Google Earth Engine is a cloud-based platform for planetary-scale geospatial analysis that brings Google's massive computational capabilities to bear on a variety of high-impact societal issues including deforestation, drought, disaster, disease, food security, water management, climate monitoring and environmental protection. It is unique in the field as an integrated platform designed to empower not only traditional remote sensing scientists, but also a much wider audience that lacks the technical capacity needed to utilize traditional supercomputers or large-scale commodity cloud computing resources.
+
+SOURCE: Remote sensing of environment
+PDF URL: None
+CITED BY COUNT: 7344
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Geospatial analysis', 'Cloud computing', 'Scale (ratio)', 'Remote sensing', 'Earth observation', 'Variety (cybernetics)', 'Deforestation (computer science)', 'Computer science', 'Field (mathematics)', 'Data science', 'Earth science', 'Geography', 'Engineering', 'Satellite', 'Geology', 'Cartography', 'Mathematics', 'Aerospace engineering', 'Artificial intelligence', 'Pure mathematics', 'Programming language', 'Operating system']

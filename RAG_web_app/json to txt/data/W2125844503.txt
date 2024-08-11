@@ -1,0 +1,12 @@
+ID: W2125844503
+TITLE: Rapid changes and long-term cycles in the benthic megafaunal community observed over 24years in the abyssal northeast Pacific
+AUTHOR: ['Linda A. Kuhnz', 'Henry A. Ruhl', 'Christine L. Huffard', 'Kenneth L. Smith']
+ABSTRACT:
+The abyssal seafloor community in the NE Pacific (Station M, ∼4000 m depth) was studied between 2006 and 2012 using remotely operated vehicles (ROVs) as part of a continuing 24-year time-series study. New patterns continue to emerge showing that the deep-sea can be dynamic on short time scales, rather than static over long periods. In just over 2 years the community shifted from a sessile, suspension-feeding, sponge-dominated community to a mobile, detritus-feeding, sea cucumber-dominated assemblage. In 2006 megafaunal diversity (Simpson’s Diversity Index, SDI) was high, yet the community was depauperate in terms of density compared to later periods. Over an 18-month period beginning in spring 2011, the densities of mobile organisms increased by nearly an order of magnitude while diversity decreased below 2006 levels. In late 2012 four sea cucumbers (two Peniagone spp., Elpidia sp. A, and Scotoplanes globosa) were at the highest densities recorded since investigations began at Station M in 1989. For a group of 10 echinoderms investigated over the entire study period, we saw evidence of a long-term cycle spanning 2 decades. These changes can be tied to a variable food supply originating in shallow water. Large variations over decadal-scales indicate that remote abyssal communities are dynamic and likely subject to impacts from anthropogenic changes like ocean warming, acidification, and pollution manifested in the upper ocean. The degree of dynamism indicates that one-time or short-term investigations are not sufficient for assessing biological community structure in conservation or exploitation studies in the deep sea.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Oceanography', 'Benthic zone', 'Megafauna', 'Environmental science', 'Effects of global warming on oceans', 'Deep sea', 'Detritivore', 'Community structure', 'Detritus', 'Geology', 'Ecology', 'Climate change', 'Global warming', 'Ecosystem', 'Biology', 'Paleontology', 'Pleistocene']

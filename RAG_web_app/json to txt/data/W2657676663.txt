@@ -1,0 +1,12 @@
+ID: W2657676663
+TITLE: Environmental Impacts of Sand Exploitation. Analysis of Sand Market
+AUTHOR: ['Marius Dan Gavriletea']
+ABSTRACT:
+Sand is an indispensable natural resource for any society.Despite society's increasing dependence on sand, there are major challenges that this industry needs to deal with: limited sand resources, illegal mining, and environmental impact of sand mining.The purpose of this paper is twofold: to present an overview of the sand market, highlighting the main trends and actors for production, export and import, and to review the main environmental impacts associated with sand exploitation process.Based on these findings, we recommend different measures to be followed to reduce negative impacts.Sand mining should be done in a way that limits environmental damage during exploitation and restores the land after mining operations are completed.
+
+SOURCE: Sustainability
+PDF URL: https://www.mdpi.com/2071-1050/9/7/1118/pdf?version=1498648909
+CITED BY COUNT: 166
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sand mining', 'Resource (disambiguation)', 'Environmental impact assessment', 'Natural resource', 'Production (economics)', 'Process (computing)', 'Business', 'Environmental science', 'Natural resource economics', 'Environmental resource management', 'Geography', 'Economics', 'Ecology', 'Computer science', 'Meteorology', 'Computer network', 'Macroeconomics', 'Biology', 'Operating system']

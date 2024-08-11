@@ -1,0 +1,12 @@
+ID: W2202313042
+TITLE: Sources of Pharmaceutical Residues in the Environment and their Control
+AUTHOR: ['Daniel J. Caldwell']
+ABSTRACT:
+Pharmaceuticals and over-the-counter (OTC) medicines are detected in the environment in trace quantities, most at less than one part-per-billion (i.e. &amp;lt;1 µg/l). There are three main pathways by which active pharmaceutical ingredients (API) can reach the environment. The vast majority of APIs found in water systems are a result of normal patient and consumer use and excretion into sewer and wastewater treatment systems. A second pathway is improper disposal of unused or expired medicines by consumers who flush them down toilets or pour them into drains. The third pathway is through wastewater discharged from API manufacturing sites. There are several other minor pathways, such as landfill leachate or hospital discharges, that may also present localised sources of API introduction to the environment. Given the widespread consumption of pharmaceuticals in developed countries, it is likely that pharmaceutical residues are present in the wastewater of virtually all households where the occupants are using such products as medicines. The contribution of pharmaceutical manufacturing activities to the levels of APIs in the environment is low when compared with the amount excreted by patients consuming the drugs. However, manufacturing losses are one area that can be controlled by manufacturers. The extent of improper disposal of unused medicines is currently unknown. What is known is that flushing them into sewage and wastewater treatment systems can have a significant impact on the API load entering the treatment plant and the concentrations discharged in the effluent. Given the demonstrated presence of pharmaceuticals in the environment, coupled with their high profile, it is not surprising that they have attracted a disproportionate amount of attention. While concerns are understandable, one should not lose sight of the fact that there are many other chemical species reaching the environment and that APIs represent just one subset of multiple emerging pollutants.
+
+SOURCE: The Royal Society of Chemistry eBooks
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2015
+TYPE: book-chapter
+CONCEPTS: ['Wastewater', 'Effluent', 'Waste management', 'Sewage', 'Leachate', 'Sewage treatment', 'Environmental science', 'Business', 'Engineering']

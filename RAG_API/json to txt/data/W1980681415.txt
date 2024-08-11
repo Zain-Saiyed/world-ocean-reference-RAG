@@ -1,0 +1,12 @@
+ID: W1980681415
+TITLE: Dynamics of Millenary Organic Deposits Resulting from the Growth of the Mediterranean SeagrassPosidonia oceanica
+AUTHOR: ['M.A. Mateo', 'Javier Romero', 'Marta Pérez', 'Mark M. Littler', 'Diane S. Littler']
+ABSTRACT:
+The Mediterranean seagrassPosidonia oceanicaaccumulates large quantities of organic debris as roots, rhizomes and leaf sheaths are progressively buried forming a bioconstruction called ‘ matte ’. The organic material remains with little morphological alteration for millennia. Several strata from these accumulations in variousP. oceanicameadows were sampled. Radiocarbon dating of samples yielded a range of 0–3370 years before present. From these data, accretion rates averaging 0·175 cm year−1(range: 0·061–0·414) were inferred. Significant differences between sites were found. Accretion rates showed significant differences between matte strata (i.e. with time), but no defined patterns were appreciated. Such differences were not coherent across sites. It is concluded that accretion rates are mainly controlled by local factors. Analysis of carbon, nitrogen and phosphorous in the organic debris showed that there was not a net release during the process of matte construction; in some sites, nitrogen and phosphorus concentration remained constant throughout the matte profile, while in the other sites, their concentration increased significantly with age. This confirms the role ofP. oceanicameadows as sinks for biogenic elements.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 323
+PUBLICATION YEAR: 1997
+TYPE: article
+CONCEPTS: ['Accretion (finance)', 'Radiocarbon dating', 'Mediterranean climate', 'Nitrogen', 'Geology', 'Rhizome', 'Total organic carbon', 'Debris', 'Organic matter', 'Mediterranean sea', 'Phosphorus', 'Environmental science', 'Mineralogy', 'Environmental chemistry', 'Oceanography', 'Geochemistry', 'Chemistry', 'Paleontology', 'Botany', 'Ecology', 'Biology', 'Physics', 'Astrophysics', 'Organic chemistry']

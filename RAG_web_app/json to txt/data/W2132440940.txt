@@ -1,0 +1,12 @@
+ID: W2132440940
+TITLE: Human Impact on Atolls Leads to Coral Loss and Community Homogenisation: A Modeling Study
+AUTHOR: ['Bernhard Riegl', 'Charles Sheppard', 'Samuel J. Purkis']
+ABSTRACT:
+We explore impacts on pristine atolls subjected to anthropogenic near-field (human habitation) and far-field (climate and environmental change) pressure. Using literature data of human impacts on reefs, we parameterize forecast models to evaluate trajectories in coral cover under impact scenarios that primarily act via recruitment and increased mortality of larger corals. From surveys across the Chagos, we investigate the regeneration dynamics of coral populations distant from human habitation after natural disturbances. Using a size-based mathematical model based on a time-series of coral community and population data from 1999-2006, we provide hind- and forecast data for coral population dynamics within lagoons and on ocean-facing reefs verified against monitoring from 1979-2009. Environmental data (currents, temperatures) were used for calibration. The coral community was simplified into growth typologies: branching and encrusting, arboresent and massive corals. Community patterns observed in the field were influenced by bleaching-related mortality, most notably in 1998. Survival had been highest in deep lagoonal settings, which suggests a refuge. Recruitment levels were higher in lagoons than on ocean-facing reefs. When adding stress by direct human pressure, climate and environmental change as increased disturbance frequency and modified recruitment and mortality levels (due to eutrophication, overfishing, pollution, heat, acidification, etc), models suggest steep declines in coral populations and loss of community diversification among habitats. We found it likely that degradation of lagoonal coral populations would impact regeneration potential of all coral populations, also on ocean-facing reefs, thus decreasing reef resilience on the entire atoll.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0036921&type=printable
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Atoll', 'Coral', 'Reef', 'Coral reef', 'Coral bleaching', 'Resilience of coral reefs', 'Ecology', 'Population', 'Overfishing', 'Ocean acidification', 'Environmental science', 'Habitat destruction', 'Coral reef protection', 'Oceanography', 'Aquaculture of coral', 'Environmental issues with coral reefs', 'Climate change', 'Habitat', 'Biology', 'Geology', 'Fishing', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W1547366511
+TITLE: Whale songs lengthen in response to sonar
+AUTHOR: ['Patrick J. O. Miller', 'Nicoletta Biassoni', 'Amy Samuels', 'Peter L. Tyack']
+ABSTRACT:
+Male humpbacks modify their sexual displays when exposed to man-made noise. There is growing concern about the effects of man-made noise on marine life. In particular, marine mammals that use sound to communicate, navigate, and detect predators and prey may try to avoid loud sound sources up to tens of kilometres away1. Here, in a study conducted in cooperation with the US Navy2, we show that the singing behaviour of male humpback whales was altered when they were exposed to LFA (low-frequency active) sonar. As the song of these whales is associated with reproduction3, widespread alteration of their singing behaviour might affect demographic parameters, or it could represent a strategy to compensate for interference from the sonar.
+
+SOURCE: Nature
+PDF URL: https://www.nature.com/articles/35016148.pdf
+CITED BY COUNT: 214
+PUBLICATION YEAR: 2000
+TYPE: article
+CONCEPTS: ['Sonar', 'Marine mammals and sonar', 'Predation', 'Singing', 'Noise (video)', 'Marine life', 'Sound exposure', 'Whale', 'Sound (geography)', 'Acoustics', 'Environmental science', 'Fishery', 'Biology', 'Oceanography', 'Ecology', 'Geology', 'Computer science', 'Artificial intelligence', 'Physics', 'Image (mathematics)']

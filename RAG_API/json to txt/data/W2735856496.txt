@@ -1,0 +1,12 @@
+ID: W2735856496
+TITLE: Global analysis of depletion and recovery of seabed biota after bottom trawling disturbance
+AUTHOR: ['Jan Geert Hiddink', 'Simon Jennings', 'Marija Sciberras', 'Claire L. Szostek', 'Kathryn M. Hughes', 'Nick Ellis', 'A.D. Rijnsdorp', 'Robert A. McConnaughey', 'Tessa Mazor', 'Ray Hilborn', 'Jeremy S. Collie', 'C. Roland Pitcher', 'Ricardo O. Amoroso', 'Ana M. Parma', 'Petri Suuronen', 'Michel J. Kaiser']
+ABSTRACT:
+Significance Bottom trawling is the most widespread source of physical disturbance to the world’s seabed. Predictions of trawling impacts are needed to underpin risk assessment, and they are relevant for the fishing industry, conservation, management, and certification bodies. We estimate depletion and recovery of seabed biota after trawling by fitting models to data from a global data compilation. Trawl gears removed 6–41% of faunal biomass per pass, and recovery times posttrawling were 1.9–6.4 y depending on fisheries and environmental context. These results allow the estimation of trawling impacts on unprecedented spatial scales and for data poor fisheries and enable an objective analysis of tradeoffs between harvesting fish and the wider ecosystem effects of such activities.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/114/31/8301.full.pdf
+CITED BY COUNT: 237
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Trawling', 'Bottom trawling', 'Biota', 'Environmental science', 'Seabed', 'Fishing', 'Fishery', 'Disturbance (geology)', 'Discards', 'Context (archaeology)', 'Biomass (ecology)', 'Ecosystem', 'Oceanography', 'Environmental resource management', 'Ecology', 'Geography', 'Geology', 'Biology', 'Paleontology', 'Archaeology']

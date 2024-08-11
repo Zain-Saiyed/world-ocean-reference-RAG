@@ -1,0 +1,12 @@
+ID: W2307984410
+TITLE: Climate change and polar range expansions: Could cuttlefish cross the Arctic?
+AUTHOR: ['José C. Xavier', 'Lloyd S. Peck', 'Peter T. Fretwell', 'John Turner']
+ABSTRACT:
+Climate change can have major effects on the distribution of species. In marine ecosystems, the cold waters of the Arctic have restricted warmer water species from crossing between Eurasia and North America. However, with Arctic waters becoming warmer, various marine species have expanded their distribution. Cuttlefish are fast-growing, voracious predators and are absent in American waters. The European cuttlefish Sepia officinalis is the most northerly distributed cuttlefish, with potential to expand its range and cross to the American continent, potentially causing changes in shelf food webs. Climate model predictions suggest that the S. officinalis could potentially reach American shores, by 2300 via the north Atlantic with medium mitigation of greenhouse gas concentrations; we predict that adult dispersal of cuttlefish across the Atlantic sector would require a migration distance of over 1400 km at depths below 200 m and temperatures above 7 °C (temperature below which cuttlefish can not maintain routine metabolic processes physiologically). For temperatures above 9.5 °C (temperature above which cuttlefish can grow), 2500 km would be required, and such conditions will possibly exist by the year 2300. If they reach American shores they could have large impacts on coastal marine ecosystems, due to their wide diet (e.g. diet covers many shallow-water crustacean and fish species) and its potential as prey, and due to their short life-history strategy of "live fast, die young".
+
+SOURCE: Marine biology
+PDF URL: None
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Cuttlefish', 'Biology', 'Sepia', 'Biological dispersal', 'Range (aeronautics)', 'Arctic', 'Climate change', 'Ecology', 'Marine ecosystem', 'Oceanography', 'Ecosystem', 'Fishery', 'Population', 'Officinalis', 'Geology', 'Botany', 'Demography', 'Materials science', 'Sociology', 'Composite material']

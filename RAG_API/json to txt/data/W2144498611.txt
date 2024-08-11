@@ -1,0 +1,12 @@
+ID: W2144498611
+TITLE: Arrival of the Fukushima radioactivity plume in North American continental waters
+AUTHOR: ['J. N. Smith', 'Robin M. Brown', 'William J. Williams', 'Marie Robert', 'Richard J. Nelson', 'S. Bradley Moran']
+ABSTRACT:
+Significance The radionuclide results in this report represent the first systematic study, to our knowledge, of the arrival of the Fukushima radioactivity signal in continental waters off North America. The present time series results are critical to an understanding of the circulation of Fukushima tracers in the eastern North Pacific and to the tuning and validation of ocean circulation models that are being used to predict the future evolution of this signal. They are also important for informing the public of the magnitude of the Fukushima radioactivity signal in North American continental waters and enabling a science-based assessment of the significance of its potential effects on human health and the environment.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/112/5/1310.full.pdf
+CITED BY COUNT: 92
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Oceanography', 'Continental shelf', 'Environmental science', 'Plume', 'Radionuclide', 'Geography', 'Geology', 'Meteorology', 'Physics', 'Quantum mechanics']

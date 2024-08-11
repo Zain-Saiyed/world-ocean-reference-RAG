@@ -1,0 +1,12 @@
+ID: W2116305548
+TITLE: An exposure-effect approach for evaluating ecosystem-wide risks from human activities
+AUTHOR: ['Antony M. Knights', 'G.J. Piet', 'R.H. Jongbloed', 'J.E. Tamis', 'Lydia White', 'Ekin Akoğlu', 'Laura Boicenco', 'T. Ya. Churilova', 'O. Kryvenko', 'Vivi Fleming-Lehtinen', 'Juha‐Markku Leppänen', 'Bella S. Galil', 'Freya Goodsir', 'Menachem Goren', 'Piotr Margoński', 'Snejana Moncheva', 'Temel Oğuz', 'Nadia Papadopoulou', 'Outi Setälä', 'C.J. Smith', 'Kremena Stefanova', 'Florin Timofte', 'Leonie Robinson']
+ABSTRACT:
+Abstract Ecosystem-based management (EBM) is promoted as the solution for sustainable use. An ecosystem-wide assessment methodology is therefore required. In this paper, we present an approach to assess the risk to ecosystem components from human activities common to marine and coastal ecosystems. We build on: (i) a linkage framework that describes how human activities can impact the ecosystem through pressures, and (ii) a qualitative expert judgement assessment of impact chains describing the exposure and sensitivity of ecological components to those activities. Using case study examples applied at European regional sea scale, we evaluate the risk of an adverse ecological impact from current human activities to a suite of ecological components and, once impacted, the time required for recovery to pre-impact conditions should those activities subside. Grouping impact chains by sectors, pressure type, or ecological components enabled impact risks and recovery times to be identified, supporting resource managers in their efforts to prioritize threats for management, identify most at-risk components, and generate time frames for ecosystem recovery.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/72/3/1105/31224884/fsu245.pdf
+CITED BY COUNT: 74
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Environmental resource management', 'Ecosystem', 'Impact assessment', 'Environmental science', 'Environmental impact assessment', 'Risk assessment', 'Ecosystem management', 'Business', 'Marine ecosystem', 'Ecosystem services', 'Resource (disambiguation)', 'Judgement', 'Environmental planning', 'Computer science', 'Ecology', 'Computer network', 'Computer security', 'Public administration', 'Political science', 'Law', 'Biology']

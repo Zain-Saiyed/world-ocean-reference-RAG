@@ -1,0 +1,12 @@
+ID: W2128578515
+TITLE: The global extent and character of marine mammal consumption by humans: 1970–2009
+AUTHOR: ['Martin D. Robards', 'Randall R. Reeves']
+ABSTRACT:
+The killing and consumption of marine mammals fuels tense global struggles between advocates of sustainable use and advocates of complete protection for these animals. However, reporting on the extent and character of marine mammal consumption by people is uneven and often anecdotal. We developed a consistent approach to summarize information from approximately 900 sources. It is now clear that human consumption of marine mammals is geographically widespread, taxonomically diverse, and often of uncertain sustainability. Since 1990, people in at least 114 countries have consumed one or more of at least 87 marine mammal species. Although changing social, ecological, or political circumstances are leading to reduced killing and consumption of marine mammals in some regions, in other regions the prevailing socio-economic conditions and new technologies are leading to increased killing and consumption, particularly of small cetaceans. Consumption of marine mammals is considered a significant aspect of food security and cultural well being in many regions, and provides some economic (including cash) benefits to people in at least 54 countries. Our review highlights an escalation in utilization of small cetaceans caught in conjunction with fishing activities since 1970, a form of fishing-up-the-food-chain. Where consumption relates to food security and poverty, we found evidence of deliberate killing of animals caught both deliberately and accidentally in fishing gear. Constraints on government agencies responsible for implementing regulations, often due to the geographic remoteness of catches, mean that greater understanding is needed of the motivations that underlie consumption of marine mammals so that more effective conservation measures can be designed and implemented.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 85
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Marine mammal', 'Consumption (sociology)', 'Fishing', 'Sustainability', 'Politics', 'Geography', 'Poverty', 'Marine conservation', 'Food security', 'Ecology', 'Natural resource economics', 'Fishery', 'Biology', 'Political science', 'Economics', 'Economic growth', 'Sociology', 'Agriculture', 'Social science', 'Law']

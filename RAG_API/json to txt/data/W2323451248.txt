@@ -1,0 +1,12 @@
+ID: W2323451248
+TITLE: Sensitivity of Global Upper-Ocean Heat Content Estimates to Mapping Methods, XBT Bias Corrections, and Baseline Climatologies*
+AUTHOR: ['Tim Boyer', 'Catia M. Domingues', 'Simon Good', 'Gregory C. Johnson', 'John M. Lyman', 'Masayoshi Ishii', 'Viktor Gouretski', 'Josh Willis', 'John I. Antonov', 'Susan Wijffels', 'John A. Church', 'Rebecca Cowley', 'Nathaniel L. Bindoff']
+ABSTRACT:
+Abstract Ocean warming accounts for the majority of the earth’s recent energy imbalance. Historic ocean heat content (OHC) changes are important for understanding changing climate. Calculations of OHC anomalies (OHCA) from in situ measurements provide estimates of these changes. Uncertainties in OHCA estimates arise from calculating global fields from temporally and spatially irregular data (mapping method), instrument bias corrections, and the definitions of a baseline climatology from which anomalies are calculated. To investigate sensitivity of OHCA estimates for the upper 700 m to these different factors, the same quality-controlled dataset is used by seven groups and comparisons are made. Two time periods (1970–2008 and 1993–2008) are examined. Uncertainty due to the mapping method is 16.5 ZJ for 1970–2008 and 17.1 ZJ for 1993–2008 (1 ZJ = 1 × 1021 J). Uncertainty due to instrument bias correction varied from 8.0 to 17.9 ZJ for 1970–2008 and from 10.9 to 22.4 ZJ for 1993–2008, depending on mapping method. Uncertainty due to baseline mean varied from 3.5 to 14.5 ZJ for 1970–2008 and from 2.7 to 9.8 ZJ for 1993–2008, depending on mapping method and offsets. On average mapping method is the largest source of uncertainty. The linear trend varied from 1.3 to 5.0 ZJ yr−1 (0.08–0.31 W m−2) for 1970–2008 and from 1.5 to 9.4 ZJ yr−1 (0.09–0.58 W m−2) for 1993–2008, depending on method, instrument bias correction, and baseline mean. Despite these complications, a statistically robust upper-ocean warming was found in all cases for the full time period.
+
+SOURCE: Journal of climate
+PDF URL: None
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Bathythermograph', 'Climatology', 'Baseline (sea)', 'Environmental science', 'Climate change', 'Sensitivity (control systems)', 'Geology', 'Oceanography', 'Electronic engineering', 'Engineering']

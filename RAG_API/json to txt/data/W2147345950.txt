@@ -1,0 +1,12 @@
+ID: W2147345950
+TITLE: Smallest Algae Thrive As the Arctic Ocean Freshens
+AUTHOR: ['William K. W. Li', 'Fiona McLaughlin', 'Connie Lovejoy', 'Eddy C. Carmack']
+ABSTRACT:
+In the Arctic Ocean, phytoplankton cell sizes have decreased with warming temperatures and fresher surface waters.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 623
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Algae', 'Arctic', 'The arctic', 'Oceanography', 'Environmental science', 'Biology', 'Ecology', 'Geology']

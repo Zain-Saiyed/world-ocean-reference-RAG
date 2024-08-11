@@ -1,0 +1,12 @@
+ID: W1989462760
+TITLE: Can We Protect Seamounts for Research? A Call for Conservation
+AUTHOR: ['Telmo Morato', 'Tony J. Pitcher', 'Malcolm R. Clark', 'Gui Menezes', 'Fernando Tempera', 'Filipe M. Porteiro', 'Eva Giacomello', 'Ricardo S. Santos']
+ABSTRACT:
+Can We Protect seamounts for Research?abstR aCt.Extractive processes such as fishing and mining are degrading seamount ecosystems considerably, raising serious concerns about the impacts of these practices on global ocean biodiversity and key fluxes.Despite the data collected to date, we remain ignorant of the quantitative details of many of these issues.To address this limitation, we call for the closure of selected seamounts for research purposes.These research seamounts will act as baselines for recovery, and should be earmarked for monitoring and fundamental research.We describe an innovative bio-observatory at Condor Seamount in the Azores as one possible model.
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/23-1_morato.pdf
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seamount', 'Environmental science', 'Oceanography', 'Geology']

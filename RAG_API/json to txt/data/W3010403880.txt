@@ -1,0 +1,12 @@
+ID: W3010403880
+TITLE: Sandy coastlines under threat of erosion
+AUTHOR: ['Michalis Vousdoukas', 'Roshanka Ranasinghe', 'Lorenzo Mentaschi', 'Theocharis A. Plomaritis', 'Panagiotis Athanasiou', 'Arjen Luijendijk', 'Luc Feyen']
+ABSTRACT:
+Sandy beaches occupy more than one-third of the global coastline1 and have high socioeconomic value related to recreation, tourism and ecosystem services2. Beaches are the interface between land and ocean, providing coastal protection from marine storms and cyclones3. However the presence of sandy beaches cannot be taken for granted, as they are under constant change, driven by meteorological4,5, geological6 and anthropogenic factors1,7. A substantial proportion of the world’s sandy coastline is already eroding1,7, a situation that could be exacerbated by climate change8,9. Here, we show that ambient trends in shoreline dynamics, combined with coastal recession driven by sea level rise, could result in the near extinction of almost half of the world’s sandy beaches by the end of the century. Moderate GHG emission mitigation could prevent 40% of shoreline retreat. Projected shoreline dynamics are dominated by sea level rise for the majority of sandy beaches, but in certain regions the erosive trend is counteracted by accretive ambient shoreline changes; for example, in the Amazon, East and Southeast Asia and the north tropical Pacific. A substantial proportion of the threatened sandy shorelines are in densely populated areas, underlining the need for the design and implementation of effective adaptive measures. Erosion is a major problem facing sandy beaches that will probably worsen with climate change and sea-level rise. Half the world’s beaches, many of which are in densely populated areas, could disappear by the end of the century under current trends; mitigation could lessen retreat by 40%.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 417
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Shore', 'Coastal erosion', 'Threatened species', 'Climate change', 'Storm', 'Coastal management', 'Geography', 'Recreation', 'Oceanography', 'Sea level', 'Erosion', 'Ecosystem', 'Physical geography', 'Environmental science', 'Geology', 'Ecology', 'Habitat', 'Paleontology', 'Biology']

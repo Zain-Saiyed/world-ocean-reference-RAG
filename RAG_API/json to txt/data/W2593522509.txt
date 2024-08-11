@@ -1,0 +1,12 @@
+ID: W2593522509
+TITLE: An approach for effective stakeholder engagement as an essential component of the ecosystem approach
+AUTHOR: ['Jennifer Oates', 'Lyndsey A. Dodds']
+ABSTRACT:
+The Ecosystem Approach to Management (EAM) has emerged over the past decades, largely to promote biodiversity conservation, and more recently sectoral tradeoffs in the management of marine ecosystems. To ascertain the state of practice of EAM operationalization, a workshop was held, which included a pre-workshop online survey. The survey gauged international participants’ perspectives regarding capacity, knowledge, and application of EAM. When asked about the subject, most survey respondents had a general understanding of EAM, and provided a clear definition. Major perceived challenges to EAM objectives by those surveyed included limited knowledge, conflicting interests, insufficient communication, and limited organizational legal frameworks or governance structures. Of those directly involved in an ecosystem approach, the majority responded that processes were in place or developed for application of integrated knowledge toward assessing key issues within their respective sectors (i.e. fisheries, conservation, energy), and that capacity was generally high. Our results show that most respondents, irrespective of sector or geography, see value in considering an integrated, broader ecosystem approach as they manage their sector. Although many participants were from the North Atlantic region, our results suggest that much of the international community is converging toward continued understanding of broad-scale, integrated approaches to marine resource management.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/74/1/414/31244132/fsw214.pdf
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Stakeholder engagement', 'Component (thermodynamics)', 'Ecosystem approach', 'Ecosystem', 'Stakeholder', 'Environmental resource management', 'Business', 'Environmental planning', 'Environmental science', 'Ecology', 'Political science', 'Biology', 'Public relations', 'Physics', 'Thermodynamics']

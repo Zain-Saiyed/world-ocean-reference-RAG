@@ -1,0 +1,12 @@
+ID: W2980100895
+TITLE: Impacts of ionising radiation on sperm quality, DNA integrity and post-fertilisation development in marine and freshwater crustaceans
+AUTHOR: ['Neil Fuller', 'Jim Smith', 'Alex T. Ford']
+ABSTRACT:
+Crustaceans have been designated as internationally important model organisms in the development of environmental radioprotection measures. Despite the known sensitivity of sperm to ionizing radiation, the impacts of chronic radiation exposure on male fertility in crustaceans have not been studied. For the first time, the present study aimed to assess the impacts of chronic radiation exposure on male fertility, sperm DNA damage and concomitant impacts on breeding in two amphipod crustaceans. Echinogammarus marinus and Gammarus pulex (male fertility only) were exposed to phosphorus-32 at dose rates of 0, 0.1, 1 and 10 mGy/d and sperm parameters, DNA damage and knock-on impacts on breeding were assessed. Sperm quality parameters and DNA damage were assessed using a fluorescent staining method and single cell gel electrophoresis respectively. Concomitant effects of male exposure to radiation on fecundity were determined by pairing phosphorus-32 exposed males to unexposed sexually mature females. In E. marinus, a statistically significant reduction of 9 and 11% in the quality of sperm was recorded at dose rates of 1 and 10 mGy/d respectively, with no significant effects recorded on sperm counts. Conversely in the freshwater G. pulex, no significant impact of radiation on sperm quantity or quality was recorded. For E. marinus, a statistically significant increase in DNA damage was recorded at doses of 10 mGy/d. Reduced fecundity and an increase in the frequency of abnormal embryos was recorded in female E. marinus breeding with males exposed to radiation. These findings suggest sperm quality may be a sensitive indicator of radiation exposure in invertebrates with potential impacts on the unexposed embryo, though unclear dose-response and differences between two closely related species necessitate further study before robust conclusions can be drawn.
+
+SOURCE: Ecotoxicology and environmental safety
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Sperm', 'Biology', 'Fecundity', 'Gammarus pulex', 'Crustacean', 'Fertility', 'Pulex', 'Fertilisation', 'Toxicology', 'Semen quality', 'Zoology', 'Andrology', 'Amphipoda', 'Embryo', 'Fishery', 'Population', 'Botany', 'Embryogenesis', 'Medicine', 'Reproductive technology', 'Daphnia', 'Environmental health']

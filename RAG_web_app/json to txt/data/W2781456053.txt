@@ -1,0 +1,12 @@
+ID: W2781456053
+TITLE: Impacts of Coastal Land Use and Shoreline Armoring on Estuarine Ecosystems: an Introduction to a Special Issue
+AUTHOR: ['Diann J. Prosser', 'Thomas E. Jordan', 'Jessica L. Nagel', 'Rochelle D. Seitz', 'Donald E. Weller', 'Dennis F. Whigham']
+ABSTRACT:
+Abstract The nearshore land-water interface is an important ecological zone that faces anthropogenic pressure from development in coastal regions throughout the world. Coastal waters and estuaries like Chesapeake Bay receive and process land discharges loaded with anthropogenic nutrients and other pollutants that cause eutrophication, hypoxia, and other damage to shallow-water ecosystems. In addition, shorelines are increasingly armored with bulkhead (seawall), riprap, and other structures to protect human infrastructure against the threats of sea-level rise, storm surge, and erosion. Armoring can further influence estuarine and nearshore marine ecosystem functions by degrading water quality, spreading invasive species, and destroying ecologically valuable habitat. These detrimental effects on ecosystem function have ramifications for ecologically and economically important flora and fauna. This special issue of Estuaries and Coasts explores the interacting effects of coastal land use and shoreline armoring on estuarine and coastal marine ecosystems. The majority of papers focus on the Chesapeake Bay region, USA, where 50 major tributaries and an extensive watershed (~ 167,000 km 2 ), provide an ideal model to examine the impacts of human activities at scales ranging from the local shoreline to the entire watershed. The papers consider the influence of watershed land use and natural versus armored shorelines on ecosystem properties and processes as well as on key natural resources.
+
+SOURCE: Estuaries and coasts
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs12237-017-0331-1.pdf
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seawall', 'Estuary', 'Environmental science', 'Ecosystem', 'Watershed', 'Shore', 'Bulkhead (partition)', 'Tributary', 'Ecology', 'Oceanography', 'Geography', 'Geology', 'Cartography', 'Machine learning', 'Computer science', 'Biology']

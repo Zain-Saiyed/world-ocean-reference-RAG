@@ -1,0 +1,12 @@
+ID: W2175820226
+TITLE: Assessing cumulative visual impacts in coastal areas of the Baltic Sea
+AUTHOR: ['Daniel Depellegrin']
+ABSTRACT:
+Anthropogenic activity such as offshore wind energy farm development, shipping activity, resource extraction platforms or marine aquaculture can have adverse impacts on the visual quality of coastal landscapes. GIS-based viewshed analysis is the most widely used technique to address visual impacts. However, despite the wide application its spatial extent remains limited to local and regional studies. This study presents a GIS-based model for cumulative visual impact assessment on macro-regional scale based on a case study for the Baltic Sea. The viewshed model was deployed over a visibility zone covering 54% (223.641 km2) of the Baltic Sea space using a database of 63,672 observation points integrated by geospatial data on existing and planned sea uses representing potential visual stressors. Results show that areas of highest potential visual impact are sheltered coastal areas with complex geomorphological features such as barrier islands, peninsulas, straits, archipelagos and lagoons in combination with intensive anthropogenic activity and presence of nature protected areas. The methodology can be applied to any coastal area of the world to classify coastal areas due to their cumulative viewshed characteristics and as early monitoring tool for visual impact assessment on transboundary scale.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Viewshed analysis', 'Archipelago', 'Geography', 'Environmental resource management', 'Environmental science', 'Marine spatial planning', 'Geospatial analysis', 'Geographic information system', 'Impact assessment', 'Physical geography', 'Cartography', 'Archaeology', 'Public administration', 'Political science']

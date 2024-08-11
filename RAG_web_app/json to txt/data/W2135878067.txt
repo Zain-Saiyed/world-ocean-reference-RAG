@@ -1,0 +1,12 @@
+ID: W2135878067
+TITLE: Global distribution of naturally occurring marine hypoxia on continental margins
+AUTHOR: ['J. Helly', 'Lisa A. Levin']
+ABSTRACT:
+Hypoxia in the ocean influences biogeochemical cycling of elements, the distribution of marine species and the economic well being of many coastal countries. Previous delineations of hypoxic environments focus on those in enclosed seas where hypoxia may be exacerbated by anthropogenically induced eutrophication. Permanently hypoxic water masses in the open ocean, referred to as oxygen minimum zones, impinge on a much larger seafloor surface area along continental margins of the eastern Pacific, Indian and western Atlantic Oceans. We provide the first global quantification of naturally hypoxic continental margin floor by determining upper and lower oxygen minimum zone depth boundaries from hydrographic data and computing the area between the isobaths using seafloor topography. This approach reveals that there are over one million km2 of permanently hypoxic shelf and bathyal sea floor, where dissolved oxygen is <0.5 ml l−1; over half (59%) occurs in the northern Indian Ocean. We also document strong variation in the intensity, vertical position and thickness of the OMZ as a function of latitude in the eastern Pacific Ocean and as a function of longitude in the northern Indian Ocean. Seafloor OMZs are regions of low biodiversity and are inhospitable to most commercially valuable marine resources, but support a fascinating array of protozoan and metazoan adaptations to hypoxic conditions.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 690
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Seafloor spreading', 'Oceanography', 'Oxygen minimum zone', 'Continental margin', 'Continental shelf', 'Bathyal zone', 'Hypoxia (environmental)', 'Seabed', 'Geology', 'Biogeochemical cycle', 'Hydrography', 'Bottom water', 'Benthic zone', 'Upwelling', 'Paleontology', 'Ecology', 'Tectonics', 'Biology', 'Chemistry', 'Organic chemistry', 'Oxygen']

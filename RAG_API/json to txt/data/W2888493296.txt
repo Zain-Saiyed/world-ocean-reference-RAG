@@ -1,0 +1,12 @@
+ID: W2888493296
+TITLE: Global long-term observations of coastal erosion and accretion
+AUTHOR: ['Lorenzo Mentaschi', 'Michalis Vousdoukas', 'Jean‐François Pekel', 'Evangelos Voukouvalas', 'Luc Feyen']
+ABSTRACT:
+Abstract Changes in coastal morphology have broad consequences for the sustainability of coastal communities, structures and ecosystems. Although coasts are monitored locally in many places, understanding long-term changes at a global scale remains a challenge. Here we present a global and consistent evaluation of coastal morphodynamics over 32 years (1984–2015) based on satellite observations. Land losses and gains were estimated from the changes in water presence along more than 2 million virtual transects. We find that the overall surface of eroded land is about 28,000 km 2 , twice the surface of gained land, and that often the extent of erosion and accretion is in the order of km. Anthropogenic factors clearly emerge as the dominant driver of change, both as planned exploitation of coastal resources, such as building coastal structures, and as unforeseen side effects of human activities, for example the installment of dams, irrigation systems and structures that modify the flux of sediments, or the clearing of coastal ecosystems, such as mangrove forests. Another important driver is the occurrence of natural disasters such as tsunamis and extreme storms. The observed global trend in coastal erosion could be enhanced by Sea Level Rise and more frequent extreme events under a changing climate.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-30904-w.pdf
+CITED BY COUNT: 405
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Accretion (finance)', 'Coastal erosion', 'Erosion', 'Environmental science', 'Beach morphodynamics', 'Ecosystem', 'Mangrove', 'Storm', 'Climate change', 'Global change', 'Natural (archaeology)', 'Storm surge', 'Physical geography', 'Oceanography', 'Ecology', 'Geography', 'Geology', 'Sediment transport', 'Sediment', 'Geomorphology', 'Physics', 'Archaeology', 'Astrophysics', 'Biology']

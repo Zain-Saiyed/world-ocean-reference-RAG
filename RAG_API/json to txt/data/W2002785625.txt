@@ -1,0 +1,12 @@
+ID: W2002785625
+TITLE: Services from the deep: Steps towards valuation of deep sea goods and services
+AUTHOR: ['Claire W. Armstrong', 'Naomi Foley', 'Rob Tinch', 'Sybille van den Hove']
+ABSTRACT:
+Very little work has been done to identify and characterise the goods and services of the sea, and even less for the deep sea. We present a first categorisation and synthesis of deep-sea ecosystem goods and services, and review the current state of human knowledge about these services, the possible methods of their valuation, and possible steps forward in its implementation. Our conclusions highlight the nature and extent of research that is needed to overcome the gaps in knowledge that have been identified, and which have so far prevented the valuation of most deep-sea ecosystem goods and services.
+
+SOURCE: Ecosystem services
+PDF URL: None
+CITED BY COUNT: 150
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Valuation (finance)', 'Goods and services', 'Ecosystem valuation', 'Business', 'Environmental resource management', 'Ecosystem', 'Environmental economics', 'Economics', 'Ecology', 'Ecosystem health', 'Economy', 'Finance', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2146912351
+TITLE: Diversity of the arctic deep-sea benthos
+AUTHOR: ['Bodil A. Bluhm', 'William G. Ambrose', 'Melanie Bergmann', 'Lisa Clough', 'Andrey Gebruk', 'Christiane Hasemann', 'Katrin Iken', 'Michaël Klages', 'Ian R. MacDonald', 'Paul E. Renaud', 'Ingo Schewe', 'Thomas Soltwedel', 'Maria Włodarska‐Kowalczuk']
+ABSTRACT:
+A benthic species inventory of 1,125 taxa was compiled from various sources for the central Arctic deeper than 500 m, and bounded to the Atlantic by Fram Strait. The inventory was dominated by arthropods (366 taxa), foraminiferans (197), annelids (194), and nematodes (140). An additional 115 taxa were added from the Greenland–Iceland–Norwegian Seas (GIN). Approximately half of all taxa were recorded from only 1 or 2 locations. A large overlap in taxa with Arctic shelf species supports previous findings that part of the deep-sea fauna originates from shelf species. Macrofaunal abundance, meiofaunal abundance and macrofaunal biomass decreased significantly with water depth. Robust diversity indices could only be calculated for the polychaetes, for which S, ES(20), H' and Delta+ decreased significantly with water depth, and all but ES(20) decreased slightly with latitude. Species evenness increased with depth and latitude. No mid-depth peak in species richness was observed. Multivariate analysis of the Eurasian, Amerasian and GIN Seas polychaete occurrences revealed a strong Atlantic influence, the absence of modern Pacific fauna, and the lack of a barrier effect by mid-Arctic ridges. Regional differences appear to be moderate on the species level and minor on the family level, although the analysis was confounded by a lack of methodological standardization and inconsistent taxonomic resolution. Future efforts should use more consistent methods to observe temporal trends and help fill the largest sampling gaps (i.e. eastern Canada Basin, depths >3,000 m, megafauna) to address how climate warming, and the shrinking of the perennial ice cover will alter deep-sea communities.
+
+SOURCE: Marine biodiversity
+PDF URL: https://link.springer.com/content/pdf/10.1007/s12526-010-0078-4.pdf
+CITED BY COUNT: 80
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Species richness', 'Benthic zone', 'Arctic', 'Benthos', 'Ecology', 'Oceanography', 'Fauna', 'Abundance (ecology)', 'Megafauna', 'Species evenness', 'Biodiversity', 'Taxon', 'Biomass (ecology)', 'Species diversity', 'Geography', 'Biology', 'Geology', 'Paleontology', 'Pleistocene']

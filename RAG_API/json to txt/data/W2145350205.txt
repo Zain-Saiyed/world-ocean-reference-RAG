@@ -1,0 +1,12 @@
+ID: W2145350205
+TITLE: Interactive and cumulative effects of multiple human stressors in marine systems
+AUTHOR: ['Caitlin M. Crain', 'Kristy J. Kroeker', 'Benjamin S. Halpern']
+ABSTRACT:
+Abstract Humans impact natural systems in a multitude of ways, yet the cumulative effect of multiple stressors on ecological communities remains largely unknown. Here we synthesized 171 studies that manipulated two or more stressors in marine and coastal systems and found that cumulative effects in individual studies were additive (26%), synergistic (36%), and antagonistic (38%). The overall interaction effect across all studies was synergistic, but interaction type varied by response level (community: antagonistic, population: synergistic), trophic level (autotrophs: antagonistic, heterotrophs: synergistic), and specific stressor pair (seven pairs additive, three pairs each synergistic and antagonistic). Addition of a third stressor changed interaction effects significantly in two‐thirds of all cases and doubled the number of synergistic interactions. Given that most studies were performed in laboratories where stressor effects can be carefully isolated, these three‐stressor results suggest that synergies may be quite common in nature where more than two stressors almost always coexist. While significant gaps exist in multiple stressor research, our results suggest an immediate need to account for stressor interactions in ecological studies and conservation planning.
+
+SOURCE: Ecology letters
+PDF URL: None
+CITED BY COUNT: 1637
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Stressor', 'Cumulative effects', 'Ecology', 'Trophic level', 'Biology', 'Population', 'Interaction', 'Environmental health', 'Medicine', 'Neuroscience', 'Agronomy']

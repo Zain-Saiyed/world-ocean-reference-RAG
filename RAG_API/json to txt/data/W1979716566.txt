@@ -1,0 +1,12 @@
+ID: W1979716566
+TITLE: Anthropogenic impacts on water quality of the lagoonal coast of Fongafale Islet, Funafuti Atoll, Tuvalu
+AUTHOR: ['Masafumi Fujita', 'Jumpei Suzuki', 'Daisaku Sato', 'Yuji Kuwahara', 'Hiromune Yokoki', 'Hajime Kayanne']
+ABSTRACT:
+Water pollution, evident by negative values of redox potential in waters, occurs at the lagoonal coast located near the densely populated area of Fongafale Islet on Funafuti Atoll, Tuvalu, Central Pacific. Sediment microbial quinone analysis revealed that these coastal sediments exhibit 2.7–10.4 times more microbial biomass, significantly different microbial community structure and low microbial diversity, when compared to an undisturbed natural coastal sediment. Thus, the pollution is chronic. By considering the total land use/coverage on the islet, the situation of septic tank installations, temporal changes in water redox potential and Escherichia coli numbers in the coastal waters and the spatial distribution of acid volatile sulfide in the sediments, we conclude that domestic wastewater is the primary source of pollution. This pollution is proposed to occur via the following mechanism: during ebb tides, domestic wastewater leaking from bottomless septic tanks and pit toilets run off into the lagoonal coast. Tide changes control the pollution load of domestic wastewater.
+
+SOURCE: Sustainability science
+PDF URL: https://link.springer.com/content/pdf/10.1007/s11625-013-0204-x.pdf
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Atoll', 'Pollution', 'Environmental science', 'Sediment', 'Wastewater', 'Estuary', 'Water quality', 'Septic tank', 'Biomass (ecology)', 'Water pollution', 'Hydrology (agriculture)', 'Oceanography', 'Ecology', 'Environmental engineering', 'Geology', 'Reef', 'Biology', 'Paleontology', 'Geotechnical engineering']

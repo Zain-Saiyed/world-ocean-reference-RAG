@@ -1,0 +1,12 @@
+ID: W2008177998
+TITLE: Ecologic patterns of living planktonic Foraminifera
+AUTHOR: ['Wolfgang Berger']
+ABSTRACT:
+Abundances of planktonic Foraminifera appear to be correlated with food supply. Reported concentrations in surface waters typically range from 1 or less to 100,000,000 specimens per 1000 m3, depending largely on the sampling gear used. Variations due to different mesh sizes can be partly eliminated by transforming numbers of Foraminifera into nominal foraminiferal volumes. It then becomes apparent that the highest concentrations (North Pacific) are about a thousand times greater than the lowest ones (Sargasso Sea). In general, total abundances in the Atlantic seem about half as great as those of the Indo-Pacific, in striking contrast to the distribution of foraminiferal sedimentation rates, which are highest in the Atlantic. Small Foraminifera dominate in cold, fertile (phosphate-rich) regions, and large ones in warm, less fertile regions. Many species adapted to extremes of the foraminiferal habitat range are among the most restricted environmentally. Species distributions correlate about equally well with surface temperatures and salinities and with subsurface parameters defining water masses. Depth distributions of living Foraminifera and of empty shells are incompatible with previously suggested life spans and settling speeds, and turnover rates of a few days appear possible under certain circumstances. Species depth patterns are similar for the Pacific and the Atlantic; two factors seem responsible: (1) tropical submergence, and (2) specific depth preferences. Complications arise from possible misidentification of geronts at depth. Day-night abundance variations exist at least in some species but the causes are unknown.
+
+SOURCE: Deep-sea research and oceanographic abstracts/Deep sea research and oceanographic abstracts
+PDF URL: None
+CITED BY COUNT: 101
+PUBLICATION YEAR: 1969
+TYPE: article
+CONCEPTS: ['Foraminifera', 'Oceanography', 'Range (aeronautics)', 'Plankton', 'Abundance (ecology)', 'Settling', 'Geology', 'Sedimentation', 'Habitat', 'Ecology', 'Paleontology', 'Environmental science', 'Biology', 'Sediment', 'Benthic zone', 'Materials science', 'Environmental engineering', 'Composite material']

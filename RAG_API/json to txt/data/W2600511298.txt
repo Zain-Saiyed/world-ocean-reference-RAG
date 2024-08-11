@@ -1,0 +1,12 @@
+ID: W2600511298
+TITLE: Estuarine Mangrove Squeeze in the Mekong Delta, Vietnam
+AUTHOR: ['Truong Hong Son', 'Qinghua Ye', 'Marcel Stive']
+ABSTRACT:
+Truong, S.H.; Ye, Q., and Stive, M.J.F., 2017. Estuarine mangrove squeeze in the Mekong Delta, Vietnam.Although the protective role of mangroves for coasts has been increasingly recognized, that of estuarine mangroves is less well acknowledged. The complex root, stem, and canopy system of healthy estuarine mangroves efficiently reduces the impact of a strong, along-bank flow during high tides and high river discharge, protecting the riverbank from eroding. If a sediment source is available, a healthy mangrove forest also offers a higher potential for sedimentation to compensate for sea-level rise. Unfortunately, along the Mekong, Vietnam, estuaries, mangroves have been rapidly destroyed. In many regions, estuarine mangroves have degraded into narrow strips of <50 m. Riverbanks at those locations are eroding at a rate of 2–4 m y−1. The main reason for this “estuarine mangrove squeeze” phenomenon is due to the increasing demand to create more space for local fish farming. Hence, squeeze is used in a broader sense than in the context of sea-level rise impact alone. The hypothesis is that there is a critical minimum width for an estuarine mangrove forest strip to maintain its ability to survive. The analysis of available data, both from literature and from satellite observations, supports the hypothesis: An average critical width for Mekong estuaries was found to be approximately 80 m. To obtain insight into the efficiency of a mangrove forest in reducing the impacts of alongshore flow, the state-of-the-art Delft3D model was applied to the data. The model showed that the penetration-length scale of the shear layer into a mangrove forest requires a certain minimum space to develop fully. It is hypothesized that the minimum width of a mangrove forest, which equals this maximum penetration-length scale, has a crucial role for the health of a mangrove system.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Mangrove', 'Estuary', 'Environmental science', 'Sediment', 'Context (archaeology)', 'Delta', 'Aerial root', 'Fishery', 'Ecology', 'Oceanography', 'Geography', 'Geology', 'Biology', 'Aerospace engineering', 'Engineering', 'Paleontology', 'Archaeology']

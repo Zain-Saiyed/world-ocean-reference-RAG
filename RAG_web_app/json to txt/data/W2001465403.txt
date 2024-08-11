@@ -1,0 +1,12 @@
+ID: W2001465403
+TITLE: The structure of a bottlenose dolphin society is coupled to a unique foraging cooperation with artisanal fishermen
+AUTHOR: ['Fábio G. Daura‐Jorge', 'Maurício Cantor', 'Simon Ingram', 'David Lusseau', 'Paulo César Simões-Lopes']
+ABSTRACT:
+Diverse and localized foraging behaviours have been reported in isolated populations of many animal species around the world. In Laguna, southern Brazil, a subset of resident bottlenose dolphins (Tursiops truncatus) uses a foraging tactic involving cooperative interactions with local, beach-casting fishermen. We used individual photo-identification data to assess whether cooperative and non-cooperative dolphins were socially segregated. The social structure of the population was found to be a fission-fusion system with few non-random associations, typical for this species. However, association values were greater among cooperative dolphins than among non-cooperative dolphins or between dolphins from different foraging classes. Furthermore, the dolphin social network was divided into three modules, clustering individuals that shared or lacked the cooperative foraging tactic. Space-use patterns were not sufficient to explain this partitioning, indicating a behavioural factor. The segregation of dolphins using different foraging tactics could result from foraging behaviour driving social structure, while the closer association between dolphins engaged in the cooperation could facilitate the transmission and learning of this behavioural trait from conspecifics. This unique case of a dolphin-human interaction represents a valuable opportunity to explore hypotheses on the role of social learning in wild cetaceans.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2012.0174
+CITED BY COUNT: 122
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Biology', 'Foraging', 'Bottlenose dolphin', 'Fishery', 'Ecology', 'Zoology']

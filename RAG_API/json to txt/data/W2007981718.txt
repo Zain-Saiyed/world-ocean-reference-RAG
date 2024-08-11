@@ -1,0 +1,12 @@
+ID: W2007981718
+TITLE: Millimeter-Sized Marine Plastics: A New Pelagic Habitat for Microorganisms and Invertebrates
+AUTHOR: ['Júlia Reisser', 'Jeremy Shaw', 'Gustaaf M. Hallegraeff', 'Maíra Proietti', 'David K. A. Barnes', 'Michele Thums', 'Chris Wilcox', 'Britta Denise Hardesty', 'Charitha Pattiaratchi']
+ABSTRACT:
+Millimeter-sized plastics are abundant in most marine surface waters, and known to carry fouling organisms that potentially play key roles in the fate and ecological impacts of plastic pollution. In this study we used scanning electron microscopy to characterize biodiversity of organisms on the surface of 68 small floating plastics (length range = 1.7-24.3 mm, median = 3.2 mm) from Australia-wide coastal and oceanic, tropical to temperate sample collections. Diatoms were the most diverse group of plastic colonizers, represented by 14 genera. We also recorded 'epiplastic' coccolithophores (7 genera), bryozoans, barnacles (Lepas spp.), a dinoflagellate (Ceratium), an isopod (Asellota), a marine worm, marine insect eggs (Halobates sp.), as well as rounded, elongated, and spiral cells putatively identified as bacteria, cyanobacteria, and fungi. Furthermore, we observed a variety of plastic surface microtextures, including pits and grooves conforming to the shape of microorganisms, suggesting that biota may play an important role in plastic degradation. This study highlights how anthropogenic millimeter-sized polymers have created a new pelagic habitat for microorganisms and invertebrates. The ecological ramifications of this phenomenon for marine organism dispersal, ocean productivity, and biotransfer of plastic-associated pollutants, remains to be elucidated.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0100289&type=printable
+CITED BY COUNT: 381
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Biota', 'Ecology', 'Invertebrate', 'Biology', 'Marine invertebrates', 'Biodiversity', 'Extreme environment', 'Habitat', 'Microorganism', 'Biological dispersal', 'Bacteria', 'Population', 'Demography', 'Sociology', 'Genetics']

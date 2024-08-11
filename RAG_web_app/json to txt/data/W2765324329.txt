@@ -1,0 +1,12 @@
+ID: W2765324329
+TITLE: Marine Noise Budgets in Practice
+AUTHOR: ['Nathan D. Merchant', 'Rebecca C. Faulkner', 'Roi Martinez']
+ABSTRACT:
+Abstract Many countries have made statutory commitments to ensure that underwater noise pollution is at levels which do not harm marine ecosystems. Nevertheless, coordinated action to manage cumulative noise levels is lacking, despite broad recognition of the risks to ecosystem health. We attribute this impasse to a lack of quantitative management targets—or “noise budgets”—which regulatory decision‐makers can work toward, and propose a framework of risk‐based noise exposure indicators which make such targets possible. These indicators employ novel noise exposure curves to quantify the proportion of a population or habitat exposed, and the associated exposure duration. This methodology facilitates both place‐based and ecosystem‐based approaches, enabling the integration of noise management into marine spatial planning, risk assessment of population‐level consequences, and cumulative effects assessment. Using data from the first international assessment of impulsive noise activity, we apply this approach to herring spawning and harbor porpoise in the North Sea.
+
+SOURCE: Conservation letters
+PDF URL: https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/conl.12420
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine spatial planning', 'Environmental resource management', 'Marine ecosystem', 'Noise (video)', 'Ecosystem-based management', 'Cumulative effects', 'Porpoise', 'Environmental science', 'Population', 'Noise pollution', 'Duration (music)', 'Ecosystem', 'Environmental planning', 'Computer science', 'Ecology', 'Harbour', 'Biology', 'Environmental health', 'Medicine', 'Art', 'Literature', 'Artificial intelligence', 'Noise reduction', 'Image (mathematics)', 'Programming language']

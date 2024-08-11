@@ -1,0 +1,12 @@
+ID: W2218613337
+TITLE: Multi-decadal shoreline changes in response to sea level rise in the Marshall Islands
+AUTHOR: ['Murray R. Ford', 'Paul S. Kench']
+ABSTRACT:
+Low-lying reef islands are considered highly vulnerable to the impacts of climate change. Accelerating rates of sea level rise as a result of anthropogenic climate change are expected to destabilise islands and threaten to render entire nations uninhabitable. Using historic aerial photographs and recent high-resolution satellite imagery, shoreline changes on six atolls and two mid-ocean reef islands in the Republic of the Marshall Islands were analysed. Results reveal that since the middle of the 20th century more shoreline has accreted than eroded, with 17.23% showing erosion, compared to 39.74% accretion and 43.03% showing no change. The net result of these changes was the growth of the islands examined from 9.09 km2 to 9.46 km2 between World War Two (WWII) and 2010. Analyses of shoreline changes since the 1970s show that shorelines are accreting albeit at a slower rate, with rates of change between the 1970s and 2010 of 0.29 m/dec compared with 0.77 m/dec between WWII and 1970s. The observed shoreline changes occur in the context of locally rising sea level. As sea level continues to rise there is a critical need for regular monitoring of reef islands in order to better understand the spatio-temporal variability of reef island change and guide future adaptation efforts within atoll nations.
+
+SOURCE: Anthropocene
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S2213305415300199
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Shore', 'Atoll', 'Reef', 'Climate change', 'Oceanography', 'Coastal erosion', 'Accretion (finance)', 'Context (archaeology)', 'Sea level', 'Sea level rise', 'Physical geography', 'Geography', 'Geology', 'Bay', 'Archaeology', 'Physics', 'Astrophysics']

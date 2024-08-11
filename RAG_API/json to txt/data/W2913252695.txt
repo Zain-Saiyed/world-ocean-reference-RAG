@@ -1,0 +1,12 @@
+ID: W2913252695
+TITLE: A Global 3‐D Ocean Model for PCBs: Benchmark Compounds for Understanding the Impacts of Global Change on Neutral Persistent Organic Pollutants
+AUTHOR: ['Charlotte C. Wagner', 'Helen M. Amos', 'Colin P. Thackray', 'Yanxu Zhang', 'Elizabeth W. Lundgren', 'Gaël Forget', 'Carey L. Friedman', 'Noelle E. Selin', 'Rainer Lohmann', 'Elsie M. Sunderland']
+ABSTRACT:
+Abstract Human activities have released large quantities of neutral persistent organic pollutants (POPs) that may be biomagnified in food webs and pose health risks to wildlife, particularly top predators. Here we develop a global 3‐D ocean simulation for four polychlorinated biphenyls (PCBs) spanning a range of molecular weights and volatilities to better understand effects of climate‐driven changes in ocean biogeochemistry on the lifetime and distribution of POPs. Observations are most abundant in the Arctic Ocean. There, model results reproduce spatial patterns and magnitudes of measured PCB concentrations. Sorption of PCBs to suspended particles and subsequent burial in benthic marine sediment is the dominant oceanic loss process globally. Results suggest benthic sediment burial has removed 75% of cumulative PCB releases since the onset of production in 1930. Wind speed, light penetration, and ocean circulation exert a stronger and more variable influence on volatile PCB congeners with lower particle affinity such as chlorinated biphenyl‐28 and chlorinated biphenyl‐101. In the Arctic Ocean between 1992 and 2015, modeled evasion (losses) of the more volatile PCB congeners from the surface ocean increased due to declines in sea ice and changes in ocean circulation. By contrast, net deposition increased slightly for higher molecular weight congeners with stronger partitioning to particles. Our results suggest future climate changes will have the greatest impacts on the chemical lifetimes and distributions of volatile POPs with lower molecular weights.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1029/2018gb006018
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Polychlorinated biphenyl', 'Benthic zone', 'Environmental science', 'Arctic', 'Pollutant', 'Oceanography', 'Environmental chemistry', 'Sediment', 'Biogeochemistry', 'Climate change', 'Atmospheric sciences', 'Ecology', 'Chemistry', 'Geology', 'Biology', 'Paleontology']

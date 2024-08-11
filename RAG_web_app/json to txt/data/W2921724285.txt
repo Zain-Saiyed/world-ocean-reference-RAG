@@ -1,0 +1,12 @@
+ID: W2921724285
+TITLE: Exploring carbonate reef flat hydrodynamics and potential formation and growth mechanisms for motu
+AUTHOR: ['Alejandra C. Ortiz', 'Andrew D. Ashton']
+ABSTRACT:
+Atolls, which develop as reef-building coral platforms extend to near sea level, typically consist of a shallow reef flat encircling a central lagoon. Often, sub-aerial islets, known as motu or reef islands, consisting of sand, gravel, and coral detritus, can be found perched atop the reef flat. Here, we use hydrodynamic numerical modeling (XBeach) to better understand the role of waves and wave-driven currents on the reef flat and the processes driving motu formation and evolution. By differing representative reef-flat geometry (e.g. width and water depth), we investigate the effects of varying wave climate on hydrodynamics and resultant bed shear stresses across the reef flat. Model results suggest that as a reef flat shallows, bed shear increases, then, after passing a critical value, decreases again. Using these results, we hypothesize that reef flats should attain a critical water depth just at the threshold for sediment mobilization, resulting in a constant depth reef flat in both abrasional and depositional settings. As reef flats widen, prograding into the back-reef lagoon, shear stress decreases across the flat, with a minimum in shear stress arising approximately midway on the reef flat. Motu formation would be expected to initiate at this mid-flat nucleation site, either from a storm, when coarse sediment is mobilized and deposited, or gradually as the reef flat widens. A mid-flat deposit need not be subaerial to form a motu—sediment piled shallower than the critical depth would continue to accumulate. Once a motu is present, reef-flat shear stress directions reverse and the motu shoreline should prograde seawards until reaching a relatively narrow critical reef-flat width (~200 m). Together, these results suggest that reef flats and motu spatially self-organize through a series of morphodynamic feedbacks.
+
+SOURCE: Marine geology
+PDF URL: http://manuscript.elsevier.com/S0025322717305844/pdf/S0025322717305844.pdf
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Reef', 'Geology', 'Coral reef', 'Subaerial', 'Fringing reef', 'Sediment', 'Shear (geology)', 'Atoll', 'Oceanography', 'Geomorphology', 'Paleontology']

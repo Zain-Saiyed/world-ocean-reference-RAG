@@ -1,0 +1,12 @@
+ID: W2146615582
+TITLE: Ocean oxygen minima expansions and their biological impacts
+AUTHOR: ['Lothar Stramma', 'Sunke Schmidtko', 'Lisa A. Levin', 'Gregory C. Johnson']
+ABSTRACT:
+Climate models with biogeochemical components predict declines in oceanic dissolved oxygen with global warming. In coastal regimes oxygen deficits represent acute ecosystem perturbations. Here, we estimate dissolved oxygen differences across the global tropical and subtropical oceans within the oxygen minimum zone (200–700-dbar depth) between 1960–1974 (an early period with reliable data) and 1990–2008 (a recent period capturing ocean response to planetary warming). In most regions of the tropical Pacific, Atlantic, and Indian Oceans the oxygen content in the 200–700-dbar layer has declined. Furthermore, at 200 dbar, the area with O2 <70 μmol kg−1, where some large mobile macro-organisms are unable to abide, has increased by 4.5 million km2. The tropical low oxygen zones have expanded horizontally and vertically. Subsurface oxygen has decreased adjacent to most continental shelves. However, oxygen has increased in some regions in the subtropical gyres at the depths analyzed. According to literature discussed below, fishing pressure is strong in the open ocean, which may make it difficult to isolate the impact of declining oxygen on fisheries. At shallower depths we predict habitat compression will occur for hypoxia-intolerant taxa, with eventual loss of biodiversity. Should past trends in observed oxygen differences continue into the future, shifts in animal distributions and changes in ecosystem structure could accelerate.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 503
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Oceanography', 'Oxygen minimum zone', 'Subtropics', 'Biogeochemical cycle', 'Ocean gyre', 'Hypoxia (environmental)', 'Environmental science', 'Ecosystem', 'Oxygen', 'Pelagic zone', 'Biodiversity', 'Climate change', 'Global warming', 'Marine ecosystem', 'Effects of global warming on oceans', 'Geology', 'Ecology', 'Biology', 'Chemistry', 'Upwelling', 'Organic chemistry']

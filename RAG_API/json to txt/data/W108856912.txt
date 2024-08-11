@@ -1,0 +1,12 @@
+ID: W108856912
+TITLE: Women’s Organisations in Fisheries and Aquaculture in Europe: History and Future Propects
+AUTHOR: ['Katia Frangoudès', 'José J. Pascual-Fernández', 'Begoña Marugán-Pintos']
+ABSTRACT:
+In Europe, fisherwomen’s organisations were developed mainly during the 1990s. The need for fisherwomen to become organised or to develop networks has often arisen in response to crises affecting the fisheries industry. The usual pattern was for women to protest against policies that threatened the survival of artisanal fisheries and to seek an improvement in living conditions in their communities. By establishing organisations, women sought to obtain recognition for their contribution to the fisheries industry and to their family enterprises in particular. This chapter will explore the reasons for the establishment of women’s organisations in fisheries and aquaculture around Europe and will highlight the main benefits and constraints that these women’s groups are now facing. The main objective is to shed light on a hidden part of the fisheries industry and to contribute to the visibility of women participating in this industry.
+
+SOURCE: MARE publication series
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2014
+TYPE: book-chapter
+CONCEPTS: ['Fishery', 'Threatened species', 'Aquaculture', 'Business', 'Visibility', 'Fisheries management', 'Political science', 'Environmental planning', 'Geography', 'Economic growth', 'Fish <Actinopterygii>', 'Economics', 'Fishing', 'Ecology', 'Biology', 'Habitat', 'Meteorology']

@@ -1,0 +1,12 @@
+ID: W1984007851
+TITLE: Fair and equitable sharing of benefits from the utilization of marine genetic resources in areas beyond national jurisdiction: Bridging the gaps between science and policy
+AUTHOR: ['Arianna Broggiato', 'Sophie Arnaud‐Haond', 'Claudio Chiarolla', 'Thomas Greiber']
+ABSTRACT:
+Marine genetic resources are a subject of a growing body of research and development activities, as demonstrated by the abundance of marine patented genes reported in GenBank. Given the lack of a comprehensive legal regime for the management of marine genetic resources in areas beyond national jurisdiction, the General Assembly of the United Nations met in 2006 to discuss whether there are regulatory or governance gaps and how to address them. Besides the crystallization of the different political positions, the process is now advancing towards making a decision about whether to develop an international instrument under the United Nations Convention on the Law of the Sea (UNCLOS) for the conservation and sustainable use of marine biological diversity, within which the regulation of access to genetic resources and the sharing of benefits from their utilization has emerged as an in-dissociable issue. In order to propose concrete options to be considered for the establishment of a legal framework addressing these issues, policy-makers need to better understand the feasibility, the costs and the modalities of scientific activities undertaken, together with the actual level of commercialization of new products. They also need to be aware of the already advanced practices in place within the scientific community, especially regarding sharing of non-monetary benefits. This paper particularly highlights and discusses practical scenarios to advance in the international process, based on the approaches adopted in other regional and international regimes for the management of genetic resources and on the best practices developed within the scientific community.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Convention on Biological Diversity', 'Jurisdiction', 'Business', 'United Nations Convention on the Law of the Sea', 'Corporate governance', 'International regime', 'Marine protected area', 'Environmental resource management', 'Environmental planning', 'Marine conservation', 'Political science', 'International law', 'Biodiversity', 'Economics', 'Law', 'Ecology', 'Geography', 'Biology', 'Finance', 'Habitat']

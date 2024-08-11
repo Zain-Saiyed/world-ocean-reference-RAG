@@ -1,0 +1,12 @@
+ID: W2128528039
+TITLE: Coastal lagoons and rising sea level: A review
+AUTHOR: ['A. Rita Carrasco', 'Óscar Ferreira', 'Dano Roelvink']
+ABSTRACT:
+Sea-level rise (SLR) poses a particularly ominous threat to human habitations and infrastructure in the coastal zone because 10% of the world's population lives in low-lying coastal regions within 10 m elevation of present sea level. There has been much discussion about projected (and the sources of projection) vs. measured SLR rates. Which rates should coastal scientists and managers apply in their studies, and what is the degree of confidence of such forecasts, are still open questions. This paper reviews the patterns and effects of relative SLR (RSLR) in coastal lagoons. Three main components are presented in the review: (a) a summary of the main approaches used in predicting medium- to long-term trends in RSLR, (b) a summary of the main evolutionary trends of coastal lagoons and the tools used to examine such trends, and (c) an identification of future research needs. The review reveals that the major source of uncertainty is how and when RSLR will manifest itself at different spatio-temporal scales in coastal lagoon systems, and how its effects can be mitigated. Most of the studies reviewed herein articulate a natural 'defence' mechanism of barriers in coastal lagoons by landward barrier retreat through continuous migration, and a gradual change in basin hypsometry during the retreat process. So far, only a relatively small number of detailed studies have integrated and quantified human impacts and coastal lagoon evolution induced by RSLR. We conclude that much more research about adaptation measures is needed, taking into consideration not only the physical and ecological systems but also social, cultural, and economic impacts. Future challenges include a downscaling of SLR approaches from the global level to regional and local levels, with a detailed application of coastal evolution prediction to individual coastal lagoon systems.
+
+SOURCE: Earth-science reviews
+PDF URL: None
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2016
+TYPE: review
+CONCEPTS: ['Structural basin', 'Environmental science', 'Sea level', 'Population', 'Climate change', 'Geography', 'Current (fluid)', 'Oceanography', 'Physical geography', 'Geology', 'Paleontology', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2883303067
+TITLE: Long-term impact of the Deepwater Horizon oil spill on deep-sea corals detected after seven years of monitoring
+AUTHOR: ['Fanny Girard', 'Charles R. Fisher']
+ABSTRACT:
+Cold-water corals form high biodiversity habitats in the deep sea. They are generally long-lived, slow-growing, and thus particularly vulnerable to anthropogenic impact. We used high-definition imagery to quantify the impact and assess the recovery of deep-sea corals that were affected by the 2010 Deepwater Horizon oil spill in the Gulf of Mexico. Over three hundred Paramuricea spp. colonies were imaged yearly between 2011 and 2017 at five sites, and the images were digitized to quantify health, hydroid overgrowth, identify branch loss, and track recovery patterns. Although the median level of impact decreased after 2011 at all impacted sites, it has been stable since then and remained higher than at the reference sites. Recovery depended on the initial level of impact to the colonies, which negatively affected the ability of individual branches to recover or remain healthy. The effect of initial impact on recovery between consecutive years was still visible seven years after the spill, indicating a long-term, non-acute, impact on the colonies. Injured corals were also more likely to lose branches, and branch loss was still significantly higher at some of the impacted sites between 2016 and 2017, indicating an ongoing effect of the spill, which may eventually lead to delayed mortality. The methodology we employed allows us to successfully detect small changes in the health of corals. We suggest the establishment of image-based coral-monitoring sites to collect baseline data on coral biology, assess the efficacy of Marine Protected Areas, and detect future anthropogenic impact to these vulnerable deep-sea ecosystems.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coral', 'Deepwater horizon', 'Oceanography', 'Habitat', 'Environmental science', 'Baseline (sea)', 'Biodiversity', 'Reef', 'Anthozoa', 'Marine protected area', 'Coral reef', 'Oil spill', 'Hydroid (botany)', 'Fishery', 'Ecology', 'Biology', 'Geology', 'Environmental protection', 'Botany']

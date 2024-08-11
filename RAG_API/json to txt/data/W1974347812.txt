@@ -1,0 +1,12 @@
+ID: W1974347812
+TITLE: Atmospheric deposition of N, P and Fe to the Northern Indian Ocean: Implications to C- and N-fixation
+AUTHOR: ['Srinivas Bikkina', 'M.M. Sarin']
+ABSTRACT:
+This study presents the first data set on atmospheric input of N, P and Fe to the Northern Indian Ocean. Based on the chemical analysis of ambient aerosols, collected from the marine atmospheric boundary layer (MABL) during the continental outflow (January–April), we document that dry-deposition fluxes (μmol m− 2 d− 1) of N (2–167), P (0.5–4.8) and Fe (0.02–1.2) to the Bay of Bengal are significantly higher compared to those over the Arabian Sea [N: 0.2–18.6; P: 0.3–0.9; Fe: 0.001–0.015]. Using atmospherically derived P and Fe, C-fixation (1.1 Pg yr− 1) in the Bay of Bengal is dominated by anthropogenic sources. In contrast, C-fixation (0.03 Pg yr− 1) in the Arabian Sea is limited by P and Fe. This is attributed to the poor fractional solubility of atmospheric mineral dust transported to the Arabian Sea. However, N-fixation by diazotrophs in the two oceanic regions is somewhat similar (0.5 Tg yr− 1). Our estimate of N-deposition (0.2 Tg yr− 1) to the Northern Indian Ocean is significantly lower compared to model results (~ 800–1200 mg-N m− 2 yr− 1 ≈ 5.7–8.6 Tg yr− 1 by Duce et al. (2008); ~ 4.1 Tg yr− 1 by Okin et al. (2011); ~ 0.8 Tg yr− 1 by Kanakidou et al. (2012)). An overestimate of N-deposition by models could arise due to inappropriate parameterization of temporal variability associated with the continental outflow spread over only four months.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 68
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Bay', 'BENGAL', 'Oceanography', 'Mineral dust', 'Deposition (geology)', 'Environmental science', 'Geology', 'Atmospheric sciences', 'Climatology', 'Aerosol', 'Geography', 'Meteorology', 'Geomorphology', 'Sediment']

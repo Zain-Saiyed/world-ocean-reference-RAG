@@ -1,0 +1,12 @@
+ID: W2745591543
+TITLE: Three squat lobsters (Crustacea: Decapoda: Anomura) from tropical West Pacific seamounts, with description of a new species of Uroptychus Henderson, 1888
+AUTHOR: ['Dong Dong', 'Xinzheng Li', 'Bo Lü', 'Chunsheng Wang']
+ABSTRACT:
+Three species of squat lobster, Uroptychus inaequipes n. sp., Munidopsis bairdii (Smith, 1884), and M. kensmithii Jones &amp; Macpherson, 2007, are reported from the seamounts of the tropical West Pacific. The new species of Uroptychus is distinguished from its congeners by having short antennal scales, and non-produced anterolateral corners of thoracic sternite 4. Munidopsis kensmithii is recorded from the West Pacific for the first time.
+
+SOURCE: Zootaxa
+PDF URL: None
+CITED BY COUNT: 76
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Anomura', 'Seamount', 'Biology', 'Decapoda', 'Crustacean', 'Fishery', 'Squat', 'Oceanography', 'Zoology', 'Ecology', 'Paleontology', 'Geology', 'Physiology']

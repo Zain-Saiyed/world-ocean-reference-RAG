@@ -1,0 +1,12 @@
+ID: W2805548573
+TITLE: The global flood protection savings provided by coral reefs
+AUTHOR: ['Michael W. Beck', 'Íñigo J. Losada', 'Pelayo Menéndez', 'Borja G. Reguero', 'Pedro Díaz-Simal', 'Fidel Fernández Fernández']
+ABSTRACT:
+Coral reefs can provide significant coastal protection benefits to people and property. Here we show that the annual expected damages from flooding would double, and costs from frequent storms would triple without reefs. For 100-year storm events, flood damages would increase by 91% to $US 272 billion without reefs. The countries with the most to gain from reef management are Indonesia, Philippines, Malaysia, Mexico, and Cuba; annual expected flood savings exceed $400 M for each of these nations. Sea-level rise will increase flood risk, but substantial impacts could happen from reef loss alone without better near-term management. We provide a global, process-based valuation of an ecosystem service across an entire marine biome at (sub)national levels. These spatially explicit benefits inform critical risk and environmental management decisions, and the expected benefits can be directly considered by governments (e.g., national accounts, recovery plans) and businesses (e.g., insurance).
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-04568-z.pdf
+CITED BY COUNT: 219
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coral reef', 'Damages', 'Reef', 'Flooding (psychology)', 'Flood myth', 'Ecosystem services', 'Storm', 'Coral reef protection', 'Biome', 'Environmental resource management', 'Coral bleaching', 'Business', 'Fishery', 'Geography', 'Ecosystem', 'Environmental science', 'Ecology', 'Psychology', 'Archaeology', 'Meteorology', 'Political science', 'Law', 'Psychotherapist', 'Biology']

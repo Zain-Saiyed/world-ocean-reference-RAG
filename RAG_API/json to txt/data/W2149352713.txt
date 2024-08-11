@@ -1,0 +1,12 @@
+ID: W2149352713
+TITLE: Nitrogen Cycles: Past, Present, and Future
+AUTHOR: ['James N. Galloway', 'Frank Dentener', 'Douglas G. Capone', 'E. W. Boyer', 'Robert W. Howarth', 'Sybil P. Seitzinger', 'Gregory P. Asner', 'Cory C. Cleveland', 'P. A. Green', 'Elisabeth A. Holland', 'David M. Karl', 'Anthony F. Michaels', 'John H. Porter', 'Alan R. Townsend', 'Charles J Vörösmarty']
+ABSTRACT:
+This paper contrasts the natural and anthropogenic controls on the conversion of unreactive N2 to more reactive forms of nitrogen (Nr). A variety of data sets are used to construct global N budgets for 1860 and the early 1990s and to make projections for the global N budget in 2050. Regional N budgets for Asia, North America, and other major regions for the early 1990s, as well as the marine N budget, are presented to Highlight the dominant fluxes of nitrogen in each region. Important findings are that human activities increasingly dominate the N budget at the global and at most regional scales, the terrestrial and open ocean N budgets are essentially disconnected, and the fixed forms of N are accumulating in most environmental reservoirs. The largest uncertainties in our understanding of the N budget at most scales are the rates of natural biological nitrogen fixation, the amount of Nr storage in most environmental reservoirs, and the production rates of N2 by denitrification.
+
+SOURCE: Biogeochemistry
+PDF URL: None
+CITED BY COUNT: 4437
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Denitrification', 'Environmental science', 'Reactive nitrogen', 'Nitrogen', 'Nitrogen fixation', 'Ecosystem', 'Nitrogen cycle', 'Ecology', 'Physical geography', 'Earth science', 'Geography', 'Biology', 'Geology', 'Chemistry', 'Organic chemistry']

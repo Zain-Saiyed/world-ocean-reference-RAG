@@ -1,0 +1,12 @@
+ID: W2023330186
+TITLE: Interdependency of tropical marine ecosystems in response to climate change
+AUTHOR: ['Megan I. Saunders', 'Javier X. Leon', 'David P. Callaghan', 'Chris Roelfsema', 'Sarah Hamylton', 'Christopher J. Brown', 'Tom E. Baldock', 'Aliasghar Golshani', 'Stuart Phinn', 'Catherine E. Lovelock', 'Ove Hoegh‐Guldberg', 'Colin D. Woodroffe', 'Peter J. Mumby']
+ABSTRACT:
+Linkages between neighbouring ecosystems are rarely considered when seeking to predict ecological responses to climate change. However, the finding that the impact of climate change on seagrass beds is mediated by the response of neighbouring coral reef habitats highlights the need for a broader-scale view of climate change impacts on ecosystems. Ecosystems are linked within landscapes by the physical and biological processes they mediate. In such connected landscapes, the response of one ecosystem to climate change could have profound consequences for neighbouring systems. Here, we report the first quantitative predictions of interdependencies between ecosystems in response to climate change. In shallow tropical marine ecosystems, coral reefs shelter lagoons from incoming waves, allowing seagrass meadows to thrive. Deepening water over coral reefs from sea-level rise results in larger, more energetic waves traversing the reef into the lagoon1,2, potentially generating hostile conditions for seagrass. However, growth of coral reef such that the relative water depth is maintained could mitigate negative effects of sea-level rise on seagrass. Parameterizing physical and biological models for Lizard Island, Great Barrier Reef, Australia, we find negative effects of sea-level rise on seagrass before the middle of this century given reasonable rates of reef growth. Rates of vertical carbonate accretion typical of modern reef flats (up to 3 mm yr−1) will probably be insufficient to maintain suitable conditions for reef lagoon seagrass under moderate to high greenhouse gas emissions scenarios by 2100. Accounting for interdependencies in ecosystem responses to climate change is challenging, but failure to do so results in inaccurate predictions of habitat extent in the future.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 75
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Seagrass', 'Coral reef', 'Reef', 'Climate change', 'Ecosystem', 'Environmental science', 'Marine ecosystem', 'Oceanography', 'Ecology', 'Geology', 'Biology']

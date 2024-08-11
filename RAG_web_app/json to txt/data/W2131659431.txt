@@ -1,0 +1,12 @@
+ID: W2131659431
+TITLE: Eutrophication of freshwater and marine ecosystems
+AUTHOR: ['Val H. Smith', 'Samantha B. Joye', 'Robert W. Howarth']
+ABSTRACT:
+Initial understanding of the links between nutrients and aquatic productivity originated in Europe in the early 1900s, and our knowledge base has expanded greatly during the past 40 yr. This explosion of eutrophication‐related research has made it unequivocally clear that a comprehensive strategy to prevent excessive amounts of nitrogen and phosphorus from entering our waterways is needed to protect our lakes, rivers, and coasts from water quality deterioration. However, despite these very significant advances, cultural eutrophication remains one of the foremost problems for protecting our valuable surface water resources. The papers in this special issue provide a valuable cross section and synthesis of our current understanding of both freshwater and marine eutrophication science. They also serve to identify gaps in our knowledge and will help to guide future research.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: None
+CITED BY COUNT: 560
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Freshwater ecosystem', 'Environmental science', 'Aquatic ecosystem', 'Marine ecosystem', 'Water quality', 'Ecosystem', 'Productivity', 'Nutrient', 'Ecology', 'Environmental resource management', 'Biology', 'Economics', 'Macroeconomics']

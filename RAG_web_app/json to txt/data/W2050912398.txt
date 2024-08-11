@@ -1,0 +1,12 @@
+ID: W2050912398
+TITLE: Evolution of Cenozoic seaways in the circum-Antarctic region
+AUTHOR: ['Lawrence A. Lawver', 'Lisa M. Gahagan']
+ABSTRACT:
+A complete circum-Antarctic seaway did not open until both the South Tasman Rise cleared the Oates Land coast of East Antarctica and Drake Passage opened between the southern tip of South America and the northern end of the Antarctic Peninsula. Major plate motions based on dated seafloor spreading anomalies and distinct fracture zone lineations constrain the age of the opening of a seaway between the South Tasman Rise and Antarctica as very close to the Eocene–Oligocene boundary, with an unrestricted opening deeper than 2000 m dating from ∼32 Ma. Timing of the opening of Drake Passage is more circumstantial because the exact motions of certain micro-continental fragments are not known. The motion of Africa with respect to South America as well as the motion of East Antarctica with respect to Africa are well constrained for the Cenozoic. These major plate motions are used with the reasonable assumption of no Cenozoic motion of the Antarctic Peninsula with respect to East Antarctica to constrain the location of the Antarctic Peninsula with respect to the southern tip of South America for the critical period of late Eocene to late Oligocene. Uncertainty of motion of the South Georgia and South Orkney microcontinents and other possible continental fragments make an exact time for opening of Drake Passage difficult to ascertain. Even so, the early Oligocene position of the Antarctic Peninsula with respect to South America requires a through-going, deep-water seaway to have been open at Drake Passage prior to 28 Ma, even given the unconstrained motion of various high-standing crustal fragments in the Scotia Sea. With reasonable assumptions concerning motion of the crustal fragments in the western and central Scotia Sea, it is likely that Drake Passage or passage through Powell Basin was open to deep water circulation by ∼31±2 Ma.
+
+SOURCE: Palaeogeography, palaeoclimatology, palaeoecology
+PDF URL: None
+CITED BY COUNT: 452
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Geology', 'Cenozoic', 'Peninsula', 'Paleontology', 'Seafloor spreading', 'Plate tectonics', 'Oceanography', 'Tectonics', 'Geography', 'Structural basin', 'Archaeology']

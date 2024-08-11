@@ -1,0 +1,12 @@
+ID: W2620629710
+TITLE: New rates of Indian Ocean carbonate production by encrusting coral reef calcifiers: Periodic expansions following disturbance influence reef-building and recovery
+AUTHOR: ['Kyle M. Morgan', 'Paul S. Kench']
+ABSTRACT:
+Encrusting marine calcifying organisms, including coralline algae, bryozoans, calcareous worms, foraminifera and oysters, contribute to the geological development of reefs by precipitating calcium carbonate that binds detrital sediment and coral framework, and may produce new sediment after their death. However, it is difficult to quantify the relative importance of encrusting communities within contemporary reef carbonate production budgets because of a lack of regional datasets of either encrusting calcification or diversity, and the factors that control their settlement and growth. Here, we report rates of encrusting carbonate production for the Maldives in the Indian Ocean, determined by deploying artificial settlement substrates in shallow-water reef sites for 13 months. Eight taxonomic groups are identified with high average rates of net calcification (mean = 0.056 ± 0.02 g cm− 2 yr− 1). Encrusting communities vary between exposed (upwards-facing) and cryptic (downwards-facing) reef habitats (p < 0.05), driving inter-habitat differences in carbonate production rates (median cryptic = 0.066 g cm− 2 yr− 1; median exposed = 0.042 g cm− 2 yr− 1). These changes are a function of differences in light availability, grazing pressure, and wave exposure reflecting reversing monsoon conditions. Non-geniculate coralline algae are the dominant encrusting group (~ 50% cover) and major contributors to net calcification. The rapid expansion of coralline algae on post-mortem coral frameworks following the 2016 mass bleaching event in the Maldives has important implications for short-term carbonate cycling and reef budgetary states (pre-bleaching encrusting production = 0.24 kg m− 2 yr− 1; post-bleaching = 0.40 kg m− 2 yr− 1). Our findings suggest that encrusting communities add meaningful quantities of carbonate to reefs, and that their increased expression following declines in coral health could offset negative budgets on reefs where bioerosion rates are low, and aid future reef recovery by facilitating coral settlement.
+
+SOURCE: Marine geology
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Reef', 'Geology', 'Oceanography', 'Coral reef', 'Coral', 'Disturbance (geology)', 'Carbonate', 'Geomorphology', 'Materials science', 'Metallurgy']

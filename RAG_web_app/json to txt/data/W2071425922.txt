@@ -1,0 +1,12 @@
+ID: W2071425922
+TITLE: Hadal disturbance in the Japan Trench induced by the 2011 Tohoku–Oki Earthquake
+AUTHOR: ['Kazuta Oguri', 'Kazutaka Kawamura', 'Arito Sakaguchi', 'Takashi Toyofuku', 'Takafumi Kasaya', 'Masafumi Murayama', 'Katsunori Fujikura', 'Ronnie N. Glud', 'Hiroshi Kitazato']
+ABSTRACT:
+In situ video observations and sediment core samplings were performed at two hadal sites in the Japan Trench on July, 2011, four months after the Tohoku-Oki earthquake. Video recordings documented dense nepheloid layers extending ~30-50 m above the sea bed. At the trench axis, benthic macrofauna was absent and dead organisms along with turbid downslope current were observed. The top 31 cm of sediment in the trench axis revealed three recent depositions events characterized by elevated (137)Cs levels and alternating sediment densities. At 4.9 km seaward from the trench axis, little deposition was observed but the surface sediment contained (134)Cs from the Fukushima Dai-ichi nuclear disaster. We argue that diatom blooms observed by remote sensing facilitated rapid deposition of (134)Cs to hadal environment and the aftershocks induced successive sediment disturbances and maintained dense nepheloid layers in the trench even four months after the mainshock.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep01915.pdf
+CITED BY COUNT: 134
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Trench', 'Geology', 'Benthic zone', 'Sediment', 'Nepheloid layer', 'Oceanography', 'Deposition (geology)', 'Aftershock', 'Seismology', 'Geomorphology', 'Geochemistry', 'Layer (electronics)', 'Chemistry', 'Organic chemistry']

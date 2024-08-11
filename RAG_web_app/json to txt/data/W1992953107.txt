@@ -1,0 +1,12 @@
+ID: W1992953107
+TITLE: Declines in phytoplankton cell size in the subtropical oceans estimated from satellite remotely-sensed temperature and chlorophyll, 1998–2007
+AUTHOR: ['Jeffrey J. Polovina', 'Phoebe A. Woodworth']
+ABSTRACT:
+Satellite remotely-sensed sea surface temperature (SST) and surface chlorophyll were used to estimate median phytoplankton cell size at monthly and 11 km2 resolution over the global ocean, 1998–2007. The temporal dynamics of median phytoplankton cell size were examined for the Pacific equatorial upwelling region and the subtropical oceans. For the equatorial upwelling region, cell size varied coherently with the El Niño Southern Oscillation with smaller (larger) median cell size during El Niños (La Niñas). Specifically, estimated median cell diameter increased by 34% between the 1998 El Nino and the 1999–2001 La Nina. In the subtropical oceans, over the period 1998–2007, median cell diameter exhibited statistically significant linear declines of about 2% in the North and South Pacific, and 4% in the North Atlantic. Pooling the data over all subtropical oceans, over the period 1998–2007, global median cell diameter declined by about 2%. These results suggest that phytoplankton cell size may vary on interannual and decadal scales resulting in changes in food chain length and hence energy transfer to higher trophic levels. Further, a shift to smaller sized phytoplankton has been hypothesized as a response to ocean warming. Thus, this approach, estimating phytoplankton cell size from remotely-sensed temperature and chlorophyll, has the potential to provide global monitoring of an aspect of phytoplankton community structure likely to be responsive to future climate change.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Upwelling', 'Oceanography', 'La Niña', 'Environmental science', 'Subtropics', 'Ocean gyre', 'Sea surface temperature', 'Climatology', 'Cell size', 'Chlorophyll a', 'Ocean color', 'Satellite', 'Atmospheric sciences', 'Geology', 'Biology', 'Ecology', 'El Niño Southern Oscillation', 'Physics', 'Nutrient', 'Botany', 'Astronomy', 'Cell biology']

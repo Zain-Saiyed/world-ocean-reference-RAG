@@ -1,0 +1,12 @@
+ID: W2140887451
+TITLE: Global coral disease prevalence associated with sea temperature anomalies and local factors
+AUTHOR: ['Diego Ruiz-Moreno', 'BL Willis', 'A. Le Page', 'Ernesto Weil', 'Aldo Cróquer', 'Bernardo Vargas-Ángel', 'Adán Guillermo Jordán-Garza', 'Eric Jordán-Dahlgren', 'Laurie J. Raymundo', 'C. Drew Harvell']
+ABSTRACT:
+Coral diseases are taking an increasing toll on coral reef structure and biodiversity and are important indicators of declining health in the oceans.We implemented standardized coral disease surveys to pinpoint hotspots of coral disease, reveal vulnerable coral families and test hypotheses about climate drivers from 39 locations worldwide.We analyzed a 3 yr study of coral disease prevalence to identify links between disease and a range of covariates, including thermal anomalies (from satellite data), location and coral cover, using a Generalized Linear Mixed Model.Prevalence of unhealthy corals, i.e. those with signs of known diseases or with other signs of compromised health, exceeded 10% on many reefs and ranged to over 50% on some.Disease prevalence exceeded 10% on 20% of Caribbean reefs and 2.7% of Pacific reefs surveyed.Within the same coral families across oceans, prevalence of unhealthy colonies was higher and some diseases were more common at sites in the Caribbean than those in the Pacific.The effects of high disease prevalence are potentially extensive given that the most affected coral families, the acroporids, faviids and siderastreids, are among the major reef-builders at these sites.The poritids and agaricids stood out in the Caribbean as being the most resistant to disease, even though these families were abundant in our surveys.Regional warm temperature anomalies were strongly correlated with high disease prevalence.The levels of disease reported here will provide a much-needed local reference point against which to compare future change.
+
+SOURCE: Diseases of aquatic organisms
+PDF URL: https://www.int-res.com/articles/dao_oa/d100p249.pdf
+CITED BY COUNT: 147
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Coral reef', 'Coral', 'Geography', 'Oceanography', 'Ecology', 'Biology', 'Fishery', 'Geology']

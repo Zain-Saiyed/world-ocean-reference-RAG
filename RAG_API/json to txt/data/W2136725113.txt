@@ -1,0 +1,12 @@
+ID: W2136725113
+TITLE: Changes in the composition of planktonic ostracod populations across a range of latitudes in the North-east Atlantic
+AUTHOR: ['Martín Angel', 'Katarzyna Błachowiak‐Samołyk', 'Inna Drapun', 'Ruth Castillo']
+ABSTRACT:
+A large database representing the bathymetric distribution of 117 species of halocyprid ostracods has been compiled from seven stations forming a transect from the equator to 60°N along 20°W, plus an additional station at 32°N, 65°W. This data base is analysed to examine the latitudinal and bathymetric changes in species composition and diversity of assemblages of this important, yet neglected, holoplanktonic group. At each station stratified sampling of the complete water column from the surface down mostly to 2000 m was carried out both day and night. Each sample resulted from the filtration of at least 2500 m3 of water and was analysed using a consistent protocol. The differences between the day and night profiles are attributable to diel vertical migrations, to local-scale heterogeneity, and possibly to a degree of net avoidance. There is a gradient of increasing species richness and diversity from high to low latitudes. By day, halocyprids are either infrequent or absent from the upper 50 m of the water column, but at night after diel vertical migration they become quite abundant in the epipelagic zone, particularly at low latitudes. Bathymetric profiles show ostracod abundances increase rapidly below the thermocline, reaching maxima at 200–400 m and then declining by at least an order of magnitude at 2000 m. Diversity (both species richness, H′ and evenness, J) also increases below the thermocline and thereafter is either maintained or declines only slightly to 2000 m. There are no relationships among diversity, abundance and productivity, but analysis of the whole database shows that the changes in community structure are consistent with Longhurst's [Longhurst, A.R., 1998. Ecological Geography of the Sea. Academic Press, San Diego, pp. xiv, 398.] biogeochemical provinces.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Thermocline', 'Species richness', 'Oceanography', 'Diel vertical migration', 'Water column', 'Latitude', 'Pelagic zone', 'Benthic zone', 'Ostracod', 'Transect', 'Range (aeronautics)', 'Mesopelagic zone', 'Abundance (ecology)', 'Water mass', 'Species diversity', 'Ecology', 'Geology', 'Biology', 'Materials science', 'Geodesy', 'Composite material']

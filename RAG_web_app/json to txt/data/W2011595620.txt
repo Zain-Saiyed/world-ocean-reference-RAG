@@ -1,0 +1,12 @@
+ID: W2011595620
+TITLE: Molecular evidence that the deadliest sea snake Enhydrina schistosa (Elapidae: Hydrophiinae) consists of two convergent species
+AUTHOR: ['Kanishka D. B. Ukuwela', 'Anslem de Silva', '_ Mumpuni', 'Bryan G. Fry', 'Michael S. Y. Lee', 'Kate L. Sanders']
+ABSTRACT:
+We present a striking case of phenotypic convergence within the speciose and taxonomically unstable Hydrophis group of viviparous sea snakes. Enhydrina schistosa, the 'beaked sea snake', is abundant in coastal and inshore habitats throughout the Asian and Australian regions, where it is responsible for the large majority of recorded deaths and injuries from sea snake bites. Analyses of five independent mitochondrial and nuclear loci for populations spanning Australia, Indonesia and Sri Lanka indicate that this 'species' actually consists of two distinct lineages in Asia and Australia that are not closest relatives. As a result, Australian "E. schistosa" are elevated to species status and provisionally referred to Enhydrinazweifeli. Convergence in the characteristic 'beaked' morphology of these species is probably associated with the wide gape required to accommodate their spiny prey. Our findings have important implications for snake bite management in light of the medical importance of beaked sea snakes and the fact that the only sea snake anti-venom available is raised against Malaysian E. schistosa.
+
+SOURCE: Molecular phylogenetics and evolution
+PDF URL: None
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Elapidae', 'Biology', 'Zoology', 'Convergent evolution', 'Sri lanka', 'Ecology', 'Habitat', 'Evolutionary biology', 'Phylogenetic tree', 'South asia', 'Venom', 'Ethnology', 'History', 'Biochemistry', 'Gene']

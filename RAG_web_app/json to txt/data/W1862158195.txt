@@ -1,0 +1,12 @@
+ID: W1862158195
+TITLE: Estimating the Atlantic overturning at 26°N using satellite altimetry and cable measurements
+AUTHOR: ['Eleanor Frajka‐Williams']
+ABSTRACT:
+Abstract Climate simulations predict a slowing of the Atlantic meridional overturning circulation (MOC), a key oceanic component of the climate system, while continuous observations of the MOC from boundary arrays demonstrate substantial variability on weekly to interannual time scales. These arrays are necessarily limited to individual latitudes. A potential proxy for the MOC covering longer time scales and larger spatial scales is desirable. Here we use sea surface height data from satellites to estimate the interannual variability of transbasin ocean transports at 26°N. Combining this estimate with surface Ekman transport and cable measurements of the Florida Current, we construct a time series of the MOC from 1993 to 2014. This satellite‐based estimate recovers over 90% of the interannual variability of the MOC measured by the RAPID 26°N array. This analysis complements in situ observational efforts to measure the MOC at multiple latitudes and opens the door to a broader spatial understanding of the Atlantic circulation variability.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 62
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Climatology', 'Latitude', 'Environmental science', 'Proxy (statistics)', 'Altimeter', 'Satellite', 'Ocean current', 'Thermohaline circulation', 'Sea-surface height', 'Geology', 'Zonal and meridional', 'Data assimilation', 'General Circulation Model', 'Sea surface temperature', 'Climate change', 'Meteorology', 'Oceanography', 'Geodesy', 'Geography', 'Computer science', 'Engineering', 'Aerospace engineering', 'Machine learning']

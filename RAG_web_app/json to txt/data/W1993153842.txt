@@ -1,0 +1,12 @@
+ID: W1993153842
+TITLE: A 50Year comparison of ambient ocean noise near San Clemente Island: A bathymetrically complex coastal region off Southern California
+AUTHOR: ['Mark A. McDonald', 'John A. Hildebrand', 'Sean M. Wiggins', 'Donald Ross']
+ABSTRACT:
+Repeated ocean ambient noise measurements at a shallow water (110 m) site near San Clemente Island reveal little increase in noise levels in the absence of local ships. Navy reports document ambient noise levels at this site in 1958-1959 and 1963-1964 and a seafloor recorder documents noise during 2005-2006. When noise from local ships was excluded from the 2005-2006 recordings, median sound levels were essentially the same as were observed in 1958 and 1963. Local ship noise, however, was present in 31% of the recordings in 1963 but was present in 89% of the recordings in 2005-2006. Median levels including local ships are 6-9 dB higher than median levels chosen from times when local ship noise was absent. Biological sounds and the sound of wind driven waves controlled ambient noise levels in the absence of local ships. The median noise levels at this site are low for an open water site due to the poor acoustic propagation and low average wind speeds. The quiet nature of this site in the absence of local ships allows correlation of wind speed to wave noise across the 10-220 Hz spectral band of this study.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: None
+CITED BY COUNT: 102
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Ambient noise level', 'Noise (video)', 'Sound (geography)', 'Geology', 'Environmental science', 'Oceanography', 'QUIET', 'Seafloor spreading', 'Acoustics', 'Seismology', 'Physics', 'Computer science', 'Quantum mechanics', 'Artificial intelligence', 'Image (mathematics)']

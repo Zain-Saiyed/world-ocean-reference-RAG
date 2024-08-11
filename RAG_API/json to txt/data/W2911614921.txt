@@ -1,0 +1,12 @@
+ID: W2911614921
+TITLE: Marine Social Science for the Peopled Seas
+AUTHOR: ['Nathan Bennett']
+ABSTRACT:
+Coastal communities, indigenous peoples, and small-scale fishers rely on the ocean for livelihoods, for subsistence, for wellbeing and for cultural continuity. Thus, understanding the human dimensions of the world’s peopled seas and coasts is fundamental to evidence-based decision-making across marine policy realms, including marine conservation, marine spatial planning, fisheries management, the blue economy and climate adaptation. This perspective article contends that the marine social sciences must inform the pursuit of sustainable oceans. To this end, the article introduces this burgeoning field and briefly reviews the insights that social science can offer to guide ocean and coastal policy and management. The upcoming United Nations Decade of Ocean Science for Sustainable Development (2021–2030) provides a tremendous opportunity to build on the current interest, need for and momentum in the marine social sciences. We will be missing the boat if the marine social sciences do not form an integral and substantial part of the mandate and investments of this global ocean science for sustainability initiative.
+
+SOURCE: Coastal management
+PDF URL: None
+CITED BY COUNT: 101
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine spatial planning', 'Sustainability', 'Subsistence agriculture', 'Livelihood', 'Mandate', 'Marine conservation', 'Sustainability science', 'Environmental resource management', 'Indigenous', 'Environmental planning', 'Political science', 'Social sustainability', 'Fishery', 'Geography', 'Ecology', 'Environmental science', 'Biology', 'Archaeology', 'Law', 'Agriculture']

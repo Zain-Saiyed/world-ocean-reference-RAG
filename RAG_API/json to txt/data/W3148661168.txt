@@ -1,0 +1,12 @@
+ID: W3148661168
+TITLE: Evaluating the Economic Cost of Coastal Flooding
+AUTHOR: ['Klaus Desmet', 'Robert Kopp', 'Scott Kulp', 'Dávid Krisztián Nagy', 'Michael Oppenheimer', 'Esteban Rossi‐Hansberg', 'Benjamin Strauss']
+ABSTRACT:
+Sea-level rise and ensuing permanent coastal inundation will cause spatial shifts in population and economic activity over the next 200 years.Using a highly spatially disaggregated, dynamic model of the world economy that accounts for the dynamics of migration, trade, and innovation, this paper estimates the consequences of probabilistic projections of local sea-level changes under different emissions scenarios.Under an intermediate greenhouse gas concentration trajectory, permanent flooding is projected to reduce global real GDP by an average of 0.19% in present value terms, with welfare declining by 0.24% as people move to places with less attractive amenities.By the year 2200 a projected 1.46% of world population will be displaced.Losses in many coastal localities are more than an order of magnitude larger, with some low-lying urban areas particularly hard hit.When ignoring the dynamic economic adaptation of investment and migration to flooding, the loss in real GDP in 2200 increases from 0.11% to 4.5%.This shows the importance of including dynamic adaptation in future loss models.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2018
+TYPE: preprint
+CONCEPTS: ['Flooding (psychology)', 'Coastal flood', 'Environmental science', 'Oceanography', 'Geography', 'Geology', 'Sea level rise', 'Climate change', 'Psychology', 'Psychotherapist']

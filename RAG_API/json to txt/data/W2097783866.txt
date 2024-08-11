@@ -1,0 +1,12 @@
+ID: W2097783866
+TITLE: Effects of Southern Hemisphere Wind Changes on the Meridional Overturning Circulation in Ocean Models
+AUTHOR: ['Peter R. Gent']
+ABSTRACT:
+Observations show that the Southern Hemisphere zonal wind stress maximum has increased significantly over the past 30 years. Eddy-resolving ocean models show that the resulting increase in the Southern Ocean mean flow meridional overturning circulation (MOC) is partially compensated by an increase in the eddy MOC. This effect can be reproduced in the non-eddy-resolving ocean component of a climate model, providing the eddy parameterization coefficient is variable and not a constant. If the coefficient is a constant, then the Southern Ocean mean MOC change is balanced by an unrealistically large change in the Atlantic Ocean MOC. Southern Ocean eddy compensation means that Southern Hemisphere winds cannot be the dominant mechanism driving midlatitude North Atlantic MOC variability.
+
+SOURCE: Annual review of marine science
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-marine-122414-033929
+CITED BY COUNT: 73
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Southern Hemisphere', 'Thermohaline circulation', 'Climatology', 'Ocean current', 'Northern Hemisphere', 'Zonal and meridional', 'Geology', 'Wind stress', 'Ocean general circulation model', 'Atmospheric sciences', 'Oceanography', 'Environmental science', 'General Circulation Model', 'Climate change']

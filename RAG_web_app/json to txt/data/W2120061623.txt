@@ -1,0 +1,12 @@
+ID: W2120061623
+TITLE: Oceans and Human Health: A rising tide of challenges and opportunities for Europe
+AUTHOR: ['Lora E. Fleming', 'N. McDonough', 'Melanie C. Austen', 'Laurence Mee', 'MN Moore', 'Philipp Heß', 'Michael H. Depledge', 'Mathew P. White', 'Katja Philippart', 'P. Bradbrook', 'Alexander J. Smalley']
+ABSTRACT:
+The European Marine Board recently published a position paper on linking oceans and human health as a strategic research priority for Europe. With this position paper as a reference, the March 2014 Cornwall Oceans and Human Health Workshop brought together key scientists, policy makers, funders, business, and non governmental organisations from Europe and the US to review the recent interdisciplinary and cutting edge research in oceans and human health specifically the growing evidence of the impacts of oceans and seas on human health and wellbeing (and the effects of humans on the oceans). These impacts are a complex mixture of negative influences (e.g. from climate change and extreme weather to harmful algal blooms and chemical pollution) and beneficial factors (e.g. from natural products including seafood to marine renewable energy and wellbeing from interactions with coastal environments). Integrated approaches across disciplines, institutions, and nations in science and policy are needed to protect both the oceans and human health and wellbeing now and in the future.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Human health', 'Position (finance)', 'Climate change', 'Marine research', 'Environmental planning', 'Political science', 'Environmental resource management', 'Oceanography', 'Environmental protection', 'Business', 'Natural resource economics', 'Geography', 'Environmental science', 'Environmental health', 'Economics', 'Medicine', 'Finance', 'Geology']

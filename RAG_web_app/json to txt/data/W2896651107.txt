@@ -1,0 +1,12 @@
+ID: W2896651107
+TITLE: Structure and long-term dynamics of zoobenthos communities in the areas of scallop Chlamys islandica beds at Kola Peninsula
+AUTHOR: ['Носова Татьяна Борисовна', 'Манушин Игорь Евгеньевич', 'Захаров Денис Васильевич']
+ABSTRACT:
+Current state of zoobenthos in the areas of scallop Chlamys islandica beds in the southern Barents Sea and eastern White Sea (Voronka) is described. The scallop stock is ex­ploited there with the landing by specialized vessels, without separation of catch, so bycatch of other species is considerable. As the result, significant changes occurred in structure of benthic communities during the times of scallop fishery. To assess the fishery effect, species composition of benthos, its dominant species and trophic structure is considered separately for 4 regions with different degree of exploitation. Dynamics of zoobenthos abundance is traced over the last 25 years. Changes in trophic structure of the benthic community at Cape Svyatoy Nos (southern Barents Sea) are analyzed in details. Although up to ¼ of its total biomass is presented by carnivorous species and the biomass of C. islandica has decreased, the portion of sestonophages has increased in this community. Recently a recovery of zoob­enthos is observed in its southern part, supposedly because of the animals redistribution from adjacent areas unaffected by fishery. On the contrary, extremely low biomass of zoobenthos, in particular scallop, is observed in the northern part of the community. Biomass of benthos in the Voronka area is high, but it is formed mainly by mussels. There is concluded that more than a decade is required for full recovery of the scallop stock and accompanying zoobenthos communities to the native state.
+
+SOURCE: Izvestiâ TINRO/Izvestiâ Tihookeanskogo naučno-issledovatelʹskogo rybohozâjstvennogo centra
+PDF URL: https://izvestiya.tinro-center.ru/jour/article/download/395/385
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Scallop', 'Benthos', 'Benthic zone', 'Fishery', 'Trophic level', 'Ecology', 'Community structure', 'Oceanography', 'Detritivore', 'Biomass (ecology)', 'Environmental science', 'Biology', 'Geology']

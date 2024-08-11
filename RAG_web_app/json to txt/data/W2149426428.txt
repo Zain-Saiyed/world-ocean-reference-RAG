@@ -1,0 +1,12 @@
+ID: W2149426428
+TITLE: Abundance and distribution of planktonic <i>Archaea</i> and <i>Bacteria</i> in the waters west of the Antarctic Peninsula
+AUTHOR: ['Matthew J. Church', 'Edward F. DeLong', 'Hugh W. Ducklow', 'M. Karner', 'Christina M. Preston', 'David M. Karl']
+ABSTRACT:
+Polyribonucleotide probes targeting planktonic archaeal (Group I and II) and bacterial rRNA revealed that Archaea comprised a significant fraction of total prokaryote cell abundance in the marine waters west of the Antarctic Peninsula. Determinations of Archaea and Bacteria cell abundances were made during two research cruises to the Palmer Long‐Term Ecological Research region during the austral winter and summer of 1999. During the austral summer, surface water abundances of Group I (GI) Archaea were generally low, averaging 4.7 x 10 3 cells ml −1 and accounting for 1% of the total picoplankton assemblage. The abundance of GI Archaea increased significantly with depth, averaging 2.1 X 10 4 cells ml −1 and comprising 9–39% of the total picoplankton abundance in the meso‐ (150–1,000 m) and bathypelagic (1,000–3,500 m) circumpolar deep water (CDW). Relative to summertime distributions, GI cells were more evenly distributed throughout the water column during the winter, averaging 10% of the picoplankton in the surface waters and 13% in the CDW. Surface water GI abundance increased 44% between the summer and winter, coincident with a fivefold decrease in GI abundance in the deeper waters. The abundance of Group II (GII) Archaea was persistently &lt;2% of the total picoplankton throughout the water column in both summer and winter. Bacterial abundance was greatest in the upper water column (0–100 m) during the summer, averaging 3.9 x 10 5 cells ml −1 and comprised 89% of the total picoplankton assemblage. Generally, GI Archaea varied seasonally in the deeper waters, whereas bacterial abundance varied more in the upper waters. The observed variability in bacterial and archaeal abundance suggests that these two groups of marine picoplankton are dynamic components of Southern Ocean microbial food webs.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.2003.48.5.1893
+CITED BY COUNT: 225
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Picoplankton', 'Archaea', 'Water column', 'Plankton', 'Abundance (ecology)', 'Prokaryote', 'Biology', 'Ecology', 'Oceanography', 'Bacterioplankton', 'Phytoplankton', 'Bacteria', 'Geology', 'Nutrient', 'Genetics']

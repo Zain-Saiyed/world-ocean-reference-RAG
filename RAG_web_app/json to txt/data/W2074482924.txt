@@ -1,0 +1,12 @@
+ID: W2074482924
+TITLE: Place attachment and place identity in natives and non-natives
+AUTHOR: ['Bernardo Hernández', 'M. Carmen Hidalgo', 'M. Esther Salazar-Laplace', 'Stephany Hess']
+ABSTRACT:
+Place attachment is an affective bond that people establish with specific areas where they prefer to remain and where they feel comfortable and safe. Place identity, however, has been defined as a component of personal identity, a process by which, through interaction with places, people describe themselves in terms of belonging to a specific place. Most research has observed positive correlations between these variables in populations that have maintained ongoing interactions over long periods of time. This work presents two studies in which we compare place attachment to place identity in samples differentiated according to birthplace and length of residence, and the magnitude of these bonds to different places. The results of the first study revealed differences between intensity of attachment and identity depending on place of origin and place assessed. The second study found that identity and attachment tend to coincide in natives, while individuals from other places give higher scores for attachment than for identity. Results from the two studies have enabled us to consider that place attachment develops before place identity, at least in the case of the non-natives. Both studies reveal that bonds are stronger with the city than with the neighbourhood, but that attachment and identity with the island are stronger than either of them.
+
+SOURCE: Journal of environmental psychology
+PDF URL: None
+CITED BY COUNT: 727
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Place identity', 'Place attachment', 'Neighbourhood (mathematics)', 'Residence', 'Identity (music)', 'Identity formation', 'Psychology', 'Social psychology', 'Sociology', 'Self-concept', 'Demography', 'Aesthetics', 'Art', 'Ecology', 'Urban planning', 'Biology', 'Mathematical analysis', 'Mathematics']

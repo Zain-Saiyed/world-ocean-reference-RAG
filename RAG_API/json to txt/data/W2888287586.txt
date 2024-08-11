@@ -1,0 +1,12 @@
+ID: W2888287586
+TITLE: Deep reefs of the Great Barrier Reef offer limited thermal refuge during mass coral bleaching
+AUTHOR: ['Pedro R. Frade', 'Pim Bongaerts', 'Norbert Englebert', 'Alice Rogers', 'Manuel González‐Rivero', 'Ove Hoegh‐Guldberg']
+ABSTRACT:
+Our rapidly warming climate is threatening coral reefs as thermal anomalies trigger mass coral bleaching events. Deep (or "mesophotic") coral reefs are hypothesised to act as major ecological refuges from mass bleaching, but empirical assessments are limited. We evaluated the potential of mesophotic reefs within the Great Barrier Reef (GBR) and adjacent Coral Sea to act as thermal refuges by characterising long-term temperature conditions and assessing impacts during the 2016 mass bleaching event. We found that summer upwelling initially provided thermal relief at upper mesophotic depths (40 m), but then subsided resulting in anomalously warm temperatures even at depth. Bleaching impacts on the deep reefs were severe (40% bleached and 6% dead colonies at 40 m) but significantly lower than at shallower depths (60-69% bleached and 8-12% dead at 5-25 m). While we confirm that deep reefs can offer refuge from thermal stress, we highlight important caveats in terms of the transient nature of the protection and their limited ability to provide broad ecological refuge.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-05741-0.pdf
+CITED BY COUNT: 98
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Reef', 'Coral bleaching', 'Coral', 'Oceanography', 'Coral reef', 'Upwelling', 'Environmental science', 'Great barrier reef', 'Global warming', 'Effects of global warming on oceans', 'Geology', 'Climate change', 'Ecology', 'Biology']

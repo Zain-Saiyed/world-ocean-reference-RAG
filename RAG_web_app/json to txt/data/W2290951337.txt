@@ -1,0 +1,12 @@
+ID: W2290951337
+TITLE: Defining Planktonic Protist Functional Groups on Mechanisms for Energy and Nutrient Acquisition: Incorporation of Diverse Mixotrophic Strategies
+AUTHOR: ['Aditee Mitra', 'Kevin J. Flynn', 'Urban Tillmann', 'John A. Raven', 'David A. Caron', 'Diane K. Stoecker', 'Fabrice Not', 'Per Juel Hansen', 'Gustaaf M. Hallegraeff', 'Robert W. Sanders', 'Susanne Wilken', 'George B. McManus', 'Matthew D. Johnson', 'Paraskevi Pitta', 'Selina Våge', 'Terje Berge', 'Albert Calbet', 'Frede Thingstad', 'Hae Jin Jeong', 'JoAnn M. Burkholder', 'Patricia M. Glibert', 'Edna Granéli', 'Veronica Lundgren']
+ABSTRACT:
+Arranging organisms into functional groups aids ecological research by grouping organisms (irrespective of phylogenetic origin) that interact with environmental factors in similar ways. Planktonic protists traditionally have been split between photoautotrophic “phytoplankton” and phagotrophic “microzooplankton”. However, there is a growing recognition of the importance of mixotrophy in euphotic aquatic systems, where many protists often combine photoautotrophic and phagotrophic modes of nutrition. Such organisms do not align with the traditional dichotomy of phytoplankton and microzooplankton. To reflect this understanding, we propose a new functional grouping of planktonic protists in an eco-physiological context: (i) phagoheterotrophs lacking phototrophic capacity, (ii) photoautotrophs lacking phagotrophic capacity, (iii) constitutive mixotrophs (CMs) as phagotrophs with an inherent capacity for phototrophy, and (iv) non-constitutive mixotrophs (NCMs) that acquire their phototrophic capacity by ingesting specific (SNCM) or general non-specific (GNCM) prey. For the first time, we incorporate these functional groups within a foodweb structure and show, using model outputs, that there is scope for significant changes in trophic dynamics depending on the protist functional type description. Accordingly, to better reflect the role of mixotrophy, we recommend that as important tools for explanatory and predictive research, aquatic food-web and biogeochemical models need to redefine the protist groups within their frameworks.
+
+SOURCE: Protist
+PDF URL: None
+CITED BY COUNT: 298
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Phototroph', 'Protist', 'Mixotroph', 'Biology', 'Plankton', 'Ecology', 'Trophic level', 'Context (archaeology)', 'Phytoplankton', 'Nutrient', 'Photosynthesis', 'Heterotroph', 'Botany', 'Bacteria', 'Paleontology', 'Biochemistry', 'Genetics', 'Gene']

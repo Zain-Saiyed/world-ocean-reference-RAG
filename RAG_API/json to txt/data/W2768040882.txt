@@ -1,0 +1,12 @@
+ID: W2768040882
+TITLE: Ex-vessel Fish Price Database: Disaggregating Prices for Low-Priced Species from Reduction Fisheries
+AUTHOR: ['Travis C. Tai', 'Tim Cashion', 'Vicky W. Y. Lam', 'Wilf Swartz', 'U. Rashid Sumaila']
+ABSTRACT:
+Ex-vessel fish prices are essential for comprehensive fisheries management and socioeconomic analyses for fisheries science. In this paper, we reconstructed a global ex-vessel price database with the following areas of improvement: 1) compiling reported prices explicitly listed as ‘for reduction to fishmeal and fish oil’ to estimate prices separately for catches destined for fishmeal and fish oil production, and other non-direct human consumption purposes; 2) including 95% confidence limit estimates for each price estimation; and 3) increasing the number of input data and the number of price estimates to match the reconstructed Sea Around Us catch database. Our primary focus was to address this first area of improvement as ex-vessel prices for catches destined for non-direct human consumption purposes were substantially overestimated, notably in countries with large reduction fisheries. For example in Peru, 2010 landed values were estimated as 3.8 billion real 2010 USD when using separate prices for reduction fisheries, compared with 5.8 billion using previous methods with only one price for all end-products. This update of the price database has significant global and country-specific impacts on fisheries price and landed value trends over time.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2017.00363/pdf
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Fishery', 'Production (economics)', 'Fish <Actinopterygii>', 'Consumption (sociology)', 'Fisheries management', 'Business', 'Agricultural economics', 'Economics', 'Fishing', 'Biology', 'Microeconomics', 'Social science', 'Sociology']

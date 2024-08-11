@@ -1,0 +1,12 @@
+ID: W2342727930
+TITLE: Biodiversity response to natural gradients of multiple stressors on continental margins
+AUTHOR: ['Erik A. Sperling', 'Christina A. Frieder', 'Lisa A. Levin']
+ABSTRACT:
+Sharp increases in atmospheric CO2 are resulting in ocean warming, acidification and deoxygenation that threaten marine organisms on continental margins and their ecological functions and resulting ecosystem services. The relative influence of these stressors on biodiversity remains unclear, as well as the threshold levels for change and when secondary stressors become important. One strategy to interpret adaptation potential and predict future faunal change is to examine ecological shifts along natural gradients in the modern ocean. Here, we assess the explanatory power of temperature, oxygen and the carbonate system for macrofaunal diversity and evenness along continental upwelling margins using variance partitioning techniques. Oxygen levels have the strongest explanatory capacity for variation in species diversity. Sharp drops in diversity are seen as O2 levels decline through the 0.5-0.15 ml l(-1) (approx. 22-6 µM; approx. 21-5 matm) range, and as temperature increases through the 7-10°C range. pCO2 is the best explanatory variable in the Arabian Sea, but explains little of the variance in diversity in the eastern Pacific Ocean. By contrast, very little variation in evenness is explained by these three global change variables. The identification of sharp thresholds in ecological response are used here to predict areas of the seafloor where diversity is most at risk to future marine global change, noting that the existence of clear regional differences cautions against applying global thresholds.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2016.0637
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Species evenness', 'Biodiversity', 'Ecology', 'Ocean acidification', 'Effects of global warming on oceans', 'Upwelling', 'Climate change', 'Marine ecosystem', 'Environmental science', 'Ecosystem', 'Continental margin', 'Oceanography', 'Global warming', 'Species richness', 'Biology', 'Geology', 'Paleontology', 'Tectonics']

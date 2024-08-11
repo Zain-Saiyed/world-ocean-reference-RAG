@@ -1,0 +1,12 @@
+ID: W2021432150
+TITLE: The metabolic demands of endosymbiotic chemoautotrophic metabolism on host physiological capacities
+AUTHOR: ['James J. Childress', 'Peter R. Girguis']
+ABSTRACT:
+While chemoautotrophic endosymbioses of hydrothermal vents and other reducing environments have been well studied, little attention has been paid to the magnitude of the metabolic demands placed upon the host by symbiont metabolism and the adaptations necessary to meet such demands. Here we make the first attempt at such an evaluation, and show that moderate to high rates of chemoautotrophic or methanotrophic metabolism impose oxygen uptake and proton equivalent elimination demands upon the hosts that are much higher than is typical for the non-symbiotic annelid, bivalve and gastropod lineages to which they are related. The properties of the hosts are described and compared to determine which properties are associated with and predictive of the highest rates. We suggest that the high oxygen demand of these symbionts is perhaps the most limiting flux for the symbioses. Among the consequences of such demands has been the widespread presence of circulating and/or tissue hemoglobins in these symbioses that are necessary to support high metabolic rates in thioautotrophic endosymbioses. We also compare photoautotrophic with chemoautotrophic and methanotrophic endosymbioses to evaluate the differences and similarities in physiologies. These analyses suggest that the high demand for oxygen by chemoautotrophic and methanotrophic symbionts is likely a major factor precluding their endosymbiosis with cnidarians.
+
+SOURCE: Journal of experimental biology
+PDF URL: None
+CITED BY COUNT: 90
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Endosymbiosis', 'Biology', 'Symbiosis', 'Annelid', 'Host (biology)', 'Ecology', 'Limiting', 'Botany', 'Bacteria', 'Biochemistry', 'Plastid', 'Paleontology', 'Mechanical engineering', 'Chloroplast', 'Gene', 'Engineering']

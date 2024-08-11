@@ -1,0 +1,12 @@
+ID: W2410980108
+TITLE: Auditory sensitivity in aquatic animals
+AUTHOR: ['Klaus Lücke', 'Arthur N. Popper', 'A. D. Hawkins', 'Tomonari Akamatsu', 'M. André', 'Brian K. Branstetter', 'Marc O. Lammers', 'Craig A. Radford', 'Amanda L. Stansbury', 'T. Aran Mooney']
+ABSTRACT:
+A critical concern with respect to marine animal acoustics is the issue of hearing "sensitivity," as it is widely used as a criterion for the onset of noise-induced effects. Important aspects of research on sensitivity to sound by marine animals include: uncertainties regarding how well these species detect and respond to different sounds; the masking effects of man-made sounds on the detection of biologically important sounds; the question how internal state, motivation, context, and previous experience affect their behavioral responses; and the long-term and cumulative effects of sound exposure. If we are to better understand the sensitivity of marine animals to sound we must concentrate research on these questions. In order to assess population level and ecological community impacts new approaches can possibly be adopted from other disciplines and applied to marine fauna.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: https://asa.scitation.org/doi/pdf/10.1121/1.4952711
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Sound (geography)', 'Sensitivity (control systems)', 'Context (archaeology)', 'Masking (illustration)', 'Noise (video)', 'Acoustics', 'Environmental science', 'Population', 'Computer science', 'Biology', 'Engineering', 'Artificial intelligence', 'Physics', 'Art', 'Paleontology', 'Image (mathematics)', 'Demography', 'Electronic engineering', 'Sociology', 'Visual arts']

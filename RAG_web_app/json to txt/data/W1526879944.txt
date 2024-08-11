@@ -1,0 +1,12 @@
+ID: W1526879944
+TITLE: Marine mineral resources of Pacific Islands— A review of the Exclusive Economic Zones of islands of U.S. affiliation, excluding the State of Hawaii
+AUTHOR: ['James R. Hein', 'Brandie R. McIntyre', 'David Z. Piper']
+ABSTRACT:
+The United States Exclusive Economic Zone (EEZ) was established in 1983 and comprises all marine areas within 200 nautical miles (370 kilometers) of the nearest U.S. land. This vast area of 3.38 million square nautical miles (11.6 million square kilometers) is about 20 percent greater than the entire land area of the United States. The resource potential of the vast mineral deposits that occur within the U.S. EEZ is unknown, despite field studies that have taken place during the past 25 years. Since about 1975, information on marine mineral deposits has been obtained by numerous research cruises to the Pacific Ocean by the U.S. Geological Survey (USGS), the U.S. National Oceanic and Atmospheric Administration (NOAA), equivalent government agencies in Germany, Canada, France, Russia, Japan, China, South Korea, Australia, and New Zealand, and by academic researchers from all of these nations. Although most of the cruises by other nations explored areas outside the U.S. EEZ, information gained from those studies can aid in the evaluation of the mineral potential in the U.S. EEZ. However, the global effort remains inadequate to allow for the quantitative evaluation of mineral resources contained within the EEZ of nations or within international regions of the oceans.
+
+SOURCE: U.S. Geological Survey circular/U.S. Geological Survey Circular
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2005
+TYPE: review
+CONCEPTS: ['Exclusive economic zone', 'Nautical mile', 'China', 'Geography', 'Mineral resource classification', 'Resource (disambiguation)', 'Geological survey', 'Pacific ocean', 'Territorial waters', 'Oceanography', 'Environmental protection', 'Fishery', 'Archaeology', 'Geology', 'Political science', 'Cartography', 'International law', 'Paleontology', 'Biology', 'Law', 'Computer network', 'Geochemistry', 'Computer science']

@@ -1,0 +1,12 @@
+ID: W2092333344
+TITLE: Transformation of phenazone-type drugs during chlorination
+AUTHOR: ['Rosario Rodil', 'José Benito Quintana', 'R. Cela']
+ABSTRACT:
+Chlorination is one of the most popular disinfection steps for water treatment in Europe. However, chlorine can react with pharmaceuticals and other micropollutants leading to either their elimination or by-products being formed. These by-products are frequently not identified and therefore the consequences of chlorination can be underestimated. In this work, the degradation of two analgesics and antipyretics, phenazone (antipyrine) and propyphenazone, during chlorination was investigated by liquid chromatography-mass spectrometry (LC-MS). A quadrupole-time-of-flight (Q-TOF) system was used to follow the time course of the pharmaceuticals, and also used in the identification of the by-products. The degradation kinetics was investigated at different concentrations of chlorine (1–10 mg/L), bromide (0–100 μg/L) and sample pH (5.7–8.3) by means of a Box-Behnken experimental design. Depending on these factors, half-lives were in the ranges: 0.9–295 s for phenazone and 0.4–173 s for propyphenazone. Also, it was observed that chlorine concentration was a significant factor for propyphenazone, resulting in increased degradation rate as it is increased. The transformation path of these drugs consisted mainly of halogenations, hydroxylations and dealkylations. After several days of reaction two derivatives remained stable for phenazone: chloro-hydroxy-phenazone and N-demethyl-chloro-hydroxy-phenazone and two for propyphenazone: N-demethyl-hydroxy-propyphenazone and N-demethyl-chloro-hydroxy-propyphenazone. Moreover, experiments conducted with real water matrices, tap and surface water, showed that reaction, and formation of by-products, can take place both at the emission source point (household) and during drinking water production.
+
+SOURCE: Water research
+PDF URL: None
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Chemistry', 'Chlorine', 'Chromatography', 'Organic chemistry']

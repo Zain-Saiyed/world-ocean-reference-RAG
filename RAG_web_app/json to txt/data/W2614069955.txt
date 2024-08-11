@@ -1,0 +1,12 @@
+ID: W2614069955
+TITLE: Megafauna of the UKSRL exploration contract area and eastern Clarion-Clipperton Zone in the Pacific Ocean: Echinodermata
+AUTHOR: ['Diva J. Amon', 'Amanda F. Ziegler', 'Antonina Kremenetskaia', 'Christopher L. Mah', 'Rich Mooi', 'Timothy D. O’Hara', 'David L. Pawson', 'Michel Roux', 'Craig R. Smith']
+ABSTRACT:
+There is growing interest in mining polymetallic nodules from the abyssal Clarion-Clipperton Zone (CCZ) in the tropical Pacific Ocean. Despite being the focus of environmental studies for decades, the benthic megafauna of the CCZ remain poorly known. In order to predict and manage the environmental impacts of mining in the CCZ, baseline knowledge of the megafauna is essential. The ABYSSLINE Project has conducted benthic biological baseline surveys in the UK Seabed Resources Ltd polymetallic-nodule exploration contract area (UK-1). Prior to these research cruises in 2013 and 2015, no biological studies had been done in this area of the eastern CCZ.Using a Remotely Operated Vehicle and Autonomous Underwater Vehicle, the megafauna within the UKSRL exploration contract area (UK-1) and at a site ~250 km east of the UK-1 area were surveyed, allowing us to make the first estimates of megafaunal morphospecies richness from the imagery collected. Here, we present an atlas of the abyssal echinoderm megafauna observed and collected during the ABYSSLINE cruises to the UK-1 polymetallic-nodule exploration contract area in the CCZ. There appear to be at least 62 distinct morphospecies (13 Asteroidea, 5 Crinoidea, 9 Echinoidea, 29 Holothuroidea and 6 Ophiuroidea) identified mostly by imagery but also using molecular barcoding for a limited number of animals that were collected. This atlas will aid the synthesis of megafaunal presence/absence data collected by contractors, scientists and other stakeholders undertaking work in the CCZ, ultimately helping to decipher the biogeography of the megafauna in this threatened habitat.
+
+SOURCE: Biodiversity data jurnal
+PDF URL: https://bdj.pensoft.net/article/11794/download/pdf/
+CITED BY COUNT: 146
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Megafauna', 'Benthic zone', 'Oceanography', 'Abyssal zone', 'Marine protected area', 'Abyssal plain', 'Benthos', 'Ecology', 'Marine ecosystem', 'Fishery', 'Geography', 'Habitat', 'Geology', 'Ecosystem', 'Structural basin', 'Biology', 'Archaeology', 'Paleontology', 'Pleistocene']

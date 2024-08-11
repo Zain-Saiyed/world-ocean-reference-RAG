@@ -1,0 +1,12 @@
+ID: W2120334575
+TITLE: AN ANALYSIS OF WHALEWATCHING CODES OF CONDUCT
+AUTHOR: ['Brian Garrod', 'David A. Fennell']
+ABSTRACT:
+Whalewatching has grown into a major tourist activity, yet there are many concerns about its negative impacts. This has stimulated the development of a large number of codes of conduct. This paper presents the results of a manifest content analysis of 58 such codes from around the world. The analysis revealed considerable variation among them, not least in terms of the detail of the various guidelines they contain. This variation is not considered to be propitious for the sustainable development of whalewatching, particularly given how little is currently known about the nature of human-cetacean interactions and the complex and highly fragmented regulatory context in which this activity tends to take place. Une analyse des codes de conduite pour aller regarder les baleines. Regarder les baleines est devenu une activité touristique importante, pourtant on est assez inquiet devant les impacts négatifs de cette activité. Cela a stimulé le développement d’un grand nombre de codes de conduite. Cet article présente les résultats d’une analyse du continu manifeste de 58 de ces codes de partout dans le monde. L’analyse a révélé une variation considérable entre eux, en particulier sur le plan du degré de détail qui se trouve dans les différents conseils. Cette variation se considère comme peu propice au développement durable de l’activité de regarder les baleines, surtout quand on considère le manque de connaissances actuelles au sujet de la nature des interactions entre humains et cétacés et le contexte complexe et extrêmement fragmenté des régulations dans lequel cette activité a lieu.
+
+SOURCE: Annals of tourism research
+PDF URL: None
+CITED BY COUNT: 121
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Humanities', 'Political science', 'Context (archaeology)', 'Geography', 'Philosophy', 'Archaeology']

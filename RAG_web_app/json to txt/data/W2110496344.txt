@@ -1,0 +1,12 @@
+ID: W2110496344
+TITLE: Global nitrogen and phosphate in urban wastewater for the period 1970 to 2050
+AUTHOR: ['G. Van Drecht', 'Lex Bouwman', 'John Harrison', 'J. M. Knoop']
+ABSTRACT:
+This paper presents estimates for global N and P emissions from sewage for the period 1970–2050 for the four Millennium Ecosystem Assessment scenarios. Using country‐specific projections for population and economic growth, urbanization, development of sewage systems, and wastewater treatment installations, a rapid increase in global sewage emissions is predicted, from 6.4 Tg of N and 1.3 Tg of P per year in 2000 to 12.0–15.5 Tg of N and 2.4–3.1 Tg of P per year in 2050. While North America (strong increase), Oceania (moderate increase), Europe (decrease), and North Asia (decrease) show contrasting developments, in the developing countries, sewage N and P discharge will likely increase by a factor of 2.5 to 3.5 between 2000 and 2050. This is a combined effect of increasing population, urbanization, and development of sewage systems. Even in optimistic scenarios for the development of wastewater treatment systems, global N and P flows are not likely to decline.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2009GB003458
+CITED BY COUNT: 333
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Sewage', 'Urbanization', 'Environmental science', 'Wastewater', 'Sewage treatment', 'Population', 'Ecosystem', 'Environmental engineering', 'Environmental protection', 'Geography', 'Ecology', 'Biology', 'Demography', 'Sociology']

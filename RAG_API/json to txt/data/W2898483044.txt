@@ -1,0 +1,12 @@
+ID: W2898483044
+TITLE: Meiofaunal biodiversity in submarine canyons of the Mediterranean Sea: A meta-analysis
+AUTHOR: ['Silvia Bianchelli', 'Roberto Danovaro']
+ABSTRACT:
+Deep-sea canyons include highly heterogeneous habitats characterised by a large variability in terms of geomorphological, oceanographic end ecological features. Despite the increasing efforts conducted in the last decade to investigate deep-sea canyon ecology, patterns and drivers of their biodiversity are still controversial. Here, we carried out a meta-analysis of meiofaunal abundance, biomass, richness of higher taxa and taxonomic composition from 18 Mediterranean canyons, located in the Western (Balearic, Catalan, Ligurian margins), Central (South Adriatic margin) and Eastern (Cretan margin) basins. We also compared Mediterranean canyons with 3 canyons located in the European margins of the Northern Atlantic Ocean at similar latitudes. Our results revealed the presence of weak differences in terms of meiofaunal abundance and biomass among canyons and adjacent slopes. However, their biodiversity (expressed as expected richness of higher meiofaunal taxa) was typically similar or higher in canyons than in open slopes. High levels of dissimilarity were also observed between canyons and slopes in terms of taxonomic composition. The variability of meiofaunal assemblages in canyons appear linked to their geomorphological heterogeneity. The results of the meta-analysis also indicate that the most important drivers of the observed patterns were water depth, regional setting (i.e., differences among Mediterranean Western, Central and Eastern sub-basins) and geomorphological characteristics of the canyons. We conclude that deep-sea Mediterranean canyons contribute significantly to the deep-sea biodiversity at both regional and whole-basin scale.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Submarine canyon', 'Oceanography', 'Mediterranean sea', 'Canyon', 'Submarine', 'Mediterranean climate', 'Geology', 'Environmental science', 'Biodiversity', 'Geography', 'Continental shelf', 'Ecology', 'Archaeology', 'Geomorphology', 'Biology']

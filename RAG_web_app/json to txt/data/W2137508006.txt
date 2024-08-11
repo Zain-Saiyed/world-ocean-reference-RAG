@@ -1,0 +1,12 @@
+ID: W2137508006
+TITLE: Barrier Island Population along the U.S. Atlantic and Gulf Coasts
+AUTHOR: ['Keqi Zhang', 'Stephen P. Leatherman', 'Keqi Zhang', 'Stephen P. Leatherman']
+ABSTRACT:
+Barrier islands, the dominant geomorphic features along the U.S. Atlantic and Gulf Coasts, are a favorite place for living and visiting. Unfortunately, barrier islands are vulnerable to storm-surge flooding and erosion because of low elevations and the movement of sand by waves and tides. In order to estimate the impacts of surge flooding, sea-level rise, and erosion on barrier islands, the lengths and areas of barrier islands and population living there were quantified using high-resolution satellite imagery from Google Earth and 1990–2000 census block data. The total length and area of barrier islands spanning 18 states along the U.S. Atlantic and Gulf Coasts are about 3700 km and 6800 km2, respectively. There are approximately 1.4 million people living on barrier islands, half of which are in Florida according to 2000 census data. The population densities of barrier islands are three times those of coastal states on average, and the population increased 14% from 1990 to 2000. The collision course of population increases and development in the face of accelerated sea-level rise due to global climate change makes barrier islands more vulnerable.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 44
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Barrier island', 'Oceanography', 'Population', 'Storm surge', 'Flooding (psychology)', 'Coastal erosion', 'Storm', 'Geography', 'Overwash', 'Geology', 'Census', 'Physical geography', 'Shore', 'Psychology', 'Demography', 'Sociology', 'Psychotherapist']

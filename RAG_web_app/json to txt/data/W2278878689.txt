@@ -1,0 +1,12 @@
+ID: W2278878689
+TITLE: Place Attachment and Marine Recreationists' Attitudes toward Offshore Wind Energy Development
+AUTHOR: ['Matthew T. J. Brownlee', 'Jeffrey C. Hallo', 'Laurie Jodice', 'DeWayne Moore', 'Robert B. Powell', 'Brett A. Wright']
+ABSTRACT:
+AbstractRenewable energy initiatives are increasing and many locations selected for offshore wind farms are close to recreation resources. Public involvement processes to assess project support are standard in offshore wind energy planning. However, often missing from these assessments are investigations into subpopulations, such as marine recreationists. Using mixed methods, researchers evaluated a scale that measures marine recreationists' (n = 483) attitudes toward offshore wind energy. Researchers also examined the relationships between place attachment and opposition and support for the proposed projects. Results suggest that place attachment can assist in predicting attitudes toward offshore wind energy development, but the explanatory power and the nature of the relationships differed between two communities. Implications for communication, outreach, and recreation management are discussed.Keywords: comparative analysismarine recreationistsplace attachmentwind energy
+
+SOURCE: Journal of leisure research
+PDF URL: None
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Offshore wind power', 'Recreation', 'Wind power', 'Outreach', 'Place attachment', 'Renewable energy', 'NIMBY', 'Structural equation modeling', 'Opposition (politics)', 'Environmental resource management', 'Submarine pipeline', 'Environmental planning', 'Geography', 'Environmental science', 'Engineering', 'Psychology', 'Political science', 'Civil engineering', 'Social psychology', 'Economics', 'Economic growth', 'Computer science', 'Electrical engineering', 'Geotechnical engineering', 'Machine learning', 'Politics', 'Law']

@@ -1,0 +1,12 @@
+ID: W2220608868
+TITLE: Extended biomass allometric equations for large mangrove trees from terrestrial LiDAR data
+AUTHOR: ['Adewole Olagoke', 'Christophe Proisy', 'Jean‐Baptiste Féret', 'Élodie Blanchard', 'François Fromard', 'Ulf Mehlig', 'Moirah Machado de Menezes', 'Valdenira Ferreira dos Santos', 'Uta Berger']
+ABSTRACT:
+We estimated aboveground biomass of large mangrove trees from terrestrial Lidar measurements. This makes the first attempt to extend mangrove biomass equations validity range to trunk diameter reaching 125 cm. Accurately determining biomass of large trees is crucial for reliable biomass analyses in most tropical forests, but most allometric models calibration are deficient in large trees data. This issue is a major concern for high-biomass mangrove forests, especially when their role in the ecosystem carbon storage is considered. As an alternative to the fastidious cutting and weighing measurement approach, we explored a non-destructive terrestrial laser scanning approach to estimate the aboveground biomass of large mangroves (diameters reaching up to 125 cm). Because of buttresses in large trees, we propose a pixel-based analysis of the composite 2D flattened images, obtained from the successive thin segments of stem point-cloud data to estimate wood volume. Branches were considered as successive best-fitted primitive of conical frustums. The product of wood volume and height-decreasing wood density yielded biomass estimates. This approach was tested on 36 A. germinans trees in French Guiana, considering available biomass models from the same region as references. Our biomass estimates reached ca. 90 % accuracy and a correlation of 0.99 with reference biomass values. Based on the results, new tree biomass model, which had R 2 of 0.99 and RSE of 87.6 kg of dry matter. This terrestrial LiDAR-based approach allows the estimates of large tree biomass to be tractable, and opens new opportunities to improve biomass estimates of tall mangroves. The method could also be tested and applied to other tree species.
+
+SOURCE: Trees
+PDF URL: None
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Biomass (ecology)', 'Lidar', 'Mangrove', 'Tree allometry', 'Environmental science', 'Allometry', 'Atmospheric sciences', 'Soil science', 'Ecology', 'Remote sensing', 'Biomass partitioning', 'Geology', 'Biology']

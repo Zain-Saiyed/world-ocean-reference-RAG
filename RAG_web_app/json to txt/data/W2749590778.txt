@@ -1,0 +1,12 @@
+ID: W2749590778
+TITLE: Winners and losers as mangrove, coral and seagrass ecosystems respond to sea-level rise in Solomon Islands
+AUTHOR: ['Simon Albert', 'Megan I. Saunders', 'Chris Roelfsema', 'Javier X. Leon', 'Elizabeth Johnstone', 'Jock R. Mackenzie', 'Ove Hoegh‐Guldberg', 'Alistair Grinham', 'Stuart Phinn', 'Norman C. Duke', 'Peter J. Mumby', 'Éva Kovács', 'Colin D. Woodroffe']
+ABSTRACT:
+Abstract A 2007 earthquake in the western Solomon Islands resulted in a localised subsidence event in which sea level (relative to the previous coastal settings) rose approximately 30–70 cm, providing insight into impacts of future rapid changes to sea level on coastal ecosystems. Here, we show that increasing sea level by 30–70 cm can have contrasting impacts on mangrove, seagrass and coral reef ecosystems. Coral reef habitats were the clear winners with a steady lateral growth from 2006–2014, yielding a 157% increase in areal coverage over seven years. Mangrove ecosystems, on the other hand, suffered the largest impact through a rapid dieback of 35% (130 ha) of mangrove forest in the study area after subsidence. These forests, however, had partially recovered seven years after the earthquake albeit with a different community structure. The shallow seagrass ecosystems demonstrated the most dynamic response to relative shifts in sea level with both losses and gains in areal extent at small scales of 10–100 m. The results of this study emphasize the importance of considering the impacts of sea-level rise within a complex landscape in which winners and losers may vary over time and space.
+
+SOURCE: Environmental research letters
+PDF URL: https://iopscience.iop.org/article/10.1088/1748-9326/aa7e68/pdf
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seagrass', 'Mangrove', 'Coral reef', 'Ecosystem', 'Mangrove ecosystem', 'Reef', 'Oceanography', 'Habitat', 'Marine ecosystem', 'Coral', 'Subsidence', 'Environmental science', 'Geography', 'Fishery', 'Ecology', 'Geology', 'Biology', 'Paleontology', 'Structural basin']

@@ -1,0 +1,12 @@
+ID: W2888836946
+TITLE: Assessing the impacts of seabed mineral extraction in the deep sea and coastal marine environments: Current methods and recommendations for environmental risk assessment
+AUTHOR: ['Laura Kaikkonen', 'Riikka Venesjärvi', 'Henrik Nygård', 'Sakari Kuikka']
+ABSTRACT:
+Mineral extraction from the seabed has experienced a recent surge of interest from both the mining industry and marine scientists. While improved methods of geological investigation have enabled the mapping of new seafloor mineral reserves, the ecological impacts of mining in both the deep sea and the shallow seabed are poorly known. This paper presents a synthesis of the empirical evidence from experimental seabed mining and parallel industries to infer the effects of seabed mineral extraction on marine ecosystems, focusing on polymetallic nodules and ferromanganese concretions. We use a problem-structuring framework to evaluate causal relationships between pressures caused by nodule extraction and the associated changes in marine ecosystems. To ensure that the rationale behind impact assessments is clear, we propose that future impact assessments use pressure-specific expert elicitation. We further discuss integrating ecosystem services in the impact assessments and the implications of current methods for environmental risk assessments.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seabed', 'Marine ecosystem', 'Seafloor spreading', 'Environmental science', 'Oceanography', 'Ecosystem', 'Environmental resource management', 'Extraction (chemistry)', 'Environmental impact assessment', 'Geology', 'Earth science', 'Ecology', 'Chemistry', 'Chromatography', 'Biology']

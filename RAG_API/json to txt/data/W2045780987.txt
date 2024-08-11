@@ -1,0 +1,12 @@
+ID: W2045780987
+TITLE: Global estimates of hydrate-bound gas in marine sediments: how much is really out there?
+AUTHOR: ['Alexei V. Milkov']
+ABSTRACT:
+It is generally assumed that oceanic gas hydrates contain a huge volume of natural gases, mainly methane. The most widely cited estimate of global hydrate-bound gas is 21×1015 m3 of methane at STP (or ∼10,000 Gt of methane carbon), which is proposed as a “consensus value” from several independent estimations. This large gas hydrate reservoir is further suggested as an important component of the global carbon cycle and as a future energy source. Here, I present a revised and updated set of well-justified global estimates and discuss how and why they changed over time. It appears that the global estimates of hydrate-bound gas decreased by at least one order of magnitude from 1970s–early 1980s (estimates on the order of 1017–1018 m3) to late 1980s–early 1990s (1016 m3) to late 1990s–present (1014–1015 m3). The decrease of estimates is a result of growing knowledge of the distribution and concentration of gas hydrates in marine sediments and ongoing efforts to better constrain the volume of hydrate-bearing sediments and their gas yield. These parameters appear to be relatively well constrained at present through DSDP/ODP drilling and direct measurements of gas concentrations in sediments. The global estimate of hydrate-bound gas that best reflects the current knowledge of submarine gas hydrate is in the range (1–5)×1015 m3 (∼500–2500 Gt of methane carbon). A significantly smaller global gas hydrate inventory implies that the role of gas hydrates in the global carbon cycle may not be as significant as speculated previously. Gas hydrate may be considered a future energy source not because the global volume of hydrate-bound gas is large, but because some individual gas hydrate accumulations may contain significant and concentrated resources that may be profitably recovered in the future.
+
+SOURCE: Earth-science reviews
+PDF URL: None
+CITED BY COUNT: 950
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Methane', 'Clathrate hydrate', 'Hydrate', 'Natural gas', 'Carbon cycle', 'Volume (thermodynamics)', 'Carbon fibers', 'Fossil fuel', 'Carbon dioxide', 'Geology', 'Environmental science', 'Chemistry', 'Materials science', 'Thermodynamics', 'Physics', 'Ecology', 'Organic chemistry', 'Ecosystem', 'Composite number', 'Composite material', 'Biology']

@@ -1,0 +1,12 @@
+ID: W3006255570
+TITLE: Deep-sea litter in the Gulf of Cadiz (Northeastern Atlantic, Spain)
+AUTHOR: ['Ariadna Mechó', 'Marco Francescangeli', 'Gemma Ercilla', 'Emanuela Fanelli', 'Ferrán Estrada', 'Javier Valencia', 'Ignacio Sobrino', 'Roberto Danovaro', 'Joan B. Company', 'Jacopo Aguzzi']
+ABSTRACT:
+This study describes the distribution and composition of litter from the Gulf of Cadiz (Northeastern Atlantic, Spain), a region of confluence between the Atlantic and Mediterranean, with intense maritime traffic. Several geological features, such as canyons, open slopes and contourite furrows and channels, were surveyed by remotely operated vehicle (ROV) observations between depths of 220 and 1000 m. Marine litter was quantified by grouping the observations into six categories. Our results indicate the presence of markedly different habitats in which a complex collection of different types of litter accumulate in relation to bottom current flows and maritime and fishing routes. This result justifies a seascape approach in further anthropogenic impact studies within deep-sea areas.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Seascape', 'Oceanography', 'Marine debris', 'Mediterranean sea', 'Mediterranean climate', 'Canyon', 'Fishing', 'Geology', 'Litter', 'Remotely operated vehicle', 'Fishery', 'Habitat', 'Geography', 'Ecology', 'Archaeology', 'Geomorphology', 'Biology', 'Debris']

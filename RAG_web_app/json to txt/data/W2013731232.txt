@@ -1,0 +1,12 @@
+ID: W2013731232
+TITLE: Occurrence of pharmaceutical compounds in urban wastewater: Removal, mass load and environmental risk after a secondary treatment—A review
+AUTHOR: ['Paola Verlicchi', 'Mustafa Al Aukidy', 'Elena Zambello']
+ABSTRACT:
+This review focuses on 118 pharmaceuticals, belonging to seventeen different therapeutic classes, detected in raw urban wastewater and effluent from an activated sludge system, a usual treatment adopted for urban wastewaters worldwide prior to final discharge into surface water bodies. Data pertaining to 244 conventional activated sludge systems and 20 membrane biological reactors are analysed and the observed ranges of variability of each selected compound in their influent and effluent reported, with particular reference to the substances detected most frequently and in higher concentrations. A snapshot of the ability of these systems to remove such compounds is provided by comparing their global removal efficiencies for each substance. Where possible, the study then evaluates the average daily mass load of the majority of detected pharmaceuticals exiting the secondary treatment step. The final part of the review provides an assessment of the environmental risk posed by their presence in the secondary effluent by means of the risk quotient that is the ratio between the average pharmaceutical concentration measured in the secondary effluent and the predicted no-effect concentration. Finally, mass load rankings of the compounds under review are compared with those based on their risk level. This analysis shows that the highest amounts discharged through secondary effluent pertain to one antihypertensive, and several beta-blockers and analgesics/anti-inflammatories, while the highest risk is posed by antibiotics and several psychiatric drugs and analgesics/anti-inflammatories. These results are reported with a view to aiding scientists and administrators in planning measures aiming to reduce the impact of treated urban wastewater discharge into surface water bodies.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 1731
+PUBLICATION YEAR: 2012
+TYPE: review
+CONCEPTS: ['Effluent', 'Secondary treatment', 'Wastewater', 'Sewage treatment', 'Environmental science', 'Activated sludge', 'Waste management', 'Environmental engineering', 'Engineering']

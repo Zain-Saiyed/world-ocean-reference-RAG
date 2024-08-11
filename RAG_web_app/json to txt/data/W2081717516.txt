@@ -1,0 +1,12 @@
+ID: W2081717516
+TITLE: Evidence of Large-Scale Chronic Eutrophication in the Great Barrier Reef: Quantification of Chlorophyll a Thresholds for Sustaining Coral Reef Communities
+AUTHOR: ['P. R. F. Bell', 'Ibrahim Elmetri', 'Brian E. Lapointe']
+ABSTRACT:
+Long-term monitoring data show that hard coral cover on the Great Barrier Reef (GBR) has reduced by >70 % over the past century. Although authorities and many marine scientists were in denial for many years, it is now widely accepted that this reduction is largely attributable to the chronic state of eutrophication that exists throughout most of the GBR. Some reefs in the far northern GBR where the annual mean chlorophyll a (Chl a) is in the lower range of the proposed Eutrophication Threshold Concentration for Chl a (~0.2-0.3 mg m⁻³) show little or no evidence of degradation over the past century. However, the available evidence suggests that coral diseases and the crown-of-thorns starfish will proliferate in such waters and hence the mandated eutrophication Trigger values for Chl a (~0.4-0.45 mg m⁻³) will need to be decreased to ~0.2 mg m⁻³ for sustaining coral reef communities.
+
+SOURCE: Ambio
+PDF URL: None
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Reef', 'Coral reef', 'Resilience of coral reefs', 'Coral', 'Environmental issues with coral reefs', 'Oceanography', 'Fringing reef', 'Coral bleaching', 'Environmental science', 'Aquaculture of coral', 'Fishery', 'Great barrier reef', 'Chlorophyll a', 'Ecology', 'Biology', 'Nutrient', 'Geology', 'Botany']

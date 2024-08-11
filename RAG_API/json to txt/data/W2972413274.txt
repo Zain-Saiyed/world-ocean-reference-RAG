@@ -1,0 +1,12 @@
+ID: W2972413274
+TITLE: First record of the tropical seagrass species Halophila decipiens Ostenfeld in the Mediterranean Sea
+AUTHOR: ['Vasilis Gerakaris', 'Polytimi-loli Lardi', 'Yiannis Issaris']
+ABSTRACT:
+The tropical seagrass species Halophila decipiens Ostenfeld is reported for the first time in the Mediterranean Sea (Salamina island, Saronikos Gulf, Aegean Sea, Greece). A survey conducted in October 2018 identified the occurrence of a H. decipiens population, forming multiple mono-specific stands (1–10 m2 in size) on a sandy area with a surface of about 5000 m2, at depths between 3 and 4 m. This finding documents a further northward extension of the biogeographical distribution of this pan-tropical seagrass species into warm-temperate waters; far beyond its previously documented northern geographic limit (i.e., the 32nd parallel north). The morphological characteristics typical of the species, as well as, the ecological preference of the local population of H. decipiens are discussed.
+
+SOURCE: Aquatic botany
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Seagrass', 'Temperate climate', 'Mediterranean climate', 'Mediterranean sea', 'Ecology', 'Population', 'Biology', 'Geography', 'Oceanography', 'Habitat', 'Geology', 'Demography', 'Sociology']

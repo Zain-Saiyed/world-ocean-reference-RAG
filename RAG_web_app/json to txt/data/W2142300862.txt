@@ -1,0 +1,12 @@
+ID: W2142300862
+TITLE: Quantifying the global wave power resource
+AUTHOR: ['Kester Gunn', 'C.F.W. Stock-Williams']
+ABSTRACT:
+Justifying continued development and large-scale deployment of Wave Energy Converters (WECs) requires quantification of the potential resource. Currently, estimates are available for individual countries or, at low accuracy, for global resource. Additionally, existing estimates do not provide insight into potential future markets, i.e. the location of the resource. Here, NOAA WaveWatch III data are analysed for a 6-year period to calculate wave energy potential. The global market is then quantified by calculating the energy flux across a line 30 nautical miles offshore. Results are presented by country, continent, hemisphere and for the globe. Confidence values are also presented in the form of 95% confidence intervals. These limits provide insight into the uncertainty associated with the length of dataset used and the variability of the resource. This enables direct comparison with other resource assessment studies, whether using numerical model or measured data. An extensive survey of previous global and regional resource estimates is also conducted, in order to compare both results and methods. Supplementing this, extractable resource is estimated by considering the deployment of an illustrative WEC (Pelamis P2). The global wave power resource is 2.11 ± 0.05 TW, of which 4.6% is extractable with the chosen WEC configuration.
+
+SOURCE: Renewable energy
+PDF URL: None
+CITED BY COUNT: 492
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Resource (disambiguation)', 'Software deployment', 'Wave power', 'Environmental science', 'Confidence interval', 'Northern Hemisphere', 'Meteorology', 'Computer science', 'Energy (signal processing)', 'Statistics', 'Geography', 'Climatology', 'Mathematics', 'Geology', 'Computer network', 'Operating system']

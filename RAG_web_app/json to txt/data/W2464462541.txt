@@ -1,0 +1,12 @@
+ID: W2464462541
+TITLE: Spatial and temporal structure of the meroplankton community in a sub-Arctic shelf system
+AUTHOR: ['MJ Silberberger', 'PE Renaud', 'Boris Espinasse', 'Henning Reiss']
+ABSTRACT:
+The early development of many benthic invertebrates involves planktonic larval stages enabling larvae to disperse over large distances and to utilize food from the productive upper water layers.Although many past studies have recognized the importance of this period in the benthic life cycle, knowledge of larval distribution in time and space remains limited, especially for high-latitude regions with pronounced seasonal variability in environmental conditions.Here, we present the first inventory of meroplankton over the continental shelf in the Lofoten-Vesterålen region, northern Norway, over a full annual cycle.Six stations were sampled during 8 sampling events between September 2013 and August 2014.We recorded a total of 65 taxa, a considerably higher diversity than reported in studies from more northern regions.We observed a distinct seasonal pattern with characteristic meroplankton communities defining the seasons: spring, summer, and winter.Abundance and diversity during winter was low, with higher values in spring, and maximum abundances for most taxa in summer.Meroplankton community patterns did not reflect weak environmental spatial structure.Particle tracking was used to identify source and settlement locations of spring and summer communities.Spring and summer communities originated from shore and shelf areas, respectively.Larvae were generally transported toward Andfjord and adjacent shelf regions, irrespective of season.This spatially restricted dispersal and larval settlement highlights the importance of the local benthic communities for the resilience of the ecosystem.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps_oa/m555p079.pdf
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Arctic', 'Oceanography', 'Environmental science', 'Geography', 'Biodiversity', 'Ichthyoplankton', 'Abundance (ecology)', 'Ecology', 'Fishery', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W4239336527
+TITLE: Phycodrina elegans: Miller, K.A., Garske, L. &amp; Edgar, G.
+AUTHOR: []
+ABSTRACT:
+Established in 1964, the IUCN Red List of Threatened Species has evolved to become the world’s most comprehensive information source on the global conservation status of animal, fungi and plant species.
+
+SOURCE: IUCN Red List of Threatened Species
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2007
+TYPE: dataset
+CONCEPTS: ['IUCN Red List', 'Threatened species', 'Miller', 'Biology', 'Ecology', 'Geography', 'Environmental ethics', 'Zoology', 'Philosophy', 'Habitat']

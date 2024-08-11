@@ -1,0 +1,12 @@
+ID: W2156653254
+TITLE: Wind Effects on Past and Future Regional Sea Level Trends in the Southern Indo-Pacific*
+AUTHOR: ['Axel Timmermann', 'Shayne McGregor', 'Fei‐Fei Jin']
+ABSTRACT:
+Abstract Global sea level rise due to the thermal expansion of the warming oceans and freshwater input from melting glaciers and ice sheets is threatening to inundate low-lying islands and coastlines worldwide. At present the global mean sea level rises at 3.1 ± 0.7 mm yr−1 with an accelerating tendency. However, the magnitude of recent decadal sea level trends varies greatly spatially, attaining values of up to 10 mm yr−1 in some areas of the western tropical Pacific. Identifying the causes of recent regional sea level trends and understanding the patterns of future projected sea level change is of crucial importance. Using a wind-forced simplified dynamical ocean model, the study shows that the regional features of recent decadal and multidecadal sea level trends in the tropical Indo-Pacific can be attributed to changes in the prevailing wind regimes. Furthermore, it is demonstrated that within an ensemble of 10 state-of-the-art coupled general circulation models, forced by increasing atmospheric CO2 concentrations over the next century, wind-induced redistributions of upper-ocean water play a key role in establishing the spatial characteristics of projected regional sea level rise. Wind-related changes in near-surface mass and heat convergence near the Solomon Islands, Tuvalu, Kiribati, the Cook Islands, and French Polynesia oppose—but cannot cancel—the regional signal of global mean sea level rise.
+
+SOURCE: Journal of climate
+PDF URL: None
+CITED BY COUNT: 215
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Climatology', 'Sea level', 'Glacier', 'Intertropical Convergence Zone', 'Magnitude (astronomy)', 'Sea surface temperature', 'Climate change', 'Geology', 'Global wind patterns', 'Environmental science', 'Oceanography', 'Geography', 'Physical geography', 'Meteorology', 'Precipitation', 'Physics', 'Astronomy']

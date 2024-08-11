@@ -1,0 +1,12 @@
+ID: W2914100552
+TITLE: Understanding drivers of antibiotic resistance genes in High Arctic soil ecosystems
+AUTHOR: ['Clare M. McCann', 'Beate Christgen', 'J. A. Fraser Roberts', 'Jian‐Qiang Su', 'Kathryn E. Arnold', 'Neil Gray', 'Yan Zhu', 'David W. Graham']
+ABSTRACT:
+Soils in tropical and temperate locations are known to be a sink for the genetic potential of anthropogenic-driven acquired antibiotic resistance (AR). In contrast, accumulation of acquired AR is less probable in most Polar soils, providing a platform for characterizing background resistance and establishing a benchmark for assessing AR spread. Here, high-throughput qPCR and geochemistry were used to quantify the abundance and diversity of both antibiotic resistance genes (ARGs) and selected mobile genetic elements (MGEs) across eight soil clusters in the Kongsfjorden region of Svalbard in the High Arctic. Relative ARG levels ranged by over two orders of magnitude (10−6 to 10−4 copies/16S rRNA gene copy), and showed a gradient of potential human and wildlife impacts across clusters as evidenced by altered geochemical conditions and increased “foreign” ARG abundances (i.e., allochthonous), including blaNDM-1. Impacted clusters exhibited 100× higher total ARGs and MGEs in tandem with elevated secondary nutrients, especially available P that is typically low and limiting in Arctic soils. In contrast, ARGs in less-impacted clusters correlated strongly to local soil lithology. The most plausible source of exogenous P and allochthonous ARGs in this region is bird and other wildlife guano, disseminated either by local human wastes or via direct carriage and deposition. Regardless of pathway, accumulation of apparent allochthonous ARGs and MGEs in High Arctic soils is concerning, highlighting the importance of characterizing Arctic sites now to establish benchmarks for tracking AR spread around the world.
+
+SOURCE: Environment international
+PDF URL: None
+CITED BY COUNT: 135
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Arctic', 'Soil water', 'Ecosystem', 'Ecology', 'Psychrophile', 'Resistome', 'Environmental science', 'Biology', 'Mobile genetic elements', 'Gene', 'Bacteria', 'Genetics', 'Genome']

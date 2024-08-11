@@ -1,0 +1,12 @@
+ID: W2524622826
+TITLE: Return of naturally sourced Pb to Atlantic surface waters
+AUTHOR: ['Luke Bridgestock', 'Tina van de Flierdt', 'Mark Rehkämper', 'Maxence Paul', 'Rob Middag', 'Angela Milne', 'Maeve C. Lohan', 'Alex R. Baker', 'Rosie Chance', 'Roulin Khondoker', 'Stanislav Strekopytov', 'Emma Humphreys‐Williams', 'Eric P. Achterberg', 'Micha J.A. Rijkenberg', 'Loes J. A. Gerringa', 'H. J. W. de Baar']
+ABSTRACT:
+Abstract Anthropogenic emissions completely overwhelmed natural marine lead (Pb) sources during the past century, predominantly due to leaded petrol usage. Here, based on Pb isotope measurements, we reassess the importance of natural and anthropogenic Pb sources to the tropical North Atlantic following the nearly complete global cessation of leaded petrol use. Significant proportions of up to 30–50% of natural Pb, derived from mineral dust, are observed in Atlantic surface waters, reflecting the success of the global effort to reduce anthropogenic Pb emissions. The observation of mineral dust derived Pb in surface waters is governed by the elevated atmospheric mineral dust concentration of the North African dust plume and the dominance of dry deposition for the atmospheric aerosol flux to surface waters. Given these specific regional conditions, emissions from anthropogenic activities will remain the dominant global marine Pb source, even in the absence of leaded petrol combustion.
+
+SOURCE: Nature communications
+PDF URL: None
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Environmental science', 'Mineral dust', 'Plume', 'Dominance (genetics)', 'Deposition (geology)', 'Oceanography', 'Aerosol', 'Environmental chemistry', 'Atmospheric sciences', 'Geology', 'Chemistry', 'Sediment', 'Geography', 'Meteorology', 'Paleontology', 'Biochemistry', 'Gene']

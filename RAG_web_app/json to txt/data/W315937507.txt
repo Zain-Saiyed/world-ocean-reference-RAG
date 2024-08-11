@@ -1,0 +1,12 @@
+ID: W315937507
+TITLE: Advancing marine cumulative effects mapping: An update in Canada’s Pacific waters
+AUTHOR: ['Cathryn Clarke Murray', 'Selina Agbayani', 'Hussein M. Alidina', 'Natalie C. Ban']
+ABSTRACT:
+The rapidly progressing field of cumulative effects mapping is highly dependent on data quality and quantity. Availability of spatial data on the location of human activities on or affecting the ocean has substantially improved our understanding of potential cumulative effects. However, datasets for some activities remain poor and increased access to current, high resolution data are needed. Here we present an updated analysis of potential cumulative effects in Canada’s Pacific marine waters. New, updated datasets and methodological improvements over the previous analysis were completed, including a new index for land-based effects on marine habitats, updated habitat classes and a modified treatment of vulnerability scores. The results show increased potential cumulative effects for the region. Fishing remains the biggest overall impact amongst marine activities, while land-based activities have the highest impact per unit area in affected ocean areas. Intertidal areas were the most affected habitat per unit area, while pelagic habitats had the highest total cumulative effect score. Regular updates of cumulative effects assessments will make them more useful for management, but these require regularly updated, high resolution datasets across all activity types, and automated, well-documented procedures to make them accessible to managers and policy-makers.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Cumulative effects', 'Marine protected area', 'Habitat', 'Intertidal zone', 'Marine habitats', 'Fishing', 'Environmental science', 'Marine spatial planning', 'Pelagic zone', 'Marine conservation', 'Geography', 'Environmental resource management', 'Fishery', 'Ecology', 'Biology']

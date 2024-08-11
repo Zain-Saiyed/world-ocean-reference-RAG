@@ -1,0 +1,12 @@
+ID: W2142731244
+TITLE: Effects of seismic energy releases on the survival and development of zoeal larvae of dungeness crab (Cancer magister)
+AUTHOR: ['Walter H. Pearson', 'John R. Skalski', 'Stephen D. Sulkin', 'Charles I. Malme']
+ABSTRACT:
+In blind, controlled field experiments, early Stage II zoeae of Dungeness crab (Cancer magister DANA) were exposed to sounds from single discharges of a 13·8-litre array of seven air guns. Their survival and development were followed during subsequent laboratory culture. Immediate mortality was low (0 to 2%) and showed no significant difference between control and exposed larvae (α > 0·05). Across all treatments and blocks of the experiment, survival to the molt to Stage III averaged 88·8%. The conditional Stage IV survival rate averaged 69·8%. The times to the molts to Stage III and Stage IV averaged 14·4 and 34·9 days, respectively. For immediate and long-term survival and time to molt, the field experiment revealed no statistically significant (α > 0·05) effects on zoeae for exposures as close as I m from the array, nor for mean sound pressure as high as 231 dB re 1 μPa and cumulative energy density up to 251 J/M2. Post hoc power calculations showed that any reduction in zoeal survival as a result of sound exposure was less than 7% for survival to Stage III and less than 12% for Stage IV conditional survival (1-β = 0·90, α = 0·05 one-tailed). The sound exposures in our study were at the maximum levels likely to be experienced by a zoea during an actual survey.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 1994
+TYPE: article
+CONCEPTS: ['Larva', 'Stage (stratigraphy)', 'Biology', 'Energy density', 'Animal science', 'Ecology', 'Physics', 'Paleontology', 'Theoretical physics']

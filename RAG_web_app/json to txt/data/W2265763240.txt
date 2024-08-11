@@ -1,0 +1,12 @@
+ID: W2265763240
+TITLE: Elevated surface chlorophyll associated with natural oil seeps in the Gulf of Mexico
+AUTHOR: ['Nigel D’Souza', 'Ajit Subramaniam', 'Andrew R. Juhl', 'Mark Hafez', 'Alexander M. Chekalyuk', 'See‐Chun Phan', 'Beizhan Yan', 'Ian R. MacDonald', 'Sarah C. Weber', 'Joseph P. Montoya']
+ABSTRACT:
+Natural hydrocarbon seeps account for up to 47% of the oil released into the oceans. In situ and remote measurements of chlorophyll concentrations suggest that natural hydrocarbons enhance productivity in surface waters in the Gulf of Mexico. Natural hydrocarbon seeps occur on the sea floor along continental margins, and account for up to 47% of the oil released into the oceans1. Hydrocarbon seeps are known to support local benthic productivity2, but little is known about their impact on photosynthetic organisms in the overlying water column. Here we present observations with high temporal and spatial resolution of chlorophyll concentrations in the northern Gulf of Mexico using in situ and shipboard flow-through fluorescence measurements from May to July 2012, as well as an analysis of ocean-colour satellite images from 1997 to 2007. All three methods reveal elevated chlorophyll concentrations in waters influenced by natural hydrocarbon seeps. Temperature and nutrient profiles above seep sites suggest that nutrient-rich water upwells from depth, which may facilitate phytoplankton growth and thus support the higher chlorophyll concentrations observed. Because upwelling occurs at natural seep locations around the world1,2,3, we conclude that offshore hydrocarbon seeps, and perhaps other types of deep ocean vents and seeps at depths exceeding 1,000 m, may influence biogeochemistry and productivity of the overlying water column.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Petroleum seep', 'Oceanography', 'Water column', 'Geology', 'Biogeochemistry', 'Upwelling', 'Phytoplankton', 'Chlorophyll a', 'Benthic zone', 'Mangrove', 'Productivity', 'Continental shelf', 'Environmental science', 'Seabed', 'Nutrient', 'Ecology', 'Chemistry', 'Biochemistry', 'Macroeconomics', 'Methane', 'Economics', 'Biology']

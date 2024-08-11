@@ -1,0 +1,12 @@
+ID: W2777723490
+TITLE: Building beyond land: An overview of coastal land reclamation in 16 global megacities
+AUTHOR: ['Dhritiraj Sengupta', 'Ruishan Chen', 'Michael E. Meadows']
+ABSTRACT:
+The increase in global population has been accompanied by rising consumption of natural resources such as clean air, water and land. Demand for land has increased significantly over the past 30 years or so, both inland and at the coast. In coastal regions, reclaiming land from the sea has often been the preferred solution towards meeting the need for more land for urban development. Seaward land reclamation entails the formation of artificial land surfaces which are constructed in such a way as to extend outwards over the sea using advanced geo-engineering techniques. The process is driven by numerous underlying factors and has manifold impacts. Although this pattern of urban development is not new, the nature, scale and magnitude of land extension has changed dramatically for a range of underlying reasons involving both ‘natural’ geophysical, and anthropogenic factors. The overall aim of this paper is to evaluate the changing spatial extent of seaward land expansion in 16 selected coastal megacities. Remote sensing data, spanning the time period mid-1980's to present, were obtained and used to determine the extent of spatial change due to new land construction in each of the cities. Landsat TM satellite imagery was used to calculate the percentage increase and area reclaimed since the mid-1980s. In addition, a systematic classification is proposed, based on the different geomorphic patterns that have been observed to characterize the process. Among 16 cities analyzed in this study, major land reclamation projects have been especially marked in China, most prominently in Shanghai, which has expanded its coastal area by more than 580 km2 in the recent past.
+
+SOURCE: Applied geography
+PDF URL: None
+CITED BY COUNT: 92
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Land reclamation', 'Megacity', 'Geography', 'Land use', 'Land cover', 'Physical geography', 'Population', 'China', 'Natural (archaeology)', 'Natural resource', 'Environmental resource management', 'Urban planning', 'Scale (ratio)', 'Environmental science', 'Cartography', 'Civil engineering', 'Ecology', 'Archaeology', 'Engineering', 'Biology', 'Demography', 'Sociology']

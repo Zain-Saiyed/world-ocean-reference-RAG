@@ -1,0 +1,12 @@
+ID: W2055428239
+TITLE: Viral infections stimulate the metabolism and shape prokaryotic assemblages in submarine mud volcanoes
+AUTHOR: ['Cinzia Corinaldesi', 'Antonio Dell’Anno', 'Roberto Danovaro']
+ABSTRACT:
+Mud volcanoes are geological structures in the oceans that have key roles in the functioning of the global ecosystem. Information on the dynamics of benthic viruses and their interactions with prokaryotes in mud volcano ecosystems is still completely lacking. We investigated the impact of viral infection on the mortality and assemblage structure of benthic prokaryotes of five mud volcanoes in the Mediterranean Sea. Mud volcano sediments promote high rates of viral production (1.65-7.89 × 10(9) viruses g(-1) d(-1)), viral-induced prokaryotic mortality (VIPM) (33% cells killed per day) and heterotrophic prokaryotic production (3.0-8.3 μgC g(-1) d(-1)) when compared with sediments outside the mud volcano area. The viral shunt (that is, the microbial biomass converted into dissolved organic matter as a result of viral infection, and thus diverted away from higher trophic levels) provides 49 mgC m(-2) d(-1), thus fuelling the metabolism of uninfected prokaryotes and contributing to the total C budget. Bacteria are the dominant components of prokaryotic assemblages in surface sediments of mud volcanoes, whereas archaea dominate the subsurface sediment layers. Multivariate multiple regression analyses show that prokaryotic assemblage composition is not only dependant on the geochemical features and processes of mud volcano ecosystems but also on synergistic interactions between bottom-up (that is, trophic resources) and top-down (that is, VIPM) controlling factors. Overall, these findings highlight the significant role of the viral shunt in sustaining the metabolism of prokaryotes and shaping their assemblage structure in mud volcano sediments, and they provide new clues for our understanding of the functioning of cold-seep ecosystems.
+
+SOURCE: The ISME journal
+PDF URL: https://www.nature.com/articles/ismej2011185.pdf
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Mud volcano', 'Biology', 'Benthic zone', 'Trophic level', 'Archaea', 'Ecosystem', 'Ecology', 'Volcano', 'Marine ecosystem', 'Oceanography', 'Bacteria', 'Geology', 'Paleontology']

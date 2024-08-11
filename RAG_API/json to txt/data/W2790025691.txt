@@ -1,0 +1,12 @@
+ID: W2790025691
+TITLE: Can regional fisheries management organizations (RFMOs) manage resources effectively during climate change?
+AUTHOR: ['Brian Pentz', 'Nicole Klenk', 'Sharron Ogle', 'Jonathan A. D. Fisher']
+ABSTRACT:
+This study evaluates the frameworks of 12 Regional Fisheries Management Organizations (RFMOs) against 28 criteria to assess whether these organizations can effectively respond to resource fluctuations brought about by climate change. RFMOs are assessed on breadth of management frameworks and inclusion of best available science in policy frameworks. The assessment method builds upon a previously published framework, but is expanded to capture organizational attributes associated with an effective response to climate change. The results of the RFMO assessment suggest that generally, RFMO policy frameworks are comprehensive, and seem to possess most elements required to achieve resource management goals under climate change. The study hypothesizes that the legal (i.e. issues of compliance and enforcement, sovereignty, decision-making rules) and political factors (i.e. factors intrinsic to common-pool resources) characterising the management of transboundary and high seas fisheries are predominately responsible for this achievement gap rather than RFMO management framework comprehensiveness. To further promote effective resource management and desired outcomes during climate change, the study makes four recommendations: (1) prioritize performance evaluation from a climate change perspective, (2) continue enhancement of enforcement and monitoring strategies, (3) increase the designation of marine protected areas (MPAs) and (4) include political analysis of decision-making processes in RFMOs. The complex governance and political factors affecting high seas and transboundary fisheries management under climate change underscores the importance of the upcoming Biodiversity Beyond National Jurisdictions (BBNJ) treaty for its potential to support the conservation of high seas marine living resources in parallel with RFMOs.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fisheries management', 'Marine protected area', 'Business', 'Environmental resource management', 'Climate change', 'Fisheries law', 'Corporate governance', 'Enforcement', 'Marine conservation', 'Adaptive management', 'Environmental planning', 'Fisheries science', 'Fishery', 'Political science', 'Fishing', 'Economics', 'Geography', 'Ecology', 'Finance', 'Habitat', 'Law', 'Biology']

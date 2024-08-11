@@ -1,0 +1,12 @@
+ID: W2793287914
+TITLE: Benthopelagic megafauna assemblages of the Rio Grande Rise (SW Atlantic)
+AUTHOR: ['José Ángel Álvarez Pérez', 'Hiroshi Kitazato', 'Paulo Yukio Gomes Sumida', 'Rodrigo Sant’Ana', 'Angélica Maffini Mastella']
+ABSTRACT:
+The Rio Grande Rise (RGR) is a large and geomorphologically complex structure of the deep SW Atlantic Ocean. In 2013, the 600−1200 m deep plateau of the most prominent topographic component of the RGR (named Alpha) was explored during two dives of the manned submersible Shinkai 6500 (30°22′15′′S − 36°02′02′′W and 31°05′58′′S − 34°02′40′′W). Video profiles recorded during these dives were analyzed for description of benthopelagic megafauna (fish and crustaceans) assemblages, and quantitative assessment of structuring factors (depth, topography and habitat types). Fishes represented over 92% (462) of all benthopelagic megafauna, divided into 11 orders and 17 families. Over half of fish records were Macrouridae, Synaphobranchidae and Chaunacidae. Megafauna abundance varied at different spatial scales, being higher in shallower habitats (~600 m) dominated by branched suspension feeders (mostly sponges and cnidarians). Beta-diversity and community structure were related to habitat diversity. Because the RGR is vast and may comprise numerous distinctive habitats associated with depth, topography and water mass dynamics, fauna diversity may be high and patchy.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: http://manuscript.elsevier.com/S0967063718300086/pdf/S0967063718300086.pdf
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Megafauna', 'Habitat', 'Fauna', 'Ecology', 'Oceanography', 'Geography', 'Fishery', 'Biology', 'Geology', 'Archaeology', 'Pleistocene']

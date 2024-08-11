@@ -1,0 +1,12 @@
+ID: W2618878949
+TITLE: Organophosphate Esters in Air, Snow, and Seawater in the North Atlantic and the Arctic
+AUTHOR: ['Jing Li', 'Zhiyong Xie', 'Wenying Mi', 'Shengli Lai', 'Chongguo Tian', 'Kay‐Christian Emeis', 'Ralf Ebinghaus']
+ABSTRACT:
+The concentrations of eight organophosphate esters (OPEs) have been investigated in air, snow and seawater samples collected during the cruise of ARK-XXVIII/2 from sixth June to third July 2014 across the North Atlantic and the Arctic. The sum of gaseous and particle concentrations (ΣOPE) ranged from 35 to 343 pg/m3. The three chlorinated OPEs accounted for 88 ± 5% of the ΣOPE. The most abundant OPE was tris(2-chloroethyl) phosphate (TCEP), with concentrations ranging from 30 to 227 pg/m3, followed by three major OPEs, such as tris(1-chloro-2-propyl) phosphate (TCPP, 0.8 to 82 pg/m3), tri-n-butyl phosphate (TnBP, 2 to 19 pg/m3), and tri-iso-butyl phosphate (TiBP, 0.3 to 14 pg/m3). The ΣOPE concentrations in snow and seawater ranged from 4356 to 10561 pg/L and from 348 to 8396 pg/L, respectively. The atmospheric particle-bound dry depositions of TCEP ranged from 2 to 12 ng/m2/day. The air–seawater gas exchange fluxes were dominated by net volatilization from seawater to air for TCEP (mean, 146 ± 239 ng/m2/day), TCPP (mean, 1670 ± 3031 ng/m2/day), TiBP (mean, 537 ± 581 ng/m2/day) and TnBP (mean, 230 ± 254 ng/m2/day). This study highlighted that OPEs are subject to long-range transport via both air and seawater from the European continent and seas to the North Atlantic and the Arctic.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 146
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seawater', 'TCEP', 'Snow', 'Organophosphate', 'Environmental chemistry', 'Arctic', 'Phosphate', 'Chemistry', 'Oceanography', 'Pesticide', 'Meteorology', 'Geology', 'Ecology', 'Organic chemistry', 'Biology', 'Physics', 'Phosphine', 'Catalysis']

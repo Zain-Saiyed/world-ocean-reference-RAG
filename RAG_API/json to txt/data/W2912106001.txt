@@ -1,0 +1,12 @@
+ID: W2912106001
+TITLE: Deep‐water fisheries along the British Isles continental slopes: status, ecosystem effects and future perspectives
+AUTHOR: ['Rui P. Vieira', 'Clive N. Trueman', 'Lisa Readdy', 'Andrew Kenny', 'John K. Pinnegar']
+ABSTRACT:
+In this paper, we revisit the state of deep‐water fisheries to the west of the British Isles and aim to provide an overview on the key drivers behind community changes along continental margins. The deep‐water fisheries to the west of the British Isles that extend from the shelf‐slope break down to the lower slope and along banks and seamounts of the Rockall Basin, mainly target blue ling Molva dypterygia , roundnose grenadier Coryphaenoides rupestris , orange roughy Hoplostethus atlanticus , with by‐catches of black scabbardfish Aphanopus carbo and tusk Brosme brosme . These fishing grounds experienced a long period of exhaustive exploitation until the early 2000s, but subsequently the implementation of management strategies has helped to relieve excessive fishing pressure. It is widely accepted that a better understanding of the long‐term implications of disturbance is needed to understand patterns in deep‐water communities and what sustainable use and exploitation of resources might look like in this context.
+
+SOURCE: Journal of fish biology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfb.13927
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Fishing', 'Fishery', 'Continental shelf', 'Context (archaeology)', 'Biology', 'Seamount', 'Fisheries management', 'Oceanography', 'Ecosystem', 'Ecology', 'Geology', 'Paleontology']

@@ -1,0 +1,12 @@
+ID: W2094447480
+TITLE: The effect of a centenary storm on the long‐lived seagrass <i>Posidonia oceanica</i>
+AUTHOR: ['Alessandro Gera', 'Jordi F. Pagès', 'Rohan Arthur', 'Simone Farina', 'Guillem Roca', 'Javier Romero', 'Teresa Alcoverro']
+ABSTRACT:
+We used the disturbance resulting from a once in a 100‐yr storm on the northwest Mediterranean coast to examine the extent of the disturbance, the tolerance thresholds to burial, and the medium‐term response of the long‐lived Posidonia oceanica seagrass. Sediment burial at 12 surveyed areas was particularly strong in shallow meadows, with 23% of their surfaces buried, on average, under more than 10 cm of sediment. In contrast, less than 5% of the meadow was affected at deeper locations. At three sites, we tracked short‐term mortality along a gradient of sediment burial. Survival response to burial was clearly nonlinear, with a significant threshold at 4–5 cm, beyond which shoot mortality was 100%. To track medium‐term potential recovery, we established permanent plots subject to three sediment burial levels (0–5, 5–10, and &gt; 10 cm burial) in four meadows. Where the initial shoot mortality was 100%, we recorded no shoot recovery over the 4‐yr period. In the remaining plots, where some shoots remained alive, we detected either further mortality or shoot recovery of 7% per year on average. Extreme storm events can result in sudden catastrophic losses of seagrass cover in shallow P. oceanica meadows. In the long term and due to the long return time of such storms, the species may still be able to recover despite its low recovery potential. However, added anthropogenic stressors, including climate change, may seriously test the ability of long‐lived shallow seagrass ecosystems to resist high‐intensity natural disturbances and may be critical for its persistence.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Posidonia oceanica', 'Seagrass', 'Sediment', 'Disturbance (geology)', 'Potamogetonaceae', 'Environmental science', 'Mediterranean climate', 'Oceanography', 'Storm', 'Shoot', 'Ecosystem', 'Ecology', 'Geology', 'Hydrology (agriculture)', 'Biology', 'Agronomy', 'Geomorphology', 'Geotechnical engineering']

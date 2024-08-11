@@ -1,0 +1,12 @@
+ID: W1551652195
+TITLE: Land subsidence and relative sea-level rise in the southern Chesapeake Bay region
+AUTHOR: ['Jack Eggleston', 'Jason P. Pope']
+ABSTRACT:
+The southern Chesapeake Bay region is experiencing land subsidence and rising water levels due to global sea-level rise; land subsidence and rising water levels combine to cause relative sea-level rise. Land subsidence has been observed since the 1940s in the southern Chesapeake Bay region at rates of 1.1 to 4.8 millimeters per year (mm/yr), and subsidence continues today. This land subsidence helps explain why the region has the highest rates of sea-level rise on the Atlantic Coast of the United States. Data indicate that land subsidence has been responsible for more than half the relative sea-level rise measured in the region. Land subsidence increases the risk of flooding in low-lying areas, which in turn has important economic, environmental, and human health consequences for the heavily populated and ecologically important southern Chesapeake Bay region. The aquifer system in the region has been compacted by extensive groundwater pumping in the region at rates of 1.5- to 3.7-mm/yr; this compaction accounts for more than half of observed land subsidence in the region. Glacial isostatic adjustment, or the flexing of the Earth's crust in response to glacier formation and melting, also likely contributes to land subsidence in the region.
+
+SOURCE: U.S. Geological Survey circular/U.S. Geological Survey Circular
+PDF URL: https://pubs.usgs.gov/circ/1392/pdf/circ1392.pdf
+CITED BY COUNT: 101
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Subsidence', 'Geology', 'Sea level', 'Bay', 'Groundwater', 'Groundwater-related subsidence', 'Oceanography', 'Wetland', 'Physical geography', 'Hydrology (agriculture)', 'Geography', 'Geomorphology', 'Ecology', 'Structural basin', 'Geotechnical engineering', 'Biology']

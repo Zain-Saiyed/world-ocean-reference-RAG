@@ -1,0 +1,12 @@
+ID: W1981515572
+TITLE: Consequences of a cumulative perspective on marine environmental impacts: Offshore wind farming and seabirds at North Sea scale in context of the EU Marine Strategy Framework Directive
+AUTHOR: ['Malte Busch', 'Andreas Kannen', 'Stefan Garthe', 'Mark Jessopp']
+ABSTRACT:
+Legal requirements in context of the EU Marine Strategy Framework Directive require increased trans-national cooperation on environmental effects induced by marine uses to achieve Good Environmental Status by 2020. Interactions between offshore wind farms and seabirds represent a valuable example of how a changed spatial perspective might influence the assessment of environmental impacts. This paper addresses the potential consequences of offshore wind farm development at the North Sea scale on selected seabird species with high relevance in context of national approval procedures. It provides a new methodology to estimate the cumulative habitat loss due to ongoing and planned offshore wind farm construction activities within the North Sea's exclusive economic zones of Germany, the Netherlands, Belgium and the United Kingdom. In addition to providing information on the seasonal distribution of important species and initial estimates of potential seabird habitat exclusion due to offshore wind farming, this study highlights the need for increased trans-national cooperation among riparian states and harmonization of conservation approaches to successfully implement the Marine Strategy Framework Directive.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Marine Strategy Framework Directive', 'Offshore wind power', 'Context (archaeology)', 'Environmental resource management', 'Habitats Directive', 'Environmental impact assessment', 'Harmonization', 'Directive', 'Geography', 'Environmental planning', 'Scale (ratio)', 'Environmental science', 'European union', 'Environmental protection', 'Wind power', 'Business', 'Ecology', 'Ecosystem', 'Cartography', 'Archaeology', 'Computer science', 'Biology', 'Programming language', 'Physics', 'Acoustics', 'Economic policy']

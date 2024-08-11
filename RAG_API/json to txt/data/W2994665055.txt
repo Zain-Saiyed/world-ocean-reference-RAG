@@ -1,0 +1,12 @@
+ID: W2994665055
+TITLE: The first global deep-sea stable isotope assessment reveals the unique trophic ecology of Vampire Squid Vampyroteuthis infernalis (Cephalopoda)
+AUTHOR: ['Alexey V. Golikov', 'Filipe R. Ceia', 'Rushan M. Sabirov', 'Jonathan D. Ablett', 'Ian G. Gleadall', 'Guðmundur A. Guðmundsson', 'Henk‐Jan Hoving', 'Heather Judkins', 'Jónbjörn Pálsson', 'Amanda Reid', 'Rigoberto Rosas‐Luis', 'Elizabeth K. Shea', 'Richard Schwarz', 'José C. Xavier']
+ABSTRACT:
+Abstract Vampyroteuthis infernalis Chun, 1903, is a widely distributed deepwater cephalopod with unique morphology and phylogenetic position. We assessed its habitat and trophic ecology on a global scale via stable isotope analyses of a unique collection of beaks from 104 specimens from the Atlantic, Pacific and Indian Oceans. Cephalopods typically are active predators occupying a high trophic level (TL) and exhibit an ontogenetic increase in δ 15 N and TL. Our results, presenting the first global comparison for a deep-sea invertebrate, demonstrate that V. infernalis has an ontogenetic decrease in δ 15 N and TL, coupled with niche broadening. Juveniles are mobile zooplanktivores, while larger Vampyroteuthis are slow-swimming opportunistic consumers and ingest particulate organic matter. Vampyroteuthis infernalis occupies the same TL (3.0–4.3) over its global range and has a unique niche in deep-sea ecosystems. These traits have enabled the success and abundance of this relict species inhabiting the largest ecological realm on the planet.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-55719-1.pdf
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Trophic level', 'Ecology', 'Biology', 'Cephalopod', 'Predation', 'Apex predator', 'Niche', 'Marine ecosystem', 'Ecological niche', 'Habitat', 'Abundance (ecology)', 'Range (aeronautics)', 'Ecosystem', 'Invertebrate', 'Deep sea', 'Fishery', 'Materials science', 'Composite material']

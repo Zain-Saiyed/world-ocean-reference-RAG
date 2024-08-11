@@ -1,0 +1,12 @@
+ID: W2080154049
+TITLE: Uptake and Effects of Microplastics on Cells and Tissue of the Blue Mussel <i>Mytilus edulis</i> L. after an Experimental Exposure
+AUTHOR: ['Nadia von Moos', 'Patricia Burkhardt‐Holm', 'Angela Köhler']
+ABSTRACT:
+In this study, we investigated if industrial high-density polyethylene (HDPE) particles, a model microplastic free of additives, ranging > 0–80 μm are ingested and taken up into the cells and tissue of the blue mussel Mytilus edulis L. The effects of exposure (up to 96 h) and plastic ingestion were observed at the cellular and subcellular level. Microplastic uptake into the gills and digestive gland was analyzed by a new method using polarized light microscopy. Mussel health status was investigated incorporating histological assessment and cytochemical biomarkers of toxic effects and early warning. In addition to being drawn into the gills, HDPE particles were taken up into the stomach and transported into the digestive gland where they accumulated in the lysosomal system after 3 h of exposure. Our results show notable histological changes upon uptake and a strong inflammatory response demonstrated by the formation of granulocytomas after 6 h and lysosomal membrane destabilization, which significantly increased with longer exposure times. We provide proof of principle that microplastics are taken up into cells and cause significant effects on the tissue and cellular level, which can be assessed with standard cytochemical biomarkers and polarized light microscopy for microplastic tracking in tissue.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 1281
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Mytilus', 'Microplastics', 'Mussel', 'Gill', 'Blue mussel', 'Bivalvia', 'Ingestion', 'Biology', 'Mollusca', 'Chemistry', 'Environmental chemistry', 'Biochemistry', 'Zoology', 'Fish <Actinopterygii>', 'Fishery']

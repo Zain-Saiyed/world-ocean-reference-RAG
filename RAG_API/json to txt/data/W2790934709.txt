@@ -1,0 +1,12 @@
+ID: W2790934709
+TITLE: Climate-change–driven accelerated sea-level rise detected in the altimeter era
+AUTHOR: ['R. S. Nerem', 'B. D. Beckley', 'John T. Fasullo', 'B. D. Hamlington', 'Dallas Masters', 'Gary T. Mitchum']
+ABSTRACT:
+Using a 25-y time series of precision satellite altimeter data from TOPEX/Poseidon, Jason-1, Jason-2, and Jason-3, we estimate the climate-change-driven acceleration of global mean sea level over the last 25 y to be 0.084 ± 0.025 mm/y2 Coupled with the average climate-change-driven rate of sea level rise over these same 25 y of 2.9 mm/y, simple extrapolation of the quadratic implies global mean sea level could rise 65 ± 12 cm by 2100 compared with 2005, roughly in agreement with the Intergovernmental Panel on Climate Change (IPCC) 5th Assessment Report (AR5) model projections.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/115/9/2022.full.pdf
+CITED BY COUNT: 742
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Altimeter', 'Sea level', 'Satellite altimetry', 'Climatology', 'Sea level rise', 'Climate change', 'Environmental science', 'Acceleration', 'Geodesy', 'Geology', 'Oceanography', 'Physics', 'Classical mechanics']

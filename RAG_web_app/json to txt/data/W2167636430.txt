@@ -1,0 +1,12 @@
+ID: W2167636430
+TITLE: Personal, social and environmental determinants of educational inequalities in walking: a multilevel study
+AUTHOR: ['Karlene Ball', 'Anna Timperio', 'J. Salmon', 'Billie Giles‐Corti', 'Rebecca Roberts', 'David Crawford']
+ABSTRACT:
+<b>Objective:</b> To investigate the contribution of personal, social and environmental factors to mediating socioeconomic (educational) inequalities in women’s leisure-time walking and walking for transport. <b>Methods:</b> A community sample of 1282 women provided survey data on walking for leisure and transport; educational level; enjoyment of, and self-efficacy for, walking; physical activity barriers and intentions; social support for physical activity; sporting/recreational club membership; dog ownership; and perceived environmental aesthetics and safety. These data were linked with objective environmental data on the density of public open space and walking tracks in the women’s local neighbourhood, coastal proximity and street connectivity. <b>Results:</b> Multilevel modelling showed that different personal, social and environmental factors were associated with walking for leisure and walking for transport. Variables from all three domains explained (mediated) educational inequalities in leisure-time walking, including neighbourhood walking tracks; coastal proximity; friends’ social support; dog ownership; self-efficacy, enjoyment and intentions. On the other hand, few of the variables examined explained educational variations in walking for transport, exceptions being neighbourhood, coastal proximity, street connectivity and social support from family. <b>Conclusions:</b> Public health initiatives aimed at promoting, and reducing educational inequalities in, leisure-time walking should incorporate a focus on environmental strategies, such as advocating for neighbourhood walking tracks, as well as personal and social factors. Further investigation is required to better understand the pathways by which education might influence walking for transport.
+
+SOURCE: Journal of epidemiology and community health
+PDF URL: None
+CITED BY COUNT: 224
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Recreation', 'Neighbourhood (mathematics)', 'Socioeconomic status', 'Inequality', 'Multilevel model', 'Club', 'Public transport', 'Geography', 'Environmental health', 'Medicine', 'Transport engineering', 'Population', 'Ecology', 'Mathematical analysis', 'Mathematics', 'Anatomy', 'Machine learning', 'Computer science', 'Engineering', 'Biology']

@@ -1,0 +1,12 @@
+ID: W1976183519
+TITLE: Anthropogenic Biotic Interchange in a Coral Reef Ecosystem: A Case Study from Guam
+AUTHOR: ['Gustav Paulay', 'Lisa Kirkendale', 'Gretchen Lambert', 'Chris Meyer']
+ABSTRACT:
+Guam is the administrative and economic hub of Micronesia, hosts one of the largest U.S. military bases in the Pacific, and lies at the crossroads among Pacific islands, the United States, and Asia. Although terrestrial introductions, exemplified by the brown tree snake, have received much attention, marine introductions have been little studied until now. We have documented a diverse assemblage of marine species brought to Guam by human-mediated transport: a few intentionally, most unintentionally. Sessile species dominate the nonindigenous biota. Because of Guam's tourism-based economy, ballast water is not a major source of introductions, but ship's hulls have brought many invaders. A study of the fauna associated with two dry docks demonstrates the large impact of such structures, moved slowly from harbor to harbor after long residence times. The majority of nonindigenous species have remained confined to artificial substrata in the harbor, but some have invaded adjacent coral reef habitats and spread islandwide. Although several nonindigenous species are now well established, major impacts to reefs on Guam remain to be identified. Space on reefs is vastly dominated by indigenous species; in contrast artificial substrata often have an abundance of nonindigenous species.
+
+SOURCE: Pacific science
+PDF URL: None
+CITED BY COUNT: 66
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Coral reef', 'Reef', 'Geography', 'Environmental issues with coral reefs', 'Fishery', 'Coral reef organizations', 'Coral reef protection', 'Ecosystem', 'Ecology', 'Oceanography', 'Coral', 'Aquaculture of coral', 'Environmental science', 'Biology', 'Geology']

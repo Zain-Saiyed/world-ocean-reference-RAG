@@ -1,0 +1,12 @@
+ID: W1992835806
+TITLE: First Toxicity Report of Tetrodotoxin and 5,6,11-TrideoxyTTX in the Trumpet Shell Charonia lampas lampas in Europe
+AUTHOR: ['Pilar Rodriguez Rodrí\xadguez', 'Amparo Alfonso', 'Carmen Vale', 'Carmen Alfonso', 'Paulo Vale', 'Antonio Tellez', 'Luís M. Botana']
+ABSTRACT:
+Tetrodotoxin (TTX) is one of the most potent toxins already isolated, which occurs in a wide variety of animals. In this work, the occurrence of TTX and analogues was examined using mass spectrometry, confocal microscopy, liquid chromatography−mass spectrometry (LC−MS), and mouse bioassay in a trumpet shell (Charonia lampas lampas) and in the fluids of a patient poisoned by consuming this shell. Retention time data in the LC−MS system within the enhanced mass spectrum (EMS) mode indicated the presence of TTX and the analogue 5,6,11-trideoxyTTX; the enhanced product ion (EPI) mode confirmed the existence of both toxins with the formation of characteristic daughter ions from the fragment pattern of each molecule. TTX and 5,6,11-trideoxyTTX were only detected in the digestive gland of the trumpet shell and also in the urine and serum of the patient. The concentration of 5,6,11-trideoxyTTX checked in the samples by LC−MS was 3 times higher than TTX. However, the results obtained by mouse bioassay showed that the analogue is much less toxic than TTX. In vitro toxicity was checked using cerebellar cells; in these experiments the trumpet shell sample showed high toxicity, but the level was lower than in vivo results probably due to some competition between analogues. This paper shows for first time the presence and toxicity of TTX and 5,6,11-trideoxyTTX in a trumpet shell collected in the European coasts. The LC−MS method is a useful tool to confirm the presence of TTX and the further identification of TTX analogues.
+
+SOURCE: Analytical chemistry
+PDF URL: None
+CITED BY COUNT: 138
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Tetrodotoxin', 'Chemistry', 'Bioassay', 'Toxicity', 'Mass spectrometry', 'Chromatography', 'In vivo', 'Liquid chromatography–mass spectrometry', 'Urine', 'Shell (structure)', 'Acute toxicity', 'Biophysics', 'Biochemistry', 'Organic chemistry', 'Materials science', 'Biotechnology', 'Biology', 'Composite material', 'Genetics']

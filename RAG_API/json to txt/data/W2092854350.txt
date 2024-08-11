@@ -1,0 +1,12 @@
+ID: W2092854350
+TITLE: Tipping from the Holocene to the Anthropocene: How threatened are major world deltas?
+AUTHOR: ['Fabrice G. Renaud', 'James P. M. Syvitski', 'Zita Sebesvári', 'S.E. Werners', 'Hartwig Kremer', 'Claudia Kuenzer', 'R. Ramesh', 'Ad Jeuken', 'Jana Friedrich']
+ABSTRACT:
+Coastal deltas are landforms that typically offer a wide variety of benefits to society including highly fertile soils for agricultural development, freshwater resources, and rich biodiversity. For these reasons, many deltas are densely populated, are important economic hubs, and have been transformed by human interventions such as agricultural intensification, modification of water and sediment fluxes, as well as urbanization and industrialization. Additionally, deltas are increasingly affected by the consequences of climate change including sea level rise, and by other natural hazards such as cyclones and storm surges. Five examples of major deltas (Rhine-Meuse, Ganges, Indus, Mekong, and Danube) illustrate the force of human interventions in shaping and transforming deltas and in inducing shifts between four different social-ecological system (SES) states: Holocene, modified Holocene, Anthropocene and ‘collapsed’. The three Asian deltas are rapidly changing but whereas SES in the Ganges and Indus deltas are in danger of tipping into a ‘collapsed’ state, SES in the Mekong delta, which is at the crossroads of various development pathways, could increase in resilience in the future. The Rhine-Meuse and Danube delta examples show that highly managed states may allow, under specific conditions, for interventions leading to increasingly resilient systems. However, little is known about the long-term effects of rapid human interventions in deltas. It is therefore critical to increase the knowledge-base related to SES dynamics and to better characterize social tipping points or turning points in order to avoid unacceptable changes.
+
+SOURCE: Current opinion in environmental sustainability
+PDF URL: None
+CITED BY COUNT: 167
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Anthropocene', 'Delta', 'Holocene', 'Indus', 'Climate change', 'Geography', 'Storm surge', 'Ecology', 'Oceanography', 'Geology', 'Storm', 'Paleontology', 'Archaeology', 'Structural basin', 'Engineering', 'Biology', 'Aerospace engineering', 'Meteorology']

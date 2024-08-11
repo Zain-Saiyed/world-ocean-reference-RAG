@@ -1,0 +1,12 @@
+ID: W2906146959
+TITLE: Small Microplastics As a Main Contributor to Plastic Mass Balance in the North Atlantic Subtropical Gyre
+AUTHOR: ['Marie Poulain', 'Matthieu Mercier', 'Laurent Brach', 'Marion Martignac', 'Corinne Routaboul', 'Émile Perez', 'Marie-Christine Desjean', 'Alexandra ter Halle']
+ABSTRACT:
+Estimates of cumulative plastic inputs into the oceans are expressed in hundred million tons, whereas the total mass of microplastics afloat at sea is 3 orders of magnitude below this. This large gap is evidence of our ignorance about the fate of plastics, as well as transformations and sinks in the oceans. One of the current challenges consists of identifying and quantifying plastic particles at the microscale, the small microplastics (SMP, 25-1000 μm). The aim of the present study is to investigate SMP concentration in count and in mass at the sea surface in the North Atlantic subtropical gyre during the sea campaign Expedition 7 th Continent. After isolation, SMP were characterized by micro-Fourier-transform infrared spectroscopy. Microplastic distribution was modeled by a wind-driven vertical mixing correction model taking into account individual particle properties (dimension, shape and density). We demonstrate that SMP buoyancy is significantly decreased compared to the large microplastics (LMP, 1-5 mm) and consequently more susceptible to vertical transport. The uncorrected LMP concentration in count was between 13 000 and 174 000 pieces km-2, and was between 5 and 170 times more abundant for SMP. With a wind-driven vertical mixing correction, we estimated that SMP were 300 to 70 000 times more abundant than LMP. When discussing this in terms of weight after correction, LMP concentrations were between 50 and 1000 g km-2, and SMP concentrations were between 5 and 14 000 g km-2.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 133
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microplastics', 'Ocean gyre', 'Subtropics', 'Environmental science', 'Oceanography', 'Vertical mixing', 'Atmospheric sciences', 'Buoyancy', 'Climatology', 'Geology', 'Ecology', 'Physics', 'Biology', 'Quantum mechanics']

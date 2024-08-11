@@ -1,0 +1,12 @@
+ID: W2769195711
+TITLE: Coupling of sea level and tidal range changes, with implications for future water levels
+AUTHOR: ['Adam T. Devlin', 'David A. Jay', 'Stefan A. Talke', 'Edward D. Zaron', 'Jiayi Pan', 'Hui Lin']
+ABSTRACT:
+Are perturbations to ocean tides correlated with changing sea-level and climate, and how will this affect high water levels? Here, we survey 152 tide gauges in the Pacific Ocean and South China Sea and statistically evaluate how the sum of the four largest tidal constituents, a proxy for the highest astronomical tide (HAT), changes over seasonal and interannual time scales. We find that the variability in HAT is significantly correlated with sea-level variability; approximately 35% of stations exhibit a greater than ±50 mm tidal change per meter sea-level fluctuation. Focusing on a subset of three stations with long records, probability density function (PDF) analyses of the 95% percentile exceedance of total sea level (TSL) show long-term changes of this high-water metric. At Hong Kong, the increase in tides significantly amplifies the risk caused by sea-level rise. Regions of tidal decrease and/or amplification highlight the non-linear response to sea-level variations, with the potential to amplify or mitigate against the increased flood risk caused by sea-level rise. Overall, our analysis suggests that in many regions, local flood level determinations should consider the joint effects of non-stationary tides and mean sea level (MSL) at multiple time scales.
+
+SOURCE: Scientific reports
+PDF URL: None
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sea level', 'Tide gauge', 'Environmental science', 'Water level', 'Flood myth', 'Percentile', 'Coastal sea', 'Oceanography', 'Range (aeronautics)', 'Tidal range', 'Climatology', 'Estuary', 'Geology', 'Geography', 'Statistics', 'Mathematics', 'Materials science', 'Cartography', 'Archaeology', 'Composite material']

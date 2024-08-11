@@ -1,0 +1,12 @@
+ID: W2051692047
+TITLE: Regulation of the immune system by biodiversity from the natural environment: An ecosystem service essential to health
+AUTHOR: ['Graham Rook']
+ABSTRACT:
+Epidemiological studies suggest that living close to the natural environment is associated with long-term health benefits including reduced death rates, reduced cardiovascular disease, and reduced psychiatric problems. This is often attributed to psychological mechanisms, boosted by exercise, social interactions, and sunlight. Compared with urban environments, exposure to green spaces does indeed trigger rapid psychological, physiological, and endocrinological effects. However, there is little evidence that these rapid transient effects cause long-term health benefits or even that they are a specific property of natural environments. Meanwhile, the illnesses that are increasing in high-income countries are associated with failing immunoregulation and poorly regulated inflammatory responses, manifested as chronically raised C-reactive protein and proinflammatory cytokines. This failure of immunoregulation is partly attributable to a lack of exposure to organisms ("Old Friends") from mankind's evolutionary past that needed to be tolerated and therefore evolved roles in driving immunoregulatory mechanisms. Some Old Friends (such as helminths and infections picked up at birth that established carrier states) are almost eliminated from the urban environment. This increases our dependence on Old Friends derived from our mothers, other people, animals, and the environment. It is suggested that the requirement for microbial input from the environment to drive immunoregulation is a major component of the beneficial effect of green space, and a neglected ecosystem service that is essential for our well-being. This insight will allow green spaces to be designed to optimize health benefits and will provide impetus from health systems for the preservation of ecosystem biodiversity.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/110/46/18360.full.pdf
+CITED BY COUNT: 572
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Ecosystem services', 'Ecosystem', 'Disease', 'Business', 'Health benefits', 'Environmental health', 'Biology', 'Ecology', 'Natural resource economics', 'Medicine', 'Economics', 'Pathology', 'Traditional medicine']

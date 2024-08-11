@@ -1,0 +1,12 @@
+ID: W2789487593
+TITLE: Hydrological features above a Southern Ocean seamount inhibit larval dispersal and promote speciation: evidence from the bathyal mytilid Dacrydium alleni sp. nov. (Mytilidae: Bivalvia)
+AUTHOR: ['Mark A. Beeston', 'Simon M. Cragg', 'Katrin Linse']
+ABSTRACT:
+The Maud Rise seamount (65°07.80′S 2°39.60′E), a distinct habitat in the Southern Ocean, was studied during the ANDEEP-SYSTCO expedition in 2007–2008 to describe its unique benthic assemblage, characterised by higher biomass and lower diversity than other SO locations. Epibenthic sledge deployments during the expedition revealed exceptionally high abundances of the small bivalve genus Dacrydium with a total of 516 specimens collected from this seamount, resembling up to 1860 bivalve individuals per 1000 m−2. The Dacrydium specimens were examined for taxonomic identification, population and reproductive biology. Shell and soft part morphology as well as life history characteristics were compared with all known congeners for which data are available. Hinge dentition, prodissoconch size and adult gill structure are notably different, supporting classification as a separate species, herein formally described as Dacrydium alleni sp. nov. Dacrydium alleni sp. nov. produces lecithotrophic larvae, capable of long-distance dispersal, yet is apparently restricted to the Maud Rise area, supporting the hypothesis that larval dispersal at isolated seamounts may be constrained by hydrographic rather than biological features. In addition to providing insight into the benthic assemblage at Maud Rise, this work also summarises the current taxonomic status of the genus Dacrydium in the Southern Ocean.
+
+SOURCE: Polar biology
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs00300-018-2303-8.pdf
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Biology', 'Seamount', 'Ecology', 'Mytilidae', 'Biological dispersal', 'Bivalvia', 'Zoology', 'Population', 'Mollusca', 'Paleontology', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2137464715
+TITLE: Submarine canyons: hotspots of benthic biomass and productivity in the deep sea
+AUTHOR: ['Fabio C. De Léo', 'Craig R. Smith', 'Ashley A. Rowden', 'David A. Bowden', 'Malcolm R. Clark']
+ABSTRACT:
+Submarine canyons are dramatic and widespread topographic features crossing continental and island margins in all oceans. Canyons can be sites of enhanced organic-matter flux and deposition through entrainment of coastal detrital export, dense shelf-water cascade, channelling of resuspended particulate material and focusing of sediment deposition. Despite their unusual ecological characteristics and global distribution along oceanic continental margins, only scattered information is available about the influence of submarine canyons on deep-sea ecosystem structure and productivity. Here, we show that deep-sea canyons such as the Kaikoura Canyon on the eastern New Zealand margin (42 degrees 01' S, 173 degrees 03' E) can sustain enormous biomasses of infaunal megabenthic invertebrates over large areas. Our reported biomass values are 100-fold higher than those previously reported for deep-sea (non-chemosynthetic) habitats below 500 m in the ocean. We also present evidence from deep-sea-towed camera images that areas in the canyon that have the extraordinary benthic biomass also harbour high abundances of macrourid (rattail) fishes likely to be feeding on the macro- and megabenthos. Bottom-trawl catch data also indicate that the Kaikoura Canyon has dramatically higher abundances of benthic-feeding fishes than adjacent slopes. Our results demonstrate that the Kaikoura Canyon is one of the most productive habitats described so far in the deep sea. A new global inventory suggests there are at least 660 submarine canyons worldwide, approximately 100 of which could be biomass hotspots similar to the Kaikoura Canyon. The importance of such deep-sea canyons as potential hotspots of production and commercial fisheries yields merits substantial further study.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: None
+CITED BY COUNT: 365
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Submarine canyon', 'Canyon', 'Benthic zone', 'Oceanography', 'Continental shelf', 'Geology', 'Deep sea', 'Environmental science', 'Continental margin', 'Paleontology', 'Geomorphology', 'Tectonics']

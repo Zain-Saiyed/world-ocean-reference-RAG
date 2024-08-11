@@ -1,0 +1,12 @@
+ID: W2132216138
+TITLE: Overview of the South China Sea circulation and its influence on the coastal physical oceanography outside the Pearl River Estuary
+AUTHOR: ['Jingwen Su']
+ABSTRACT:
+The northern South China Sea (SCS) has a complex energetic circulation, which exerts an important influence on the coastal oceanography outside the Pearl River Estuary (PRE) in southern China. In this review paper, three factors were identified which contribute to a generally cyclonic gyre in the upper ocean of the northern SCS: (1) The quasi-seasonal component of the wind forcing; (2) The net water transport into the SCS through the Luzon Strait; (3) Vorticity advection from the Kuroshio. The third one has an oscillating characteristic and also induces meso-scale eddies. Meso-scale eddies are rather active in the SCS, but few studies have addressed their generation dynamics. The intensified western boundary current of the cyclonic gyre, called the Dongsha Current in this paper, flows southwestward next to the shelf south of China. Meso-scale eddies from the SCS basin sometimes visit the slope area. A persistent northeastward South China Sea Warm Current straddles over the shelf-break region. Together with their frontal eddies, these two currents and the coastal current dominates the shelf processes outside the PRE in southern China. The PRE circulation has a coastal current-like structure in its lower reach. Its river plume has distinct monsoonal characteristics. During the southwest monsoon, it may spread some distance to the east over the shelf.
+
+SOURCE: Continental shelf research
+PDF URL: None
+CITED BY COUNT: 405
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'Oceanography', 'Eddy', 'Current (fluid)', 'Geology', 'Boundary current', 'Estuary', 'Monsoon', 'Advection', 'Continental shelf', 'Climatology', 'Ocean current', 'Physical oceanography', 'Pearl', 'Geography', 'Subtropics', 'Fishery', 'Meteorology', 'Physics', 'Archaeology', 'Thermodynamics', 'Turbulence', 'Biology']

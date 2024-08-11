@@ -1,0 +1,12 @@
+ID: W2969334534
+TITLE: Using Two-Eyed Seeing in Research With Indigenous People: An Integrative Review
+AUTHOR: ['Amy Wright', 'Chelsea Gabel', 'Marilyn Ballantyne', 'Susan M. Jack', 'Olive Wahoush']
+ABSTRACT:
+Background: The Two-Eyed Seeing approach has been advocated for use in research with Indigenous people as it creates a space for Western and Indigenous ways of knowing to come together using the best of both worldviews to aid understanding and solve problems. Foundational literature presents its use as a promising way to promote ethical exchanges between Indigenous and non-Indigenous people, but the practical application of its concepts to research remains vague. Method: This integrative review, using the Whittemore and Knafl approach, describes the state of the literature pertaining to the interpretation and application of Two-Eyed Seeing. Following a search of the literature, 37 articles were selected for inclusion, and primary studies ( n = 11) were critiqued for quality. Data were extracted, analyzed, and synthesized into themes. Results: Three themes were compiled from the literature including (a) defining characteristics of Two-Eyed Seeing, (b) suggested attributes of those engaging with Two-Eyed Seeing, and (c) the application of Two-Eyed Seeing in research. Conclusions: This review demonstrates inconsistencies in how to date researchers have interpreted and applied Two-Eyed Seeing in research with Indigenous people. The collection of key attributes of researchers and application procedures to research discussed in this review present a new standard for the application of Two-Eyed Seeing to research with Indigenous people. Researchers using Two-Eyed Seeing should thoroughly describe their application of its concepts to promote its maturation into a well-defined framework for research with Indigenous people.
+
+SOURCE: International journal of qualitative methods
+PDF URL: https://journals.sagepub.com/doi/pdf/10.1177/1609406919869695
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Indigenous', 'Inclusion (mineral)', 'Space (punctuation)', 'Sociology', 'Psychology', 'Engineering ethics', 'Computer science', 'Social science', 'Engineering', 'Ecology', 'Biology', 'Operating system']

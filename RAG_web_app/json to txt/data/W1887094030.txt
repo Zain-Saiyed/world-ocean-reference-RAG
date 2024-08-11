@@ -1,0 +1,12 @@
+ID: W1887094030
+TITLE: Clarifying the link between surface salinity and freshwater fluxes on monthly to interannual time scales
+AUTHOR: ['Nadya Vinogradova', 'Rui M. Ponte']
+ABSTRACT:
+Freshwater fluxes ( ) between the ocean and the atmosphere and land, comprised of evaporation, precipitation and terrestrial runoff, are an essential component of the Earth's climate system. However, direct observations of and its components are sparse and available estimates have substantial uncertainties. In this study we investigate if measurements of sea‐surface salinity ( ) can provide an alternative indirect method for estimating . We examine the relationship between , and oceanic fluxes from surface advection and mixing processes, on time scales from months to years, using a consistent estimate of the ocean/atmosphere state obtained from model/data synthesis produced by the ECCO (Estimating Circulation and Climate of the Ocean) consortium. ECCO salinity averaged over the mixed layer is used as an estimate of . Budget analysis shows that variability in tendencies can be attributed to both and oceanic fluxes, demonstrating the importance of the ocean's role in evolution of , for both local and global mean fields. Regression analysis of the 13 year long ECCO fields shows that there are only a few regions (e.g., subtropical gyres) where can be used as a proxy for using linear models, and only at monthly to annual time scales. Results are similar over a range of spatial scales from ∼100 to 2000 km. Findings are discussed in the context of the general sensitivities of to atmospheric and oceanic processes and the potential of satellite salinity measurements to constrain estimates of .
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jgrc.20200
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Environmental science', 'Ocean gyre', 'Climatology', 'Advection', 'Salinity', 'Context (archaeology)', 'Ocean current', 'Precipitation', 'Sea surface temperature', 'Atmospheric sciences', 'Subtropics', 'Oceanography', 'Geology', 'Meteorology', 'Geography', 'Paleontology', 'Physics', 'Fishery', 'Biology', 'Thermodynamics']

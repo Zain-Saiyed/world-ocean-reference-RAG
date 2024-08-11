@@ -1,0 +1,12 @@
+ID: W2496845198
+TITLE: Demographic, ecological, and physiological responses of ringed seals to an abrupt decline in sea ice availability
+AUTHOR: ['Steven H. Ferguson', 'Brent G. Young', 'David J. Yurkowski', 'Randi Anderson', 'Cornelia Willing', 'Ole Nielsen']
+ABSTRACT:
+To assess whether demographic declines of Arctic species at the southern limit of their range will be gradual or punctuated, we compared large-scale environmental patterns including sea ice dynamics to ringed seal ( Pusa hispida ) reproduction, body condition, recruitment, and stress in Hudson Bay from 2003 to 2013. Aerial surveys suggested a gradual decline in seal density from 1995 to 2013, with the lowest density occurring in 2013. Body condition decreased and stress (cortisol) increased over time in relation to longer open water periods. The 2010 open water period in Hudson Bay coincided with extremes in large-scale atmospheric patterns (North Atlantic Oscillation, Arctic Oscillation, El Nino-Southern Oscillation) resulting in the earliest spring breakup and the latest ice formation on record. The warming event was coincident with high stress level, low ovulation rate, low pregnancy rate, few pups in the Inuit harvest, and observations of sick seals. Results provide evidence of changes in the condition of Arctic marine mammals in relation to climate mediated sea ice dynamics. We conclude that although negative demographic responses of Hudson Bay seals are occurring gradually with diminishing sea ice, a recent episodic environmental event played a significant role in a punctuated population decline.
+
+SOURCE: PeerJ
+PDF URL: https://peerj.com/articles/2957.pdf
+CITED BY COUNT: 87
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Bay', 'Sea ice', 'North Atlantic oscillation', 'Arctic', 'Oceanography', 'Population', 'Environmental science', 'Climate change', 'Arctic oscillation', 'Arctic ice pack', 'Geography', 'Ecology', 'Climatology', 'Geology', 'Biology', 'The arctic', 'Demography', 'Sociology']

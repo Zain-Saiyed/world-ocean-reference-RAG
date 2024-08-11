@@ -1,0 +1,12 @@
+ID: W2176331526
+TITLE: A global inventory of small floating plastic debris
+AUTHOR: ['Erik van Sebille', 'Chris Wilcox', 'Laurent Lebreton', 'Nikolai Maximenko', 'Britta Denise Hardesty', 'J.A. van Franeker', 'Marcus Eriksen', 'David A. Siegel', 'François Galgani', 'Kara Lavender Law']
+ABSTRACT:
+Microplastic debris floating at the ocean surface can harm marine life. Understanding the severity of this harm requires knowledge of plastic abundance and distributions. Dozens of expeditions measuring microplastics have been carried out since the 1970s, but they have primarily focused on the North Atlantic and North Pacific accumulation zones, with much sparser coverage elsewhere. Here, we use the largest dataset of microplastic measurements assembled to date to assess the confidence we can have in global estimates of microplastic abundance and mass. We use a rigorous statistical framework to standardize a global dataset of plastic marine debris measured using surface-trawling plankton nets and coupled this with three different ocean circulation models to spatially interpolate the observations. Our estimates show that the accumulated number of microplastic particles in 2014 ranges from 15 to 51 trillion particles, weighing between 93 and 236 thousand metric tons, which is only approximately 1% of global plastic waste estimated to enter the ocean in the year 2010. These estimates are larger than previous global estimates, but vary widely because the scarcity of data in most of the world ocean, differences in model formulations, and fundamental knowledge gaps in the sources, transformations and fates of microplastics in the ocean.
+
+SOURCE: Environmental research letters
+PDF URL: https://iopscience.iop.org/article/10.1088/1748-9326/10/12/124006/pdf
+CITED BY COUNT: 1170
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Microplastics', 'Marine debris', 'Debris', 'Environmental science', 'Plastic pollution', 'Marine life', 'Oceanography', 'Plastic waste', 'Trawling', 'Pelagic zone', 'Abundance (ecology)', 'Fishery', 'Geology', 'Fishing', 'Engineering', 'Biology', 'Waste management']

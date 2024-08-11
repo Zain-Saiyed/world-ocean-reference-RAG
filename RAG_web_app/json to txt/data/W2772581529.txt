@@ -1,0 +1,12 @@
+ID: W2772581529
+TITLE: Influence of diatom diversity on the ocean biological carbon pump
+AUTHOR: ['Paul Tréguer', 'Chris Bowler', 'Brivaëla Moriceau', 'Stephanie Dutkiewicz', 'Marion Gehlen', 'Olivier Aumont', 'Lucie Bittner', 'Richard C. Dugdale', 'Zoe V. Finkel', 'Daniele Iudicone', 'O. Jahn', 'Lionel Guidi', 'M. Lasbleiz', 'Karine Leblanc', 'Marina Lévy', 'Philippe Pondaven']
+ABSTRACT:
+Diatoms sustain the marine food web and contribute to the export of carbon from the surface ocean to depth. They account for about 40% of marine primary productivity and particulate carbon exported to depth as part of the biological pump. Diatoms have long been known to be abundant in turbulent, nutrient-rich waters, but observations and simulations indicate that they are dominant also in meso- and submesoscale structures such as fronts and filaments, and in the deep chlorophyll maximum. Diatoms vary widely in size, morphology and elemental composition, all of which control the quality, quantity and sinking speed of biogenic matter to depth. In particular, their silica shells provide ballast to marine snow and faecal pellets, and can help transport carbon to both the mesopelagic layer and deep ocean. Herein we show that the extent to which diatoms contribute to the export of carbon varies by diatom type, with carbon transfer modulated by the Si/C ratio of diatom cells, the thickness of the shells and their life strategies; for instance, the tendency to form aggregates or resting spores. Model simulations project a decline in the contribution of diatoms to primary production everywhere outside of the Southern Ocean. We argue that we need to understand changes in diatom diversity, life cycle and plankton interactions in a warmer and more acidic ocean in much more detail to fully assess any changes in their contribution to the biological pump. Size, morphology, silica content and life cycle of diatoms affect their contribution to the export of carbon to the deep ocean, suggests a literature review.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 434
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Diatom', 'Biological pump', 'Marine snow', 'Mesopelagic zone', 'Oceanography', 'Biogenic silica', 'Environmental science', 'Plankton', 'Carbon fibers', 'Phytoplankton', 'Carbon cycle', 'Productivity', 'Ecology', 'Nutrient', 'Geology', 'Pelagic zone', 'Water column', 'Biology', 'Materials science', 'Ecosystem', 'Macroeconomics', 'Composite number', 'Economics', 'Composite material']

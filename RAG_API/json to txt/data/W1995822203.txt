@@ -1,0 +1,12 @@
+ID: W1995822203
+TITLE: Antibiotics in the offshore waters of the Bohai Sea and the Yellow Sea in China: Occurrence, distribution and ecological risks
+AUTHOR: ['Ruijie Zhang', 'Jianhui Tang', 'Jun Li', 'Qing‐Shui Zheng', 'Di Liu', 'Yingjun Chen', 'Yongde Zou', 'Xiaoxiang Chen', 'Chunling Luo', 'Gan Zhang']
+ABSTRACT:
+The ocean is an important sink of land-based pollutants. Previous studies showed that serious antibiotic pollution occurred in the coastal waters, but limited studies focused on their presence in offshore waters. In this study, eleven antibiotics in three different categories were investigated in offshore waters of the Bohai Sea and the Yellow Sea in China. The results indicated that three antibiotics dehydration erythromycin, sulfamethoxazole and trimethoprim occurred throughout the offshore waters at concentrations of 0.10-16.6 ng L(-1) and they decreased exponentially from the rivers to the coastal and offshore waters. The other antibiotics all presented very low detection rates (<10%) and concentrations (<0.51 ng L(-1)). Although the concentrations were very low, risk assessment based on the calculated risk quotients (RQs) showed that sulfamethoxazole, dehydration erythromycin and clarithromycin at most of sampling sites posed medium or low ecological risks (0.01 < RQ < 1) to some sensitive aquatic organisms, including Synechococcus leopoliensis and Pseudokirchneriella subcapitata.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 245
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Environmental science', 'Seawater', 'Erythromycin', 'Submarine pipeline', 'Environmental chemistry', 'Trimethoprim', 'Pollutant', 'Pollution', 'Antibiotics', 'Oceanography', 'Ecology', 'Biology', 'Chemistry', 'Geology', 'Microbiology']

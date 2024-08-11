@@ -1,0 +1,12 @@
+ID: W2346783933
+TITLE: A Bayesian belief network model for community-based coastal resource management in the Kei Islands, Indonesia
+AUTHOR: ['Eriko Hoshino', 'Ingrid van Putten', 'Wardis Girsang', 'Budy P. Resosudarmo', 'Satoshi Yamazaki']
+ABSTRACT:
+Understanding the specific relationships between ecological and socioeconomic conditions and marine tenure is likely to contribute to successful functioning of self-governance institutions for common-pool resources.Complex interrelationships of factors influencing fishing activities of coastal communities and implementation of customary marine tenure over their waters can be represented in a Bayesian belief network model.We developed a Bayesian belief network model that includes the links between factors for fishing communities in the Kei Islands in Indonesia, based on indepth local surveys.Our results showed that the cumulative impacts of multiple factors on key social, economic, and environmental outcomes can be much larger than the impact from a single source, which implies that management or policy intervention could be more effective when addressing multiple factors simultaneously.The local community's perception of fish stock abundance trends was the single most important factor influencing social, economic, and environmental outcomes of their community-based management system.The frequency of which outsiders were sighted in territorial waters was strongly (negatively) linked to weak or strong implementation of a customary tenure (Sasi) and the occurrence of intervillage and intravillage conflict.Ecological variables also drive these conflicts, which illustrates the close connection between ecological and social outcomes, and the importance of considering social-ecological systems as a whole.
+
+SOURCE: Ecology and society
+PDF URL: https://www.ecologyandsociety.org/vol21/iss2/art16/ES-2016-8285.pdf
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Bayesian network', 'Resource management (computing)', 'Resource (disambiguation)', 'Bayesian probability', 'Ecology', 'Geography', 'Environmental resource management', 'Computer science', 'Environmental science', 'Artificial intelligence', 'Biology', 'Computer network']

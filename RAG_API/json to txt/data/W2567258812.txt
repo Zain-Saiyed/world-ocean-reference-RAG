@@ -1,0 +1,12 @@
+ID: W2567258812
+TITLE: Timing, magnitude and effects of late Holocene sea level drawdown on island habitability, Aitutaki, Cook Islands
+AUTHOR: ['Melinda S. Allen', 'Alex Morrison', 'Andrew Lorrey', 'Jian‐xin Zhao', 'Geraldine Jacobsen']
+ABSTRACT:
+ABSTRACT Geologist Bill Dickinson argued that prior to late Holocene sea level fall, in many Pacific island settings low‐lying islands were awash, shallow nearshore environments were restricted and human settlement was constrained or sometimes impossible. Stable coastlines and islets of modern configuration only developed after the “cross‐over date”, when declining high‐tide levels fell below mid‐Holocene low‐tide levels, a regionally variable process. We evaluate evidence from the almost‐atoll of Aitutaki, Cook Islands against this model, providing: (1) a local late Holocene sea level reconstruction including nine U/Th‐dated microatolls; (2) 22 new AMS dates on human activities, many from small, low‐lying offshore islets; and (3) elevation data for 14 C‐dated cultural deposits on three islets. Our results include an early first millennium sea level position 0.74–0.97 m (± 0.126) above modern height‐of‐living‐corals, an eighth to eleventh century AD minimum relative to the long‐term trend, and a sea level rise peaking in the mid‐fourteenth to sixteenth centuries. This reconstruction, combined with twelfth century AD C ocos nucifera charcoal, informs on the timing and distribution of human activities across Aitutaki's evolving land and seascapes and sea level impacts. While our findings do not contradict Dickinson's model of sea level constrained island settlement, other explanations cannot be excluded.
+
+SOURCE: Archaeology in Oceania/Archæology & physical anthropology in Oceania
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Holocene', 'Sea level', 'Geology', 'Oceanography', 'Elevation (ballistics)', 'Archaeology', 'Physical geography', 'Geography', 'Geometry', 'Mathematics']

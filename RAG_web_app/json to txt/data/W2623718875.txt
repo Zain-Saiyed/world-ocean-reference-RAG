@@ -1,0 +1,12 @@
+ID: W2623718875
+TITLE: The economic value of shark-diving tourism in Australia
+AUTHOR: ['Charlie Huveneers', 'Mark G. Meekan', 'Kirin Apps', 'Luciana C. Ferreira', 'David J. Pannell', 'Gabriel M. S. Vianna']
+ABSTRACT:
+Shark-diving is part of a rapidly growing industry focused on marine wildlife tourism. Our study aimed to provide an estimate of the economic value of shark-diving tourism across Australia by comprehensively surveying the whale shark (Rhincodon typus), white shark (Carcharodon carcharias), grey nurse shark (Carcharias taurus), and reef shark (mostly Carcharhinus amblyrhynchos and Triaenodon obesus) diving industries using a standardised approach. A socio-economic survey targeted tourist divers between March 2013 and June 2014 and collected information on expenditures related to diving, accommodation, transport, living costs, and other related activities during divers’ trips. A total of 711 tourist surveys were completed across the four industries, with the total annual direct expenditure by shark divers in Australia estimated conservatively at $25.5 M. Additional expenditure provided by the white-shark and whale-shark-diving industries totalled $8.1 and $12.5 M for the Port Lincoln and Ningaloo Reef regions respectively. International tourists diving with white sharks also expended another $0.9 M in airfares and other activities while in Australia. These additional revenues show that the economic value of this type of tourism do not flow solely to the industry, but are also spread across the region where it is hosted. This highlights the need to ensure a sustainable dive-tourism industry through adequate management of both shark-diver interactions and biological management of the species on which it is based. Our study also provides standardised estimates which allow for future comparison of the scale of other wildlife tourism industries (not limited to sharks) within or among countries.
+
+SOURCE: Reviews in fish biology and fisheries
+PDF URL: None
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Carcharias', 'Fishery', 'Wildlife tourism', 'Tourism', 'Wildlife', 'Chondrichthyes', 'Ecotourism', 'Geography', 'Biology', 'Ecology', 'Juvenile', 'Archaeology']

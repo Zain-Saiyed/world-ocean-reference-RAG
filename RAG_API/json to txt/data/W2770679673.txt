@@ -1,0 +1,12 @@
+ID: W2770679673
+TITLE: The Defining Characteristics of ENSO Extremes and the Strong 2015/2016 El Niño
+AUTHOR: ['Agus Santoso', 'Michael J. McPhaden', 'Wenju Cai']
+ABSTRACT:
+Abstract The year 2015 was special for climate scientists, particularly for the El Niño Southern Oscillation (ENSO) research community, as a major El Niño finally materialized after a long pause since the 1997/1998 extreme El Niño. It was scientifically exciting since, due to the short observational record, our knowledge of an extreme El Niño has been based only on the 1982/1983 and 1997/1998 events. The 2015/2016 El Niño was marked by many environmental disasters that are consistent with what is expected for an extreme El Niño. Considering the dramatic impacts of extreme El Niño, and the risk of a potential increase in frequency of ENSO extremes under greenhouse warming, it is timely to evaluate how the recent event fits into our understanding of ENSO extremes. Here we provide a review of ENSO, its nature and dynamics, and through analysis of various observed key variables, we outline the processes that characterize its extremes. The 2015/2016 El Niño brings a useful perspective into the state of understanding of these events and highlights areas for future research. While the 2015/2016 El Niño is characteristically distinct from the 1982/1983 and 1997/1998 events, it still can be considered as the first extreme El Niño of the 21st century. Its extremity can be attributed in part to unusually warm condition in 2014 and to long‐term background warming. In effect, this study provides a list of physically meaningful indices that are straightforward to compute for identifying and tracking extreme ENSO events in observations and climate models.
+
+SOURCE: Reviews of geophysics
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/2017rg000560
+CITED BY COUNT: 337
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['El Niño Southern Oscillation', 'Climatology', 'Multivariate ENSO index', 'Environmental science', 'La Niña', 'Global warming', 'Extreme weather', 'Climate extremes', 'Climate change', 'Meteorology', 'Geography', 'Geology', 'Precipitation', 'Oceanography']

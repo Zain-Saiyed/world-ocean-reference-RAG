@@ -1,0 +1,12 @@
+ID: W2150924181
+TITLE: Extreme climatic event drives range contraction of a habitat-forming species
+AUTHOR: ['Dan A. Smale', 'Thomas Wernberg']
+ABSTRACT:
+Species distributions have shifted in response to global warming in all major ecosystems on the Earth. Despite cogent evidence for these changes, the underlying mechanisms are poorly understood and currently imply gradual shifts. Yet there is an increasing appreciation of the role of discrete events in driving ecological change. We show how a marine heat wave (HW) eliminated a prominent habitat-forming seaweed, Scytothalia dorycarpa, at its warm distribution limit, causing a range contraction of approximately 100 km (approx. 5% of its global distribution). Seawater temperatures during the HW exceeded the seaweed's physiological threshold and caused extirpation of marginal populations, which are unlikely to recover owing to life-history traits and oceanographic processes. Scytothalia dorycarpa is an important canopy-forming seaweed in temperate Australia, and loss of the species at its range edge has caused structural changes at the community level and is likely to have ecosystem-level implications. We show that extreme warming events, which are increasing in magnitude and frequency, can force step-wise changes in species distributions in marine ecosystems. As such, return times of these events have major implications for projections of species distributions and ecosystem structure, which have typically been based on gradual warming trends.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2012.2829
+CITED BY COUNT: 357
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Habitat', 'Ecology', 'Range (aeronautics)', 'Climate change', 'Marine ecosystem', 'Global warming', 'Species distribution', 'Environmental science', 'Temperate climate', 'Effects of global warming on oceans', 'Terrestrial ecosystem', 'Biology', 'Materials science', 'Composite material']

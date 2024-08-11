@@ -1,0 +1,12 @@
+ID: W2847105607
+TITLE: The Biology of Seamounts: 25 Years on
+AUTHOR: ['Alex D. Rogers']
+ABSTRACT:
+Seamounts are one of the major biomes of the global ocean. The last 25 years of research has seen considerable advances in the understanding of these ecosystems. The interactions between seamounts and steady and variable flows have now been characterised providing a better mechanistic understanding of processes influencing biology. Processes leading to upwelling, including Taylor column formation and tidal rectification, have now been defined as well as those leading to draw down of organic matter from the ocean surface to seamount summit and flanks. There is also an improved understanding of the interactions between seamounts, zooplankton and micronekton communities especially with respect to increased predation pressure in the vicinity of seamounts. Evidence has accumulated of the role of seamounts as hot spots for ocean predators including large pelagic fish, sharks, pinnipeds, cetaceans and seabirds. The complexity of benthic communities associated with seamounts is high and drivers of biodiversity are now being resolved. Claims of high endemism resulting from isolation of seamounts as islands of habitat and speciation have not been supported. However, for species characterised by low dispersal capability, such as some groups of benthic sessile or low-mobility invertebrates, low connectivity between seamount populations has been found with evidence of endemism at a local level. Threats to seamounts have increased in the last 25 years and include overfishing, destructive fishing, marine litter, direct and indirect impacts of climate change and potentially marine mining in the near future. Issues around these threats and their management are discussed.
+
+SOURCE: Advances in marine biology
+PDF URL: None
+CITED BY COUNT: 125
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Seamount', 'Endemism', 'Pelagic zone', 'Benthic zone', 'Oceanography', 'Apex predator', 'Zooplankton', 'Upwelling', 'Overfishing', 'Ecology', 'Biodiversity', 'Biology', 'Habitat', 'Geography', 'Fishery', 'Fishing', 'Geology']

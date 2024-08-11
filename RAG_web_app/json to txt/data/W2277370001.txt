@@ -1,0 +1,12 @@
+ID: W2277370001
+TITLE: Occurrence of pharmaceuticals and cocaine in a Brazilian coastal zone
+AUTHOR: ['Camilo Dias Seabra Pereira', 'Luciane Alves Maranho', 'Fernando Sanzi Cortez', 'Fábio Hermes Pusceddu', 'Aldo Ramos Santos', 'Daniel Araki Ribeiro', 'Augusto César', 'Luciana Lopes Guimarães']
+ABSTRACT:
+The present study determined environmental concentrations of pharmaceuticals, cocaine, and the main human metabolite of cocaine in seawater sampled from a subtropical coastal zone (Santos, Brazil). The Santos Bay is located in a metropolitan region and receives over 7367 m3 of wastewater per day. Five sample points under strong influence of the submarine sewage outfall were chosen. Through quantitative analysis by LC–MS/MS, 33 compounds were investigated. Seven pharmaceuticals (atenolol, acetaminophen, caffeine, losartan, valsartan, diclofenac, and ibuprofen), an illicit drug (cocaine), and its main human metabolite (benzoylecgonine) were detected at least once in seawater sampled from Santos Bay at concentrations that ranged from ng·L− 1 to μg·L− 1. In light of the possibility of bioaccumulation and harmful effects, the high concentrations of pharmaceuticals and cocaine found in this marine subtropical ecosystem are of environmental concern.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 170
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Benzoylecgonine', 'Bioaccumulation', 'Bay', 'Environmental chemistry', 'Metabolite', 'Environmental science', 'Seawater', 'Chemistry', 'Geography', 'Biology', 'Ecology', 'Biochemistry', 'Archaeology']

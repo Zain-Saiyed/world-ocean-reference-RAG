@@ -1,0 +1,12 @@
+ID: W1979957360
+TITLE: Increasing importance of small phytoplankton in a warmer ocean
+AUTHOR: ['Xosé Anxelu G. Morán', 'Ángel López‐Urrutia', 'Alejandra Calvo‐Díaz', 'William K. W. Li']
+ABSTRACT:
+Abstract The macroecological relationships among marine phytoplankton total cell density, community size structure and temperature have lacked a theoretical explanation. The tiniest members of this planktonic group comprise cyanobacteria and eukaryotic algae smaller than 2 μm in diameter, collectively known as picophytoplankton. We combine here two ecological rules, the temperature–size relationship with the allometric size‐scaling of population abundance to explain a remarkably consistent pattern of increasing picophytoplankton biomass with temperature over the −0.6 to 22 °C range in a merged dataset obtained in the eastern and western temperate North Atlantic Ocean across a diverse range of environmental conditions. Our results show that temperature alone was able to explain 73% of the variance in the relative contribution of small cells to total phytoplankton biomass regardless of differences in trophic status or inorganic nutrient loading. Our analysis predicts a gradual shift toward smaller primary producers in a warmer ocean. Because the fate of photosynthesized organic carbon largely depends on phytoplankton size, we anticipate future alterations in the functioning of oceanic ecosystems.
+
+SOURCE: Global change biology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2486.2009.01960.x
+CITED BY COUNT: 479
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Trophic level', 'Primary producers', 'Ecology', 'Biomass (ecology)', 'Plankton', 'Range (aeronautics)', 'Oceanography', 'Environmental science', 'Ecosystem', 'Abundance (ecology)', 'Marine ecosystem', 'Food web', 'Temperate climate', 'Allometry', 'Population', 'Relative species abundance', 'Biology', 'Nutrient', 'Materials science', 'Demography', 'Sociology', 'Composite material', 'Geology']

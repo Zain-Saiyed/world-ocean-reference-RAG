@@ -1,0 +1,12 @@
+ID: W2130707940
+TITLE: Plastic Pollution in the World's Oceans: More than 5 Trillion Plastic Pieces Weighing over 250,000 Tons Afloat at Sea
+AUTHOR: ['Marcus Eriksen', 'Laurent Lebreton', 'Henry S. Carson', 'Martín Thiel', 'Charles J. Moore', 'Jose C. Borerro', 'François Galgani', 'Peter G. Ryan', 'Júlia Reisser']
+ABSTRACT:
+Plastic pollution is ubiquitous throughout the marine environment, yet estimates of the global abundance and weight of floating plastics have lacked data, particularly from the Southern Hemisphere and remote regions. Here we report an estimate of the total number of plastic particles and their weight floating in the world's oceans from 24 expeditions (2007-2013) across all five sub-tropical gyres, costal Australia, Bay of Bengal and the Mediterranean Sea conducting surface net tows (N = 680) and visual survey transects of large plastic debris (N = 891). Using an oceanographic model of floating debris dispersal calibrated by our data, and correcting for wind-driven vertical mixing, we estimate a minimum of 5.25 trillion particles weighing 268,940 tons. When comparing between four size classes, two microplastic <4.75 mm and meso- and macroplastic >4.75 mm, a tremendous loss of microplastics is observed from the sea surface compared to expected rates of fragmentation, suggesting there are mechanisms at play that remove <4.75 mm plastic particles from the ocean surface.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0111913&type=printable
+CITED BY COUNT: 3317
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Marine debris', 'Plastic pollution', 'Microplastics', 'Transect', 'Oceanography', 'Ocean gyre', 'Debris', 'Environmental science', 'Bay', 'Pollution', 'Geology', 'Subtropics', 'Fishery', 'Ecology', 'Biology']

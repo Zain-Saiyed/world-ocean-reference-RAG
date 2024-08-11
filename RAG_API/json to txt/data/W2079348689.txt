@@ -1,0 +1,12 @@
+ID: W2079348689
+TITLE: Application of a novel solid-phase-extraction sampler and ultra-performance liquid chromatography quadrupole-time-of-flight mass spectrometry for determination of pharmaceutical residues in surface sea water
+AUTHOR: ['Jörgen Magnér', 'Marko Filipovic', 'Tomas Alsberg']
+ABSTRACT:
+In the present study, a multi-residue method based on a bag-solid phase extraction (bag-SPE) technique was evaluated for determination of 10 pharmaceuticals in surface water close to the effluent of a sewage treatment plant (STP) and along a coastal gradient from a STP effluent. The 10 compounds selected were caffeine, atenolol, metoprolol, oxazepam, carbamazepine, ketoprofen, naproxen, ibuprofen, diclofenac and gemfibrozil. All analyses were performed using ultra-performance liquid chromatography (UPLC) combined with quadrupole time-of-flight (QTOF) mass spectrometry. The detection limits (LOD) ranged from 1.0 to 13 ng L−1. The method showed linear concentration ranges from 25 to 800 ng L−1 with regression coefficients (R2) better than 0.9801. The recoveries of the selected analytes ranged from 11 to 65% with relative standard deviations (RSD) of <16% and inter-day variations of less than 18%. Isotopically labeled surrogate standards were used to compensate for sampling losses and matrix effects. Four of the selected 10 pharmaceuticals (caffeine, metoprolol, oxazepam and carbamazepine) were quantified, at concentrations ranging from 4 to 210 ng L−1.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Mass spectrometry', 'Quadrupole time of flight', 'Chromatography', 'Solid phase extraction', 'Chemistry', 'Extraction (chemistry)', 'Quadrupole', 'Analytical Chemistry (journal)', 'Tandem mass spectrometry', 'Physics', 'Atomic physics']

@@ -1,0 +1,12 @@
+ID: W2016849073
+TITLE: Marine Regions: Towards a Global Standard for Georeferenced Marine Names and Boundaries
+AUTHOR: ['S. Claus', 'N. De Hauwere', 'B. Vanhoorne', 'Pieter Deckers', 'F. Souza Dias', 'F. Hernández', 'Jan Mees']
+ABSTRACT:
+GIS has become an indispensable tool for managing and displaying marine spatial data. However, a unique georeferenced standard of marine place names and boundaries has yet to be established. As such, an online, open-access, standardized, hierarchical list of geographic names, that is, Marine Regions, has been developed, linking each of these names to information and maps of the geographic location. The objectives are to capture all geographic marine names worldwide, including ocean basins, seas, seamounts, sandbanks, ridges, bays, and other marine geographical place names and attributes, and to display univocally the boundaries of marine biogeographic or other managed marine areas in order to facilitate marine data management, marine (geographic) research and the management of marine areas. Marine Regions is freely available at http://www.marineregions.org.
+
+SOURCE: Marine geodesy
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Georeference', 'Geography', 'Marine spatial planning', 'Seamount', 'Marine protected area', 'Geographic information system', 'Marine conservation', 'Cartography', 'Oceanography', 'Environmental resource management', 'Ecology', 'Geology', 'Physical geography', 'Environmental planning', 'Habitat', 'Environmental science', 'Biology']

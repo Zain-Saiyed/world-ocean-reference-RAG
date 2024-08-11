@@ -1,0 +1,12 @@
+ID: W1889747876
+TITLE: New Approaches to Marine Conservation Through the Scaling Up of Ecological Data
+AUTHOR: ['Graham J. Edgar', 'Amanda E. Bates', 'Tomas J. Bird', 'Alun H. Jones', 'Stuart Kininmonth', 'Rick D. Stuart‐Smith', 'Thomas J. Webb']
+ABSTRACT:
+In an era of rapid global change, conservation managers urgently need improved tools to track and counter declining ecosystem conditions. This need is particularly acute in the marine realm, where threats are out of sight, inadequately mapped, cumulative, and often poorly understood, thereby generating impacts that are inefficiently managed. Recent advances in macroecology, statistical analysis, and the compilation of global data will play a central role in improving conservation outcomes, provided that global, regional, and local data streams can be integrated to produce locally relevant and interpretable outputs. Progress will be assisted by (a) expanded rollout of systematic surveys that quantify species patterns, including some carried out with help from citizen scientists; (b) coordinated experimental research networks that utilize large-scale manipulations to identify mechanisms underlying these patterns;
+
+SOURCE: Annual review of marine science
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-marine-122414-033921
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Macroecology', 'Environmental resource management', 'Scale (ratio)', 'Data science', 'Ecology', 'Citizen science', 'Ecosystem', 'Baseline (sea)', 'Geography', 'Computer science', 'Biodiversity', 'Environmental science', 'Biology', 'Fishery', 'Cartography', 'Botany']

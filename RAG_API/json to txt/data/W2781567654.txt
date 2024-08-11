@@ -1,0 +1,12 @@
+ID: W2781567654
+TITLE: Declining oxygen in the global ocean and coastal waters
+AUTHOR: ['Denise L. Breitburg', 'Lisa A. Levin', 'Andreas Oschlies', 'Marilaure Grégoire', 'Francisco P. Chávez', 'Daniel J. Conley', 'Véronique Garçon', 'Denis Gilbert', 'Dimitri Gutiérrez', 'Kirsten Isensee', 'Gil S. Jacinto', 'Karin E. Limburg', 'Ivonne Montès', 'S.W.A. Naqvi', 'Grant C. Pitcher', 'Nancy N. Rabalais', 'Michael R. Roman', 'Kenneth A. Rose', 'Brad A. Seibel', 'Maciej Telszewski', 'Moriaki Yasuhara', 'Jing Zhang']
+ABSTRACT:
+Oxygen is fundamental to life. Not only is it essential for the survival of individual animals, but it regulates global cycles of major nutrients and carbon. The oxygen content of the open ocean and coastal waters has been declining for at least the past half-century, largely because of human activities that have increased global temperatures and nutrients discharged to coastal waters. These changes have accelerated consumption of oxygen by microbial respiration, reduced solubility of oxygen in water, and reduced the rate of oxygen resupply from the atmosphere to the ocean interior, with a wide range of biological and ecological consequences. Further research is needed to understand and predict long-term, global- and regional-scale oxygen changes and their effects on marine and estuarine fisheries and ecosystems.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/359/6371/eaam7240.full.pdf
+CITED BY COUNT: 1763
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Environmental science', 'Estuary', 'Ecosystem', 'Nutrient', 'Oceanography', 'Oxygen', 'Marine ecosystem', 'Atmosphere (unit)', 'Biogeochemistry', 'Ecology', 'Biology', 'Chemistry', 'Geology', 'Geography', 'Organic chemistry', 'Meteorology']

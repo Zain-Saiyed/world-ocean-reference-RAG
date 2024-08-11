@@ -1,0 +1,12 @@
+ID: W2795634756
+TITLE: Seabed recovery following protective burial of subsea cables - Observations from the continental margin
+AUTHOR: ['C. Kraus', 'Lionel Carter']
+ABSTRACT:
+Subsea communication and power cables are critical infrastructure whose protection is paramount, especially on the continental shelf where fishing and ships’ anchors cause ∼70% of cable faults. Protection is often afforded by cable burial and this paper deals mainly with physical seabed recovery from that process. Varied sedimentary environments and different modes of cable burial mean that recovery is site-specific. Repeated seabed surveys show restoration is fastest where cables are buried by ploughing in zones of high sediment supply and energetic waves/currents such as on the inner to middle continental shelf (∼0–80 m water depth - WD). There, recovery can take weeks to 1–2yr. As sediment supply and wave/current activity reduce offshore, recovery from ploughing on the outer shelf (∼80–130 m WD) is typically longer than in shallower depths. Recovery from water-jetted trenching, which can be more disturbing than ploughing, can take ≥5yr. On the upper continental slope (130–2000m WD), trenches infill after ∼8yr where sediment supply is high, but ≥15yr where supply is low. Surveys also suggest that benthic communities recover at rates similar to physical restoration. With few exceptions, the physical presence of a cable and the disturbance caused by its burial have little effect on the benthos studied.
+
+SOURCE: Ocean engineering
+PDF URL: None
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seabed', 'Continental shelf', 'Subsea', 'Geology', 'Continental margin', 'Benthic zone', 'Sediment', 'Submarine pipeline', 'Benthos', 'Seafloor spreading', 'Sedimentary rock', 'Oceanography', 'Current (fluid)', 'Geomorphology', 'Paleontology', 'Tectonics']

@@ -1,0 +1,12 @@
+ID: W2805417623
+TITLE: A regional assessment of cumulative impact mapping on Mediterranean coralligenous outcrops
+AUTHOR: ['Stanislao Bevilacqua', 'Giuseppe Guarnieri', 'Giulio Farella', 'Antonio Terlizzi', 'Simonetta Fraschetti']
+ABSTRACT:
+In the last decade, the 'Cumulative Pressure and Impact Assessment' (CPIA) approach emerged as a tool to map expected impacts on marine ecosystems. However, CPIA assumes a linear response of ecosystems to increasing level of cumulative pressure weighting sensitivity to different anthropogenic pressures through expert judgement. We applied CPIA to Mediterranean coralligenous outcrops over 1000 km of the Italian coastline. Extensive field surveys were conducted to assess the actual condition of coralligenous assemblages at varying levels of human pressure. As pressure increased, a clear shift from bioconstructors to turf-dominated assemblages was found. The linear model originally assumed for CPIA did not fit the actual relationship between expected cumulative impact versus assemblage degradation. A log-log model, instead, best fitted the data and predicted a different map of cumulative impact in the study area able to appreciate the whole range of impact scenarios. Hence, the relative importance of different drivers in explaining the observed pattern of degradation was not aligned with weights from the expert opinion. Such findings stress the need for more incisive efforts to collect empirical evidence on ecosystem-specific responses to human pressure in order to refine CPIA predictions.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-20297-1.pdf
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Weighting', 'Range (aeronautics)', 'Akaike information criterion', 'Environmental science', 'Cumulative effects', 'Mediterranean climate', 'Outcrop', 'Geography', 'Statistics', 'Geology', 'Ecology', 'Mathematics', 'Biology', 'Geomorphology', 'Medicine', 'Materials science', 'Archaeology', 'Composite material', 'Radiology']

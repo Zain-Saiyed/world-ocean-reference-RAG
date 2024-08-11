@@ -1,0 +1,12 @@
+ID: W2774222939
+TITLE: Risk Assessment to Extreme Wave Events: The Barranquilla – Cienaga, Caribbean of Colombia Case Study
+AUTHOR: ['Nelson Rangel-Buitrago', 'Giorgio Anfuso', 'Allan Williams', 'Jarbas Bonetti', 'Gracia C. Adriana', 'Juan Carlos Ortíz']
+ABSTRACT:
+The study of the relationships existing between littoral transformation and climate change impacts- with associated hazards, vulnerabilities and risks – represents the first step in the design of adaptation plans for coastal zones (risk reduction). Risk assessments provide information on the pressure to which the coastal zone is exposed and its adaptive capacity. In these assessments, it is important to examine interacting physical attributes and socio-economic, conservational and archeological/cultural characteristics. Determination of coastal susceptibility or vulnerability is an important instrument for managers/planners for coastal preservation, protection and development, as vulnerability outcomes provide baseline information and a scientific basis for any envisaged coastal erosion management plan together with mitigation measures under sustainability aspects. This chapter deals with a methodological approach to risk determination of extreme wave impacts. The approach is based on selection and evaluation of three types of variables: i) the forcing variables contributing to extreme wave-induced erosion, ii) dynamic variables that determine the resilience to erosion (susceptibility) and (iii) the vulnerable targets grouped in three different contexts (socio-economic, ecological and heritage). These are combined into two separate indices, the Hazard Index (combining forcing and susceptibility) and the Vulnerability Index, which together constitute the Coastline Risk to Extreme Waves as a single numerical measure of the risk for a given area. Maps generated with this methodology can be used as a guideline contributing to the determination of causes, processes and consequences derived from the extreme waves and associated processes.
+
+SOURCE: Coastal research library
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Geography', 'Cartography']

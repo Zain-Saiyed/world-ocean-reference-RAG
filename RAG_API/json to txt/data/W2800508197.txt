@@ -1,0 +1,12 @@
+ID: W2800508197
+TITLE: Evaluation of possibilities in geothermal energy extraction from oceanic crust using offshore wind turbine monopiles
+AUTHOR: ['Arundhuti Banerjee', 'Tanusree Chakraborty', 'Vasant Matsagar']
+ABSTRACT:
+This paper proposes a novel concept of extracting geothermal power from the oceanic crust, using an offshore wind turbine structure, combined with an active heat exchanger system comprising of fluid pipes. The offshore monopile system uses a thermoelectric generator with the working principle of Seebeck effect that converts the temperature difference between the fluids in the inlet-outlet pipe to produce electricity. Thermal analysis of steel monopile with fluid-carrying-pipes has been carried out using finite element method through a heat flow analysis, taking into account the complex heat transfer process of convection through fluid pipes and conduction between the pipe-soil-monopile system. The effects of temperature variation in the fluid, the mass flow rate of the fluid in the outlet pipe, and the thermal conductivity of soil on the offshore monopile and the surrounding soil have been studied in detail. It is observed that a maximum power output of 242 kW (kW) could be extracted out of the system using thermoelectric generators.
+
+SOURCE: Renewable & sustainable energy reviews
+PDF URL: None
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Offshore wind power', 'Turbine', 'Geothermal gradient', 'Geothermal energy', 'Geothermal power', 'Thermoelectric generator', 'Geotechnical engineering', 'Geology', 'Petroleum engineering', 'Engineering', 'Thermoelectric effect', 'Mechanical engineering', 'Geophysics', 'Physics', 'Thermodynamics']

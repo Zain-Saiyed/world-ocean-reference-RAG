@@ -1,0 +1,12 @@
+ID: W2766456992
+TITLE: The Modelling of Coastal Cliffs and Future Trends
+AUTHOR: ['Ricardo Castedo', 'Carlos Paredes', 'Rogelio de la Vega‐Panizo', 'Anastasio P. Santos']
+ABSTRACT:
+About 80% of the world's oceanic shorelines include diverse types of cliffed and rocky coasts: plunging cliffs, bluffs backing beaches and rocky shore platforms.In combination, approximately 60% of the world's population lives within 60 km of the coast.Rapidly retreating soft cliffs may be found worldwide and are particularly vulnerable to changes in the forcing factors.The study and analysis of the rate of change in shoreline position through time is important or even imperative for coastal management.The development of cliff erosion predictive models is mainly limited to geomorphological data because of the complex interactions between physical-chemical processes acting simultaneously in time and space that result in large scale variations.Current historical extrapolation models use historical recession data, but different environments with the same historical values can produce identical annual retreat characteristics despite the potential responses to a changing environment being unequal.For that reason, process-response models (PRMs) are necessary to provide quantitative predictions of the effects of natural and human-induced changes that cannot be predicted using other models.Several models are explained and discussed, including a process-response model, based on real data at Holderness Coast (UK).
+
+SOURCE: InTech eBooks
+PDF URL: https://www.intechopen.com/citation-pdf-url/54919
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Shore', 'Extrapolation', 'Cliff', 'Population', 'Current (fluid)', 'Natural (archaeology)', 'Geography', 'Coastal erosion', 'Physical geography', 'Erosion', 'Scale (ratio)', 'Oceanography', 'Geology', 'Cartography', 'Geomorphology', 'Archaeology', 'Statistics', 'Demography', 'Mathematics', 'Sociology']

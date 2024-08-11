@@ -1,0 +1,12 @@
+ID: W2921130323
+TITLE: Marine litter on the Baltic seafloor collected by the international fish-trawl survey
+AUTHOR: ['Yury Zablotski', 'Sarah Kraak']
+ABSTRACT:
+Marine litter is a global concern. Since most of the litter sinks, understanding the composition of benthic marine litter is crucial for addressing this concern. However, high costs of seafloor monitoring inhibit such understanding. Consequently, benthic marine litter in the Baltic Sea has not been comprehensively addressed yet. Here we present data from 2377 hauls, which collected 6828 litter items and 2412 kg on the Baltic seafloor during six years of the Baltic International Trawl Survey (BITS) by seven nations. Our results show lower percentages of plastic (35%) than the widely cited world average (70%) and less fishery-originated litter (2.2–5.6%) than was previously reported for the Baltic Sea (4–24%). Natural products, mostly residuals of burnt coal, were identified as the most common litter category (42–57%) and were largely ignored in the past. Our results highlight the importance of using several evaluation metrics, particularly number of items, weight and encounter probability.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Litter', 'Marine debris', 'Benthic zone', 'Baltic sea', 'Fishery', 'Seafloor spreading', 'Benthos', 'Environmental science', 'Oceanography', 'Fish <Actinopterygii>', 'Geography', 'Environmental protection', 'Ecology', 'Biology', 'Geology', 'Debris']

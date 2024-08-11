@@ -1,0 +1,12 @@
+ID: W2751272571
+TITLE: Recommendations for developing and applying genetic tools to assess and manage biological invasions in marine ecosystems
+AUTHOR: ['John A. Darling', 'Bella S. Galil', 'Gary R. Carvalho', 'Marc Rius', 'Frédérique Viard', 'Stefano Piraino']
+ABSTRACT:
+The European Union’s Marine Strategy Framework Directive (MSFD) aims to adopt integrated ecosystem management approaches to achieve or maintain “Good Environmental Status” for marine waters, habitats and resources, including mitigation of the negative effects of non-indigenous species (NIS). The Directive further seeks to promote broadly standardized monitoring efforts and assessment of temporal trends in marine ecosystem condition, incorporating metrics describing the distribution and impacts of NIS. Accomplishing these goals will require application of advanced tools for NIS surveillance and risk assessment, particularly given known challenges associated with surveying and monitoring with traditional methods. In the past decade, a host of methods based on nucleic acids (DNA and RNA) analysis have been developed or advanced that promise to dramatically enhance capacity in assessing and managing NIS. However, ensuring that these rapidly evolving approaches remain accessible and responsive to the needs of resource managers remains a challenge. This paper provides recommendations for future development of these genetic tools for assessment and management of NIS in marine systems, within the context of the explicit requirements of the MSFD. Issues considered include technological innovation, methodological standardization, data sharing and collaboration, and the critical importance of shared foundational resources, particularly integrated taxonomic expertise. Though the recommendations offered here are not exhaustive, they provide a basis for future intentional (and international) collaborative development of a genetic toolkit for NIS research, capable of fulfilling the immediate and long term goals of marine ecosystem and resource conservation.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine Strategy Framework Directive', 'Standardization', 'Context (archaeology)', 'Environmental resource management', 'Resource (disambiguation)', 'Directive', 'Business', 'Environmental planning', 'Computer science', 'Ecosystem', 'Ecology', 'Geography', 'Environmental science', 'Biology', 'Computer network', 'Archaeology', 'Programming language', 'Operating system']

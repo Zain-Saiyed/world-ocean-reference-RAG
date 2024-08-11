@@ -1,0 +1,12 @@
+ID: W2914624051
+TITLE: Temperate Estuaries: Their Ecology Under Future Environmental Changes
+AUTHOR: ['Jean‐Paul Ducrotoy', 'Michael Elliott', 'Nick Cutts', 'Anita Franco', 'Sally Little', 'Krysia Mazik', 'Martin Wilkinson']
+ABSTRACT:
+Macrotidal temperate estuaries are naturally highly dynamic ecosystems which support internationally important ecological populations and habitats. At the same time they have long been the sites of extensive urban, industrial, and agricultural development which create many anthropogenic pressures, each of which has left a legacy of degradation. This review shows the changes to the estuarine biota (the primary production, phytoplankton, zooplankton, benthic invertebrates, fish, and birds) resulting from that legacy but, in addition to considering current hazards, it aims to predict the consequences of future risks such as increasing climate variability and habitat loss from ever increasing estuarine use. That biota responds to physical and biological parameters which are close to vital thresholds but the parameter temporal and spatial dynamics are affected by rapidly changing temperatures or accelerated sea level rise. The responses by the biota to possible new climatic and habitat conditions and habitat availability are considered against a background of the high inherent variability in estuaries, especially in tidal and wave regimes, hydrodynamics and salinity balance, and geomorphological evolution. It is suggested that this confers a degree of resistance and resilience by the biota to environmental change and hence these ecosystems may be more able to adapt to climate change.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Temperate climate', 'Ecology', 'Estuary', 'Geography', 'Environmental science', 'Biology']

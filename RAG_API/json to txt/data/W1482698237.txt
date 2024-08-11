@@ -1,0 +1,12 @@
+ID: W1482698237
+TITLE: Informing Deep Argo Array Design Using Argo and Full-Depth Hydrographic Section Data
+AUTHOR: ['Gregory C. Johnson', 'John M. Lyman', 'Sarah G. Purkey']
+ABSTRACT:
+Abstract Data from full-depth closely sampled hydrographic sections and Argo floats are analyzed to inform the design of a future Deep Argo array. Here standard errors of local decadal temperature trends and global decadal trends of ocean heat content and thermosteric sea level anomalies integrated from 2000 to 6000 dbar are estimated for a hypothetical 5° latitude × 5° longitude × 15-day cycle Deep Argo array. These estimates are made using temperature variances from closely spaced full-depth CTD profiles taken during hydrographic sections. The temperature data along each section are high passed laterally at a 500-km scale, and the resulting variances are averaged in 5° × 5° bins to assess temperature noise levels as a function of pressure and geographic location. A mean global decorrelation time scale of 62 days is estimated using temperature time series at 1800 dbar from Argo floats. The hypothetical Deep Argo array would be capable of resolving, at one standard error, local trends from &lt;1 m °C decade −1 in the quiescent abyssal North Pacific to about 26 m °C decade −1 below 2000 dbar along 50°S in the energetic Southern Ocean. Larger decadal temperature trends have been reported previously in these regions using repeat hydrographic section data, but those very sparse data required substantial spatial averaging to obtain statistically significant results. Furthermore, the array would provide decadal global ocean heat content trend estimates from 2000 to 6000 dbar with a standard error of ±3 TW, compared to a trend standard error of ±17 TW from a previous analysis of repeat hydrographic data.
+
+SOURCE: Journal of atmospheric and oceanic technology
+PDF URL: None
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Argo', 'Hydrography', 'Climatology', 'Latitude', 'Bathythermograph', 'Longitude', 'Ocean heat content', 'Sea surface temperature', 'Geology', 'Environmental science', 'Meteorology', 'Oceanography', 'Geodesy', 'Geography']

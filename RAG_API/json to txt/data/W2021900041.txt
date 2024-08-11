@@ -1,0 +1,12 @@
+ID: W2021900041
+TITLE: Seagrass meadows globally as a coupled social–ecological system: Implications for human wellbeing
+AUTHOR: ['Leanne C. Cullen‐Unsworth', 'Lina Mtwana Nordlund', 'Jessica Paddock', 'Susan Baker', 'Len J. McKenzie', 'Richard K. F. Unsworth']
+ABSTRACT:
+Seagrass ecosystems are diminishing worldwide and repeated studies confirm a lack of appreciation for the value of these systems. In order to highlight their value we provide the first discussion of seagrass meadows as a coupled social–ecological system on a global scale. We consider the impact of a declining resource on people, including those for whom seagrass meadows are utilised for income generation and a source of food security through fisheries support. Case studies from across the globe are used to demonstrate the intricate relationship between seagrass meadows and people that highlight the multi-functional role of seagrasses in human wellbeing. While each case underscores unique issues, these examples simultaneously reveal social–ecological coupling that transcends cultural and geographical boundaries. We conclude that understanding seagrass meadows as a coupled social–ecological system is crucial in carving pathways for social and ecological resilience in light of current patterns of local to global environmental change.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 211
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Seagrass', 'Ecology', 'Ecosystem', 'Ecological resilience', 'Psychological resilience', 'Geography', 'Ecosystem services', 'Ecological systems theory', 'Resource (disambiguation)', 'Environmental resource management', 'Environmental science', 'Biology', 'Psychology', 'Psychotherapist', 'Computer network', 'Computer science']

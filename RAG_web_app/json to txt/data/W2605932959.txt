@@ -1,0 +1,12 @@
+ID: W2605932959
+TITLE: Interactions of microplastic debris throughout the marine ecosystem
+AUTHOR: ['Tamara S. Galloway', 'Matthew Cole', 'Ceri Lewis']
+ABSTRACT:
+Marine microscopic plastic (microplastic) debris is a modern societal issue, illustrating the challenge of balancing the convenience of plastic in daily life with the prospect of causing ecological harm by careless disposal. Here we develop the concept of microplastic as a complex, dynamic mixture of polymers and additives, to which organic material and contaminants can successively bind to form an ‘ecocorona’, increasing the density and surface charge of particles and changing their bioavailability and toxicity. Chronic exposure to microplastic is rarely lethal, but can adversely affect individual animals, reducing feeding and depleting energy stores, with knock-on effects for fecundity and growth. We explore the extent to which ecological processes could be impacted, including altered behaviours, bioturbation and impacts on carbon flux to the deep ocean. We discuss how microplastic compares with other anthropogenic pollutants in terms of ecological risk, and consider the role of science and society in tackling this global issue in the future. The widespread occurrence of microscopic plastic particles in the ocean is of both and ecological and societal concern. Here, the authors review the biological impacts of interactions with microplastics in the marine environment.
+
+SOURCE: Nature ecology & evolution
+PDF URL: None
+CITED BY COUNT: 1247
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Bioturbation', 'Marine ecosystem', 'Environmental science', 'Ecosystem', 'Marine debris', 'Plastic pollution', 'Harm', 'Debris', 'Pollutant', 'Ecology', 'Oceanography', 'Biology', 'Geology', 'Paleontology', 'Sediment', 'Political science', 'Law']

@@ -1,0 +1,12 @@
+ID: W2168131408
+TITLE: Impact of declining intermediate-water oxygen on deepwater fishes in the California Current
+AUTHOR: ['J. Anthony Koslow', 'Ralf Goericke', 'Ana Lara-López', 'William Watson']
+ABSTRACT:
+Although declining oxygen concentration has been reported for the oxygen minimum zones (OMZs) of the tropical oceans and the North Pacific Ocean, consistent with model predictions of the effects of global warming, its ecological impacts are poorly understood.We report the apparent impact of declining oxygen on midwater fishes within the OMZ of the southern California Current (CC).Principal component analysis of the California Cooperative Oceanic Fisheries Investigations (CalCOFI) ichthyoplankton time series from 1951 to 2008 indicates that the dominant temporal pattern (principal component 1 [PC1]) represents the marked decline of the region's mesopelagic fishes during periods of reduced oxygen.Of the 27 taxa with loadings > 0.5 on PC1, 24 were mesopelagic.PC1 was strongly correlated with intermediate-water oxygen concentrations (r = 0.75, p < 0.05), which were about 20% lower in the past decade and the 1950s than in the period from 1970 to 1995.The abundance of mesopelagic fishes represented by PC1 was reduced, on average, by 63% between periods of high and low oxygen concentrations.We hypothesize that the underlying mechanism is the shoaling of the hypoxic boundary layer during periods of reduced oxygen, which renders the mesopelagic fauna more vulnerable to visually orienting predators.The mesopelagic fish fauna provides a vital trophodynamic link between the marine plankton and many higher predators.The decline of deepwater fish populations has profound implications for commercial fisheries, marine food webs and marine conservation: climate models predict a 20 to 40% decline in global deepwater oxygen concentrations over the coming century.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2011/436/m436p207.pdf
+CITED BY COUNT: 175
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Mesopelagic zone', 'Oceanography', 'Fisheries science', 'Fishery', 'Ichthyoplankton', 'Environmental science', 'Pelagic zone', 'Geography', 'Fishing', 'Abundance (ecology)', 'Biology', 'Fisheries management', 'Geology']

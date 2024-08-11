@@ -1,0 +1,12 @@
+ID: W1448217434
+TITLE: Natural Gas Hydrate: Background and History of Discovery
+AUTHOR: ['Keith A. Kvenvolden']
+ABSTRACT:
+Interest in natural gas hydrate is increasing rapidly as the multiple implications of its presence in the shallow geosphere are being recognized. The large amount of hydrate methane that is sequestered in shallow terrestrial and marine sediments makes this methane an attractive target for those concerned about future energy requirements and resources. The fact that natural gas hydrate is metastable and affected by changes in pressure and temperature makes any released methane an attractive agent that could globally affect oceanic and atmospheric chemistry and ultimately global climate. And finally this characteristic of metastability could explain ma or seafloor instabilities resulting in submarine slides and slope failures. Thus these ramifications of natural gas-hydrate occurrence all have potential effects on future human welfare, and hence explain the increasing worldwide interest. This chapter introduces natural gas hydrate, provides a background for understanding its occurrence, relates the early history of discovery, and describes the hydrate gas compositions that have been found. Following chapters will deal with the important aspects of natural gas hydrate as a potential (a) energy resource, (b) factor in global change, and (c) submarine geohazard.
+
+SOURCE: Coastal systems and continental margins
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2003
+TYPE: book-chapter
+CONCEPTS: ['Clathrate hydrate', 'Natural gas', 'Methane', 'Hydrate', 'Geohazard', 'Seafloor spreading', 'Earth science', 'Submarine', 'Metastability', 'Natural (archaeology)', 'Geology', 'Environmental science', 'Oceanography', 'Chemistry', 'Paleontology', 'Waste management', 'Geomorphology', 'Engineering', 'Landslide', 'Organic chemistry']

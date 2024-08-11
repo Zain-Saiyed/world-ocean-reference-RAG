@@ -1,0 +1,12 @@
+ID: W1983176833
+TITLE: Settlement-stage coral reef fish prefer the higher-frequency invertebrate-generated audible component of reef noise
+AUTHOR: ['Stephen D. Simpson', 'Mark G. Meekan', 'Andrew G. Jeffs', 'John C. Montgomery', 'Robert D. McCauley']
+ABSTRACT:
+The importance of the acoustic cuescape is often overlooked in studies of animal orientation. Recent studies have shown that reef noise affects the behaviour and orientation of settlement-stage coral reef fish. This response may simply facilitate orientation to reefs; alternatively, acoustic habitat cues could also facilitate the remote selection of suitable settlement habitats. To test which components of reef noise evoke behavioural responses in larval fish, we used light traps to measure the responses of a diverse range of settlement-stage fish to the filtered 'high' (570–2000 Hz)- and 'low' (<570 Hz)-frequency components of reef noise and compared these catches with those from control 'silent' traps. Of the seven families represented by >10 individuals, four (Pomacentridae, Apogonidae, Lethrinidae and Gobiidae) were caught in significantly greater numbers in the high-frequency traps than either the low-frequency or the silent traps. The Syngnathidae preferred high- to low-frequency traps, while the Blenniidae preferred high-frequency to silent traps. Only the Siganidae showed no preference between any of the sound treatments. Although some species-level variation in response was found, the general trend was a preference for high-frequency traps. This study suggests that most settlement-stage fish select the higher-frequency audible component of reef noise, which is produced mainly by marine invertebrates, as a means of selectively orienting towards suitable settlement habitats. The results highlight potential impacts of anthropogenic noise pollution and habitat modification in affecting the natural behaviour of reef fish at a critical stage in their life history.
+
+SOURCE: Animal behaviour
+PDF URL: None
+CITED BY COUNT: 120
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Coral reef fish', 'Pomacentridae', 'Invertebrate', 'Habitat', 'Fishery', 'Ecology', 'Coral', 'Pelagic zone', 'Biology', 'Environmental science']

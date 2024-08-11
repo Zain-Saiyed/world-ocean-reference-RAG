@@ -1,0 +1,12 @@
+ID: W2042376721
+TITLE: Response of diatoms distribution to global warming and potential implications: A global model study
+AUTHOR: ['Laurent Bopp', 'Olivier Aumont', 'Patricia Cadule', 'Séverine Alvain', 'Marion Gehlen']
+ABSTRACT:
+Using a global model of ocean biogeochemistry coupled to a climate model, we explore the effect of climate change on the distribution of diatoms, a key phytoplankton functional group. Our model results suggest that climate change leads to more nutrient‐depleted conditions in the surface ocean and that it favors small phytoplankton at the expense of diatoms. At 4xCO 2 , diatoms relative abundance is reduced by more than 10% at the global scale and by up to 60% in the North Atlantic and in the subantarctic Pacific. This simulated change in the ecosystem structure impacts oceanic carbon uptake by reducing the efficiency of the biological pump, thus contributing to the positive feedback between climate change and the ocean carbon cycle. However, our model simulations do not identify this biological mechanism as a first‐order process in the response of ocean carbon uptake to climate change.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2005GL023653
+CITED BY COUNT: 357
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Environmental science', 'Climate change', 'Biogeochemistry', 'Effects of global warming on oceans', 'Carbon cycle', 'Global warming', 'Ecosystem model', 'Oceanography', 'Ecosystem', 'Global change', 'Abundance (ecology)', 'Biological pump', 'Ecology', 'Atmospheric sciences', 'Nutrient', 'Biology', 'Geology']

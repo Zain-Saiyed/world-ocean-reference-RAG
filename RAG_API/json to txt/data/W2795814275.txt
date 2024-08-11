@@ -1,0 +1,12 @@
+ID: W2795814275
+TITLE: Microplastics research—from sink to source
+AUTHOR: ['Chelsea M. Rochman']
+ABSTRACT:
+Microplastics are ubiquitous not just in the ocean but also on land and in freshwater systems
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 832
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microplastics', 'Sink (geography)', 'Environmental science', 'Biology', 'Ecology', 'Geography', 'Cartography']

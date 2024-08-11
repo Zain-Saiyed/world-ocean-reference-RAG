@@ -1,0 +1,12 @@
+ID: W1973095441
+TITLE: Potential impact of climate change on marine export production
+AUTHOR: ['Laurent Bopp', 'Patrick Monfray', 'Olivier Aumont', 'Jean‐Louis Dufresne', 'Hervé Le Treut', 'Gurvan Madec', 'Laurent Terray', 'James C. Orr']
+ABSTRACT:
+Future climate change will affect marine productivity, as well as other many components of Earth system. We have investigated the response of marine productivity to global warming with two different ocean biogeochemical schemes and two different atmosphere‐ocean coupled general circulation models (GCM). Both coupled GCMs were used without flux correction to simulate climate response to increased greenhouse gases (+1% CO 2 /yr for 80 years). At 2×CO 2 , increased stratification leads to both reduced nutrient supply and increased light efficiency. Both effects drive a reduction in marine export production (−6%), although regionally changes can be both negative and positive (from −15% zonal average in the tropics to +10% in the Southern Ocean). Both coupled models and both biogeochemical schemes simulate a poleward shift of marine production due mainly to a longer growing season at high latitudes. At low latitudes, the effect of reduced upwelling prevails. The resulting reduction in marine productivity, and other marine resources, could become detectable in the near future, if appropriate long‐term observing systems are implemented.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: None
+CITED BY COUNT: 463
+PUBLICATION YEAR: 2001
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Environmental science', 'Upwelling', 'Climate change', 'Productivity', 'Effects of global warming on oceans', 'Oceanography', 'Climatology', 'Tropics', 'Global warming', 'New production', 'Greenhouse gas', 'Greenhouse effect', 'Marine ecosystem', 'Latitude', 'Atmospheric sciences', 'Nutrient', 'Ecosystem', 'Phytoplankton', 'Geology', 'Ecology', 'Geodesy', 'Biology', 'Economics', 'Macroeconomics']

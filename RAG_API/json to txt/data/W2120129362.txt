@@ -1,0 +1,12 @@
+ID: W2120129362
+TITLE: Global marine primary production constrains fisheries catches
+AUTHOR: ['Emmanuel Chassot', 'Sylvain Bonhommeau', 'Nicholas K. Dulvy', 'Frédéric Mélin', 'Reg Watson', 'Didier Gascuel', 'O. Le Pape']
+ABSTRACT:
+Primary production must constrain the amount of fish and invertebrates available to expanding fisheries; however the degree of limitation has only been demonstrated at regional scales to date. Here we show that phytoplanktonic primary production, estimated from an ocean-colour satellite (SeaWiFS), is related to global fisheries catches at the scale of Large Marine Ecosystems, while accounting for temperature and ecological factors such as ecosystem size and type, species richness, animal body size, and the degree and nature of fisheries exploitation. Indeed we show that global fisheries catches since 1950 have been increasingly constrained by the amount of primary production. The primary production appropriated by current global fisheries is 17-112% higher than that appropriated by sustainable fisheries. Global primary production appears to be declining, in some part due to climate variability and change, with consequences for the near future fisheries catches.
+
+SOURCE: Ecology letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1461-0248.2010.01443.x
+CITED BY COUNT: 367
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Fishery', 'Marine ecosystem', 'Ecosystem', 'SeaWiFS', 'Production (economics)', 'Primary producers', 'Species richness', 'Climate change', 'Fisheries management', 'Ecology', 'Environmental science', 'Biology', 'Fishing', 'Phytoplankton', 'Macroeconomics', 'Nutrient', 'Economics']

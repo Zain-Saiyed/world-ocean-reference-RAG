@@ -1,0 +1,12 @@
+ID: W2562777136
+TITLE: The impact of trawling on the epibenthic megafauna of the west Greenland shelf
+AUTHOR: ['Chris Yesson', 'Jessica C. Fisher', 'Taylor Gorham', 'Chris Turner', 'Nanette Hammeken Arboe', 'Martin E. Blicher', 'K Kemp']
+ABSTRACT:
+Benthic habitats are important elements of polar marine environments, but can be vulnerable to anthropogenic influences such as trawling. Bottom trawling can reduce diversity and alter communities, although some habitats show resilience. The shrimp trawl fishery of West Greenland is a significant part of Greenland's economy. It operates along the west coast from the narrow rockier shelf of the south, up to deeper, muddy areas around Disko Bay. Here we use a benthic drop camera to sample 201 sites between latitudes 60–72°N and depths of 61–725m. Linear models examined relationships of taxon abundance and diversity with bottom trawling intensity and environment (depth, temperature, current, iceberg concentration). Trawling intensity is the most important factor determining the overall abundance of benthic organisms, accounting for 12–16% of variance, although environmental conditions also show significant associations. Sessile erect organisms such as corals show a significant negative response to trawling. Soft sediment communities show a higher resilience than rocky areas. On soft sediments significantly lower abundance characterises sites trawled under five years ago. On hard/mixed ground reduced abundance remains characteristic of sites trawled a decade ago. Continued monitoring of benthic habitats is an essential part of evaluating the ongoing impacts of trawl fisheries.
+
+SOURCE: ICES journal of marine science
+PDF URL: None
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Trawling', 'Benthic zone', 'Bottom trawling', 'Megafauna', 'Oceanography', 'Fishery', 'Bay', 'Abundance (ecology)', 'Iceberg', 'Habitat', 'Continental shelf', 'Geography', 'Environmental science', 'Ecology', 'Fishing', 'Geology', 'Sea ice', 'Biology', 'Pleistocene', 'Archaeology']

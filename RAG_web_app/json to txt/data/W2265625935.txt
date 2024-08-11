@@ -1,0 +1,12 @@
+ID: W2265625935
+TITLE: Justifying the need for collaborative management of fisheries bycatch: A lesson from marine turtles in Australia
+AUTHOR: ['Kimberly A. Riskas', 'Mariana M. P. B. Fuentes', 'Mark Hamann']
+ABSTRACT:
+Bycatch of non-target species in commercial fisheries is a major source of anthropogenic injury and mortality for marine megafauna, including marine turtles. Their long life histories and large-scale habitat use increase the risk of interaction with multiple fleets and gear types, with consequences for population decline or collapse. However, assessment of bycatch species rarely extends beyond a single-fishery management approach, without considering the impacts of additional bycatch incurred in other fisheries. To demonstrate the need for cross-jurisdictional assessment of turtle bycatch, we evaluate the cumulative patterns of turtle bycatch in Australian commercial fisheries. We sourced logbook bycatch records from multiple fisheries in three separate management jurisdictions over the period 2000–2013. The highest bycatch per unit effort values were reported in pelagic gillnets, otter trawls and pelagic longlines. Spatial analysis revealed a bycatch ‘hotspot’ in the Gulf of Carpentaria, where commercial fisheries impact multiple turtle species and genetic stocks. Our results illustrate the need to set cumulative bycatch quotas for marine turtles, and to evaluate turtle bycatch at the population level instead of separately within individual fisheries. We stress the need for timely collaboration between management agencies in order to implement effective, biologically relevant management strategies for marine turtles and other vulnerable taxa.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Bycatch', 'Fishery', 'Sea turtle', 'Fishing', 'Turtle (robot)', 'Pelagic zone', 'Otter', 'Fisheries management', 'Population', 'Marine protected area', 'Geography', 'Ecology', 'Habitat', 'Biology', 'Demography', 'Sociology']

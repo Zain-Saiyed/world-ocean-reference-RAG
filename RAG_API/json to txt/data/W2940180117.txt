@@ -1,0 +1,12 @@
+ID: W2940180117
+TITLE: Mapping the spatial and temporal variability of the upwelling systems of the Australian south-eastern coast using 14-year of MODIS data
+AUTHOR: ['Zhi Huang', 'Xiaohua Wang']
+ABSTRACT:
+Coastal upwelling is important for marine ecosystems and the economy, because of its elevated primary and secondary productivity and large potential for fish catch. This study developed a scale-independent and semi-automatic image processing technique to map the upwelling areas along the 4500 km south-eastern coast of Australia from 14-year monthly MODIS Sea Surface Temperature (SST) data. The results show that there is significant spatial variability in the mapped upwelling areas, month to month, season to season and year to year. There is also strong temporal (month to month, seasonal and inter-annual) variability of the upwelling characteristics in area of influence, SST anomaly, chlorophyll-a concentrations and upwelling speed. This study identifies two prominent upwelling systems, the NSW system along the coast of New South Wales and the WVIC/SA system along the coast of western Victoria and adjacent South Australia. The NSW coastal upwelling system occurs more or less continuously from austral spring to autumn. The WVIC/SA coastal upwelling system is a seasonal upwelling system occurring in the austral summer. The NSW coastal upwelling system has a stronger upwelling intensity than the WVIC/SA system, in terms of area of influence, SST anomaly, chlorophyll-a concentrations and upwelling speed. We believe that the NSW coastal upwelling system, especially the northern and central parts, is mainly driven by the East Australian Current (EAC) and its eddies; while, the WVIC/SA coastal upwelling is a typical wind-driven system. In addition, the results indicate that the El Nino Southern Oscillation (ENSO) events are likely to have a low-to-moderate impact on both the NSW and the WVIC/SA coastal upwelling systems. The El Nino (La Nina) events tend to strengthen (weaken) upwelling intensity.
+
+SOURCE: Remote sensing of environment
+PDF URL: None
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Upwelling', 'Oceanography', 'Sea surface temperature', 'Geology', 'Climatology', 'Monsoon', 'Marine ecosystem', 'Ecosystem', 'Environmental science', 'Ecology', 'Biology']

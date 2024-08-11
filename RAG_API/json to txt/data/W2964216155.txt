@@ -1,0 +1,12 @@
+ID: W2964216155
+TITLE: Atlantis: A spatially explicit end‐to‐end marine ecosystem model with dynamically integrated physics, ecology and socio‐economic modules
+AUTHOR: ['Asta Audzijonytė', 'Heidi Pethybridge', 'Javier Porobić', 'Rebecca Gorton', 'Isaac C. Kaplan', 'Elizabeth A. Fulton']
+ABSTRACT:
+Abstract Marine ecosystem management is increasingly expected to take into account a wide range of ecological and socio‐economic factors. Decision‐making is helped by end‐to‐end ecosystem models that allow exploration of alternative management scenarios given a complex range of interacting factors. We present Atlantis – a spatially structured largely deterministic end‐to‐end marine ecosystem model written in C, available for all major operating systems, based on dynamically interacting physics, biology, fisheries, management, assessment and economics submodels. A detailed installation guide and example application files are also provided. One of the main features of Atlantis is its modularity. At the simplest level Atlantis can have uniform forcing of oceanographic processes, a single primary producer and a consumer. At the most complex level, Atlantis can be used with a range of environmentally driven ecological responses, complex and habitat‐dependent food web, dynamic assessment, management and fishing effort driven by market forces and human behaviour. The combination chosen should be guided by the available data and the questions to be answered. Atlantis provides a large and customizable list of output files and summary statistics that can be analysed and plotted using a number of dedicated r packages. When applying the Atlantis package, the users should be aware of the caveats associated with complex models, such as parameter and structural model uncertainty and challenges interpreting interactions of multiple processes.
+
+SOURCE: Methods in ecology and evolution
+PDF URL: https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13272
+CITED BY COUNT: 55
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Modularity (biology)', 'Range (aeronautics)', 'Ecosystem', 'Fisheries management', 'Ecosystem-based management', 'Ecology', 'Forcing (mathematics)', 'Computer science', 'Fishing', 'Environmental resource management', 'Data science', 'Environmental science', 'Engineering', 'Biology', 'Physics', 'Genetics', 'Atmospheric sciences', 'Aerospace engineering']

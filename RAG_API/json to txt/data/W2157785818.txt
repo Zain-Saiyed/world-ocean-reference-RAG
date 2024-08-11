@@ -1,0 +1,12 @@
+ID: W2157785818
+TITLE: An ocean of surprises – Trends in human use, unexpected dynamics and governance challenges in areas beyond national jurisdiction
+AUTHOR: ['Andrew Merrie', 'Daniel C. Dunn', 'Marc Métian', 'André M. Boustany', 'Yoshinobu Takei', 'Alex Oude Elferink', 'Yoshitaka Ota', 'Villy Christensen', 'Patrick N. Halpin', 'Henrik Österblom']
+ABSTRACT:
+The expanse of ocean which makes up all marine areas beyond national jurisdiction has been characterized as the last frontier of exploitation on the planet, a figurative final “Wild West”. Existing users of areas beyond national jurisdiction, with the exception of fisheries, currently have a limited footprint there as a consequence, in part, of substantial hurdles in technological development that need to be overcome before many resources can be extracted at a commercially viable scale. However, we argue surprise shifts perpetuated by both established and emerging users could lead to an expansion in actors taking opportunities to chase lucrative resources that they are currently constrained from exploiting. Rapid development could also lead to a “crowded ocean” due to the multiplication of users which could present a problem given the current lack of a unified institutional framework for governance connecting the different user groups. Here, we have collated trends in human use of areas beyond national jurisdiction and offer a framework for, and examples of, unexpected dynamics relevant to living and non-living marine resources. Such an approach is necessary in order to begin to mobilize an adequate governance response to changing conditions and uses of areas beyond national jurisdiction. This governance response must be able to govern established or potential users, be flexible and adaptive in response to unexpected and unpredictable dynamics and be able to transform in the face of unpredictable future uses of this vast area. Here we present a set of institutional design principles as a first tentative step in this direction.
+
+SOURCE: Global environmental change
+PDF URL: None
+CITED BY COUNT: 102
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Jurisdiction', 'Corporate governance', 'Surprise', 'Frontier', 'Business', 'Political science', 'Environmental planning', 'Environmental resource management', 'Geography', 'Law', 'Sociology', 'Economics', 'Communication', 'Finance']

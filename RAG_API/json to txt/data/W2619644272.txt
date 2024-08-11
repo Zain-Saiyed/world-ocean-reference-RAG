@@ -1,0 +1,12 @@
+ID: W2619644272
+TITLE: An analysis of sailfish daily activity in the Eastern Pacific Ocean using satellite tagging and recreational fisheries data
+AUTHOR: ['Bruce G. Pohlot', 'Nelson M. Ehrhardt']
+ABSTRACT:
+Abstract Analysing hourly behavioural patterns of Pacific sailfish, Istiophorus platypterus, provide an ecological perspective relative to their exploitation. In the Pacific off Central America, sailfish sustain important recreational fisheries while impacted as bycatch in commercial tuna fisheries. Given their susceptibility and potential for overexploitation, it is important to define their behavioural activity to better regulate exploitation patterns. In this study, we discuss concepts of sailfish vision related to light availability and its role on successful foraging patterns. For this purpose, activity patterns were analysed using data collected by satellite tags equipped with accelerometers and, separately, recreational fishery statistics from the region. Data are incorporated with physical and ecological information to offer a means of analysing hourly habitat use. The results reveal a positive photokinetic response to sunlight in both sailfish acceleration activity and recreational fishery statistics. Tagged sailfish also showed this activity increase as a response to full moon light. Such information is further integrated with knowledge of intra-species relationships and other key species within the pelagic fish community. Findings on daily behaviour allow the drawing of some generic conceptualizations that aid understanding of sailfish community dynamics in the region.
+
+SOURCE: ICES journal of marine science
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Overexploitation', 'Bycatch', 'Fishery', 'Recreation', 'Geography', 'Tuna', 'Recreational fishing', 'Foraging', 'Fishing', 'Stock assessment', 'Habitat', 'Ecology', 'Fish <Actinopterygii>', 'Biology']

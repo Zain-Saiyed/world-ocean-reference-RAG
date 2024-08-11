@@ -1,0 +1,12 @@
+ID: W2904648382
+TITLE: The evolving response of mesopelagic fishes to declining midwater oxygen concentrations in the southern and central California Current
+AUTHOR: ['J. Anthony Koslow', 'Pete Davison', 'Erica M. Ferrer', 'Sylvia Patricia Adelheid Jiménez Rosenberg', 'Gerardo Aceves-Medina', 'William Watson']
+ABSTRACT:
+Abstract Declining oxygen concentrations in the deep ocean, particularly in areas with pronounced oxygen minimum zones (OMZs), are a growing global concern related to global climate change. Its potential impacts on marine life remain poorly understood. A previous study suggested that the abundance of a diverse suite of mesopelagic fishes off southern California was closely linked to trends in midwater oxygen concentration. This study expands the spatial and temporal scale of that analysis to examine how mesopelagic fishes are responding to declining oxygen levels in the California Current (CC) off central, southern, and Baja California. Several warm-water mesopelagic species, apparently adapted to the shallower, more intense OMZ off Baja California, are shown to be increasing despite declining midwater oxygen concentrations and becoming increasingly dominant, initially off Baja California and subsequently in the CC region to the north. Their increased abundance is associated with warming near-surface ocean temperature, the warm phase of the Pacific Decadal oscillation and Multivariate El Niño-Southern Oscillation Index, and the increased flux of Pacific Equatorial Water into the southern CC.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/76/3/626/31238626/fsy154.pdf
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mesopelagic zone', 'Oceanography', 'Current (fluid)', 'Abundance (ecology)', 'Environmental science', 'Geology', 'Pelagic zone', 'Fishery', 'Biology']

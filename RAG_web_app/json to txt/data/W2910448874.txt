@@ -1,0 +1,12 @@
+ID: W2910448874
+TITLE: Krill (Euphausia superba) distribution contracts southward during rapid regional warming
+AUTHOR: ['Angus Atkinson', 'Simeon L. Hill', 'Evgeny A. Pakhomov', 'Volker Siegel', 'Christian S. Reiss', 'Valerie J. Loeb', 'Deborah K. Steinberg', 'Katrin Schmidt', 'Geraint A. Tarling', 'Laura Gerrish', 'Sévrine F. Sailley']
+ABSTRACT:
+High-latitude ecosystems are among the fastest warming on the planet1. Polar species may be sensitive to warming and ice loss, but data are scarce and evidence is conflicting2–4. Here, we show that, within their main population centre in the southwest Atlantic sector, the distribution of Euphausia superba (hereafter, ‘krill’) has contracted southward over the past 90 years. Near their northern limit, numerical densities have declined sharply and the population has become more concentrated towards the Antarctic shelves. A concomitant increase in mean body length reflects reduced recruitment of juvenile krill. We found evidence for environmental controls on recruitment, including a reduced density of juveniles following positive anomalies of the Southern Annular Mode. Such anomalies are associated with warm, windy and cloudy weather and reduced sea ice, all of which may hinder egg production and the survival of larval krill5. However, the total post-larval density has declined less steeply than the density of recruits, suggesting that survival rates of older krill have increased. The changing distribution is already perturbing the krill-centred food web6 and may affect biogeochemical cycling7,8. Rapid climate change, with associated nonlinear adjustments in the roles of keystone species, poses challenges for the management of valuable polar ecosystems3. As the southwest Atlantic sector of the Southern Ocean has warmed, the distribution of a key species, Antarctic krill, has contracted southwards. This has occurred in tandem with a decline in recruitment of juveniles, linked to increasingly positive anomalies of the Southern Annular Mode.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 229
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Euphausia', 'Antarctic krill', 'Krill', 'Population', 'Oceanography', 'Sea ice', 'Biology', 'Environmental science', 'Ecology', 'Geology', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2552887772
+TITLE: Genetic profiling links changing sea-ice to shifting beluga whale migration patterns
+AUTHOR: ['Greg O’Corry‐Crowe', 'Andrew R. Mahoney', 'Robert Suydam', 'Lori T. Quakenbush', 'Alex Whiting', 'Lloyd F. Lowry', 'Lois A. Harwood']
+ABSTRACT:
+There is increasing concern over how Arctic fauna will adapt to climate related changes in sea-ice. We used long-term sighting and genetic data on beluga whales ( Delphinapterus leucas ) in conjunction with multi-decadal patterns of sea-ice in the Pacific Arctic to investigate the influence of sea-ice on spring migration and summer residency patterns. Substantial variations in sea-ice conditions were detected across seasons, years and sub-regions, revealing ice–ocean dynamics more complex than Arctic-wide trends suggest. This variation contrasted with a highly consistent pattern of migration and residency by several populations, indicating that belugas can accommodate widely varying sea-ice conditions to perpetuate philopatry to coastal migration destinations. However, a number of anomalous migration and residency events were detected and coincided with anomalous ice years, and in one case with an increase in killer whale ( Orcinus orca ) sightings and reported predation on beluga whales. The behavioural shifts were likely driven by changing sea-ice and associated changes in resource dispersion and predation risk. Continued reductions in sea-ice may result in increased predation at key aggregation areas and shifts in beluga whale behaviour with implications for population viability, ecosystem structure and the subsistence cultures that rely on them.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2016.0404
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Beluga Whale', 'Sea ice', 'Beluga', 'Arctic ice pack', 'Arctic', 'Oceanography', 'Biology', 'Fishery', 'Population', 'Philopatry', 'Whale', 'Marine ecosystem', 'Predation', 'Forage fish', 'Ecology', 'Ecosystem', 'Biological dispersal', 'Geology', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W3041730205
+TITLE: Lysosomes, Autophagy, and Hormesis in Cell Physiology, Pathology, and Age-Related Disease
+AUTHOR: ['Michael N. Moore']
+ABSTRACT:
+Autophagy has been strongly linked with hormesis, however, it is only relatively recently that the mechanistic basis underlying this association has begun to emerge. Lysosomal autophagy is a group of processes that degrade proteins, protein aggregates, membranes, organelles, segregated regions of cytoplasm, and even parts of the nucleus in eukaryotic cells. These degradative processes are evolutionarily very ancient and provide a survival capability for cells that are stressed or injured. Autophagy and autophagic dysfunction have been linked with many aspects of cell physiology and pathology in disease processes; and there is now intense interest in identifying various therapeutic strategies involving its regulation. The main regulatory pathway for augmented autophagy is the mechanistic target of rapamycin (mTOR) cell signaling, although other pathways can be involved, such as 5'-adenosine monophosphate-activated protein kinase. Mechanistic target of rapamycin is a key player in the many highly interconnected intracellular signaling pathways and is responsible for the control of cell growth among other processes. Inhibition of mTOR (specifically dephosphorylation of mTOR complex 1) triggers augmented autophagy and the search is on the find inhibitors that can induce hormetic responses that may be suitable for treating many diseases, including many cancers, type 2 diabetes, and age-related neurodegenerative conditions.
+
+SOURCE: Dose-response
+PDF URL: https://journals.sagepub.com/doi/pdf/10.1177/1559325820934227
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Autophagy', 'PI3K/AKT/mTOR pathway', 'Cell biology', 'Biology', 'Mechanistic target of rapamycin', 'Lysosome', 'Cell', 'Signal transduction', 'Intracellular', 'Cytoplasm', 'Programmed cell death', 'Hormesis', 'Apoptosis', 'Biochemistry', 'Oxidative stress', 'Enzyme']

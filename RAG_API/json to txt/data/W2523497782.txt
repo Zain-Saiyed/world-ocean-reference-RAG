@@ -1,0 +1,12 @@
+ID: W2523497782
+TITLE: Distribution of mercury species across a zonal section of the eastern tropical South Pacific Ocean (U.S. GEOTRACES GP16)
+AUTHOR: ['Katlin L. Bowman', 'Chad R. Hammerschmidt', 'Carl H. Lamborg', 'Gretchen J. Swarr', 'Alison M. Agather']
+ABSTRACT:
+Monomethylmercury is a neurotoxin formed in the ocean that accumulates in fish. To better understand the chemical cycling of mercury (Hg) in the ocean, multiple Hg species were measured during the 2013 U.S. GEOTRACES section in the eastern tropical South Pacific Ocean (GP16) from Peru to Tahiti. Total Hg (HgT), elemental Hg (Hg0), monomethyl-Hg (MMHg), and dimethyl-Hg (DMHg) were measured in high resolution across the section, which included productive surface waters in the Peru upwelling region, a suboxic oxygen minimum zone (OMZ), and an expansive hydrothermal vent plume from the East Pacific Rise (EPR). Filtered HgT accumulated in upwelled waters near the coast of Peru where oxygen concentrations were the lowest, and MMHg represented 10–20% of the total Hg upwelling flux. The buoyant hydrothermal plume was not enriched with Hg; however, water below 2500 m had anomalously high concentrations of filtered HgT beneath the plume and in warmer bottom waters in the eastern part of the section. Elemental Hg averaged < 10% of HgT in the water column and concentrations were greatest near the Peru margin. Concentrations of MMHg and DMHg were greatest in low-oxygen thermocline waters, and in the upwelling region, vertical maxima of MMHg were found at the top, core, and bottom of the suboxic OMZ. The MMHg:DMHg molar ratio was variable throughout the upper water column, however, DMHg was the dominant form of methylated Hg in deep water masses. This section is the first examination of Hg speciation and distributions near the Peru coast, a region that supports a highly productive fishery and a potential source of MMHg to consumers of seafood.
+
+SOURCE: Marine chemistry
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S030442031630130X
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Upwelling', 'Geotraces', 'Water column', 'Oceanography', 'Plume', 'Geology', 'Oxygen minimum zone', 'Thermocline', 'Water mass', 'Bottom water', 'Seawater', 'Mercury (programming language)', 'Computer science', 'Programming language', 'Physics', 'Thermodynamics']

@@ -1,0 +1,12 @@
+ID: W2888401305
+TITLE: Enhancing the robustness of a national assessment of the marine environment
+AUTHOR: ['Karen Evans', 'Nicholas J. Bax', 'David C. Smith']
+ABSTRACT:
+The Australian government produces an independent report on the state of the Australian environment every five years. Based on 123 assessments of key pressures, key components of the marine environment, and the effectiveness of management responses to those pressures, the 2016 assessment identified that the overall state of the Australian marine environment can be regarded as good. However, the historical impacts of a number of pressures (e.g. commercial and recreational fishing) and ongoing pressures caused by activities currently inadequately managed (e.g. climate change and marine debris) have, and are continuing to, deteriorate its state. As a result, the outlook for the marine environment can be regarded as mixed. Addressing the challenges facing the marine environment will require a coordinated, collaborative and dedicated effort across jurisdictions and sectors. A number of improvements to the assessment framework were implemented for the 2016 report, the most substantial being the development of clear and repeatable processes for information synthesis and assessment. This improved transparency and supported the robustness of conclusions made. Improved communication of uncertainties associated with assessments, and comparability with assessments in previous reports has furthered the quality of the report and laid the foundation for improvements going forward. Processes that will continue to improve assessments include identifying key indicators that can be reliably and effectively monitored, improving data provision processes, enhancing assessment frameworks and reporting processes to ensure that approaches are integrated and support the delivery of tangible and practical risk mitigation and adaptation pathways.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Comparability', 'Environmental resource management', 'Impact assessment', 'Robustness (evolution)', 'Risk analysis (engineering)', 'Computer science', 'Environmental planning', 'Business', 'Process management', 'Environmental science', 'Political science', 'Biochemistry', 'Chemistry', 'Gene', 'Mathematics', 'Public administration', 'Combinatorics']

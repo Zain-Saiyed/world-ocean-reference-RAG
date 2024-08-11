@@ -1,0 +1,12 @@
+ID: W2142097385
+TITLE: Potential effects of climate change on Australian estuaries and fish utilising estuaries: a review
+AUTHOR: ['Bronwyn M. Gillanders', 'Travis S. Elsdon', 'Ian Halliday', 'Gregory P. Jenkins', 'Julie B. Robins', 'F.J. Valesini']
+ABSTRACT:
+Estuaries are especially vulnerable to the impacts of climate change because changes in climatic and hydrologic variables that influence freshwater and marine systems will also affect estuaries. We review potential impacts of climate change on Australian estuaries and their fish. Geographic differences are likely because southern Australian climates are predicted to become warmer and drier, whereas northern regions may see increased precipitation. Environmental factors, including salinity gradients, suspended sediment, dissolved oxygen and nutrient concentrations, will be influenced by changing freshwater input and other climate variables. Potential impacts will vary depending on the geomorphology of the estuary and the level of build-up of sand bars across estuarine entrances. Changes to estuarine fish assemblages will depend on associated changes to salinity and estuarine-mouth morphology. Marine migrants may be severely affected by closure of estuarine mouths, depending on whether species ‘must’ use estuarine habitat and the level of migratory v. resident individuals. Depending on how fish in coastal waters locate estuaries, there may be reduced cues associated with estuarine mouths, particularly in southern Australia, potentially influencing abundance. In summary, climate change is expected to have major consequences for Australian estuaries and associated fish, although the nature of impacts will show significant regional variation.
+
+SOURCE: Marine and freshwater research
+PDF URL: https://www.publish.csiro.au/mf/pdf/MF11047
+CITED BY COUNT: 198
+PUBLICATION YEAR: 2011
+TYPE: review
+CONCEPTS: ['Estuary', 'Climate change', 'Habitat', 'Salinity', 'Environmental science', 'Fishery', 'Oceanography', 'Ecology', 'Geography', 'Biology', 'Geology']

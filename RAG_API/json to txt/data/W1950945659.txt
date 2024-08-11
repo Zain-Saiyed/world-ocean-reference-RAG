@@ -1,0 +1,12 @@
+ID: W1950945659
+TITLE: The influence of coral reefs and climate change on wave‐driven flooding of tropical coastlines
+AUTHOR: ['Ellen Quataert', 'Curt D. Storlazzi', 'Arnold van Rooijen', 'Olivia M. Cheriton', 'Ap van Dongeren']
+ABSTRACT:
+Abstract A numerical model, XBeach, calibrated and validated on field data collected at Roi‐Namur Island on Kwajalein Atoll in the Republic of Marshall Islands, was used to examine the effects of different coral reef characteristics on potential coastal hazards caused by wave‐driven flooding and how these effects may be altered by projected climate change. The results presented herein suggest that coasts fronted by relatively narrow reefs with steep fore reef slopes (~1:10 and steeper) and deeper, smoother reef flats are expected to experience the highest wave runup. Wave runup increases for higher water levels (sea level rise), higher waves, and lower bed roughness (coral degradation), which are all expected effects of climate change. Rising sea levels and climate change will therefore have a significant negative impact on the ability of coral reefs to mitigate the effects of coastal hazards in the future.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 218
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Atoll', 'Coral reef', 'Reef', 'Climate change', 'Flooding (psychology)', 'Oceanography', 'Environmental science', 'Coral', 'Geology', 'Coral bleaching', 'Climatology', 'Psychology', 'Psychotherapist']

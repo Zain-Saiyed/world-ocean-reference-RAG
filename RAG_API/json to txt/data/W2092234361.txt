@@ -1,0 +1,12 @@
+ID: W2092234361
+TITLE: Ship Sources of Ambient Noise
+AUTHOR: ['Donald Ross']
+ABSTRACT:
+The rapid increase in world shipping results in an increase in low-frequency ambient noise at an average rate of about 1/2 dB per year. During the past 10 years there has been a virtual revolution in the sizes and speeds of merchant ships, resulting in significant increases in the noise radiated by the average ship. This trend is continuing. In this paper, the trends in world merchant shipping will be presented, including important changes in propulsion plants as well as in numbers and sizes of ships. The need for radiated noise measurements of these new ship types will be stressed. Ambient noise is also dependent on the geographical distribution of shipping. The LRAPP-sponsored program to establish standard shipping distributions for the Northern Hemisphere will be discussed, and the reliability of current information will be assessed.
+
+SOURCE: IEEE journal of oceanic engineering
+PDF URL: None
+CITED BY COUNT: 147
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Noise (video)', 'Propulsion', 'Ambient noise level', 'Marine engineering', 'Environmental science', 'Reliability (semiconductor)', 'Noise measurement', 'Current (fluid)', 'Meteorology', 'Engineering', 'Acoustics', 'Computer science', 'Aerospace engineering', 'Sound (geography)', 'Electrical engineering', 'Geography', 'Physics', 'Noise reduction', 'Artificial intelligence', 'Image (mathematics)', 'Power (physics)', 'Quantum mechanics']

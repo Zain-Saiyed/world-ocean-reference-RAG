@@ -1,0 +1,12 @@
+ID: W1994844377
+TITLE: Recent melt rates of Canadian arctic ice caps are the highest in four millennia
+AUTHOR: ['David Fisher', 'James Zheng', 'David Burgess', 'Christian Zdanowicz', 'Christophe Kinnard', 'Martin Sharp', 'J. Bourgeois']
+ABSTRACT:
+There has been a rapid acceleration in ice-cap melt rates over the last few decades across the entire Canadian Arctic. Present melt rates exceed the past rates for many millennia. New shallow cores at old sites bring their melt series up-to-date. The melt-percentage series from the Devon Island and Agassiz (Ellesmere Island) ice caps are well correlated with the Devon net mass balance and show a large increase in melt since the middle 1990s. Arctic ice core melt series (latitude range of 67 to 81 N) show the last quarter century has had the highest melt in two millennia and The Holocene-long Agassiz melt record shows that the last 25 years has the highest melt in 4200 years. The Agassiz melt rates since the middle 1990s resemble those of the early Holocene thermal maximum over 9000 years ago.
+
+SOURCE: Global and planetary change
+PDF URL: None
+CITED BY COUNT: 93
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Geology', 'Arctic', 'Holocene', 'Ice core', 'Ice caps', 'Series (stratigraphy)', 'Physical geography', 'Arctic ice pack', 'Oceanography', 'Geography', 'Paleontology', 'Glacier']

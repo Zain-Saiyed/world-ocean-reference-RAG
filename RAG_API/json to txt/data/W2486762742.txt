@@ -1,0 +1,12 @@
+ID: W2486762742
+TITLE: Rethinking the Role of Salps in the Ocean
+AUTHOR: ['Natasha Henschke', 'Jason D. Everett', 'Anthony J. Richardson', 'Iain M. Suthers']
+ABSTRACT:
+Salps are barrel-shaped, gelatinous zooplankton that regularly form large swarms. They have historically been ignored because they are difficult to sample and their gelatinous body structure suggests that they are unimportant in food webs and biogeochemical cycles. We collate evidence to overturn several common misconceptions about salps that have hampered research. We show that salps play a major role in carbon sequestration and are key components of marine food webs as a food source for at least 202 species including fish, turtles, and crustaceans. The future of salps in the Anthropocene is uncertain, and therefore further research into areas such as basic rate processes and their biogeochemical impact through new and innovative laboratory and field methods is needed.
+
+SOURCE: Trends in ecology & evolution
+PDF URL: None
+CITED BY COUNT: 154
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Gelatinous zooplankton', 'Ecology', 'Food chain', 'Food web', 'Zooplankton', 'Fish <Actinopterygii>', 'Biology', 'Oceanography', 'Ecosystem', 'Fishery', 'Geology']

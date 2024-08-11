@@ -1,0 +1,12 @@
+ID: W2783538902
+TITLE: A new idea: The possibilities of offshore geothermal system in Indonesia marine volcanoes
+AUTHOR: ['Teguh Rahat Prabowo', 'Fithriyani Fauziyyah', 'Suryantini', 'Sutikno Bronto']
+ABSTRACT:
+High temperature geothermal systems in Indonesia are commonly associated with volcanic systems. It is believed that volcanoes are acting as the heat source for a geothermal system. Right now, most of the operating geothermal fields in the world are assosiating with volcanic settings which known as the conventional geothermal system. Volcanoes are created in active tectonic zone such as collision zone and MOR (mid oceanic ridge). The later is the one which formed the marine volcanoes on the sea floor. The advances of today's technology in geothermal energy has created many ideas regarding a new kind of geothermal system, including the ideas of developing the utilization of marine volcanoes. These marine volcanoes are predicted to be hotter than the land system due to the shorter distance to the magma chamber. Seamounts like NEC, Banua Wuhu, and Kawio Barat in Indonesia Sea are good spots to be studied. Methods such as remote sensing using NOAA images, sonar, and MAPR are commonly used, eventhough these would be more accurate with more detailed techniques. This has become the challenge for all geothermal scientists to overcome for a better study result.
+
+SOURCE: IOP conference series. Earth and environmental science
+PDF URL: https://iopscience.iop.org/article/10.1088/1755-1315/103/1/012012/pdf
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Geothermal gradient', 'Volcano', 'Geology', 'Seamount', 'Earth science', 'Geothermal energy', 'Tectonics', 'Magma', 'Submarine pipeline', 'Geothermal exploration', 'Seismology', 'Oceanography', 'Geophysics']

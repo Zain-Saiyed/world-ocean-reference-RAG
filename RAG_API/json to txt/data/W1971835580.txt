@@ -1,0 +1,12 @@
+ID: W1971835580
+TITLE: Biomarkers in Natural Fish Populations Indicate Adverse Biological Effects of Offshore Oil Production
+AUTHOR: ['Lennart Balk', 'Ketil Hylland', 'Tomas Hansson', 'Marc H.G. Berntssen', 'Jonny Beyer', 'Grete Jonsson', 'Alf G. Melbye', 'Merete Grung', 'Bente E. Torstensen', 'Jan Fredrik Børseth', 'Halldóra Skarphéðinsdóttir', 'Jarle Klungsøyr']
+ABSTRACT:
+Despite the growing awareness of the necessity of a sustainable development, the global economy continues to depend largely on the consumption of non-renewable energy resources. One such energy resource is fossil oil extracted from the seabed at offshore oil platforms. This type of oil production causes continuous environmental pollution from drilling waste, discharge of large amounts of produced water, and accidental spills.Samples from natural populations of haddock (Melanogrammus aeglefinus) and Atlantic cod (Gadus morhua) in two North Sea areas with extensive oil production were investigated. Exposure to and uptake of polycyclic aromatic hydrocarbons (PAHs) were demonstrated, and biomarker analyses revealed adverse biological effects, including induction of biotransformation enzymes, oxidative stress, altered fatty acid composition, and genotoxicity. Genotoxicity was reflected by a hepatic DNA adduct pattern typical for exposure to a mixture of PAHs. Control material was collected from a North Sea area without oil production and from remote Icelandic waters. The difference between the two control areas indicates significant background pollution in the North Sea.It is most remarkable to obtain biomarker responses in natural fish populations in the open sea that are similar to the biomarker responses in fish from highly polluted areas close to a point source. Risk assessment of various threats to the marine fish populations in the North Sea, such as overfishing, global warming, and eutrophication, should also take into account the ecologically relevant impact of offshore oil production.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0019735&type=printable
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Overfishing', 'Environmental science', 'Aquaculture', 'Environmental pollution', 'Gadus', 'Fishery', 'Environmental protection', 'Biology', 'Fish <Actinopterygii>']

@@ -1,0 +1,30 @@
+ID: W1915334364
+TITLE: Ranking Port Cities with High Exposure and Vulnerability to Climate Extremes
+AUTHOR: ['Robert J. Nicholls', 'Susan Hanson', 'Celine Herweijer', 'Nicola Patmore', 'Stéphane Hallegatte', 'Jan Corfee-Morlot', 'Jean Château', 'Robert Muir‐Wood']
+ABSTRACT:
+This global screening study makes a first estimate of the exposure of the world's large port cities to coastal
+flooding due to storm surge and damage due to high winds. This assessment also investigates how climate
+change is likely to impact each port city's exposure to coastal flooding by the 2070s, alongside subsidence
+and population growth and urbanisation. The study provides a much more comprehensive analysis than
+earlier assessments, focusing on the 136 port cities around the world that have more than one million
+inhabitants in 2005. The analysis demonstrates that a large number of people are already exposed to coastal
+flooding in large port cities. Across all cities, about 40 million people (0.6% of the global population or
+roughly 1 in 10 of the total port city population in the cities considered here) are exposed to a 1 in 100 year
+coastal flood event.
+For present-day conditions (2005), the top ten cities in terms of exposed population are estimated to be
+Mumbai, Guangzhou, Shanghai, Miami, Ho Chi Minh City, Kolkata, Greater New York, Osaka-Kobe,
+Alexandria and New Orleans; almost equally split between developed and developing countries. When
+assets are considered, the current distribution becomes more heavily weighted towards developed
+countries, as the wealth of the cities becomes important. The top 10 cities in terms of assets exposed are
+Miami, Greater New York, New Orleans, Osaka-Kobe, Tokyo, Amsterdam, Rotterdam, Nagoya, Tampa-St
+Petersburg and Virginia Beach. These cities contain 60% of the total exposure, but are from only three
+(wealthy) countries: USA, Japan and the Netherlands. The total value of assets exposed in 2005 is across
+all cities considered here is estimated to be US$3,000 billion; corresponding to around 5% of global GDP
+in 2005 (both measured in international USD)...
+
+SOURCE: OECD environment working papers
+PDF URL: https://www.oecd-ilibrary.org/ranking-port-cities-with-high-exposure-and-vulnerability-to-climate-extremes_5kzssgshj742.pdf?itemId=%2Fcontent%2Fpaper%2F011766488208&mimeType=pdf
+CITED BY COUNT: 211
+PUBLICATION YEAR: 2008
+TYPE: report
+CONCEPTS: ['Geography', 'Flooding (psychology)', 'Port (circuit theory)', 'Urbanization', 'Population', 'Coastal flood', 'Flood myth', 'Miami', 'Metropolitan area', 'Storm surge', 'Vulnerability (computing)', 'Socioeconomics', 'Climate change', 'Storm', 'Meteorology', 'Environmental science', 'Economic growth', 'Demography', 'Sea level rise', 'Engineering', 'Oceanography', 'Archaeology', 'Computer security', 'Computer science', 'Electrical engineering', 'Psychotherapist', 'Sociology', 'Psychology', 'Soil science', 'Economics', 'Geology']

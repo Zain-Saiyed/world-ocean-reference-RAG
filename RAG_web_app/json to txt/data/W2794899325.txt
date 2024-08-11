@@ -1,0 +1,12 @@
+ID: W2794899325
+TITLE: Assessing cumulative human activities, pressures, and impacts on North Sea benthic habitats using a biological traits approach
+AUTHOR: ['Andrew Kenny', 'Christopher Jenkins', 'Daniel Wood', 'Stefan G. Bolam', 'Peter Mitchell', 'Callum Scougal', 'Adrian Judd']
+ABSTRACT:
+Abstract The application of a biological traits analysis, in the present study, has allowed benthic habitat sensitivities and their risk of impact to be mapped at a spatial scale appropriate for the assessment of the North Sea ecoregion. This study considered habitat impacts associated with five important marine sectors; bottom fishing, marine aggregate dredging, sediment disposal, renewable energy devices (tidal, waves, and wind) and the oil and gas sectors, both individually and cumulatively. The significance of the “actual” footprint of impact arising from these human activities and their associated pressures (sediment abrasion, sediment removal, smothering, and placement of hard structures) is presented and discussed. Notable differences in sensitivity to activities are seen depending on habitat type. Some of the more substantial changes in benthic habitat function evaluated are potentially associated with the placement of hard structures in shallow mobile sedimentary habitats, which result in a shift in habitat dominated by small, short-living infaunal species, to a habitat dominated by larger, longer-lived, sessile epibenthic suspension feeders. In contrast, the impacts of bottom fishing, dredging and disposal activities are all assessed to be most severe when executed in deep, sedimentary habitats. Such assessments are important in supporting policies (e.g. spatial planning) directed towards ensuring sustainable “blue-growth,” through a better understanding of the potential ecological impacts associated with human activities operating across different habitat types. The aim of this study is to provide a better understanding of the spatial extent of selected human activities and their impacts on seabed habitats using a biological trait-based sensitivity analysis.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/75/3/1080/28568436/fsx205.pdf
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Dredging', 'Habitat', 'Environmental science', 'Marine habitats', 'Benthic zone', 'Smothering', 'Ecology', 'Fishing', 'Sediment', 'Fishery', 'Oceanography', 'Geology', 'Biology', 'Medicine', 'Paleontology', 'Pediatrics', 'Asphyxia']

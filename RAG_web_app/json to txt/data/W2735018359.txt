@@ -1,0 +1,12 @@
+ID: W2735018359
+TITLE: Defying Dissolution: Discovery of Deep-Sea Scleractinian Coral Reefs in the North Pacific
+AUTHOR: ['Amy R. Baco', 'Nicole B. Morgan', 'E. Brendan Roark', 'Maurício Silva', 'Kathryn E. F. Shamberger', 'Kelci Miller']
+ABSTRACT:
+Deep-sea scleractinian coral reefs are protected ecologically and biologically significant areas that support global fisheries. The absence of observations of deep-sea scleractinian reefs in the Central and Northeast Pacific, combined with the shallow aragonite saturation horizon (ASH) and high carbonate dissolution rates there, fueled the hypothesis that reef formation in the North Pacific was improbable. Despite this, we report the discovery of live scleractinian reefs on six seamounts of the Northwestern Hawaiian Islands and Emperor Seamount Chain at depths of 535-732 m and aragonite saturation state (Ωarag) values of 0.71-1.33. Although the ASH becomes deeper moving northwest along the chains, the depth distribution of the reefs becomes shallower, suggesting the ASH is having little influence on their distribution. Higher chlorophyll moving to the northwest may partially explain the geographic distribution of the reefs. Principle Components Analysis suggests that currents are also an important factor in their distribution, but neither chlorophyll nor the available current data can explain the unexpected depth distribution. Further environmental data is needed to elucidate the reason for the distribution of these reefs. The discovery of reef-forming scleractinians in this region is of concern because a number of the sites occur on seamounts with active trawl fisheries.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-05492-w.pdf
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Reef', 'Seamount', 'Oceanography', 'Coral reef', 'Geology', 'Coral', 'Aragonite', 'Hermatypic coral', 'Environmental issues with coral reefs', 'Fringing reef', 'Fishery', 'Paleontology', 'Biology', 'Calcite']

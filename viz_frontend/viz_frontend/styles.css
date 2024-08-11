@@ -1,0 +1,119 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    margin: 30px;
+    position: relative;
+    background: url('blue.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+svg {
+    position: absolute;
+    top: 30px;
+    left: 140px;
+    width: 500px;
+    height: 500px;
+    font: 10px sans-serif;
+    margin: 5px;
+    border: 3px;
+}
+
+.label {
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+
+.attribute-display {
+    position: absolute;
+    top: 150px;
+    right: 200px;
+    background: #ffffff;
+    border: 3px solid #cccccc;
+    border-color: #0471e6;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    font: 14px sans-serif;
+}
+
+.attribute-display .label {
+    font-weight: bold;
+}
+
+.attribute-display .value {
+    margin-top: 5px;
+}
+
+.ui-container {
+    position: fixed;
+    top: 300px;
+    right: 100px;
+    width: 350px;
+    height: 250px;
+    background: #fff;
+    border: 3px solid #ccc;
+    border-color: #0471e6;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+}
+
+.ui-container label {
+    display: block;
+    margin: 5px 0;
+}
+
+.ui-container input {
+    display: block;
+    width: calc(100% - 100px); 
+    margin-bottom: 10px;
+    padding: 5px;
+    flex-grow: 1;
+    overflow-x: auto; 
+    white-space: nowrap;
+}
+
+.ui-container select {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.ui-container button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: flex-start; 
+    margin-top: 5px;
+}
+
+.ui-container button:hover {
+    background-color: #0056b3;
+}
+
+.loading-icon {
+  display: none;
+  width: 30px;
+  height: 30px;
+  border: 5px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 5px solid #443fc0;
+  animation: spin 2s linear infinite;
+  position: fixed;
+  top: 2%;
+  left: 2%;
+  transform: translate(-50%, -50%);
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

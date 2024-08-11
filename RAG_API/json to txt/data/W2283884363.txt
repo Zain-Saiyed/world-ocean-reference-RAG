@@ -1,0 +1,12 @@
+ID: W2283884363
+TITLE: Pollution: Three steps to a green shipping industry
+AUTHOR: ['Zheng Wan', 'Meiling Zhu', 'Shun Chen', 'Daniel Sperling']
+ABSTRACT:
+It is time to crack down on the emissions and destructive development caused by vast container vessels that pollute the air and seas, write Zheng Wan and colleagues.
+
+SOURCE: Nature
+PDF URL: https://www.nature.com/articles/530275a.pdf
+CITED BY COUNT: 140
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Pollution', 'Business', 'Environmental science', 'Environmental protection', 'Ecology', 'Biology']

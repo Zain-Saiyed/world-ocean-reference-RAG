@@ -1,0 +1,12 @@
+ID: W2025375994
+TITLE: Niche divergence by deep‐sea octocorals in the genus <i>Callogorgia</i> across the continental slope of the Gulf of Mexico
+AUTHOR: ['Andrea M. Quattrini', 'Samuel E. Georgian', 'Luke Byrnes', 'Alex Stevens', 'Rosalia Falco', 'Erik E. Cordes']
+ABSTRACT:
+Abstract Environmental variables that are correlated with depth have been suggested to be among the major forces underlying speciation in the deep sea. This study incorporated phylogenetics and ecological niche models ( ENM ) to examine whether congeneric species of Callogorgia (Octocorallia: Primnoidae) occupy different ecological niches across the continental slope of the Gulf of Mexico (GoM) and whether this niche divergence could be important in the evolution of these closely related species. Callogorgia americana americana, Callogorgia americana delta and Callogorgia gracilis were documented at 13 sites in the GoM (250–1000 m) from specimen collections and extensive video observations. On a first order, these species were separated by depth, with C. gracilis occurring at the shallowest sites, C. a. americana at mid‐depths and C. a. delta at the deepest sites. Callogorgia a. delta was associated with areas of increased seep activity, whereas C. gracilis and C. a. americana were associated with narrow, yet warmer, temperature ranges and did not occur near cold seeps. ENM background and identity tests revealed little to no overlap in ecological niches between species. Temporal calibration of the phylogeny revealed the formation of the Isthmus of Panama was a vicariance event that may explain some of the patterns of speciation within this genus. These results elucidate the potential mechanisms for speciation in the deep sea, emphasizing both bathymetric speciation and vicariance events in the evolution of a genus across multiple regions.
+
+SOURCE: Molecular ecology
+PDF URL: None
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Vicariance', 'Biology', 'Ecological niche', 'Cold seep', 'Genus', 'Ecology', 'Biogeography', 'Deep sea', 'Environmental niche modelling', 'Genetic algorithm', 'Niche', 'Phylogenetic tree', 'Phylogeography', 'Habitat', 'Fishery', 'Biochemistry', 'Methane', 'Gene']

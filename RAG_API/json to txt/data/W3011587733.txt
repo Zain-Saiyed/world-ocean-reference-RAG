@@ -1,0 +1,12 @@
+ID: W3011587733
+TITLE: The Importance of Bottom-Up Approaches to International Cooperation in Ocean Science: The Iron Story
+AUTHOR: ['Ed Urban', 'Andrew R. Bowie', 'Philip W. Boyd', 'Kristen N. Buck', 'Maeve C. Lohan', 'Sylvia G. Sander', 'Reiner Schlitzer', 'Alessandro Tagliabue', 'David R. Turner']
+ABSTRACT:
+This article is dedicated to the late Keith Hunter, who passed away on October 24, 2018.Keith was a complex and wonderful person, a full-blooded researcher and brilliant scientist, and also the most down-to-earth person-digging up some potatoes in his garden or sitting down at home with a glass of good whiskey looking over the sea.Keith was one of the first chemical oceanographers to embrace John Martin's hypothesis that iron is a limiting nutrient in many parts of the global surface ocean.In 1996, Keith and David Turner initiated and then co-chaired the very first of SCOR's iron-related working groups, WG 109 on the Biogeochemistry of Iron in Seawater.Keith was an inspiring supervisor and mentor, a
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/33-1_urban.pdf
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Ocean science', 'Oceanography', 'Top-down and bottom-up design', 'Environmental science', 'Climatology', 'Geology', 'Engineering', 'Software engineering']

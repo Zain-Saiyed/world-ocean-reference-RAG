@@ -1,0 +1,12 @@
+ID: W2765126635
+TITLE: Marine heatwave causes unprecedented regional mass bleaching of thermally resistant corals in northwestern Australia
+AUTHOR: ['Morane Le Nohaïc', 'Claire L. Ross', 'Christopher E. Cornwall', 'Steeve Comeau', 'Ryan J. Lowe', 'Malcolm T. McCulloch', 'Verena Schoepf']
+ABSTRACT:
+In 2015/16, a marine heatwave associated with a record El Niño led to the third global mass bleaching event documented to date. This event impacted coral reefs around the world, including in Western Australia (WA), although WA reefs had largely escaped bleaching during previous strong El Niño years. Coral health surveys were conducted during the austral summer of 2016 in four bioregions along the WA coast (~17 degrees of latitude), ranging from tropical to temperate locations. Here we report the first El Niño-related regional-scale mass bleaching event in WA. The heatwave primarily affected the macrotidal Kimberley region in northwest WA (~16°S), where 4.5-9.3 degree heating weeks (DHW) resulted in 56.6-80.6% bleaching, demonstrating that even heat-tolerant corals from naturally extreme, thermally variable reef environments are threatened by heatwaves. Some heat stress (2.4 DHW) and bleaching (<30%) also occurred at Rottnest Island (32°01'S), whereas coral communities at Ningaloo Reef (23°9'S) and Bremer Bay (34°25'S) were not impacted. The only other major mass bleaching in WA occurred during a strong La Niña event in 2010/11 and primarily affected reefs along the central-to-southern coast. This suggests that WA reefs are now at risk of severe bleaching during both El Niño and La Niña years.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-14794-y.pdf
+CITED BY COUNT: 135
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Reef', 'Coral bleaching', 'Bay', 'Coral reef', 'Coral', 'Oceanography', 'Temperate climate', 'Latitude', 'Threatened species', 'Geography', 'Ecology', 'Geology', 'Biology', 'Geodesy', 'Habitat']

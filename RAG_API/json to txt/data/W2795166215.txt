@@ -1,0 +1,12 @@
+ID: W2795166215
+TITLE: No-take marine reserves are the most effective protected areas in the ocean
+AUTHOR: ['Enric Sala', 'Sylvaine Giakoumi']
+ABSTRACT:
+Abstract Marine protected areas (MPAs) are an essential tool for reversing the global degradation of ocean life. Hence, it is important to know which types of MPAs are more effective, and under which conditions. No-take marine reserves – the MPAs with stronger protection – are very effective in restoring and preserving biodiversity, and in enhancing ecosystem resilience. A new meta-analysis of previous studies shows that biomass of whole fish assemblages in marine reserves is, on average, 670% greater than in adjacent unprotected areas, and 343% greater than in partially-protected MPAs. Marine reserves also help restore the complexity of ecosystems through a chain of ecological effects (trophic cascades) once the abundance of large animals recovers sufficiently. Marine reserves may not be immune to the effects of climate change, but to date, reserves with complex ecosystems are more resilient than unprotected areas. Although marine reserves were conceived to protect ecosystems within their boundaries, they have also been shown to enhance local fisheries and create jobs and new incomes through ecotourism.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/75/3/1166/28568305/fsx059.pdf
+CITED BY COUNT: 319
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine reserve', 'Marine protected area', 'Marine ecosystem', 'Marine conservation', 'Ecosystem', 'Biodiversity', 'Biomass (ecology)', 'Environmental science', 'Nature reserve', 'Trophic level', 'Environmental resource management', 'Fishery', 'Ecology', 'Fishing', 'Biology', 'Habitat']

@@ -1,0 +1,12 @@
+ID: W2913014414
+TITLE: Marine biogenics in sea spray aerosols interact with the mTOR signaling pathway
+AUTHOR: ['Jana Asselman', 'Emmanuel Van Acker', 'Maarten De Rijcke', 'Laurentijn Tilleman', 'Filip Van Nieuwerburgh', 'Jan Mees', 'Karel A.C. De Schamphelaere', 'Colin R. Janssen']
+ABSTRACT:
+Abstract Sea spray aerosols (SSAs) have profound effects on our climate and ecosystems. They also contain microbiota and biogenic molecules which could affect human health. Yet the exposure and effects of SSAs on human health remain poorly studied. Here, we exposed human lung cancer cells to extracts of a natural sea spray aerosol collected at the seashore in Belgium, a laboratory-generated SSA, the marine algal toxin homoyessotoxin and a chemical inhibitor of the mammalian target of rapamycin (mTOR) pathway. We observed significant increased expression of genes related to the mTOR pathway and Proprotein convertase subtilisin/kexin type 9 (PCSK9) after exposure to homoyessotoxin and the laboratory-generated SSA. In contrast, we observed a significant decrease in gene expression in the mTOR pathway and of PCSK9 after exposure to the natural SSA and the mTOR inhibitor, suggesting induction of apoptosis. Our results indicate that marine biogenics in SSAs interact with PCSK9 and the mTOR pathway and can be used in new potential pharmaceutical applications. Overall, our results provide a substantial molecular evidence base for potential beneficial health effects at environmentally relevant concentrations of natural SSAs.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-36866-3.pdf
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['PI3K/AKT/mTOR pathway', 'Kexin', 'Human health', 'RPTOR', 'Signal transduction', 'Biology', 'Chemistry', 'Cell biology', 'Medicine', 'Biochemistry', 'Lipoprotein', 'LDL receptor', 'Environmental health', 'Cholesterol']

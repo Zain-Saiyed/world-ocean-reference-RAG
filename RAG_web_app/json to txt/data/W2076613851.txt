@@ -1,0 +1,12 @@
+ID: W2076613851
+TITLE: Isotopic Signature of N <sub>2</sub> O Produced by Marine Ammonia-Oxidizing Archaea
+AUTHOR: ['Alyson E. Santoro', 'Carolyn Buchwald', 'Matthew R. McIlvin', 'Karen L. Casciotti']
+ABSTRACT:
+The ocean is an important global source of nitrous oxide (N(2)O), a greenhouse gas that contributes to stratospheric ozone destruction. Bacterial nitrification and denitrification are thought to be the primary sources of marine N(2)O, but the isotopic signatures of N(2)O produced by these processes are not consistent with the marine contribution to the global N(2)O budget. Based on enrichment cultures, we report that archaeal ammonia oxidation also produces N(2)O. Natural-abundance stable isotope measurements indicate that the produced N(2)O had bulk δ(15)N and δ(18)O values higher than observed for ammonia-oxidizing bacteria but similar to the δ(15)N and δ(18)O values attributed to the oceanic N(2)O source to the atmosphere. Our results suggest that ammonia-oxidizing archaea may be largely responsible for the oceanic N(2)O source.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 387
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Archaea', 'Nitrification', 'Environmental chemistry', 'Ammonia', 'Isotopic signature', 'Oxidizing agent', 'Nitrous oxide', 'Isotope', 'Atmosphere (unit)', 'Chemistry', 'Oceanography', 'Nitrogen', 'Bacteria', 'Geology', 'Physics', 'Paleontology', 'Organic chemistry', 'Quantum mechanics', 'Thermodynamics']

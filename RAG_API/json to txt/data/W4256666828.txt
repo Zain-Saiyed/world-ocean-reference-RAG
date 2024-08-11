@@ -1,0 +1,12 @@
+ID: W4256666828
+TITLE: Marine functional zoning: A practical approach for integrated coastal management (ICM) in Xiamen
+AUTHOR: ['Qinhua Fang']
+ABSTRACT:
+Xiamen has marked its integrated coastal management (ICM) practice as PEMSEA's demonstration site since the 1990s. However, the role of Marine Functional Zoning (MFZ) in ICM has not yet been fully explored even though the planning process has been highlighted in some literature on Xiamen ICM mode. To showcase the contribution of MFZ as a practical approach for Xiamen ICM, the five dimensions of integration in ICM is applied as an analysis framework. Firstly, through compiling of the historical data and documents of the sea uses and marine environments, and socioeconomic status as well, the key drivers of initiating MFZ in the 1990s is summarized as increasing but incompatible and even conflicting sea uses, degrading marine environments due to negative effects of intensified human activities, and the lack of coordinating mechanism which has worsened the use-use and use-environment conflicts. Secondly, the technical guidelines and adaptive evolvement of Xiamen MFZ is introduced, and the achievements of Xiamen MFZ is explored. Based on the above analysis, the relationships of MFZ and ICM is looked into the dimensions of legislation, coordinating mechanism, scientific and technical support, integrated law enforcement and public participation; and how MFZ contributes to ICM in integration of dimensions of intergovernmental, inter-sectoral, land and sea, science and management, and multiple disciplinary is analyzed in-depth. It is concluded that MFZ has been a working approach in Xiamen to realize ICM from a conceptual call to a good practice on the ground, even challenges remain.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2018
+TYPE: preprint
+CONCEPTS: ['Legislation', 'Zoning', 'Process management', 'Environmental resource management', 'Business', 'Engineering', 'Political science', 'Environmental science', 'Civil engineering', 'Law']

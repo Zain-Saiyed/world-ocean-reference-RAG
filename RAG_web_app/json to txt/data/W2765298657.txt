@@ -1,0 +1,12 @@
+ID: W2765298657
+TITLE: Analysis of the biosynthetic process of fatty acids in Thraustochytrium
+AUTHOR: ['Xianming Zhao', 'Xiao Qiu']
+ABSTRACT:
+Thraustochytrium is a marine protist producing a specific profile of nutritionally important fatty acids, including very long chain polyunsaturated fatty acids (VLCPUFAs) docosahexaenoic acid (DHA, 22:6n-3), even chain saturated fatty acids (SFAs) palmitic acid (16:0), and odd chain SFAs pentadecanoic acid (15:0). To study how these fatty acids are synthesized, a series of radiolabeled precursors were used to trace the biosynthetic process in vivo and in vitro. When Thraustochytrium was fed with long chain fatty acid intermediates such as [1-14C]-oleic acid, [1-14C]-linoleic acid and [1-14C]-α-linolenic acid, no VLCPUFAs were produced, indicating that the aerobic pathway for the biosynthesis of VLCPUFAs was not functional in Thraustochytrium. When fed with [1-14C]-acetic acid, both SFAs and VLCPUFAs were labeled, and when fed with [1-14C]-propionic acid, mainly SFAs were labeled. However, when fed with [1-14C]-acetic acid in the presence of cerulenin, a type I FAS inhibitor, only VLCPUFAs were labeled, and when fed with [1-14C]-propionic acid in the presence of cerulenin, neither SFAs nor VLCPUFAs were labeled. This result clearly indicates that the type I fatty acid synthase (FAS) in Thraustochytrium could use acetic acid and propionic acid as the primers to synthesize even chain and odd chain SFAs, respectively, and VLCPUFAs were synthesized by the PUFA synthase using acetic acid as the primer. In addition, radioactive acetic acid could label both phospholipids (PL) and triacylglycerols (TAG), and VLCPUFAs appeared first and were largely accumulated in PL, whereas TAG accumulated much more SFAs than VLCPUFAs. The in vitro assay with [1-14C]-malonyl-CoA in presence of cerulenin showed that the crude protein of Thraustochytrium produced only VLCPUFAs, not SFAs, further confirming the role of the PUFA synthase in the biosynthesis of VLCPUFAs. Collectively, these results have elucidated the biochemical mechanisms for the biosynthesis of all fatty acids in Thraustochytrium.
+
+SOURCE: Biochimie
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Cerulenin', 'Biochemistry', 'Oleic acid', 'Fatty acid', 'Linoleic acid', 'Docosahexaenoic acid', 'Acetic acid', 'Palmitic acid', 'Polyunsaturated fatty acid', 'Chemistry', 'Arachidonic acid', 'Fatty acid synthase', 'Biology', 'Enzyme']

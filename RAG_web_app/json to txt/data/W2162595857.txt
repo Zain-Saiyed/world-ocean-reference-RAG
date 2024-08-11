@@ -1,0 +1,12 @@
+ID: W2162595857
+TITLE: Measuring the vulnerability of marine social-ecological systems: a prerequisite for the identification of climate change adaptations
+AUTHOR: ['S.J. Metcalf', 'E. Ingrid van Putten', 'Stewart Frusher', 'Nadine Marshall', 'Malcolm Tull', 'Nick Caputi', 'Marcus Haward', 'Alistair J. Hobday', 'Neil J. Holbrook', 'Sarah Jennings', 'Gretta T. Pecl', 'Jenny Shaw']
+ABSTRACT:
+Reducing the vulnerability of coastal communities to marine climate change requires that communities have some intrinsic capacity to adapt.To assist adaptation planning and the implementation of adaptation strategies, identifying barriers and enablers to adaptation is important.Adaptive capacity, resource dependence, local climate change exposure and biological sensitivity were used to assess socioeconomic vulnerability to climate change in three Australian coastal communities: St Helens, Tasmania; Bowen, Queensland; and Geraldton, Western Australia.Higher adaptive capacity was associated with larger population size (i.e., Geraldton) whereas greater resource dependence, and lower human and natural capital were associated with smaller populations (St Helens and Bowen).Socioeconomic vulnerability was greatly influenced by climate exposure and sensitivity with the moderately sized Bowen having the highest socioeconomic vulnerability to climate change.Adaptation strategies that utilized available assets, improved adaptive capacity, or reduced socioeconomic vulnerability were identified in partnership with local communities, including increased and diversified employment opportunities, the re-establishment of local fish markets, and improved education and communication.The level of resources, or "capitals," available to communities can indicate where barriers and enablers to adaptation exist.Identified barriers to adaptation included a heavy reliance on one sector for employment and a lack of physical capital.We demonstrate that knowledge of intrinsic community characteristics can be beneficial for prioritizing adaptation actions to reduce socioeconomic vulnerability to marine climate change.
+
+SOURCE: Ecology and society
+PDF URL: https://www.ecologyandsociety.org/vol20/iss2/art35/ES-2015-7509.pdf
+CITED BY COUNT: 73
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Vulnerability (computing)', 'Climate change', 'Identification (biology)', 'Ecology', 'Adaptation (eye)', 'Ecological systems theory', 'Geography', 'Environmental resource management', 'Biology', 'Environmental science', 'Computer science', 'Computer security', 'Neuroscience']

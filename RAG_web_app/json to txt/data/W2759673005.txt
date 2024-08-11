@@ -1,0 +1,12 @@
+ID: W2759673005
+TITLE: Climate Change Implications for Fisheries and Aquaculture
+AUTHOR: ['Keith Brander', 'Kevern Cochrane', 'Manuel Barangé', 'Doris Soto']
+ABSTRACT:
+Total world marine and inland fish production, currently above 160 million t from capture fisheries and aquaculture, provides a significant proportion of protein consumption by humans. The effects of climate change on total capture fisheries and aquaculture production have to date been small, but this will change as temperatures rise, oxygen and pH levels decline and extreme events increase the risk of direct and indirect impacts on fisheries production. The risk posed by climate change is an addition to the anthropogenic risks already imposed by overexploitation, habitat degradation, pollution, eutrophication, and species introductions. Tackling these known threats to marine environments will help to offset the climate risk. The processes by which climate change acts on biological systems are outlined, together with the consequences for marine productivity, species distribution and seasonal patterns. Projections of likely future changes in fisheries production potential are critically examined and regional projections are presented and discussed. Aquaculture production has been growing rapidly and plays a critical part in global food security. The constraints on, and opportunities for, further development of aquaculture are reviewed in relation to the risks posed by climate change. Avoidance of adverse effects from aquaculture development highlights the need for an ecosystem approach that takes into account all environment and social impacts. Adaptations for aquaculture and capture fisheries relating to social and economic factors, governance and extreme events are presented.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 113
+PUBLICATION YEAR: 2017
+TYPE: other
+CONCEPTS: ['Aquaculture', 'Climate change', 'Overexploitation', 'Fishery', 'Fish stock', 'Natural resource economics', 'Food security', 'Global warming', 'Environmental science', 'Geography', 'Environmental resource management', 'Ecology', 'Agriculture', 'Fishing', 'Fish <Actinopterygii>', 'Biology', 'Economics']

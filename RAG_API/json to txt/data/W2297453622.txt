@@ -1,0 +1,12 @@
+ID: W2297453622
+TITLE: Sustaining healthy diets: The role of capture fisheries and aquaculture for improving nutrition in the post-2015 era
+AUTHOR: ['Shakuntala H. Thilsted', 'Andrew L. Thorne‐Lyman', 'Patrick Webb', 'Jessica R. Bogard', 'R. P. Subasinghe', 'Michael Phillips', 'Edward H. Allison']
+ABSTRACT:
+The Sustainable Development Goals (SDGs) agenda makes achieving food security and ending malnutrition a global priority. Within this framework, the importance of fisheries in local and global food systems and its contribution to nutrition and health, particularly for the poor are overlooked and undervalued. This paper reviews current fish production and consumption from capture fisheries and aquaculture, highlights opportunities for enhancing healthy diets and outlines key multi-sectoral policy solutions. Mirroring the call for a diversification of agricultural research and investment beyond a few staple grains, it is anticipated that productivity gains for a few farmed aquatic species will not suffice. Capture fisheries and aquaculture have a complementary role to play in increasing fish availability and access, and must be promoted in ways that support measurable nutrition and health gains. This paper argues that the lack of a nutrition-sensitive policy focus on capture fisheries and aquaculture represents an untapped opportunity that must be realised for ensuring sustainable healthy diets for all.
+
+SOURCE: Food policy
+PDF URL: None
+CITED BY COUNT: 302
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Food security', 'Aquaculture', 'Business', 'Natural resource economics', 'Fishery', 'Sustainability', 'Productivity', 'Agriculture', 'Environmental resource management', 'Fish <Actinopterygii>', 'Environmental planning', 'Economic growth', 'Economics', 'Ecology', 'Biology', 'Geography']

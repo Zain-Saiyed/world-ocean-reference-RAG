@@ -1,0 +1,12 @@
+ID: W2940843787
+TITLE: Multiplatform evaluation of global trends in wind speed and wave height
+AUTHOR: ['Ian R. Young', 'Agustinus Ribal']
+ABSTRACT:
+In this study, global satellite data were analyzed to determine trends in oceanic wind speed and significant wave height over the 33-year period from 1985 to 2018. The analysis uses an extensive database obtained from 31 satellite missions comprising three types of instruments-altimeters, radiometers, and scatterometers. The analysis shows small increases in mean wind speed and significant wave height over this period, with larger increases in extreme conditions (90th percentiles). The largest increases occur in the Southern Ocean. Confidence in the results is strengthened because the wind speed trends are confirmed by all three satellite systems. An extensive set of sensitivity analyses confirms that both the mean and 90th percentile trends are robust, with only small impacts caused by satellite calibration and sampling patterns.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/364/6440/548.full.pdf
+CITED BY COUNT: 331
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental science', 'Climatology', 'Wind speed', 'Wind wave', 'Storm', 'Global warming', 'Significant wave height', 'Climate change', 'Atmospheric sciences', 'Meteorology', 'Energy exchange', 'Satellite', 'Oceanography', 'Geology', 'Geography', 'Physics', 'Astronomy']

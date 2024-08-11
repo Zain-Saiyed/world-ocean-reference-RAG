@@ -1,0 +1,12 @@
+ID: W2004838460
+TITLE: a-, β-, γ-, δ- and ε-diversity of deep-sea nematodes in canyons and open slopes of Northeast Atlantic and Mediterranean margins
+AUTHOR: ['Roberto Danovaro', 'Silvia Bianchelli', 'Cristina Gambi', 'Marianna Mea', 'Daniela Zeppilli']
+ABSTRACT:
+Meiofaunal biodiversity, with a special focus on nematodes, was investigated in 6 submarine canyons and 5 adjacent open slopes along bathymetric gradients (from ca.200 to 5000 m depth) from 3 deep-sea regions (northeastern Atlantic, western and central Mediterranean) spanning > 2500 km and across a wide gradient of trophic and physicochemical conditions.The analysis of local (α) diversity at equal depths showed the presence of similar values in the NE Atlantic and Mediterranean deep-sea sediments.The comparison of the α diversity between different deep-sea habitats (canyons versus adjacent open slopes) revealed the lack of significant differences in species richness in most of the investigated systems.However, the analysis of nematode species composition showed the presence of major differences among different sampling depths (i.e.500 versus 1000 versus 2000 m depth) and habitats.Turnover (β) diversity was high in all of the investigated deep-sea systems, but was higher in the NE Atlantic (87%) than in the Mediterranean margins (range 51 to 60%), resulting in higher values of regional (γ) diversity in the Atlantic margin.Turnover diversity among regions (δ diversity) was highest (~91%) between the NE Atlantic and western Mediterranean, but still extremely high between the western and central Mediterranean margins (~80%), thus leading to similar values of biogeographical diversity (ε) in the NE Atlantic and Mediterranean deep biogeographical provinces.The results suggest that biogeographic differences in deep-sea species composition are related to differences in β and δ diversity and not to differences in α diversity, and that the analysis of the factors driving β diversity are crucial to understand the spatial patterns of biodiversity in the deep sea.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/theme/m396p197.pdf
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Submarine canyon', 'Canyon', 'Mediterranean climate', 'Oceanography', 'Mediterranean sea', 'Deep sea', 'Species richness', 'Trophic level', 'Ecology', 'Marine protected area', 'Bathyal zone', 'Geography', 'Geology', 'Habitat', 'Continental shelf', 'Benthic zone', 'Biology', 'Geomorphology']

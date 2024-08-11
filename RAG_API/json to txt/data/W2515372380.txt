@@ -1,0 +1,12 @@
+ID: W2515372380
+TITLE: &lt;em&gt;Sargassum&lt;/em&gt; Watch Warns of Incoming Seaweed
+AUTHOR: ['Chuanmin Hu', 'Brock Murch', 'Brian B. Barnes', 'Mengqiu Wang', 'Jean‐Philippe Maréchal', 'James S. Franks', 'Donald H. Johnson', 'Brian E. Lapointe', 'Deborah S. Goodwin', 'Jeffrey M. Schell', 'Amy N. S. Siuda']
+ABSTRACT:
+The Sargassum Watch System processes satellite data and feeds results to a Web portal, giving decision makers timely information on seaweed location and warnings for potential beaching events.
+
+SOURCE: Eos
+PDF URL: http://www.sargassoseacommission.org/storage/documents/Sargasso.Report.9.12.pdf
+CITED BY COUNT: 64
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Sargassum', 'Algae', 'Environmental science', 'Brown seaweed', 'Biology', 'Botany']

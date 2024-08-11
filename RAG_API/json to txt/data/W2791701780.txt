@@ -1,0 +1,12 @@
+ID: W2791701780
+TITLE: Drivers of euphausiid distribution and abundance in the Northeast U.S. Shelf Large Marine Ecosystem
+AUTHOR: ['Michael R. Lowe', 'Gareth L. Lawson', 'Michael J. Fogarty']
+ABSTRACT:
+Abstract Euphausiids, or krill, often dominate the biomass of zooplankton communities in high latitude marine ecosystems and are recognized as a key component of food webs. Compared to other ecosystems, however, there is scant information regarding the broad-scale distribution of euphausiids in the Northeast U.S. Shelf Large Marine Ecosystem (NEUS-LME). Using long-term (1977–2011) zooplankton survey data, we examine the drivers of the broad-scale spatial distribution and inter-annual variability in euphausiid abundance throughout the entire NEUS-LME. Our results show strong seasonal patterns in both the abundance and spatial distribution of euphausiids, which were commonly associated with waters exceeding 100 m, the continental shelf break (SB), and warmer and more saline bottom waters. Inter-annual patterns in euphausiid abundance were positively correlated with the Atlantic Multidecadal Oscillation (AMO) and bottom salinity, and inter-annual variation was most conspicuous at the outer continental shelf and SB. Assemblage analyses indicated that Euphausia krohnii, Thysanoessa gregaria, T. longicaudata, and Nematoscelis megalops dominated in waters associated with the outer shelf and SB, while Meganyctiphanes norvegica was more important in the Gulf of Maine. These results improve our understanding of the distribution and abundance of euphausiids and provide important information for effective ecosystem-based fisheries management for the NEUS-LME.
+
+SOURCE: ICES journal of marine science
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Zooplankton', 'Oceanography', 'Krill', 'Marine ecosystem', 'Abundance (ecology)', 'Continental shelf', 'Euphausia', 'Ecosystem', 'Biomass (ecology)', 'Environmental science', 'Fishery', 'Ecology', 'Biology', 'Geology']

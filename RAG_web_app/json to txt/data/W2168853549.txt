@@ -1,0 +1,12 @@
+ID: W2168853549
+TITLE: Marine legislation – The ultimate ‘horrendogram’: International law, European directives &amp; national implementation
+AUTHOR: ['Suzanne J. Boyes', 'Michael Elliott']
+ABSTRACT:
+The EU is a pre-eminent player in sustainable development, adopting more than 200 pieces of legislation that have direct repercussions for marine environmental policy and management. Over five decades, measures have aimed to protect the marine environment by tackling the impact of human activities, but maritime affairs have been dealt with by separate sectoral policies without fully integrating all relevant sectors. Such compartmentalisation has resulted in a patchwork of EU legislation and resultant national legislation leading to a piecemeal approach to marine protection. These are superimposed on international obligations emanating from UN and other bodies and are presented here as complex ‘horrendograms’ showing the complexity across vertical governance. These horrendograms have surprised marine experts despite them acknowledging the many uses and users of the marine environment. Encouragingly since 2000, the evolution in EU policy has progressed to more holistic directives and here we give an overview of this change.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 156
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Legislation', 'Corporate governance', 'Sustainable development', 'Business', 'Environmental planning', 'Political science', 'Environmental resource management', 'Public administration', 'Law', 'Economics', 'Geography', 'Finance']

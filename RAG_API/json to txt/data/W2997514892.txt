@@ -1,0 +1,12 @@
+ID: W2997514892
+TITLE: Inundation Exposure Assessment for Majuro Atoll, Republic of the Marshall Islands Using A High-Accuracy Digital Elevation Model
+AUTHOR: ['Dean B. Gesch', 'Monica Palaseanu‐Lovejoy', 'Jeffrey J. Danielson', 'Charles H. Fletcher', 'Maria Kottermair', 'Matthew M. Barbee', 'Andrea Jalandoni']
+ABSTRACT:
+Majuro Atoll in the central Pacific has high coastal vulnerability due to low-lying islands, rising sea level, high wave events, eroding shorelines, a dense population center, and limited freshwater resources. Land elevation is the primary geophysical variable that determines exposure to inundation in coastal settings. Accordingly, coastal elevation data (with accuracy information) are critical for assessments of inundation exposure. Previous research has demonstrated the importance of using high-accuracy elevation data and rigorously accounting for uncertainty in inundation assessments. A quantitative analysis of inundation exposure was conducted for Majuro Atoll, including accounting for the cumulative vertical uncertainty from the input digital elevation model (DEM) and datum transformation. The project employed a recently produced and validated DEM derived from structure-from-motion processing of very-high-resolution aerial imagery. Areas subject to marine inundation (direct hydrologic connection to the ocean) and low-lying lands (disconnected hydrologically from the ocean) were mapped and characterized for three inundation levels using deterministic and probabilistic methods. At the highest water level modeled (3.75 ft, or 1.143 m), more than 34% of the atoll study area is likely to be exposed to inundation (68% chance or greater), while more than 20% of the atoll is extremely likely to be exposed (95% chance or greater). The study demonstrates the substantial value of a high-accuracy DEM for assessing inundation exposure of low-relief islands and the enhanced information from accounting for vertical uncertainty.
+
+SOURCE: Remote sensing
+PDF URL: https://www.mdpi.com/2072-4292/12/1/154/pdf?version=1577954669
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Elevation (ballistics)', 'Atoll', 'Digital elevation model', 'Geology', 'Population', 'Sea level', 'Environmental science', 'Hydrology (agriculture)', 'Physical geography', 'Oceanography', 'Remote sensing', 'Geography', 'Reef', 'Geometry', 'Mathematics', 'Demography', 'Geotechnical engineering', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2978107983
+TITLE: Australian vegetated coastal ecosystems as global hotspots for climate change mitigation
+AUTHOR: ['Óscar Serrano', 'Catherine E. Lovelock', 'Trisha B. Atwood', 'Peter I. Macreadie', 'Robert Canto', 'Stuart Phinn', 'Ariane Arias‐Ortiz', 'Liang Bai', 'Jeff Baldock', 'Camila Bedulli', 'Paul E. Carnell', 'Rod M. Connolly', 'Paul M. Donaldson', 'Alba Esteban', 'Carolyn J. Ewers Lewis', 'Bradley D. Eyre', 'Matthew A. Hayes', 'Pierre Horwitz', 'Lindsay B. Hutley', 'Christopher R. J. Kavazos', 'Jeffrey J. Kelleway', 'Gary A. Kendrick', 'Kieryn Kilminster', 'Anna Lafratta', 'Joe Lee', 'Paul S. Lavery', 'Damien T. Maher', 'Núria Marbà', 'Pere Masqué', 'Miguel Á. Mateo', 'RE Mount', 'Peter J. Ralph', 'Chris Roelfsema', 'Mohammad Rozaimi', 'Radhiyah Ruhon', 'Cristian Salinas', 'Jimena Samper‐Villarreal', 'Jonathan Sanderman', 'Christian J. Sanders', 'Isaac R. Santos', 'C Sharples', 'A Steven', 'Toni Cannard', 'Stacey M. Trevathan‐Tackett', 'Carlos M. Duarte']
+ABSTRACT:
+Abstract Policies aiming to preserve vegetated coastal ecosystems (VCE; tidal marshes, mangroves and seagrasses) to mitigate greenhouse gas emissions require national assessments of blue carbon resources. Here, we present organic carbon (C) storage in VCE across Australian climate regions and estimate potential annual CO 2 emission benefits of VCE conservation and restoration. Australia contributes 5–11% of the C stored in VCE globally (70–185 Tg C in aboveground biomass, and 1,055–1,540 Tg C in the upper 1 m of soils). Potential CO 2 emissions from current VCE losses are estimated at 2.1–3.1 Tg CO 2 -e yr -1 , increasing annual CO 2 emissions from land use change in Australia by 12–21%. This assessment, the most comprehensive for any nation to-date, demonstrates the potential of conservation and restoration of VCE to underpin national policy development for reducing greenhouse gas emissions.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-019-12176-8.pdf
+CITED BY COUNT: 144
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Blue carbon', 'Environmental science', 'Greenhouse gas', 'Climate change', 'Ecosystem', 'Biomass (ecology)', 'Salt marsh', 'Marsh', 'Climate change mitigation', 'Mangrove', 'Environmental protection', 'Global warming', 'Land use, land-use change and forestry', 'Ecosystem services', 'Land use', 'Ecology', 'Wetland', 'Seagrass', 'Biology']

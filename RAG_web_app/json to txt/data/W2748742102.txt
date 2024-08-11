@@ -1,0 +1,12 @@
+ID: W2748742102
+TITLE: The Value of Coastal Wetlands for Flood Damage Reduction in the Northeastern USA
+AUTHOR: ['Siddharth Narayan', 'Michael W. Beck', 'Paul Wilson', 'Christopher Thomas', 'Alexandra Guerrero', 'Christine C. Shepard', 'Borja G. Reguero', 'Guillermo Franco', 'James N. Ingram', 'Dania Trespalacios']
+ABSTRACT:
+As exposure to coastal hazards increases there is growing interest in nature-based solutions for risk reduction. This study uses high-resolution flood and loss models to quantify the impacts of coastal wetlands in the northeastern USA on (i) regional flood damages by Hurricane Sandy and (ii) local annual flood losses in Barnegat Bay in Ocean County, New Jersey. Using an extensive database of property exposure, the regional study shows that wetlands avoided $625 Million in direct flood damages during Hurricane Sandy. The local study combines these models with a database of synthetic storms in Ocean County and estimates a 16% average reduction in annual flood losses by salt marshes with higher reductions at lower elevations. Together, the studies quantify the risk reduction ecosystem services of marsh wetlands. Measuring these benefits in collaboration with the risk modelling industry is crucial for assessing risk accurately and, where appropriate, aligning conservation and risk reduction goals.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-09269-z.pdf
+CITED BY COUNT: 257
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Wetland', 'Flood myth', 'Salt marsh', 'Environmental science', 'Marsh', 'Damages', 'Storm', 'Bay', 'Coastal flood', 'Storm surge', 'Flooding (psychology)', 'Hydrology (agriculture)', 'Geography', 'Climate change', 'Ecology', 'Oceanography', 'Sea level rise', 'Meteorology', 'Geology', 'Archaeology', 'Psychology', 'Geotechnical engineering', 'Political science', 'Law', 'Psychotherapist', 'Biology']

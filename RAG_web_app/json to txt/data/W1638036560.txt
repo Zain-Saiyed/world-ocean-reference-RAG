@@ -1,0 +1,12 @@
+ID: W1638036560
+TITLE: Rapid poleward range expansion of tropical reef corals in response to rising sea surface temperatures
+AUTHOR: ['Hiroya Yamano', 'Kaoru Sugihara', 'Keita Nomura']
+ABSTRACT:
+[1] Rising temperatures caused by climatic warming may cause poleward range shifts and/or expansions in species distribution. Tropical reef corals (hereafter corals) are some of the world's most important species, being not only primary producers, but also habitat-forming species, and thus fundamental ecosystem modification is expected according to changes in their distribution. Although most studies of climate change effects on corals have focused on temperature-induced coral bleaching in tropical areas, poleward range shifts and/or expansions may also occur in temperate areas. We show the first large-scale evidence of the poleward range expansion of modern corals, based on 80 years of national records from the temperate areas of Japan, where century-long measurements of in situ sea-surface temperatures have shown statistically significant rises. Four major coral species categories, including two key species for reef formation in tropical areas, showed poleward range expansions since the 1930s, whereas no species demonstrated southward range shrinkage or local extinction. The speed of these expansions reached up to 14 km/year, which is far greater than that for other species. Our results, in combination with recent findings suggesting range expansions of tropical coral-reef associated organisms, strongly suggest that rapid, fundamental modifications of temperate coastal ecosystems could be in progress.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 374
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Reef', 'Oceanography', 'Geology', 'Range (aeronautics)', 'Sea surface temperature', 'Tropical marine climate', 'Climatology', 'Tropical Atlantic', 'Environmental science', 'Geography', 'Meteorology', 'Materials science', 'Composite material']

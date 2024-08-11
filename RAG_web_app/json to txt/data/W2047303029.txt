@@ -1,0 +1,12 @@
+ID: W2047303029
+TITLE: Twenty thousand sterling under the sea: Estimating the value of protecting deep-sea biodiversity
+AUTHOR: ['Niels Jobstvogt', 'Nick Hanley', 'Stephen Hynes', 'Jasper O. Kenter', 'Ursula Witte']
+ABSTRACT:
+The deep-sea includes over 90% of the world's oceans and is thought to be one of the most diverse ecosystems in the world. It supplies society with valuable ecosystem services, including the provision of food, the regeneration of nutrients and the sequestration of carbon. Technological advancements in the second half of the 20th century made large-scale exploitation of mineral, hydrocarbon and fish resources possible. These economic activities, combined with climate change impacts, constitute a considerable threat to deep-sea biodiversity. Many governments, including that of the UK, have therefore decided to implement additional protected areas in their waters of national jurisdiction. To support the decision process and to improve our understanding for the acceptance of marine conservation plans across the general public, a choice experiment survey asked Scottish households for their willingness-to-pay for additional marine protected areas in the Scottish deep-sea. This study is one of the first to use valuation methodologies to investigate public preferences for the protection of deep-sea ecosystems. The experiment focused on the elicitation of economic values for two aspects of marine biodiversity: (i) the existence value for deep-sea species and (ii) the option value of deep-sea organisms as a source for future medicinal products.
+
+SOURCE: Ecological economics
+PDF URL: None
+CITED BY COUNT: 137
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Jurisdiction', 'Ecosystem services', 'Marine protected area', 'Valuation (finance)', 'Environmental resource management', 'Marine ecosystem', 'Natural resource economics', 'Ecosystem', 'Contingent valuation', 'Marine conservation', 'Willingness to pay', 'Geography', 'Business', 'Environmental planning', 'Environmental protection', 'Environmental science', 'Ecology', 'Political science', 'Economics', 'Biology', 'Finance', 'Habitat', 'Law', 'Microeconomics']

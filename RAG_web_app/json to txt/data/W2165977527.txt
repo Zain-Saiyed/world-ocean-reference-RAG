@@ -1,0 +1,12 @@
+ID: W2165977527
+TITLE: Blue whales respond to simulated mid-frequency military sonar
+AUTHOR: ['Jeremy A. Goldbogen', 'Brandon L. Southall', 'Stacy L. DeRuiter', 'John Calambokidis', 'Ari S. Friedlaender', 'Elliott L. Hazen', 'Erin A. Falcone', 'Gregory S. Schorr', 'Annie B. Douglas', 'David Moretti', 'Chris Kyburg', 'Megan F. McKenna', 'Peter L. Tyack']
+ABSTRACT:
+Mid-frequency military (1–10 kHz) sonars have been associated with lethal mass strandings of deep-diving toothed whales, but the effects on endangered baleen whale species are virtually unknown. Here, we used controlled exposure experiments with simulated military sonar and other mid-frequency sounds to measure behavioural responses of tagged blue whales ( Balaenoptera musculus ) in feeding areas within the Southern California Bight. Despite using source levels orders of magnitude below some operational military systems, our results demonstrate that mid-frequency sound can significantly affect blue whale behaviour, especially during deep feeding modes. When a response occurred, behavioural changes varied widely from cessation of deep feeding to increased swimming speed and directed travel away from the sound source. The variability of these behavioural responses was largely influenced by a complex interaction of behavioural state, the type of mid-frequency sound and received sound level. Sonar-induced disruption of feeding and displacement from high-quality prey patches could have significant and previously undocumented impacts on baleen whale foraging ecology, individual fitness and population health.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2013.0657
+CITED BY COUNT: 176
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Sonar', 'Marine mammals and sonar', 'Oceanography', 'Acoustics', 'Marine engineering', 'Environmental science', 'Aeronautics', 'Geography', 'Geology', 'Engineering', 'Physics']

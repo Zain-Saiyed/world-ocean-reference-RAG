@@ -1,0 +1,12 @@
+ID: W583955413
+TITLE: Identifying indicators and essential variables for marine ecosystems
+AUTHOR: ['Keith R. Hayes', 'Jeffrey M. Dambacher', 'Geoffrey R. Hosack', 'Nicholas J. Bax', 'Piers K. Dunstan', 'Elizabeth A. Fulton', 'Peter A. Thompson', 'Jason R. Hartog', 'Alistair J. Hobday', 'R. Bradford', 'Scott D. Foster', 'Paul Hedge', 'David C. Smith', 'Chris Marshall']
+ABSTRACT:
+Identifying essential biological variables in marine ecosystems is harder than essential ocean variables because choices about the latter are guided by the needs of global oceanic models, and the number of candidate variables to choose from is much smaller. We present a process designed to assist managers identify biological indicators and essential variables for marine ecosystems, and demonstrate its application to Australia's Exclusive Economic Zone. The process begins with a spatially explicit description of key ecological systems and predicts how these systems are impacted by anthropogenic pressures. The process does not require experts to agree on the system's structure or the activities that threaten the ecosystem. Rather it defines a suite of pressure scenarios that accommodate uncertainty in these aspects, and seeks to identify indicators that are predicted to respond in a consistent fashion across these scenarios. When the process is applied at national or regional scales, essential biological variables emerge as the set of consistent indicators that are common to similar but spatially distinct systems.
+
+SOURCE: Ecological indicators
+PDF URL: None
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Process (computing)', 'Ecosystem', 'Environmental resource management', 'Ecological indicator', 'Marine conservation', 'Ecosystem-based management', 'Computer science', 'Key (lock)', 'Environmental science', 'Ecology', 'Biology', 'Operating system']

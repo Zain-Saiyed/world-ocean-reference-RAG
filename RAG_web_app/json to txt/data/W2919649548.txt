@@ -1,0 +1,12 @@
+ID: W2919649548
+TITLE: Neurological illnesses associated with Florida red tide (Karenia brevis) blooms
+AUTHOR: ['Roberto Efrain Diaz', 'Melissa A. Friedman', 'Di Jin', 'Andrew Beet', 'Barbara Kirkpatrick', 'Andrew Reich', 'Gary J. Kirkpatrick', 'Steven G. Ullmann', 'Lora E. Fleming', 'Porter Hoagland']
+ABSTRACT:
+Human respiratory and gastrointestinal illnesses can result from exposures to brevetoxins originating from coastal Florida red tide blooms, comprising the marine alga Karenia brevis (K. brevis). Only limited research on the extent of human health risks and illness costs due to K. brevis blooms has been undertaken to date. Because brevetoxins are known neurotoxins that are able to cross the blood-brain barrier, it is possible that exposure to brevetoxins may be associated with neurological illnesses. This study explored whether K. brevis blooms may be associated with increases in the numbers of emergency department visits for neurological illness. An exposure-response framework was applied to test the effects of K. brevis blooms on human health, using secondary data from diverse sources. After controlling for resident population, seasonal and annual effects, significant increases in emergency department visits were found specifically for headache (ICD-9 784.0) as a primary diagnosis during proximate coastal K. brevis blooms. In particular, an increased risk for older residents (≥55 years) was identified in the coastal communities of six southwest Florida counties during K. brevis bloom events. The incidence of headache associated with K. brevis blooms showed a small but increasing association with K. brevis cell densities. Rough estimates of the costs of this illness were developed for hypothetical bloom occurrences.
+
+SOURCE: Harmful algae
+PDF URL: http://manuscript.elsevier.com/S1568988318301033/pdf/S1568988318301033.pdf
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Red tide', 'Bloom', 'Algal bloom', 'Population', 'Emergency department', 'Medicine', 'Environmental health', 'Biology', 'Ecology', 'Psychiatry', 'Phytoplankton', 'Nutrient']

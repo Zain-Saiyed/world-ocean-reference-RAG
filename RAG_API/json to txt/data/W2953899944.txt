@@ -1,0 +1,12 @@
+ID: W2953899944
+TITLE: A framework to evaluate the environmental impact of OCEAN energy devices
+AUTHOR: ['Edgar Mendoza', 'Débora Lithgow', 'Pamela Flores', 'Angélica Felix', 'Teresa Simas', 'Rodolfo Silva']
+ABSTRACT:
+Ocean energy technologies are still at an early stage of development; only a handful of concepts are being invented and tested worldwide. The environmental impact of these devices is not always taken into account, mainly because of the prevailing uncertainty regarding its assessment. It is vital that attention is paid to the mitigation of potential negative impacts on physical and biotic marine systems. In this study, the direct and indirect effects of ocean energy projects on biophysical systems, and their interactions, are identified from an analysis of current literature on the subject. A tool that could be applied to any ocean energy project at any stage of an EIA is then proposed from a framework designed to evaluate the widely varying impacts of devices. This framework uses a categorisation of the environmental impacts of MRE devices (biophysical, chemical and socio-economic), based on the technology used and the device location. It is hoped that this tool will facilitate the identification of the potential environmental impacts of MRE devices and thus serve as a guide to quantitatively assess these impacts.
+
+SOURCE: Renewable & sustainable energy reviews
+PDF URL: None
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental impact assessment', 'Identification (biology)', 'Environmental resource management', 'Environmental science', 'Marine energy', 'Energy (signal processing)', 'Risk analysis (engineering)', 'Computer science', 'Environmental planning', 'Environmental economics', 'Engineering', 'Business', 'Renewable energy', 'Ecology', 'Economics', 'Statistics', 'Mathematics', 'Electrical engineering', 'Biology']

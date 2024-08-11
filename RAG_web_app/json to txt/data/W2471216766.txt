@@ -1,0 +1,12 @@
+ID: W2471216766
+TITLE: Gulf of Mexico low-frequency ocean soundscape impacted by airguns
+AUTHOR: ['Sean M. Wiggins', 'J. Hall', 'Bruce J. Thayre', 'John A. Hildebrand']
+ABSTRACT:
+The ocean soundscape of the Gulf of Mexico (GOM) has not been well-studied, although it is an important habitat for marine mammals, including sperm and beaked whales, many dolphin species, and a potentially endangered baleen whale species. The GOM is also home to high levels of hydrocarbon exploration and extraction, heavily used commercial shipping ports, and significant fishery industry activity, all of which are known contributors to oceanic noise. From 2010–2013, the soundscape of three deep and two shallow water sites in the GOM were monitored over 10 – 1000 Hz. Average sound pressure spectrum levels were high, &amp;gt;90 dB re 1 μPa2/Hz at &amp;lt;40 Hz for the deep water sites and were associated with noise from seismic exploration airguns. More moderate sound pressure levels, &amp;lt;55 dB re 1 μPa2/Hz at &amp;gt;700 Hz, were present at a shallow water site in the northeastern Gulf, removed from the zone of industrial development and bathymetrically shielded from deep water anthropogenic sound sources. During passage of a high wind event (Hurricane Isaac, 2012), sound pressure levels above 200 Hz increased with wind speed, but at low frequencies (&amp;lt;100 Hz) sound pressure levels decreased owing to absence of noise from airguns.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: https://asa.scitation.org/doi/pdf/10.1121/1.4955300
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Soundscape', 'Oceanography', 'Sound (geography)', 'Baleen', 'Noise (video)', 'Environmental science', 'Ambient noise level', 'Sound pressure', 'Geology', 'Waves and shallow water', 'Seismology', 'Acoustics', 'Whale', 'Fishery', 'Biology', 'Physics', 'Artificial intelligence', 'Computer science', 'Image (mathematics)']

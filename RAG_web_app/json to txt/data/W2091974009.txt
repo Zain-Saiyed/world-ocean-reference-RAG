@@ -1,0 +1,12 @@
+ID: W2091974009
+TITLE: Nutrient characteristics in the Yangtze River Estuary and the adjacent East China Sea before and after impoundment of the Three Gorges Dam
+AUTHOR: ['Chao Chai', 'Zhiming Yu', 'Zhongrong Shen', 'Xiuxian Song', 'Xihua Cao', 'Yasuhiro Yao']
+ABSTRACT:
+From November 2002 to 2006, five cruises were undertaken in the Yangtze River Estuary and the adjacent East China Sea to compare the nutrient concentrations, ratios and potential nutrient limitation of phytoplankton growth before and after impoundment (June 2003) of the Three Gorges Dam (TGD). Concentrations of dissolved inorganic nitrogen (DIN), soluble reactive phosphorus (SRP) and total nitrogen (TN) exhibited an increasing trend from 2002 to 2006. In contrast, total phosphorus (TP) concentration exhibited a decreasing trend. The mean concentrations of DIN, SRP, and TN in the total study area increased from 21.4 µM, 0.9 µM, and 41.8 µM in 2002 to 37.5 µM, 1.3 µM, and 82.2 µM in 2006, respectively, while TP decreased from 2.1 µM to 1.7 µM. The concentration of dissolved reactive silica (DRSi) had no major fluctuations and the differences were not significant. The mean concentration of DRSi in the total study area ranged from 52.5 to 92.3 µM. The Si:N ratio decreased significantly from 2.7 in 2002 to 1.3 in 2006, while TN:TP ratio increased from 22.1 to 80.3. The area of potential P limitation of phytoplankton growth expanded after 2003 and potential Si limitation appeared in 2005 and 2006. Potential P limitation mainly occurred in an area of salinity less than 30 after 2003, while potential Si limitation occurred where the salinity was greater than 30. By comparison with historical data, the concentrations of nitrate and SRP in this upper estuary during November 1980–2006 increased obviously after impoundment of TGD but DRSi decreased. Meanwhile, the ratios of N:P, Si:N and Si:P decreased obviously.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 175
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Estuary', 'Salinity', 'Nutrient', 'Phosphorus', 'Phytoplankton', 'Nitrate', 'Environmental science', 'Hydrology (agriculture)', 'Nitrogen', 'China sea', 'Animal science', 'Environmental chemistry', 'Oceanography', 'Chemistry', 'Ecology', 'Biology', 'Geology', 'Geotechnical engineering', 'Organic chemistry']

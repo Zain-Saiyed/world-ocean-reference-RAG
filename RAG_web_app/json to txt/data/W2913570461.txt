@@ -1,0 +1,12 @@
+ID: W2913570461
+TITLE: Advances in research on the impacts of anti-submarine sonar on beaked whales
+AUTHOR: ['Yara Bernaldo de Quirós', 'A. Fernandez', 'Robin W. Baird', 'Robert L. Brownell', 'Natacha Aguilar de Soto', 'Donald M. Allen', 'Manuel Arbelo', 'Marina Arregui', 'A. M. Costidis', 'Andreas Fahlman', 'Alexandros Frantzis', 'Frances M. D. Gulland', 'Miguel A. Íñiguez', 'Mark Johnson', 'Anastasia Komnenou', 'Heather N. Koopman', 'D. Ann Pabst', 'Wendi D. Roe', 'Eva Sierra', 'M. Tejedor', 'Gregory S. Schorr']
+ABSTRACT:
+Mass stranding events (MSEs) of beaked whales (BWs) were extremely rare prior to the 1960s but increased markedly after the development of naval mid-frequency active sonar (MFAS). The temporal and spatial associations between atypical BW MSEs and naval exercises were first observed in the Canary Islands, Spain, in the mid-1980s. Further research on BWs stranded in association with naval exercises demonstrated pathological findings consistent with decompression sickness (DCS). A 2004 ban on MFASs around the Canary Islands successfully prevented additional BW MSEs in the region, but atypical MSEs have continued in other places of the world, especially in the Mediterranean Sea, with examined individuals showing DCS. A workshop held in Fuerteventura, Canary Islands, in September 2017 reviewed current knowledge on BW atypical MSEs associated with MFAS. Our review suggests that the effects of MFAS on BWs vary among individuals or populations, and predisposing factors may contribute to individual outcomes. Spatial management specific to BW habitat, such as the MFAS ban in the Canary Islands, has proven to be an effective mitigation tool and mitigation measures should be established in other areas taking into consideration known population-level information.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2018.2533
+CITED BY COUNT: 74
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine mammals and sonar', 'Fishery', 'Geography', 'Population', 'Submarine', 'Sonar', 'Oceanography', 'Medicine', 'Environmental health', 'Geology', 'Biology', 'Archaeology']

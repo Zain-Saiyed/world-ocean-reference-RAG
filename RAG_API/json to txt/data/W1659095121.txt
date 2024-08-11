@@ -1,0 +1,12 @@
+ID: W1659095121
+TITLE: Profiling risk and sustainability in coastal deltas of the world
+AUTHOR: ['Z. D. Tessler', 'Charles J Vörösmarty', 'Michael Grossberg', 'Irina Gladkova', 'Hannah Aizenman', 'James P. M. Syvitski', 'Efi Foufoula‐Georgiou']
+ABSTRACT:
+Deltas are highly sensitive to increasing risks arising from local human activities, land subsidence, regional water management, global sea-level rise, and climate extremes. We quantified changing flood risk due to extreme events using an integrated set of global environmental, geophysical, and social indicators. Although risks are distributed across all levels of economic development, wealthy countries effectively limit their present-day threat by gross domestic product-enabled infrastructure and coastal defense investments. In an energy-constrained future, such protections will probably prove to be unsustainable, raising relative risks by four to eight times in the Mississippi and Rhine deltas and by one-and-a-half to four times in the Chao Phraya and Yangtze deltas. The current emphasis on short-term solutions for the world's deltas will greatly constrain options for designing sustainable solutions in the long term.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/349/6248/638.full.pdf
+CITED BY COUNT: 488
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Sustainability', 'Flood myth', 'Gross domestic product', 'Delta', 'Climate change', 'Sustainable development', 'Coastal flood', 'Environmental resource management', 'Environmental planning', 'Gross Regional Product', 'Natural resource economics', 'Risk management', 'Environmental protection', 'Geography', 'Business', 'Sea level rise', 'Water resource management', 'Environmental science', 'Oceanography', 'Economy', 'Ecology', 'Economic growth', 'Geology', 'Economics', 'Aerospace engineering', 'Engineering', 'Biology', 'Archaeology', 'Finance']

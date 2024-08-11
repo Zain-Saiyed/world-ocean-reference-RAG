@@ -1,0 +1,12 @@
+ID: W2228148983
+TITLE: Economic dependence on mangrove forest resources for livelihoods in the Sundarbans, Bangladesh
+AUTHOR: ['Abu Nasar Mohammad Abdullah', 'Natasha Stacey', 'Stephen T. Garnett', 'Bronwyn Myers']
+ABSTRACT:
+This study examines the importance of mangrove resources to the livelihoods of people living beside the world's largest contiguous mangrove forest. Median annual household income was USD 1122, based on household survey data from 264 households in six villages adjacent to the Sundarbans, in Khulna, Bangladesh. Forest income represented 74% and 48% of the total household income for the lower and middle income households respectively, but just 23% for higher income households. Although higher income households derived a larger absolute income from forest resources than the lower income households, the addition of forest income to household income reduces measured income inequality by 27% suggesting that forests offer a more egalitarian source of income than most other sources at the study sites. Thus reducing forest income as a result of reduced access to forest resources would greatly affect the livelihood outcomes for the rural poor and increase wealth discrepancies among households near the forest margins.
+
+SOURCE: Forest policy and economics
+PDF URL: None
+CITED BY COUNT: 73
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Livelihood', 'Mangrove', 'Household income', 'Socioeconomics', 'Agricultural economics', 'Economics', 'Geography', 'Business', 'Ecology', 'Agriculture', 'Archaeology', 'Biology']

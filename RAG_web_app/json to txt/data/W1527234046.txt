@@ -1,0 +1,12 @@
+ID: W1527234046
+TITLE: New insights into DNA barcoding of seagrasses
+AUTHOR: ['Xuan‐Vy Nguyen', 'Saskia Höfler', 'Yvana Glasenapp', 'T. Thangaradjou', 'Christina Lucas', 'Jutta Papenbrock']
+ABSTRACT:
+Taxonomists find some plant genera challenging because of the few morphological differences or unclear characters among closely related species, which leads to the misidentification of taxa. DNA barcoding is an approach to identify species by using short orthologous DNA sequences, known as ‘DNA barcodes’. Concatenated rbcL and matK sequences are considered DNA barcodes for seagrasses. However, these markers are not applicable to all members of seagrasses at the species level, especially within the genus Halophila. Our previous studies indicated that the internal transcribed spacer (ITS) showed higher species resolution than the concatenated rbcL and matK sequences in the case of Halophila ovalis and closely related species. In this study, 26 ITS, two rbcL and two matK consensus sequences from 18 seagrass taxa belonging to four families collected in India, Vietnam, Germany, Croatia and Egypt were processed. Molecular ITS analysis resolved five clades. The results also indicate that the Cymodoceaceae family might be a non-monophyletic group. In conclusion, ITS could be applied as a DNA barcode for seagrasses instead of the rbcL/matK system previously proposed.
+
+SOURCE: Systematics and biodiversity
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Biology', 'DNA barcoding', 'Monophyly', 'Taxon', 'Clade', 'Genus', 'Evolutionary biology', 'Internal transcribed spacer', 'Seagrass', 'Phylogenetics', 'DNA sequencing', 'Botany', 'Phylogenetic tree', 'DNA', 'Ecology', 'Gene', 'Genetics', 'Ecosystem']

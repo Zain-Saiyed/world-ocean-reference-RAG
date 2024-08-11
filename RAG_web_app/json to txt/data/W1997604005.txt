@@ -1,0 +1,12 @@
+ID: W1997604005
+TITLE: Opening of the Fram Strait gateway: A review of plate tectonic constraints
+AUTHOR: ['Øyvind Engen', 'Jan Inge Faleide', 'Toril Karlberg Dyreng']
+ABSTRACT:
+We have revised the regional crustal structure, oceanic age distribution, and conjugate margin segmentation in and around the Lena Trough, the oceanic part of the Fram Strait between the Norwegian–Greenland Sea and the Eurasia Basin (Arctic Ocean). The Lena Trough started to open after Eurasia–Greenland relative plate motions changed from right-lateral shear to oblique divergence at Chron 13 times (33.3 Ma; earliest Oligocene). A new Bouguer gravity map, supported by existing seismic data and aeromagnetic profiles, has been applied to interpret the continent–ocean transition and the influence of Eocene shear structures on the timing of breakup and initial seafloor spreading. Assuming that the onset of deep-water exchange depended on the formation of a narrow, oceanic corridor, the gateway formed during early Miocene times (20–15 Ma). However, if the initial Lena Trough was blocked by terrigenous sediments or was insufficiently subsided to allow for deep-water circulation, the gateway probably formed with the first well developed magnetic seafloor spreading anomaly around Chron 5 times (9.8 Ma; Late Miocene). Paleoceanographic changes at ODP Site 909 (northern Hovgård Ridge) are consistent with both hypotheses of gateway formation. We cannot rule out that a minor gateway formed across stretched continental crust prior to the onset of seafloor spreading in the Lena Trough. The gravity, seismic and magnetic observations question the prevailing hypotheses on the Yermak Plateau and the Morris Jesup Rise as Eocene oceanic plateaus and the Hovgård Ridge as a microcontinent.
+
+SOURCE: Tectonophysics
+PDF URL: None
+CITED BY COUNT: 187
+PUBLICATION YEAR: 2008
+TYPE: review
+CONCEPTS: ['Geology', 'Seafloor spreading', 'Trough (economics)', 'Oceanic crust', 'Paleontology', 'Mid-ocean ridge', 'Tectonics', 'Seismology', 'Ridge', 'Subduction', 'Economics', 'Macroeconomics']

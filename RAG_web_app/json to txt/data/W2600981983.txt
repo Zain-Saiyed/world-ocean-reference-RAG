@@ -1,0 +1,12 @@
+ID: W2600981983
+TITLE: Contribution of the deep ocean to the centennial changes of the Indonesian Throughflow
+AUTHOR: ['Ming Feng', 'Xuebin Zhang', 'Bernadette M. Sloyan', 'Matthew A. Chamberlain']
+ABSTRACT:
+Abstract The Indonesian Throughflow (ITF) is an important component of the global overturning circulation. In this study, we amend Godfrey's Island Rule to estimate the ITF transport by including contributions from deep ocean vertical transport. Simulations using a near‐global 1/10° ocean general circulation model are used to verify the amended Island Rule. We show that deep ocean circulation is as important as wind‐driven processes to the ITF transport and variability. The centennial weakening of the ITF by 32% during the 21st century, under the high greenhouse gas emission scenario, is primarily associated with reductions in net deep ocean upwelling in the tropical and South Pacific. Deep ocean circulation of the Pacific may become less connected with the ITF transport in a warm climate.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Throughflow', 'Climatology', 'Oceanography', 'Ocean general circulation model', 'Upwelling', 'Geology', 'Ocean current', 'Centennial', 'Thermohaline circulation', 'Deep sea', 'General Circulation Model', 'Ekman transport', 'Advection', 'Climate change', 'Geography', 'Physics', 'Archaeology', 'Soil science', 'Thermodynamics']

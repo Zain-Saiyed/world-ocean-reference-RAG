@@ -1,0 +1,12 @@
+ID: W1985149054
+TITLE: Economic geology of offshore gas hydrate accumulations and provinces
+AUTHOR: ['Alexei V. Milkov', 'Roger Sassen']
+ABSTRACT:
+The economic potential of well-studied offshore gas hydrate accumulations and provinces is assessed qualitatively based on consideration of geological, technological, and economic factors. Three types of gas hydrate accumulations are suggested. Structural accumulations occur where thermogenic, bacterial, or mixed gases are rapidly transported from the subsurface petroleum system to the gas hydrate stability zone along faults, mud volcanoes, and other structures (e.g. northwestern Gulf of Mexico, Hydrate Ridge, and Haakon Mosby mud volcano). These accumulations are generally characterized by high gas hydrate concentration in sediment, high resource density, high recovery factors, as well as low development and production costs. It is likely that structural accumulations provide marginal or economic gas hydrate reserves if they represent significant volumes of hydrate-bound gas. Stratigraphic accumulations occur in relatively permeable sediments and form largely from bacterial methane generated in situ or slowly migrated from depth in the section (e.g. Blake Ridge, Gulf of Mexico minibasins). These accumulations are generally characterized by low gas hydrate concentration in sediments and low recovery factor, as well as high development and production costs. Stratigraphic accumulations mainly provide a subeconomic gas hydrate resource. However, in cases such as the Nankai Trough province, high gas hydrate concentration occurs in permeable sand layers and may represent a viable exploration and exploitation target. Less geological data are available on the combination gas hydrate accumulations controlled both by structures and stratigraphy. On the global scale, gas hydrate reserves are likely to represent only a small fraction of the gas hydrate resource because the largest volume of gas hydrate is in subeconomic stratigraphic accumulations. However, some concentrated gas hydrate accumulations may be exploited profitably, and those should be subjected to detailed quantitative economic analysis.
+
+SOURCE: Marine and petroleum geology
+PDF URL: None
+CITED BY COUNT: 178
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Clathrate hydrate', 'Geology', 'Hydrate', 'Submarine pipeline', 'Methane', 'Sediment', 'Mud volcano', 'Ridge', 'Geochemistry', 'Geomorphology', 'Geotechnical engineering', 'Paleontology', 'Chemistry', 'Organic chemistry']

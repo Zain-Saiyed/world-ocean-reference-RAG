@@ -1,0 +1,12 @@
+ID: W2166423574
+TITLE: Physiological effects of environmental acidification in the deep-sea urchin &amp;lt;i&amp;gt;Strongylocentrotus fragilis&amp;lt;/i&amp;gt;
+AUTHOR: ['James B. Taylor', 'C. Lovera', 'Patrick J. Whaling', 'Kurt R. Buck', 'Eric F. Pane', 'James Barry']
+ABSTRACT:
+Abstract. Anthropogenic CO2 is now reaching depths over 1000 m in the Eastern Pacific, overlapping the Oxygen Minimum Zone (OMZ). Deep-sea animals are suspected to be especially sensitive to environmental acidification associated with global climate change. We have investigated the effects of elevated pCO2 and variable O2 on the deep-sea urchin Strongylocentrotus fragilis, a species whose range of 200–1200 m depth includes the OMZ and spans a pCO2 range of approx. 600–1200 μatm (approx. pH 7.6 to 7.8). Individuals were evaluated during two exposure experiments (1-month and 4 month) at control and three levels of elevated pCO2 at in situ O2 levels of approx. 10% air saturation. A treatment of control pCO2 at 100% air saturation was also included in experiment two. During the first experiment, perivisceral coelomic fluid (PCF) acid-base balance was investigated during a one-month exposure; results show S. fragilis has limited ability to compensate for the respiratory acidosis brought on by elevated pCO2, due in part to low non-bicarbonate PCF buffering capacity. During the second experiment, individuals were separated into fed and fasted experimental groups, and longer-term effects of elevated pCO2 and variable O2 on righting time, feeding, growth, and gonadosomatic index (GSI) were investigated for both groups. Results suggest that the acidosis found during experiment one does not directly correlate with adverse effects during exposure to realistic future pCO2 levels.
+
+SOURCE: Biogeosciences
+PDF URL: https://bg.copernicus.org/articles/11/1413/2014/bg-11-1413-2014.pdf
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Sea urchin', 'pCO2', 'Animal science', 'Biology', 'Seawater', 'Ecology', 'Internal medicine', 'Medicine']

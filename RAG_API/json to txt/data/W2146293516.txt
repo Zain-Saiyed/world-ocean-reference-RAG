@@ -1,0 +1,12 @@
+ID: W2146293516
+TITLE: Fifty-Year Trends in Global Ocean Salinities and Their Relationship to Broad-Scale Warming
+AUTHOR: ['Paul J. Durack', 'Susan Wijffels']
+ABSTRACT:
+Abstract Using over 1.6 million profiles of salinity, potential temperature, and neutral density from historical archives and the international Argo Program, this study develops the three-dimensional field of multidecadal linear change for ocean-state properties. The period of analysis extends from 1950 to 2008, taking care to minimize the aliasing associated with the seasonal and major global El Niño–Southern Oscillation modes. Large, robust, and spatially coherent multidecadal linear trends in salinity to 2000-dbar depth are found. Salinity increases at the sea surface are found in evaporation-dominated regions and freshening in precipitation-dominated regions, with the spatial pattern of change strongly resembling that of the mean salinity field, consistent with an amplification of the global hydrological cycle. Subsurface salinity changes on pressure surfaces are attributable to both isopycnal heave and real water-mass modification of the temperature–salinity relationship. Subduction and circulation by the ocean’s mean flow of surface salinity and temperature anomalies appear to account for most regional subsurface salinity changes on isopycnals. Broad-scale surface warming and the associated poleward migration of isopycnal outcrops drive a clear and repeating pattern of subsurface isopycnal salinity change in each independent ocean basin. Qualitatively, the observed global multidecadal salinity changes are thus consonant with both broad-scale surface warming and the amplification of the global hydrological cycle.
+
+SOURCE: Journal of climate
+PDF URL: None
+CITED BY COUNT: 522
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Isopycnal', 'Salinity', 'Climatology', 'Argo', 'Atlantic multidecadal oscillation', 'Geology', 'Global warming', 'Temperature salinity diagrams', 'Sea surface temperature', 'Environmental science', 'Thermohaline circulation', 'Water cycle', 'Oceanography', 'Climate change', 'Ecology', 'Biology']

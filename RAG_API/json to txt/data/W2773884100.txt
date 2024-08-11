@@ -1,0 +1,12 @@
+ID: W2773884100
+TITLE: Marine plastic pollution as a planetary boundary threat – The drifting piece in the sustainability puzzle
+AUTHOR: ['Patricia Villarrubia-Gómez', 'Sarah Cornell', 'Joan Fabrés']
+ABSTRACT:
+The exponential increase in the use of plastic in modern society and the inadequate management of the resulting waste have led to its accumulation in the marine environment. There is increasing evidence of numerous mechanisms by which marine plastic pollution is causing effects across successive levels of biological organization. This will unavoidably impact ecological communities and ecosystem functions. A remaining question to be answered is if the concentration of plastic in the ocean, today or in the future, will reach levels above a critical threshold leading to global effects in vital Earth-system processes, thus granting the consideration of marine plastic pollution as a key component of the planetary boundary threat associated with chemical pollutants. Possible answers to this question are explored by reviewing and evaluating existing knowledge of the effects of plastic pollution in marine ecosystems and the ‘core planetary boundaries’, biosphere integrity and climate change. The irreversibility and global ubiquity of marine plastic pollution mean that two essential conditions for a planetary boundary threat are already met. The Earth system consequences of plastic pollution are still uncertain, but pathways and mechanisms for thresholds and global systemic change are identified. Irrespective of the recognition of plastic as a novel entity in the planetary boundaries framework, it is certain that marine plastic pollution is closely intertwined with global processes to a point that deserves careful management and prevention.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 356
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Planetary boundaries', 'Plastic pollution', 'Biosphere', 'Pollution', 'Sustainability', 'Marine ecosystem', 'Environmental science', 'Ecosystem', 'Earth system science', 'Lead (geology)', 'Tipping point (physics)', 'Environmental resource management', 'Ecology', 'Geology', 'Biology', 'Engineering', 'Geomorphology', 'Electrical engineering']

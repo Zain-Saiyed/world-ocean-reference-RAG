@@ -1,0 +1,12 @@
+ID: W2941316116
+TITLE: Improving estimates of coral reef construction and erosion with in situ measurements
+AUTHOR: ['Ilsa B. Kuffner', 'Lauren T. Toth', 'J. Harold Hudson', 'William B. Goodwin', 'Anastasios Stathakopoulos', 'Lucy A. Bartlett', 'Elizabeth Whitcher']
+ABSTRACT:
+Abstract The decline in living coral since the 1970s has conspicuously slowed reef construction on a global scale, but the related process of reef erosion is less visible and not often quantified. Here, we present new data on the constructional and deconstructional sides of the carbonate‐budget equation in the Florida Keys, U.S.A. We documented Orbicella spp. calcification rates at four offshore reefs and quantified decadal‐scale rates of Orbicella ‐reef erosion at a mid‐shore patch reef. Using Orbicella coral heads fitted with permanent markers in 1998, we measured reef‐elevation loss at 28 stations over 17.3 yr to estimate a mean erosion rate of −5.5 (± 3.2, SD) mm yr −1 . This loss equates to an erosion rate of −8.2 (± 4.8, SD) kg m −2 yr −1 on dead Orbicella colonies, or −6.6 kg m −2 yr −1 when adjusted reef‐wide. Calculating net carbonate production using a census‐based approach on the same patch reef in 2017, we estimated a reef‐wide bioerosion rate of −1.9 (± 2.0, SD) kg m −2 yr −1 , and a net carbonate production rate of 0.5 (± 0.3, SD) kg m −2 yr −1 . Substituting the erosion rate we estimated with the markers would suggest that net carbonate production at this patch reef was lower and negative, −4.2 kg m −2 yr −1 . This divergence could be a function of high erosion rates measured on the tops of Orbicella colonies, which may be preferentially targeted by parrotfish. Nonetheless, our study suggests the need for new field data to improve estimates of reef‐structure persistence as coral reefs continue to degrade.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: None
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Reef', 'Bioerosion', 'Coral reef', 'Coral', 'Parrotfish', 'Oceanography', 'Erosion', 'Geology', 'Carbonate', 'Environmental science', 'Geomorphology', 'Materials science', 'Metallurgy']

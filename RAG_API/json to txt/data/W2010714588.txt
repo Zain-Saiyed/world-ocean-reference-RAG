@@ -1,0 +1,12 @@
+ID: W2010714588
+TITLE: Heavy metal contamination of coastal lagoon sediments: Fongafale Islet, Funafuti Atoll, Tuvalu
+AUTHOR: ['Masafumi Fujita', 'Yoichi Ide', 'Daisaku Sato', 'Paul S. Kench', 'Yuji Kuwahara', 'Hiromune Yokoki', 'Hajime Kayanne']
+ABSTRACT:
+To evaluate contamination of coastal sediments along Fongafale Islet, Central Pacific, a field survey was conducted in densely populated, sparsely populated, open dumping and undisturbed natural areas. Current measurements in shallow water of the lagoon indicated that contaminants from the densely populated area would only be transported for a small proportion of a tidal cycle. Acid-volatile sulfides were detected in both the intertidal beach and nearshore zones of the densely populated area, whereas these were no detection in the other areas. This observation lends support to argument that the coastal pollution mechanism that during ebb tide, domestic wastewater leaking from poorly constructed sanitary facilities seeps into the coast. The total concentrations of Cr, Mn, Ni, Cu, Zn, Cd and Pb were relatively high in all of the areas except the undisturbed natural area. The indices of contamination factor, pollution load index and geoaccumulation index were indicative of heavy metal pollution in the three areas. The densely populated area has the most significant contamination; domestic wastewater led to significant contamination of coastal sediments with Cr, Zn, Cu, Pb and Cd. The open dumping area is noteworthy with respect to Mn and Ni, which can be derived from disposed batteries.
+
+SOURCE: Chemosphere
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S0045653513014227
+CITED BY COUNT: 98
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Contamination', 'Environmental science', 'Pollution', 'Intertidal zone', 'Atoll', 'Wastewater', 'Water pollution', 'Hydrology (agriculture)', 'Environmental chemistry', 'Oceanography', 'Environmental engineering', 'Geology', 'Ecology', 'Reef', 'Chemistry', 'Geotechnical engineering', 'Biology']

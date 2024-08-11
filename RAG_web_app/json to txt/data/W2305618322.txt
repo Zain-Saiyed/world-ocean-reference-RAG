@@ -1,0 +1,12 @@
+ID: W2305618322
+TITLE: The Vietnamese State and Administrative Co-Management of Nature Reserves
+AUTHOR: ['Kim-Dung Nguyen', 'Simon R. Bush', 'A.P.J. Mol']
+ABSTRACT:
+The Vietnamese government has introduced co-management in its national system of special-use forests (SUFs) to improve the effectiveness of nature and biodiversity conservation. One of the major challenges is to allow flexibility and local adaptability of co-management coordinated by SUF management boards within the overall still-rigid structure of vertical state networks. Using a critical institutional perspective, this paper examines the influence of the vertical and horizontal linkages that underline the form and function of SUF co-management. Data is presented from a nation-wide survey of 113 SUFs, 22 random in-depth interviews, and four in-depth case studies of SUFs. The results show that the success of co-management in centralized states like Vietnam depends on the greater devolution of allocative power from central to district governments to facilitate horizontal networked collaboration with local communities. Yet the results also indicate that the central state maintains an important role in setting the conditions that allow for the success of these networked collaborations. Based on these findings the conclusions reflect on the need to further develop a critical institutional approach for understanding the purpose, interests, and resources of co-management in the context of centralized states.
+
+SOURCE: Sustainability
+PDF URL: https://www.mdpi.com/2071-1050/8/3/292/pdf?version=1458648736
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Devolution (biology)', 'Vietnamese', 'Context (archaeology)', 'Allocative efficiency', 'Business', 'Flexibility (engineering)', 'State (computer science)', 'Adaptability', 'Function (biology)', 'Environmental resource management', 'Government (linguistics)', 'Environmental planning', 'Economic system', 'Environmental economics', 'Economics', 'Geography', 'Computer science', 'Philosophy', 'Linguistics', 'Neoclassical economics', 'Management', 'Archaeology', 'Algorithm', 'Evolutionary biology', 'Biology', 'Human evolution']

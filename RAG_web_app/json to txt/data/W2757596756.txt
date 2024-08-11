@@ -1,0 +1,12 @@
+ID: W2757596756
+TITLE: Climate Change, Zooplankton and Fisheries
+AUTHOR: ['Hans G. Dam', 'Hannes Baumann']
+ABSTRACT:
+We summarize responses to and mechanisms by which zooplankton cope with climate change. Effects of ocean warming include altered phenology, body size reduction, decline of tropical zooplankton biomass, functional group shifts in Polar Regions, and poleward expansion of zooplankton distributions. Thermal specialists (zooplankton from tropical and Polar Regions) may already perform near their limits and will be more vulnerable to warming. Evolutionary adaptation may mitigate, but not always fully offset the adverse effects of warming; thus, dispersal may play a prevalent role in the future distribution of species. While direct negative effects of ocean acidification is largely confined to calcifying organisms, early life stages of noncalcifying species (e.g., copepods, fish larvae) are susceptible to sublethal effects, particularly in combination with increasing temperature. Evidence is emerging for a large adaptation potential to hypercapnia in zooplankton. Hypoxia negatively affects physiology and life history traits. Despite zooplankton physiological and behavioral adaptations to hypoxia, shoaling of hypoxic waters likely increases predation mortality. Combined effects of warming, hypercapnia and hypoxia are poorly characterized or understood, but will likely depress performance and narrow the thermal performance curve. Climate change could result in different kinds of mismatches between zooplankton and fish larvae, e.g, (i) temporal; (ii) spatial; (iii) bioenergetics; and (iv) evolutionary mis-matches that individually or in combination, would result in altered larval fish growth and survival. Linkages between climate, zooplankton and fisheries are explored using the Baltic Sea as a case study.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2017
+TYPE: other
+CONCEPTS: ['Zooplankton', 'Ecology', 'Climate change', 'Global warming', 'Biology', 'Hypoxia (environmental)', 'Ocean acidification', 'Effects of global warming on oceans', 'Predation', 'Effects of global warming', 'Ecosystem', 'Environmental science', 'Chemistry', 'Organic chemistry', 'Oxygen']

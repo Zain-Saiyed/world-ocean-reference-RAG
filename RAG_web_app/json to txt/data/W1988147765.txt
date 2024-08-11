@@ -1,0 +1,12 @@
+ID: W1988147765
+TITLE: Human pressures and their potential impact on the Baltic Sea ecosystem
+AUTHOR: ['Samuli Korpinen', 'Laura Meski', 'Jesper H. Andersen', 'Maria Laamanen']
+ABSTRACT:
+The EU Marine Strategy Framework Directive requires Member States to estimate the level of human impacts on their marine waters. We report the first attempt to quantify the magnitude and distribution of cumulative impacts of anthropogenic pressures for an entire regional sea, the Baltic Sea. We used a method which takes account of the sensitivity of different ecosystem components and gives scores for potential impacts in 5 km × 5 km areas. Our quantification of impacts was based on data layers of anthropogenic pressures and ecosystem components. The classification of the anthropogenic pressures follows the MSFD and the outcome of the index was targeted to facilitate the implementation of the directive. The study presents the cumulative impacts over the entire sea area and shows that the highest estimated impacts were in the southern and south-western sea areas and in the Gulf of Finland. The lowest index values were found in the Gulf of Bothnia. The results coincide with the population densities of the adjacent catchment areas. Fishing, inputs of nutrients and organic matter and inputs of hazardous substances comprised 25%, 30% and 30%, respectively, of the total cumulative impact. The approach used is transparent and the results are useful in regard to ecosystem-based management, e.g. for area-based management and assessments. Examples of uses are given together with analysis of the strengths and weaknesses of the approach.
+
+SOURCE: Ecological indicators
+PDF URL: None
+CITED BY COUNT: 188
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Marine Strategy Framework Directive', 'Environmental science', 'Ecosystem', 'Baltic sea', 'Marine ecosystem', 'Fishing', 'Population', 'Water Framework Directive', 'Marine protected area', 'Cumulative effects', 'Physical geography', 'Oceanography', 'Fishery', 'Environmental resource management', 'Geography', 'Ecology', 'Water quality', 'Geology', 'Habitat', 'Demography', 'Sociology', 'Biology']

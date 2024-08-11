@@ -1,0 +1,12 @@
+ID: W2594335126
+TITLE: Shifting paradigms in restoration of the world's coral reefs
+AUTHOR: ['Madeleine J. H. van Oppen', 'Ruth D. Gates', 'Linda L. Blackall', 'Neal Cantin', 'Leela J. Chakravarti', 'Wing Yan Chan', 'Craig Cormick', 'Angela J. Crean', 'Katarina Damjanovic', 'Hannah E. Epstein', 'Peter Harrison', 'Thomas A. Jones', 'Margaret W. Miller', 'Rachel Pears', 'Lesa M. Peplow', 'David A. Raftos', 'Britta Schaffelke', 'Kristen Stewart', 'Gergely Torda', 'David Wachenfeld', 'Andrew R. Weeks', 'Hollie M. Putnam']
+ABSTRACT:
+Abstract Many ecosystems around the world are rapidly deteriorating due to both local and global pressures, and perhaps none so precipitously as coral reefs. Management of coral reefs through maintenance (e.g., marine‐protected areas, catchment management to improve water quality), restoration, as well as global and national governmental agreements to reduce greenhouse gas emissions (e.g., the 2015 Paris Agreement) is critical for the persistence of coral reefs. Despite these initiatives, the health and abundance of corals reefs are rapidly declining and other solutions will soon be required. We have recently discussed options for using assisted evolution (i.e., selective breeding, assisted gene flow, conditioning or epigenetic programming, and the manipulation of the coral microbiome) as a means to enhance environmental stress tolerance of corals and the success of coral reef restoration efforts. The 2014–2016 global coral bleaching event has sharpened the focus on such interventionist approaches. We highlight the necessity for consideration of alternative (e.g., hybrid) ecosystem states, discuss traits of resilient corals and coral reef ecosystems, and propose a decision tree for incorporating assisted evolution into restoration initiatives to enhance climate resilience of coral reefs.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 335
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Coral reef', 'Resilience of coral reefs', 'Reef', 'Coral', 'Aquaculture of coral', 'Coral reef protection', 'Coral reef organizations', 'Environmental issues with coral reefs', 'Marine ecosystem', 'Coral bleaching', 'Environmental science', 'Ecology', 'Ecosystem', 'Climate change', 'Fishery', 'Biology']

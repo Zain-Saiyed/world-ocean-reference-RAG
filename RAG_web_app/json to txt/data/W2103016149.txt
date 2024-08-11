@@ -1,0 +1,12 @@
+ID: W2103016149
+TITLE: Bioaccumulation of Hg, Cu, and Zn in the Azores triple junction hydrothermal vent fields food web
+AUTHOR: ['Ana Colaço', 'Paco Bustamante', 'Yves Fouquet', 'Pierre‐Marie Sarradin', 'Ricardo Serrão Santos']
+ABSTRACT:
+In this work, mercury (Hg), copper (Cu) and zinc (Zn) concentrations and tissue distribution are determined in seven benthic invertebrates species (the key species) from the Mid Atlantic Ridge (MAR) hydrothermal vent fields. The samples were collected from three hydrothermal vent fields – Menez Gwen, 840 m; Lucky Strike, 1700 m and Rainbow, 2300 m – near the Azores Triple Junction. These fields are characterized by different depths, geological context and chemical composition of the hydrothermal fluid, particularly the metal content, which is reflected by the metal concentrations in the organisms. Indeed, our results show that organisms from Menez Gwen presented the highest Hg concentrations, while those from Lucky Strike and Rainbow were richer in Cu and Zn. The potential transfer of these metals through two trophic links are also evaluated and include (1) the mussel Bathymodiolus azoricus and the commensal worm Branchipolynoe seepensis, and (2) three different species of shrimps and the crab Segonzacia mesatlantica. No evidence of Hg biomagnification in either of the vent food chains is clearly observed but an increase in Hg accumulation from prey to predator in the crustacean food chain. The same pattern was observed for Cu and Zn, even though these metals are not known to be generally biomagnified in food chains.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Bioaccumulation', 'Biomagnification', 'Hydrothermal vent', 'Trophic level', 'Food chain', 'Benthic zone', 'Food web', 'Mussel', 'Environmental chemistry', 'Chemosynthesis', 'Hydrothermal circulation', 'Invertebrate', 'Mercury (programming language)', 'Context (archaeology)', 'Ecology', 'Biology', 'Chemistry', 'Paleontology', 'Computer science', 'Programming language']

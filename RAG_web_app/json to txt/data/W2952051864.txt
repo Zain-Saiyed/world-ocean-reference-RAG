@@ -1,0 +1,12 @@
+ID: W2952051864
+TITLE: Developing a Social–Ecological–Environmental System Framework to Address Climate Change Impacts in the North Pacific
+AUTHOR: ['Steven J. Bograd', 'Sukyung Kang', 'Emanuele Di Lorenzo', 'Toyomitsu Horii', 'Oleg N. Katugin', 'Jacquelynne R. King', 'В. Б. Лобанов', 'Mitsutaku Makino', 'Guangshui Na', 'R. Ian Perry', 'Fangli Qiao', 'Ryan R. Rykaczewski', 'Hiroaki Saito', 'Thomas W. Therriault', 'Sinjae Yoo', 'Harold P. Batchelder']
+ABSTRACT:
+'Forecasting and Understanding Trends, Uncertainty and Responses of North Pacific Marine Ecosystems' (FUTURE) is the flagship integrative Scientific Program undertaken by the member nations and affiliates of the North Pacific Marine Science Organization (PICES). A principal goal of FUTURE is to develop a framework for investigating interactions across disciplinary dimensions in order to most effectively understand large-scale ecosystem changes and resulting impacts on coastal communities. These interactions are complex, often nonlinear, occur across a range of spatial and temporal scales, and can complicate management approaches to shared and trans-boundary problems. Here we present a Social-Ecological-Environmental Systems (SEES) framework to coordinate and integrate marine science within PICES. We demonstrate the application of this framework by applying it to four 'crisis' case studies: (a) species alternation in the western North Pacific; (b) ecosystem impacts of an extreme heat wave in the eastern North Pacific; (c) jellyfish blooms in the western North Pacific; and (d) Pacific basin-scale warming and species distributional shifts. Our approach fosters a common transdisciplinary language and knowledge base across diverse expertise, providing the basis for developing better integrated end-to-end models. PICES provides the structure required to address these and other multi-national, inter-disciplinary issues we face in the North Pacific. An effective and comprehensive SEES approach is broadly applicable to understanding and maintaining resilient marine ecosystems within a changing climate.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00333/pdf
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Environmental resource management', 'Ecosystem', 'Temporal scales', 'Climate change', 'Geography', 'Scale (ratio)', 'Ecosystem-based management', 'Ecology', 'Oceanography', 'Environmental science', 'Geology', 'Cartography', 'Biology']

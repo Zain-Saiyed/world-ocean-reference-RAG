@@ -1,0 +1,12 @@
+ID: W2069443365
+TITLE: Preferred use of bacteria over phytoplankton by deep-sea nematodes in polar regions
+AUTHOR: ['Jeroen Ingels', 'P. van den Driessche', 'Ilse De Mesel', 'S. Vanhove', 'Tom Moens', 'Ann Vanreusel']
+ABSTRACT:
+The present study explored the selective feeding properties of Antarctic and Arctic deep-sea nematodes within an experimental setup.Nematodes are assumed to play an important role in the carbon flux within the polar bathyal food webs, but knowledge about their natural diets is limited.For the first time, deep-sea multicore sediment samples from both polar regions were incubated aboard research vessels with either 13 C-labelled bacteria or diatoms to determine whether the nematode community prefers freshly settled phytodetritus to a bacterial food source.The cores were collected at 2112 to 2400 m water depth and incubated onboard for 1, 3 and 6 d in the Arctic (Hausgarten) and for 1, 7 and 14 d in Antarctica (Kapp Norvegia).Natural carbon isotope signals of nematodes and organic sedimentary carbon showed a clear average offset (+ 3.2 ‰).The contribution of bacteria to the diet of nematodes explained this 13 C offset and observed natural 13 C isotopic signatures.The nematodes showed a clear, relatively rapid (maximum at 6 to 7 d) and significant selective response to the pulse of 13 C enriched bacteria in surface sediments of both regions.This indicated that bacteria were preferred over fresh phytoplankton as a carbon source for both Arctic and Antarctic deep-sea nematode communities.The results also suggest that bacteria may provide a path through which unused detritus may enter the traditional metazoan food web by microbial reworking of organic matter.At the same time, uptake rates of nematode communities were minimal, which suggests the contribution of nematodes to benthic mineralisation of freshly deposited organic matter may be limited in deep polar seas.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2010/406/m406p121.pdf
+CITED BY COUNT: 55
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Arctic', 'Deep sea', 'Phytoplankton', 'Oceanography', 'Polar', 'Bathyal zone', 'Ecology', 'Phytodetritus', 'Biology', 'Environmental science', 'Geology', 'Nutrient', 'Physics', 'Astronomy', 'Benthic zone']

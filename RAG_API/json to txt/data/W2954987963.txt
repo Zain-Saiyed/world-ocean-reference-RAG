@@ -1,0 +1,12 @@
+ID: W2954987963
+TITLE: The Active Reef Restoration Toolbox is a Vehicle for Coral Resilience and Adaptation in a Changing World
+AUTHOR: ['Rinkevich']
+ABSTRACT:
+The accelerating marks of climate change on coral-reef ecosystems, combined with the recognition that traditional management measures are not efficient enough to cope with climate change tempo and human footprints, have raised a need for new approaches to reef restoration. The most widely used approach is the “coral gardening” tenet; an active reef restoration tactic based on principles, concepts, and theories used in silviculture. During the relatively short period since its inception, the gardening approach has been tested globally in a wide range of reef sites, and on about 100 coral species, utilizing hundreds of thousands of nursery-raised coral colonies. While still lacking credibility for simulating restoration scenarios under forecasted climate change impacts, and with a limited adaptation toolkit used in the gardening approach, it is still deficient. Therefore, novel restoration avenues have recently been suggested and devised, and some have already been tested, primarily in the laboratory. Here, I describe seven classes of such novel avenues and tools, which include the improved gardening methodologies, ecological engineering approaches, assisted migration/colonization, assisted genetics/evolution, assisted microbiome, coral epigenetics, and coral chimerism. These are further classified into three operation levels, each dependent on the success of the former level. Altogether, the seven approaches and the three operation levels represent a unified active reef restoration toolbox, under the umbrella of the gardening tenet, focusing on the enhancement of coral resilience and adaptation in a changing world.
+
+SOURCE: Journal of marine science and engineering
+PDF URL: https://www.mdpi.com/2077-1312/7/7/201/pdf?version=1562055217
+CITED BY COUNT: 62
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coral reef', 'Coral', 'Climate change', 'Reef', 'Adaptation (eye)', 'Resilience of coral reefs', 'Ecology', 'Toolbox', 'Environmental resource management', 'Restoration ecology', 'Coral reef organizations', 'Psychological resilience', 'Coral reef protection', 'Environmental science', 'Biology', 'Computer science', 'Psychology', 'Neuroscience', 'Psychotherapist', 'Programming language']

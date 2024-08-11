@@ -1,0 +1,12 @@
+ID: W2626359168
+TITLE: Ecological effects of scrubber water discharge on coastal plankton: Potential synergistic effects of contaminants reduce survival and feeding of the copepod Acartia tonsa
+AUTHOR: ['Marja Koski', 'Colin A. Stedmon', 'Stefan Trapp']
+ABSTRACT:
+To meet the oncoming requirements for lower sulphur emissions, shipping companies can install scrubbers where the exhaust is sprayed with seawater and subsequently discharged to the sea. The discharge water has a pH around 3 and contains elevated concentrations of vanadium, nickel, lead and hydrocarbons. We investigated 1) the threshold concentrations of scrubber discharge water for survival, feeding and reproduction of the copepod Acartia tonsa, 2) whether the effects depend on the exposure route and 3) whether exposure to discharge water can be detected in field-collected organisms. A direct exposure to discharge water increased adult copepod mortality and reduced feeding at metal concentrations which were orders of magnitude lower than the lethal concentrations in previous single-metal studies. In contrast, reproduction was not influenced by dietary uptake of contaminants. Scrubber water constituents could have synergistic effects on plankton productivity and bioaccumulation of metals, although the effects will depend on their dilution in the marine environment.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Acartia tonsa', 'Copepod', 'Plankton', 'Bioaccumulation', 'Environmental science', 'Environmental chemistry', 'Seawater', 'Scrubber', 'Contamination', 'Ecology', 'Chemistry', 'Biology', 'Crustacean', 'Organic chemistry']

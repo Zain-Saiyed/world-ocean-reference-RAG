@@ -1,0 +1,12 @@
+ID: W2011923115
+TITLE: The deep sea is a major sink for microplastic debris
+AUTHOR: ['Lucy C. Woodall', 'Anna Sánchez‐Vidal', 'Miquel Canals', 'Gordon L.J. Paterson', 'Rachel Coppock', 'Victoria A. Sleight', 'Antoni Calafat', 'Alex D. Rogers', 'Bhavani E. Narayanaswamy', 'Richard C. Thompson']
+ABSTRACT:
+Marine debris, mostly consisting of plastic, is a global problem, negatively impacting wildlife, tourism and shipping. However, despite the durability of plastic, and the exponential increase in its production, monitoring data show limited evidence of concomitant increasing concentrations in marine habitats. There appears to be a considerable proportion of the manufactured plastic that is unaccounted for in surveys tracking the fate of environmental plastics. Even the discovery of widespread accumulation of microscopic fragments (microplastics) in oceanic gyres and shallow water sediments is unable to explain the missing fraction. Here, we show that deep-sea sediments are a likely sink for microplastics. Microplastic, in the form of fibres, was up to four orders of magnitude more abundant (per unit volume) in deep-sea sediments from the Atlantic Ocean, Mediterranean Sea and Indian Ocean than in contaminated sea-surface waters. Our results show evidence for a large and hitherto unknown repository of microplastics. The dominance of microfibres points to a previously underreported and unsampled plastic fraction. Given the vastness of the deep sea and the prevalence of microplastics at all sites we investigated, the deep-sea floor appears to provide an answer to the question-where is all the plastic?
+
+SOURCE: Royal Society open science
+PDF URL: None
+CITED BY COUNT: 1372
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Microplastics', 'Marine debris', 'Sink (geography)', 'Ocean gyre', 'Debris', 'Environmental science', 'Oceanography', 'Plastic pollution', 'Deep sea', 'Mediterranean sea', 'Geology', 'Fishery', 'Mediterranean climate', 'Ecology', 'Biology', 'Geography', 'Subtropics', 'Cartography']

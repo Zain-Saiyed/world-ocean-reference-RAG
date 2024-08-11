@@ -1,0 +1,12 @@
+ID: W2589690325
+TITLE: Sustained disruption of narwhal habitat use and behavior in the presence of Arctic killer whales
+AUTHOR: ['Greg A. Breed', 'C.J. Matthews', 'Marianne Marcoux', 'Jeff W. Higdon', 'Bernard Leblanc', 'Stephen D. Petersen', 'Jack Orr', 'Natalie R. Reinhart', 'Steven H. Ferguson']
+ABSTRACT:
+Significance Predators are widely understood to impact the structure and stability of ecosystems. In the Arctic, summer sea ice is rapidly declining, degrading habitat for Arctic species, such as polar bears and ringed seals, but also providing more access to important predators, such as killer whales. Using data from concurrently tracked predator (killer whales) and prey (narwhal), we show that the presence of killer whales significantly changes the behavior and distribution of narwhal. Because killer whales are effective predators of many marine mammals, similar predator-induced changes would be expected in the behavior of tracked animals in marine ecosystems worldwide. However, these effects are rarely considered and may frequently go unrecognized.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/114/10/2628.full.pdf
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Predation', 'Arctic', 'Habitat', 'Apex predator', 'Whale', 'Biology', 'Ecosystem', 'Marine mammal', 'Ecology', 'Marine ecosystem', 'Predator', 'Fishery']

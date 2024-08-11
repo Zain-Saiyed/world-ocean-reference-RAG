@@ -1,0 +1,12 @@
+ID: W2147331520
+TITLE: The Geological Record of Ocean Acidification
+AUTHOR: ['Bärbel Hönisch', 'Andy Ridgwell', 'Daniela N. Schmidt', 'Ellen Thomas', 'Samantha J. Gibbs', 'Appy Sluijs', 'Richard E. Zeebe', 'Lee R. Kump', 'Rowan C. Martindale', 'Sarah E. Greene', 'Wolfgang Kiessling', 'Justin B. Ries', 'James C. Zachos', 'Dana L. Royer', 'Stephen Barker', 'Thomas M. Marchitto', 'Ryan P. Moyer', 'Carles Pelejero', 'Patrizia Ziveri', 'Gavin L. Foster', 'B. Williams']
+ABSTRACT:
+Acid History As human activity continues to pump nearly 50-fold more CO 2 into the atmosphere than any existing natural sources, the oceans absorb it. Over time, this vast quantity of excess oceanic CO 2 is expected to decrease oceanic pH and have marked effects on calcifying marine species. Looking to the past for records of the consequences, other instances of ocean acidification in geologic history caused by large natural events, such as volcanism, may help predict the oceans' response to contemporary CO 2 levels. Hönisch et al. (p. 1058 ) review the geological events that potentially altered oceanic pH, from the last deglaciation to the largest mass extinction in Earth's history. The current rate of anthropogenic CO 2 input into the oceans is much faster than at any other instance in the past, but yet it is unclear whether or not future ocean pH will be significantly affected.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 863
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Environmental science', 'Marine ecosystem', 'Ecosystem', 'Ocean chemistry', 'Oceanography', 'Effects of global warming on oceans', 'Climate change', 'Ecology', 'Global warming', 'Earth science', 'Seawater', 'Geology', 'Biology']

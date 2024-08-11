@@ -1,0 +1,12 @@
+ID: W2890224298
+TITLE: Environmental Effects of Marine Transportation
+AUTHOR: ['Tony R. Walker', 'Olubukola Adebambo', 'Monica C. Del Aguila Feijoo', 'Elias Elhaimer', 'Tahazzud Hossain', 'Stuart Johnston Edwards', 'Courtney E. Morrison', 'Tony R. Walker', 'Nameeta Sharma', 'Stephanie Taylor', 'Sanam Zomorodi']
+ABSTRACT:
+Marine transportation drives global trade, moving > 10 billion tons of containers, solid, and liquid bulk cargo across the world’s seas annually. Historically, shipping companies and ports operated with limited environmental oversight, but accidental oil spills in the 1960s, caused widespread coastal pollution and seabird mortality, triggering the International Convention for the Prevention of Pollution from Ships (MARPOL). MARPOL is the main international convention to prevent marine pollution by ships from operational or accidental causes. Additionally, the International Maritime Organization (IMO) uses various instruments to protect the marine environment from shipping activities. Nevertheless, marine transportation still generates negative impacts on the marine environment, including air pollution, greenhouse gas emissions, releases of ballast water containing aquatic invasive species, historical use of antifoulants, oil and chemical spills, dry bulk cargo releases, garbage, underwater noise pollution; ship-strikes on marine megafauna, risk of ship grounding or sinkings, and widespread sediment contamination of ports during transshipment or ship breaking activities. This chapter summarizes the environmental effects of marine transportation and describes the mitigative, legislative, and environmental performance measures currently available to improve management of these global issues.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Marine pollution', 'Ballast', 'Garbage', 'Environmental science', 'Pollution', 'Marine debris', 'Environmental protection', 'Environmental planning', 'Engineering', 'Oceanography', 'Waste management', 'Debris', 'Ecology', 'Geology', 'Electrical engineering', 'Biology']

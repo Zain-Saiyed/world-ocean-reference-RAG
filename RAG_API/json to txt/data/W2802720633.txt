@@ -1,0 +1,12 @@
+ID: W2802720633
+TITLE: Major threats of pollution and climate change to global coastal ecosystems and enhanced management for sustainability
+AUTHOR: ['Yonglong Lü', 'Jingjing Yuan', 'Xuemei Lu', 'Chao Su', 'Yueqing Zhang', 'Chenchen Wang', 'Xianghui Cao', 'Qifeng Li', 'Jingwen Su', 'V. Ittekkot', 'R. Angus Garbutt', 'Simon R. Bush', 'Stephen Fletcher', 'Tonny Wagey', 'А.Н. Качур', 'Neville Sweijd']
+ABSTRACT:
+Coastal zone is of great importance in the provision of various valuable ecosystem services. However, it is also sensitive and vulnerable to environmental changes due to high human populations and interactions between the land and ocean. Major threats of pollution from over enrichment of nutrients, increasing metals and persistent organic pollutants (POPs), and climate change have led to severe ecological degradation in the coastal zone, while few studies have focused on the combined impacts of pollution and climate change on the coastal ecosystems at the global level. A global overview of nutrients, metals, POPs, and major environmental changes due to climate change and their impacts on coastal ecosystems was carried out in this study. Coasts of the Eastern Atlantic and Western Pacific were hotspots of concentrations of several pollutants, and mostly affected by warming climate. These hotspots shared the same features of large populations, heavy industry and (semi-) closed sea. Estimation of coastal ocean capital, integrated management of land-ocean interaction in the coastal zone, enhancement of integrated global observation system, and coastal ecosystem-based management can play effective roles in promoting sustainable management of coastal marine ecosystems. Enhanced management from the perspective of mitigating pollution and climate change was proposed.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 216
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Environmental science', 'Climate change', 'Ecosystem', 'Marine ecosystem', 'Sustainability', 'Global warming', 'Environmental change', 'Pollution', 'Oceanography', 'Environmental protection', 'Environmental resource management', 'Ecology', 'Geology', 'Biology']

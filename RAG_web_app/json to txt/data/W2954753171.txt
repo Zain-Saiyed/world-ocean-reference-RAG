@@ -1,0 +1,12 @@
+ID: W2954753171
+TITLE: El Niño-associated catastrophic coral mortality at Jarvis Island, central Equatorial Pacific
+AUTHOR: ['Bernardo Vargas-Ángel', 'Brittany Huntington', 'Russell E. Brainard', 'Roberto M. Venegas', 'Thomas Oliver', 'Hannah C. Barkley', 'Anne L. Cohen']
+ABSTRACT:
+The 2014–2017 Global Coral Bleaching Event is the longest, most widespread, and impactful on record. Rapid ecological assessment surveys by NOAA's Pacific Reef Assessment and Monitoring Program reported widespread coral mortality at Jarvis Island in the aftermath of the 2015–2016 super-El Niño warming event; hard coral cover declined from 18.7% in April 2015 (pre-bleaching) to 0.4% in May 2016 (post-bleaching), representing a catastrophic > 98% decline. Between 2015 and 2016, corals at Jarvis experienced maximum heat stress of 22.25 °C-weeks exceeding the bleaching threshold (28.72 °C) for 66 consecutive weeks. Mass coral bleaching was observed in November 2015, which resulted in mass mortality across all coral taxa, depths, and island sectors. The bleaching event altered the benthic community composition including the coral assemblage. In the 2 yrs post-bleaching, the benthic community has transitioned from a short-lived increase of encrusting macroalgae to a more recent near-recovery of crustose coralline algae. Coral cover had not recovered by 2017 and could be potentially delayed by fast-growing turf algae. Within the coral community, the pre-bleaching dominant genus Montipora exhibited extreme mortality and only a handful of colonies of this taxon were enumerated in the 2016 surveys and none in 2017. Some coral taxa have persisted in low densities, including the ESA-threatened Acropora retusa and colonies of encrusting Pavona, Psammocora, and the free living Fungia. As the frequency and intensity of these high-temperature events is projected to increase in coming years, it is essential to track how remote ecosystems normally undisturbed by human influence, such as Jarvis, respond to a climate change.
+
+SOURCE: Coral reefs
+PDF URL: None
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Crustose', 'Coral', 'Coral bleaching', 'Acropora', 'Coralline algae', 'Reef', 'Benthic zone', 'Coral reef', 'Ecology', 'Environmental issues with coral reefs', 'Oceanography', 'Biology', 'Geography', 'Geology']

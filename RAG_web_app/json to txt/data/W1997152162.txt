@@ -1,0 +1,12 @@
+ID: W1997152162
+TITLE: Selection of Resistant Bacteria at Very Low Antibiotic Concentrations
+AUTHOR: ['Erik Gullberg', 'Sha Cao', 'Otto G. Berg', 'Carolina Ilbäck', 'Linus Sandegren', 'Diarmaid Hughes', 'Dan I. Andersson']
+ABSTRACT:
+The widespread use of antibiotics is selecting for a variety of resistance mechanisms that seriously challenge our ability to treat bacterial infections. Resistant bacteria can be selected at the high concentrations of antibiotics used therapeutically, but what role the much lower antibiotic concentrations present in many environments plays in selection remains largely unclear. Here we show using highly sensitive competition experiments that selection of resistant bacteria occurs at extremely low antibiotic concentrations. Thus, for three clinically important antibiotics, drug concentrations up to several hundred-fold below the minimal inhibitory concentration of susceptible bacteria could enrich for resistant bacteria, even when present at a very low initial fraction. We also show that de novo mutants can be selected at sub-MIC concentrations of antibiotics, and we provide a mathematical model predicting how rapidly such mutants would take over in a susceptible population. These results add another dimension to the evolution of resistance and suggest that the low antibiotic concentrations found in many natural environments are important for enrichment and maintenance of resistance in bacterial populations.
+
+SOURCE: PLOS pathogens
+PDF URL: https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1002158&type=printable
+CITED BY COUNT: 1323
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Antibiotics', 'Bacteria', 'Antibiotic resistance', 'Biology', 'Microbiology', 'Population', 'Drug resistance', 'Selection (genetic algorithm)', 'Genetics', 'Medicine', 'Environmental health', 'Artificial intelligence', 'Computer science']

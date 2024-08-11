@@ -1,0 +1,12 @@
+ID: W2055942355
+TITLE: Connections between climate, food limitation, and carbon cycling in abyssal sediment communities
+AUTHOR: ['Henry A. Ruhl', 'Jacob A. Ellena', 'Kenneth L. Smith']
+ABSTRACT:
+Diverse faunal groups inhabit deep-sea sediments over much of Earth's surface, but our understanding of how interannual-scale climate variation alters sediment community components and biogeochemical processes remains limited. The vast majority of deep-sea communities depend on a particulate organic carbon food supply that sinks from photosynthetically active surface waters. Variations in food supply depend, in part, on surface climate conditions. Proposed ocean iron fertilization efforts are also intended to alter surface production and carbon export from surface waters. Understanding the ecology of the abyssal sediment community and constituent metazoan macrofauna is important because they influence carbon and nutrient cycle processes at the seafloor through remineralization, bioturbation, and burial of the sunken material. Results from a 10-year study in the abyssal NE Pacific found that climate-driven variations in food availability were linked to total metazoan macrofauna abundance, phyla composition, rank-abundance distributions, and remineralization over seasonal and interannual scales. The long-term analysis suggests that broad biogeographic patterns in deep-sea macrofauna community structure can change over contemporary timescales with changes in surface ocean conditions and provides significant evidence that sediment community parameters can be estimated from atmospheric and upper-ocean conditions. These apparent links between climate, the upper ocean, and deep-sea biogeochemistry need to be considered in determining the long-term carbon storage capacity of the ocean.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 123
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Iron fertilization', 'Biogeochemical cycle', 'Environmental science', 'Oceanography', 'Bioturbation', 'Sediment', 'Biogeochemistry', 'Carbon cycle', 'Deep sea', 'Ecology', 'Climate change', 'Benthic zone', 'Total organic carbon', 'Phytoplankton', 'Ecosystem', 'Geology', 'Nutrient', 'Biology', 'Paleontology']

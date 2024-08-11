@@ -1,0 +1,12 @@
+ID: W2167705142
+TITLE: Primary Production of the Biosphere: Integrating Terrestrial and Oceanic Components
+AUTHOR: ['Christopher B. Field', 'Michael J. Behrenfeld', 'James T. Randerson', 'Paul G. Falkowski']
+ABSTRACT:
+Integrating conceptually similar models of the growth of marine and terrestrial primary producers yielded an estimated global net primary production (NPP) of 104.9 petagrams of carbon per year, with roughly equal contributions from land and oceans. Approaches based on satellite indices of absorbed solar radiation indicate marked heterogeneity in NPP for both land and oceans, reflecting the influence of physical and ecological processes. The spatial and temporal distributions of ocean NPP are consistent with primary limitation by light, nutrients, and temperature. On land, water limitation imposes additional constraints. On land and ocean, progressive changes in NPP can result in altered carbon storage, although contrasts in mechanisms of carbon storage and rates of organic matter turnover result in a range of relations between carbon storage and changes in NPP.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 4859
+PUBLICATION YEAR: 1998
+TYPE: article
+CONCEPTS: ['Primary production', 'Biosphere', 'Environmental science', 'Carbon cycle', 'Carbon fibers', 'Primary (astronomy)', 'Carbon flux', 'Biomass (ecology)', 'Carbon sink', 'Satellite', 'Blue carbon', 'Carbon sequestration', 'Atmospheric sciences', 'Oceanography', 'Ecology', 'Ecosystem', 'Climate change', 'Carbon dioxide', 'Geology', 'Biology', 'Computer science', 'Physics', 'Algorithm', 'Astronomy', 'Aerospace engineering', 'Composite number', 'Engineering']

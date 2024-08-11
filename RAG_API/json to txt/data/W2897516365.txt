@@ -1,0 +1,12 @@
+ID: W2897516365
+TITLE: Arctic sea ice thickness, volume, and multiyear ice coverage: losses and coupled variability (1958–2018)
+AUTHOR: ['R. Kwok']
+ABSTRACT:
+Large-scale changes in Arctic sea ice thickness, volume and multiyear sea ice (MYI) coverage with available measurements from submarine sonars, satellite altimeters (ICESat and CryoSat-2), and satellite scatterometers are summarized. The submarine record spans the period between 1958 and 2000, the satellite altimeter records between 2003 and 2018, and the scatterometer records between 1999 and 2017. Regional changes in ice thickness (since 1958) and within the data release area of the Arctic Ocean, previously reported by Kwok and Rothrock (2009 Geophys. Res. Lett. 36 L15501), have been updated to include the 8 years of CryoSat-2 (CS-2) retrievals. Between the pre-1990 submarine period (1958–1976) and the CS-2 period (2011–2018) the average thickness near the end of the melt season, in six regions, decreased by 2.0 m or some 66% over six decades. Within the data release area (∼38% of the Arctic Ocean) of submarine ice draft, the thinning of ∼1.75 m in winter since 1980 (maximum thickness of 3.64 m in the regression analysis) has not changed significantly; the mean thickness over the CS-2 period is ∼2 m. The 15 year satellite record depicts losses in sea ice volume at 2870 km3/decade and 5130 km3/decade in winter (February–March) and fall (October–November), respectively: more moderate trends compared to the sharp decreases over the ICESat period, where the losses were weighted by record-setting melt in 2007. Over the scatterometer record (1999–2017), the Arctic has lost more than 2 × 106 km2 of MYI—a decrease of more than 50%; MYI now covers less than one-third of the Arctic Ocean. Independent MYI coverage and volume records co-vary in time, the MYI area anomalies explain ∼85% of the variance in the anomalies in Arctic sea ice volume. If losses of MYI continue, Arctic thickness/volume will be controlled by seasonal ice, suggesting that the thickness/volume trends will be more moderate (as seen here) but more sensitive to climate forcing.
+
+SOURCE: Environmental research letters
+PDF URL: None
+CITED BY COUNT: 493
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Sea ice', 'Scatterometer', 'Arctic', 'Arctic ice pack', 'Climatology', 'Environmental science', 'Submarine', 'Geology', 'Altimeter', 'Satellite', 'Oceanography', 'Remote sensing', 'Wind speed', 'Aerospace engineering', 'Engineering']

@@ -1,0 +1,12 @@
+ID: W2030384011
+TITLE: Sudden Vegetation Dieback in Atlantic and Gulf Coast Salt Marshes
+AUTHOR: ['Wade H. Elmer', 'S. Useman', 'R. W. Schneider', 'Robert E. Marra', 'J. A. LaMondia', 'Irving A. Mendelssohn', 'M. Mar Jiménez-Gasco', 'Frank L. Caruso']
+ABSTRACT:
+Salt marshes rank as the most productive ecosystems on the planet. Biomass production can be greater than 3 kg dry matter/m2/year, which is 40% more biomass than tropical rainforests produce. Salt marshes provide multiple benefits to mankind. For example, coastal communities receive protection from storm surges and wave erosion. Salt marshes absorb excess nitrogen and phosphorus from sewage and fertilizer run-off into rivers, which, in turn, prevents algal blooms and hypoxia in coastal waters. In addition, these unique ecosystems provide habitat and shelter for many hundreds of species of shellfish, finfish, migratory and sedentary birds, and other marine animals. Despite the richness in animal species, the intertidal marshes of the salt marsh ecosystem are dominated by only a few plant species. Of these, the most prevalent plant species in a marsh are the tall and short forms of smooth cordgrass (Spartina alterniflora). The first recorded account of a dieback in a U.S. salt marsh was in the early 1990s in the Florida panhandle where patches of Sp. alterniflora as large as 1 ha died. This article explores possible causes of Sudden Vegetation Dieback.
+
+SOURCE: Plant disease
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Spartina alterniflora', 'Salt marsh', 'Marsh', 'Spartina', 'Ecology', 'Ecosystem', 'Biology', 'Biomass (ecology)', 'Habitat', 'Vegetation (pathology)', 'Species richness', 'Wetland', 'Medicine', 'Pathology']

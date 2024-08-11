@@ -1,0 +1,12 @@
+ID: W2068375361
+TITLE: Impact of Anthropogenic CO <sub>2</sub> on the CaCO <sub>3</sub> System in the Oceans
+AUTHOR: ['Richard A. Feely', 'Christopher L. Sabine', 'Kitack Lee', 'W. Berelson', 'Joanie Kleypas', 'Victoria J. Fabry', 'Frank J. Millero']
+ABSTRACT:
+Rising atmospheric carbon dioxide (CO2) concentrations over the past two centuries have led to greater CO2 uptake by the oceans. This acidification process has changed the saturation state of the oceans with respect to calcium carbonate (CaCO3) particles. Here we estimate the in situ CaCO3 dissolution rates for the global oceans from total alkalinity and chlorofluorocarbon data, and we also discuss the future impacts of anthropogenic CO2 on CaCO3 shell-forming species. CaCO3 dissolution rates, ranging from 0.003 to 1.2 micromoles per kilogram per year, are observed beginning near the aragonite saturation horizon. The total water column CaCO3 dissolution rate for the global oceans is approximately 0.5 +/- 0.2 petagrams of CaCO3-C per year, which is approximately 45 to 65% of the export production of CaCO3.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 2006
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Aragonite', 'Dissolution', 'Calcium carbonate', 'Alkalinity', 'Carbon dioxide', 'Saturation (graph theory)', 'Carbonate', 'Ocean acidification', 'Environmental science', 'Environmental chemistry', 'Calcite', 'Chlorofluorocarbon', 'Oceanography', 'Carbon sequestration', 'Carbon cycle', 'Chemistry', 'Mineralogy', 'Seawater', 'Geology', 'Ecology', 'Biology', 'Ecosystem', 'Mathematics', 'Organic chemistry', 'Physical chemistry', 'Combinatorics']

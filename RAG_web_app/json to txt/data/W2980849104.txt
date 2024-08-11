@@ -1,0 +1,12 @@
+ID: W2980849104
+TITLE: Grandmothers and deadly snakes: an unusual project in “citizen science”
+AUTHOR: ['Claire Goiran', 'Richard Shine']
+ABSTRACT:
+Abstract We describe initial results of an innovative citizen science project that is unusual in its taxonomic focus (deadly sea snakes), its location (the Indo‐Pacific), and its primary contributors (grandmothers from the city of Noumea, New Caledonia).
+
+SOURCE: Ecosphere
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecs2.2877
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Citizen science', 'Focus (optics)', 'Geography', 'Political science', 'Biology', 'Optics', 'Botany', 'Physics']

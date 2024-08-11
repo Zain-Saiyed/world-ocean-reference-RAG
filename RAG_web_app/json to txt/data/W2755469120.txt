@@ -1,0 +1,12 @@
+ID: W2755469120
+TITLE: Global sea turtle conservation successes
+AUTHOR: ['Antonios D. Mazaris', 'Gail Schofield', 'Chrysoula Gkazinou', 'Vasiliki Almpanidou', 'Graeme C. Hays']
+ABSTRACT:
+We document a tendency for published estimates of population size in sea turtles to be increasing rather than decreasing across the globe. To examine the population status of the seven species of sea turtle globally, we obtained 299 time series of annual nesting abundance with a total of 4417 annual estimates. The time series ranged in length from 6 to 47 years (mean, 16.2 years). When levels of abundance were summed within regional management units (RMUs) for each species, there were upward trends in 12 RMUs versus downward trends in 5 RMUs. This prevalence of more upward than downward trends was also evident in the individual time series, where we found 95 significant increases in abundance and 35 significant decreases. Adding to this encouraging news for sea turtle conservation, we show that even small sea turtle populations have the capacity to recover, that is, Allee effects appear unimportant. Positive trends in abundance are likely linked to the effective protection of eggs and nesting females, as well as reduced bycatch. However, conservation concerns remain, such as the decline in leatherback turtles in the Eastern and Western Pacific. Furthermore, we also show that, often, time series are too short to identify trends in abundance. Our findings highlight the importance of continued conservation and monitoring efforts that underpin this global conservation success story.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/3/9/e1600730.full.pdf
+CITED BY COUNT: 249
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Turtle (robot)', 'Sea turtle', 'Abundance (ecology)', 'Allee effect', 'Bycatch', 'Population', 'Geography', 'Fishery', 'Ecology', 'Biology', 'Demography', 'Fishing', 'Sociology']

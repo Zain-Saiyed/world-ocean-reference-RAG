@@ -1,0 +1,12 @@
+ID: W2764266667
+TITLE: Unexpected source of Fukushima-derived radiocesium to the coastal ocean of Japan
+AUTHOR: ['Virginie Sanial', 'Ken O. Buesseler', 'Matthew A. Charette', 'Seiya Nagao']
+ABSTRACT:
+Significance Five years after the Fukushima Dai-ichi Nuclear Power Plant accident, the highest radiocesium ( 137 Cs) activities outside of the power plant site were observed in brackish groundwater underneath sand beaches. We hypothesize that the radiocesium was deposited on mineral surfaces in the days and weeks after the accident through wave- and tide-driven exchange of seawater through the beach face. As seawater radiocesium concentrations decreased, this radiocesium reentered the ocean via submarine groundwater discharge, at a rate on par with direct discharge from the power plant and river runoff. This new unanticipated pathway for the storage and release of radionuclides to ocean should be taken into account in the management of coastal areas where nuclear power plants are situated.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/114/42/11092.full.pdf
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seawater', 'Nuclear power plant', 'Environmental science', 'Submarine', 'Brackish water', 'Surface runoff', 'Radionuclide', 'Groundwater', 'Fukushima Nuclear Accident', 'Hydrology (agriculture)', 'Nuclear power', 'Oceanography', 'Geology', 'Salinity', 'Ecology', 'Geotechnical engineering', 'Physics', 'Quantum mechanics', 'Nuclear physics', 'Biology']

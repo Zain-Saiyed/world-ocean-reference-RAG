@@ -1,0 +1,12 @@
+ID: W2901775071
+TITLE: A review of seagrass detection, mapping and monitoring applications using acoustic systems
+AUTHOR: ['Mustafa Ümit Gümüşay', 'Tolga Bakırman', 'İnci Tüney Kızılkaya', 'Nedim Onur Aykut']
+ABSTRACT:
+Seagrass meadows are key elements of marine ecosystems as they affect the physical, chemical and biological environment and provide habitats for fish and invertebrates. Human activities have caused a deterioration in seagrass which has led to unstable benthic habitats; therefore, to prevent major decline, seagrass distribution must be mapped and monitored. Acoustic systems allow researchers, scientists and decision makers to collect high-resolution datasets such as bathymetry, backscatter and sub-bottom profiles. These systems are able to characterise the properties of the seafloor including plants, sediments and habitats. In this review, we examine seagrass mapping, monitoring and detection applications using acoustic systems in the literature. Although there are various methodologies for data collection, processing, classification and validation, these are limited to certain seagrass species or study areas. Further worldwide research is required to achieve consistent seagrass detection systems with data acquisition, pre-processing, classification and post-processing.
+
+SOURCE: European journal of remote sensing
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/22797254.2018.1544838?needAccess=true&
+CITED BY COUNT: 57
+PUBLICATION YEAR: 2018
+TYPE: review
+CONCEPTS: ['Seagrass', 'Bathymetry', 'Habitat', 'Marine habitats', 'Remote sensing', 'Benthic zone', 'Marine ecosystem', 'Environmental science', 'Ecosystem', 'Oceanography', 'Geography', 'Ecology', 'Geology', 'Biology']

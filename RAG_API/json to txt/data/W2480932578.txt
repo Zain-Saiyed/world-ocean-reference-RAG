@@ -1,0 +1,12 @@
+ID: W2480932578
+TITLE: Chemical contaminants entering the marine environment from sea-based sources: A review with a focus on European seas
+AUTHOR: ['Victoria Tornero', 'Georg Hanke']
+ABSTRACT:
+Anthropogenic contaminants reach the marine environment mostly directly from land-based sources, but there are cases in which they are emitted or re-mobilized in the marine environment itself. This paper reviews the literature, with a predominant focus on the European environment, to compile a list of contaminants potentially released into the sea from sea-based sources and provide an overview of their consideration under existing EU regulatory frameworks. The resulting list contains 276 substances and for some of them (22 antifouling biocides, 32 aquaculture medicinal products and 34 warfare agents) concentrations and toxicity data are additionally provided. The EU Marine Strategy Framework Directive Descriptor 8, together with the Water Framework Directive and the Regional Sea Conventions, provides the provisions against pollution of marine waters by chemical substances. This literature review should inform about the current state of knowledge regarding marine contaminant sources and provide support for setting-up of monitoring approaches, including hotspots screening.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 270
+PUBLICATION YEAR: 2016
+TYPE: review
+CONCEPTS: ['Marine Strategy Framework Directive', 'Environmental science', 'Water Framework Directive', 'Biocide', 'Aquatic environment', 'Environmental planning', 'Marine pollution', 'Directive', 'Pollution', 'Environmental resource management', 'Environmental protection', 'Biofouling', 'European union', 'Business', 'Water quality', 'Computer science', 'Ecology', 'Biology', 'Chemistry', 'Genetics', 'Organic chemistry', 'Ecosystem', 'Membrane', 'Programming language', 'Economic policy']

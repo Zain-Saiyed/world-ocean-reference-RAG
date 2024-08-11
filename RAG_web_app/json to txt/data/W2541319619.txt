@@ -1,0 +1,12 @@
+ID: W2541319619
+TITLE: Marine-Derived Pharmaceuticals - Challenges and Opportunities
+AUTHOR: ['Ulrike Lindequist']
+ABSTRACT:
+Marine biosphere is the largest one of the earth and harbors an enormous number of different organisms. Living conditions differ fundamentally from those in terrestrial environment. The production of specific secondary metabolites is an important adaption mechanism of marine organisms to survive in the sea. These metabolites possess biological activities which make them interesting as possible drugs for human. The review presents sources, chemistry, production and pharmacology of FDA approved marine derived pharmaceuticals arranged according to their therapeutic indication. Four of the presently seven approved drugs are used for the treatment of cancer. Each another one is applicated for treatment of viral diseases, chronic pain and to lower triglyceride level in blood. Some other products are of interest in diagnostic and as experimental tools. Besides, this article describes challenges in drug development from marine sources, especially the supply problem.
+
+SOURCE: Biomolecules & therapeutics
+PDF URL: None
+CITED BY COUNT: 152
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biosphere', 'Marine biology', 'Medicine', 'Biology', 'Pharmacology', 'Ecology']

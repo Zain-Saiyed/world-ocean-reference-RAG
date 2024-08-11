@@ -1,0 +1,12 @@
+ID: W2966203395
+TITLE: Threats to seabirds: A global assessment
+AUTHOR: ['Maria P. Dias', 'Robert W. Martin', 'Elizabeth J. Pearmain', 'Ian J. Burfield', 'Cleo Small', 'Richard A. Phillips', 'Oliver Yates', 'Ben Lascelles', 'Pablo García Borboroglu', 'John P. Croxall']
+ABSTRACT:
+We present the first objective quantitative assessment of the threats to all 359 species of seabirds, identify the main challenges facing them, and outline priority actions for their conservation. We applied the standardised Threats Classification Scheme developed for the IUCN Red List to objectively assess threats to each species and analysed the data according to global IUCN threat status, taxonomic group, and primary foraging habitat (coastal or pelagic). The top three threats to seabirds in terms of number of species affected and average impact are: invasive alien species, affecting 165 species across all the most threatened groups; bycatch in fisheries, affecting fewer species (100) but with the greatest average impact; and climate change/severe weather, affecting 96 species. Overfishing, hunting/trapping and disturbance were also identified as major threats to seabirds. Reversing the top three threats alone would benefit two-thirds of all species and c. 380 million individual seabirds (c. 45% of the total global seabird population). Most seabirds (c. 70%), especially globally threatened species, face multiple threats. For albatrosses, petrels and penguins in particular (the three most threatened groups of seabirds), it is essential to tackle both terrestrial and marine threats to reverse declines. As the negative effects of climate change are harder to mitigate, it is vital to compensate by addressing other major threats that often affect the same species, such as invasive alien species, bycatch and overfishing, for which proven solutions exist.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 478
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Threatened species', 'Overfishing', 'IUCN Red List', 'Bycatch', 'Seabird', 'Conservation status', 'Ecology', 'Habitat destruction', 'Population', 'Endangered species', 'Geography', 'Near-threatened species', 'Habitat', 'Conservation-dependent species', 'Fishery', 'Biology', 'Fishing', 'Predation', 'Demography', 'Sociology']

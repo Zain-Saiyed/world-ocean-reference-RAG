@@ -1,0 +1,12 @@
+ID: W2952371713
+TITLE: Inclusion of Asparagopsis armata in lactating dairy cows’ diet reduces enteric methane emission by over 50 percent
+AUTHOR: ['Breanna M. Roque', 'Joan King Salwen', 'Rob Kinley', 'E. Kebreab']
+ABSTRACT:
+Livestock production, particularly enteric methane production, contributes to greenhouse gas emissions globally. Various mitigation strategies developed to reduce enteric emissions have limited success. Although in vitro studies have shown a considerable reduction in methane emissions using Asparagopsis spp., no studies have been conducted to investigate the effect of any species of Asparagopsis in dairy cattle. Our objective was to evaluate quantitatively the response of cows consuming Asparagopsis armata on methane production (g/kg), yield (g/kg feed intake) and intensity (g/kg milk yield). Twelve post-peak lactating Holstein cows were randomly assigned to three treatments (control, 0.5% and 1% inclusion levels of A. armata on organic matter basis) in a 3 × 3 Latin square design with three 21-day periods. Enteric methane emissions were measured using the GreenFeed system. Methane production by cows decreased significantly by 26.4% at the low (0.5%) level of A. armata inclusion and 67.2% at the high (1%) level of inclusion. Feed intake was reduced by 10.8 and 38.0%, in cows fed the low and high level of macroalgae inclusion, respectively. Methane yield decreased significantly by 20.3 and 42.7% in cows fed diet including 0.5% and 1% A. armata inclusion levels, respectively (P = <0.0001). Methane intensity significantly decreased by 26.8% from cows fed at 0.5% level and 60% at the 1.0% A. armata inclusion level. Bromoform concentrations in milk were not significantly different between treatments. Our in vivo results showed that A. armata has potential to be used as a feed additive to reduce enteric methane emissions.
+
+SOURCE: Journal of cleaner production
+PDF URL: None
+CITED BY COUNT: 184
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Methane emissions', 'Animal science', 'Methane', 'Latin square', 'Biology', 'Greenhouse gas', 'Chemistry', 'Food science', 'Ecology', 'Fermentation', 'Rumen']

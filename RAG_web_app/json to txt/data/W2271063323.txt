@@ -1,0 +1,12 @@
+ID: W2271063323
+TITLE: Sand, rarer than one thinks
+AUTHOR: []
+ABSTRACT:
+Sand used as aggregates for construction and other civil engineering works come from two types of artisanal mining in the western part of Cameroon. Sand is sourced from the river or open pit quarries suggesting their alluvial and elluvial origin. The suitability of sand used for civil engineering works in Western Cameroon was assessed. The study found that sand from both river and quarry sources are of a poor quality for use in construction, due to the fine grained nature of the materials and the presence of clay, which can shrink and swell. In addition, these open pit quarries creates negative consequences on the environment such as the loss of vegetation, land incision and denudation, soil and landscape degradation leading to the total disappearance of some mountains. Then, existing law and regulation on sand mining cannot protect the environment in Cameroon. The geoscience and geotechnical knowledge on these practices are crucial when enacting any appropriate legislation for the environmental protection in this sector.
+
+SOURCE: Environmental development
+PDF URL: None
+CITED BY COUNT: 224
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Denudation', 'Vegetation (pathology)', 'Fluvial', 'Weathering', 'Geology', 'Alluvium', 'Mining engineering', 'Legislation', 'Erosion', 'Geochemistry', 'Geomorphology', 'Law', 'Medicine', 'Paleontology', 'Pathology', 'Structural basin', 'Political science', 'Tectonics']

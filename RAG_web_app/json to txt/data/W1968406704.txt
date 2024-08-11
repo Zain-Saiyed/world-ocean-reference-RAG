@@ -1,0 +1,12 @@
+ID: W1968406704
+TITLE: Abyssal community analysis from replicate ☐ cores in the central North Pacific
+AUTHOR: ['Robert R. Hessler', 'Peter A. Jumars']
+ABSTRACT:
+A 0·25 m2 United States Naval Electronics Laboratory ☐ corer was used to take replicate samples from an oligotrophic bottom under the North Pacific Central Water Mass (∼ 28°N, 155°W). The bottom is a red clay with manganese nodules at a depth of 5500–5800 m. Macrofaunal density ranges from 84 to 160 individuals per m2 and is therefore much the same as in Northwest Atlantic Gyre waters. Of the macrofaunal taxa, polychaetes dominate (55%), followed by tanaids (18%), bivalves (7%), and isopods (6%). Meiofaunal taxa were only partially retained by the 297 μm screen used in washing. Even then, they are 1·5–3·9 times as abundant as the macrofaunal taxa, with nematodes being numerically dominant by far. Foraminifera seem to comprise an important portion of the community, but could not be assessed accurately because of the inability to discriminate living and dead tests. Remains of what are probably xenophyophoridans are also very important, but offer the same problem. Faunal diversity is extremely high, with deposit feeders comprising the overwhelming majority. Most species are rare, being encountered only once. The distributions of only three species show any significant deviation from randomness. The polychaete fauna from ☐ cores collected from 90 miles to the north was not significantly different from that of the principal study locality. Concordance appeared at several taxonomic levels, from species through macrofaunal/meiofaunal relationships. As a result, the variation in total animal abundance shows aggregation among cores. We discuss Sokolova's concept of a deep-sea oligotrophic zone dominated by suspension feeders, and reconcile it with our present findings. The high diversity of the fauna combined with the low food level contradict theories that relate diversity directly with productivity.
+
+SOURCE: Deep-sea research and oceanographic abstracts/Deep sea research and oceanographic abstracts
+PDF URL: None
+CITED BY COUNT: 106
+PUBLICATION YEAR: 1974
+TYPE: article
+CONCEPTS: ['Polychaete', 'Abyssal zone', 'Benthic zone', 'Fauna', 'Oceanography', 'Foraminifera', 'Taxon', 'Ecology', 'Geology', 'Replicate', 'Benthos', 'Archipelago', 'Bryozoa', 'Paleontology', 'Biology', 'Taxonomy (biology)', 'Statistics', 'Mathematics']

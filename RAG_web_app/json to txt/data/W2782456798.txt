@@ -1,0 +1,12 @@
+ID: W2782456798
+TITLE: Spatial and temporal patterns of mass bleaching of corals in the Anthropocene
+AUTHOR: ['Terry P. Hughes', 'Kristen D. Anderson', 'Sean R. Connolly', 'Scott F. Heron', 'James T. Kerry', 'Janice Lough', 'Andrew H. Baird', 'Julia K. Baum', 'Michael L. Berumen', 'Tom C. L. Bridge', 'Danielle C. Claar', 'C. Mark Eakin', 'James Gilmour', 'Nicholas A. J. Graham', 'Hugo B. Harrison', 'Jean‐Paul A. Hobbs', 'Andrew S. Hoey', 'Mia O. Hoogenboom', 'Ryan J. Lowe', 'Malcolm T. McCulloch', 'John M. Pandolfi', 'Morgan S. Pratchett', 'Verena Schoepf', 'Gergely Torda', 'Shaun K. Wilson']
+ABSTRACT:
+Not enough time for recovery Coral bleaching occurs when stressful conditions result in the expulsion of the algal partner from the coral. Before anthropogenic climate warming, such events were relatively rare, allowing for recovery of the reef between events. Hughes et al. looked at 100 reefs globally and found that the average interval between bleaching events is now less than half what it was before. Such narrow recovery windows do not allow for full recovery. Furthermore, warming events such as El Niño are warmer than previously, as are general ocean conditions. Such changes are likely to make it more and more difficult for reefs to recover between stressful events. Science , this issue p. 80
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/359/6371/80.full.pdf
+CITED BY COUNT: 1523
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Coral bleaching', 'Anthropocene', 'Reef', 'Coral reef', 'Effects of global warming on oceans', 'Coral', 'Oceanography', 'Environmental science', 'Global warming', 'Climate change', 'Resilience of coral reefs', 'Ecology', 'Geology', 'Biology']

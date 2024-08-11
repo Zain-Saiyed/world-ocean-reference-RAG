@@ -1,0 +1,12 @@
+ID: W2781087748
+TITLE: Physical and Biological Drivers of Biogeochemical Tracers Within the Seasonal Sea Ice Zone of the Southern Ocean From Profiling Floats
+AUTHOR: ['Ellen M. Briggs', 'Todd R. Martz', 'Lynne D. Talley', 'Matthew R. Mazloff', 'Kenneth S. Johnson']
+ABSTRACT:
+Abstract Here we present initial findings from nine profiling floats equipped with pH, O 2 , , and other biogeochemical sensors that were deployed in the seasonal ice zone (SIZ) of the Southern Ocean in 2014 and 2015 through the Southern Ocean Carbon and Climate Observations and Modelling (SOCCOM) project. A large springtime phytoplankton bloom was observed that coincided with sea ice melt for all nine floats. We argue this bloom results from a shoaling of the mixed layer depth, increased vertical stability, and enhanced nutrient and light availability as the sea ice melts. This interpretation is supported by the absence of a springtime bloom when one of the floats left the SIZ in the second year of observations. During the sea ice covered period, net heterotrophic conditions were observed. The rate of uptake of O 2 and release of dissolved inorganic carbon (derived from pH and estimated total alkalinity) and is reminiscent of biological respiration and is nearly Redfieldian for the nine floats. A simple model of mixed layer physics was developed to separate the physical and biological components of the signal in pH and O 2 over one annual cycle for a float in the Ross Sea SIZ. The resulting annual net community production suggests that seasonal respiration during the ice covered period of the year nearly balances the production in the euphotic layer of up to 5 mol C m −2 during the ice free period leading to a net of near zero carbon exported to depth for this one float.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/2017jc012846
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Oceanography', 'Biogeochemical cycle', 'Sea ice', 'Mixed layer', 'Photic zone', 'Environmental science', 'Carbon cycle', 'Bloom', 'Phytoplankton', 'Arctic ice pack', 'Atmospheric sciences', 'Geology', 'Climatology', 'Nutrient', 'Chemistry', 'Ecosystem', 'Ecology', 'Environmental chemistry', 'Organic chemistry', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2995608931
+TITLE: Potential health impact of environmental micro‐ and nanoplastics pollution
+AUTHOR: ['Xiaoru Chang', 'Xue Yang', 'Jiangyan Li', 'Lin Zou', 'Tao Meng']
+ABSTRACT:
+Abstract Micro‐ and nanoplastics are generated from plastics and have negative impacts on the environment due to their high level of fragmentation. They can originate from various sources such as fragments, fibers and foams. The large proportion of the waste and resistance to degradation means micro‐ and nanoplastics have become a serious global environmental problem, but there are few studies on their potential toxicity for human health. In this review, we discussed routes of exposure and the potential effects of micro‐ and nanoplastics to human health. Human beings could mainly be exposed to micro‐ and nanoplastics orally and by inhalation. The possible toxic effects of plastic particles are due to the potential toxicity of plastics themselves, and their combined toxicity with leachable additives and adsorbed contaminants. The potential risks for human health focused on their gastrointestinal toxicity and liver toxicity. The toxic mechanisms could involve oxidative stress, inflammatory reactions and metabolism disorders. More studies are needed to carry out and explore the potential toxicological mechanisms of micro‐ and nanoplastics and evaluate the combined toxicity of their adsorbed contaminants.
+
+SOURCE: JAT. Journal of applied toxicology/Journal of applied toxicology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jat.3915
+CITED BY COUNT: 180
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Toxicity', 'Human health', 'Environmental chemistry', 'Chemistry', 'Toxicology', 'Environmental science', 'Environmental health', 'Biology', 'Medicine', 'Organic chemistry']

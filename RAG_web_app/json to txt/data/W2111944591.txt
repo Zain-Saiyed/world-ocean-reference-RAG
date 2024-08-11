@@ -1,0 +1,12 @@
+ID: W2111944591
+TITLE: Contributing Factors to the Recent High Level of Accumulated Cyclone Energy (ACE) and Power Dissipation Index (PDI) in the North Atlantic*
+AUTHOR: ['Hiroyuki Murakami', 'Tim Li', 'Pang‐Chi Hsu']
+ABSTRACT:
+Abstract In recent decades, tropical cyclone (TC) activity in the North Atlantic has shown a marked positive anomaly in genesis number, mean lifespan, number of intense hurricanes, and mean maximum intensity. The accumulated cyclone energy (ACE), which is defined as the sum of the square of the maximum surface wind velocity throughout the lifetime of a TC, is one of the measures that can be used to synthesize these factors. Similar to the ACE, the power dissipation index (PDI), which is defined as the integrated third power of maximum surface wind velocity, has also been used to describe TC activity. The basin-total ACE and PDI for the North Atlantic have also followed a large positive anomaly during the period 1995–2012; however, the relative importance of factors such as TC genesis number, TC track property (e.g., duration and lifespan), and TC intensity remains unclear in terms of their contribution to the positive anomalies in ACE and PDI. This study uses a new empirical statistical approach to analyze the TC data and finds that the increase in the TC genesis number is primarily responsible for the positive anomalies in ACE and PDI. Other factors, such as TC track property and TC intensity, appear to be minor influences.
+
+SOURCE: Journal of climate
+PDF URL: https://journals.ametsoc.org/downloadpdf/journals/clim/27/8/jcli-d-13-00394.1.pdf
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Anomaly (physics)', 'Tropical cyclone', 'Dissipation', 'Climatology', 'Intensity (physics)', 'Cyclone (programming language)', 'Environmental science', 'Atmospheric sciences', 'Geology', 'Physics', 'Meteorology', 'Thermodynamics', 'Condensed matter physics', 'Quantum mechanics', 'Field-programmable gate array', 'Computer science', 'Computer hardware']

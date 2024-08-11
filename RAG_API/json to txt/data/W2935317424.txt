@@ -1,0 +1,12 @@
+ID: W2935317424
+TITLE: Brazilian Mangrove Status: Three Decades of Satellite Data Analysis
+AUTHOR: ['Cesar Guerreiro Diniz', 'Luiz Cortinhas', 'Gilberto Nerino', 'Jhonatan Rodrigues', 'Luis Waldyr Rodrigues Sadeck', 'Marcos Adami', 'Pedro Walfir M. Souza‐Filho']
+ABSTRACT:
+Since the 1980s, mangrove cover mapping has become a common scientific task. However, the systematic and continuous identification of vegetation cover, whether on a global or regional scale, demands large storage and processing capacities. This manuscript presents a Google Earth Engine (GEE)-managed pipeline to compute the annual status of Brazilian mangroves from 1985 to 2018, along with a new spectral index, the Modular Mangrove Recognition Index (MMRI), which has been specifically designed to better discriminate mangrove forests from the surrounding vegetation. If compared separately, the periods from 1985 to 1998 and 1999 to 2018 show distinct mangrove area trends. The first period, from 1985 to 1998, shows an upward trend, which seems to be related more to the uneven distribution of Landsat data than to a regeneration of Brazilian mangroves. In the second period, from 1999 to 2018, a trend of mangrove area loss was registered, reaching up to 2% of the mangrove forest. On a regional scale, ~85% of Brazil’s mangrove cover is in the states of Maranhão, Pará, Amapá and Bahia. In terms of persistence, ~75% of the Brazilian mangroves remained unchanged for two decades or more.
+
+SOURCE: Remote sensing
+PDF URL: https://www.mdpi.com/2072-4292/11/7/808/pdf?version=1554357474
+CITED BY COUNT: 114
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Geography', 'Vegetation (pathology)', 'Environmental science', 'Scale (ratio)', 'Natural regeneration', 'Physical geography', 'Forestry', 'Ecology', 'Cartography', 'Biology', 'Medicine', 'Pathology']

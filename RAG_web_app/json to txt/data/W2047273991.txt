@@ -1,0 +1,12 @@
+ID: W2047273991
+TITLE: New Trans-Arctic shipping routes navigable by midcentury
+AUTHOR: ['L. C. Smith', 'Scott R. Stephenson']
+ABSTRACT:
+Recent historic observed lows in Arctic sea ice extent, together with climate model projections of additional ice reductions in the future, have fueled speculations of potential new trans-Arctic shipping routes linking the Atlantic and Pacific Oceans. However, numerical studies of how projected geophysical changes in sea ice will realistically impact ship navigation are lacking. To address this deficiency, we analyze seven climate model projections of sea ice properties, assuming two different climate change scenarios [representative concentration pathways (RCPs) 4.5 and 8.5] and two vessel classes, to assess future changes in peak season (September) Arctic shipping potential. By midcentury, changing sea ice conditions enable expanded September navigability for common open-water ships crossing the Arctic along the Northern Sea Route over the Russian Federation, robust new routes for moderately ice-strengthened (Polar Class 6) ships over the North Pole, and new routes through the Northwest Passage for both vessel classes. Although numerous other nonclimatic factors also limit Arctic shipping potential, these findings have important economic, strategic, environmental, and governance implications for the region.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/110/13/E1191.full.pdf
+CITED BY COUNT: 557
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Arctic', 'Sea ice', 'Arctic ice pack', 'Climate change', 'Oceanography', 'Environmental science', 'The arctic', 'Navigability', 'Climatology', 'Arctic sea ice decline', 'Representative Concentration Pathways', 'Climate model', 'Physical geography', 'Geography', 'Geology', 'Drift ice', 'Cartography']

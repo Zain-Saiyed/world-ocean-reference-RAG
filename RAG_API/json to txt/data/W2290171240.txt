@@ -1,0 +1,12 @@
+ID: W2290171240
+TITLE: Expected Effects of Offshore Wind Farms on Mediterranean Marine Life
+AUTHOR: ['Laura Bray', 'Sofia Reizopoulou', 'Evangelos Voukouvalas', 'Takvor Soukissian', 'Carme Alomar', 'Maite Vázquez‐Luis', 'Salud Deudero', 'Martin J. Attrill', 'Jason M. Hall‐Spencer']
+ABSTRACT:
+Current climate policy and issues of energy security mean wind farms are being built at an increasing rate to meet energy demand.As wind farm development is very likely in the Mediterranean Sea, we provide an assessment of the offshore wind potential and identify expected biological effects of such developments in the region.We break new ground here by identifying potential offshore wind farm (OWF) "hotspots" in the Mediterranean.Using lessons learned in Northern Europe, and small-scale experiments in the Mediterranean, we identify sensitive species and habitats that will likely be influenced by OWFs in both these hotspot areas and at a basin level.This information will be valuable to guide policy governing OWF development and will inform the industry as and when environmental impact assessments are required for the Mediterranean Sea.
+
+SOURCE: Journal of marine science and engineering
+PDF URL: https://www.mdpi.com/2077-1312/4/1/18/pdf?version=1456994363
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Offshore wind power', 'Mediterranean climate', 'Mediterranean sea', 'Environmental science', 'Wind power', 'Habitat', 'Climate change', 'Submarine pipeline', 'Hotspot (geology)', 'Marine spatial planning', 'Environmental resource management', 'Oceanography', 'Fishery', 'Geography', 'Ecology', 'Geology', 'Archaeology', 'Geophysics', 'Biology']

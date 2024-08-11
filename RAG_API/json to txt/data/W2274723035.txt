@@ -1,0 +1,12 @@
+ID: W2274723035
+TITLE: PCB pollution continues to impact populations of orcas and other dolphins in European waters
+AUTHOR: ['Paul D. Jepson', 'Rob Deaville', 'Jonathan L. Barber', 'Àlex Aguilar', 'Asunción Borrell', 'Sinéad Murphy', 'Jon Barry', 'Andrew Brownlow', 'James Barnett', 'Simon Berrow', 'Andrew A. Cunningham', 'Nicholas J. Davison', 'Mariel ten Doeschate', 'Ruth Esteban', 'Marisa Ferreira', 'Andrew D. Foote', 'Tilen Genov', 'Joan Giménez', 'Jan Loveridge', 'Á. Llavona', 'Vidal Martín', 'David Maxwell', 'Alexandra Papachlimitzou', 'Rod Penrose', 'Matthew W. Perkins', 'Brian Smith', 'Renaud de Stephanis', 'Nicholas Tregenza', 'Philippe Verborgh', 'A. Fernandez', 'Robin Law']
+ABSTRACT:
+Abstract Organochlorine (OC) pesticides and the more persistent polychlorinated biphenyls (PCBs) have well-established dose-dependent toxicities to birds, fish and mammals in experimental studies, but the actual impact of OC pollutants on European marine top predators remains unknown. Here we show that several cetacean species have very high mean blubber PCB concentrations likely to cause population declines and suppress population recovery. In a large pan-European meta-analysis of stranded (n = 929) or biopsied (n = 152) cetaceans, three out of four species:- striped dolphins (SDs), bottlenose dolphins (BNDs) and killer whales (KWs) had mean PCB levels that markedly exceeded all known marine mammal PCB toxicity thresholds. Some locations (e.g. western Mediterranean Sea, south-west Iberian Peninsula) are global PCB “hotspots” for marine mammals. Blubber PCB concentrations initially declined following a mid-1980s EU ban, but have since stabilised in UK harbour porpoises and SDs in the western Mediterranean Sea. Some small or declining populations of BNDs and KWs in the NE Atlantic were associated with low recruitment, consistent with PCB-induced reproductive toxicity. Despite regulations and mitigation measures to reduce PCB pollution, their biomagnification in marine food webs continues to cause severe impacts among cetacean top predators in European seas.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep18573.pdf
+CITED BY COUNT: 319
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Blubber', 'Population', 'Fishery', 'Marine pollution', 'Apex predator', 'Biology', 'Mediterranean sea', 'Mediterranean climate', 'Predation', 'Marine mammal', 'Biomagnification', 'European union', 'Pollution', 'Ecology', 'Zoology', 'Pollutant', 'Environmental health', 'Medicine', 'Business', 'Economic policy']

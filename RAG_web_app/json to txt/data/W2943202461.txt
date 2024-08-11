@@ -1,0 +1,12 @@
+ID: W2943202461
+TITLE: Fiber optic monitoring of active faults at the seafloor: I the FOCUS project
+AUTHOR: ['Marc‐André Gutscher', 'Jean‐Yves Royer', 'David Graindorge', 'Shane Murphy', 'Frauke Klingelhoëfer', 'Chastity Aiken', 'Antonio Cattaneo', 'Giovanni Barreca', 'Lionel Quétel', 'G. Riccobene', 'Florian Petersen', 'Morelia Urlaub', 'Sebastian Krastel', 'Felix Groß', 'Heidrun Kopp', 'Lucia Margheriti', 'Laura Beranzoli']
+ABSTRACT:
+Laser reflectometry (BOTDR), commonly used for structural health monitoring (bridges, dams, etc.), will for the first time be applied to study movements of an active fault on the seafloor 25 km offshore Catania Sicily. The goal of the European funded FOCUS project (ERC Advanced Grant) is to connect a 6-km long strain cable to the EMSO seafloor observatory in 2100 m water depth. Laser observations will be calibrated by seafloor geodetic instruments and seismological stations. A long-term goal is the development of dual-use telecom cables with industry partners.
+
+SOURCE: Photoniques
+PDF URL: https://www.photoniques.com/articles/photon/pdf/2019/02/photon2019S4p32.pdf
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Seafloor spreading', 'Observatory', 'Geodetic datum', 'Reflectometry', 'Geology', 'Focus (optics)', 'Submarine pipeline', 'Seismology', 'Fault (geology)', 'GNSS applications', 'Remote sensing', 'Oceanography', 'Engineering', 'Geodesy', 'Telecommunications', 'Computer science', 'Optics', 'Global Positioning System', 'Time domain', 'Physics', 'Astrophysics', 'Computer vision']

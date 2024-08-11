@@ -1,0 +1,12 @@
+ID: W2128565517
+TITLE: Decadal-Scale Temperature Trends in the Southern Hemisphere Ocean
+AUTHOR: ['Sarah T. Gille']
+ABSTRACT:
+Abstract Long-term trends in the heat content of the Southern Hemisphere ocean are evaluated by comparing temperature profiles collected during the 1990s with profiles collected starting in the 1930s. Data are drawn both from ship-based hydrographic surveys and from autonomous floats. Results show that the upper 1000 m of the Southern Hemisphere ocean has warmed substantially during this time period at all depths. Warming is concentrated within the Antarctic Circumpolar Current (ACC). On a global scale, this warming trend implies that the ocean has gained heat from the atmosphere over the last 50 to 70 years. Although the data do not preclude the possibility that the Southern Ocean has warmed as a result of increased heat fluxes, either into the ocean or within the ocean, in general the strong trend in the Southern Ocean appears regionally consistent with a poleward migration of the ACC, possibly driven by long-term poleward shifts in the winds of the region, as represented by the southern annular mode.
+
+SOURCE: Journal of climate
+PDF URL: https://journals.ametsoc.org/downloadpdf/journals/clim/21/18/2008jcli2131.1.pdf
+CITED BY COUNT: 342
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Southern Hemisphere', 'Climatology', 'Ocean heat content', 'Hydrography', 'Circumpolar star', 'Oceanography', 'Environmental science', 'Northern Hemisphere', 'Ocean current', 'Effects of global warming on oceans', 'Sea surface temperature', 'Geology', 'Climate change', 'Global warming']

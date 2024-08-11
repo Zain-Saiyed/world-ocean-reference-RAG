@@ -1,0 +1,12 @@
+ID: W2767381983
+TITLE: Southern Ocean pteropods at risk from ocean warming and acidification
+AUTHOR: ['Jessie Gardner', 'Clara Manno', 'Dorothée C. E. Bakker', 'Victoria L. Peck', 'Geraint A. Tarling']
+ABSTRACT:
+Early life stages of marine calcifiers are particularly vulnerable to climate change. In the Southern Ocean aragonite undersaturation events and areas of rapid warming already occur and are predicted to increase in extent. Here, we present the first study to successfully hatch the polar pteropod Limacina helicina antarctica and observe the potential impact of exposure to increased temperature and aragonite undersaturation resulting from ocean acidification (OA) on the early life stage survival and shell morphology. High larval mortality (up to 39%) was observed in individuals exposed to perturbed conditions. Warming and OA induced extensive shell malformation and dissolution, respectively, increasing shell fragility. Furthermore, shell growth decreased, with variation between treatments and exposure time. Our results demonstrate that short-term exposure through passing through hotspots of OA and warming poses a serious threat to pteropod recruitment and long-term population viability.
+
+SOURCE: Marine biology
+PDF URL: None
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Aragonite', 'Effects of global warming on oceans', 'Biology', 'Oceanography', 'Global warming', 'Population', 'Climate change', 'Ecology', 'Environmental science', 'Calcite', 'Geology', 'Paleontology', 'Demography', 'Sociology']

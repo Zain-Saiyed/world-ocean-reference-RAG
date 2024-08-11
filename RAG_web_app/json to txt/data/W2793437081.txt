@@ -1,0 +1,12 @@
+ID: W2793437081
+TITLE: Plastic pollution in islands of the Atlantic Ocean
+AUTHOR: ['Raqueline Cristina Pereira Monteiro', 'Juliana A. Ivar do Sul', 'Mônica F. Costa']
+ABSTRACT:
+Marine plastic pollution is present in all oceans, including remote oceanic islands. Despite the increasing number of articles on plastic pollution in the last years, there is still a lack of studies in islands, that are biodiversity hotspots when compared to the surrounding ocean, and even other recognized highly biodiverse marine environments. Articles published in the peer reviewed literature (N = 20) were analysed according to the presence of macro (>5 mm) and microplastics (<5 mm) on beaches and the marine habitats immediately adjacent to 31 islands of the Atlantic Ocean and Caribbean Sea. The first articles date from the 1980s, but most were published in the 2000s. Articles on macroplastics were predominant in this review (N = 12). Beaches were the most studied environment, possibly due to easy access. The main focus of most articles was the spatial distribution of plastics associated with variables such as position of the beach in relation to wind and currents. Very few studies have analysed plastics colonization by organisms or the identification of persistent organic pollutants (POPs). Islands of the North/South Atlantic and Caribbean Sea were influenced by different sources of macroplastics, being marine-based sources (i.e., fishing activities) predominant in the Atlantic Ocean basin. On the other hand, in the Caribbean Sea, land-based sources were more common.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 163
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Oceanography', 'Microplastics', 'Marine pollution', 'Biodiversity', 'Plastic pollution', 'Fishing', 'Environmental science', 'Marine habitats', 'Habitat', 'Fishery', 'Geography', 'Pollution', 'Ecology', 'Geology', 'Biology']

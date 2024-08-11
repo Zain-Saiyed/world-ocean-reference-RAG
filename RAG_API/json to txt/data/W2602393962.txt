@@ -1,0 +1,12 @@
+ID: W2602393962
+TITLE: Seaweed aquaculture: cultivation technologies, challenges and its ecosystem services
+AUTHOR: ['Jang K. Kim', 'Charles Yarish', 'Eunkyoung Hwang', 'Miseon Park', 'Young‐Dae Kim']
+ABSTRACT:
+Seaweed aquaculture technologies have developed dramatically over the past 70 years mostly in Asia and more recently in Americas and Europe. However, there are still many challenges to overcome with respect to the science and to social acceptability. The challenges include the development of strains with thermo-tolerance, disease resistance, fast growth, high concentration of desired molecules, the reduction of fouling organisms and the development of more robust and cost efficient farm systems that can withstand storm events in offshore environments. It is also important to note that seaweed aquaculture provides ecosystem services, which improve conditions of the coastal waters for the benefit of other living organisms and the environment. The ecosystem services role of seaweed aquaculture and its economic value will also be quantitatively estimated in this review. Key words: ecosystem services; Eucheuma; Gracilaria/Gracilariopsis; Kappaphycus; kelp; Pyropia/Porphyra; Sargassum; seaweed aquaculture
+
+SOURCE: Algae
+PDF URL: http://www.e-algae.org/upload/pdf/algae-2017-32-3-3.pdf
+CITED BY COUNT: 333
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Aquaculture', 'Porphyra', 'Ecosystem', 'Ecosystem services', 'Algae', 'Kelp', 'Marine ecosystem', 'Biosecurity', 'Fishery', 'Business', 'Biology', 'Ecology', 'Environmental resource management', 'Environmental science', 'Fish <Actinopterygii>']

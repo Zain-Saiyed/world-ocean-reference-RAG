@@ -1,0 +1,12 @@
+ID: W2171450034
+TITLE: Mitochondrial DNA (COI) analyses reveal that amphipod diversity is associated with environmental heterogeneity in deep‐sea habitats
+AUTHOR: ['Matthew A. Knox', 'Ian D. Hogg', 'Conrad A. Pilditch', 'Anne‐Nina Lörz', 'Paul D. N. Hebert', 'Dirk Steinke']
+ABSTRACT:
+Abstract The relationship between species diversity and environmental parameters is poorly understood for the mobile macrofauna of deep‐sea habitats due to under‐sampling and subsequent lack of accurate taxonomic information. To redress this, cytochrome oxidase c subunit I ( COI ) DNA sequences were used to estimate species diversity and to compare phoxocephalid amphipod assemblages among 20 stations encompassing a range of environmental conditions. Two regions, east ( C hatham R ise) and west ( C hallenger P lateau) of N ew Z ealand were sampled to depths of 200–1200 m with an epibenthic sled. Using a comparison among identified morphospecies, we found a clear gap in sequence divergences between 6% and 13% and used a 6% threshold to designate molecular operational taxonomic units ( MOTU s), as a surrogate to putative species. DNA sequences ( n = 297) revealed high total diversity ( n = 49 MOTU s), as well as high beta diversity (28 MOTU s found at single location only). Novel phoxocephalid MOTU s were found at most stations, especially on C hallenger P lateau and the flanks of C hatham R ise. Analyses of interstation assemblages revealed a major split between regions, indicating minimal overlap in taxon distributions. A cluster of highly similar stations was identified, broadly distributed over the crest of C hatham R ise, in association with elevated food availability, probably resulting from higher surface productivity and relatively shallow depth. Accordingly, multivariate analysis revealed a strong correlation between phoxocephalid assemblages and food supply. This study highlights the value of molecular approaches, in particular COI sequences, for quantifying and comparing diversity in under‐sampled and/or under‐studied taxa.
+
+SOURCE: Molecular ecology
+PDF URL: None
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Biology', 'Taxon', 'Environmental DNA', 'Ecology', 'Habitat', 'Range (aeronautics)', 'Cytochrome c oxidase subunit I', 'Biodiversity', 'Phylogenetics', 'Genetics', 'Materials science', 'Gene', 'Composite material']

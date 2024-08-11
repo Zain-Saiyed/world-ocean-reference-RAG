@@ -1,0 +1,12 @@
+ID: W1527826880
+TITLE: Benthic grazing and carbon sequestration by deep-water glass sponge reefs
+AUTHOR: ['A Kahn', 'Gitai Yahel', 'Jackson W. F. Chu', 'Verena Tunnicliffe', 'Sally P. Leys']
+ABSTRACT:
+Glass sponges are conspicuous members of the deep-sea fauna, but in the northeastern Pacific they form unusual reefs covering kilometers of seafloor. Individual sponges in fjords can process up to 10 m3 water d−1 osculum−1; sponge reefs must therefore process considerable volumes and could significantly affect local water properties. We measured, in situ, the flux of carbon and nitrogen through Aphrocallistes vastus, the dominant reef-building species on Fraser Ridge reef, and calculated the energetics of feeding for all reefs in the Strait of Georgia, British Columbia. Sponges removed up to 90% of bacteria from the water and released ammonium. Because of the high density of sponges, high volumetric flow rates (up to 210 ± 35 m3 m−2 d−1, mean ± standard error, 95% confidence interval (CI) 132–288 m3 m−2 d−1), and the efficient extraction of bacteria, we calculate a grazing rate of 165 ± 29 m3 m−2 d−1 (95% CI 102–228 m3 m−2 d−1) for sponge reefs, the highest benthic grazing rate of any suspension-feeding community measured to date. Reefs of A. vastus extract seven times more carbon (3.4 ± 1.4 g C m−2 d−1) than can be supported by vertical flux of total carbon alone and therefore require productive waters and steady currents to sustain their strong grazing. We calculate that modern sponge reefs in the northeastern Pacific remove 2.27 × 105 ± 0.91 × 105 kg of bacterial carbon daily, nearly an order of magnitude less than the 1.38 × 106 ± 0.55 × 106 kg removed by past sponge reefs estimated to have covered the continental shelf.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.10002
+CITED BY COUNT: 102
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Reef', 'Benthic zone', 'Oceanography', 'Environmental science', 'Sponge', 'Artificial reef', 'Grazing', 'Carbon fibers', 'Ecology', 'Geology', 'Biology', 'Paleontology', 'Materials science', 'Composite number', 'Composite material']

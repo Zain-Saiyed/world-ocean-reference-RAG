@@ -1,0 +1,12 @@
+ID: W2777344464
+TITLE: Bottom trawling at Whittard Canyon: Evidence for seabed modification, trawl plumes and food source heterogeneity
+AUTHOR: ['Eoghan Daly', 'Mark P. Johnson', 'Annette M. Wilson', 'H.D. Gerritsen', 'Kostas Kiriakoulakis', 'A. Louise Allcock', 'Martin White']
+ABSTRACT:
+Fishing vessels are attracted to the dendritic Whittard Canyon system due to the abundance and diversity of species found there. Both midwater and bottom trawling are commonplace, including on deep canyon channel floors. Bottom trawling is identified here as a possible cause of changes to seafloor roughness along the canyon interfluves. An Arc Chord Ratio (ACR) rugosity index is calculated for the Whittard area and correlated with Vessel Monitoring System (VMS) data using various statistical models. Over higher slopes or rougher ground the heavily fished locations show a more homogeneous rugosity distribution than those lightly fished, indicating possible smoothing of the seabed. Bottom trawling activity on adjacent interfluves/shelf is known to generate energetic turbid, sediment plumes within the canyon branches to 2500 m depth, with elevated Suspended Particulate Matter (SPM) concentrations in the water column up to 400 m above the seabed. Lipid biomarker analysis of organic material collected from these plumes showed higher concentrations of total lipids at sites that are intensively trawled (east). In comparison to sites that are less intensively trawled (west), higher contributions of fatty alcohols were detected. While lower concentrations of unsaturated fatty acids were detected, biomarkers indicative of phytoplankton accounted for 93.4 ± 0.7% of total lipids identified from eastern samples suggesting rapid transport of labile compounds. Results presented here suggest that intensive trawling induced changes to sediment transport will complicate the interpretation of biogeochemical property distributions at canyon systems, particularly from single surveys. Anthropogenically generated heterogeneity in sediment supply and character will also impact on habitat suitability for resident ecosystems.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Trawling', 'Canyon', 'Bottom trawling', 'Oceanography', 'Rugosity', 'Geology', 'Seabed', 'Environmental science', 'Biogeochemical cycle', 'Continental shelf', 'Sediment', 'Fishery', 'Habitat', 'Ecology', 'Fishing', 'Geomorphology', 'Biology']

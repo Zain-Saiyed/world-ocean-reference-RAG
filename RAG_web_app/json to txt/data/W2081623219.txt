@@ -1,0 +1,12 @@
+ID: W2081623219
+TITLE: Coastal Ecosystem-Based Management with Nonlinear Ecological Functions and Values
+AUTHOR: ['Edward B. Barbier', 'Evamaria W. Koch', 'Brian R. Silliman', 'Sally D. Hacker', 'Eric Wolanski', 'Jurgenne H. Primavera', 'Elise F. Granek', 'Stephen Polasky', 'Shankar Aswani', 'Lori A. Cramer', 'David M. Stoms', 'Chris Kennedy', 'David Bael', 'Carrie V. Kappel', 'Gerardo M. E. Perillo', 'Denise J. Reed']
+ABSTRACT:
+A common assumption is that ecosystem services respond linearly to changes in habitat size. This assumption leads frequently to an "all or none" choice of either preserving coastal habitats or converting them to human use. However, our survey of wave attenuation data from field studies of mangroves, salt marshes, seagrass beds, nearshore coral reefs, and sand dunes reveals that these relationships are rarely linear. By incorporating nonlinear wave attenuation in estimating coastal protection values of mangroves in Thailand, we show that the optimal land use option may instead be the integration of development and conservation consistent with ecosystem-based management goals. This result suggests that reconciling competing demands on coastal habitats should not always result in stark preservation-versus-conversion choices.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 887
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Seagrass', 'Salt marsh', 'Habitat', 'Mangrove', 'Coral reef', 'Ecosystem', 'Marsh', 'Mangrove ecosystem', 'Coastal ecosystem', 'Ecosystem services', 'Environmental science', 'Ecology', 'Environmental resource management', 'Geography', 'Coastal management', 'Wetland', 'Biology']

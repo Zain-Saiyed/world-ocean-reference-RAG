@@ -1,0 +1,12 @@
+ID: W2618770354
+TITLE: Cumulative impacts: thermally bleached corals have reduced capacity to clear deposited sediment
+AUTHOR: ['Pia Bessell‐Browne', 'Andrew P. Negri', 'Rebecca Fisher', 'Peta L. Clode', 'Ross Jones']
+ABSTRACT:
+Abstract The interaction between local, anthropogenic stressors, and larger scale regional/global stressors, is often used to explain the current poor condition of many corals reefs. This form of cumulative pressure is clearly manifested by situations where dredging projects happen to coincide with marine heatwaves that have caused coral bleaching. A key pressure associated with dredging is elevated sedimentation. In this study, 3 coral species ( Acropora millepora , Porites spp. and Turbinaria reniformis ), representing three common morphologies (branching, massive and foliose respectively), were experimentally induced to bleach by exposure to a temperature of 31 °C for 21 d. The corals were then subjected to a range of sedimentation rates (0, 11, 22 and 40 mg cm −2 d −1 ), and their sediment-rejection ability quantified after 1 and 7 successive sediment deposition events. Bleached corals were less capable of removing sediments from their surfaces, and sediment accumulated 3 to 4-fold more than on normally-pigmented corals. Repeated deposition resulted in a ~3-fold increase in the amount of sediment remaining on the corals, regardless of bleaching status. These results suggest that adaptive management practices need to be developed to reduce the impacts of future dredging projects that follow or coincide with elevated sea surface temperatures and coral bleaching events.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-02810-0.pdf
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Dredging', 'Coral', 'Sediment', 'Reef', 'Sedimentation', 'Environmental science', 'Anthozoa', 'Coral reef', 'Deposition (geology)', 'Oceanography', 'Acropora', 'Ecology', 'Biology', 'Geology', 'Paleontology']

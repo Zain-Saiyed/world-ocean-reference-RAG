@@ -1,0 +1,12 @@
+ID: W1863371459
+TITLE: Increased nuisance flooding along the coasts of the United States due to sea level rise: Past and future
+AUTHOR: ['Hamed Moftakhari', 'Amir AghaKouchak', 'Brett F. Sanders', 'David L. Feldman', 'William Sweet', 'Richard A. Matthew', 'Adam Luke']
+ABSTRACT:
+Abstract Mean sea level has risen tenfold in recent decades compared to the most recent millennia, posing a serious threat for population and assets in flood‐prone coastal zones over the next century. An increase in the frequency of nuisance (minor) flooding has also been reported due to the reduced gap between high tidal datums and flood stage, and the rate of sea level rise (SLR) is expected to increase based on current trajectories of anthropogenic activities and greenhouse gases emissions. Nuisance flooding (NF), however nondestructive, causes public inconvenience, business interruption, and substantial economic losses due to impacts such as road closures and degradation of infrastructure. It also portends an increased risk in severe floods. Here we report substantial increases in NF along the coasts of United States due to SLR over the past decades. We then take projected near‐term (2030) and midterm (2050) SLR under two representative concentration pathways (RCPs), 2.6 and 8.5, to estimate the increase in NF. The results suggest that on average, ‐ 80 ± 10% local SLR causes the median of the NF distribution to increase by 55 ± 35% in 2050 under RCP8.5. The projected increase in NF will have significant socio‐economic impacts and pose public health risks in coastal regions.
+
+SOURCE: Geophysical research letters
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015GL066072
+CITED BY COUNT: 144
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Nuisance', 'Flooding (psychology)', 'Environmental science', 'Flood myth', 'Coastal flood', 'Sea level rise', 'Representative Concentration Pathways', 'Climate change', 'Sea level', 'Population', 'Climatology', 'Geography', 'Physical geography', 'Oceanography', 'Climate model', 'Environmental health', 'Geology', 'Medicine', 'Psychology', 'Archaeology', 'Political science', 'Law', 'Psychotherapist']

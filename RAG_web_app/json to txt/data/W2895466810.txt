@@ -1,0 +1,12 @@
+ID: W2895466810
+TITLE: Double trouble in the South Pacific subtropical gyre: Increased plastic ingestion by fish in the oceanic accumulation zone
+AUTHOR: ['Ana Markić', 'Clarisse Niemand', 'James H. Bridson', 'Nabila Mazouni-Gaertner', 'Jean‐Claude Gaertner', 'Marcus Eriksen', 'Melissa Bowen']
+ABSTRACT:
+Fish are an important food source for South Pacific (SP) island countries, yet there is little information on contamination of commercial marine fish species by plastic. The aim of our study was to perform a broad-scale assessment of plastic ingestion by fish common in the diet of SP inhabitants. We examined 932 specimens from 34 commercial fish species across four SP locations, and some of the prey they ingested, for the presence of marine plastics. Plastic was found in 33 species, with an average ingestion rate (IR) of 24.3 ± 1.4% and plastic load of 2.4 ± 0.2 particles per fish. Rapa Nui fish exhibited the greatest IR (50.0%), significantly greater than in other three locations. Rapa Nui is located within the SP subtropical gyre, where the concentration of marine plastics is high and food is limited. Plastic was also found in prey, which confirms the trophic transfer of microplastics.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 127
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microplastics', 'Ocean gyre', 'Plastic pollution', 'Subtropics', 'Trophic level', 'Ingestion', 'Fishery', 'Predation', 'Biology', 'Fish <Actinopterygii>', 'Marine debris', 'Environmental science', 'Food web', 'Oceanography', 'Ecology', 'Debris', 'Biochemistry', 'Geology']

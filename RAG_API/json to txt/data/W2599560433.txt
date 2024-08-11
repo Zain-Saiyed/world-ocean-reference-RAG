@@ -1,0 +1,12 @@
+ID: W2599560433
+TITLE: Social&amp;#8211;ecological change and implications for food security in Funafuti, Tuvalu
+AUTHOR: ['Sandra McCubbin', 'Tristan Pearce', 'James D. Ford', 'Barry Smit']
+ABSTRACT:
+This article examines food security in Funafuti, Tuvalu in the context of recent social-ecological changes.We consider both social and ecological processes in order to provide a holistic account of food security.An analysis of data collected through a fixed-question survey and freelists with 50 households and semistructured interviews with 25 key informants reveal that access to food of sufficient nutritional and cultural value is the primary driver affecting food security, more so than general food availability.Ten percent of the households surveyed experienced a shortage of food in the previous month, and 52% ate less desirable imported foods, which tended to be nutrient poor because they could not access preferred local foods.Factors and processes affecting access to local foods include: availability of and access to land; declining involvement in local food production; the convenience of imported foods; unreliable interisland shipping; and climate and environmental changes that have negatively affected food security and are expected to continue to do so.
+
+SOURCE: Ecology and society
+PDF URL: https://www.ecologyandsociety.org/vol22/iss1/art53/ES-2016-9129.pdf
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Food security', 'Ecology', 'Environmental resource management', 'Political science', 'Business', 'Economics', 'Biology', 'Agriculture']

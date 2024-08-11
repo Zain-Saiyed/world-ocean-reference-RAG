@@ -1,0 +1,12 @@
+ID: W2592482376
+TITLE: Halogenated organic pollutants in marine biota from the Xuande Atoll, South China Sea: Levels, biomagnification and dietary exposure
+AUTHOR: ['Yuxin Sun', 'Yongxia Hu', 'Zaiwang Zhang', 'Xiangrong Xu', 'Heng‐Xiang Li', 'Linzi Zuo', 'Yi Zhong', 'Hongwei Sun', 'Bi‐Xian Mai']
+ABSTRACT:
+Six marine biota species were collected from the Xuande Atoll, South China Sea to investigate the bioaccumulation of dichlorodiphenyltrichloroethane (DDT), polychlorinated biphenyls (PCBs), polybrominated diphenyl ethers (PBDEs), decabromodiphenyl ethane (DBDPE) and dechlorane plus (DP). Pike conger (Muraenesox talabonoides) had the highest concentrations of halogenated organic pollutants (HOPs) among the six marine biota species. DDTs were the predominant HOPs, followed by PCBs and PBDEs, with minor contributions of DBDPE and DP. Twenty-one percent of samples had ratios of (DDE + DDD)/ΣDDTs lower than 0.5, implying the presence of fresh DDT inputs in the environment of the Xuande Atoll. The biomagnification factor values for DDTs, PCBs, PBDEs and DP were higher than 1, suggesting biomagnification of these contaminants in the marine food chains. Consumption of seafood from the Xuande Atoll might not subject local residents in the coastal areas of South China to health risks as far as HOPs are concerned.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biomagnification', 'Polybrominated diphenyl ethers', 'Bioaccumulation', 'Biota', 'Environmental chemistry', 'Bioconcentration', 'Atoll', 'Pollutant', 'Environmental science', 'Persistent organic pollutant', 'Ecology', 'Chemistry', 'Biology', 'Reef']

@@ -1,0 +1,12 @@
+ID: W2593177139
+TITLE: The not-so-silent world: Measuring Arctic, Equatorial, and Antarctic soundscapes in the Atlantic Ocean
+AUTHOR: ['Samara M. Haver', 'Holger Klinck', 'Sharon L. Nieukirk', 'Haru Matsumoto', 'Robert P. Dziak', 'Jennifer Miksis-Olds']
+ABSTRACT:
+Anthropogenic noise in the ocean has been shown, under certain conditions, to influence the behavior and health of marine mammals. Noise from human activities may interfere with the low-frequency acoustic communication of many Mysticete species, including blue (Balaenoptera musculus) and fin whales (B. physalus). This study analyzed three soundscapes in the Atlantic Ocean, from the Arctic to the Antarctic, to document ambient sound. For 16 months beginning in August 2009, acoustic data (15–100 Hz) were collected in the Fram Strait (79°N, 5.5°E), near Ascension Island (8°S, 14.4°W) and in the Bransfield Strait (62°S, 55.5°W). Results indicate (1) the highest overall sound levels were measured in the equatorial Atlantic, in association with high levels of seismic oil and gas exploration, (2) compared to the tropics, ambient sound levels in polar regions are more seasonally variable, and (3) individual elements beget the seasonal and annual variability of ambient sound levels in high latitudes. Understanding how the variability of natural and man-made contributors to sound may elicit differences in ocean soundscapes is essential to developing strategies to manage and conserve marine ecosystems and animals.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sound (geography)', 'Balaenoptera', 'Oceanography', 'Whale', 'Arctic', 'Soundscape', 'Ambient noise level', 'Environmental science', 'Marine ecosystem', 'Latitude', 'Geology', 'Ecosystem', 'Fishery', 'Biology', 'Ecology', 'Geodesy']

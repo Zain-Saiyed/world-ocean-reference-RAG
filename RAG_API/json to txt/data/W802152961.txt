@@ -1,0 +1,12 @@
+ID: W802152961
+TITLE: Comparative assessment of nanomaterial definitions and safety evaluation considerations
+AUTHOR: ['Darrell R. Boverhof', 'Christina M. Bramante', 'John H. Butala', 'Shaun F. Clancy', 'Mark Lafranconi', 'Jay West', 'Steve C. Gordon']
+ABSTRACT:
+Nanomaterials continue to bring promising advances to science and technology. In concert have come calls for increased regulatory oversight to ensure their appropriate identification and evaluation, which has led to extensive discussions about nanomaterial definitions. Numerous nanomaterial definitions have been proposed by government, industry, and standards organizations. We conducted a comprehensive comparative assessment of existing nanomaterial definitions put forward by governments to highlight their similarities and differences. We found that the size limits used in different definitions were inconsistent, as were considerations of other elements, including agglomerates and aggregates, distributional thresholds, novel properties, and solubility. Other important differences included consideration of number size distributions versus weight distributions and natural versus intentionally-manufactured materials. Overall, the definitions we compared were not in alignment, which may lead to inconsistent identification and evaluation of nanomaterials and could have adverse impacts on commerce and public perceptions of nanotechnology. We recommend a set of considerations that future discussions of nanomaterial definitions should consider for describing materials and assessing their potential for health and environmental impacts using risk-based approaches within existing assessment frameworks. Our intent is to initiate a dialogue aimed at achieving greater clarity in identifying those nanomaterials that may require additional evaluation, not to propose a formal definition.
+
+SOURCE: Regulatory toxicology and pharmacology
+PDF URL: None
+CITED BY COUNT: 306
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['CLARITY', 'Identification (biology)', 'Risk analysis (engineering)', 'Risk assessment', 'Government (linguistics)', 'Computer science', 'Management science', 'Nanotechnology', 'Engineering', 'Business', 'Computer security', 'Materials science', 'Chemistry', 'Biochemistry', 'Botany', 'Linguistics', 'Philosophy', 'Biology']

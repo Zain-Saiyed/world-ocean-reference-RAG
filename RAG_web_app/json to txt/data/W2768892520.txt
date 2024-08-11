@@ -1,0 +1,12 @@
+ID: W2768892520
+TITLE: Exposure to and colonisation by antibiotic-resistant E. coli in UK coastal water users: Environmental surveillance, exposure assessment, and epidemiological study (Beach Bum Survey)
+AUTHOR: ['Anne Frances Clare Leonard', 'Lihong Zhang', 'Andrew Balfour', 'Ruth Garside', 'Peter M. Hawkey', 'Aimee K. Murray', 'Obioha C. Ukoumunne', 'William H. Gaze']
+ABSTRACT:
+Antibiotic-resistant bacteria (ARB) present a global public health problem. With numbers of community-acquired resistant infections increasing, understanding the mechanisms by which people are exposed to and colonised by ARB can help inform effective strategies to prevent their spread. The role natural environments play in this is poorly understood. This is the first study to combine surveillance of ARB in bathing waters, human exposure estimates and association between exposure and colonisation by ARB in water users. 97 bathing water samples from England and Wales were analysed for the proportion of E. coli harbouring blaCTX-M. These data were used to estimate the likelihood of water users ingesting blaCTX-M-bearing E. coli. Having identified surfers as being at risk of exposure to ARB, a cross-sectional study was conducted. Regular surfers and non-surfers were recruited to assess whether there is an association between surfing and gut colonisation by blaCTX-M-bearing E. coli. 11 of 97 bathing waters sampled were found to contain blaCTX-M-bearing E. coli. While the percentage of blaCTX-M-bearing E. coli in bathing waters was low (0.07%), water users are at risk of ingesting these ARB. It is estimated that over 2.5 million water sports sessions occurred in 2015 resulting in the ingestion of at least one blaCTX-M-bearing E. coli. In the epidemiological survey, 9/143 (6.3%) surfers were colonised by blaCTX-M-bearing E. coli, as compared to 2/130 (1.5%) of non-surfers (risk ratio = 4.09, 95% CI 1.02 to 16.4, p = 0.046). Surfers are at risk of exposure to and colonisation by clinically important antibiotic-resistant E. coli in coastal waters. Further research must be done on the role natural environments play in the transmission of ARB.
+
+SOURCE: Environment international
+PDF URL: None
+CITED BY COUNT: 180
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Bathing', 'Colonisation', 'Environmental health', 'Epidemiology', 'Indicator bacteria', 'Public health', 'Medicine', 'Veterinary medicine', 'Toxicology', 'Biology', 'Ecology', 'Water quality', 'Fecal coliform', 'Internal medicine', 'Nursing', 'Pathology', 'Colonization']

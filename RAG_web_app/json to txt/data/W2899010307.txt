@@ -1,0 +1,12 @@
+ID: W2899010307
+TITLE: Implications of population connectivity studies for the design of marine protected areas in the deep sea: An example of a demosponge from the Clarion‐Clipperton Zone
+AUTHOR: ['Sergi Taboada', 'Ana Riesgo', 'Helena Wiklund', 'Gordon L.J. Paterson', 'Vasiliki Koutsouveli', 'Nadiezhda Santodomingo', 'Andrew Dale', 'Craig R. Smith', 'Daniel O. B. Jones', 'Thomas G. Dahlgren', 'Adrian G. Glover']
+ABSTRACT:
+The abyssal demosponge Plenaster craigi inhabits the Clarion-Clipperton Zone (CCZ) in the northeast Pacific, a region with abundant seafloor polymetallic nodules with potential mining interest. Since P. craigi is a very abundant encrusting sponge on nodules, understanding its genetic diversity and connectivity could provide important insights into extinction risks and design of marine protected areas. Our main aim was to assess the effectiveness of the Area of Particular Environmental Interest 6 (APEI-6) as a potential genetic reservoir for three adjacent mining exploration contract areas (UK-1A, UK-1B and OMS-1A). As in many other sponges, COI showed extremely low variability even for samples ~900 km apart. Conversely, the 168 individuals of P. craigi, genotyped for 11 microsatellite markers, provided strong genetic structure at large geographical scales not explained by isolation by distance (IBD). Interestingly, we detected molecular affinities between samples from APEI-6 and UK-1A, despite being separated ~800 km. Although our migration analysis inferred very little progeny dispersal of individuals between areas, the major differentiation of OMS-1A from the other areas might be explained by the occurrence of predominantly northeasterly transport predicted by the HYCOM hydrodynamic model. Our study suggests that although APEI-6 does serve a conservation role, with species connectivity to the exploration areas, it is on its own inadequate as a propagule source for P. craigi for the entire eastern portion of the CCZ. Our new data suggest that an APEI located to the east and/or the south of the UK-1, OMS-1, BGR, TOML and NORI areas would be highly valuable.
+
+SOURCE: Molecular ecology
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Biology', 'Biological dispersal', 'Propagule', 'Ecology', 'Isolation by distance', 'Population', 'CLARION', 'Genetic diversity', 'Marine protected area', 'Genetic structure', 'Demography', 'Sociology', 'Habitat', 'Artificial intelligence', 'Computer science']

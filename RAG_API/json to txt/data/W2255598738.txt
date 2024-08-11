@@ -1,0 +1,12 @@
+ID: W2255598738
+TITLE: Global biogeography of Prochlorococcus genome diversity in the surface ocean
+AUTHOR: ['Alyssa G. Kent', 'Chris L. Dupont', 'Shibu Yooseph', 'Adam C. Martiny']
+ABSTRACT:
+Prochlorococcus, the smallest known photosynthetic bacterium, is abundant in the ocean's surface layer despite large variation in environmental conditions. There are several genetically divergent lineages within Prochlorococcus and superimposed on this phylogenetic diversity is extensive gene gain and loss. The environmental role in shaping the global ocean distribution of genome diversity in Prochlorococcus is largely unknown, particularly in a framework that considers the vertical and lateral mechanisms of evolution. Here we show that Prochlorococcus field populations from a global circumnavigation harbor extensive genome diversity across the surface ocean, but this diversity is not randomly distributed. We observed a significant correspondence between phylogenetic and gene content diversity, including regional differences in both phylogenetic composition and gene content that were related to environmental factors. Several gene families were strongly associated with specific regions and environmental factors, including the identification of a set of genes related to lower nutrient and temperature regions. Metagenomic assemblies of natural Prochlorococcus genomes reinforced this association by providing linkage of genes across genomic backbones. Overall, our results show that the phylogeography in Prochlorococcus taxonomy is echoed in its genome content. Thus environmental variation shapes the functional capabilities and associated ecosystem role of the globally abundant Prochlorococcus.
+
+SOURCE: The ISME journal
+PDF URL: https://www.nature.com/articles/ismej2015265.pdf
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Prochlorococcus', 'Biology', 'Phylogenetic diversity', 'Phylogenetic tree', 'Biodiversity', 'Microbial ecology', 'Evolutionary biology', 'Phylogenetics', 'Genome', 'Phylogeography', 'Ecology', 'Metagenomics', 'Gene', 'Genetics', 'Synechococcus', 'Cyanobacteria', 'Bacteria']

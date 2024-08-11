@@ -1,0 +1,12 @@
+ID: W2980700760
+TITLE: Dark Ophiuroid Biodiversity in a Prospective Abyssal Mine Field
+AUTHOR: ['Magdalini Christodoulou', 'Timothy D. O’Hara', 'Andrew F. Hugall', 'Pedro Martínez Arbizu']
+ABSTRACT:
+The seafloor contains valuable mineral resources, including polymetallic (or manganese) nodules that form on offshore abyssal plains. The largest and most commercially attractive deposits are located in the Clarion Clipperton Fracture Zone (CCZ), in the eastern Pacific Ocean (EP) between Hawaii and Mexico, where testing of a mineral collection system is set to start soon [1Voosen P. Scheme to mine the abyss gets sea trial.Science. 2019; 363: 1129-1130Crossref PubMed Scopus (5) Google Scholar]. The requirement to establish pre-mining environmental management plans has prompted numerous recent biodiversity and DNA barcoding surveys across these remote regions. Here we map DNA sequences from sampled ophiuroids (brittle stars, including post-larvae) of the CCZ and Peru Basin onto a substantial tree of life to show unprecedented levels of abyssal ophiuroid phylogenetic diversity including at least three ancient (>70 Ma), previously unknown clades. While substantial dark (unobserved) biodiversity has been reported from various microbial meta-barcoding projects [2Rinke C. Schwientek P. Sczyrba A. Ivanova N.N. Anderson I.J. Cheng J.F. Darling A. Malfatti S. Swan B.K. Gies E.A. et al.Insights into the phylogeny and coding potential of microbial dark matter.Nature. 2013; 499: 431-437Crossref PubMed Scopus (1420) Google Scholar, 3Pawlowski J. The new micro-kingdoms of eukaryotes.BMC Biol. 2013; 11: 40Crossref PubMed Scopus (27) Google Scholar], our data show that we have considerably under-estimated the biodiversity of even the most conspicuous mega-faunal invertebrates [4Glover A.G. Wiklund H. Rabone M. Amon D.J. Smith C.R. O’Hara T. Mah C.L. Dahlgren T.G. Abyssal fauna of the UK-1 polymetallic nodule exploration claim, Clarion-Clipperton Zone, central Pacific Ocean: Echinodermata.Biodivers. Data J. 2016; 4: e7251Crossref Scopus (28) Google Scholar] of the EP abyssal plain.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982219311728/pdf
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Biodiversity', 'DNA barcoding', 'Biology', 'Abyssal plain', 'Scopus', 'Ecology', 'Paleontology', 'Oceanography', 'Geology', 'Fishery', 'Structural basin', 'Biochemistry', 'MEDLINE']

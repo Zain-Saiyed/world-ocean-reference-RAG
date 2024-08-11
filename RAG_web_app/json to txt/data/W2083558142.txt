@@ -1,0 +1,12 @@
+ID: W2083558142
+TITLE: Climate Influence on Deep Sea Populations
+AUTHOR: ['Joan B. Company', 'Pere Puig', 'Francesc Sardà', 'Albert Palanqués', 'Mikel Latasa', 'Renate Scharek']
+ABSTRACT:
+Dynamics of biological processes on the deep-sea floor are traditionally thought to be controlled by vertical sinking of particles from the euphotic zone at a seasonal scale. However, little is known about the influence of lateral particle transport from continental margins to deep-sea ecosystems. To address this question, we report here how the formation of dense shelf waters and their subsequent downslope cascade, a climate induced phenomenon, affects the population of the deep-sea shrimp Aristeus antennatus. We found evidence that strong currents associated with intense cascading events correlates with the disappearance of this species from its fishing grounds, producing a temporary fishery collapse. Despite this initial negative effect, landings increase between 3 and 5 years after these major events, preceded by an increase of juveniles. The transport of particulate organic matter associated with cascading appears to enhance the recruitment of this deep-sea living resource, apparently mitigating the general trend of overexploitation. Because cascade of dense water from continental shelves is a global phenomenon, we anticipate that its influence on deep-sea ecosystems and fisheries worldwide should be larger than previously thought.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0001431&type=printable
+CITED BY COUNT: 187
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Overexploitation', 'Oceanography', 'Deep sea', 'Photic zone', 'Marine ecosystem', 'Ecosystem', 'Pelagic zone', 'Environmental science', 'Population', 'Continental shelf', 'Climate change', 'Fishing', 'Ecology', 'Fishery', 'Biology', 'Geology', 'Demography', 'Phytoplankton', 'Sociology', 'Nutrient']

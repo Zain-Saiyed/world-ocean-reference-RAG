@@ -1,0 +1,12 @@
+ID: W2071893748
+TITLE: Chemical Atlas Shows Where Seas Are Tainted—And Where They Can Bloom
+AUTHOR: ['David Malakoff']
+ABSTRACT:
+Oceanographers have released a digital atlas containing remarkably detailed maps of ocean chemistry.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Atlas (anatomy)', 'Bloom', 'Oceanography', 'Biology', 'Geology', 'Paleontology']

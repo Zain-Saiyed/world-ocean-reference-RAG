@@ -1,0 +1,12 @@
+ID: W4250380861
+TITLE: The Hadal Zone
+AUTHOR: ['Alan J. Jamieson']
+ABSTRACT:
+The hadal zone represents one of the last great frontiers in marine science, accounting for 45% of the total ocean depth range. Despite very little research effort since the 1950s, the last ten years has seen a renaissance in hadal exploration, almost certainly as a result of technological advances that have made this otherwise largely inaccessible frontier, a viable subject for research. Providing an overview of the geology involved in trench formation, the hydrography and food supply, this book details all that is currently known about organisms at hadal depths and linkages to the better known abyssal and bathyal depths. New insights on how, where and what really survives and thrives in the deepest biozone are provided, allowing this region to be considered when dealing with sustainability and conservation issues in the marine environment.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 121
+PUBLICATION YEAR: 2015
+TYPE: book
+CONCEPTS: ['Abyssal zone', 'Oceanography', 'Geology', 'Bathyal zone', 'Benthic zone']

@@ -1,0 +1,12 @@
+ID: W2565122807
+TITLE: New advanced technology devices for operational oceanography in extreme conditions
+AUTHOR: ['Giuseppe Zappalà', 'Gabriele Bruzzone', 'Maurizio Azzaro', 'Gabriella Caruso']
+ABSTRACT:
+Monitoring the quality of marine ecosystems is a challenge to achieve and preserve their good environmental status.Real time or near real time acquisition and collection of physical, chemical and biological data series describing the health conditions of marine environments is needed not only when pollution episodes occur, to set up proper remediation measures, but also to follow natural variability of water quality occurring at different time scales.The development of advanced systems for environmental monitoring (coastal and offshore buoys and platforms, unmanned or remotely controlled submersible and unsubmersible vehicles, etc.) gave a great contribution to operational oceanography, helping to bypass the limitations and costs of traditional oceanographic surveys.The systems here described constitute an improvement and application of the know-how acquired in the last two decades in the field of advanced systems for environmental investigations.Potential advantages of the new developed system in comparison with previous prototypes are described.A wide range of applications is possible, covering the cases when conventional 'manual' sampling is not possible, or dangerous, for example in proximity to glaciers, or when oil spill, toxic algal blooms, waste water must be sampled.As a first test, the developed system has been used in Arctic waters (Svalbard Islands) to evaluate spatial variations in the microbial assemblage.Results obtained indicate that the developed automatic vehicle and water multisampler are a good complement of traditional oceanographic cruises, and constitute a practical low-cost system to obtain data with good spatio-temporal resolution both for the initial characterization and for the study of possible natural or anthropogenic disturbance in water quality.
+
+SOURCE: International journal of sustainable development and planning
+PDF URL: http://www.witpress.com/Secure/ejournals/papers/SDP120107f.pdf
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Environmental science', 'Oceanography', 'Geology']

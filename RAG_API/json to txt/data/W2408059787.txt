@@ -1,0 +1,12 @@
+ID: W2408059787
+TITLE: Oil in the Sea III
+AUTHOR: []
+ABSTRACT:
+Since the early 1970s, experts have recognized that petroleum pollutants were being discharged in marine waters worldwide, from oil spills, vessel operations, and land-based sources. Public attention to oil spills has forced improvements. Still, a considerable amount of oil is discharged yearly into sensitive coastal environments.Oil in the Sea provides the best available estimate of oil pollutant discharge into marine waters, including an evaluation of the methods for assessing petroleum load and a discussion about the concerns these loads represent. Featuring close-up looks at the Exxon Valdez spill and other notable events, the book identifies important research questions and makes recommendations for better analysis of—and more effective measures against—pollutant discharge.The book discusses: Input—where the discharges come from, including the role of two-stroke engines used on recreational craft. Behavior or fate—how oil is affected by processes such as evaporation as it moves through the marine environment. Effects—what we know about the effects of petroleum hydrocarbons on marine organisms and ecosystems. Providing a needed update on a problem of international importance, this book will be of interest to energy policy makers, industry officials and managers, engineers and researchers, and advocates for the marine environment.
+
+SOURCE: National Academies Press eBooks
+PDF URL: None
+CITED BY COUNT: 166
+PUBLICATION YEAR: 2003
+TYPE: book
+CONCEPTS: ['Environmental science', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2064509925
+TITLE: Prorocentrum minimum tracks anthropogenic nitrogen and phosphorus inputs on a global basis: Application of spatially explicit nutrient export models
+AUTHOR: ['Patricia M. Glibert', 'Emilio Mayorga', 'Sybil P. Seitzinger']
+ABSTRACT:
+Nutrient over-enrichment from land-based sources has degraded estuarine and coastal marine waters worldwide. Linking nutrient loading, in magnitude and form, to specific ecosystem effects, however, has been a challenge on the global scale. The harmful algal species Prorocentrum minimum has long been thought to be associated with eutrophication based on several site-specific long-term databases and a previous review of its global spreading. Using recently developed spatially explicit models that quantify global river nitrogen (N) and phosphorus (P) export to the coastal zone and the contribution of natural and anthropogenic sources, as well as a review of the global distribution of P. minimum, we show that this HAB species is associated with regions of high dissolved inorganic nitrogen (DIN) and phosphorus (DIP) exports that are strongly influenced by anthropogenic sources (such as fertilizers and manures for DIN). Blooms of this species were also linked to regions with relatively high anthropogenic contributions to dissolved organic N and P export. The global distribution of this species is expected to expand, given that nutrient inputs to watersheds from agriculture, sewage and fossil fuel combustion are projected to more than double by 2050 unless technological advances and policy changes are implemented.
+
+SOURCE: Harmful algae
+PDF URL: None
+CITED BY COUNT: 77
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Environmental science', 'Nutrient', 'Phosphorus', 'Estuary', 'Ecosystem', 'Nutrient pollution', 'Algal bloom', 'Ecology', 'Biology', 'Phytoplankton', 'Chemistry', 'Organic chemistry']

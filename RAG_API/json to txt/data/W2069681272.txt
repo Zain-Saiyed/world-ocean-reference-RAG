@@ -1,0 +1,12 @@
+ID: W2069681272
+TITLE: Determination of chlorinated paraffins in sediments from the Firth of Clyde by gas chromatography with electron capture negative ionisation mass spectrometry and carbon skeleton analysis by gas chromatography with flame ionisation detection
+AUTHOR: ['Ines Hussy', 'Lynda Webster', 'Martin Russell', 'Colin F. Moffat']
+ABSTRACT:
+Short chain chlorinated paraffins (SCCPs) are a group of persistent organic pollutants (POPs) of increasing concern, but are to date not widely investigated in the environment, largely due to the challenges involved in their quantification. Here, SCCPs were quantified in marine sediments from the Firth of Clyde, Scotland, by gas chromatography with electron capture negative ionisation mass spectrometry (GC-ECNIMS) and through carbon skeleton analysis by gas chromatography with flame ionisation detection (GC-FID), and the analytical challenges encountered are discussed. Concentrations in the sediments ranged from 0.4 to 69 μg kg(-1) when determined by GC-ECNIMS, and from 5.6 to 379 μg kg(-1) when determined by GC-FID. For 8 out of 11 samples, analysis by GC-FID gave higher results than analysis by GC-ECNIMS. Unexpected aspects of the analysis, such as the presence of high concentrations of longer chain chlorinated paraffins in the samples, are also presented.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Gas chromatography', 'Chlorinated paraffins', 'Chemistry', 'Mass spectrometry', 'Chromatography', 'Firth', 'Gas chromatography–mass spectrometry', 'Flame ionization detector', 'Electron ionization', 'Environmental chemistry', 'Ionization', 'Organic chemistry', 'Geology', 'Ion', 'Oceanography']

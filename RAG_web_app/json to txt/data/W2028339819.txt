@@ -1,0 +1,12 @@
+ID: W2028339819
+TITLE: Hypoxia in the northern Gulf of Mexico: Does the science support the Plan to Reduce, Mitigate, and Control Hypoxia?
+AUTHOR: ['Nancy N. Rabalais', 'R. Eugene Turner', 'Bhaskar Sen Gupta', 'Donald F. Boesch', 'Piers Chapman', 'Michael C. Murrell']
+ABSTRACT:
+We update and reevaluate the scientific information on the distribution, history, and causes of continental shelf hypoxia that supports the 2001 Action Plan for Reducing, Mitigating, and Controlling Hypoxia in the Northern Gulf of Mexico (Mississippi River/Gulf of Mexico Watershed Nutrient Task Force 2001), incorporating data, publications, and research results produced since the 1999 integrated assessment. The metric of mid-summer hypoxic area on the LouisianaTexas shelf is an adequate and suitable measure for continued efforts to reduce nutrients loads from the Mississippi River and hypoxia in the northern Gulf of Mexico as outlined in the Action Plan. More frequent measurements of simple metrics (e.g., area and volume) from late spring through late summer would ensure that the metric is representative of the system in any given year and useful in a public discourse of conditions and causes. The long-term data on hypoxia, sources of nutrients, associated biological parameters, and paleoindicators continue to verify and strengthen the relationship between the nitratenitrogen load of the Mississippi River, the extent of hypoxia, and changes in the coastal ecosystem (eutrophication and worsening hypoxia). Multiple lines of evidence, some of them representing independent data sources, are consistent with the big picture pattern of increased eutrophication as a result of long-term nutrient increases that result in excess carbon production and accumulation and, ultimately, bottom water hypoxia. The additional findings arising since 1999 strengthen the science supporting the Action Plan that focuses on reducing nutrient loads, primarily nitrogen, through multiple actions to reduce the size of the hypoxic zone in the northern Gulf of Mexico.
+
+SOURCE: Estuaries and coasts
+PDF URL: None
+CITED BY COUNT: 401
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Hypoxia (environmental)', 'Eutrophication', 'Nutrient', 'Environmental science', 'Watershed', 'Action plan', 'Ecosystem', 'Ecology', 'Oceanography', 'Biology', 'Geology', 'Chemistry', 'Organic chemistry', 'Oxygen', 'Machine learning', 'Computer science']

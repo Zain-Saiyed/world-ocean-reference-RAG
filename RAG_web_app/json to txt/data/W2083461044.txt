@@ -1,0 +1,12 @@
+ID: W2083461044
+TITLE: Embryogenesis and Larval Biology of the Cold-Water Coral Lophelia pertusa
+AUTHOR: ['Ann I. Larsson', 'Johanna Järnegren', 'Susanna M. Strömberg', 'Mikael Dahl', 'Tomas Lundälv', 'Sandra Brooke']
+ABSTRACT:
+Cold-water coral reefs form spectacular and highly diverse ecosystems in the deep sea but little is known about reproduction, and virtually nothing about the larval biology in these corals. This study is based on data from two locations of the North East Atlantic and documents the first observations of embryogenesis and larval development in Lophelia pertusa, the most common framework-building cold-water scleractinian. Embryos developed in a more or less organized radial cleavage pattern from ∼ 160 µm large neutral or negatively buoyant eggs, to 120-270 µm long ciliated planulae. Embryogenesis was slow with cleavage occurring at intervals of 6-8 hours up to the 64-cell stage. Genetically characterized larvae were sexually derived, with maternal and paternal alleles present. Larvae were active swimmers (0.5 mm s(-1)) initially residing in the upper part of the water column, with bottom probing behavior starting 3-5 weeks after fertilization. Nematocysts had developed by day 30, coinciding with peak bottom-probing behavior, and possibly an indication that larvae are fully competent to settle at this time. Planulae survived for eight weeks under laboratory conditions, and preliminary results indicate that these planulae are planktotrophic. The late onset of competency and larval longevity suggests a high dispersal potential. Understanding larval biology and behavior is of paramount importance for biophysical modeling of larval dispersal, which forms the basis for predictions of connectivity among populations.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0102222&type=printable
+CITED BY COUNT: 80
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Biology', 'Biological dispersal', 'Larva', 'Coral', 'Anthozoa', 'Ecology', 'Coral reef', 'Scleractinia', 'Developmental biology', 'Reproductive biology', 'Zoology', 'Cnidaria', 'Embryogenesis', 'Embryo', 'Fishery', 'Population', 'Demography', 'Sociology', 'Cell biology']

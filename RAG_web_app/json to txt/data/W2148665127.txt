@@ -1,0 +1,12 @@
+ID: W2148665127
+TITLE: Combining marine macroecology and palaeoecology in understanding biodiversity: microfossils as a model
+AUTHOR: ['Moriaki Yasuhara', 'Derek P. Tittensor', 'Helmut Hillebrand', 'Boris Worm']
+ABSTRACT:
+There is growing interest in the integration of macroecology and palaeoecology towards a better understanding of past, present, and anticipated future biodiversity dynamics. However, the empirical basis for this integration has thus far been limited. Here we review prospects for a macroecology-palaeoecology integration in biodiversity analyses with a focus on marine microfossils [i.e. small (or small parts of) organisms with high fossilization potential, such as foraminifera, ostracodes, diatoms, radiolaria, coccolithophores, dinoflagellates, and ichthyoliths]. Marine microfossils represent a useful model system for such integrative research because of their high abundance, large spatiotemporal coverage, and good taxonomic and temporal resolution. The microfossil record allows for quantitative cross-scale research designs, which help in answering fundamental questions about marine biodiversity, including the causes behind similarities in patterns of latitudinal and longitudinal variation across taxa, the degree of constancy of observed gradients over time, and the relative importance of hypothesized drivers that may explain past or present biodiversity patterns. The inclusion of a deep-time perspective based on high-resolution microfossil records may be an important step for the further maturation of macroecology. An improved integration of macroecology and palaeoecology would aid in our understanding of the balance of ecological and evolutionary mechanisms that have shaped the biosphere we inhabit today and affect how it may change in the future.
+
+SOURCE: Biological reviews/Biological reviews of the Cambridge Philosophical Society
+PDF URL: None
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Paleoecology', 'Macroecology', 'Biodiversity', 'Ecology', 'Biology', 'Macroevolution', 'Abundance (ecology)', 'Taxon', 'Paleontology', 'Phylogenetics', 'Biochemistry', 'Gene']

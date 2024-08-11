@@ -1,0 +1,12 @@
+ID: W2109763281
+TITLE: Multiple anthropogenic stressors and the structural properties of food webs
+AUTHOR: ['Eoin J. O’Gorman', 'Jayne E. Fitch', 'Tasman P. Crowe']
+ABSTRACT:
+Coastal environments are among the most productive on the planet, providing a wide range of ecosystem services. Development and exploitation mean that they are faced with stresses from a number of anthropogenic sources. Such stresses are typically studied in isolation, but multiple stressors can combine in unexpected ways to alter the structure of ecological systems. Here, we experimentally explore the impacts of inorganic nutrients and organic matter on a range of food web properties. We find that these two stressors combine additively to produce significant increases in connectance and mean food chain length. Such increases are typically associated with enhanced robustness to secondary extinctions and productivity, respectively. Despite these apparent beneficial effects, we find a simplification of web structure in terms of taxon richness and diversity, and altered proportions of basal and top species. These effects are driven by a reduction in community assembly and lower consistency in a range of system properties as a result of the multiple stressors. Consequently, impacted food webs are likely to be more vulnerable to human- or climate-induced perturbations in the long-term.
+
+SOURCE: Ecology
+PDF URL: None
+CITED BY COUNT: 77
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Food web', 'Ecology', 'Stressor', 'Ecosystem', 'Food chain', 'Environmental science', 'Range (aeronautics)', 'Species richness', 'Climate change', 'Geography', 'Biology', 'Materials science', 'Neuroscience', 'Composite material']

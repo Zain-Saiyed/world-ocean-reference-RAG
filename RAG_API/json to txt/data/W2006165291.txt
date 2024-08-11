@@ -1,0 +1,12 @@
+ID: W2006165291
+TITLE: Global analyses of sea surface temperature, sea ice, and night marine air temperature since the late nineteenth century
+AUTHOR: ['Nick A Rayner', 'D. E. Parker', 'E. B. Horton', 'C. K. Folland', 'Lisa V. Alexander', 'David P. Rowell', 'Elizabeth C. Kent', 'Alexey Kaplan']
+ABSTRACT:
+We present the Met Office Hadley Centre's sea ice and sea surface temperature (SST) data set, HadISST1, and the nighttime marine air temperature (NMAT) data set, HadMAT1. HadISST1 replaces the global sea ice and sea surface temperature (GISST) data sets and is a unique combination of monthly globally complete fields of SST and sea ice concentration on a 1° latitude‐longitude grid from 1871. The companion HadMAT1 runs monthly from 1856 on a 5° latitude‐longitude grid and incorporates new corrections for the effect on NMAT of increasing deck (and hence measurement) heights. HadISST1 and HadMAT1 temperatures are reconstructed using a two‐stage reduced‐space optimal interpolation procedure, followed by superposition of quality‐improved gridded observations onto the reconstructions to restore local detail. The sea ice fields are made more homogeneous by compensating satellite microwave‐based sea ice concentrations for the impact of surface melt effects on retrievals in the Arctic and for algorithm deficiencies in the Antarctic and by making the historical in situ concentrations consistent with the satellite data. SSTs near sea ice are estimated using statistical relationships between SST and sea ice concentration. HadISST1 compares well with other published analyses, capturing trends in global, hemispheric, and regional SST well, containing SST fields with more uniform variance through time and better month‐to‐month persistence than those in GISST. HadMAT1 is more consistent with SST and with collocated land surface air temperatures than previous NMAT data sets.
+
+SOURCE: Journal of geophysical research
+PDF URL: None
+CITED BY COUNT: 8738
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Sea ice', 'Sea surface temperature', 'Sea ice concentration', 'Climatology', 'Environmental science', 'Latitude', 'Satellite', 'Arctic ice pack', 'Geology', 'Longitude', 'Sea ice thickness', 'Atmospheric sciences', 'Geodesy', 'Aerospace engineering', 'Engineering']

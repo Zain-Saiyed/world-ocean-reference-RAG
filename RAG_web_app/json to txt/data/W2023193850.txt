@@ -1,0 +1,12 @@
+ID: W2023193850
+TITLE: Review of consenting processes for ocean energy in selected European Union Member States
+AUTHOR: ['Teresa Simas', 'Anne Marie O’Hagan', 'J.R. O’Callaghan', 'Soraya Hamawi', 'Davide Magagna', 'Ian Bailey', 'Deborah Greaves', 'Jean-Baptiste Saulnier', 'Dorleta Marina', 'Juan Bald', 'Cristina Huertas', 'Jan Sundberg']
+ABSTRACT:
+Consenting is still generally regarded as a non-technological barrier to the progress of the marine renewable energy industry, caused by the complexity of consenting processes and the lack of dedicated legal frameworks. Existing consenting systems for ocean energy projects tend to be based on procedures designed for other sectors and are seen as inappropriate for the specific needs of ocean energy. Licensing procedures are also viewed by developers as time-consuming because regulators see ocean energy as a new activity with unknown or uncertain effects and consequently often apply strong interpretation of the precautionary principle. Consenting processes for ocean energy are, nevertheless, evolving throughout Europe, driven by national and European policies and incentives on renewables, changing legal and administrative frameworks to facilitate development and more integrated marine governance. This review compares the consenting processes for ocean energy in different European countries, focusing on aspects thought to hamper operation of the process. It shows that different systems of governance across the EU Member States have resulted in diversity in the design of consenting processes, though common features can also be identified. This evidence-based review enables suggestions for streamlining consenting processes for wave energy.
+
+SOURCE: International journal of marine energy
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Incentive', 'Marine energy', 'Corporate governance', 'European union', 'Renewable energy', 'Member states', 'Process (computing)', 'Business', 'Diversity (politics)', 'Precautionary principle', 'Energy (signal processing)', 'Environmental resource management', 'Environmental economics', 'Engineering', 'Economics', 'Political science', 'International trade', 'Computer science', 'Finance', 'Ecology', 'Law', 'Statistics', 'Electrical engineering', 'Mathematics', 'Biology', 'Microeconomics', 'Operating system']

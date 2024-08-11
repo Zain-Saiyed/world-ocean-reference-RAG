@@ -1,0 +1,12 @@
+ID: W2143963762
+TITLE: Tracing the Agulhas leakage with lead isotopes
+AUTHOR: ['Maxence Paul', 'Tina van de Flierdt', 'Mark Rehkämper', 'Roulin Khondoker', 'Dominik J. Weiss', 'Maeve C. Lohan', 'William B. Homoky']
+ABSTRACT:
+The transport of warm and salty waters from the Indian Ocean to the South Atlantic by the Agulhas Current constitutes a key return route of the meridional overturning circulation. Despite the importance of the Agulhas Leakage on interoceanic exchange, its role on biogeochemical cycles is poorly documented. Here we present the first lead (Pb) concentration and isotope data for surface seawater collected during the GEOTRACES cruise D357 in the Agulhas current system. Lead in surface waters of the Cape Basin is described by three distinct end-members: the South African coast, open South Atlantic seawater, and Indian Ocean seawater. The latter stands out in its Pb isotopic composition and can be tracked within two distinct Agulhas rings. High Pb concentrations in the Agulhas rings further corroborate an Indian Ocean provenance of waters and suggest that the Agulhas Leakage represents a major conduit not only for heat but also for trace metals.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015GL065625
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Oceanography', 'Geotraces', 'Seawater', 'Thermohaline circulation', 'Geology', 'Ocean current', 'Lead (geology)', 'Biogeochemical cycle', 'Water mass', 'Chemistry', 'Geomorphology', 'Environmental chemistry']

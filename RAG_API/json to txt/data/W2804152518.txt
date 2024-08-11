@@ -1,0 +1,12 @@
+ID: W2804152518
+TITLE: Benthic–pelagic coupling and bottom‐up forcing in rocky intertidal communities along the Atlantic Canadian coast
+AUTHOR: ['Ricardo A. Scrosati', 'Julius A. Ellrich']
+ABSTRACT:
+Abstract Benthic species from rocky intertidal systems are irregularly distributed along marine coastlines. Nearshore pelagic conditions often help to explain such variation, but most such studies have been done on eastern ocean boundary coasts. We investigated possible benthic–pelagic coupling along the Atlantic coast of Nova Scotia, a western ocean boundary coast. In 2014, we surveyed high‐intertidal habitats from nine wave‐exposed bedrock locations spanning 415 km of coastline. At each location in the spring, we measured the recruitment of barnacles and mussels, the two main filter‐feeders. Recruitment varied irregularly along the coast. Satellite data on coastal phytoplankton and particulate organic carbon (food for intertidal filter‐feeders and their pelagic larvae) and in‐situ data on sea surface temperature explained, to varying degrees, the geographic structure of recruitment. In turn, the summer abundance of barnacles and mussels was positively related to their spring recruitment. Ultimately, intertidal predator (dogwhelk) abundance was positively related to the recruitment and/or abundance of barnacles and mussels (the main prey of dogwhelks). Sea ice may also have influenced this predator–prey interaction. Drift ice leaving the Gulf of St. Lawrence in late winter strongly disturbed the northern surveyed locations, making barnacles (through high spring recruitment) the only food source for dogwhelks (which survived ice scour in crevices) in such places. Overall, this study supports the occurrence of benthic–pelagic coupling and bottom‐up forcing on this coast. Investigating the oceanographic drivers of pelagic food supply and seawater temperature should help to further understand how this large metacommunity is organized.
+
+SOURCE: Ecosphere
+PDF URL: https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecs2.2229
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Benthic zone', 'Oceanography', 'Intertidal zone', 'Fishery', 'Environmental science', 'Ecology', 'Geology', 'Biology']

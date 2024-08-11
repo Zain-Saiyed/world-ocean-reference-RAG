@@ -1,0 +1,12 @@
+ID: W2463946164
+TITLE: Abyssal fauna of the UK-1 polymetallic nodule exploration claim, Clarion-Clipperton Zone, central Pacific Ocean: Echinodermata
+AUTHOR: ['Adrian G. Glover', 'Helena Wiklund', 'Muriel Rabone', 'Diva J. Amon', 'Craig R. Smith', 'Timothy D. O’Hara', 'Christopher L. Mah', 'Thomas G. Dahlgren']
+ABSTRACT:
+We present data from a DNA taxonomy register of the abyssal benthic Echinodermata collected as part of the Abyssal Baseline (ABYSSLINE) environmental survey cruise 'AB01' to the UK Seabed Resources Ltd (UKSRL) polymetallic-nodule exploration claim 'UK-1' in the eastern Clarion-Clipperton Zone (CCZ), central Pacific Ocean abyssal plain. Morphological and genetic data are presented for 17 species (4 Asteroidea, 4 Crinoidea, 2 Holothuroidea and 7 Ophiuroidea) identified by a combination of morphological and genetic data. No taxa matched previously published genetic sequences, but 8 taxa could be assigned to previously-described species based on morphology, although here we have used a precautionary approach in taxon assignments to avoid over-estimating species ranges. The Clarion-Clipperton Zone is a region undergoing intense exploration for potential deep-sea mineral extraction. We present these data to facilitate future taxonomic and environmental impact study by making both data and voucher materials available through curated and accessible biological collections.
+
+SOURCE: Biodiversity data jurnal
+PDF URL: https://bdj.pensoft.net/article/7251/download/pdf/
+CITED BY COUNT: 152
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'CLARION', 'Fauna', 'Geology', 'Oceanography', 'Pacific ocean', 'Incertae sedis', 'Paleontology', 'Ecology', 'Biology', 'Taxon', 'Artificial intelligence', 'Computer science']

@@ -1,0 +1,12 @@
+ID: W1957219854
+TITLE: An introduction to the physical oceanography of six seamounts in the southwest Indian Ocean
+AUTHOR: ['J.F. Read', 'Raymond T Pollard']
+ABSTRACT:
+Exploratory surveys of six seamounts in the Southwest Indian Ocean provide a description of physical processes induced by seamounts along the Southwest Indian Ridge. Mean currents (15–25 cm s−1) in the vicinity of each seamount were dominated by mesoscale eddies. The dominant seamount-driven process was the generation of internal tides by the barotropic tide interacting with the seamount crests. This led to enhanced shear in the vicinity of the crests resulting in mixing where stratification was weak, for example in the core of an anticyclonic mesoscale eddy or where there had been a winter mixed layer. Tidally driven up- and downwelling was observed at the seabed with associated variability in bottom temperature of up to 3 °C over a tidal cycle. Vertical displacement of isopycnals by internal tidal waves reached 200 m peak to trough. Fluorescence in the surface (eutrophic) layer could thus extend down to the seamount crest on each tidal cycle. Apparently spatial variations in short conductivity/temperature/depth sections across each seamount were probably aliased temporal variations from the strong tidal signal. Evidence for Taylor caps or other potential trapped circulations at the seamount crest was weak, most likely because currents associated with mesoscale eddies were too strong to allow their formation.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seamount', 'Geology', 'Oceanography', 'Downwelling', 'Internal tide', 'Stratification (seeds)', 'Internal wave', 'Eddy', 'Barotropic fluid', 'Anticyclone', 'Upwelling', 'Climatology', 'Turbulence', 'Geography', 'Meteorology', 'Seed dormancy', 'Botany', 'Germination', 'Dormancy', 'Biology']

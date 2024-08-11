@@ -1,0 +1,12 @@
+ID: W2096425337
+TITLE: Global patterns of marine mammal, seabird, and sea turtle bycatch reveal taxa-specific and cumulative megafauna hotspots
+AUTHOR: ['Rebecca L. Lewison', 'Larry B. Crowder', 'Bryan P. Wallace', 'Jeffrey E. Moore', 'Tara Cox', 'Ramūnas Žydelis', 'Sara McDonald', 'Andrew DiMatteo', 'Daniel C. Dunn', 'Connie Y. Kot', 'Rhema Bjorkland', 'Shaleyla Kelez', 'Candan U. Soykan', 'Kelly Stewart', 'Michelle Sims', 'André M. Boustany', 'Andrew J. Read', 'Patrick N. Halpin', 'Wallace J. Nichols', 'Carl Safina']
+ABSTRACT:
+Recent research on ocean health has found large predator abundance to be a key element of ocean condition. Fisheries can impact large predator abundance directly through targeted capture and indirectly through incidental capture of nontarget species or bycatch. However, measures of the global nature of bycatch are lacking for air-breathing megafauna. We fill this knowledge gap and present a synoptic global assessment of the distribution and intensity of bycatch of seabirds, marine mammals, and sea turtles based on empirical data from the three most commonly used types of fishing gears worldwide. We identify taxa-specific hotspots of bycatch intensity and find evidence of cumulative impacts across fishing fleets and gears. This global map of bycatch illustrates where data are particularly scarce--in coastal and small-scale fisheries and ocean regions that support developed industrial fisheries and millions of small-scale fishers--and identifies fishing areas where, given the evidence of cumulative hotspots across gear and taxa, traditional species or gear-specific bycatch management and mitigation efforts may be necessary but not sufficient. Given the global distribution of bycatch and the mitigation success achieved by some fleets, the reduction of air-breathing megafauna bycatch is both an urgent and achievable conservation priority.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/111/14/5271.full.pdf
+CITED BY COUNT: 380
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Megafauna', 'Bycatch', 'Seabird', 'Sea turtle', 'Marine mammal', 'Turtle (robot)', 'Ecology', 'Fishery', 'Otter', 'Fishing', 'Biology', 'Environmental science', 'Geography', 'Pleistocene', 'Paleontology', 'Predation']

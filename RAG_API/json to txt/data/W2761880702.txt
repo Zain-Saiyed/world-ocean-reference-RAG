@@ -1,0 +1,12 @@
+ID: W2761880702
+TITLE: Seaweed production: overview of the global state of exploitation, farming and emerging research activity
+AUTHOR: ['Alejandro H. Buschmann', 'Carolina Camus', 'Javier Infante', 'Amir Neori', 'Álvaro Israel', 'María C. Hernández-González', 'Sandra V. Pereda', 'Juan Luis Gómez‐Pinchetti', 'Alexander Golberg', 'Niva Tadmor-Shalev', 'Alan T. Critchley']
+ABSTRACT:
+The use of seaweeds has a long history, as does the cultivation of a select and relatively small group of species. This review presents several aspects of seaweed production, such as an update on the volumes of seaweeds produced globally by both extraction from natural beds and cultivation. We discuss uses, production trends and economic analysis. We also focus on what is viewed as the huge potential for growing industrial-scale volumes of seaweeds to provide sufficient, sustainable biomass to be processed into a multitude of products to benefit humankind. The biorefinery approach is proposed as a sustainable strategy to achieve this goal. There are many different technologies available to produce seaweed, but optimization and more efficient developments are still required. We conclude that there are some fundamental and very significant hurdles yet to overcome in order to achieve the potential contributions that seaweed cultivation may provide the world. There are critical aspects, such as improving the value of seaweed biomass, along with a proper consideration of the ecosystem services that seaweed farming can provide, e.g. a reduction in coastal nutrient loads. Additional considerations are environmental risks associated with climate change, pathogens, epibionts and grazers, as well as the preservation of the genetic diversity of cultivated seaweeds. Importantly, we provide an outline for future needs in the anticipation that phycologists around the world will rise to the challenge, such that the potential to be derived from seaweed biomass becomes a reality.
+
+SOURCE: European journal of phycology
+PDF URL: None
+CITED BY COUNT: 462
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biorefinery', 'Biomass (ecology)', 'Biology', 'Agriculture', 'Production (economics)', 'Biofuel', 'Natural resource economics', 'Biotechnology', 'Environmental resource management', 'Ecology', 'Business', 'Environmental science', 'Economics', 'Macroeconomics']

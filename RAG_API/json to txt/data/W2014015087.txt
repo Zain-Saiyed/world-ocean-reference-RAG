@@ -1,0 +1,12 @@
+ID: W2014015087
+TITLE: How do nitrogen inputs to the Changjiang basin impact the Changjiang River nitrate: A temporal analysis for 1968–1997
+AUTHOR: ['Weijin Yan', 'Shen Zhang', 'Peng Sun', 'Sybil P. Seitzinger']
+ABSTRACT:
+We present estimates of nitrogen (N) inputs to the Changjiang River basin for the period 1968–1997. The total N input is approximately 7.8 × 10 9 kg in 1997, which is a threefold increase over 1968 levels. N fixation was often a dominant input before 1978, providing about 2.2 × 10 9 kg year −1 , while N fertilizer dominated N input after 1983, supplying an additional input of some 4.4 × 10 9 kg year −1 . More than 40% of total N inputs is converted into manure N, and half of total manure N is returned to agricultural soil. We estimate that the river nitrate concentration and flux have increased about tenfold from 1968 to 1997. Our study suggests that the percent of N inputs to the basin that are exported by the river as NO 3 ‐N has increased steadily over the 30‐year period and that about 30% of total N input is transported through the river. The integrated N input, budget, and storage have been linked to the increasing temporal trends of Changjiang River nitrate. N fertilizer application and human population density, as well as manure N production in the basin, are good predictors of the river's nitrate concentration and flux. Therefore, how N balance is kept (especially for effective application of N fertilizer) is a crucial problem to the sustainable development of the basin.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2002GB002029
+CITED BY COUNT: 114
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Nitrate', 'Environmental science', 'Fertilizer', 'Drainage basin', 'Structural basin', 'Hydrology (agriculture)', 'Manure', 'Nitrogen', 'Denitrification', 'Population', 'Nitrogen balance', 'Eutrophication', 'Nutrient', 'Agronomy', 'Ecology', 'Geography', 'Geology', 'Biology', 'Chemistry', 'Paleontology', 'Demography', 'Cartography', 'Geotechnical engineering', 'Organic chemistry', 'Sociology']

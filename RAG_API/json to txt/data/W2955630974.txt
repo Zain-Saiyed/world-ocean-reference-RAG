@@ -1,0 +1,12 @@
+ID: W2955630974
+TITLE: Fostering human health through ocean sustainability in the 21st century
+AUTHOR: ['Lora E. Fleming', 'Bruce Maycock', 'Mathew P. White', 'Michael H. Depledge']
+ABSTRACT:
+Abstract The approach of the Decade of the Ocean for Sustainable Development (2021–2030) provides a time to reflect on what we know about the complex interactions between the seas, oceans, and human health and well‐being. In the past, these interactions have been seen primarily within a risk framework, for example, adverse impacts of extreme weather, chemical pollution and increasingly, climate change. However, new research is expanding our concept of the ‘health’ of the ‘Global Ocean’, with a broader recognition of its essential and beneficial contribution to the current and future health and well‐being of humans. The seas and coasts not only provide an essential source of food, opportunities for trade and access to sustainable energy, but also the chance for people to interact with high‐quality marine environments which can lead to improvements in mental and physical health and well‐being, particularly of socio‐economically deprived individuals. By going beyond this risk framework and a purely extractive anthropocentric point of view, we can capture the true benefits, value and importance of these resources. Articulating a vision of how humans might better interact with marine ecosystems in the future, is a key first step in identifying a range of policy and management actions that can deliver our goals of fostering health and well‐being through the establishment of more sustainable interconnections with the Global Ocean. A free Plain Language Summary can be found within the Supporting Information of this article.
+
+SOURCE: People and nature
+PDF URL: https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pan3.10038
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Sustainability', 'Anthropocentrism', 'Environmental resource management', 'Environmental planning', 'Climate change', 'Sustainable development', 'Human health', 'Business', 'Natural resource economics', 'Geography', 'Ecology', 'Environmental science', 'Environmental health', 'Biology', 'Economics', 'Medicine']

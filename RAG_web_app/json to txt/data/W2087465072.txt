@@ -1,0 +1,12 @@
+ID: W2087465072
+TITLE: Aquatic pollution increases the relative success of invasive species
+AUTHOR: ['Jeffrey A. Crooks', 'Andrew L. Chang', 'Gregory M. Ruiz']
+ABSTRACT:
+Although individual ecosystems vary greatly in the degree to which they have been invaded by exotic species, it has remained difficult to isolate mechanisms influencing invader success. One largely anecdotal observation is that polluted or degraded areas will accumulate more invaders than less-impacted sites. However, the role of abiotic factors alone in influencing invisibility has been difficult to isolate, often because the supply of potential invaders is confounded with conditions thought to increase vulnerability to invasion. Here, we conducted a field experiment to test how the assemblages of exotic versus native marine invertebrates changed during community assembly under different exposure levels of a common pollutant, copper. The experiment was conducted by deploying fouling panels in a Randomized Block Design in San Francisco Bay. Panels were periodically removed, placed into buckets with differing copper concentrations, and returned to the field after 3 days. This design allowed propagule availability to the plates to be statistically independent of short-term copper exposure. The results demonstrate that copper caused significant differences in community structure. Average native species richness was significantly affected by copper exposure, but average exotic richness was not. The total native species pool within treatments exhibited a greater than 40% decline within increasing copper, while the exotic species pool did not change significantly. These results confirm that anthropogenic alteration of abiotic factors influences invader success, indicating that management strategies to reduce invader impacts should include both efforts to improve environmental conditions as well as reduce invader supply.
+
+SOURCE: Biological invasions
+PDF URL: https://link.springer.com/content/pdf/10.1007/s10530-010-9799-3.pdf
+CITED BY COUNT: 156
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Biology', 'Species richness', 'Introduced species', 'Ecology', 'Invasive species', 'Propagule', 'Abiotic component', 'Propagule pressure', 'Bay', 'Ecosystem', 'Ecosystem engineer', 'Invertebrate', 'Biological dispersal', 'Population', 'Civil engineering', 'Demography', 'Sociology', 'Engineering']

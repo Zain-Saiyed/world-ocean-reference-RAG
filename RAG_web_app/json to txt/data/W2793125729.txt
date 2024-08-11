@@ -1,0 +1,12 @@
+ID: W2793125729
+TITLE: Species replacement dominates megabenthos beta diversity in a remote seamount setting
+AUTHOR: ['Lissette Victorero', 'Katleen Robert', 'Laura F. Robinson', 'Michelle L. Taylor', 'Veerle A.I. Huvenne']
+ABSTRACT:
+Abstract Seamounts are proposed to be hotspots of deep-sea biodiversity, a pattern potentially arising from increased productivity in a heterogeneous landscape leading to either high species co-existence or species turnover (beta diversity). However, studies on individual seamounts remain rare, hindering our understanding of the underlying causes of local changes in beta diversity. Here, we investigated processes behind beta diversity using ROV video, coupled with oceanographic and quantitative terrain parameters, over a depth gradient in Annan Seamount, Equatorial Atlantic. By applying recently developed beta diversity analyses, we identified ecologically unique sites and distinguished between two beta diversity processes: species replacement and changes in species richness. The total beta diversity was high with an index of 0.92 out of 1 and was dominated by species replacement (68%). Species replacement was affected by depth-related variables, including temperature and water mass in addition to the aspect and local elevation of the seabed. In contrast, changes in species richness component were affected only by the water mass. Water mass, along with substrate also affected differences in species abundance. This study identified, for the first time on seamount megabenthos, the different beta diversity components and drivers, which can contribute towards understanding and protecting regional deep-sea biodiversity.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-22296-8.pdf
+CITED BY COUNT: 70
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seamount', 'Species richness', 'Beta diversity', 'Biodiversity', 'Ecology', 'Gamma diversity', 'Abundance (ecology)', 'Species diversity', 'Alpha diversity', 'Diversity index', 'Oceanography', 'Environmental science', 'Biology', 'Geology']

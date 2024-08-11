@@ -1,0 +1,12 @@
+ID: W2797863887
+TITLE: Future Projections of Antarctic Ice Shelf Melting Based on CMIP5 Scenarios
+AUTHOR: ['Kaitlin A. Naughten', 'Katrin J. Meißner', 'Benjamin K. Galton‐Fenzi', 'Matthew H. England', 'Ralph Timmermann', 'Hartmut Hellmer']
+ABSTRACT:
+Basal melting of Antarctic ice shelves is expected to increase during the twenty-first century as the ocean warms, which will have consequences for ice sheet stability and global sea level rise. Here we present future projections of Antarctic ice shelf melting using the Finite Element Sea Ice/Ice-Shelf Ocean Model (FESOM) forced with atmospheric output from models from phase 5 of the Coupled Model Intercomparison Project (CMIP5). CMIP5 models are chosen based on their agreement with historical atmospheric reanalyses over the Southern Ocean; the best-performing models are ACCESS 1.0 and the CMIP5 multimodel mean. Their output is bias-corrected for the representative concentration pathway (RCP) 4.5 and 8.5 scenarios. During the twenty-first-century simulations, total ice shelf basal mass loss increases by between 41% and 129%. Every sector of Antarctica shows increased basal melting in every scenario, with the largest increases occurring in the Amundsen Sea. The main mechanism driving this melting is an increase in warm Circumpolar Deep Water on the Antarctic continental shelf. A reduction in wintertime sea ice formation simulated during the twenty-first century stratifies the water column, allowing a warm bottom layer to develop and intrude into ice shelf cavities. This effect may be overestimated in the Amundsen Sea because of a cold bias in the present-day simulation. Other consequences of weakened sea ice formation include freshening of High Salinity Shelf Water and warming of Antarctic Bottom Water. Furthermore, freshening around the Antarctic coast in our simulations causes the Antarctic Circumpolar Current to weaken and the Antarctic Coastal Current to strengthen.
+
+SOURCE: Journal of climate
+PDF URL: https://journals.ametsoc.org/downloadpdf/journals/clim/31/13/jcli-d-17-0854.1.pdf
+CITED BY COUNT: 64
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ice shelf', 'Circumpolar deep water', 'Sea ice', 'Coupled model intercomparison project', 'Climatology', 'Oceanography', 'Geology', 'Antarctic ice sheet', 'Antarctic sea ice', 'Antarctic Bottom Water', 'Lead (geology)', 'Circumpolar star', 'Environmental science', 'Iceberg', 'Arctic ice pack', 'Cryosphere', 'Water mass', 'Climate model', 'North Atlantic Deep Water', 'Climate change', 'Thermohaline circulation', 'Geomorphology']

@@ -1,0 +1,12 @@
+ID: W2056730727
+TITLE: The sustained observatory over the Porcupine Abyssal Plain (PAP): Insights from time series observations and process studies
+AUTHOR: ['Richard S. Lampitt', 'David Billett', 'Adrian P. Martin']
+ABSTRACT:
+Oceanographic research in the past 20 years has highlighted the importance of understanding decadal-scale variation in the oceans in order to predict how the ocean will respond to climate change. Climate factors control many of the processes that regulate the input of nutrients to the euphotic zone, primary productivity, zooplankton responses, the downward flux of organic matter, the biomass and composition of seabed communities and, ultimately, the burial of carbon in deep-sea sediments. A critical part of our understanding of the interdependence of these many elements comes from long-term eulerian observations, such as the Hawaii Ocean Time series (HOT) (Karl et al., 2003), the Bermuda Atlantic Time Series (BATS) (Steinberg et al., 2001), the NE Pacific Station M (Smith and Druffel, 1998) and the NE Atlantic Porcupine Abyssal Plain site (PAP) ([Billett and Rice, 2001] and [Lampitt et al., 2001]). Each time series site is considered as representing a different oceanic setting and each has a different suite of observations and history. However, the unifying theme of them all is to understand the time varying properties and processes of the oceanic environment. Only at Station M and PAP have water column and seabed observations been integrated, a feature of some considerable advantage. This special issue presents the latest work at PAP.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Porcupine', 'Observatory', 'Abyssal plain', 'Series (stratigraphy)', 'Geology', 'Geomorphology', 'Astronomy', 'Physics', 'Paleontology', 'Structural basin']

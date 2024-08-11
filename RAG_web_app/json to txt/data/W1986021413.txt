@@ -1,0 +1,12 @@
+ID: W1986021413
+TITLE: Massive Phytoplankton Blooms Under Arctic Sea Ice
+AUTHOR: ['Kevin R. Arrigo', 'Donald K. Perovich', 'Robert S. Pickart', 'Zachary W. Brown', 'Gert L. van Dijken', 'Kate E. Lowry', 'Matthew M. Mills', 'Molly A. Palmer', 'William M. Balch', 'Frank Bahr', 'Nicholas R. Bates', 'Claudia R. Benitez-Nelson', 'Bruce C. Bowler', 'Emily F. Brownlee', 'Jens K. Ehn', 'Karen E. Frey', 'Rebecca Garley', 'Samuel R. Laney', 'Laura C. Lubelczyk', 'Jeremy T. Mathis', 'Atsushi Matsuoka', 'B. Greg Mitchell', 'G. W. K. Moore', 'Eva Ortega‐Retuerta', 'Sanjay Kumar Pal', 'Chris Polashenski', 'Rick A. Reynolds', 'Brian Schieber', 'Heidi M. Sosik', 'Michael Stephens', 'James H. Swift']
+ABSTRACT:
+Phytoplankton blooms over Arctic Ocean continental shelves are thought to be restricted to waters free of sea ice. Here, we document a massive phytoplankton bloom beneath fully consolidated pack ice far from the ice edge in the Chukchi Sea, where light transmission has increased in recent decades because of thinning ice cover and proliferation of melt ponds. The bloom was characterized by high diatom biomass and rates of growth and primary production. Evidence suggests that under-ice phytoplankton blooms may be more widespread over nutrient-rich Arctic continental shelves and that satellite-based estimates of annual primary production in these waters may be underestimated by up to 10-fold.
+
+SOURCE: Science
+PDF URL: https://www.science.org/cms/asset/95ac30f6-06c1-4cd2-a5e4-b280e9dc7c30/pap.pdf
+CITED BY COUNT: 627
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Oceanography', 'Phytoplankton', 'Sea ice', 'Arctic', 'Bloom', 'Arctic ice pack', 'Environmental science', 'Diatom', 'Continental shelf', 'Arctic sea ice decline', 'Algal bloom', 'Geology', 'Antarctic sea ice', 'Nutrient', 'Ecology', 'Biology']

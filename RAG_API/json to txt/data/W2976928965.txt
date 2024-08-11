@@ -1,0 +1,12 @@
+ID: W2976928965
+TITLE: Updated estimates and analysis of global fisheries subsidies
+AUTHOR: ['U. Rashid Sumaila', 'Naazia Ebrahim', 'Anna Schuhbauer', 'Daniel J. Skerritt', 'Yang Li', 'Hong Sik Kim', 'Tabitha Grace Mallory', 'Vicky Lam', 'Daniel Pauly']
+ABSTRACT:
+The period from 2019 to 2020 is critical in determining whether the World Trade Organization (WTO), tasked with eliminating capacity-enhancing fisheries subsidies, can deliver to the world an agreement that will discipline subsidies that lead to overfishing. Here, following extensive data collection efforts, we present an update of the current scope, amount and analysis of the level of subsidisation of the fisheries sector worldwide. We estimate global fisheries subsidies at USD 35.4 billion in 2018, of which capacity-enhancing subsidies are USD 22.2 billion. The top five subsidising political entities (China, European Union, USA, Republic of Korea and Japan) contribute 58% (USD 20.5 billion) of the total estimated subsidy. The updated global figure has decreased since the most recent previous estimate from 2009, of USD 41.4 billion in 2018 constant dollars. The difference between these two estimates can be largely explained by improvements in methodology and the difference in the actual amount of subsidies provided. Thus, we consider direct statistical comparison of these numbers to be inappropriate. Having said that, the difference between the estimates suggest that the increase in fisheries subsidies provided in the preceding decades may have halted. Still, the bulk of harmful ‘capacity-enhancing’ subsidies, particularly those for fossil fuels have actually increased as a proportion of total subsidies. As such, for the benefit of marine ecosystems, and current and future generations of people, all hands must be on deck in helping the WTO reach a meaningful agreement to discipline subsidies that lead to overcapacity and overfishing.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 189
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Subsidy', 'Overfishing', 'European union', 'Fishery', 'Business', 'Natural resource economics', 'Economics', 'International trade', 'Fishing', 'Market economy', 'Biology']

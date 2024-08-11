@@ -1,0 +1,12 @@
+ID: W2778201046
+TITLE: Improving nomenclatural consistency: a decade of experience in the World Register of Marine Species
+AUTHOR: ['Tammy Horton', 'Serge Gofas', 'Andreas Kroh', 'Gary C. B. Poore', 'Geoffrey B. Read', 'Gary Rosenberg', 'Sabine Stöhr', 'Nicolas Bailly', 'Nicole Boury‐Esnault', 'Simone N. Brandão', 'Mark J. Costello', 'Wim Decock', 'Stefanie Dekeyzer', 'F. Hernández', 'Jan Mees', 'Gustav Paulay', 'L. Vandepitte', 'B. Vanhoorne', 'Sofie Vranken']
+ABSTRACT:
+The World Register of Marine species (WoRMS) has been established for a decade. The early history of the database involved compilation of existing global and regional species registers. This aggregation, combined with changes to data types and the changing needs of WoRMS users, has resulted in an evolution of data-entry consistency over time. With the task of aggregating the accepted species names for all marine species approaching completion, our focus has shifted to improving the consistency and quality of data held while keeping pace with the addition of &gt; 2000 new marine species described annually. This paper defines priorities and longer-term aims that promote standardisation within and interoperability among biodiversity databases, provides editors with further information on how to input nomenclatural data in a standardised way and clarifies for users of WoRMS how and why names are represented as they are. We 1) explain the categories of names included; 2) list standard reasons used to explain why a name is considered ‘unaccepted’ or ‘uncertain’; 3) present and explain the more difficult situations encountered; 4) describe categories of sources and notes linked to a taxon; and 5) recommend how type material, type locality and environmental information should be entered.
+
+SOURCE: European Journal of Taxonomy
+PDF URL: https://europeanjournaloftaxonomy.eu/index.php/ejt/article/download/512/1146
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Consistency (knowledge bases)', 'Pace', 'Interoperability', 'Computer science', 'Type locality', 'Task (project management)', 'Taxon', 'Biodiversity', 'Species name', 'Data science', 'Data quality', 'World Wide Web', 'Quality (philosophy)', 'Locality', 'Geography', 'Ecology', 'Taxonomy (biology)', 'Biology', 'Business', 'Engineering', 'Metric (unit)', 'Philosophy', 'Geodesy', 'Systems engineering', 'Epistemology', 'Marketing', 'Artificial intelligence', 'Linguistics']

@@ -1,0 +1,12 @@
+ID: W2059200614
+TITLE: Managing for ocean biodiversity to sustain marine ecosystem services
+AUTHOR: ['Stephen R. Palumbi', 'Paul A. Sandifer', 'J. David Allan', 'Michael W. Beck', 'Daphne G. Fautin', 'Michael J. Fogarty', 'Benjamin S. Halpern', 'Lewis S. Incze', 'Jo‐Ann C. Leong', 'Elliott A. Norse', 'John J. Stachowicz', 'Diana H. Wall']
+ABSTRACT:
+Managing a complex ecosystem to balance delivery of all of its services is at the heart of ecosystem‐based management. But how can this balance be accomplished amidst the conflicting demands of stakeholders, managers, and policy makers? In marine ecosystems, several common ecological mechanisms link biodiversity to ecosystem functioning and to a complex of essential services. As a result, the effects of preserving diversity can be broadly beneficial to a wide spectrum of important ecosystem processes and services, including fisheries, water quality, recreation, and shoreline protection. A management system that conserves diversity will help to accrue more “ecoservice capital” for human use and will maintain a hedge against unanticipated ecosystem changes from natural or anthropogenic causes. Although maintenance of biodiversity cannot be the only goal for ecosystem‐based management, it could provide a common currency for evaluating the impacts of different human activities on ecosystem functioning and can act as a critical indicator of ecosystem status.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: None
+CITED BY COUNT: 271
+PUBLICATION YEAR: 2008
+TYPE: review
+CONCEPTS: ['Ecosystem services', 'Ecosystem', 'Biodiversity', 'Ecosystem health', 'Environmental resource management', 'Recreation', 'Ecosystem management', 'Marine ecosystem', 'Business', 'Ecosystem-based management', 'Ecosystem diversity', 'Natural capital', 'Ecology', 'Environmental science', 'Biology']

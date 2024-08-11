@@ -1,0 +1,12 @@
+ID: W1857341053
+TITLE: Contour Matching for Fish Species Recognition and Migration Monitoring
+AUTHOR: ['Dah-Jye Lee', 'James K. Archibald', 'Robert B. Schoenberger', 'Aaron Dennis', 'Dennis K. Shiozawa']
+ABSTRACT:
+A variety of matching and classification techniques have been employed in applications requiring pattern recognition. In this chapter we introduce a simple and accurate real-time contour matching technique specifically for applications involving fish species recognition and migration monitoring. We describe FishID, a prototype vision system that employs a software implementation of our newly developed contour matching algorithms. We discuss the challenges involved in the design of this system, both hardware and software, and we present results from a field test of the system at Prosser Dam in Prosser, Washington. In tests with up to four distinct species, the algorithm correctly determines the species with greater than 90 percent accuracy.
+
+SOURCE: Studies in computational intelligence
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2008
+TYPE: book-chapter
+CONCEPTS: ['Matching (statistics)', 'Computer science', 'Artificial intelligence', 'Software', 'Pattern recognition (psychology)', 'Field (mathematics)', 'Fish <Actinopterygii>', 'Variety (cybernetics)', 'Pattern matching', 'Computer vision', 'Data mining', 'Fishery', 'Biology', 'Mathematics', 'Statistics', 'Pure mathematics', 'Programming language']

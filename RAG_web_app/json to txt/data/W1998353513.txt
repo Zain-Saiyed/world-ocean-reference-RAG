@@ -1,0 +1,12 @@
+ID: W1998353513
+TITLE: Seabird aggregation around free-drifting icebergs in the northwest Weddell and Scotia Seas
+AUTHOR: ['Henry A. Ruhl', 'Jacob A. Ellena', 'Robert Wilson', 'J. Helly']
+ABSTRACT:
+Seabird abundances and distributions can be influenced by seasonal variations in surface productivity, winds, and other environmental factors. Recently evidence emerged that free-drifting icebergs were hotspots of biogeochemical and ecological activity. They also represent physical habitat structure both above and below the sea surface. Here we found seabird abundances that were 2 to 6 times greater within about one-half km of free drifting icebergs than the area between about one-half and one km from the iceberg edge. Aggregation was measured by surveys with an experimental design for determining potential local impacts of free-drifting icebergs on seabird density. Seabird surveys were conducted during three cruises in the Weddell Sea from 4 to 20 December 2005, 11 to 25 June 2008, and 21 March to 2 April 2009. Visual surveys were done on the vessel bridge typically for periods of five minutes facing the port or starboard side. Differences in species composition were also linked to distance from the iceberg edge for the most sampled icebergs with Daption capense exhibiting change in relative abundance. On a local scale, environmental factors such as surface productivity, air temperature, and winds were not consistently related to seabird distributions and community dynamics. The results suggest that climatically-driven variations in iceberg abundance would influence local seabird distributions with unknown impacts on regional abundances and species composition.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Seabird', 'Iceberg', 'Oceanography', 'Abundance (ecology)', 'Environmental science', 'Energetics', 'Biogeochemical cycle', 'Shearwater', 'Habitat', 'Productivity', 'Geography', 'Ecology', 'Physical geography', 'Geology', 'Sea ice', 'Biology', 'Macroeconomics', 'Economics', 'Predation']

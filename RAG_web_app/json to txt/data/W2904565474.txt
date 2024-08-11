@@ -1,0 +1,12 @@
+ID: W2904565474
+TITLE: Persisting Worldwide Seabird-Fishery Competition Despite Seabird Community Decline
+AUTHOR: ['David Grémillet', 'Aurore Ponchon', 'Michelle Paleczny', 'Maria Lourdes D. Palomares', 'Vasiliki Karpouzi', 'Daniel Pauly']
+ABSTRACT:
+Fisheries transform marine ecosystems and compete with predators [1Pauly D. Christensen V. Dalsgaard J. Froese R. Torres Jr., F. Fishing down marine food webs.Science. 1998; 279: 860-863Crossref PubMed Scopus (3296) Google Scholar], but temporal trends in seabird-fishery competition had never been assessed on a worldwide scale. Using catch reconstructions [2Pauly D. Zeller D. Catch reconstructions reveal that global marine fisheries catches are higher than reported and declining.Nat. Commun. 2016; 7: 10244Crossref PubMed Scopus (704) Google Scholar] for all fisheries targeting taxa that are also seabird prey, we demonstrated that average annual fishery catch increased from 59 to 65 million metric tons between 1970–1989 and 1990–2010. For the same periods, we estimated that global annual seabird food consumption decreased from 70 to 57 million metric tons. Despite this decrease, we found sustained global seabird-fishery food competition between 1970–1989 and 1990–2010. Enhanced competition was identified in 48% of all areas, notably the Southern Ocean, Asian shelves, Mediterranean Sea, Norwegian Sea, and Californian coast. Fisheries generate severe constraints for seabird populations on a worldwide scale, and those need to be addressed urgently. Indeed, seabirds are the most threatened bird group, with a 70% community-level population decline across 1950–2010 [3Paleczny M. Hammill E. Karpouzi V. Pauly D. Population trend of the world’s monitored seabirds, 1950-2010.PLoS ONE. 2015; 10: e0129342Crossref PubMed Scopus (218) Google Scholar].
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982218314180/pdf
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seabird', 'Fishery', 'Scopus', 'Fishing', 'Overexploitation', 'Competition (biology)', 'Population', 'Biology', 'Geography', 'Ecology', 'Predation', 'Demography', 'Biochemistry', 'MEDLINE', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2008006317
+TITLE: Low-frequency whale and seismic airgun sounds recorded in the mid-Atlantic Ocean
+AUTHOR: ['Sharon L. Nieukirk', 'Kathleen M. Stafford', 'David K. Mellinger', 'Robert P. Dziak', 'Christopher G. Fox']
+ABSTRACT:
+Beginning in February 1999, an array of six autonomous hydrophones was moored near the Mid-Atlantic Ridge (35 °N–15 °N, 50 °W–33 °W). Two years of data were reviewed for whale vocalizations by visually examining spectrograms. Four distinct sounds were detected that are believed to be of biological origin: (1) a two-part low-frequency moan at roughly 18 Hz lasting 25 s which has previously been attributed to blue whales (Balaenoptera musculus); (2) series of short pulses approximately 18 s apart centered at 22 Hz, which are likely produced by fin whales (B. physalus); (3) series of short, pulsive sounds at 30 Hz and above and approximately 1 s apart that resemble sounds attributed to minke whales (B. acutorostrata); and (4) downswept, pulsive sounds above 30 Hz that are likely from baleen whales. Vocalizations were detected most often in the winter, and blue- and fin whale sounds were detected most often on the northern hydrophones. Sounds from seismic airguns were recorded frequently, particularly during summer, from locations over 3000 km from this array. Whales were detected by these hydrophones despite its location in a very remote part of the Atlantic Ocean that has traditionally been difficult to survey.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: None
+CITED BY COUNT: 159
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Balaenoptera', 'Minke whale', 'Whale', 'Geology', 'Baleen', 'Oceanography', 'Ridge', 'Right whale', 'Sound (geography)', 'Acoustics', 'Fishery', 'Biology', 'Paleontology', 'Physics']

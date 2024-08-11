@@ -1,0 +1,12 @@
+ID: W2907402105
+TITLE: Global reconstruction of historical ocean heat storage and transport
+AUTHOR: ['Laure Zanna', 'Samar Khatiwala', 'Jonathan M. Gregory', 'Jonathan Ison', 'Patrick Heimbach']
+ABSTRACT:
+Significance Since the 19th century, rising greenhouse gas concentrations have caused the ocean to absorb most of the Earth’s excess heat and warm up. Before the 1990s, most ocean temperature measurements were above 700 m and therefore, insufficient for an accurate global estimate of ocean warming. We present a method to reconstruct ocean temperature changes with global, full-depth ocean coverage, revealing warming of 436 <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll"> <mml:mo>×</mml:mo> <mml:msup> <mml:mrow> <mml:mn mathvariant="normal">10</mml:mn> </mml:mrow> <mml:mrow> <mml:mn>21</mml:mn> </mml:mrow> </mml:msup> </mml:math> J since 1871. Our reconstruction, which agrees with other estimates for the well-observed period, demonstrates that the ocean absorbed as much heat during 1921–1946 as during 1990–2015. Since the 1950s, up to one-half of excess heat in the Atlantic Ocean at midlatitudes has come from other regions via circulation-related changes in heat transport.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/116/4/1126.full.pdf
+CITED BY COUNT: 189
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Ocean heat content', 'Geology', 'Environmental science', 'Climatology', 'Oceanography', 'Sea surface temperature']

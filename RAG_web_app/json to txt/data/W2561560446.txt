@@ -1,0 +1,12 @@
+ID: W2561560446
+TITLE: The matrix revisited: A bird's-eye view of marine ecosystem service provision
+AUTHOR: ['Daryl Burdon', 'Tavis Potts', 'Carol Barbone', 'Lucas Mander']
+ABSTRACT:
+The marine environment provides a range of ecosystem services and benefits for society. A previous study in Marine Policy (Potts et al., 2014) [1] advocated a matrix approach to demonstrate the relative degree of ecosystem service provision from habitats and species within UK Marine Protected Areas (MPAs), but excluded seabird species in its assessment. Despite the number of existing UK MPAs designated specifically for individual seabird species and/or seabird assemblages, and the fact that seabird species have long been used as policy-relevant indicators for the monitoring and management of the marine environment, as yet little research has focussed on the direct role of seabird species in the provision of ecosystem services and how these are captured for marine spatial planning purposes in the context of MPAs. Building on the matrix approach, this paper develops and populates a matrix to illustrate the relationship between key UK breeding seabird species and their relative contribution to the delivery of intermediate ecosystem services and goods/benefits. The original matrix approach has been strengthened to include the development and testing of a set of rules for combining multiple matrices. Confidence scores relating to the underlying evidence base are built into the matrix to provide an illustration of the current understanding and to identify current gaps in evidence. Following a sense check by external seabird experts the matrix is applied in the context of four existing UK MPA case study sites. Further developments and applications of the seabird matrix are discussed within the context of wider marine management.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seabird', 'Context (archaeology)', 'Marine protected area', 'Ecosystem services', 'Ecosystem', 'Environmental resource management', 'Marine ecosystem', 'Service (business)', 'Ecology', 'Geography', 'Business', 'Habitat', 'Environmental science', 'Biology', 'Archaeology', 'Marketing', 'Predation']

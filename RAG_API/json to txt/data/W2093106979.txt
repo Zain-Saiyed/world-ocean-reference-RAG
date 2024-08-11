@@ -1,0 +1,12 @@
+ID: W2093106979
+TITLE: Emperor Penguins Breeding on Iceshelves
+AUTHOR: ['Peter T. Fretwell', 'Phil Trathan', 'Bárbara Wienecke', 'Gerald L. Kooyman']
+ABSTRACT:
+We describe a new breeding behaviour discovered in emperor penguins; utilizing satellite and aerial-survey observations four emperor penguin breeding colonies have been recorded as existing on ice-shelves. Emperors have previously been considered as a sea-ice obligate species, with 44 of the 46 colonies located on sea-ice (the other two small colonies are on land). Of the colonies found on ice-shelves, two are newly discovered, and these have been recorded on shelves every season that they have been observed, the other two have been recorded both on ice-shelves and sea-ice in different breeding seasons. We conduct two analyses; the first using synthetic aperture radar data to assess why the largest of the four colonies, for which we have most data, locates sometimes on the shelf and sometimes on the sea-ice, and find that in years where the sea-ice forms late, the colony relocates onto the ice-shelf. The second analysis uses a number of environmental variables to test the habitat marginality of all emperor penguin breeding sites. We find that three of the four colonies reported in this study are in the most northerly, warmest conditions where sea-ice is often sub-optimal. The emperor penguin's reliance on sea-ice as a breeding platform coupled with recent concerns over changed sea-ice patterns consequent on regional warming, has led to their designation as "near threatened" in the IUCN red list. Current climate models predict that future loss of sea-ice around the Antarctic coastline will negatively impact emperor numbers; recent estimates suggest a halving of the population by 2052. The discovery of this new breeding behaviour at marginal sites could mitigate some of the consequences of sea-ice loss; potential benefits and whether these are permanent or temporary need to be considered and understood before further attempts are made to predict the population trajectory of this iconic species.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0085285&type=printable
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Sea ice', 'Emperor', 'Oceanography', 'Arctic ice pack', 'Geography', 'Geology', 'Physical geography', 'Ecology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2767001246
+TITLE: Coastal livelihood transitions under globalization with implications for trans-ecosystem interactions
+AUTHOR: ['Daniel Kramer', 'Kara Stevens', 'Nigel Williams', 'Seeta A. Sistla', 'Adam B. Roddy', 'Gerald R. Urquhart']
+ABSTRACT:
+Anthropogenic threats to natural systems can be exacerbated due to connectivity between marine, freshwater, and terrestrial ecosystems, complicating the already daunting task of governance across the land-sea interface. Globalization, including new access to markets, can change social-ecological, land-sea linkages via livelihood responses and adaptations by local people. As a first step in understanding these trans-ecosystem effects, we examined exit and entry decisions of artisanal fishers and smallholder farmers on the rapidly globalizing Caribbean coast of Nicaragua. We found that exit and entry decisions demonstrated clear temporal and spatial patterns and that these decisions differed by livelihood. In addition to household characteristics, livelihood exit and entry decisions were strongly affected by new access to regional and global markets. The natural resource implications of these livelihood decisions are potentially profound as they provide novel linkages and spatially-explicit feedbacks between terrestrial and marine ecosystems. Our findings support the need for more scientific inquiry in understanding trans-ecosystem tradeoffs due to linked-livelihood transitions as well as the need for a trans-ecosystem approach to natural resource management and development policy in rapidly changing coastal regions.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0186683&type=printable
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Livelihood', 'Ecosystem', 'Ecosystem services', 'Natural resource', 'Ecosystem-based management', 'Natural resource economics', 'Environmental resource management', 'Natural resource management', 'Business', 'Globalization', 'Geography', 'Resource (disambiguation)', 'Ecosystem management', 'Ecology', 'Economics', 'Agriculture', 'Biology', 'Market economy', 'Computer network', 'Computer science']

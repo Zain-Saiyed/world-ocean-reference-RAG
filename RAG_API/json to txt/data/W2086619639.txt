@@ -1,0 +1,12 @@
+ID: W2086619639
+TITLE: Pacific Walrus and climate change: observations and predictions
+AUTHOR: ['James G. MacCracken']
+ABSTRACT:
+The extent and duration of sea-ice habitats used by Pacific walrus (Odobenus rosmarus divergens) are diminishing resulting in altered walrus behavior, mortality, and distribution. I document changes that have occurred over the past several decades and make predictions to the end of the 21st century. Climate models project that sea ice will monotonically decline resulting in more ice-free summers of longer duration. Several stressors that may impact walruses are directly influenced by sea ice. How these stressors materialize were modeled as most likely-case, worst-case, and best-case scenarios for the mid- and late-21st century, resulting in four comprehensive working hypotheses that can help identify and prioritize management and research projects, identify comprehensive mitigation actions, and guide monitoring programs to track future developments and adjust programs as needed. In the short term, the most plausible hypotheses predict a continuing northward shift in walrus distribution, increasing use of coastal haulouts in summer and fall, and a population reduction set by the carrying capacity of the near shore environment and subsistence hunting. Alternatively, under worst-case conditions, the population will decline to a level where the probability of extinction is high. In the long term, walrus may seasonally abandon the Bering and Chukchi Seas for sea-ice refugia to the northwest and northeast, ocean warming and pH decline alter walrus food resources, and subsistence hunting exacerbates a large population decline. However, conditions that reverse current trends in sea ice loss cannot be ruled out. Which hypothesis comes to fruition depends on how the stressors develop and the success of mitigation measures. Best-case scenarios indicate that successful mitigation of unsustainable harvests and terrestrial haulout-related mortalities can be effective. Management and research should focus on monitoring, elucidating effects, and mitigation, while ultimately, reductions in greenhouse gas emissions are needed to reduce sea-ice habitat losses.
+
+SOURCE: Ecology and evolution
+PDF URL: None
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Subsistence agriculture', 'Climate change', 'Sea ice', 'Population', 'Geography', 'Shore', 'Habitat', 'Fishery', 'Environmental science', 'Population growth', 'Ecology', 'Biology', 'Demography', 'Sociology', 'Meteorology', 'Agriculture']

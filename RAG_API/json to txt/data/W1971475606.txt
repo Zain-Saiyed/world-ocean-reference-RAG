@@ -1,0 +1,12 @@
+ID: W1971475606
+TITLE: Critical and precious materials consumption and requirement in wind energy system in the EU 27
+AUTHOR: ['Junbeum Kim', 'Bertrand Guillaume', 'Jinwook Chung', 'Yong Woo Hwang']
+ABSTRACT:
+Critical materials as well as rare earth elements and precious metals such as platinum, gold and silver are used significantly for computer hard disk drives, mobile phones, hybrid electric vehicles, batteries, renewable energy system and many other applications. It is therefore important to quantify and estimate both current stocks and flows of such materials, as well as future requirement for industries and economies. In this study, which is focused on wind energy system in the European Union (EU) 27, the current consumption and future requirement of critical and precious materials were calculated and estimated using the wind power production dataset from ecoinvent and data from National Renewable Energy Action Plan (NREAP). It is shown that fluorspar has been the most consumed material to date, and will probably be the most required material in the future. Among other critical and valuable materials, the main materials used for current wind energy system are silver, magnesium, indium, gold and tantalum. These materials will also be required significantly by 2020 for the wind energy system in the EU 27. It is argued that these results should be connected to the future energy and material policy and management.
+
+SOURCE: Applied energy
+PDF URL: None
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Renewable energy', 'Wind power', 'European union', 'Environmental science', 'Engineering', 'Process engineering', 'Environmental economics', 'Business', 'Electrical engineering', 'Economics', 'Economic policy']

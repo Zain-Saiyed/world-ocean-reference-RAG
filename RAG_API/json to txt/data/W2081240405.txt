@@ -1,0 +1,12 @@
+ID: W2081240405
+TITLE: Coastal ocean acidification: The other eutrophication problem
+AUTHOR: ['Ryan B. Wallace', 'Hannes Baumann', 'Jason S. Grear', 'Robert C. Aller', 'Christopher J. Gobler']
+ABSTRACT:
+Increased nutrient loading into estuaries causes the accumulation of algal biomass, and microbial degradation of this organic matter decreases oxygen levels and contributes towards hypoxia. A second, often overlooked consequence of microbial degradation of organic matter is the production of carbon dioxide (CO2) and a lowering of seawater pH. To assess the potential for acidification in eutrophic estuaries, the levels of dissolved oxygen (DO), pH, the partial pressure of carbon dioxide (pCO2), and the saturation state for aragonite (Ωaragonite) were horizontally and vertically assessed during the onset, peak, and demise of low oxygen conditions in systems across the northeast US including Narragansett Bay (RI), Long Island Sound (CT–NY), Jamaica Bay (NY), and Hempstead Bay (NY). Low pH conditions (<7.4) were detected in all systems during summer and fall months concurrent with the decline in DO concentrations. While hypoxic waters and/or regions in close proximity to sewage discharge had extremely high levels of pCO2, (>3000 μatm), were acidic pH (<7.0), and were undersaturated with regard to aragonite (Ωaragonite < 1), even near-normoxic but eutrophic regions of these estuaries were often relatively acidified (pH < 7.7) during late summer and/or early fall. The close spatial and temporal correspondence between DO and pH and the occurrence of extremes in these conditions in regions with the most intense nutrient loading indicated that they were primarily driven by microbial respiration. Given that coastal acidification is promoted by nutrient-enhanced organic matter loading and reaches levels that have previously been shown to negatively impact the growth and survival of marine organisms, it may be considered an additional symptom of eutrophication that warrants managerial attention.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 418
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Aragonite', 'Eutrophication', 'Organic matter', 'Bay', 'Carbon dioxide', 'Nutrient', 'Environmental science', 'Hypoxia (environmental)', 'Estuary', 'Oceanography', 'Dissolved organic carbon', 'Environmental chemistry', 'Seawater', 'Chemistry', 'Ecology', 'Oxygen', 'Geology', 'Mineralogy', 'Calcite', 'Biology', 'Organic chemistry']

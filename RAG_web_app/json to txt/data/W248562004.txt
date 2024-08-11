@@ -1,0 +1,12 @@
+ID: W248562004
+TITLE: Tropical Seagrass as a Bioindicator of Metal Accumulation
+AUTHOR: ['Fauzi Ahmad', 'Shamila Azman', 'Muhammad Said', 'Lavania-Baloo']
+ABSTRACT:
+Seven species of tropical seagrass found at seagrass bed located in Johor, Malaysia were analysed for As, Cu and Cd accumulation.The species were identified as Enhalus acoroides, Halophila minor, Halophila spinulosa, Halophila ovalis, Thalassia hemprichii, Halodule uninervis and Cymodocea serrulata.Seagrass plant is rapidly becoming one of the methods to determine the overall health condition of aquatic environment.Each seagrass samples were collected and divided into three parts i.e roots, rhizomes and leaves.Samples were grinded, digested and the correlation between each part was analysed using SPSS version 16.Each part of seagrass tissues have the ability to assimilate metals for example the concentration of As, Cu and Cd in tropical seagrass were in the range of respectively.Halophila minor and Halophila ovalis indicates positive correlations to translocate metals (As, Cu and Cd) in plants parts (leaves-rhizomes, rhizomes-roots and roots-leaves).Seagrass can accumulate metals depending on pollution that occur, seasonal variation and internal capabilities to translocate metals.The seagrass species especially Halophila ovalis and Halophila minor can act as bioindicator for metal pollution.
+
+SOURCE: Sains Malaysiana
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Seagrass', 'Bioindicator', 'Environmental science', 'Environmental chemistry', 'Ecology', 'Chemistry', 'Biology', 'Ecosystem']

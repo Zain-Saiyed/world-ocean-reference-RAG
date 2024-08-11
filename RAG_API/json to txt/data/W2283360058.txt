@@ -1,0 +1,12 @@
+ID: W2283360058
+TITLE: The Dilemma of Derelict Gear
+AUTHOR: ['Andrew M. Scheld', 'Donna Marie Bilkovic', 'Kirk J. Havens']
+ABSTRACT:
+Every year, millions of pots and traps are lost in crustacean fisheries around the world. Derelict fishing gear has been found to produce several harmful environmental and ecological effects, however socioeconomic consequences have been investigated less frequently. We analyze the economic effects of a substantial derelict pot removal program in the largest estuary of the United States, the Chesapeake Bay. By combining spatially resolved data on derelict pot removals with commercial blue crab (Callinectes sapidus) harvests and effort, we show that removing 34,408 derelict pots led to significant gains in gear efficiency and an additional 13,504 MT in harvest valued at US $21.3 million--a 27% increase above that which would have occurred without removals. Model results are extended to a global analysis where it is seen that US $831 million in landings could be recovered annually by removing less than 10% of the derelict pots and traps from major crustacean fisheries. An unfortunate common pool externality, the degradation of marine environments is detrimental not only to marine organisms and biota, but also to those individuals and communities whose livelihoods and culture depend on profitable and sustainable marine resource use.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep19671.pdf
+CITED BY COUNT: 56
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Callinectes', 'Fishery', 'Fishing', 'Resource (disambiguation)', 'Biota', 'Crustacean', 'Environmental science', 'Geography', 'Ecology', 'Biology', 'Computer network', 'Computer science']

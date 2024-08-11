@@ -1,0 +1,12 @@
+ID: W2030953931
+TITLE: A proposed biogeography of the deep ocean floor
+AUTHOR: ['Les Watling', 'John M. Guinotte', 'Malcolm R. Clark', 'Craig R. Smith']
+ABSTRACT:
+While there are many generalized schemes representing the biogeographic distribution of life in the deep sea, reviewed here, a comprehensive analysis has not been undertaken since Vinogradova, 1979, Vinogradova, 1997 for the abyssal and Belyaev (1989) for the hadal. The purpose of this paper is to propose global biogeographic provinces for the lower bathyal and abyssal benthos (>800 m depths) in order to aid high seas management efforts. Biological samples from these depths are sparse so delineation of biogeographic provinces was initially hypothesized using oceanographic proxies, and examined with documented locations of select benthic marine species. These biogeographic provinces were first developed in 2009 via an expert consultation workshop to delineate biogeographic provinces in offshore regions – the Global Open Ocean and Deep Sea (GOODS) classification. We have refined the GOODS deep-sea classification by incorporating additional high-resolution hydrographic and organic-matter flux data for the seafloor. Water mass characteristics (temperature and salinity) and particulate organic flux to the seafloor were the strongest determinants in the final delineation of provincial boundaries. This process resulted in the delineation of 14 lower bathyal and 14 abyssal provinces. The bathyal and abyssal classifications presented here should be used with other management tools and analyses (e.g., predictive habitat modeling, seamount classifications, etc.) to help determine where marine protected areas should be placed and to minimize the negative impacts of commercial activities in the high seas.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 260
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Bathyal zone', 'Abyssal zone', 'Seamount', 'Oceanography', 'Deep sea', 'Benthos', 'Geology', 'Benthic zone', 'Seafloor spreading', 'Seabed', 'Hydrography', 'Water mass']

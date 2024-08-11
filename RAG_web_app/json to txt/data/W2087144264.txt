@@ -1,0 +1,12 @@
+ID: W2087144264
+TITLE: Human pressures on UK seabed habitats: a cumulative impact assessment
+AUTHOR: ['Jo Foden', 'SI Rogers', 'AP Jones']
+ABSTRACT:
+European Member States are required to assess the status of marine waters, including analysis of cumulative effects.We developed a methodology for evaluating the impact of several human activities that constitute 4 direct pressures on the UK (England and Wales) seabed community: smothering, abrasion, obstruction (sealing), and extraction.The method was tested by mapping the spatial extent of individual and cumulative activities for 2007 by habitat type, quantifying the intensity of activities, and estimating impact using published recovery times.More than half (134 400 km 2 ) of the seabed was directly affected by human activities, of which only 165 km 2 (< 0.1%) was occupied by multiple activities.Benthic fishing accounted for 99.6% of the spatial footprint.Sensitivity to the pressures of human activities varied by habitat type, with estimated recovery times ranging from <1 mo for otter trawling in sand, to ~15 yr for co-occurring aggregate extraction and dredge material disposal in low-energy gravel habitat.Fully integrated, dynamically-linked environmental assessments are generally considered desirable for greater scientific understanding of an ecosystem.The methodology we present for quantifying cumulative effects is a step towards this.However, our findings indicate that a limited number of activities were the predominant cause of widespread, long recovery times of benthic fauna.This suggests that when time and resources are limited, single sector assessment rather than detailed evaluation of cumulative effects, can still usefully guide management.As the observed cumulative effects were primarily related to a few activities, it might reasonably be argued that management effort should be focused on spatially extensive activities, such as benthic fishing to mitigate most of the human impact on the UK seabed.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2011/428/m428p033.pdf
+CITED BY COUNT: 64
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Smothering', 'Habitat', 'Trawling', 'Cumulative effects', 'Seabed', 'Fishing', 'Environmental science', 'Fishery', 'Benthic zone', 'Dredging', 'Environmental impact assessment', 'Otter', 'Benthic habitat', 'Geography', 'Oceanography', 'Ecology', 'Geology', 'Biology', 'Medicine', 'Pediatrics', 'Asphyxia']

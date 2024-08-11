@@ -1,0 +1,12 @@
+ID: W2187495605
+TITLE: Restoring fish ecological quality in estuaries: Implication of interactive and cumulative effects among anthropogenic stressors
+AUTHOR: ['Nils Teichert', 'Ángel Borja', 'Guillem Chust', 'A. Uriarte', 'Mario Lepage']
+ABSTRACT:
+Estuaries are subjected to multiple anthropogenic stressors, which have additive, antagonistic or synergistic effects. Current challenges include the use of large databases of biological monitoring surveys (e.g. the European Water Framework Directive) to help environmental managers prioritizing restoration measures. This study investigated the impact of nine stressor categories on the fish ecological status derived from 90 estuaries of the North East Atlantic countries. We used a random forest model to: 1) detect the dominant stressors and their non-linear effects; 2) evaluate the ecological benefits expected from reducing pressure from stressors; and 3) investigate the interactions among stressors. Results showed that largest restoration benefits were expected when mitigating water pollution and oxygen depletion. Non-additive effects represented half of pairwise interactions among stressors, and antagonisms were the most common. Dredged sediments, flow changes and oxygen depletion were predominantly implicated in non-additive interactions, whereas the remainder stressors often showed additive impacts. The prevalence of interactive impacts reflects a complex scenario for estuaries management; hence, we proposed a step-by-step restoration scheme focusing on the mitigation of stressors providing the maximum of restoration benefits under a multi-stress context.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 97
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Stressor', 'Environmental science', 'Context (archaeology)', 'Cumulative effects', 'Water Framework Directive', 'Ecology', 'Estuary', 'Water quality', 'Pollution', 'Environmental resource management', 'Fishery', 'Geography', 'Biology', 'Archaeology', 'Neuroscience']

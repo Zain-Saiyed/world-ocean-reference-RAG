@@ -1,0 +1,12 @@
+ID: W2894384640
+TITLE: Differential effects of biological invasions on coastal blue carbon: A global review and meta‐analysis
+AUTHOR: ['Ian Davidson', 'Grace M. Cott', 'John L. Devaney', 'Christina Simkanin']
+ABSTRACT:
+Abstract Human‐caused shifts in carbon (C) cycling and biotic exchange are defining characteristics of the Anthropocene. In marine systems, saltmarsh, seagrass, and mangrove habitats—collectively known as “blue carbon” and coastal vegetated habitats ( CVH s)—are a leading sequester of global C and increasingly impacted by exotic species invasions. There is growing interest in the effect of invasion by a diverse pool of exotic species on C storage and the implications for ecosystem‐based management of these systems. In a global meta‐analysis, we synthesized data from 104 papers that provided 345 comparisons of habitat‐level response (plant and soil C storage) from paired invaded and uninvaded sites. We found an overall net effect of significantly higher C pools in invaded CVH s amounting to 40% (±16%) higher C storage than uninvaded habitat, but effects differed among types of invaders. Elevated C storage was driven by blue C‐forming plant invaders (saltmarsh grasses, seagrasses, and mangrove trees) that intensify biomass per unit area, extend and elevate coastal wetlands, and convert coastal mudflats into C‐rich vegetated habitat. Introduced animal and structurally distinct primary producers had significant negative effects on C pools, driven by herbivory, trampling, and native species displacement. The role of invasion manifested differently among habitat types, with significant C storage increases in saltmarshes, decreases in seagrass, and no significant effect in mangroves. There were also counter‐directional effects by the same species in different systems or locations, which underscores the importance of combining data mining with analyses of mean effect sizes in meta‐analyses. Our study provides a quantitative basis for understanding differential effects of invasion on blue C habitats and will inform conservation strategies that need to balance management decisions involving invasion, C storage, and a range of other marine biodiversity and habitat functions in these coastal systems.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Blue carbon', 'Seagrass', 'Salt marsh', 'Habitat', 'Biomass (ecology)', 'Ecology', 'Mangrove', 'Wetland', 'Ecosystem', 'Environmental science', 'Introduced species', 'Marsh', 'Spartina alterniflora', 'Biology']

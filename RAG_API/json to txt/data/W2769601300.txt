@@ -1,0 +1,12 @@
+ID: W2769601300
+TITLE: World Scientists’ Warning to Humanity: A Second Notice
+AUTHOR: ['William J. Ripple', 'Christopher Wolf', 'Thomas M. Newsome', 'Mauro Galetti', 'Mohammed Alamgir', 'Eileen Crist', 'Mahmoud I. Mahmoud', 'William F. Laurance']
+ABSTRACT:
+Twenty-five years ago, the Union of Concerned Scientists and more than 1700 independent scientists, including the majority of living Nobel laureates in the sciences, penned the 1992 World Scientists’ Warning to Humanity (see supplemental file S1). These concerned professionals called on humankind to curtail environmental destruction and cautioned that great change in our stewardship of the Earth and the life on it is required, if vast human misery is to be avoided. In their manifesto, they showed that humans were on a collision course with the natural world. They expressed concern about current, impending, or potential damage on planet Earth involving ozone depletion, freshwater availability, marine life depletion, ocean dead zones, forest loss, biodiversity destruction, climate change, and continued human population growth. They proclaimed that fundamental changes were urgently needed to avoid the consequences our present course would bring.
+
+SOURCE: BioScience/Bioscience
+PDF URL: https://academic.oup.com/bioscience/article-pdf/67/12/1026/22538550/bix125.pdf
+CITED BY COUNT: 928
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Notice', 'Humanity', 'Environmental ethics', 'Political science', 'Law', 'Philosophy']

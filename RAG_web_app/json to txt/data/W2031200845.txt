@@ -1,0 +1,12 @@
+ID: W2031200845
+TITLE: POPs in edible clams from different Italian and European markets and possible human health risk
+AUTHOR: ['Andrea Binelli', 'A. Provini']
+ABSTRACT:
+Human intake of persistent organic pollutants (POPs) occurs primarily through diet and fish and other seafood represent the principal means of contamination. Despite this, few legal limits have been established to protect human health from the various chemicals that are alleged to be carcinogenic or endocrine disruptor compounds. Several pools of edible clams (Tapes philippinarum and Venus gallina) bought in different Italian and European markets were examined in order to perform a risk assessment of some of these contaminants and also to identify possible health issues. POP concentrations in the soft tissues of mollusks varied considerably among source farming sites, particularly in the Venice Lagoon. Some POPs (DDTs, HCB and HCHs) showed very low concentrations and no risk for human health, in line with the limits established by European law. In contrast, PAHs could represent a potential hazard for human health and PCB levels in the most contaminated sites reached or even exceed the Minimal Risk Level as set by the ATSDR for human consumption, even if all the samples did not exceed the PCB limits in edible seafood as set by the FDA.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 108
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Human health', 'Pollutant', 'Endocrine disruptor', 'Health risk', 'Environmental science', 'Contamination', 'European union', 'Risk assessment', 'Environmental health', 'Hazard', 'Health hazard', 'Environmental chemistry', 'Biology', 'Ecology', 'Business', 'Chemistry', 'Endocrine system', 'Medicine', 'Biochemistry', 'Computer security', 'Hormone', 'Computer science', 'Economic policy']

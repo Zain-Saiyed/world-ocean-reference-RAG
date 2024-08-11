@@ -1,0 +1,12 @@
+ID: W2972518851
+TITLE: A rapid spread of the stony coral tissue loss disease outbreak in the Mexican Caribbean
+AUTHOR: ['Lorenzo Álvarez‐Filip', 'Nuria Estrada‐Saldívar', 'Esmeralda Pérez‐Cervantes', 'Ana Molina‐Hernández', 'F. Javier González‐Barrios']
+ABSTRACT:
+Caribbean reef corals have experienced unprecedented declines from climate change, anthropogenic stressors and infectious diseases in recent decades. Since 2014, a highly lethal, new disease, called stony coral tissue loss disease, has impacted many reef-coral species in Florida. During the summer of 2018, we noticed an anomalously high disease prevalence affecting different coral species in the northern portion of the Mexican Caribbean. We assessed the severity of this outbreak in 2018/2019 using the AGRRA coral protocol to survey 82 reef sites across the Mexican Caribbean. Then, using a subset of 14 sites, we detailed information from before the outbreak (2016/2017) to explore the consequences of the disease on the condition and composition of coral communities. Our findings show that the disease outbreak has already spread across the entire region by affecting similar species (with similar disease patterns) to those previously described for Florida. However, we observed a great variability in prevalence and tissue mortality that was not attributable to any geographical gradient. Using long-term data, we determined that there is no evidence of such high coral disease prevalence anywhere in the region before 2018, which suggests that the entire Mexican Caribbean was afflicted by the disease within a few months. The analysis of sites that contained pre-outbreak information showed that this event considerably increased coral mortality and severely changed the structure of coral communities in the region. Given the high prevalence and lethality of this disease, and the high number of susceptible species, we encourage reef researchers, managers and stakeholders across the Western Atlantic to accord it the highest priority for the near future.
+
+SOURCE: PeerJ
+PDF URL: https://peerj.com/articles/8069.pdf
+CITED BY COUNT: 134
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Outbreak', 'Coral', 'Coral reef', 'Reef', 'Caribbean region', 'Geography', 'Disease', 'Ecology', 'Biology', 'Medicine', 'Linguistics', 'Philosophy', 'Pathology', 'Virology', 'Latin Americans']

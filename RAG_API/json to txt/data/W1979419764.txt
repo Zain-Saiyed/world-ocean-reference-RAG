@@ -1,0 +1,12 @@
+ID: W1979419764
+TITLE: Gadolinium Anomaly in the Distributions of Rare Earth Elements Observed for Coastal Seawater and River Waters around Nagoya City
+AUTHOR: ['Yanbei Zhu', 'Masuki Hoshino', 'Hiroshi Yamada', 'Akihide Itoh', 'Hiroki Haraguchi']
+ABSTRACT:
+Coastal seawater and river water samples were collected near Nagoya port, located in the coastal area of the Ise Bay, and in six rivers around Nagoya City. The rare earth elements (REEs) in these samples were determined by inductively coupled plasma mass spectrometry (ICP-MS) with chelating resin preconcentration. The concentrations of all REEs except for Pm in coastal seawater and river water samples could be determined at the concentration level from sub-ng L - 1 to 10 ngL - 1 . In order to examine the relative concentration variations, the REE patterns were estimated by normalizing the concentrations of REEs in the water samples to those in Post Archean Average Australian Shale (PAAS). Significantly positive Gd anomalies in the REE patterns were observed for river waters down from the urban areas as well as for coastal seawater. Such Gd anomalies were especially remarkable for river water collected near sewage treatment facilities in the Tenpaku river. It was, thus, concluded that the Gd anomalies in the REE patterns were artificially caused by anthropogenic sources mainly due to recent use of a gadolinium compound as a contrast reagent for magnetic resonance imaging (MRI) in medical diagnosis.
+
+SOURCE: Bulletin of the Chemical Society of Japan
+PDF URL: None
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Chemistry', 'Seawater', 'Rare earth', 'Anomaly (physics)', 'Gadolinium', 'Environmental chemistry', 'Oceanography', 'Mineralogy', 'Geology', 'Organic chemistry', 'Physics', 'Condensed matter physics']

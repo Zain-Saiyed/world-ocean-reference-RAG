@@ -1,0 +1,12 @@
+ID: W2992725289
+TITLE: SDG 14: Life below Water – Impacts on Mangroves
+AUTHOR: ['Daniel A. Friess', 'Toe Aung', 'Mark Huxham', 'Catherine E. Lovelock', 'Nibedita Mukherjee', 'Sigit D. Sasmito']
+ABSTRACT:
+The SDG14 targets cover more than 70 per cent of the planet, including the coastal zone, where a range of forest resources are located. In this chapter we investigate the potential negative consequences of SDG14 on forest resources, using the example of coastal mangrove forests. SDG14 is likely to have negative impacts on forest resources because it focuses primarily on fisheries, potentially excluding other coastal natural resources. Many SDG14 targets are also more appropriate for oceanic areas, rather than the complex governance arrangements found in the coastal zone. This means that coastal forests such as mangroves may be forgotten, inadvertently impacted or fall through the ‘policy gap’ between terrestrial and marine legislation or between different levels of governance. This also has impacts on the human populations that rely on the ecosystem services provided by mangrove forests, and has implications for environmental justice. To minimise the impacts of SDG14 on mangrove forests and associated coastal communities, we recommend that SDG14 indicators should be broadened to encompass other coastal and oceanic natural resources, decentralisation of coastal zone governance should continue to be encouraged, and management regimes should include coastal communities and enshrine principles of environmental justice.
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Mangrove', 'Geography', 'Environmental science', 'Ecology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2001092428
+TITLE: The Impact of Climate Change on the World’s Marine Ecosystems
+AUTHOR: ['Ove Hoegh‐Guldberg', 'John F. Bruno']
+ABSTRACT:
+Marine ecosystems are centrally important to the biology of the planet, yet a comprehensive understanding of how anthropogenic climate change is affecting them has been poorly developed. Recent studies indicate that rapidly rising greenhouse gas concentrations are driving ocean systems toward conditions not seen for millions of years, with an associated risk of fundamental and irreversible ecological transformation. The impacts of anthropogenic climate change so far include decreased ocean productivity, altered food web dynamics, reduced abundance of habitat-forming species, shifting species distributions, and a greater incidence of disease. Although there is considerable uncertainty about the spatial and temporal details, climate change is clearly and fundamentally altering ocean ecosystems. Further change will continue to create enormous challenges and costs for societies worldwide, particularly those in developing countries.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 2320
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Climate change', 'Marine ecosystem', 'Ecosystem', 'Greenhouse gas', 'Habitat', 'Global warming', 'Abundance (ecology)', 'Ecology', 'Environmental science', 'Productivity', 'Effects of global warming', 'Global change', 'Natural resource economics', 'Environmental resource management', 'Geography', 'Biology', 'Economics', 'Macroeconomics']

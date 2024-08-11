@@ -1,0 +1,12 @@
+ID: W2897165435
+TITLE: Persistent Organic Pollutant Burden, Experimental POP Exposure, and Tissue Properties Affect Metabolic Profiles of Blubber from Gray Seal Pups
+AUTHOR: ['Kelly J. Robinson', 'Ailsa J. Hall', 'Cathy Debier', 'Gauthier Eppe', 'Jean‐Pierre Thomé', 'Kimberley A. Bennett']
+ABSTRACT:
+Persistent organic pollutants (POPs) are toxic, ubiquitous, resist breakdown, bioaccumulate in living tissue, and biomagnify in food webs. POPs can also alter energy balance in humans and wildlife. Marine mammals experience high POP concentrations, but consequences for their tissue metabolic characteristics are unknown. We used blubber explants from wild, gray seal (Halichoerus grypus) pups to examine impacts of intrinsic tissue POP burden and acute experimental POP exposure on adipose metabolic characteristics. Glucose use, lactate production, and lipolytic rate differed between matched inner and outer blubber explants from the same individuals and between feeding and natural fasting. Glucose use decreased with blubber dioxin-like PCBs (DL-PCB) and increased with acute experimental POP exposure. Lactate production increased with DL-PCBs during feeding, but decreased with DL-PCBs during fasting. Lipolytic rate increased with blubber dichlorodiphenyltrichloroethane and its metabolites (DDX) in fasting animals, but declined with DDX when animals were feeding. Our data show that POP burdens are high enough in seal pups to alter adipose function early in life, when fat deposition and mobilization are vital. Such POP-induced alterations to adipose metabolic properties may significantly alter energy balance regulation in marine top predators, with the potential for long-term impacts on fitness and survival.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Blubber', 'Adipose tissue', 'Biology', 'Pollutant', 'Basal metabolic rate', 'Fur seal', 'Marine mammal', 'Internal medicine', 'Endocrinology', 'Zoology', 'Animal science', 'Fishery', 'Ecology', 'Medicine']

@@ -1,0 +1,12 @@
+ID: W2015300221
+TITLE: Deep Caribbean Sea warming
+AUTHOR: ['Gregory C. Johnson', 'Sarah G. Purkey']
+ABSTRACT:
+Data collected from hydrographic stations occupied within the Venezuelan and Columbian basins of the Caribbean Sea from 1922 through 2003 are analyzed to study the decadal variability of deep temperature in the region. The analysis focuses on waters below the 1815-m sill depth of the Anegada–Jungfern Passage. Relatively dense waters (compared to those in the deep Caribbean) from the North Atlantic spill over this sill to ventilate the deep Caribbean Sea. Deep warming at a rate of over 0.01 °C decade–1 below this sill depth appears to have commenced in the 1970s after a period of relatively constant deep Caribbean Sea temperatures extending at least as far back as the 1920s. Conductivity–temperature–depth station data from World Ocean Circulation Experiment Section A22 along 66°W taken in 1997 and again in 2003 provide an especially precise, albeit geographically limited, estimate of this warming over that 6-year period. They also suggest a small (0.001 PSS-78, about the size of expected measurement biases) deep freshening. The warming is about 10 times larger than the size of geothermal heating in the region, and is of the same magnitude as the average global upper-ocean heat uptake over a recent 50-year period. Together with the freshening, the warming contributes about 0.012 m decade–1 of sea level rise in portions of the Caribbean Sea with bottom depths around 5000 m.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Sill', 'Oceanography', 'Deep sea', 'Hydrography', 'Geology', 'Period (music)', 'Global warming', 'Deep ocean water', 'Climatology', 'Geothermal gradient', 'Deep convection', 'Environmental science', 'Climate change', 'Geography', 'Convection', 'Meteorology', 'Geophysics', 'Physics', 'Geochemistry', 'Acoustics']

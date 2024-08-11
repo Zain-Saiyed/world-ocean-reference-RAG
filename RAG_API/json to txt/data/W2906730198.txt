@@ -1,0 +1,12 @@
+ID: W2906730198
+TITLE: Interaction of alongslope and downslope processes in the Alentejo Margin (SW Iberia) – Implications on slope stability
+AUTHOR: ['Manuel Teixeira', 'Pedro Terrinha', 'Cristina Roque', 'Marcos Rosa', 'Gemma Ercilla', 'David Casas']
+ABSTRACT:
+An integrated analysis of multibeam bathymetry and single- and multichannel seismic records were used to image the morpho-stratigraphy of the Alentejo Margin (Southwest Portuguese Continental Margin). The complex interaction of several alongslope and downslope processes in the area leads to the formation of various bottom current driven depositional and erosive features (moat) as well as gravity-driven features (gullies and landslides) in the Alentejo Margin. These processes feed each other contributing for the active sedimentary pattern on the area. Sines Contourite Drift (SCD) is a ~2311 km2 sedimentary feature with a perimeter of 303.9 km, 98 km length and 35 km width. Landslides occur either on steep and on gentle slopes between ~200 and 3200 mwd (meters water depth) in the study area, which has a total extent of ~85 km × 82 km. Scar concentration is higher in the middle- and lower-slope, whereas the thickest debris deposits are found in the slope basin area - Lebre Basin (LB). Translational landslides, with planar failure planes parallel to the slope surface are the main landslide typology verified in the study area. Several triggering and pre-conditioning factors, resulting from the interaction of alongslope and downslope processes, contribute for varied landslides scar concentration. Steep-slope and high sedimentation rates favour sediments under-consolidation, promoting excess pore water pressure and weak layers formation. In this paper, we show that the interaction of bottom currents with pre-existing tectonic structures promotes the complex interaction of both alongslope and downslope processes thus promoting an active and diversified geomorphological evolution and generalised slope instability.
+
+SOURCE: Marine geology
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Geology', 'Landslide', 'Sedimentary depositional environment', 'Geomorphology', 'Sedimentary rock', 'Contourite', 'Submarine landslide', 'Debris', 'Structural basin', 'Facies', 'Tectonics', 'Continental margin', 'Geochemistry', 'Paleontology', 'Oceanography']

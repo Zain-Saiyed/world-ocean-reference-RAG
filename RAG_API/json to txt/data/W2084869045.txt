@@ -1,0 +1,12 @@
+ID: W2084869045
+TITLE: Multidecadal warming of Antarctic waters
+AUTHOR: ['Sunke Schmidtko', 'Karen J. Heywood', 'Andrew F. Thompson', 'Shigeru Aoki']
+ABSTRACT:
+Decadal trends in the properties of seawater adjacent to Antarctica are poorly known, and the mechanisms responsible for such changes are uncertain. Antarctic ice sheet mass loss is largely driven by ice shelf basal melt, which is influenced by ocean-ice interactions and has been correlated with Antarctic Continental Shelf Bottom Water (ASBW) temperature. We document the spatial distribution of long-term large-scale trends in temperature, salinity, and core depth over the Antarctic continental shelf and slope. Warming at the seabed in the Bellingshausen and Amundsen seas is linked to increased heat content and to a shoaling of the mid-depth temperature maximum over the continental slope, allowing warmer, saltier water greater access to the shelf in recent years. Regions of ASBW warming are those exhibiting increased ice shelf melt.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 369
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Oceanography', 'Continental shelf', 'Ice shelf', 'Geology', 'Seabed', 'Temperature salinity diagrams', 'Antarctic ice sheet', 'Antarctic Bottom Water', 'Global warming', 'Antarctic sea ice', 'Water mass', 'Sea ice', 'Iceberg', 'Salinity', 'Climatology', 'Climate change', 'Arctic ice pack', 'Cryosphere']

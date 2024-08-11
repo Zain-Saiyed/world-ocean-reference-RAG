@@ -1,0 +1,12 @@
+ID: W2942445754
+TITLE: Ocean acidification impacts on coastal ecosystem services due to habitat degradation
+AUTHOR: ['Jason M. Hall‐Spencer', 'Ben P. Harvey']
+ABSTRACT:
+Abstract The oceanic uptake of anthropogenic carbon dioxide emissions is changing seawater chemistry in a process known as ocean acidification. The chemistry of this rapid change in surface waters is well understood and readily detectable in oceanic observations, yet there is uncertainty about the effects of ocean acidification on society since it is difficult to scale-up from laboratory and mesocosm tests. Here, we provide a synthesis of the likely effects of ocean acidification on ecosystem properties, functions and services based on observations along natural gradients in pCO2. Studies at CO2 seeps worldwide show that biogenic habitats are particularly sensitive to ocean acidification and that their degradation results in less coastal protection and less habitat provisioning for fisheries. The risks to marine goods and services amplify with increasing acidification causing shifts to macroalgal dominance, habitat degradation and a loss of biodiversity at seep sites in the tropics, the sub-tropics and on temperate coasts. Based on this empirical evidence, we expect ocean acidification to have serious consequences for the millions of people who are dependent on coastal protection, fisheries and aquaculture. If humanity is able to make cuts in fossil fuel emissions, this will reduce costs to society and avoid the changes in coastal ecosystems seen in areas with projected pCO2 levels. A binding international agreement for the oceans should build on the United Nations Sustainable Development Goal to ‘minimise and address the impacts of ocean acidification’.
+
+SOURCE: Emerging topics in life sciences
+PDF URL: https://portlandpress.com/emergtoplifesci/article-pdf/3/2/197/851185/etls-2018-0117c.pdf
+CITED BY COUNT: 107
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Environmental science', 'Habitat destruction', 'Ecosystem', 'Biodiversity', 'Marine ecosystem', 'Habitat', 'Marine habitats', 'Effects of global warming on oceans', 'Oceanography', 'Ecosystem services', 'Mesocosm', 'Climate change', 'Ecology', 'Global warming', 'Biology', 'Geology']

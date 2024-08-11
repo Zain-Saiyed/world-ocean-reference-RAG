@@ -1,0 +1,12 @@
+ID: W2901171054
+TITLE: Persistent Organic Pollutants in Cetaceans Living in a Hotspot Area
+AUTHOR: ['Letizia Marsili', 'Begoña Jiménez', 'Asunción Borrell']
+ABSTRACT:
+The main aim of this chapter is to document the contamination by persistent organic pollutants (POPs) in cetaceans living in the Mediterranean Sea, which is a hotspot area for both its biodiversity and its pollution. In fact, the Mediterranean Sea is particularly distressed by environmental contamination because of its half-closed basin geomorphology and its high coastal anthropization. Seven of the eight common cetacean species in the Mediterranean Sea are odontocetes and, as such, are at the top of the trophic chain. For this reason and because of physiologic characteristics that have allowed them to live a completely aquatic life, such as thick adipose tissue, cetaceans accumulate high levels of lipophilic environmental contaminants (i.e., POPs). The only mysticete species, the long-living fin whale, is the largest filter feeder in the Mediterranean Sea and is highly contaminated by small particles, such as microplastics, which are abundant in the basin and also act as vectors of POPs.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Trophic level', 'Mediterranean sea', 'Mediterranean climate', 'Environmental science', 'Pollutant', 'Microplastics', 'Marine mammal', 'Marine Strategy Framework Directive', 'Marine pollution', 'Biodiversity', 'Fishery', 'Cetacea', 'Hotspot (geology)', 'Ecology', 'Pollution', 'Geography', 'Oceanography', 'Ecosystem', 'Biology', 'Geology', 'Geophysics']

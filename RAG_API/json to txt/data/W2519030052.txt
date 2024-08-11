@@ -1,0 +1,12 @@
+ID: W2519030052
+TITLE: The Utilization of Aquatic Bushmeat from Small Cetaceans and Manatees in South America and West Africa
+AUTHOR: ['Mel Cosentino', 'Sue Fisher']
+ABSTRACT:
+Aquatic bushmeat can be defined as the products derived from wild aquatic megafauna (e.g. marine mammals) that are used for human consumption and non-food purposes, including traditional medicine. It is obtained through illegal or unregulated hunts as well as from stranded (dead or alive) and bycaught animals. In most South American and West African countries aquatic mammals are or have been taken for bushmeat, including 33 small cetaceans and all three manatee species. Of these, two cetacean species are listed in the IUCN red list as “near threatened”, and one as “vulnerable”, as are all manatee species. Additionally, 22 cetacean species are listed as “data deficient”, hence some of these species may also be at risk. No reports (recent or otherwise) were found for some countries, however caution is needed in concluding that aquatic bushmeat is not utilized in these nations. Moreover, although aquatic bushmeat is mostly obtained opportunistically and was likely originally taken only for local consumption, directed catches occur in most countries and may have reached unsustainable levels in some areas. For example, in Peru and Nigeria, thousands of small cetaceans are illegally hunted annually. Reliable, recent data and a better overall understanding of the drivers of aquatic bushmeat will be essential in the development of effective mitigation measures.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2016.00163/pdf
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Bushmeat', 'Manatee', 'IUCN Red List', 'Fishery', 'Megafauna', 'Threatened species', 'Geography', 'Environmental protection', 'Ecology', 'Biology', 'Habitat', 'Wildlife', 'Archaeology', 'Pleistocene']

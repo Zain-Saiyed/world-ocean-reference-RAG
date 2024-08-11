@@ -1,0 +1,12 @@
+ID: W2757694631
+TITLE: Deep-water measurements of container ship radiated noise signatures and directionality
+AUTHOR: ['Martin Gassmann', 'Sean M. Wiggins', 'John A. Hildebrand']
+ABSTRACT:
+Underwater radiated noise from merchant ships was measured opportunistically from multiple spatial aspects to estimate signature source levels and directionality. Transiting ships were tracked via the Automatic Identification System in a shipping lane while acoustic pressure was measured at the ships' keel and beam aspects. Port and starboard beam aspects were 15°, 30°, and 45° in compliance with ship noise measurements standards [ANSI/ASA S12.64 (2009) and ISO 17208-1 (2016)]. Additional recordings were made at a 10° starboard aspect. Source levels were derived with a spherical propagation (surface-affected) or a modified Lloyd's mirror model to account for interference from surface reflections (surface-corrected). Ship source depths were estimated from spectral differences between measurements at different beam aspects. Results were exemplified with a 4870 and a 10 036 twenty-foot equivalent unit container ship at 40%–56% and 87% of service speeds, respectively. For the larger ship, opportunistic ANSI/ISO broadband levels were 195 (surface-affected) and 209 (surface-corrected) dB re 1 μPa2 1 m. Directionality at a propeller blade rate of 8 Hz exhibited asymmetries in stern-bow (&amp;lt;6 dB) and port-starboard (&amp;lt;9 dB) direction. Previously reported broadband levels at 10° aspect from McKenna, Ross, Wiggins, and Hildebrand [(2012b). J. Acoust. Soc. Am. 131, 92–103] may be ∼12 dB lower than respective surface-affected ANSI/ISO standard derived levels.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: https://asa.scitation.org/doi/pdf/10.1121/1.5001063
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Acoustics', 'Port (circuit theory)', 'Noise (video)', 'Propeller', 'Physics', 'Marine engineering', 'Engineering', 'Computer science', 'Electrical engineering', 'Artificial intelligence', 'Image (mathematics)']

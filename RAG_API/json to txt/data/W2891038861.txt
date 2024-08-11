@@ -1,0 +1,12 @@
+ID: W2891038861
+TITLE: Global Status of Coral Reefs: In Combination, Disturbances and Stressors Become Ratchets
+AUTHOR: ['Charles Birkeland']
+ABSTRACT:
+Although there are still many local coral-reef communities that display remarkably rapid recovery, numerous surveys have indicated that the average living coral cover is decreasing circumtropically. This is partly because disturbance is nearly always faster than recovery, damaged or stressed corals tend to produce fewer larvae, reef community recovery times become longer when fast-growing branching corals are more vulnerable to stresses and disturbances and are replaced by more tolerant slow-growing corals, disturbances become more frequent and do not allow sufficient time for recovery, combinations of local and global disturbances and stresses result in positive feedbacks that accelerate reef degradation, and degraded reefs decrease the proportion of habitat acceptable to recruiting larvae. In the recent past, many reefs had time to largely recover before the next disturbance; otherwise, the reefs at the sites would not have developed as well as they had. As more reefs are disturbed and become less favorable for survival of recruits, connectivity is reduced by fewer larvae produced, more areas become unattractive to larvae for settlement, distances between fewer favorable sites become longer, and larval pelagic duration sometimes becomes shorter with increasing temperature. The processes listed above determine that prevention is more efficient and effective than repair. Marine reserves and fixing local problems are important to continue, but they are not buying time. The time has arrived and we have to act directly on the reduction of CO2 emissions.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Coral reef', 'Stressor', 'Coral', 'Oceanography', 'Reef', 'Environmental science', 'Geography', 'Geology', 'Psychology', 'Neuroscience']

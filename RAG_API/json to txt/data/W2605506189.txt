@@ -1,0 +1,12 @@
+ID: W2605506189
+TITLE: Sources of rare earth elements in shells and soft-tissues of bivalves from Tokyo Bay
+AUTHOR: ['Tetsuya Akagi', 'Keisuke Edanami']
+ABSTRACT:
+Five species of bivalves (Japanese littleneck, blue mussel, trough shell, Stimpson's quahog, and Japanese dosinia) were collected from three different sites in Tokyo Bay and their shells and soft tissues were analyzed for rare earth element (REE) concentrations. Their REE compositions were compared with those of sediment and seawater at corresponding sites. To estimate the digestive strength of the bivalves, different acids were used to extract the elements in sediment for comparison of REE compositions. The REE concentrations of soft tissues were higher than those of shells. The REE abundance patterns of both shells and soft tissues resembled those of sediments or suspended particles rather than those dissolved in seawater, except for mussels. REE composites calculated by mixing particulate and dissolved REEs at much greater ratios for particulate REEs can explain the REE composition of both shells and soft-tissues. In the case of mussel shells, the contribution of REEs dissolved in seawater is important, but despite this most of mussel REEs similarly originate from suspended particles in seawater. This implies that a simple projection to seawater REEs from the REE composition of shells would be difficult. The apparent partitioning coefficients of REEs over Ca in shells ranged from 0.1 to 10 against REEs/Ca of seawater.
+
+SOURCE: Marine chemistry
+PDF URL: None
+CITED BY COUNT: 55
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seawater', 'Bay', 'Mussel', 'Particulates', 'Rare-earth element', 'Environmental chemistry', 'Sediment', 'Chemistry', 'Rare earth', 'Oceanography', 'Mineralogy', 'Geology', 'Biology', 'Fishery', 'Organic chemistry', 'Paleontology']

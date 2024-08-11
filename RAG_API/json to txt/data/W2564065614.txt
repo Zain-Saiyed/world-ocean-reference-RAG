@@ -1,0 +1,12 @@
+ID: W2564065614
+TITLE: Radiative forcing of carbon dioxide, methane, and nitrous oxide: A significant revision of the methane radiative forcing
+AUTHOR: ['Maryam Etminan', 'Gunnar Myhre', 'Eleanor J. Highwood', 'Keith P. Shine']
+ABSTRACT:
+Abstract New calculations of the radiative forcing (RF) are presented for the three main well‐mixed greenhouse gases, methane, nitrous oxide, and carbon dioxide. Methane's RF is particularly impacted because of the inclusion of the shortwave forcing; the 1750–2011 RF is about 25% higher (increasing from 0.48 W m −2 to 0.61 W m −2 ) compared to the value in the Intergovernmental Panel on Climate Change (IPCC) 2013 assessment; the 100 year global warming potential is 14% higher than the IPCC value. We present new simplified expressions to calculate RF. Unlike previous expressions used by IPCC, the new ones include the overlap between CO 2 and N 2 O; for N 2 O forcing, the CO 2 overlap can be as important as the CH 4 overlap. The 1750–2011 CO 2 RF is within 1% of IPCC's value but is about 10% higher when CO 2 amounts reach 2000 ppm, a value projected to be possible under the extended RCP8.5 scenario.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 575
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Radiative forcing', 'Methane', 'Greenhouse gas', 'Forcing (mathematics)', 'Nitrous oxide', 'Carbon dioxide', 'Environmental science', 'Atmospheric sciences', 'Radiative transfer', 'Shortwave', 'Global warming', 'Global-warming potential', 'Climatology', 'Climate change', 'Chemistry', 'Physics', 'Meteorology', 'Geology', 'Oceanography', 'Aerosol', 'Organic chemistry', 'Quantum mechanics']

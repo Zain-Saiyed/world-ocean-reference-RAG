@@ -1,0 +1,12 @@
+ID: W2077332062
+TITLE: Exposure of Mediterranean Countries to Ocean Acidification
+AUTHOR: ['Nathalie Hilmi', 'Denis Allemand', 'Mine Cinar', 'Sarah R. Cooley', 'Jason M. Hall‐Spencer', 'Gunnar Haraldsson', 'Caroline Hattam', 'Ross A. Jeffree', 'James C. Orr', 'Katrin Rehdanz', 'Stéphanie Reynaud', 'Alain Safa', 'Sam Dupont']
+ABSTRACT:
+This study examines the potential effects of ocean acidification on countries and fisheries of the Mediterranean Sea. The implications for seafood security and supply are evaluated by examining the sensitivity of the Mediterranean to ocean acidification at chemical, biological, and macro-economic levels. The limited information available on impacts of ocean acidification on harvested (industrial, recreational, and artisanal fishing) and cultured species (aquaculture) prevents any biological impact assessment. However, it appears that non-developed nations around the Mediterranean, particularly those for which fisheries are increasing, yet rely heavily on artisanal fleets, are most greatly exposed to socioeconomic consequences from ocean acidification.
+
+SOURCE: Water
+PDF URL: https://www.mdpi.com/2073-4441/6/6/1719/pdf?version=1433836566
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Mediterranean climate', 'Fishing', 'Fishery', 'Environmental science', 'Mediterranean sea', 'Oceanography', 'Climate change', 'Ecology', 'Biology', 'Geology']

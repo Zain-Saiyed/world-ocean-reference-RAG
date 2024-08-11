@@ -1,0 +1,12 @@
+ID: W2135488502
+TITLE: Medicating the environment: assessing risks of pharmaceuticals to wildlife and ecosystems
+AUTHOR: ['Kathryn E. Arnold', 'A. Ross Brown', 'Gerald T. Ankley', 'John P. Sumpter']
+ABSTRACT:
+Global pharmaceutical consumption is rising with the growing and ageing human population and more intensive food production. Recent studies have revealed pharmaceutical residues in a wide range of ecosystems and organisms. Environmental concentrations are often low, but pharmaceuticals typically are designed to have biological effects at low doses, acting on physiological systems that can be evolutionarily conserved across taxa. This Theme Issue introduces the latest research investigating the risks of environmentally relevant concentrations of pharmaceuticals to vertebrate wildlife. We take a holistic, global view of environmental exposure to pharmaceuticals encompassing terrestrial, freshwater and marine ecosystems in high- and low-income countries. Based on both field and laboratory data, the evidence for and relevance of changes to physiology and behaviour, in addition to mortality and reproductive effects, are examined in terms of the population- and community-level consequences of pharmaceutical exposure on wildlife. Studies on uptake, trophic transfer and indirect effects of pharmaceuticals acting via food webs are presented. Given the logistical and ethical complexities of research in this area, several papers focus on techniques for prioritizing which compounds are most likely to harm wildlife and how modelling approaches can make predictions about the bioavailability, metabolism and toxicity of pharmaceuticals in non-target species. This Theme Issue aims to help clarify the uncertainties, highlight opportunities and inform ongoing scientific and policy debates on the impacts of pharmaceuticals in the environment.
+
+SOURCE: Philosophical transactions - Royal Society. Biological sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2013.0569
+CITED BY COUNT: 335
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Wildlife', 'Trophic level', 'Population', 'Environmental resource management', 'Ecosystem', 'Ecology', 'Harm', 'Biology', 'Environmental planning', 'Geography', 'Environmental science', 'Environmental health', 'Psychology', 'Medicine', 'Social psychology']

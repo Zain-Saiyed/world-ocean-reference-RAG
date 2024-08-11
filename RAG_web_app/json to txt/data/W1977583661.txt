@@ -1,0 +1,12 @@
+ID: W1977583661
+TITLE: Genetics in conservation management: Revised recommendations for the 50/500 rules, Red List criteria and population viability analyses
+AUTHOR: ['Richard Frankham', 'Corey J. A. Bradshaw', 'Barry W. Brook']
+ABSTRACT:
+Conservation managers typically need to make prompt decisions based on limited information and resources. Consequently, generalisations have essential roles in guiding interventions. Here, we (i) critique information on some widely accepted generalisations and variables affecting them, (ii) assess how adequately genetic factors are currently incorporated into population viability analysis (PVA) models used to estimate minimum viable population sizes, and (iii) relate the above to population size thresholds of the IUCN Red List criteria for threatened species that were derived from genetic considerations. Evidence accumulated since 1980 shows that genetically effective population size (Ne) = 50 is inadequate for preventing inbreeding depression over five generations in the wild, with Ne ⩾ 100 being required to limit loss in total fitness to ⩽10%. Further, even Ne = 500 is too low for retaining evolutionary potential for fitness in perpetuity; a better approximation is Ne ⩾ 1000. Extrapolation from census population size (N) to Ne depends on knowing the ratio of Ne/N, yet this information is unavailable for most wild populations. Ratio averages (∼0.1–0.2) from meta-analyses are sufficient, provided adjustments are made for dissimilar life histories. Most PVA-based risk assessments ignore or inadequately model genetic factors. PVA should routinely include realistic inbreeding depression, and genetic impacts on evolutionary potential should be incorporated where appropriate. Genetic generalisations used in conservation, the treatment of genetics in PVAs, and sections of the IUCN Red List criteria derived from genetic considerations, all require revision to be more effective conservation tools.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 836
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['IUCN Red List', 'Inbreeding depression', 'Population', 'Threatened species', 'Population size', 'Conservation genetics', 'Effective population size', 'Population viability analysis', 'Inbreeding', 'Biology', 'Small population size', 'Minimum viable population', 'Ecology', 'Demography', 'Endangered species', 'Genetic diversity', 'Genetics', 'Allele', 'Sociology', 'Habitat', 'Gene', 'Microsatellite']

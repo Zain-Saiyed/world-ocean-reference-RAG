@@ -1,0 +1,12 @@
+ID: W2155363898
+TITLE: Climate Controls on US West Coast Erosion Processes
+AUTHOR: ['Jonathan C. Allan', 'Paul D. Komar']
+ABSTRACT:
+Erosion along the West Coast of the United States is affected by climate controls that include a trend of increasing wave heights during at least the past 25 years that might be related to global warming and the El Niño Southern Oscillation (ENSO) range between El Niños and La Niñas that affects both annual wave conditions and monthly mean water levels that raise tidal elevations. These processes are analyzed for sites from Washington to south-central California, revealing a latitude dependence of the individual processes and how their combinations affect total water levels at the shore, which is important to beach and property erosion. Particularly significant on the coast of the Pacific Northwest (Washington and Oregon) has been the progressive decadal increases in deep-water wave heights and periods, which have increased breaker heights and elevated storm wave runup levels on beaches. Along the entire West Coast, the annual variations in wave conditions above and below any progressive decadal increase are controlled by the North Pacific index (NPI), the atmospheric pressure difference between the Hawaiian High and Aleutian Low, and the ENSO range, as demonstrated by a strong correlation with the multivariate ENSO index (MEI), with the highest wave conditions occurring during El Niños. In addition, the ENSO range is particularly important in controlling mean water levels, causing tides to reach their highest elevations during El Niños, again shown by correlations with MEIs along the entire West Coast. With El Niños producing increased deep-water wave heights, runup levels on beaches, and elevated tides, the total water levels at the shore from the combined processes are significantly higher compared with normal or La Niña years, resulting in episodes of major property erosion along the entire US West Coast.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 200
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Shore', 'Storm', 'El Niño Southern Oscillation', 'Pacific decadal oscillation', 'Oceanography', 'Coastal erosion', 'Erosion', 'Climatology', 'Latitude', 'Geology', 'Tidal range', 'Environmental science', 'Significant wave height', 'Multivariate ENSO index', 'Wave height', 'Range (aeronautics)', 'La Niña', 'Wind wave', 'Estuary', 'Geomorphology', 'Materials science', 'Geodesy', 'Composite material']

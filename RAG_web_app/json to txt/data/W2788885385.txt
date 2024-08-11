@@ -1,0 +1,12 @@
+ID: W2788885385
+TITLE: Plastic ingestion by juvenile polar cod (Boreogadus saida) in the Arctic Ocean
+AUTHOR: ['Susanne Kühn', 'F.L. Schaafsma', 'Bernike van Werven', 'Hauke Flores', 'Melanie Bergmann', 'Marion Egelkraut-Holtus', 'Mine Banu Tekman', 'J.A. van Franeker']
+ABSTRACT:
+One of the recently recognised stressors in Arctic ecosystems concerns plastic litter. In this study, juvenile polar cod (Boreogadus saida) were investigated for the presence of plastics in their stomachs. Polar cod is considered a key species in the Arctic ecosystem. The fish were collected both directly from underneath the sea ice in the Eurasian Basin and in open waters around Svalbard. We analysed the stomachs of 72 individuals under a stereo microscope. Two stomachs contained non-fibrous microplastic particles. According to µFTIR analysis, the particles consisted of epoxy resin and a mix of Kaolin with polymethylmethacrylate (PMMA). Fibrous objects were excluded from this analysis to avoid bias due to contamination with airborne micro-fibres. A systematic investigation of the risk for secondary micro-fibre contamination during analytical procedures showed that precautionary measures in all procedural steps are critical. Based on the two non-fibrous objects found in polar cod stomachs, our results show that ingestion of microplastic particles by this ecologically important fish species is possible. With increasing human activity, plastic ingestion may act as an increasing stressor on polar cod in combination with ocean warming and sea-ice decline in peripheral regions of the Arctic Ocean. To fully assess the significance of this stressor and its spatial and temporal variability, future studies must apply a rigorous approach to avoid secondary pollution.
+
+SOURCE: Polar biology
+PDF URL: https://link.springer.com/content/pdf/10.1007/s00300-018-2283-8.pdf
+CITED BY COUNT: 96
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Arctic', 'Biology', 'Marine debris', 'Microplastics', 'Sea ice', 'Fishery', 'Oceanography', 'Juvenile', 'Gadidae', 'Ecosystem', 'Environmental science', 'Debris', 'Ecology', 'Atlantic cod', 'Fish <Actinopterygii>', 'Gadus', 'Geology']

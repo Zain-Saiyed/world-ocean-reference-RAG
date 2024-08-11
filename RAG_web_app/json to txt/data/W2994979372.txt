@@ -1,0 +1,12 @@
+ID: W2994979372
+TITLE: Twenty-eight years of decline: Nesting population demographics and trajectory of the north-east Queensland endangered hawksbill turtle (Eretmochelys imbricata)
+AUTHOR: ['Ian P. Bell', 'Justin J. Meager', 'Tomo Eguchi', 'Kirstin Dobbs', 'Jeff Miller', 'Christine A. Madden Hof']
+ABSTRACT:
+Globally, hawksbill turtles (Eretmochelys imbricata) are listed as Critically Endangered, the cause of which is largely attributed to excessive historical take by the tortoiseshell industry. Yet few long-term data analyses describing population trend or survivorship exist. Here we analyse a long-term dataset for a globally significant western Pacific E. imbricata nesting population on Milman Island, northern Great Barrier Reef. Three demographic indicators were used: (1) number of egg clutches laid, (2) nester abundance and survival, and (3) the body-size distribution of nesters (curved carapace length, CCL). Models were developed for a time series from the 1990–91 to 2016–17 nesting season that included 21 years of sampling, with predicted trends evaluated against samples from the 2017–18 nesting season. The number of clutches laid and nester abundance rate of decline varied over the study period, but the decline was markedly similar with a 58 and 57% overall reduction, respectively. Annual survival rate was high (0.972, 95% CI = 0.965 to 0.977), but was not estimated separately for all years. Models predicted that the current rate of decline would lead to nesting extirpation by 2036 (95% CI: 2026–2058) and 2032–2037 (95% CI: from 2020 to increasing), for the models of nester abundance and number of eggs laid, respectively; and aligned with the observed values for the test dataset (2017–18 season). The rate of decline of E. imbricata nesting at Milman Island highlights the urgency to understand and mitigate risks faced by this endangered population and more broadly across the western Pacific.
+
+SOURCE: Biological conservation
+PDF URL: http://manuscript.elsevier.com/S0006320719312431/pdf/S0006320719312431.pdf
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Population', 'Nesting season', 'Abundance (ecology)', 'Critically endangered', 'Geography', 'Ecology', 'Endangered species', 'Carapace', 'Fishery', 'Nesting (process)', 'Sea turtle', 'Demography', 'Biology', 'Reef', 'Habitat', 'Turtle (robot)', 'Sociology', 'Materials science', 'Crustacean', 'Metallurgy']

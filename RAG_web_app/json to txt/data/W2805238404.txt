@@ -1,0 +1,12 @@
+ID: W2805238404
+TITLE: Nitrogen-fixing populations of Planctomycetes and Proteobacteria are abundant in surface ocean metagenomes
+AUTHOR: ['Tom O. Delmont', 'Christopher Quince', 'Alon Shaiber', 'Özcan C. Esen', 'Sonny T. M. Lee', 'Michael S. Rappé', 'Sandra L. McLellan', 'Sebastian Lücker', 'A. Murat Eren']
+ABSTRACT:
+Abstract Nitrogen fixation in the surface ocean impacts global marine nitrogen bioavailability and thus microbial primary productivity. Until now, cyanobacterial populations have been viewed as the main suppliers of bioavailable nitrogen in this habitat. Although PCR amplicon surveys targeting the nitrogenase reductase gene have revealed the existence of diverse non-cyanobacterial diazotrophic populations, subsequent quantitative PCR surveys suggest that they generally occur in low abundance. Here, we use state-of-the-art metagenomic assembly and binning strategies to recover nearly one thousand non-redundant microbial population genomes from the TARA Oceans metagenomes. Among these, we provide the first genomic evidence for non-cyanobacterial diazotrophs inhabiting surface waters of the open ocean, which correspond to lineages within the Proteobacteria and, most strikingly, the Planctomycetes. Members of the latter phylum are prevalent in aquatic systems, but have never been linked to nitrogen fixation previously. Moreover, using genome-wide quantitative read recruitment, we demonstrate that the discovered diazotrophs were not only widespread but also remarkably abundant (up to 0.3% of metagenomic reads for a single population) in both the Pacific Ocean and the Atlantic Ocean northwest. Our results extend decades of PCR-based gene surveys, and substantiate the importance of heterotrophic bacteria in the fixation of nitrogen in the surface ocean.
+
+SOURCE: Nature microbiology
+PDF URL: https://www.nature.com/articles/s41564-018-0176-9.pdf
+CITED BY COUNT: 416
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Diazotroph', 'Planctomycetes', 'Biology', 'Metagenomics', 'Nitrogen fixation', 'Population', 'Proteobacteria', 'Ecology', 'Nitrogenase', 'Cyanobacteria', 'Bacteria', 'Gene', 'Genetics', '16S ribosomal RNA', 'Demography', 'Sociology']

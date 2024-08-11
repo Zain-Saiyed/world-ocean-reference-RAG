@@ -1,0 +1,12 @@
+ID: W2166216359
+TITLE: Effects of bottom‐layer hypoxia on spatial distributions and community structure of mesozooplankton in a sub‐estuary of Puget Sound, Washington, U.S.A
+AUTHOR: ['Julie E. Keister', 'Loren B. Tuttle']
+ABSTRACT:
+We investigated the response of mesozooplankton to low dissolved oxygen (DO) concentrations in Hood Canal, Washington, a seasonally hypoxic sub‐estuary of Puget Sound. Depth‐stratified zooplankton net tows were conducted above and below the oxycline during day and night in midsummer (July), late summer (September), and early winter (December) 2008 using closing nets. Bottom DO concentrations declined slowly through summer. In July, DO at most stations was low but not hypoxic. By late summer, bottom waters throughout the study area were hypoxic (≤ 2 mg L −1 ) and were severely hypoxic (&lt; 1 mg L −1 ) at some stations. In winter, water‐column mixing and lower surface primary production resulted in higher DO, although sub‐pycnocline hypoxia persisted through December at some locations. Zooplankton abundance decreased from midsummer to winter. The community was dominated by gelatinous zooplankton and copepods. A shift in community structure towards a higher dominance of polychaetes and the cyclopoid copepod Oithona similis occurred over the season. Temporal and spatial patterns in zooplankton communities were primarily structured by month and bottom depth. DO played a lesser role in structuring the species composition, but vertical distributions of several taxa changed in response to hypoxia, with a greater proportion of their populations found above the oxycline during both day and night where bottom oxygen was low. However, some taxa were abundant below the oxycline, even at oxygen levels &lt; 0.5 mg L −1 ; these taxa may have a high tolerance to hypoxia, use low‐oxygen regions as a predation refuge, and be useful indicators of poor water‐quality conditions.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: None
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Zooplankton', 'Hypoxia (environmental)', 'Estuary', 'Oceanography', 'Water column', 'Pycnocline', 'Copepod', 'Dominance (genetics)', 'Bottom water', 'Gelatinous zooplankton', 'Biology', 'Predation', 'Community structure', 'Environmental science', 'Ecology', 'Crustacean', 'Oxygen', 'Geology', 'Chemistry', 'Biochemistry', 'Organic chemistry', 'Gene']

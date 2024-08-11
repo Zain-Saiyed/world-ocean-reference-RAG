@@ -1,0 +1,12 @@
+ID: W2122825721
+TITLE: Mangroves among the most carbon-rich forests in the tropics
+AUTHOR: ['Daniel C. Donato', 'J. Boone Kauffman', 'Daniel Murdiyarso', 'Sofyan Kurnianto', 'Melanie Stidham', 'Markku Kanninen']
+ABSTRACT:
+The areal extent of mangrove forests has declined by 30–50% over the past half century. An analysis of mangrove forests across the Indo-Pacific suggests that mangrove deforestation generates losses of 0.02–0.12 Pg C yr−1, equivalent to up to 10% of carbon emissions from global deforestation. Mangrove forests occur along ocean coastlines throughout the tropics, and support numerous ecosystem services, including fisheries production and nutrient cycling. However, the areal extent of mangrove forests has declined by 30–50% over the past half century as a result of coastal development, aquaculture expansion and over-harvesting1,2,3,4. Carbon emissions resulting from mangrove loss are uncertain, owing in part to a lack of broad-scale data on the amount of carbon stored in these ecosystems, particularly below ground5. Here, we quantified whole-ecosystem carbon storage by measuring tree and dead wood biomass, soil carbon content, and soil depth in 25 mangrove forests across a broad area of the Indo-Pacific region—spanning 30° of latitude and 73° of longitude—where mangrove area and diversity are greatest4,6. These data indicate that mangroves are among the most carbon-rich forests in the tropics, containing on average 1,023 Mg carbon per hectare. Organic-rich soils ranged from 0.5 m to more than 3 m in depth and accounted for 49–98% of carbon storage in these systems. Combining our data with other published information, we estimate that mangrove deforestation generates emissions of 0.02–0.12 Pg carbon per year—as much as around 10% of emissions from deforestation globally, despite accounting for just 0.7% of tropical forest area6,7.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 2057
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Mangrove', 'Tropics', 'Environmental science', 'Blue carbon', 'Deforestation (computer science)', 'Biomass (ecology)', 'Ecosystem', 'Carbon cycle', 'Agroforestry', 'Soil carbon', 'Carbon fibers', 'Latitude', 'Terrestrial ecosystem', 'Forestry', 'Geography', 'Ecology', 'Soil water', 'Biology', 'Soil science', 'Materials science', 'Seagrass', 'Computer science', 'Composite material', 'Programming language', 'Geodesy', 'Composite number']

@@ -1,0 +1,12 @@
+ID: W2782880633
+TITLE: The influx of marine debris from the Great Japan Tsunami of 2011 to North American shorelines
+AUTHOR: ['Cathryn Clarke Murray', 'Nikolai Maximenko', 'Sherry M. Lippiatt']
+ABSTRACT:
+Marine debris is one of the leading threats to the ocean and the Great East Japan Earthquake and tsunami on March 11, 2011 washed away an estimated 5 million tons of debris in a single, tragic event. Here we used shoreline surveys, disaster debris reports and ocean drift models to investigate the temporal and spatial trends in the arrival of tsunami marine debris. The increase in debris influx to surveyed North American and Hawaiian shorelines was substantial and significant, representing a 10 time increase over the baseline in northern Washington State where a long term dataset was available. The tsunami event brought different types of debris along the coast, with high-windage items dominant in Alaska and British Columbia and large, medium-windage items in Washington State and Oregon. Recorded cumulative debris landings to North America were close to 100,000 items in the four year study period. The temporal peaks in measured shoreline debris and debris reports match the ocean drift model solutions. Mitigation and monitoring activities, such as shoreline surveys, provide crucial data and monitoring for potential impacts should be continued in the future.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 66
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Debris', 'Shore', 'Marine debris', 'Oceanography', 'Geology', 'Windage', 'Physical geography', 'Environmental science', 'Geography', 'Physics', 'Thermodynamics']

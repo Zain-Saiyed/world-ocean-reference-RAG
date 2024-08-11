@@ -1,0 +1,12 @@
+ID: W2781647918
+TITLE: Freshwater lake to salt-water sea causing widespread hydrate dissociation in the Black Sea
+AUTHOR: ['Vincent Riboulot', 'Stéphan Ker', 'Nabil Sultan', 'Y. Thomas', 'B. Marsset', 'Carla Scalabrin', 'Livio Ruffine', 'Cédric Boulart', 'Gabriel Ion']
+ABSTRACT:
+Gas hydrates, a solid established by water and gas molecules, are widespread along the continental margins of the world. Their dynamics have mainly been regarded through the lens of temperature-pressure conditions. A fluctuation in one of these parameters may cause destabilization of gas hydrate-bearing sediments below the seafloor with implications in ocean acidification and eventually in global warming. Here we show throughout an example of the Black Sea, the world's most isolated sea, evidence that extensive gas hydrate dissociation may occur in the future due to recent salinity changes of the sea water. Recent and forthcoming salt diffusion within the sediment will destabilize gas hydrates by reducing the extension and thickness of their thermodynamic stability zone in a region covering at least 2800 square kilometers which focus seepages at the observed sites. We suspect this process to occur in other world regions (e.g., Caspian Sea, Sea of Marmara).
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-017-02271-z.pdf
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Clathrate hydrate', 'Oceanography', 'Black sea', 'Salinity', 'Geology', 'Seafloor spreading', 'Hydrate', 'Seawater', 'Dissociation (chemistry)', 'Environmental science', 'Chemistry', 'Organic chemistry', 'Physical chemistry']

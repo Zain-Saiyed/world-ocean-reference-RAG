@@ -1,0 +1,12 @@
+ID: W2168846525
+TITLE: Mangrove expansion and salt marsh decline at mangrove poleward limits
+AUTHOR: ['Neil Saintilan', 'Nigel Wilson', 'Kerrylee Rogers', 'Anusha Rajkaran', 'Ken W. Krauss']
+ABSTRACT:
+Abstract Mangroves are species of halophytic intertidal trees and shrubs derived from tropical genera and are likely delimited in latitudinal range by varying sensitivity to cold. There is now sufficient evidence that mangrove species have proliferated at or near their poleward limits on at least five continents over the past half century, at the expense of salt marsh. Avicennia is the most cold‐tolerant genus worldwide, and is the subject of most of the observed changes. Avicennia germinans has extended in range along the USA Atlantic coast and expanded into salt marsh as a consequence of lower frost frequency and intensity in the southern USA . The genus has also expanded into salt marsh at its southern limit in Peru, and on the Pacific coast of Mexico. Mangroves of several species have expanded in extent and replaced salt marsh where protected within mangrove reserves in Guangdong Province, China. In south‐eastern Australia, the expansion of A vicennia marina into salt marshes is now well documented, and R hizophora stylosa has extended its range southward, while showing strong population growth within estuaries along its southern limits in northern New South Wales. Avicennia marina has extended its range southwards in South Africa. The changes are consistent with the poleward extension of temperature thresholds coincident with sea‐level rise, although the specific mechanism of range extension might be complicated by limitations on dispersal or other factors. The shift from salt marsh to mangrove dominance on subtropical and temperate shorelines has important implications for ecological structure, function, and global change adaptation.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 480
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Mangrove', 'Salt marsh', 'Avicennia marina', 'Ecology', 'Subtropics', 'Intertidal zone', 'Rhizophora', 'Geography', 'Spartina', 'Avicennia', 'Oceanography', 'Marsh', 'Wetland', 'Biology', 'Geology']

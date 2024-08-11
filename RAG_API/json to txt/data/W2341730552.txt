@@ -1,0 +1,12 @@
+ID: W2341730552
+TITLE: A crab swarm at an ecological hotspot: patchiness and population density from AUV observations at a coastal, tropical seamount
+AUTHOR: ['Jesús Pineda', 'Walter W. Cho', 'Victoria R. Starczak', 'Annette F. Govindarajan', 'Héctor M. Guzmán', 'Yogesh Girdhar', 'Rusty C. Holleman', 'James H. Churchill', 'Hanumant Singh', 'David K. Ralston']
+ABSTRACT:
+A research cruise to Hannibal Bank, a seamount and an ecological hotspot in the coastal eastern tropical Pacific Ocean off Panama, explored the zonation, biodiversity, and the ecological processes that contribute to the seamount's elevated biomass. Here we describe the spatial structure of a benthic anomuran red crab population, using submarine video and autonomous underwater vehicle (AUV) photographs. High density aggregations and a swarm of red crabs were associated with a dense turbid layer 4-10 m above the bottom. The high density aggregations were constrained to 355-385 m water depth over the Northwest flank of the seamount, although the crabs also occurred at lower densities in shallower waters (∼280 m) and in another location of the seamount. The crab aggregations occurred in hypoxic water, with oxygen levels of 0.04 ml/l. Barcoding of Hannibal red crabs, and pelagic red crabs sampled in a mass stranding event in 2015 at a beach in San Diego, California, USA, revealed that the Panamanian and the Californian crabs are likely the same species, Pleuroncodes planipes, and these findings represent an extension of the southern endrange of this species. Measurements along a 1.6 km transect revealed three high density aggregations, with the highest density up to 78 crabs/m(2), and that the crabs were patchily distributed. Crab density peaked in the middle of the patch, a density structure similar to that of swarming insects.
+
+SOURCE: PeerJ
+PDF URL: https://peerj.com/articles/1770.pdf
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seamount', 'Oceanography', 'Pelagic zone', 'Fishery', 'Benthic zone', 'Population', 'Population density', 'Ecology', 'Transect', 'Rocky shore', 'Shore', 'Geography', 'Biology', 'Geology', 'Demography', 'Sociology']

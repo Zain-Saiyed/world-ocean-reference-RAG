@@ -1,0 +1,12 @@
+ID: W2171598834
+TITLE: Metagenomic chromosome conformation capture (meta3C) unveils the diversity of chromosome organization in microorganisms
+AUTHOR: ['Martial Marbouty', 'Axel Cournac', 'Jean‐François Flot', 'Hervé Marie-Nelly', 'Julien Mozziconacci', 'Romain Koszul']
+ABSTRACT:
+Genomic analyses of microbial populations in their natural environment remain limited by the difficulty to assemble full genomes of individual species. Consequently, the chromosome organization of microorganisms has been investigated in a few model species, but the extent to which the features described can be generalized to other taxa remains unknown. Using controlled mixes of bacterial and yeast species, we developed meta3C, a metagenomic chromosome conformation capture approach that allows characterizing individual genomes and their average organization within a mix of organisms. Not only can meta3C be applied to species already sequenced, but a single meta3C library can be used for assembling, scaffolding and characterizing the tridimensional organization of unknown genomes. By applying meta3C to a semi-complex environmental sample, we confirmed its promising potential. Overall, this first meta3C study highlights the remarkable diversity of microorganisms chromosome organization, while providing an elegant and integrated approach to metagenomic analysis.
+
+SOURCE: eLife
+PDF URL: None
+CITED BY COUNT: 156
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Metagenomics', 'Biology', 'Genome', 'Chromosome', 'Microorganism', 'Computational biology', 'Evolutionary biology', 'Genomic organization', 'Chromosome conformation capture', 'Circular bacterial chromosome', 'Genetics', 'Bacteria', 'Gene', 'Gene expression', 'Enhancer']

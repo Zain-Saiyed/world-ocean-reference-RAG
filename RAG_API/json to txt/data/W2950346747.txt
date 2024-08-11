@@ -1,0 +1,12 @@
+ID: W2950346747
+TITLE: Faunal mortality associated with massive beaching and decomposition of pelagic Sargassum
+AUTHOR: ['Rosa E. Rodríguez-Martínez', 'Alexis Medina-Valmaseda', 'Paul Blanchon', 'Luz Verónica Monroy-Velázquez', 'Antonio Almazán-Becerril', 'Benjamín Delgado-Pech', 'Lourdes Vásquez–Yeomans', 'Vanessa Francisco', 'M.C. García-Rivas']
+ABSTRACT:
+In 2018, the Mexican Caribbean coast received a massive influx of pelagic Sargassum spp. that accumulated and decayed on beaches producing organic decomposition products that made the water turbid and brown. Between May and September of the same year there were several reports of mass mortality of marine biota in this area. From these reports we estimate that organisms belonging to 78 faunal species died as result of this event, with demersal neritic fish and Crustacea being the most affected groups. The cause of mortality appears to be the combined effect of high ammonium and hydrogen sulfide concentrations, together with hypoxic conditions. If massive arrival of pelagic Sargassum spp. continues and algae is left to decay on the beach in large volumes then deterioration in water quality could affect coral reefs close to shore. Furthermore, barriers placed in lagoons to intercept the Sargassum spp. before it reaches the beach could impact reef fauna if the algae is left to die and sink on site.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 131
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Sargassum', 'Pelagic zone', 'Coral reef', 'Reef', 'Algae', 'Biota', 'Fauna', 'Ecology', 'Oceanography', 'Bay', 'Biology', 'Fishery', 'Environmental science', 'Geology']

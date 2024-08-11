@@ -1,0 +1,12 @@
+ID: W2520790357
+TITLE: Accelerating Tropicalization and the Transformation of Temperate Seagrass Meadows
+AUTHOR: ['Glenn A. Hyndes', 'Kenneth L. Heck', 'Adriana Vergés', 'Euan S. Harvey', 'Gary A. Kendrick', 'Paul S. Lavery', 'Kathryn McMahon', 'Robert J. Orth', 'Alan Pearce', 'Mathew A. Vanderklift', 'Thomas Wernberg', 'Scott D. Whiting', 'Shaun K. Wilson']
+ABSTRACT:
+Climate-driven changes are altering production and functioning of biotic assemblages in terrestrial and aquatic environments. In temperate coastal waters, rising sea temperatures, warm water anomalies and poleward shifts in the distribution of tropical herbivores have had a detrimental effect on algal forests. We develop generalized scenarios of this form of tropicalization and its potential effects on the structure and functioning of globally significant and threatened seagrass ecosystems, through poleward shifts in tropical seagrasses and herbivores. Initially, we expect tropical herbivorous fishes to establish in temperate seagrass meadows, followed later by megafauna. Tropical seagrasses are likely to establish later, delayed by more limited dispersal abilities. Ultimately, food webs are likely to shift from primarily seagrass-detritus to more direct-consumption-based systems, thereby affecting a range of important ecosystem services that seagrasses provide, including their nursery habitat role for fishery species, carbon sequestration, and the provision of organic matter to other ecosystems in temperate regions.
+
+SOURCE: BioScience/Bioscience
+PDF URL: https://academic.oup.com/bioscience/article-pdf/66/11/938/14094120/biw111.pdf
+CITED BY COUNT: 123
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seagrass', 'Ecology', 'Detritus', 'Herbivore', 'Temperate climate', 'Ecosystem', 'Biological dispersal', 'Habitat', 'Primary producers', 'Environmental science', 'Biology', 'Phytoplankton', 'Population', 'Nutrient', 'Demography', 'Sociology']

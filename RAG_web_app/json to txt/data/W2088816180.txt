@@ -1,0 +1,12 @@
+ID: W2088816180
+TITLE: Seamount Characteristics and Mine-Site Model Applied to Exploration- and Mining-Lease-Block Selection for Cobalt-Rich Ferromanganese Crusts
+AUTHOR: ['James R. Hein', 'T. A. Conrad', 'Rachel E. Dunham']
+ABSTRACT:
+Abstract Regulations are being developed through the International Seabed Authority (ISBA) for the exploration and mining of cobalt-rich ferromanganese crusts. This paper lays out geologic and geomorphologic criteria that can be used to determine the size and number of exploration and mine-site blocks that will be the focus of much discussion within the ISBA Council deliberations. The surface areas of 155 volcanic edifices in the central equatorial Pacific were measured and used to develop a mine-site model. The mine-site model considers areas above 2,500 m water depth as permissive, and narrows the general area available for exploration and mining to 20% of that permissive area. It is calculated that about eighteen 100 km2 exploration blocks, each composed of five 20 km2 contiguous sub-blocks, would be adequate to identify a 260 km2 20-year-mine site; the mine site would be composed of thirteen of the 20 km2 sub-blocks. In this hypothetical example, the 260 km2 mine site would be spread over four volcanic edifices and comprise 3.7% of the permissive area of the four edifices and 0.01% of the total area of those four edifices. The eighteen 100 km2 exploration blocks would be selected from a limited geographic area. That confinement area is defined as having a long dimension of not more than 1,000 km and an area of not more than 300,000 km2. Keywords: ferromanganese crustslease-block sizesmine-site modelpermissive areasseamount characteristics We thank Charles Morgan, Planning Solutions, Inc., Honolulu Hawaii and Dan Mosier, USGS for very helpful reviews. Fruitful discussions with the past Secretary General of the ISBA, Satya Nandan, and the current Secretary General, Nii Odunton, are much appreciated. Discussions with Georgy Cherkashov, VNIIOkeangeologia, concerning confinement areas were useful in formulating the ideas discussed in this paper.
+
+SOURCE: Marine georesources & geotechnology
+PDF URL: None
+CITED BY COUNT: 92
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Ferromanganese', 'Geology', 'Site selection', 'Seamount', 'Volcano', 'Mining engineering', 'Geochemistry', 'Manganese', 'Chemistry', 'Organic chemistry', 'Political science', 'Law']

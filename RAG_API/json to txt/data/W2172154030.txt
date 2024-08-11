@@ -1,0 +1,12 @@
+ID: W2172154030
+TITLE: Factors influencing spatial patterns of molluscs in a eutrophic tropical bay
+AUTHOR: ['Raquel A. F. Neves', 'Carlos Alejandro Echeverría', 'L. A. Pessoa', 'Paulo Cesar Paiva', 'Rodolfo Paranhos', 'Jean Louis Valentin']
+ABSTRACT:
+Samples were collected from 10 stations distributed through three sectors in Guanabara Bay during two consecutive years, in order to determine factors that influence the spatial pattern of molluscs and to describe the structure and composition of this community in a eutrophic estuarine system on the Brazilian coast. Although only one species, the gastropod Heleobia australis , comprised 77% of mollusc abundance, 59 species were identified in the bay. In addition to H. australis , three other species were dominant: the gastropod Anachis isabellei and the bivalves Americuna besnardi and Ervilia concentrica . The mollusc communities were significantly influenced by the spatial gradient; the outermost sector has marine conditions, and the other sectors are typically estuarine, leading to differences in the composition and abundance of molluscs. The outermost sector showed the highest diversity, which gradually decreased towards the innermost sector where the dominance of a few opportunistic species is favoured by highly organic mud sediments. Sediment type was strongly correlated with mollusc occurrence in the bay. Guanabara Bay showed two indicator species: the bivalve E. concentrica of the outer sector, and the gastropod H. australis of the intermediate sector. Our results suggest that benthic molluscs in Guanabara Bay show characteristics related to levels of environmental impact. A monitoring programme based on this community is needed to evaluate the effects of human impacts on this community and to monitor changes in its biodiversity in Guanabara Bay.
+
+SOURCE: Journal of the Marine Biological Association of the United Kingdom/Journal of the Marine Biological Association of the UK
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Bay', 'Estuary', 'Dominance (genetics)', 'Benthic zone', 'Eutrophication', 'Ecology', 'Biology', 'Biodiversity', 'Abundance (ecology)', 'Fishery', 'Oceanography', 'Geology', 'Biochemistry', 'Nutrient', 'Gene']

@@ -1,0 +1,12 @@
+ID: W2769597554
+TITLE: A conceptual surrogacy framework to evaluate the habitat potential of submarine canyons
+AUTHOR: ['Zhi Huang', 'Thomas A. Schlacher', 'Scott Nichol', 'Alan Williams', 'Franziska Althaus', 'Rudy Kloser']
+ABSTRACT:
+The seascape of the vast Australian continental margin is characterised by numerous submarine canyons that represent an equally broad range of geomorphic and oceanographic heterogeneity. Theoretically, this heterogeneity translates into habitats that may vary widely in their ecological characteristics. Here we describe the methodology to develop a framework to broadly derive estimates of habitat potential for pelagic and epibenthic species (including demersal fishes), and benthic infauna in all of Australia’s known submarine canyons. Our analysis shows that the high geomorphic and oceanographic diversity of Australian submarine canyons creates a multitude of potential habitat types. In general, it appears that canyons may be particularly important habitats for benthic species. Canyons that incise the shelf tend to score higher in habitat potential than those confined to the slope. Canyons with particularly high habitat potential are located mainly offshore of the Great Barrier Reef and the NSW coast, on the eastern margin of Tasmania and Bass Strait, and on the southern Australian margin. Many of these canyons have complex bottom topography, are likely to have high primary and secondary production, and have less intense disturbance to sediment. The framework presented here can be applied – once refined and comprehensively validated with ecological data – to help managers make informed conservation decisions, especially for high value canyons.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Submarine canyon', 'Canyon', 'Habitat', 'Oceanography', 'Benthic zone', 'Demersal zone', 'Seascape', 'Marine protected area', 'Pelagic zone', 'Continental margin', 'Ecology', 'Continental shelf', 'Marine habitats', 'Fishery', 'Geology', 'Environmental science', 'Geomorphology', 'Biology', 'Paleontology', 'Tectonics']

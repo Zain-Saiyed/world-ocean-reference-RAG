@@ -1,0 +1,12 @@
+ID: W2944648906
+TITLE: Citizen-Science for the Future: Advisory Case Studies From Around the Globe
+AUTHOR: ['Christina Simoniello', 'Jennifer Jencks', 'Federico M. Lauro', 'Jon Derek Loftis', 'Jan Marcin Węsławski', 'Kajetan Deja', 'David R. Forrest', 'Sarah Gossett', 'Thomas C. Jeffries', 'Rachelle M. Jensen', 'Shinichi Kobara', 'Lindsey Nolan', 'Martin Ostrowski', 'Dana Pounds', 'Gabriel Roseman', 'Olivia Basco', 'Serge Gosselin', 'Adam V. Reed', 'Peter Wills', 'David Wyatt']
+ABSTRACT:
+The democratization of ocean observation has the potential to add millions of observations every day. Though not a solution for all ocean monitoring needs, citizen scientists offer compelling examples showcasing their ability to augment and enhance traditional research and monitoring. Information they are providing is increasing the spatial and temporal frequency and duration of sampling; reducing time and labor costs for academic and government monitoring programs; providing hands-on STEM learning related to real-world issues; and increasing public awareness and support for the scientific process. Examples provided here demonstrate the wide range of people who are already dramatically reducing gaps in our global observing network while at the same time providing unique opportunities to meaningfully engage in ocean observing and the research and conservation it supports. While there are still challenges to overcome before widespread inclusion in projects requiring scientific rigor, the growing organization of international citizen science associations is helping to reduce barriers. The case studies described support the idea that citizen scientists should be part of an effective global strategy for a sustained, multidisciplinary and integrated observing system.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00225/pdf
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Citizen science', 'Globe', 'Multidisciplinary approach', 'Government (linguistics)', 'Process (computing)', 'Inclusion (mineral)', 'Public relations', 'Duration (music)', 'Political science', 'Business', 'Environmental planning', 'Environmental resource management', 'Computer science', 'Sociology', 'Geography', 'Psychology', 'Environmental science', 'Social science', 'Art', 'Linguistics', 'Philosophy', 'Botany', 'Literature', 'Neuroscience', 'Law', 'Biology', 'Operating system']

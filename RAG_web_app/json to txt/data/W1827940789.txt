@@ -1,0 +1,12 @@
+ID: W1827940789
+TITLE: Refining the sampling approach for the massive coral Diploastrea heliopora for δ18O-based paleoclimate applications
+AUTHOR: ['Émilie Pauline Dassié', 'Braddock K. Linsley']
+ABSTRACT:
+Studies on the Indo-Pacific coral Diploastrea have demonstrated that this genera can potentially be used to generate multi-century length climate reconstructions, however some concerns remain regarding sampling protocols. This study further explores the utility of Diploastrea heliopora for paleoclimatic reconstructions by examining δ18O along short coral cores of D. heliopora and Porites lutea from Kandavu, Fiji. These results indicate that sampling of the columellar part of the corallite in D. heliopora is optimal to capture the full annual δ18O cycle and that bi-monthly (0.5 mm) sampling resolution is the optimal temporal resolution for the Kandavu D. heliopora. Results from Kandavu D. heliopora show high intra-core reproducibility as well as a significant correlation to a δ18O record from a nearby Porites colony (monthly resolution: r = 0.71, n = 186, df = 54, p = 0.01; annual resolution: r = 0.59, n = 16, df = 16, p = 0.01). At our Fiji study site, D. heliopora and Porites skeletal δ18O have similar sensitivities to sea surface temperature and sea surface salinity, validating the approach of using both coral species to create robust climate reconstructions. These results indicate that microanalyses of the columellar portion of D. heliopora skeleton produce time-series δ18O results similar in quality to that extracted from Porites.
+
+SOURCE: Palaeogeography, palaeoclimatology, palaeoecology
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2015
+TYPE: preprint
+CONCEPTS: ['Porites', 'Coral', 'δ18O', 'Sampling (signal processing)', 'Paleoclimatology', 'Oceanography', 'Geology', 'Sea surface temperature', 'Environmental science', 'Ice core', 'Physical geography', 'Climate change', 'Climatology', 'Stable isotope ratio', 'Geography', 'Physics', 'Filter (signal processing)', 'Quantum mechanics', 'Computer science', 'Computer vision']

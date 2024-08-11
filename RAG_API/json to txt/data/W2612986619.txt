@@ -1,0 +1,12 @@
+ID: W2612986619
+TITLE: Changes in organic carbon accumulation driven by mangrove expansion and deforestation in a New Zealand estuary
+AUTHOR: ['Alexander Pérez', 'Wilson Machado', 'Dimitri Gutiérrez', 'Debra Stokes', 'Luciana M. Sanders', 'Joseph M. Smoak', 'Isaac R. Santos', 'Christian J. Sanders']
+ABSTRACT:
+Mangroves are rapidly being lost to deforestation in many locations while expanding their areal extent in other subtropical and temperate regions. Currently, there is a paucity of information on how these changes may alter the carbon accumulation capacity of coastal areas. Here, sediment cores were collected from two areas and used to determine the influence of mangrove migration and deforestation on sediment carbon stocks and accumulation rates. The deforested area contained lower sedimentary organic carbon stocks (2767 ± 580 g m−2) compared to the preserved area (6949 ± 84 g m−2). Sediment accumulation rates, derived from excess 210Pb and 239+240Pu depositional signatures, ranged from 0.19 to 0.35 cm yr−1. The total sedimentary organic carbon (TOC) accumulation rates for the period after mangrove deforestation (2005–2011) exhibited significant differences between preserved areas (Core C: 43.9 ± 6.9 g m−2 yr−1; Core D: 83.1 ± 5.9 g m−2 yr−1) and the deforested area (Core B: 25.8 ± 6.0 g m−2 yr−1), suggesting a decline after deforestation. For the preserved area, the TOC accumulation under mangrove dominance (65.5 ± 16.3 g m−2 yr−1, after 1944) was higher than under saltmarsh dominance (23.5 ± 15.9 g m−2 yr−1, before 1944), as revealed by carbon isotopic signatures (δ13C). The increase in the TOC accumulation due to mangrove expansion in this New Zealand estuary was conservatively estimated as three-fold higher, and two-fold higher in stocks in comparison to the period when this ecosystem was dominated by non-mangrove vegetation.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Mangrove', 'Dominance (genetics)', 'Total organic carbon', 'Deforestation (computer science)', 'Estuary', 'Sedimentary depositional environment', 'Environmental science', 'Temperate climate', 'Sediment', 'Sedimentary rock', 'Subtropics', 'Geology', 'Ecology', 'Oceanography', 'Chemistry', 'Biology', 'Geochemistry', 'Geomorphology', 'Biochemistry', 'Structural basin', 'Computer science', 'Gene', 'Programming language']

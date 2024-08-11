@@ -1,0 +1,12 @@
+ID: W2988006499
+TITLE: 2018 Offshore Wind Technologies Market Report
+AUTHOR: ['Walter Musial', 'Philipp Beiter', 'Paul Spitsen', 'Jake Nunemaker', 'Vahan Gevorgian']
+ABSTRACT:
+Offshore wind energy is a rapidly growing global industry that creates electricity from wind turbines installed in coastal waters on either rigid or floating substructures anchored to the seabed or lake bottom. The 2018 Offshore Wind Technologies Market Report was developed by the National Renewable Energy Laboratory (NREL) with support from the U.S. Department of Energy (DOE) and is intended to provide offshore wind policymakers, regulators, developers, researchers, engineers, financiers, supply chain participants, and other stakeholders with up-to-date quantitative information about the offshore wind market, technology, and cost trends in the United States and worldwide. This report provides detailed information on the domestic offshore wind industry to contextualize the U.S. market and help policymakers, researchers, and the general public understand technical and market barriers and opportunities. Globally, the scope of the report covers the status of the 176 operating offshore wind projects through December 31, 2018, and provides the status of, and analysis on, a broader global pipeline of 838 projects in various stages of development. To provide the most up-to-date discussion of this dynamically evolving industry, this report also tracks the most significant domestic developments and events from January 1, 2018, through March 31, 2019. The following is a summary of the key offshore wind market findings.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2019
+TYPE: report
+CONCEPTS: ['Offshore wind power', 'Scope (computer science)', 'Submarine pipeline', 'Business', 'Wind power', 'Renewable energy', 'Engineering', 'Computer science', 'Electrical engineering', 'Geotechnical engineering', 'Programming language']

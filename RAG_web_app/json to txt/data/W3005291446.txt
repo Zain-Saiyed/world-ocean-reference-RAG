@@ -1,0 +1,12 @@
+ID: W3005291446
+TITLE: General health and residential proximity to the coast in Belgium: Results from a cross-sectional health survey
+AUTHOR: ['Alexander Hooyberg', 'Henk Roose', 'James Grellier', 'Lewis R. Elliott', 'Britt Lonneville', 'Mathew P. White', 'Nathalie Michels', 'Stefaan De Henauw', 'M. Vandegehuchte', 'Gert Everaert']
+ABSTRACT:
+The health risks of coastal areas have long been researched, but the potential benefits for health are only recently being explored. The present study compared the general health of Belgian citizens a) according to the EU's definition of coastal (<50 km) vs. inland (>50 km), and b) between eight more refined categories of residential proximity to the coast (<5 km to >250 km). Data was drawn from the Belgian Health Interview Survey (n = 60,939) and investigated using linear regression models and mediation analyses on several hypothesized mechanisms. Results indicated that populations living <5 km of the coast reported better general health than populations living at >50–100 km. Four commonly hypothesized mechanisms were considered but no indirect associations were found: scores for mental health, physical activity levels and social contacts were not higher at 0–5 km from the coast, and air pollution (PM10 concentrations) was lower at 0–5 km from the coast but not statistically associated with better health. Results are controlled for typical variables such as age, sex, income, neighbourhood levels of green and freshwater blue space, etc. The spatial urban-rural-nature mosaic at the Belgian coast and alternative explanations are discussed. The positive associations between the ocean and human health observed in this study encourage policy makers to manage coastal areas sustainably to maintain associated public health benefits into the future.
+
+SOURCE: Environmental research
+PDF URL: None
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Cross-sectional study', 'Environmental health', 'Geography', 'Medicine', 'Pathology']

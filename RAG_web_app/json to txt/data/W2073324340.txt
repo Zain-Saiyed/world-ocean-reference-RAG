@@ -1,0 +1,12 @@
+ID: W2073324340
+TITLE: The endangered Australian sea lion extensively overlaps with and regularly becomes by-catch in demersal shark gill-nets in South Australian shelf waters
+AUTHOR: ['Derek J. Hamer', 'Simon Goldsworthy', 'Daniel P. Costa', 'Shannon L. Fowler', 'Brad Page', 'Michael Sumner']
+ABSTRACT:
+Australian sea lions (Neophoca cinerea) have typically small breeding colonies, many of which are genetically distinct populations due to female philopatry (i.e. breeding site fidelity). This situation may increase the vulnerability of the species to decline when anthropogenic influences increase levels of mortality, even by small amounts. Anecdotal reports from South Australian shelf waters suggest Australian sea lions become by-caught and drown in demersal gill-nets used to catch sharks, or escape with life threatening entanglements. This study explored the potential impact of the operational interaction by estimating the (i) extent of geographic overlap and (ii) level of by-catch. Monitoring of Australian sea lion at-sea movements and of the demersal gill-net fishery confirmed spatial overlap between the two in 68.7% of 4 km2 grid cells across South Australian shelf waters and by-catch of 283–333 Australian sea lions each breeding cycle (193–227 each year). Recent changes to the management arrangements of demersal gill-netting in South Australian shelf waters are likely to have improved the situation for Australian sea lions, although it may be necessary to further refine aspects relating to (i) the effectiveness of untested electronic fishery monitoring methods, (ii) the efficacy of relatively small permanent fishery closures around breeding colonies and (iii) the efficiency in receiving, processing and responding to by-catch reports to ensure by-catch limits are not exceeded. Long-term monitoring at representative breeding colonies would be useful for determining if and where research and management should be prioritised. A recent report suggests a similar problem may exist in Western Australia, where approximately 14% of the species resides.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Demersal zone', 'Fishery', 'Demersal fish', 'Netting', 'Geography', 'Marine protected area', 'Oceanography', 'Fishing', 'Biology', 'Ecology', 'Geology', 'Habitat', 'Political science', 'Law']

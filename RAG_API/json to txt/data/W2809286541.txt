@@ -1,0 +1,12 @@
+ID: W2809286541
+TITLE: Recovery of coral assemblages despite acute and recurrent disturbances on a South Central Pacific reef
+AUTHOR: ['Mehdi Adjeroud', 'Mohsen Kayal', 'Claudie Iborra-Cantonnet', 'Julie Vercelloni', 'Pauline Bosserelle', 'Vetea Liao', 'Yannick Chancerelle', 'Joachim Claudet', 'Lucie Penin']
+ABSTRACT:
+Coral reefs are increasingly threatened by various types of disturbances, and their recovery is challenged by accelerating, human-induced environmental changes. Recurrent disturbances reduce the pool of mature adult colonies of reef-building corals and undermine post-disturbance recovery from newly settled recruits. Using a long-term interannual data set, we show that coral assemblages on the reef slope of Moorea, French Polynesia, have maintained a high capacity to recover despite a unique frequency of large-scale disturbances which, since the 1990s, have caused catastrophic declines in coral cover and abundance. In 2014, only four years after one of the most extreme cases of coral decline documented, abundance of juvenile and adult colonies had regained or exceeded pre-disturbance levels, and no phase-shift to macroalgal dominance was recorded. This rapid recovery has been achieved despite constantly low coral recruitment rates, suggesting a high post-disturbance survivorship of recruits. However, taxonomic differences in coral susceptibility to disturbances and contrasting recovery trajectories have resulted in changes in the relative composition of species. In the present context of global coral reef decline, our study establishes a new benchmark for the capacity of certain benthic reef communities to sustain and recover their coral cover from repeated, intense disturbances.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-27891-3.pdf
+CITED BY COUNT: 98
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Reef', 'Coral', 'Coral reef', 'Resilience of coral reefs', 'Benthic zone', 'Ecology', 'Disturbance (geology)', 'Dominance (genetics)', 'Acropora', 'Context (archaeology)', 'Aquaculture of coral', 'Anthozoa', 'Biology', 'Coral reef organizations', 'Abundance (ecology)', 'Geography', 'Fishery', 'Coral reef protection', 'Paleontology', 'Biochemistry', 'Gene']

@@ -1,0 +1,12 @@
+ID: W2912427353
+TITLE: Atypical biological features of a new cold seep site on the Lofoten-Vesterålen continental margin (northern Norway)
+AUTHOR: ['Arunima Sen', 'Tobias Himmler', 'Wei‐Li Hong', 'Cheshtaa Chitkara', 'Raymond W. Lee', 'Bénédicte Ferré', 'Aivo Lepland', 'Jochen Knies']
+ABSTRACT:
+A newly discovered cold seep from the Lofoten-Vesterålen margin (Norwegian Sea) is dominated by the chemosymbiotrophic siboglinid Oligobrachia haakonmosbiensis like other high latitude seeps, but additionally displays uncharacteristic features. Sulphidic bottom water likely prevents colonization by cnidarians and sponges, resulting in fewer taxa than deeper seeps in the region, representing a deviation from depth-related trends seen among seeps elsewhere. O. haakonmosbiensis was present among carbonate and barite crusts, constituting the first record of frenulates among hard substrates. The presence of both adults and egg cases indicate that Ambylraja hyperborea skates use the site as an egg case nursery ground. Due to sub-zero ambient temperatures (-0.7 °C), we hypothesize that small, seepage related heat anomalies aid egg incubation and prevent embryo mortality. We place our results within the context of high-latitude seeps and suggest they exert evolutionary pressure on benthic species, thereby selecting for elevated exploitation and occupancy of high-productivity habitats.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-38070-9.pdf
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Context (archaeology)', 'Ecology', 'Petroleum seep', 'Biology', 'Habitat', 'Continental margin', 'Oceanography', 'Geology', 'Paleontology', 'Tectonics', 'Methane']

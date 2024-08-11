@@ -1,0 +1,12 @@
+ID: W2542758955
+TITLE: The Structure and Distribution of Benthic Communities on a Shallow Seamount (Cobb Seamount, Northeast Pacific Ocean)
+AUTHOR: ['Cherisse Du Preez', 'Janelle M. R. Curtis', 'M. Elizabeth Clarke']
+ABSTRACT:
+Partially owing to their isolation and remote distribution, research on seamounts is still in its infancy, with few comprehensive datasets and empirical evidence supporting or refuting prevailing ecological paradigms. As anthropogenic activity in the high seas increases, so does the need for better understanding of seamount ecosystems and factors that influence the distribution of sensitive benthic communities. This study used quantitative community analyses to detail the structure, diversity, and distribution of benthic mega-epifauna communities on Cobb Seamount, a shallow seamount in the Northeast Pacific Ocean. Underwater vehicles were used to visually survey the benthos and seafloor in ~1600 images (~5 m2 in size) between 34 and 1154 m depth. The analyses of 74 taxa from 11 phyla resulted in the identification of nine communities. Each community was typified by taxa considered to provide biological structure and/or be a primary producer. The majority of the community-defining taxa were either cold-water corals, sponges, or algae. Communities were generally distributed as bands encircling the seamount, and depth was consistently shown to be the strongest environmental proxy of the community-structuring processes. The remaining variability in community structure was partially explained by substrate type, rugosity, and slope. The study used environmental metrics, derived from ship-based multibeam bathymetry, to model the distribution of communities on the seamount. This model was successfully applied to map the distribution of communities on a 220 km2 region of Cobb Seamount. The results of the study support the paradigms that seamounts are diversity 'hotspots', that the majority of seamount communities are at risk to disturbance from bottom fishing, and that seamounts are refugia for biota, while refuting the idea that seamounts have high endemism.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0165513&type=printable
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seamount', 'Benthic zone', 'Oceanography', 'Community structure', 'Ecology', 'Benthos', 'Geography', 'Geology', 'Biology']

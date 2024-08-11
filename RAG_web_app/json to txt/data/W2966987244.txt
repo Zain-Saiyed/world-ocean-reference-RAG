@@ -1,0 +1,12 @@
+ID: W2966987244
+TITLE: Rapid Coral Decay Is Associated with Marine Heatwave Mortality Events on Reefs
+AUTHOR: ['William Leggat', 'Emma F. Camp', 'David J. Suggett', 'Scott F. Heron', 'Alexander Fordyce', 'Stephanie G. Gardner', 'Lachlan Deakin', 'Michael L. Turner', 'Levi Beeching', 'Unnikrishnan Kuzhiumparambil', 'C. M. Eakin', 'Tracy D. Ainsworth']
+ABSTRACT:
+Severe marine heatwaves have recently become a common feature of global ocean conditions due to a rapidly changing climate [1, 2]. These increasingly severe thermal conditions are causing an unprecedented increase in the frequency and severity of mortality events in marine ecosystems, including on coral reefs [3]. The degradation of coral reefs will result in the collapse of ecosystem services that sustain over half a billion people globally [4, 5]. Here, we show that marine heatwave events on coral reefs are biologically distinct to how coral bleaching has been understood to date, in that heatwave conditions result in an immediate heat-induced mortality of the coral colony, rapid coral skeletal dissolution, and the loss of the three-dimensional reef structure. During heatwave-induced mortality, the coral skeletons exposed by tissue loss are, within days, encased by a complex biofilm of phototrophic microbes, whose metabolic activity accelerates calcium carbonate dissolution to rates exceeding accretion by healthy corals and far greater than has been documented on reefs under normal seawater conditions. This dissolution reduces the skeletal density and hardness and increases porosity. These results demonstrate that severe-heatwave-induced mortality events should be considered as a distinct biological phenomenon from bleaching events on coral reefs. We also suggest that such heatwave mortality events, and rapid reef decay, will become more frequent as the intensity of marine heatwaves increases and provides further compelling evidence for the need to mitigate climate change and instigate actions to reduce marine heatwaves.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982219308048/pdf
+CITED BY COUNT: 132
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coral reef', 'Reef', 'Coral bleaching', 'Coral', 'Marine ecosystem', 'Ecosystem', 'Resilience of coral reefs', 'Biology', 'Environmental issues with coral reefs', 'Ocean acidification', 'Oceanography', 'Ecology', 'Climate change', 'Anthozoa', 'Geology']

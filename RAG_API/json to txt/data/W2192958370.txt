@@ -1,0 +1,12 @@
+ID: W2192958370
+TITLE: Impacts of Wind Energy Development on Bats: A Global Perspective
+AUTHOR: ['Edward B. Arnett', 'Erin F. Baerwald', 'Fiona Mathews', 'Luísa Rodrigues', 'Armando Rodríguez‐Durán', 'Jens Rydell', 'Rafael Villegas‐Patraca', 'Christian C. Voigt']
+ABSTRACT:
+Wind energy continues to be one of the fastest growing renewable energyrenewable energy sources under development, and while representing a clean energy source, it is not environmentally neutral. Large numbers of bats are being killed at utility-scale wind energy facilities worldwide, raising concern about cumulative impacts of wind energy development on bat populations. We discuss our current state of knowledge on patterns of bat fatalitiesfatalities at wind facilities, estimates of fatalities, mitigationmitigation efforts, and policypolicy and conservation implications. Given the magnitude and extent of fatalities of bats worldwide, the conservation implications of understanding and mitigating bat fatalities at wind energy facilities are critically important and should be proactive and based on science rather than being reactive and arbitrary.
+
+SOURCE: Springer eBooks
+PDF URL: https://link.springer.com/content/pdf/10.1007%2F978-3-319-25220-9_11.pdf
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2015
+TYPE: book-chapter
+CONCEPTS: ['Wind power', 'Renewable energy', 'Environmental science', 'Energy development', 'Environmental resource management', 'Energy conservation', 'Scale (ratio)', 'Geography', 'Natural resource economics', 'Ecology', 'Cartography', 'Economics', 'Biology']

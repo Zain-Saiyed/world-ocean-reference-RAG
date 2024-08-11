@@ -1,0 +1,12 @@
+ID: W2058997872
+TITLE: Tracking of Arctic terns <i>Sterna paradisaea</i> reveals longest animal migration
+AUTHOR: ['Carsten Egevang', 'Iain J. Stenhouse', 'Richard A. Phillips', 'Aevar Petersen', 'James W. Fox', 'J. R. D. Silk']
+ABSTRACT:
+The study of long-distance migration provides insights into the habits and performance of organisms at the limit of their physical abilities. The Arctic tern Sterna paradisaea is the epitome of such behavior; despite its small size (<125 g), banding recoveries and at-sea surveys suggest that its annual migration from boreal and high Arctic breeding grounds to the Southern Ocean may be the longest seasonal movement of any animal. Our tracking of 11 Arctic terns fitted with miniature (1.4-g) geolocators revealed that these birds do indeed travel huge distances (more than 80,000 km annually for some individuals). As well as confirming the location of the main wintering region, we also identified a previously unknown oceanic stopover area in the North Atlantic used by birds from at least two breeding populations (from Greenland and Iceland). Although birds from the same colony took one of two alternative southbound migration routes following the African or South American coast, all returned on a broadly similar, sigmoidal trajectory, crossing from east to west in the Atlantic in the region of the equatorial Intertropical Convergence Zone. Arctic terns clearly target regions of high marine productivity both as stopover and wintering areas, and exploit prevailing global wind systems to reduce flight costs on long-distance commutes.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 477
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Sterna', 'Arctic', 'Tern', 'Geography', 'Flyway', 'Bird migration', 'Charadriiformes', 'Ecology', 'Shore', 'Biological dispersal', 'Fishery', 'Habitat', 'Biology', 'Population', 'Demography', 'Sociology']

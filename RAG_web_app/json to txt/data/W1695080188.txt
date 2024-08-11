@@ -1,0 +1,12 @@
+ID: W1695080188
+TITLE: Ocean Energy
+AUTHOR: ['Anthony Lewis', 'Segen F. Estefen', 'John Huckerby', 'Kwang Soo Lee', 'Walter Musial', 'Teresa Pontes', 'Julio Torres-Martinez', 'D. Bharathan', 'Howard P. Hanson', 'Garvin Heath', 'Frederic Louis', 'Sandvik Øystein Scråmestø', 'Amjad Abdulla', 'José Manuel Moreno', 'Yan You']
+ABSTRACT:
+Ocean energy offers the potential for long-term carbon emissions reduction but is unlikely to make a significant short-term contribution before 2020 due to its nascent stage of development. In 2009, additionally installed ocean capacity was less than 10 MW worldwide, yielding a cumulative installed capacity of approximately 300 MW by the end of 2009. All ocean energy technologies, except tidal barrages, are conceptual, undergoing research and development (R&D), or are in the pre-commercial prototype and demonstration stage. The performance of ocean energy technologies is anticipated to improve steadily over time as experience is gained and new technologies are able to access poorer quality resources. Whether these technical advances lead to sufficient associated cost reductions to enable broad-scale deployment of ocean energy is the most critical uncertainty in assessing the future role of ocean energy in mitigating climate change. Though technical potential is not anticipated to be a primary global barrier to ocean energy deployment, resource characteristics will require that local communities in the future select among multiple available ocean technologies to suit local resource conditions.
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2011
+TYPE: book-chapter
+CONCEPTS: ['Software deployment', 'Resource (disambiguation)', 'Marine energy', 'Environmental science', 'Environmental resource management', 'Climate change', 'Scale (ratio)', 'Environmental economics', 'Oceanography', 'Engineering', 'Computer science', 'Renewable energy', 'Geography', 'Geology', 'Computer network', 'Electrical engineering', 'Software engineering', 'Cartography', 'Economics']

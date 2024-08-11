@@ -1,0 +1,12 @@
+ID: W1964070880
+TITLE: Implementing marine spatial planning: A policy perspective
+AUTHOR: ['Ir. Cathy Plasman']
+ABSTRACT:
+Marine spatial planning is often confronted with different types of hurdles that make the implementation of plans and strategies more difficult than scientists and planners—who have done most of the preparatory work—have foreseen. How does this situation come about? Is it due to the lack of interest or will of politicians? Are the technical proposals and plans too complex or too far from reality? Do they cost too much without comparable benefits? What can be done to avoid this? Based on recent experience within Belgium, some suggestions for more effective implementation of marine spatial plans are presented in this paper from a policy-making perspective.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 51
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Perspective (graphical)', 'Marine spatial planning', 'Spatial planning', 'Work (physics)', 'Environmental planning', 'Computer science', 'Management science', 'Environmental resource management', 'Process management', 'Operations research', 'Business', 'Geography', 'Engineering', 'Economics', 'Artificial intelligence', 'Mechanical engineering']

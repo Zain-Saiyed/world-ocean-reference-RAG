@@ -1,0 +1,12 @@
+ID: W2411674494
+TITLE: Exploring the relationship between childhood obesity and proximity to the coast: A rural/urban perspective
+AUTHOR: ['Sophie Wood', 'Philippe R. Demougin', 'Sahran Higgins', 'Kerryn Husk', 'Benedict W. Wheeler', 'Mathew P. White']
+ABSTRACT:
+Childhood obesity is one of the 21st century's most serious global health challenges. Research suggests that better access to ‘greenspace’ (e.g. parks) may encourage physical activity and reduce the risk of obesity amongst children. We extend earlier work by considering childhood obesity in relation to proximity to the coast, using data from England's National Child Measurement Programme. Results suggest that although the overall prevalence of childhood obesity is slightly lower at the coast (−0.68% points comparing <1 km to >20 km, p<0.001), the relationship depends on area type. Specifically, although a coastal proximity gradient (lower obesity rates nearer the coast) was found for rural areas and smaller cities and towns, it was not present among large urban conurbations (interaction p-value<0.001). Coastal environments and access to them are changing in many areas, and research to explore potential impacts on child health is warranted.
+
+SOURCE: Health and place/Health & place (Online)
+PDF URL: None
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Obesity', 'Childhood obesity', 'Geography', 'Perspective (graphical)', 'Rural area', 'West coast', 'Work (physics)', 'Physical activity', 'Environmental health', 'Socioeconomics', 'Medicine', 'Sociology', 'Oceanography', 'Overweight', 'Mechanical engineering', 'Pathology', 'Artificial intelligence', 'Computer science', 'Internal medicine', 'Engineering', 'Physical medicine and rehabilitation', 'Geology']

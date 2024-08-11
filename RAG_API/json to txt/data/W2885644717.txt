@@ -1,0 +1,12 @@
+ID: W2885644717
+TITLE: Historical baselines in marine bioinvasions: Implications for policy and management
+AUTHOR: ['Henn Ojaveer', 'Bella S. Galil', 'James T. Carlton', 'Heidi K. Alleway', 'Philippe Goulletquer', 'Maiju Lehtiniemi', 'Agnese Marchini', 'Whitman Miller', 'Anna Occhipinti‐Ambrogi', 'Melita Peharda', 'Gregory M. Ruiz', 'Susan L. Williams', 'Anastasija Zaiko']
+ABSTRACT:
+The human-mediated introduction of marine non-indigenous species is a centuries- if not millennia-old phenomenon, but was only recently acknowledged as a potent driver of change in the sea. We provide a synopsis of key historical milestones for marine bioinvasions, including timelines of (a) discovery and understanding of the invasion process, focusing on transfer mechanisms and outcomes, (b) methodologies used for detection and monitoring, (c) approaches to ecological impacts research, and (d) management and policy responses. Early (until the mid-1900s) marine bioinvasions were given little attention, and in a number of cases actively and routinely facilitated. Beginning in the second half of the 20th century, several conspicuous non-indigenous species outbreaks with strong environmental, economic, and public health impacts raised widespread concerns and initiated shifts in public and scientific perceptions. These high-profile invasions led to policy documents and strategies to reduce the introduction and spread of non-indigenous species, although with significant time lags and limited success and focused on only a subset of transfer mechanisms. Integrated, multi-vector management within an ecosystem-based marine management context is urgently needed to address the complex interactions of natural and human pressures that drive invasions in marine ecosystems.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0202383&type=printable
+CITED BY COUNT: 109
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Indigenous', 'Timeline', 'Context (archaeology)', 'Marine ecosystem', 'Environmental resource management', 'Marine conservation', 'Geography', 'Ecology', 'Ecosystem management', 'Ecosystem', 'Environmental planning', 'Biology', 'Environmental science', 'Archaeology']

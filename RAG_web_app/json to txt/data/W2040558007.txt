@@ -1,0 +1,12 @@
+ID: W2040558007
+TITLE: Flux of biogenic carbon in oceans:size-dependent regulation by pelagic food webs
+AUTHOR: ['Louis Legendre', 'Michaud Jl']
+ABSTRACT:
+A central topic of modern biological oceanography is the flux of biogenic carbon (BC) towards large metazoans (i.e.renewable resources) and into deep waters (i.e.carbon sequestration, which may mitigate climate change).Two relevant characteristics of marine pelagic food webs are the turnover time of BC (r) and the size ratio of consumers to their food particles (5).Based on an extensive review of the literature, the present paper develops empirical equations to quantify the minimum turnover time ( T ~, )of BC incorporated in marine pelagic organisms and the residence time (7,) of BC above depth z, (e.g.1000 m), below which BC cannot rapidly return to the surface waters or the atmosphere.Both T , , and T, are used in conjunction with 5 to assess the food-web regulation of BC fluxes.The paper shows that T,,,, T,, and c provide objective criteria for defining functional groups of organisms that are well suited for studying food-web mediated C flux.As the size of organisms feeding on smaller prey increases, there is a proportional lengthening of T, , (incorporation of BC in the body mass of larger organisms) and proportional shortening of T, (aggregation in faster sinking faecal pellets).The resulting increased flux towards the pools of long-lived organic C (10-' c T c 10' yr) and sequestered BC (T > 102 yr) are significant for renewable resources and climate change, respectively
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps/164/m164p001.pdf
+CITED BY COUNT: 89
+PUBLICATION YEAR: 1998
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Food web', 'Carbon sequestration', 'Oceanography', 'Flux (metallurgy)', 'Environmental science', 'Ecology', 'Food chain', 'Ocean acidification', 'Climate change', 'Biology', 'Ecosystem', 'Chemistry', 'Carbon dioxide', 'Geology', 'Organic chemistry']

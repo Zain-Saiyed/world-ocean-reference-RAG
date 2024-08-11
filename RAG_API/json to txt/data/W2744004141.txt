@@ -1,0 +1,12 @@
+ID: W2744004141
+TITLE: An Ecosystem‐Based Approach to Evaluating Impacts and Management of Invasive Lionfish
+AUTHOR: ['David Chagaris', 'Samantha M. Binion‐Rock', 'Alex K. Bogdanoff', 'Kristen Dahl', 'Jennifer Granneman', 'Holden E. Harris', 'John A. Mohan', 'Merrill B. Rudd', 'Mary Kate Swenarton', 'Robert Ahrens', 'William F. Patterson', 'James A. Morris', 'Micheal S. Allen']
+ABSTRACT:
+Species invasions in marine ecosystems pose a threat to native fish communities and can disrupt the food webs that support valuable commercial and recreational fisheries. In the Gulf of Mexico, densities of invasive Indo‐Pacific Lionfish, Pterois volitans and P. miles , are among the highest in their invaded range. In a workshop setting held over a 2‐week period, we adapted an existing trophic dynamic model of the West Florida Shelf, located in the eastern Gulf of Mexico, to simulate the lionfish (both species) invasion and community effects over a range of harvest scenarios for both lionfish and native predators. Our results suggest small increases in lionfish harvest can reduce peak biomass by up to 25% and also that reduced harvest of native reef fish predators can lead to lower lionfish densities. This model can help managers identify target harvest and benefits of a lionfish fishery and inform the assessment and management of valuable reef fish fisheries.
+
+SOURCE: Fisheries
+PDF URL: None
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Fishery', 'Reef', 'Trophic level', 'Predation', 'Ecosystem', 'Invasive species', 'Range (aeronautics)', 'Fisheries management', 'Biomass (ecology)', 'Geography', 'Introduced species', 'Ecology', 'Biology', 'Fishing', 'Materials science', 'Composite material']

@@ -1,0 +1,12 @@
+ID: W1572662988
+TITLE: Extended Kalman Filter framework for forecasting shoreline evolution
+AUTHOR: ['Joseph W. Long', 'Nathaniel G. Plant']
+ABSTRACT:
+A shoreline change model incorporating both long‐ and short‐term evolution is integrated into a data assimilation framework that uses sparse observations to generate an updated forecast of shoreline position and to estimate unobserved geophysical variables and model parameters. Application of the assimilation algorithm provides quantitative statistical estimates of combined model‐data forecast uncertainty which is crucial for developing hazard vulnerability assessments, evaluation of prediction skill, and identifying future data collection needs. Significant attention is given to the estimation of four non‐observable parameter values and separating two scales of shoreline evolution using only one observable morphological quantity (i.e. shoreline position).
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2012GL052180
+CITED BY COUNT: 87
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Data assimilation', 'Shore', 'Kalman filter', 'Position (finance)', 'Ensemble Kalman filter', 'Computer science', 'Observable', 'Estimation', 'Econometrics', 'Hazard', 'Data mining', 'Meteorology', 'Geology', 'Extended Kalman filter', 'Artificial intelligence', 'Geography', 'Mathematics', 'Oceanography', 'Engineering', 'Physics', 'Systems engineering', 'Finance', 'Quantum mechanics', 'Economics', 'Chemistry', 'Organic chemistry']

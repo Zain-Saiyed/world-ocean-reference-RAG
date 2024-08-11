@@ -1,0 +1,12 @@
+ID: W2971859720
+TITLE: The seaweed resources of the Philippines
+AUTHOR: ['Gavino C. Trono', 'Danilo B. Largo']
+ABSTRACT:
+Abstract This review paper presents information on the production status of economically important seaweed species in the Philippines, new culture technologies for Halymenia durvillei and also an examination of the present but limited use of Sargassum . The country recorded its highest production volume of seaweeds (mainly eucheumatoids) in 2011 amounting to 1,840,832 metric tons (fresh weight). In the subsequent years, the Philippines recorded a steady decline in production which can be attributed to epiphytism, loss of genetic diversity due to the culture methods used (i.e. vegetative propagation), political unrest in the main farming areas of the Southern Philippines, and the frequent occurrence of typhoons. The more than 200,000 ha of farmable areas along available coastlines remain to be tapped and evaluated in order to determine which areas are suitable for seaweed farming. The haphazard harvesting of Sargassum led to the proclamation of Fisheries Order No. 250 which prohibits harvesting of Sargassum. Exploitation of Gelidiela acerosa remains a concern as there is no currently available culture technology for the species. The lack of comprehensive records on Philippine seaweed production needs to be addressed and its diverse algal resources remain to be explored.
+
+SOURCE: Botanica marina
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Sargassum', 'Agriculture', 'Algae', 'Fishery', 'Aquaculture', 'Geography', 'Biology', 'Ecology', 'Agroforestry', 'Fish <Actinopterygii>']

@@ -1,0 +1,12 @@
+ID: W2734790527
+TITLE: Mixture toxicity in the marine environment: Model development and evidence for synergism at environmental concentrations
+AUTHOR: ['David Deruytter', 'Jeroen Baert', 'Nancy Nevejan', 'Karel A.C. De Schamphelaere', 'Colin R. Janssen']
+ABSTRACT:
+Abstract Little is known about the effect of metal mixtures on marine organisms, especially after exposure to environmentally realistic concentrations. This information is, however, required to evaluate the need to include mixtures in future environmental risk assessment procedures. We assessed the effect of copper (Cu)–Nickel (Ni) binary mixtures on Mytilus edulis larval development using a full factorial design that included environmentally relevant metal concentrations and ratios. The reproducibility of the results was assessed by repeating this experiment 5 times. The observed mixture effects were compared with the effects predicted with the concentration addition model. Deviations from the concentration addition model were estimated using a Markov chain Monte‐Carlo algorithm. This enabled the accurate estimation of the deviations and their uncertainty. The results demonstrated reproducibly that the type of interaction—synergism or antagonism—mainly depended on the Ni concentration. Antagonism was observed at high Ni concentrations, whereas synergism occurred at Ni concentrations as low as 4.9 μg Ni/L. This low (and realistic) Ni concentration was 1% of the median effective concentration (EC50) of Ni or 57% of the Ni predicted‐no‐effect concentration (PNEC) in the European Union environmental risk assessment. It is concluded that results from mixture studies should not be extrapolated to concentrations or ratios other than those investigated and that significant mixture interactions can occur at environmentally realistic concentrations. This should be accounted for in (marine) environmental risk assessment of metals. Environ Toxicol Chem 2017;36:3471–3479. © 2017 SETAC.
+
+SOURCE: Environmental toxicology and chemistry
+PDF URL: None
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Environmental chemistry', 'Antagonism', 'Ecotoxicology', 'Mytilus', 'EC50', 'Environmental science', 'Chemistry', 'European union', 'Ecology', 'Biology', 'Biochemistry', 'Business', 'Receptor', 'In vitro', 'Economic policy']

@@ -1,0 +1,12 @@
+ID: W2007554848
+TITLE: A global assessment of seamount ecosystems knowledge using an ecosystem evaluation framework
+AUTHOR: ['Kristina Øie Kvile', 'Gerald H. Taranto', 'Tony J. Pitcher', 'Telmo Morato']
+ABSTRACT:
+Seamounts are ubiquitous habitats of the deep-sea, collectively forming an area as large as Europe. Their characteristics have led marine scientists to hypothesize a series of ‘seamount effects’ enhancing numbers of endemic species, rates of production and bentho-pelagic trophic transfers. These effects have profound implications for deep-sea management; collating the existing body of seamount knowledge to describe potential effects on individual seamounts is therefore of paramount importance. In the course of this study, relevant literature was searched for key geological, oceanographic and ecological seamount attributes, and assembled in a ‘Google Earth’ map and in an online database (the Seamount Ecosystem Evaluation Framework, SEEF, www.seamounteef.org), comprising 597 seamounts located in the Atlantic, Pacific, Southern and Mediterranean basins. Data collated were described both in terms of quality and quantity, and the status of past and present global seamount knowledge was assessed. In addition, we investigated to what extent the available information supports seamount functioning hypotheses. The analysis confirms that seamounts remain largely unexplored, with only 0.4–4% of the total seamount population directly sampled for scientific purposes. Some of the seamount hypotheses tested are better supported than others, for example, some seamounts may represent ‘oases’ of the abyssal plains and some may play a role in connecting benthic and pelagic communities. However, seamounts present heterogeneous geophysical settings, suggesting that not all seamounts affect the food webs and biogeochemical fluxes in the surrounding ocean in the same way. Therefore, SEEF constitutes a tool to identify features playing a key role in deep-sea ecosystems.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 64
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Seamount', 'Pelagic zone', 'Oceanography', 'Benthic zone', 'Geology', 'Geography']

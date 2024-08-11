@@ -1,0 +1,12 @@
+ID: W2802342740
+TITLE: The Dynamics of Expanding Mangroves in New Zealand
+AUTHOR: ['Erik Horstman', 'Carolyn J. Lundquist', 'Karin R. Bryan', 'R.H. Bulmer', 'Julia C. Mullarney', 'Debra Stokes']
+ABSTRACT:
+In contrast to the global trend of mangrove decline, New Zealand mangroves are rapidly expanding, facilitated by elevated sediment inputs in coastal waters as a consequence of large-scale land use changes following European settlement. New Zealand mangroves are at the southern limit of the global mangrove extent, which limits the tree height of Avicennia marina var. australasica, the only mangrove species present. Mangroves in New Zealand thrive in the sheltered environments of infilling drowned river valleys with abundant supply of fine terrigenous sediments, showing various stages of mangrove succession and expansion dynamics. Bio-physical interactions and carbon dynamics in these expanding temperate mangrove systems show similarities to, but also differ from those in tropical mangrove forests, for instance due to the limited height and complexity of the mangrove communities. Likewise, ecosystem services provided by New Zealand mangroves deviate from those offered by tropical mangroves. In particular, the association of mangrove expansion with the accumulation of (the increased supply of) fine sediments and the consequent change of estuarine ecosystems, has provoked a negative perception of mangrove expansion and subsequently led to mangrove clearance. Over recent decades, a body of knowledge has been developed regarding the planning and decision making relating to mangrove removal, yet there are still effects that are unknown, for example with respect to the post-clearance recovery of the original sandflat ecosystems. In this chapter we discuss the dynamics of New Zealand's expanding mangroves from a range of viewpoints, with the aim of elucidating the possible contributions of expanding mangroves to coastal ecosystem services, now and in the future. This chapter also reviews current policies and practice regarding mangrove removal in New Zealand and addresses the (un)known effects of mangrove clearance. These combined insights may contribute to the development of integrated coastal management strategies that recognise the full potential of expanding mangrove ecosystems.
+
+SOURCE: Coastal research library
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Mangrove', 'Avicennia marina', 'Ecology', 'Geography', 'Avicennia', 'Ecosystem', 'Environmental science', 'Biology']

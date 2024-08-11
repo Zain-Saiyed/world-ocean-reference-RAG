@@ -1,0 +1,12 @@
+ID: W2967896173
+TITLE: The State of the World's Mangrove Forests: Past, Present, and Future
+AUTHOR: ['Daniel A. Friess', 'Kerrylee Rogers', 'Catherine E. Lovelock', 'Ken W. Krauss', 'Stuart E. Hamilton', 'Joe Lee', 'Richard Lucas', 'Jurgenne H. Primavera', 'Anusha Rajkaran', 'Suhua Shi']
+ABSTRACT:
+Intertidal mangrove forests are a dynamic ecosystem experiencing rapid changes in extent and habitat quality over geological history, today and into the future. Climate and sea level have drastically altered mangrove distribution since their appearance in the geological record ∼75 million years ago (Mya), through to the Holocene. In contrast, contemporary mangrove dynamics are driven primarily by anthropogenic threats, including pollution, overextraction, and conversion to aquaculture and agriculture. Deforestation rates have declined in the past decade, but the future of mangroves is uncertain; new deforestation frontiers are opening, particularly in Southeast Asia and West Africa, despite international conservation policies and ambitious global targets for rehabilitation. In addition, geological and climatic processes such as sea-level rise that were important over geological history will continue to influence global mangrove distribution in the future. Recommendations are given to reframe mangrove conservation, with a view to improving the state of mangroves in the future.
+
+SOURCE: Annual review of environment and resources
+PDF URL: None
+CITED BY COUNT: 403
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Deforestation (computer science)', 'Geography', 'Climate change', 'Habitat', 'Intertidal zone', 'Distribution (mathematics)', 'Ecology', 'Agroforestry', 'Environmental protection', 'Environmental science', 'Computer science', 'Biology', 'Programming language', 'Mathematical analysis', 'Mathematics']

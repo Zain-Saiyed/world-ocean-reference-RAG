@@ -1,0 +1,12 @@
+ID: W2054585582
+TITLE: Anthropogenic and natural sources of ambient noise in the ocean
+AUTHOR: ['John A. Hildebrand']
+ABSTRACT:
+Ocean ambient noise results from both anthropogenic and natural sources.Different noise sources are dominant in each of 3 frequency bands: low (10 to 500 Hz), medium (500 Hz to 25 kHz) and high (> 25 kHz).The low-frequency band is dominated by anthropogenic sources: primarily, commercial shipping and, secondarily, seismic exploration.Shipping and seismic sources contribute to ambient noise across ocean basins, since low-frequency sound experiences little attenuation, allowing for long-range propagation.Over the past few decades the shipping contribution to ambient noise has increased by as much as 12 dB, coincident with a significant increase in the number and size of vessels comprising the world's commercial shipping fleet.During this time, oil exploration and construction activities along continental margins have moved into deeper water, and the long-range propagation of seismic signals has increased.Medium frequency sound cannot propagate over long ranges, owing to greater attenuation, and only local or regional (10s of km distant) sound sources contribute to the ambient noise field.Ambient noise in the mid-frequency band is primarily due to sea-surface agitation: breaking waves, spray, bubble formation and collapse, and rainfall.Various sonars (e.g. military and mapping), as well as small vessels, contribute anthropogenic noise at mid-frequencies.At high frequencies, acoustic attenuation becomes extreme so that all noise sources are confined to an area close to the receiver.Thermal noise, the result of Brownian motion of water molecules near the hydrophone, is the dominant noise source above about 60 kHz.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/theme/m395p005.pdf
+CITED BY COUNT: 811
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Ambient noise level', 'Noise (video)', 'Oceanography', 'Sound (geography)', 'Environmental science', 'Geology', 'Attenuation', 'Natural (archaeology)', 'Seismology', 'Physics', 'Computer science', 'Paleontology', 'Artificial intelligence', 'Image (mathematics)', 'Optics']

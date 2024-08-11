@@ -1,0 +1,12 @@
+ID: W2806621104
+TITLE: Variability of the Indonesian Throughflow in the Makassar Strait over the Last 30 ka
+AUTHOR: ['Weijia Fan', 'Zhimin Jian', 'Zhihui Chu', 'Haowen Dang', 'Yue Wang', 'Franck Bassinot', 'Xiqiu Han', 'Yongming Bian']
+ABSTRACT:
+The hydrological characteristics, including temperatures and salinities, of the upper water over the last 30 ka from two sites connected by the Indonesian Throughflow (ITF) across the Makassar Strait are reconstructed and compared. The thermocline hydrological gradient in the strait was larger during 13.4~19 ka BP and 24.2~27 ka BP than that in the Holocene. The weakened ITF during those periods in the last glacial period, corresponding to the decreased trade wind stress under an El Niño-like climate mean state, likely accounts for the increased thermocline gradient. The thermocline water temperature variabilities of the two sites, in particular the highest peaks at ~7 ka BP, are different from the records of the open western Pacific. Reoccurrence of the South China Sea Throughflow and thus a decreased surface throughflow along the Makassar Strait perhaps led to a warmer peak of thermocline temperature at ~7 ka BP than at ~11 ka BP.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-24055-1.pdf
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Throughflow', 'Thermocline', 'Oceanography', 'Holocene', 'Geology', 'Last Glacial Maximum', 'Glacial period', 'Climatology', 'Geomorphology', 'Soil science']

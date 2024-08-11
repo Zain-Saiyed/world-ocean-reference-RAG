@@ -1,0 +1,12 @@
+ID: W291844859
+TITLE: Extension Programming In Support of Public Policy For The Management of Aquaculture In Common Water Bodies
+AUTHOR: ['Michael A Rice']
+ABSTRACT:
+Many countries of Asia, including Indonesia, have experienced the problem of hypoxic fish kills among fish in netpens and fish corrals in various publicly-held water bodies. Fish farming in enclosures in public water bodies attractive because of low overhead costs in comparison to farming the identical species in constructed ponds. But aerobic bacterial degradation of feed and fish feces in common waters can lead to oxygen depletion, thus causing fish kills. Mass-balance and ecological carrying capacity models and education through and extension programming can be used to inform policy makers as to the maximum biomass of farmed fish allowable before risking hypoxia. Economic modeling of social costs and lost revenue in fish kills can also be used to inform and refine public policies. Tools for managing aquaculture carrying capacity might include managing demand for permits by increasing fees, holding auctions for fixed numbers of permits, or using a system of capping, developing offset charges for finfish effluents, and trading of rights to discharge. In this system, holders of finfish netpen permits would pay an offset to nearby aquafarmers conducting nutrient extractive forms of aquaculture (e.g. bivalve or seaweed farming), thus making often desired Integrated Multitrophic Aquaculture (IMTA) systems more economically viable. The important work of translating recommendations from environmental and economic modeling into practical public policy and management practice requires a considerable effort in extension programming and ongoing exchange among the scientific, industry, regulatory and policy-making communities.
+
+SOURCE: Aquacultura Indonesiana
+PDF URL: http://aquasiana.org/index.php/ai/article/download/22/16
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Aquaculture', 'Fish farming', 'Business', 'Revenue', 'Agriculture', 'Fish kill', 'Natural resource economics', 'Fishery', 'Environmental resource management', 'Ecology', 'Environmental science', 'Fish <Actinopterygii>', 'Economics', 'Nutrient', 'Biology', 'Accounting', 'Phytoplankton', 'Algal bloom']

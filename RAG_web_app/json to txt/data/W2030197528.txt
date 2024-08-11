@@ -1,0 +1,12 @@
+ID: W2030197528
+TITLE: The trophic roles of microzooplankton in marine systems
+AUTHOR: ['Albert Calbet']
+ABSTRACT:
+Abstract Calbet, A. 2008. The trophic roles of microzooplankton in marine systems. – ICES Journal of Marine Science, 65: 325–331. Microzooplankton (here defined as &lt;200 µm grazers) are key components of marine foodwebs. Their grazing significantly affects primary producers and usually exceeds that of mesozooplankton. However, our knowledge of the detailed roles that microzooplankton taxa play in marine ecosystems is surprisingly limited. Here, I identify the main protists responsible for most of the grazing impact on phytoplankton in two contrasting marine ecosystems: oligotrophic waters and productive waters, such as upwelling systems, spring blooms, and other blooms in nearshore and estuarine systems. Evidence indicates that pico- and nano-sized flagellates, which are routinely included with the microzooplankton size class of protists, appear to be the main grazers of phytoplankton in oligotrophic habitats, whereas heterotrophic and mixotrophic dinoflagellates are candidates for the dominant grazing impact in upwelling and other productive ecosystems. Microzooplankton are also important contributors to mesozooplankton diet, especially in oligotrophic areas, although the strength of the mesozooplankton–microzooplankton link is traditionally overlooked in plankton studies. As a final remark, this review emphasizes the need to develop suitable methods for studying the role of microbial grazers in the dynamics of marine ecosystems.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/65/3/325/29129925/fsn013.pdf
+CITED BY COUNT: 257
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Upwelling', 'Trophic level', 'Marine ecosystem', 'Microbial loop', 'Plankton', 'Ecosystem', 'Ecology', 'Primary producers', 'Oceanography', 'Zooplankton', 'Environmental science', 'Marine habitats', 'Food web', 'Habitat', 'Biology', 'Nutrient', 'Geology']

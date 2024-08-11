@@ -1,0 +1,12 @@
+ID: W2793388039
+TITLE: Contribution of Mangroves and Salt Marshes to Nature-Based Mitigation of Coastal Flood Risks in Major Deltas of the World
+AUTHOR: ['Rebecca Van Coppenolle', 'Christian Schwarz', 'Stijn Temmerman']
+ABSTRACT:
+Nature-based solutions are rapidly gaining interest in the face of global change and increasing flood risks. While assessments of flood risk mitigation by coastal ecosystems are mainly restricted to local scales, our study assesses the contribution of salt marshes and mangroves to nature-based storm surge mitigation in 11 large deltas around the world. We present a relatively simple GIS model that, based on globally available input data, provides an estimation of the tidal wetland’s capacity of risk mitigation at a regional scale. It shows the high potential of nature-based solutions, as tidal wetlands, to provide storm surge mitigation to more than 80% of the flood-exposed land area for 4 of the 11 deltas and to more than 70% of the flood-exposed population for 3 deltas. The magnitude of the nature-based mitigation, estimated as the length of the storm surge pathway crossing through tidal wetlands, was found to be significantly correlated to the total wetland area within a delta. This highlights the importance of conserving extensive continuous tidal wetlands as a nature-based approach to mitigate flood risks. Our analysis further reveals that deltas with limited historical wetland reclamation and therefore large remaining wetlands, such as the Mississippi, the Niger, and part of the Ganges-Brahmaputra deltas, benefit from investing in the conservation of their vast wetlands, while deltas with extensive historical wetland reclamation, such as the Yangtze and Rhine deltas, may improve the sustainability of flood protection programs by combining existing hard engineering with new nature-based solutions through restoration of former wetlands.
+
+SOURCE: Estuaries and coasts
+PDF URL: None
+CITED BY COUNT: 46
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Wetland', 'Storm surge', 'Salt marsh', 'Land reclamation', 'Flood myth', 'Marsh', 'Environmental science', 'Coastal flood', 'Flooding (psychology)', 'Delta', 'Hydrology (agriculture)', 'Floodplain', 'Mangrove', 'Population', 'Storm', 'Geography', 'Ecology', 'Climate change', 'Oceanography', 'Geology', 'Sea level rise', 'Archaeology', 'Aerospace engineering', 'Engineering', 'Biology', 'Psychology', 'Demography', 'Geotechnical engineering', 'Cartography', 'Sociology', 'Psychotherapist']

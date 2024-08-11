@@ -1,0 +1,12 @@
+ID: W2154965630
+TITLE: Chronic and intensive bottom trawling impairs deep-sea biodiversity and ecosystem functioning
+AUTHOR: ['Antonio Pusceddu', 'Silvia Bianchelli', 'Jacobo Martín', 'Pere Puig', 'Albert Palanqués', 'Pere Masqué', 'Roberto Danovaro']
+ABSTRACT:
+Bottom trawling has many impacts on marine ecosystems, including seafood stock impoverishment, benthos mortality, and sediment resuspension. Historical records of this fishing practice date back to the mid-1300s. Trawling became a widespread practice in the late 19th century, and it is now progressively expanding to greater depths, with the concerns about its sustainability that emerged during the first half of the 20th century now increasing. We show here that compared with untrawled areas, chronically trawled sediments along the continental slope of the north-western Mediterranean Sea are characterized by significant decreases in organic matter content (up to 52%), slower organic carbon turnover (ca. 37%), and reduced meiofauna abundance (80%), biodiversity (50%), and nematode species richness (25%). We estimate that the organic carbon removed daily by trawling in the region under scrutiny represents as much as 60-100% of the input flux. We anticipate that such an impact is causing the degradation of deep-sea sedimentary habitats and an infaunal depauperation. With deep-sea trawling currently conducted along most continental margins, we conclude that trawling represents a major threat to the deep seafloor ecosystem at the global scale.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/111/24/8861.full.pdf
+CITED BY COUNT: 274
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Bottom trawling', 'Trawling', 'Oceanography', 'Benthos', 'Fishery', 'Biodiversity', 'Environmental science', 'Meiobenthos', 'Species richness', 'Benthic zone', 'Ecosystem', 'Ecology', 'Geology', 'Fishing', 'Biology']

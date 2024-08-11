@@ -1,0 +1,12 @@
+ID: W164423294
+TITLE: Project Catch: A space based solution to combat illegal, unreported and unregulated fishing
+AUTHOR: ['Emmanouil Detsis', 'Yuval Brodsky', 'Peter Knudtson', 'Manuel Cuba', 'H. Fuqua', 'Bianca Szalai']
+ABSTRACT:
+Space assets have a unique opportunity to play a more active role in global resource management. There is a clear need to develop resource management tools in a global framework. Illegal, Unregulated and Unreported (IUU) fishing is placing pressure on the health and size of fishing stocks around the world. Earth observation systems can provide fishery management organizations with cost effective monitoring of large swaths of ocean. Project Catch is a fisheries management project based upon the complimentary, but independent Catch-VMS and Catch-GIS systems. Catch-VMS is a Vessel Monitoring System with increased fidelity over existing offerings. Catch-GIS is a Geographical Information System that combines VMS information with existing Earth Observation data and other data sources to identify Illegal, Unregulated and Unreported (IUU) fishing. Project Catch was undertaken by 19 Masters students from the 2010 class of the International Space University. In this paper, the space-based system architecture of Project Catch is presented and analyzed. The rationale for the creation of the system, as well as the engineering trade-off studies in its creation, are discussed. The Catch-VMS proposal was envisaged in order to address two specific problems: (1) the expansion of illegal fishing to high-latitude regions where existing satellite systems coverage is an issue and (2) the lack of coverage in remote oceanic regions due to reliance on coastal-based monitoring. Catch-VMS utilizes ship-borne transponders and hosted-payload receivers on a Global Navigation Satellite System in order to monitor the position and activity of compliant fishing vessels. Coverage is global and continuous with multiple satellites in view providing positional verification through multilateration techniques. The second part of the paper briefly describes the Catch-GIS system and investigates its cost of implementation.
+
+SOURCE: Acta astronautica
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Fishing', 'Payload (computing)', 'Computer science', 'Resource (disambiguation)', 'Environmental resource management', 'Business', 'Computer security', 'Fishery', 'Environmental science', 'Biology', 'Computer network', 'Network packet']

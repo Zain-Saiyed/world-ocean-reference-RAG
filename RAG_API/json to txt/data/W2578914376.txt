@@ -1,0 +1,12 @@
+ID: W2578914376
+TITLE: Shoreline changes in reef islands of the Central Pacific: Takapoto Atoll, Northern Tuamotu, French Polynesia
+AUTHOR: ['Virginie Duvat', 'Valentin Pillet']
+ABSTRACT:
+Atoll reef islands are considered highly vulnerable to the impacts of climate change. While accelerated sea-level rise is expected to destabilize reef islands, ocean warming and acidification are considered as major threats to coral reef growth, which is of primary importance for the persistence of islands and of food supply to islanders. Using multi-date aerial imagery, shoreline and island changes between 1969 and 2013 were assessed on Takapoto Atoll, Northern Tuamotu region, in French Polynesia. Results show that over the 44-year study period, 41% of islands were stable in area while 33% expanded and 26% contracted. Island expansion was the dominant mode of change on the leeward side of the atoll. Tropical Cyclone Orama (category 3, 1983) contributed to shoreline and island change on the windward side of the atoll through the reworking of previous storm deposits and the injection of fresh sediments in the island system (with up to 62% of an island's land area being covered with fresh sediments). Human activities contributed significantly to shoreline and island change throughout the atoll through infrastructure construction, the removal of the indigenous vegetation from a number of islets and sediment mining.
+
+SOURCE: Geomorphology
+PDF URL: None
+CITED BY COUNT: 67
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Atoll', 'Reef', 'Shore', 'Oceanography', 'Geology', 'Coral reef', 'Climate change', 'Archipelago', 'Physical geography', 'Geography']

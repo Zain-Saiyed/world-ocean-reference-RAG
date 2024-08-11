@@ -1,0 +1,12 @@
+ID: W2083112114
+TITLE: Deep‐sea reef fish assemblage patterns on the Blake Plateau(Western North Atlantic Ocean)
+AUTHOR: ['Steve W. Ross', 'Andrea M. Quattrini']
+ABSTRACT:
+Abstract Deep‐water coral habitats are scattered throughout slope depths (360–800 m) off the Southeastern United States (SEUS, Cape Lookout, North Carolina, to Cape Canaveral, Florida), contributing substantial structure and diversity to bottom habitats. In some areas ( e.g . off North Carolina) deep corals form nearly monotypic ( Lophelia pertusa ) high profile mounds, and in other areas ( e.g . off Florida) many species may colonize hard substrata. Deep coral and hard substrata ecosystems off the SEUS support a unique fish assemblage. Using the Johnson‐Sea‐Link submersible (in 2000–2005, 65 dives), and a remotely operated vehicle (in 2003, five dives), fishes were surveyed in nine deep reef study areas along the SEUS slope. Forty‐two benthic reef fish species occurred in deep reef habitats in these study areas. Species richness was greatest on the two coral banks off Cape Lookout, North Carolina (n = 23 and 27 species) and lowest on the two sites off Cape Canaveral, Florida (n = 7 and 8 species). Fish assemblages exhibited significantly (ANOSIM, Global R = 0.69, P = 0.001) different patterns among sites. Stations sampled off North Carolina (three study areas) formed a distinct group that differed from all dives conducted to the south. Although several species defined the fish assemblages at the North Carolina sites, Laemonema barbatulum , Laemonema melanurum, and Helicolenus dactylopterus generally had the most influence on the definition of the North Carolina group. Fish assemblages at three sites within the central survey area on the Blake Plateau were also similar to each other, and were dominated by Nezumia sclerorhynchus and L. melanurum. Synaphobranchus spp. and Neaumia sclerorhynchus differentiated the two southern sites off Cape Canaveral, Florida, from the other station groups. Combinations of depth and habitat type had the most influence on these station groups; however, explicit mechanisms contributing to the organization of these assemblages remain unclear.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Species richness', 'Coral', 'Oceanography', 'Habitat', 'Plateau (mathematics)', 'Geography', 'Benthic zone', 'Coral reef fish', 'Fishery', 'Ecology', 'Cape', 'Geology', 'Biology', 'Archaeology', 'Mathematical analysis', 'Mathematics']

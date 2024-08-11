@@ -1,0 +1,12 @@
+ID: W1832809507
+TITLE: A new estimate of the CaCO<sub>3</sub> to organic carbon export ratio
+AUTHOR: ['Jorge L. Sarmiento', 'John Dunne', 'Anand Gnanadesikan', 'Robert M. Key', 'Katsumi Matsumoto', 'Richard D. Slater']
+ABSTRACT:
+We use an ocean biogeochemical‐transport box model of the top 100 m of the water column to estimate the CaCO 3 to organic carbon export ratio from observations of the vertical gradients of potential alkalinity and nitrate. We find a global average molar export ratio of 0.06 ± 0.03. This is substantially smaller than earlier estimates of 0.25 on which a majority of ocean biogeochemical models had based their parameterization of CaCO 3 production. Contrary to the pattern of coccolithophore blooms determined from satellite observations, which show high latitude predominance, we find maximum export ratios in the equatorial region and generally smaller ratios in the subtropical and subpolar gyres. Our results suggest a dominant contribution to global calcification by low‐latitude nonbloom forming coccolithophores or other organisms such as foraminifera and pteropods.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: None
+CITED BY COUNT: 186
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Coccolithophore', 'Biogeochemical cycle', 'Oceanography', 'Alkalinity', 'Environmental science', 'Latitude', 'Dissolved organic carbon', 'Total organic carbon', 'Subtropics', 'Carbon fibers', 'Ocean gyre', 'Water column', 'Geology', 'Chemistry', 'Phytoplankton', 'Environmental chemistry', 'Nutrient', 'Biology', 'Ecology', 'Materials science', 'Organic chemistry', 'Geodesy', 'Composite number', 'Composite material']

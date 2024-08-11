@@ -1,0 +1,12 @@
+ID: W2118158075
+TITLE: New perspectives on sea use management: Initial findings from European experience with marine spatial planning
+AUTHOR: ['Fanny Douvere', 'Charles N. Ehler']
+ABSTRACT:
+Increased development pressures on the marine environment and the potential for multiple use conflicts, arising as a result of the current expansion of offshore wind energy, fishing and aquaculture, dredging, mineral extraction, shipping, and the need to meet international and national commitments to biodiversity conservation, have led to increased interest in sea use planning with particular emphasis on marine spatial planning. Several European countries, on their own initiative or driven by the European Union's Marine Strategy and Maritime Policy, the Bergen Declaration of the North Sea Conference, and the EU Recommendation on Integrated Coastal Zone Management, have taken global leadership in implementing marine spatial planning. Belgium, The Netherlands, and Germany in the North Sea, and the United Kingdom in the Irish Sea, have already completed preliminary sea use plans and zoning proposals for marine areas within their national jurisdictions. This paper discusses the nature and context of marine spatial planning, the international legal and policy framework, and the increasing need for marine spatial planning in Europe. In addition, the authors review briefly three marine spatial planning initiatives in the North Sea and conclude with some initial lessons learned from these experiences.
+
+SOURCE: Journal of environmental management
+PDF URL: None
+CITED BY COUNT: 338
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Marine spatial planning', 'Spatial planning', 'Zoning', 'Environmental planning', 'Marine conservation', 'Context (archaeology)', 'European union', 'Environmental resource management', 'Marine Strategy Framework Directive', 'Geography', 'Business', 'Environmental science', 'Engineering', 'Civil engineering', 'Ecology', 'Archaeology', 'Ecosystem', 'Biology', 'Economic policy']

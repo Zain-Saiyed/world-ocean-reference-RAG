@@ -1,0 +1,12 @@
+ID: W2904769549
+TITLE: Seabed Mining and Approaches to Governance of the Deep Seabed
+AUTHOR: ['K. F. Thompson', 'Kathryn Miller', 'Duncan Currie', 'Paul Johnston', 'David Santillo']
+ABSTRACT:
+-Commercial seabed mining seems imminent, highlighting the urgent need for coherent, effective policy to safeguard the marine environment. -Reconciling seabed mining with the United Nations Sustainable Development Goals will be difficult because minerals extraction will have irreversible consequences that could lead to the loss of habitats, species and ecosystems services. -A dialogue needs to take place around social, cultural, environmental and economic costs and benefits. -Governance of human interactions with the seabed is fragmented and lacks transparency, with a heavy focus on facilitating exploitation rather than ensuring protection. -With high uncertainties and high stakes, we present a critical review of proposed policy options for the regulation of seabed mining activities, recommend actions to improve seabed governance and outline the alternatives to mining fragile deep-sea ecosystems.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00480/pdf
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seabed', 'Transparency (behavior)', 'Corporate governance', 'Environmental resource management', 'Environmental planning', 'Business', 'Marine ecosystem', 'Ecosystem', 'Ecosystem services', 'Oceanography', 'Environmental science', 'Political science', 'Geology', 'Ecology', 'Finance', 'Biology', 'Law']

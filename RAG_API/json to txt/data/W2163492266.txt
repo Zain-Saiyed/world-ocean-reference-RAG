@@ -1,0 +1,12 @@
+ID: W2163492266
+TITLE: Integrated Ecosystem Assessments: Developing the Scientific Basis for Ecosystem-Based Management of the Ocean
+AUTHOR: ['Phillip S. Levin', 'Michael J. Fogarty', 'Steven A. Murawski', 'David Fluharty']
+ABSTRACT:
+Integrated ecosystem assessments challenge the broader scientific community to move beyond the important task of tallying insults to marine ecosystems to developing quantitative tools that can support the decisions national and regional resource managers must make.
+
+SOURCE: PLoS biology
+PDF URL: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1000014&type=printable
+CITED BY COUNT: 600
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Biology', 'Ecosystem', 'Environmental resource management', 'Ecosystem approach', 'Ecosystem management', 'Ecology', 'Environmental science']

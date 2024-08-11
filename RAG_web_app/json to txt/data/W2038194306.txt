@@ -1,0 +1,12 @@
+ID: W2038194306
+TITLE: Lost fishing gear and litter at Gorringe Bank (NE Atlantic)
+AUTHOR: ['Rui P. Vieira', 'Isabel P. Raposo', 'Paula Sobral', 'Jorge M. S. Gonçalves', 'Katherine L. Bell', 'Marina R. Cunha']
+ABSTRACT:
+Studies concerning marine litter have received great attention over the last several years by the scientific community mainly due to their ecological and economic impacts in marine ecosystems, from coastal waters to the deep ocean seafloor. The distribution, type and abundance of marine litter in Ormonde and Gettysburg, the two seamounts of Gorringe Bank, were analyzed from photo and video imagery obtained during ROV-based surveys carried out at 60–3015 m depths during the E/V Nautilus cruise NA017. Located approximately 125 nm southwest of Portugal, Gorringe Bank lays at the crossroad between the Atlantic and the Mediterranean and is therefore characterized by an intense maritime traffic and fishing activities. The high frequency of lost or discarded fishing gear, such as cables, longlines and nets, observed on Gorringe Bank suggests an origin mostly from fishing activities, with a clear turnover in the type of litter (mostly metal, glass and to a much lesser extent, plastic) with increasing depth. Litter was more abundant at the summit of Gorringe Bank (ca. 4 items·km− 1), decreasing to less than 1 item·km− 1 at the flanks and to ca. 2 items·km− 1 at greater depths. Nevertheless, litter abundance appeared to be lower than in continental margin areas. The results presented herein are a contribution to support further actions for the conservation of vulnerable habitats on Gorringe Bank so that they can continue contributing to fishery productivity in the surrounding region.
+
+SOURCE: Journal of sea research
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S1385110114001774
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Marine debris', 'Seamount', 'Oceanography', 'Fishing', 'Bottom trawling', 'Fishery', 'Litter', 'Seafloor spreading', 'Marine ecosystem', 'Marine habitats', 'Geology', 'Continental margin', 'Bathyal zone', 'Habitat', 'Ecosystem', 'Benthic zone', 'Ecology', 'Paleontology', 'Trawling', 'Biology', 'Debris', 'Tectonics']

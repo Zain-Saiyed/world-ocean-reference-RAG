@@ -1,0 +1,12 @@
+ID: W2214058817
+TITLE: Rates and drivers of mangrove deforestation in Southeast Asia, 2000–2012
+AUTHOR: ['Daniel R. Richards', 'Daniel A. Friess']
+ABSTRACT:
+The mangrove forests of Southeast Asia are highly biodiverse and provide multiple ecosystem services upon which millions of people depend. Mangroves enhance fisheries and coastal protection, and store among the highest densities of carbon of any ecosystem globally. Mangrove forests have experienced extensive deforestation owing to global demand for commodities, and previous studies have identified the expansion of aquaculture as largely responsible. The proportional conversion of mangroves to different land use types has not been systematically quantified across Southeast Asia, however, particularly in recent years. In this study we apply a combined geographic information system and remote sensing method to quantify the key proximate drivers (i.e., replacement land uses) of mangrove deforestation in Southeast Asia between 2000 and 2012. Mangrove forests were lost at an average rate of 0.18% per year, which is lower than previously published estimates. In total, more than 100,000 ha of mangroves were removed during the study period, with aquaculture accounting for 30% of this total forest change. The rapid expansion of rice agriculture in Myanmar, and the sustained conversion of mangroves to oil palm plantations in Malaysia and Indonesia, are identified as additional increasing and under-recognized threats to mangrove ecosystems. Our study highlights frontiers of mangrove deforestation in the border states of Myanmar, on Borneo, and in Indonesian Papua. To implement policies that conserve mangrove forests across Southeast Asia, it is essential to consider the national and subnational variation in the land uses that follow deforestation.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/113/2/344.full.pdf
+CITED BY COUNT: 746
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Mangrove', 'Deforestation (computer science)', 'Geography', 'Agroforestry', 'Biodiversity', 'Ecosystem', 'Tropics', 'Southeast asia', 'Ecosystem services', 'Aquaculture', 'Land use', 'Forestry', 'Environmental protection', 'Ecology', 'Fishery', 'Environmental science', 'Biology', 'History', 'Ancient history', 'Computer science', 'Programming language', 'Fish <Actinopterygii>']

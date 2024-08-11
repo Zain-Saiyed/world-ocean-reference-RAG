@@ -1,0 +1,12 @@
+ID: W2345907652
+TITLE: Dense bottom gravity currents and their impact on pelagic methanotrophy at oxic/anoxic transition zones
+AUTHOR: ['Oliver Schmale', 'Stefan Krause', 'Peter Holtermann', 'Nicole C. Power Guerra', 'Lars Umlauf']
+ABSTRACT:
+Abstract We show that inflows of oxygenated waters into sulfidic layers have a strong impact on biogeochemical transformation at oxic/anoxic transition zones. Taking the pelagic methane dynamics in the Gotland Basin as an example, we performed our studies when one of the largest inflows ever recorded entered the Baltic Sea in March 2015. An inflowing gravity current transported oxic waters into the sulfidic deep layers and freshly generated a near‐bottom secondary redox interface. At the upper slope, where the inflowing water masses were vigorously turbulent and the main and secondary redox interfaces in close contact to each other, methane oxidation rates inside the transition zone were found to be higher compared to the weakly turbulent basin interior. At the main redox interface in the basin center, lateral intrusions of oxygenated waters into intermediate water depth may have stimulated the growth of the methanotrophic community and their activity.
+
+SOURCE: Geophysical research letters
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2016GL069032
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Anoxic waters', 'Biogeochemical cycle', 'Pelagic zone', 'Geology', 'Oceanography', 'Bottom water', 'Methane', 'Bioturbation', 'Structural basin', 'Redox', 'Paleontology', 'Environmental chemistry', 'Sediment', 'Ecology', 'Chemistry', 'Organic chemistry', 'Biology']

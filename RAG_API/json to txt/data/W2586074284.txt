@@ -1,0 +1,12 @@
+ID: W2586074284
+TITLE: Nature of Plastic Marine Pollution in the Subtropical Gyres
+AUTHOR: ['Marcus Eriksen', 'Martín Thiel', 'Laurent Lebreton']
+ABSTRACT:
+The abundance and distribution of plastic debris in the marine environment show patterns of near- and offshore generation, migration toward and accumulation in the subtropical gyres, fragmentation, and redistribution globally. Ecological impacts in the subtropical gyres include invasive species transport and rampant ingestion and entanglement; yet plastics have also created substantial new habitat, resulting in population increases in some species. Though estimates of surface abundance and weight indicate over a quarter million tons and particle counts in the trillions, there is also a rapid removal of microplastics from the sea surface. Recent studies show widespread occurrence of these microplastics throughout the vertical column and in benthic and coastal sediments. It is likely that sedimentation is the ultimate fate for plastic lost at sea. Before microplastics sink, they likely cause significant impacts to marine food chains and ecosystems. In the open ocean, plastics are mingled with marine communities, making removal at sea prohibitive. This new understanding informs mitigation efforts to divert attention away from open-ocean cleanup. Similar to the way societies dealt with widely distributed particulate contamination in the air above cities, the "smog" of microplastics destined to pass through marine ecosystems before finally settling on the seafloor is best addressed with preventative measures.
+
+SOURCE: The handbook of environmental chemistry
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['Microplastics', 'Plastic pollution', 'Ocean gyre', 'Marine debris', 'Environmental science', 'Oceanography', 'Marine ecosystem', 'Pelagic zone', 'Benthic zone', 'Population', 'Subtropics', 'Biota', 'Food chain', 'Plankton', 'Ecosystem', 'Debris', 'Fishery', 'Ecology', 'Geology', 'Biology', 'Demography', 'Sociology']

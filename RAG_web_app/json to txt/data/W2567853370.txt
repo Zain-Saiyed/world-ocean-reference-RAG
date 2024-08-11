@@ -1,0 +1,12 @@
+ID: W2567853370
+TITLE: Trophic position of Antarctic ice fishes reflects food web structure along a gradient in sea ice persistence
+AUTHOR: ['Rebecca M. McMullin', 'Stephen R. Wing', 'Lucy C. Wing', 'Olga Shatova']
+ABSTRACT:
+Variation in sea ice conditions is closely linked to primary production in Antarctica, which, in turn, influences food web dynamics.To investigate how sea ice dynamics are reflected in food web structure, we measured the trophic level and composition of basal organic matter supporting the prey base of 2 benthic and 2 pelagic ice fish species collected from sites along a gradient in sea ice persistence in McMurdo Sound, Ross Sea, Antarctica.Stable isotope analysis (δ 15 N and δ 13 C) was carried out on samples collected from multiple sites during 2008 and 2012 to 2014.General linear models revealed that 'trophic position' differed among species at a single site, and within benthic species among sites distributed along the gradient in sea ice persistence.Benthic species located at the southernmost sites in McMurdo Sound derived the highest proportion of diet from food webs supported by the sea ice microbial community (SIMCO), an important subsidy of organic matter to the sea-floor environment.Increased thickness and persistence of sea ice in McMurdo Sound due to the presence of icebergs resulted in a higher proportion of diet derived from SIMCO for the ice fish Trematomus bernacchii in 2008 compared to the 2012 to 2014 period.Analyses of dispersion for individual trophic positions revealed that individual level specialisation was lowest at sites with the highest variability in sea ice cover.These results provide evidence for linkages between sea ice dynamics and food web structure, and highlight the role of ice fishes as sentinels for environmental and ecological changes in Antarctica.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps_oa/m564p087.pdf
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sea ice', 'Food web', 'Trophic level', 'Oceanography', 'Benthic zone', 'Pelagic zone', 'Arctic ice pack', 'Ecology', 'Geology', 'Environmental science', 'Biology']

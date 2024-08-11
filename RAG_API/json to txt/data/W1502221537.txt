@@ -1,0 +1,12 @@
+ID: W1502221537
+TITLE: A Census of Zooplankton of the Global Ocean
+AUTHOR: ['Ann Bucklin', 'Shuhei Nishida', 'Sigrid B Schnack-Schiel', 'Peter H. Wiebe', 'Dhugal J. Lindsay', 'Ryuji J. Machida', 'Nancy Copley']
+ABSTRACT:
+This chapter contains sections titled: Introduction Historical Perspective Approaches to the Study of Marine Zooplankton Results from CMarZ Significance and Impacts Challenges and Opportunities for the Future Acknowledgments References
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2010
+TYPE: other
+CONCEPTS: ['Zooplankton', 'Census', 'Perspective (graphical)', 'Oceanography', 'Geography', 'Environmental science', 'Fishery', 'Biology', 'Computer science', 'Geology', 'Sociology', 'Demography', 'Population', 'Artificial intelligence']

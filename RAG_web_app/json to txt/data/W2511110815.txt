@@ -1,0 +1,12 @@
+ID: W2511110815
+TITLE: Salt marsh persistence is threatened by predicted sea-level rise
+AUTHOR: ['Sarah C. Crosby', 'Dov F. Sax', 'Megan E. Palmer', 'Harriet S. Booth', 'Linda A. Deegan', 'Mark D. Bertness', 'Heather M. Leslie']
+ABSTRACT:
+Salt marshes buffer coastlines and provide critical ecosystem services from storm protection to food provision. Worldwide, these ecosystems are in danger of disappearing if they cannot increase elevation at rates that match sea-level rise. However, the magnitude of loss to be expected is not known. A synthesis of existing records of salt marsh elevation change was conducted in order to consider the likelihood of their future persistence. This analysis indicates that many salt marshes did not keep pace with sea-level rise in the past century and kept pace even less well over the past two decades. Salt marshes experiencing higher local sea-level rise rates were less likely to be keeping pace. These results suggest that sea-level rise will overwhelm most salt marshes’ capacity to maintain elevation. Under the most optimistic IPCC emissions pathway, 60% of the salt marshes studied will be gaining elevation at a rate insufficient to keep pace with sea-level rise by 2100. Without mitigation of greenhouse gas emissions this potential loss could exceed 90%, which will have substantial ecological, economic, and human health consequences.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S0272771416302724
+CITED BY COUNT: 198
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Marsh', 'Pace', 'Ecosystem', 'Sea level', 'Environmental science', 'Elevation (ballistics)', 'Threatened species', 'Climate change', 'Global warming', 'Ecosystem services', 'Ecology', 'Environmental protection', 'Geography', 'Wetland', 'Physical geography', 'Biology', 'Habitat', 'Geometry', 'Mathematics', 'Geodesy']

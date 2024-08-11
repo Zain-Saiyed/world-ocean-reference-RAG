@@ -1,0 +1,12 @@
+ID: W2426839010
+TITLE: Impacts of climate change on submerged and emergent wetland plants
+AUTHOR: ['Frederick T. Short', 'Sarian Kosten', 'Pamela A. Morgan', 'Sparkle L. Malone', 'Gregg E. Moore']
+ABSTRACT:
+Submerged and emergent wetland plant communities are evaluated for their response to global climate change (GCC), focusing on seagrasses, submerged freshwater plants, tidal marsh plants, freshwater marsh plants and mangroves. Similarities and differences are assessed in plant community responses to temperature increase, CO2 increase, greater UV-B exposure, sea level rise and other expected environmental alterations associated with GCC. Responses to most climate change variables are more similar within submerged plant communities, marine or freshwater, than between submerged vs. emergent plant communities. The submerged plants are most affected by temperature increases and indirect impacts on water clarity. Emergent plant communities (marshes and mangroves) respond most directly to climate change related hydrological alterations. Wetland plant communities overall appear to be adversely impacted by all climate change variables, with the exception of increased CO2 in the atmosphere and the oceans, which in most cases increases photosynthesis. Effects of GCC on all these communities have already been seen with many others predicted, including: shifts in species composition, shifts in range and distribution, and declines in plant species richness. Other effects are associated with specific community types, e.g., salt marsh habitat lost to mangrove incursion, and decreases in submerged macrophyte coverage in lakes and estuaries, exacerbated by eutrophication. Sea level rise poses threats to all aquatic plant community types in the vicinity of the oceans, and changes in weather patterns and salinity will affect many. Overall, losses are likely in all these wetland plant communities yet their species can adapt to GCC to some degree if well managed and protected.
+
+SOURCE: Aquatic botany
+PDF URL: None
+CITED BY COUNT: 169
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Wetland', 'Marsh', 'Mangrove', 'Plant community', 'Climate change', 'Salt marsh', 'Ecology', 'Macrophyte', 'Environmental science', 'Aquatic plant', 'Habitat', 'Eutrophication', 'Species richness', 'Biology', 'Nutrient']

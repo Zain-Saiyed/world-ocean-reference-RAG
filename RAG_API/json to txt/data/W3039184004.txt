@@ -1,0 +1,12 @@
+ID: W3039184004
+TITLE: An evaluation of the wind energy dynamics in the Baltic Sea, past and future projections
+AUTHOR: ['Eugen Rusu']
+ABSTRACT:
+The objective of the present work is to analyse the expected dynamics of the wind energy in the Baltic Sea. From the 18 offshore wind farms currently operating there, 10 locations with higher installed capacity have been selected as reference. The wind data delivered by a Regional Climate Model (RCM) are processed and analysed considering the Representative Concentration Pathway (RCP) scenarios 4.5 and 8.5. The novelty of the proposed study consists in the fact that this is focused on the assessment of the expected average and extreme wind power, considering the 30-year time window 2021–2050. Furthermore, in order to make a comparison, an analysis of the historical wind data coming from the same RCM corresponding to the past 30-year period 1976–2005 is also carried out. The results indicate a slight enhancement of the wind power, which is higher for RCP4.5. Some locations where the wind power enhancement is expected to be more significant have been also identified. Finally, it can be noticed that while for the historical data the trend indicates a constant tendency, as regards the near future period (2021–2050) the trends show a tendency of enhancement of the wind power, which is higher for RCP 8.5.
+
+SOURCE: Renewable energy
+PDF URL: None
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Wind power', 'Offshore wind power', 'Environmental science', 'Baltic sea', 'Meteorology', 'Wind speed', 'Climate change', 'Climatology', 'Geography', 'Oceanography', 'Geology', 'Engineering', 'Electrical engineering']

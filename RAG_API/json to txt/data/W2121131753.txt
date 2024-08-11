@@ -1,0 +1,12 @@
+ID: W2121131753
+TITLE: Carbon‐based primary productivity modeling with vertically resolved photoacclimation
+AUTHOR: ['T. K. Westberry', 'Michael J. Behrenfeld', 'David A. Siegel', 'Emmanuel Boss']
+ABSTRACT:
+Net primary production (NPP) is commonly modeled as a function of chlorophyll concentration (Chl), even though it has been long recognized that variability in intracellular chlorophyll content from light acclimation and nutrient stress confounds the relationship between Chl and phytoplankton biomass. It was suggested previously that satellite estimates of backscattering can be related to phytoplankton carbon biomass (C) under conditions of a conserved particle size distribution or a relatively stable relationship between C and total particulate organic carbon. Together, C and Chl can be used to describe physiological state (through variations in Chl:C ratios) and NPP. Here, we fully develop the carbon‐based productivity model (CbPM) to include information on the subsurface light field and nitracline depths to parameterize photoacclimation and nutrient stress throughout the water column. This depth‐resolved approach produces profiles of biological properties (Chl, C, NPP) that are broadly consistent with observations. The CbPM is validated using regional in situ data sets of irradiance‐derived products, phytoplankton chlorophyll:carbon ratios, and measured NPP rates. CbPM‐based distributions of global NPP are significantly different in both space and time from previous Chl‐based estimates because of the distinction between biomass and physiological influences on global Chl fields. The new model yields annual, areally integrated water column production of ∼52 Pg C a −1 for the global oceans.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2007GB003078
+CITED BY COUNT: 565
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Environmental science', 'Biomass (ecology)', 'Water column', 'Primary production', 'Productivity', 'Chlorophyll a', 'Carbon fibers', 'Atmospheric sciences', 'Irradiance', 'Carbon cycle', 'Photic zone', 'Primary productivity', 'Primary producers', 'Nutrient', 'Chlorophyll', 'Oceanography', 'Botany', 'Ecology', 'Biology', 'Ecosystem', 'Physics', 'Geology', 'Mathematics', 'Macroeconomics', 'Quantum mechanics', 'Composite number', 'Economics', 'Algorithm']

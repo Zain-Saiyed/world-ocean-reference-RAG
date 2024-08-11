@@ -1,0 +1,12 @@
+ID: W2028041359
+TITLE: Projecting global mangrove species and community distributions under climate change
+AUTHOR: ['Sydne Record', 'Noah Charney', 'Rozainah Mohd Zakaria', 'Aaron M. Ellison']
+ABSTRACT:
+Given the multitude of ecosystem services provided by mangroves, it is important to understand their potential responses to global climate change. Extensive reviews of the literature and manipulative experiments suggest that mangroves will be impacted by climate change, but few studies have tested these predictions over large scales using statistical models. We provide the first example of applying species and community distribution models (SDMs and CDMs, respectively) to coastal mangroves worldwide. Species distributions were modeled as ensemble forecasts using BIOMOD. Distributions of mangrove communities with high species richness were modeled in three ways: as the sum of the separate SDM outputs, as binary hotspots (with &gt;3 species) using a generalized linear model, and continuously using a general boosted model. Individual SDMs were projected for 12 species with sufficient data and CDMs were projected for 30 species into 2080 using global climate model outputs and a range of sea‐level rise projections. Species projected to shift their ranges polewards by at least 2 degrees of latitude consistently experience a decrease in the amount of suitable coastal area available to them. Central America and the Caribbean are forecast to lose more mangrove species than other parts of the world. We found that the extent and grain size, at which continuous CDM outputs are examined, independent of the grain size at which the models operate, can dramatically influence the number of pseudo‐absences needed for optimal parameterization. The SDMs and CDMs presented here provide a first approximation of how mangroves will respond to climate change given simple correlative relationships between occurrence records and environmental data. Additional, precise georeferenced data on mangrove localities and concerted efforts to collect data on ecological processes across large‐scale climatic gradients will enable future research to improve upon these correlative models.
+
+SOURCE: Ecosphere
+PDF URL: None
+CITED BY COUNT: 84
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Mangrove', 'Climate change', 'Species richness', 'Range (aeronautics)', 'Environmental science', 'Latitude', 'Species distribution', 'Ecology', 'Ecosystem', 'Global warming', 'Global change', 'Geography', 'Habitat', 'Biology', 'Materials science', 'Geodesy', 'Composite material']

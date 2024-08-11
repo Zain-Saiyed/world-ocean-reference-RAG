@@ -1,0 +1,12 @@
+ID: W2095718336
+TITLE: Breaking the routine: individual Cory's shearwaters shift winter destinations between hemispheres and across ocean basins
+AUTHOR: ['Maria P. Dias', 'José Pedro Granadeiro', 'Richard A. Phillips', 'Hany Alonso', 'Paulo Catry']
+ABSTRACT:
+There is growing evidence that migratory species are particularly vulnerable to rapid environmental changes arising from human activity. Species are expected to vary in their capacity to respond to these changes: long-distance migrants and those lacking variability in migratory traits are probably at considerable disadvantage. The few studies that have assessed the degree of plasticity in behaviour of marine animals suggest that fidelity to non-breeding destinations is usually high. In the present study, we evaluated individual flexibility in migration strategy of a highly pelagic seabird, the Cory's shearwater Calonectris diomedea. Geolocation data from 72 different migrations, including 14 birds that were tracked for more than one non-breeding season, showed a remarkable capacity to change winter destinations between years. Although some birds exhibited high site fidelity, others shifted from the South to North Atlantic, from the western to eastern South Atlantic, and from the Atlantic to Indian Ocean. Individuals also showed flexibility in stopover behaviour and migratory schedule. Although their K-selected life-history strategy has the disadvantage that the chances of microevolution are slight if circumstances alter rapidly, these results suggest that Cory's shearwaters may be in a better position than many other long-distance migrants to face the consequences of a changing environment.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: None
+CITED BY COUNT: 134
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seabird', 'Pelagic zone', 'Puffinus', 'Geography', 'Shearwater', 'Destinations', 'Ecology', 'Arctic', 'Geolocation', 'Biology', 'Fishery', 'Predation', 'Tourism', 'Archaeology', 'World Wide Web', 'Computer science']

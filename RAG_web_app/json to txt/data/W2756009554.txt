@@ -1,0 +1,12 @@
+ID: W2756009554
+TITLE: The state of the world’s mangroves in the 21st century under climate change
+AUTHOR: ['Ilka C. Feller', 'Daniel A. Friess', 'Ken W. Krauss', 'Roy R. Lewis']
+ABSTRACT:
+Concerted mangrove research and rehabilitation efforts over the last several decades have prompted a better understanding of the important ecosystem attributes worthy of protection and a better conservation ethic toward mangrove wetlands globally. While mangroves continue to be degraded and lost in specific regions, conservation initiatives, rehabilitation efforts, natural regeneration, and climate range expansion have promoted gains in other areas, ultimately serving to curb the high mangrove habitat loss statistics from the doom and gloom of the 1980s. We highlight those trends in this article and introduce this special issue of Hydrobiologia dedicated to the important and recurring Mangrove and Macrobenthos Meeting. This collection of papers represents studies presented at the fourth such meeting (MMM4) held in St. Augustine, Florida, USA, on July 18–22, 2016. Our intent is to provide a balanced message about the global state of mangrove wetlands by describing recent reductions in net mangrove area losses and highlighting primary research studies presented at MMM4 through a collection of papers. These papers serve not only to highlight on-going global research advancements, but also provide an overview of the vast amount of data on mangrove ecosystem ecology, biology and rehabilitation that emphasizes the uniqueness of the mangrove community.
+
+SOURCE: Hydrobiologia
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs10750-017-3331-z.pdf
+CITED BY COUNT: 126
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Mangrove', 'Wetland', 'Ecology', 'Habitat', 'Geography', 'Environmental resource management', 'Climate change', 'Ecosystem', 'Ecosystem services', 'Environmental science', 'Biology']

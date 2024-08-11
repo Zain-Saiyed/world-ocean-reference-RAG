@@ -1,0 +1,12 @@
+ID: W2970487235
+TITLE: Assessing the distribution and drivers of mangrove dieback in Kakadu National Park, northern Australia
+AUTHOR: ['Emma Asbridge', 'Renée E. Bartolo', 'C. Max Finlayson', 'Richard Lucas', 'Kerrylee Rogers', 'Colin D. Woodroffe']
+ABSTRACT:
+Satellite observations of Australia's Gulf of Carpentaria between 1987 and 2015 highlighted that many mangroves on the coastline bounding low-lying plains were progressively extending inland and to a lesser extent, in a seaward direction. However, in 2015/16, a significant and widely publicised mangrove dieback event occurred, this was attributed to a combination of climate (temperature, precipitation anomalies) and a ~20–30 cm decline in sea level. A similar but unreported event also occurred in Kakadu National Park (NP) in the Northern Territory. This study aimed to a) quantify the extent of this dieback in the NP, b) establish the characteristics of mangroves (floristics, structure) and the substrate elevation prior to and following event and c) establish links with climate and sea level. Using time-series of high resolution airborne and Unmanned Airborne Vehicle (UAV) data, the majority of mangroves experiencing full or partial dieback were found to occur on the landward margins. Reference to sea-level data indicated that mangroves had colonised and retreated in unison with sea level fluctuations over previous decades but increased in overall extent and cover as sea level rise dominated. Mangroves experiencing full mortality were located on higher elevation substrates where the sea level/tidal influence was least. The study concluded that whilst short-term ENSO-related sea level may result in dieback in northern Australia, the long-term projection of an increase in sea level is anticipated to lead to extension of mangroves in the landward direction.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Carpentaria', 'National park', 'Geography', 'Sea level', 'Climate change', 'Elevation (ballistics)', 'Oceanography', 'Physical geography', 'Geology', 'Ecology', 'Geometry', 'Mathematics', 'Archaeology', 'Biology']

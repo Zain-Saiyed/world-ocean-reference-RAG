@@ -1,0 +1,12 @@
+ID: W2108755430
+TITLE: Physiological constraints on the global distribution of &amp;lt;i&amp;gt;Trichodesmium&amp;lt;/i&amp;gt; – effect of temperature on diazotrophy
+AUTHOR: ['E. Breitbarth', 'A. Oschlies', 'J. LaRoche']
+ABSTRACT:
+Abstract. The cyanobacterium Trichodesmium is an important link in the global nitrogen cycle due to its significant input of atmospheric nitrogen to the ocean. Attempts to incorporate Trichodesmium in ocean biogeochemical circulation models have, so far, relied on the observed correlation between temperature and Trichodesmium abundance. This correlation may result in part from a direct effect of temperature on Trichodesmium growth rates through the control of cellular biochemical processes, or indirectly through temperature influence on mixed layer depth, light and nutrient regimes. Here we present results indicating that the observed correlation of Trichodesmium with temperature in the field reflects primarily the direct physiological effects of temperature on diazotrophic growth of Trichodesmium. Trichodesmium IMS-101 (an isolate of Trichodesmium) could acclimate and grow at temperatures ranging from 20 to 34°C. Maximum growth rates (μmax=0.25 day–1) and maximum nitrogen fixation rates (0.13 mmol N mol POC−1 h–1) were measured within 24 to 30°C. Combining this empirical relationship with global warming scenarios derived from state-of-the-art climate models sets a physiological constraint on the future distribution of Trichodesmium that could significantly affect the future nitrogen input into oligotrophic waters by this diazotroph.
+
+SOURCE: Biogeosciences
+PDF URL: https://bg.copernicus.org/articles/4/53/2007/bg-4-53-2007.pdf
+CITED BY COUNT: 241
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Trichodesmium', 'Diazotroph', 'Nitrogen fixation', 'Environmental science', 'Nitrogen', 'Effects of global warming on oceans', 'Biogeochemical cycle', 'Oceanography', 'Nutrient', 'Atmospheric sciences', 'Biology', 'Global warming', 'Ecology', 'Climate change', 'Chemistry', 'Physics', 'Geology', 'Organic chemistry']

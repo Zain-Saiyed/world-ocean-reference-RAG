@@ -1,0 +1,12 @@
+ID: W2904570896
+TITLE: Effect of Marine Hypoxia on Baltic Sea Cod Gadus morhua: Evidence From Otolith Chemical Proxies
+AUTHOR: ['Karin E. Limburg', 'Michèle Casini']
+ABSTRACT:
+The Baltic Sea contains the world’s largest anthropogenically caused deoxygenated zone, with increasing episodes and areal extent of hypoxia/anoxia. The iconic Atlantic cod in the Baltic has suffered a loss in condition which has been attributed mainly to hypoxia, with habitat “squeeze” contributing to density dependent (crowding) effects as well. Otoliths, the aragonitic structures that form part of the hearing/balance system in fishes, accumulate Mn in the presence of hypoxia and other reducing environments. Otoliths grow over the lifetime of fishes, and thus lifetime records of hypoxia exposure exist for each individual fish. However, otolith Mn/Ca ratios are also sensitive to growth effects. We tested a new proxy that at least partly accounts for growth: Mn/Mg, since Mg reflects metabolic activity but not hypoxia. This and other elemental proxies were parsed annually from the otoliths to reconstruct lifetime histories of mean, maximum, and cumulative values of this proxy as well as others (Sr/Ca) that inform us about salinity conditions. We analyzed cod from five different time periods: Neolithic (4500 YBP, a normoxic baseline), 1980s, 1990s, 2000s, and 2010s – under different hypoxia intensities, assessing fish growth and condition in relation to hypoxia experience recorded by otolith proxies. Fish grew more poorly with increasing hypoxia exposure; condition at capture (measured by Fulton’s K index) showed a strongly positive relation to growth indexed by magnesium (Mg/Ca). We conclude that cod otolith chemistry proxies not only inform about the hypoxia, growth, and metabolic status of cod, retrospectively throughout life, but also reflect the worsening situation for cod in the Baltic.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00482/pdf
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Otolith', 'Gadus', 'Hypoxia (environmental)', 'Fishery', 'Biology', 'Gadidae', 'Oceanography', 'Salinity', 'Cod fisheries', 'Atlantic cod', 'Ecology', 'Chemistry', 'Fish <Actinopterygii>', 'Oxygen', 'Geology', 'Organic chemistry']

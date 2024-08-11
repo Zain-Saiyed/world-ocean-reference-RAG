@@ -1,0 +1,12 @@
+ID: W1966582514
+TITLE: The importance of deep-sea vulnerable marine ecosystems for demersal fish in the Azores
+AUTHOR: ['Christopher K. Pham', 'Frédéric Vandeperre', 'Gui Menezes', 'Filipe M. Porteiro', 'Eduardo Isidro', 'Telmo Morato']
+ABSTRACT:
+Cold-water corals and sponges aggregations are important features of the deep sea, recently classified as vulnerable marine ecosystems (VMEs). VMEs increase habitat complexity, believed to act as feeding, reproductive, nursery and refuge areas for a high number of invertebrates and fish species. In the Azores archipelago (NE Atlantic), VMEs are prevalent but their ecological role has not received much attention. The objective of this study was to investigate the importance of VMEs in influencing the distribution of demersal fish in the Azores. With data collected during experimental longline surveys , we modeled the catch of six demersal fish species of commercial value (Helicolenus dactylopterus, Pagellus bogaraveo, Mora moro, Conger conger, Phycis phycis, Pontinus kuhlii) in relation to the presence of VMEs and other environmental factors using General Additive Models (GAMs). Our study demonstrated that total fish catch was higher inside VMEs but the relationship between fish and VMEs varied among fish species. Species specific models showed that catch was strongly influenced by environmental factors, mainly depth, whilst the presence of VMEs was only important for two rockfish species; juvenile and adult P. kuhlii and juvenile H. dactylopterus. Although the association between deep-sea demersal fish and VMEs may be an exception to the rule, we suggest that VMEs act as an important habitat for two commercially important species in the Azores.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Demersal zone', 'Biology', 'Ecology', 'Demersal fish', 'Marine ecosystem', 'Juvenile fish', 'Fish migration', 'Fishery', 'Habitat', 'Juvenile', 'Ecosystem', 'Fishing']

@@ -1,0 +1,12 @@
+ID: W2888550654
+TITLE: Seaweed assemblages under a climate change scenario: Functional responses to temperature of eight intertidal seaweeds match recent abundance shifts
+AUTHOR: ['Cristina Piñeiro‐Corbeira', 'Rodolfo Barreiro', 'Javier Cremades', 'Francisco Arenas']
+ABSTRACT:
+Field evidence is essential to assess the consequences of climate change but a solid causal link often requires additional information obtained under controlled laboratory conditions. Additionally, the functional response to temperature may also help to discriminate species potentially more vulnerable to warming. Using a highly resolved temperature gradient, we examined the temperature dependence of photosynthesis and respiration in eight intertidal seaweeds that recently followed opposite abundance trends in NW Iberia. The temperature dependence of photosynthesis was consistently different between the macroalgae that increased and those that decreased their abundance in the last decade and a half, with photosynthesis twice more sensitive in the upward group. Unlike photosynthesis, the temperature dependence of respiration was unrelated to the abundance trend group, implying that the net metabolic scaling with temperature varied between the two groups of seaweeds. Overall, our results provide experimental support to the role of temperate as a likely driver of the changes in abundance recorded by field-monitoring studies. They also suggest that the temperature dependence of photosynthesis and respiration assessed in short-term experiments may serve as a biomarker of the potential vulnerability of some seaweed to the consequences of water warming.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-31357-x.pdf
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Intertidal zone', 'Abundance (ecology)', 'Photosynthesis', 'Environmental science', 'Climate change', 'Ecology', 'Algae', 'Respiration', 'Temperate climate', 'Global warming', 'Biology', 'Atmospheric sciences', 'Botany', 'Physics']

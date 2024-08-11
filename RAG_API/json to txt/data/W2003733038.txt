@@ -1,0 +1,12 @@
+ID: W2003733038
+TITLE: Sea surface freshening inferred from SMOS and ARGO salinity: impact of rain
+AUTHOR: ['Jacqueline Boutin', 'Nicolas Martin', 'Gilles Reverdin', 'Xiaobin Yin', 'Fabienne Gaillard']
+ABSTRACT:
+Abstract. The sea surface salinity (SSS) measured from space by the Soil Moisture and Ocean Salinity (SMOS) mission has recently been revisited by the European Space Agency first campaign reprocessing. We show that, with respect to the previous version, biases close to land and ice greatly decrease. The accuracy of SMOS SSS averaged over 10 days, 100 × 100 km2 in the open ocean and estimated by comparison to ARGO (Array for Real-Time Geostrophic Oceanography) SSS is on the order of 0.3–0.4 in tropical and subtropical regions and 0.5 in a cold region. The averaged negative SSS bias (−0.1) observed in the tropical Pacific Ocean between 5° N and 15° N, relatively to other regions, is suppressed when SMOS observations concomitant with rain events, as detected from SSM/Is (Special Sensor Microwave Imager) rain rates, are removed from the SMOS–ARGO comparisons. The SMOS freshening is linearly correlated to SSM/Is rain rate with a slope estimated to −0.14 mm−1 h, after correction for rain atmospheric contribution. This tendency is the signature of the temporal SSS variability between the time of SMOS and ARGO measurements linked to rain variability and of the vertical salinity stratification between the first centimeter of the sea surface layer sampled by SMOS and the 5 m depth sampled by ARGO. However, given that the whole set of collocations includes situations with ARGO measurements concomitant with rain events collocated with SMOS measurements under no rain, the mean −0.1 bias and the negative skewness of the statistical distribution of SMOS minus ARGO SSS difference are very likely the mean signature of the vertical salinity stratification. In the future, the analysis of ongoing in situ salinity measurements in the top 50 cm of the sea surface and of Aquarius satellite SSS are expected to provide complementary information about the sea surface salinity stratification.
+
+SOURCE: Ocean science
+PDF URL: https://os.copernicus.org/articles/9/183/2013/os-9-183-2013.pdf
+CITED BY COUNT: 101
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Argo', 'Environmental science', 'Climatology', 'SSS*', 'Salinity', 'Special sensor microwave/imager', 'Geostrophic wind', 'Atmospheric sciences', 'Geology', 'Oceanography', 'Microwave', 'Brightness temperature', 'Mathematical optimization', 'Physics', 'Mathematics', 'Quantum mechanics']

@@ -1,0 +1,12 @@
+ID: W2961362148
+TITLE: SIMA Austral: An operational information system for managing the Chilean aquaculture industry with international application
+AUTHOR: ['A Steven', 'Santosh Aryal', 'Patricio Bernal', 'Francisco Bravo', 'Rodrigo H. Bustamante', 'Scott A. Condie', 'Jeffrey M. Dambacher', 'Sven Dowideit', 'Elizabeth A. Fulton', 'Rebecca Gorton', 'Mike Herzfeld', 'Jonathan Hodge', 'Eriko Hoshino', 'Erin Kenna', 'Diego Ocampo', 'C. Ingrid van Putten', 'Farhan Rizwi', 'J Skerratt', 'A. D. L. Steven', 'Linda Thomas', 'Sharon Tickell', 'Paula Vaquero', 'Dan Wild', 'Karen Wild-Allen']
+ABSTRACT:
+(2019). SIMA Austral: An operational information system for managing the Chilean aquaculture industry with international application. Journal of Operational Oceanography: Vol. 12, Ocean Observing for Societal Benefit, pp. S29-S46.
+
+SOURCE: Journal of operational oceanography
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/1755876X.2019.1636606?needAccess=true
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Interoperability', 'Sima', 'Process management', 'Government (linguistics)', 'Computer science', 'Visualization', 'Architecture', 'Key (lock)', 'Aquaculture', 'Decision support system', 'Business', 'Knowledge management', 'Environmental resource management', 'Engineering management', 'Systems engineering', 'Engineering', 'Environmental science', 'World Wide Web', 'Geography', 'Computer security', 'Fishery', 'Philosophy', 'Archaeology', 'Artificial intelligence', 'Fish <Actinopterygii>', 'Biology', 'Geology', 'Geophysics', 'Linguistics']

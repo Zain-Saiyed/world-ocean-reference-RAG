@@ -1,0 +1,12 @@
+ID: W2101097875
+TITLE: An assessment of seabird–fishery interactions in the Atlantic Ocean
+AUTHOR: ['Geoffrey N. Tuck', 'R. A. Phillips', 'Cleo Small', 'Robin B. Thomson', 'Neil Klaer', 'Frances E. Taylor', 'Ross M. Wanless', 'Haritz Arrizabalaga']
+ABSTRACT:
+Abstract Tuck, G. N., Phillips, R. A., Small, C., Thomson, R. B., Klaer, N. L., Taylor, F., Wanless, R. M., and Arrizabalaga, H. 2011. An assessment of seabird–fishery interactions in the Atlantic Ocean. – ICES Journal of Marine Science, 68: 1628–1637. Currently, 17 of 22 albatross species are listed as Vulnerable, Endangered, or Critically endangered by the International Union for the Conservation of Nature (IUCN). Incidental mortality in fisheries is by far the most widespread cause of the population declines observed for these and other closely related species. In 2006, the International Commission for the Conservation of Atlantic Tunas (ICCAT) requested an assessment of the threat from their fisheries to all seabirds that breed or forage within their jurisdiction. Methods were developed to assess the potential consequences of fishing for more than 60 populations of seabird. The assessment framework involved the identification of at-risk populations, overlap analyses, estimation of total bycatch, and an evaluation of the impact of the bycatch on key selected populations for which there were sufficient data on bird distribution and demography. These were the wandering and black-browed albatrosses of South Georgia and the Atlantic yellow-nosed and Tristan albatrosses of Gough Island. Summary results from the seabird assessment are presented, revealing that ICCAT longline fisheries catch substantial numbers of seabirds, with potentially significant conservation implications. If this mortality is not reduced, the numbers of breeding birds in some populations will continue to decline, threatening their long-term viability.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/68/8/1628/29140711/fsr118.pdf
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Seabird', 'Bycatch', 'Albatross', 'Fishery', 'Endangered species', 'IUCN Red List', 'Geography', 'Fishing', 'Population', 'Critically endangered', 'Ecology', 'Biology', 'Habitat', 'Predation', 'Demography', 'Sociology']

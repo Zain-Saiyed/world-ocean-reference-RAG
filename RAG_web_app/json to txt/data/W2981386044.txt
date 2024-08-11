@@ -1,0 +1,12 @@
+ID: W2981386044
+TITLE: Rapid human-driven undermining of atoll island capacity to adjust to ocean climate-related pressures
+AUTHOR: ['Virginie Duvat', 'Alexandre Magnan']
+ABSTRACT:
+Abstract Most studies addressing the future of atoll islands focused on ocean-climate drivers of risk, especially sea-level rise, and disregarded the role of local human disturbances. However, the future habitability of these countries will critically depend on the response of inhabited and exploited islands to ocean-climate pressures. Here, using the Maldives as a case study and based on a database including 608 islands (representing 56.8% and 86.0% of the country’s land area and population, respectively), we assess the influence of human disturbances on island natural response capacity over the last decade. We show that over the last decade, island change was rapid and primarily controlled by anthropogenic drivers. The great majority of inhabited and exploited islands now exhibit an altered-to-annihilated capacity to respond to ocean-climate pressures, which has major implications for future research and adaptation strategies. First, future studies should consider not only climate, but also anthropogenic tipping points (in contrast to climate tipping points). Second, adaptation strategies must be implemented without delay, despite climate uncertainties, in order to contain any additional detrimental path-dependency effects. This study provides critical information for better addressing the attribution issue under climate change, and a replicable rapid assessment frame.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-51468-3.pdf
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Habitability', 'Climate change', 'Atoll', 'Environmental resource management', 'Geography', 'Population', 'Tipping point (physics)', 'Environmental science', 'Climatology', 'Ecology', 'Physics', 'Demography', 'Sociology', 'Planet', 'Geology', 'Astrophysics', 'Reef', 'Electrical engineering', 'Engineering', 'Biology']

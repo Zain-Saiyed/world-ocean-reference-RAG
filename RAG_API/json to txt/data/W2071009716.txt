@@ -1,0 +1,12 @@
+ID: W2071009716
+TITLE: Antibiotics in riverine runoff of the Pearl River Delta and Pearl River Estuary, China: Concentrations, mass loading and ecological risks
+AUTHOR: ['Weihai Xu', 'Wen Yan', 'Xiangdong Li', 'Yongde Zou', 'Xiaoxiang Chen', 'Wenqi Huang', 'Miao Li', 'Ruijie Zhang', 'Gan Zhang', 'Shichun Zou']
+ABSTRACT:
+Ten antibiotics belonging to three groups (macrolides, fluoroquinolones and sulfonamides) were investigated in riverine runoff of the Pearl River Delta (PRD) and Pearl River Estuary (PRE), South China for assessing the importance of riverine runoff in the transportation of contaminants from terrestrial sources to the open ocean. All antibiotics were detected in the eight outlets with concentrations ranging from 0.7 to 127 ng L−1. The annual mass loadings of antibiotics from the PRD to the PRE and coast were 193 tons with 102 tons from the fluoroquinolone group. It showed that antibiotics decreased from the riverine outlets to the PRE and open ocean. Risk assessment showed that most of these antibiotics showed various ecological risks to the relevant aquatic organisms, in which ofloxacin (OFL), erythromycin (ETM) and ciprofloxacin (CIP) posed high ecological risks to the studied aquatic environments.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 168
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Estuary', 'Pearl', 'Surface runoff', 'Environmental science', 'Ecology', 'Fishery', 'Geography', 'Biology', 'Archaeology']

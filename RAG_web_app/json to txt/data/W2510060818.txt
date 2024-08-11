@@ -1,0 +1,12 @@
+ID: W2510060818
+TITLE: Dense water plumes modulate richness and productivity of deep sea microbes
+AUTHOR: ['Gian Marco Luna', 'Jacopo Chiggiato', 'Grazia Marina Quero', 'Katrin Schröeder', 'Lucia Bongiorni', 'Dimitri Kalenitchenko', 'Pierre E. Galand']
+ABSTRACT:
+Summary Growing evidence indicates that dense water formation and flow over the continental shelf is a globally relevant oceanographic process, potentially affecting microbial assemblages down to the deep ocean. However, the extent and consequences of this influence have yet to be investigated. Here it is shown that dense water propagation to the deep ocean increases the abundance of prokaryotic plankton, and stimulates carbon production and organic matter degradation rates. Dense waters spilling off the shelf modifies community composition of deep sea microbial assemblages, leading to the increased relevance of taxa likely originating from the sea surface and the seafloor. This phenomenon can be explained by a combination of factors that interplay during the dense waters propagation, such as the transport of surface microbes to the ocean floor (delivering in our site 0.1 megatons of C), the stimulation of microbial metabolism due to increased ventilation and nutrients availability, the sediment re‐suspension, and the mixing with ambient waters along the path. Thus, these results highlight a hitherto unidentified role for dense currents flowing over continental shelves in influencing deep sea microbes. In light of climate projections, this process will affect significantly the microbial functioning and biogeochemical cycling of large sectors of the ocean interior.
+
+SOURCE: Environmental microbiology
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Deep sea', 'Oceanography', 'Continental shelf', 'Biology', 'Plankton', 'Sediment', 'Microbial population biology', 'Microbial loop', 'Pelagic zone', 'Productivity', 'Seafloor spreading', 'Carbon cycle', 'Ecology', 'Environmental science', 'Nutrient', 'Ecosystem', 'Geology', 'Phytoplankton', 'Paleontology', 'Macroeconomics', 'Bacteria', 'Economics']

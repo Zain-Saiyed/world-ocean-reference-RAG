@@ -1,0 +1,12 @@
+ID: W2277583505
+TITLE: A review of seagrass economic valuations: Gaps and progress in valuation approaches
+AUTHOR: ['Bryan M. Dewsbury', 'Mahadev G. Bhat', 'James W. Fourqurean']
+ABSTRACT:
+Multiple studies have documented the ecologically important role that seagrasses play in estuarine and marine ecosystems. Unfortunately, economic valuations of these systems have not been as widespread. To date, most techniques rely on mechanisms that do not incorporate the actual ecological drivers behind the economic service, but rather rely on proxy measures to derive value. In this manuscript we review the many values that seagrasses have that result in economic services, and the valuation techniques used to estimate their monetary value. We present a conceptual framework linking seagrass ecosystems to the economic services they provide, showing the areas where novel valuation approaches are most lacking. We conclude that indirect methods used to valuate seagrass ecosystems underestimate the economic value of their services, and that more derivative-based models linking ecological structure and function to all associated economic services are essential for accurate estimations of their dollar value.
+
+SOURCE: Ecosystem services
+PDF URL: None
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2016
+TYPE: review
+CONCEPTS: ['Seagrass', 'Ecosystem services', 'Valuation (finance)', 'Ecosystem valuation', 'Total economic value', 'Liberian dollar', 'Proxy (statistics)', 'Natural resource economics', 'Environmental resource management', 'Ecosystem', 'Economics', 'Business', 'Environmental economics', 'Ecology', 'Computer science', 'Ecosystem health', 'Finance', 'Biology', 'Machine learning']

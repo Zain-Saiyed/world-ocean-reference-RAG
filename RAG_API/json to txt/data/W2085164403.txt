@@ -1,0 +1,12 @@
+ID: W2085164403
+TITLE: Effect of the 2011 Tohoku Earthquake on deep-sea meiofaunal assemblages inhabiting the landward slope of the Japan Trench
+AUTHOR: ['Tomo Kitahashi', 'Robert G. Jenkins', 'Hidetaka Nomaki', 'Motohiro Shimanaga', 'Katsunori Fujikura', 'Soichi Kojima']
+ABSTRACT:
+Meiofaunal assemblages inhabiting the landward slope of the Japan Trench (water depth, 120–5600 m) were examined 4.5 months and 1.5 years after the 2011 Tohoku Earthquake off Sanriku, Miyagi Prefecture, northeast Japan. Two key parameters were compared before (24–30 years) and after (4.5 months in 2011 and 1.5 years in 2012) the earthquake: (a) the bathymetric pattern and (b) the vertical distribution of meiofauna in the sediments. Differences in meiofaunal densities and associated bathymetric patterns were not detected before and after the earthquake. However, the vertical profiles of meiofauna in the sediments differed at some stations. The highest meiofaunal densities occurred in the subsurface layers in 2011 at some stations, with these subsurface peaks being no longer present in 2012. At these stations, the assemblage structure at the higher taxon level differed between 2011 and 2012, with copepod density increasing in 2012. Therefore, copepod abundance appeared to decrease because of the effect of earthquake-related events (e.g. rapid sedimentation induced by the turbidity current). These changes in meiofaunal vertical profiles and assemblage structures detected after the earthquake were probably caused by an increase in organic matter content in the topmost layers. These results indicate that major disturbances to deep-sea sediments mainly influenced the vertical distribution and assemblage structure of meiofauna after the 2011 Tohoku Earthquake, whereas meiofaunal densities remained similar or quickly recovered within 4.5 months of the event.
+
+SOURCE: Marine geology
+PDF URL: None
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Meiobenthos', 'Geology', 'Copepod', 'Oceanography', 'Bathymetry', 'Trench', 'Submarine pipeline', 'Sediment', 'Sedimentology', 'Abundance (ecology)', 'Geomorphology', 'Ecology', 'Chemistry', 'Organic chemistry', 'Layer (electronics)', 'Crustacean', 'Biology']

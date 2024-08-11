@@ -1,0 +1,12 @@
+ID: W2167996760
+TITLE: Determinants of Coastal Tourism: A Case Study of Florida Beach Counties
+AUTHOR: ['Yehuda L. Klein', 'Jeffrey P. Osleeb']
+ABSTRACT:
+The coastal zone of the United States is a major source of economic growth and as a result has seen significant increases in population over the past 50 years. Most aspects of the coastal economy—tourism and residential and commercial development—are heavily dependent upon the environmental preservation and recreational quality of ocean beaches. In earlier work, we documented the economic benefits of ocean beach enhancement projects on several important Florida tourism-dependent counties, which are reflected in greater-than-expected increased earnings in the tourism sector. However, the direction of causality of the analysis was somewhat ambiguous. Although we anticipated that beach nourishment projects would attract visitors, it is equally true that, in the allocation of scarce beach nourishment project dollars, it is likely that eroding beaches in areas that are already flourishing tourist destinations will attract beach nourishment funding to preserve their tourist industries. This article links an exploratory spatial data analysis of the tourism sector with a statistical study of the economic determinants of coastal tourism in Florida. Using the predicted likelihood of beach nourishment projects over the 1970–2000 study period as an explanatory variable, we estimate the growth in earnings in the tourism sector between 1970 and 2000. This gives us a clearer understanding of the complex temporal and spatial relationships that influence the coastal economy.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Tourism', 'Recreation', 'Geography', 'Earnings', 'Beach nourishment', 'Destinations', 'Population', 'Environmental resource management', 'Business', 'Fishery', 'Economics', 'Shore', 'Ecology', 'Demography', 'Accounting', 'Archaeology', 'Sociology', 'Biology']

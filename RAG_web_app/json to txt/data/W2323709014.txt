@@ -1,0 +1,12 @@
+ID: W2323709014
+TITLE: Effect of construction-related activities and vessel traffic on marine mammals
+AUTHOR: ['Ross M. Culloch', 'P Anderwald', 'Anja Brandecker', 'Damien Haberlin', 'Barry McGovern', 'Róisín Pinfield', 'Fleur Visser', 'Mark Jessopp', 'Michelle Cronin']
+ABSTRACT:
+During the construction of a gas pipeline from an offshore gas field in northwest Ireland, a year-round shore-based marine mammal monitoring programme was undertaken.Using 6 yr of data, generalised estimating equations-generalised additive models (GEE-GAMs) were used to investigate if construction-related activity and vessel traffic influenced the occurrence of common dolphin, minke whale, harbour porpoise and grey seal within the area where the pipeline made landfall.Construction-related activity reduced harbour porpoise and minke whale presence, whilst an increase in vessel numbers (independent of construction-related activity) reduced common dolphin presence.All species showed some degree of annual and seasonal variation in occurrence.For common dolphins and harbour porpoises, we found similar seasonal patterns to those reported in broader Irish waters, which tentatively suggests that seasonal patterns persisted irrespective of construction-related activity or vessel traffic, indicating that any impact might have been only short-term.Multiple construction-related activities occurred simultaneously in different areas, and the inter-annual variation may, in part, be an indication of variation in species' response to particular activities, their intensity and their location.However, the precise location of the activities was not regularly recorded, limiting our ability to investigate the fine-scale spatio-temporal impact of the diverse range of construction-related activities.Improved communication and coordination between developers, regulators and scientists will help ensure that monitoring programmes are effective and efficient, to better inform our understanding of potential impacts and to mitigate effectively against them for future developments.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps_oa/m549p231.pdf
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Porpoise', 'Harbour', 'Fishery', 'Whale', 'Cork', 'Geography', 'Badger', 'Minke whale', 'Oceanography', 'Ecology', 'Biology', 'Geology', 'Botany', 'Balaenoptera', 'Computer science', 'Programming language']

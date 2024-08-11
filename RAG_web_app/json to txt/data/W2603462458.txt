@@ -1,0 +1,12 @@
+ID: W2603462458
+TITLE: The potential for blue growth in marine fish yield, profit and abundance of fish in the ocean
+AUTHOR: ['Ray Hilborn', 'Chris Costello']
+ABSTRACT:
+The oceans provide food, employment and income for billions of people. Using data from scientific stock assessments and a statistical model for other fish stocks the past and present status, and the potential catch, abundance and profit for 4713 fish stocks constituting 78% of global fisheries are estimated. Three major scenarios of future trends are considered; business as usual (BAU) in which largely unmanaged fisheries move towards bioeconomic equilibrium but where well-managed fisheries maintain their management, maximum sustainable yield (MSY) in which fisheries are managed to maximize yield, and fisheries reform (REF) where the competitive race to fish is eliminated and fisheries are managed to maximize profit. The future prospects differ greatly based on region of the world and product type. This analysis forecasts that yield in major tuna and forage fish species will remain roughly the same as current levels under all three scenarios, while there does appear to be potential for increased yield of whitefish. There is considerable room for increased profit in most of these fisheries from better management. Increased yield will come from rebuilding overexploited stocks, reducing fishing mortality on stocks that are still abundant but fished at high rates, and surprisingly from fishing some stocks harder. Indeed in Europe and North America the primary potential for increased yield comes from fully exploiting stocks that are now lightly exploited. Asia provides the greatest opportunity for increased fish abundance and increased profit by fisheries reform that would lead to reduced fishing pressure.
+
+SOURCE: Marine policy
+PDF URL: http://manuscript.elsevier.com/S0308597X1730074X/pdf/S0308597X1730074X.pdf
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishing', 'Fishery', 'Fish stock', 'Maximum sustainable yield', 'Fisheries management', 'Profit (economics)', 'Stock (firearms)', 'Stock assessment', 'Forage fish', 'Yield (engineering)', 'Tuna', 'Business', 'Sustainable yield', 'Bioeconomics', 'Natural resource economics', 'Economics', 'Geography', 'Fish <Actinopterygii>', 'Ecology', 'Biology', 'Materials science', 'Metallurgy', 'Microeconomics', 'Archaeology']

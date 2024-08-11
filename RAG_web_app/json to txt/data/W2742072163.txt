@@ -1,0 +1,12 @@
+ID: W2742072163
+TITLE: Environmental management frameworks for offshore mining: the New Zealand approach
+AUTHOR: ['Joanne I. Ellis', 'Malcolm R. Clark', 'Helen Rouse', 'Geoffroy Lamarche']
+ABSTRACT:
+The New Zealand region contains untapped natural mineral, oil, and gas resources while also supporting globally unique and diverse faunal communities that need to be managed sustainably. In this paper key information from the international literature is reviewed that can underpin an Environmental Mining Management System which includes elements of Environmental Risk Assessment, Environmental Impact Assessment and Environmental Management Planning. This paper focuses on four developing areas of seafloor mining activities presently being undertaken or planned in the New Zealand region: hydrocarbons (oil and gas), minerals, ironsands and phosphorite nodules. A number of issues with the implementation of environmental management systems are identified including the difficulty of assessing new marine activities or technologies and the need for standardised reporting metrics. Finally, the development of ecosystem-based management and marine spatial planning is discussed which will be required to enhance environmental mining management frameworks in New Zealand.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sustainability', 'Environmental resource management', 'Environmental planning', 'Environmental impact assessment', 'Business', 'Submarine pipeline', 'Environmental science', 'Ecology', 'Geology', 'Oceanography', 'Biology']

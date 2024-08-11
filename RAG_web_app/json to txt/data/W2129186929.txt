@@ -1,0 +1,12 @@
+ID: W2129186929
+TITLE: Retrieval of Mangrove Aboveground Biomass at the Individual Species Level with WorldView-2 Images
+AUTHOR: ['Yuanhui Zhu', 'Kai Li', 'Lin Liu', 'Shugong Wang', 'Hongxing Liu']
+ABSTRACT:
+Previous research studies have demonstrated that the relationship between remote sensing-derived parameters and aboveground biomass (AGB) could vary across different species types. However, there are few studies that calibrate reliable statistical models for mangrove AGB. This study quantifies the differences of accuracy in AGB estimation between the results obtained with and without the consideration of species types using Worldview-2 images and field surveys. A Back Propagation Artificial Neural Network (BP ANN) based model is developed for the accurate estimation of uneven-aged and dense mangrove forest biomass. The contributions of the input variables are further quantified using a “Weights” method based on BP ANN model. Two types of mangrove species, Sonneratia apetala (S. apetala) and Kandelia candel (K. candel), are examined in this study. Results show that the species type information is the most important variable for AGB estimation, and the red edge band and the associated vegetation indices from WorldView-2 images are more sensitive to mangrove AGB than other bands and vegetation indices. The RMSE of biomass estimation at the incorporation of species as a dummy variable is 19.17% lower than that of the mixed species level. The results demonstrate that species type information obtained from the WorldView-2 images can significantly improve of the accuracy of the biomass estimation.
+
+SOURCE: Remote sensing
+PDF URL: https://www.mdpi.com/2072-4292/7/9/12192/pdf?version=1442827672
+CITED BY COUNT: 93
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Mangrove', 'Kandelia candel', 'Biomass (ecology)', 'Environmental science', 'Vegetation (pathology)', 'Estimation', 'Remote sensing', 'Ecology', 'Biology', 'Geography', 'Medicine', 'Management', 'Pathology', 'Economics']

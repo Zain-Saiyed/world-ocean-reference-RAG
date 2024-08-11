@@ -1,0 +1,12 @@
+ID: W1845797739
+TITLE: Centennial Changes of the Global Water Cycle in CMIP5 Models
+AUTHOR: ['Samuel J. Levang', 'Raymond W. Schmitt']
+ABSTRACT:
+Abstract The global water cycle is predicted to intensify under various greenhouse gas emissions scenarios. Here the nature and strength of the expected changes for the ocean in the coming century are assessed by examining the output of several CMIP5 model runs for the periods 1990–2000 and 2090–2100 and comparing them to a dataset built from modern observations. Key elements of the water cycle, such as the atmospheric vapor transport, the evaporation minus precipitation over the ocean, and the surface salinity, show significant changes over the coming century. The intensification of the water cycle leads to increased salinity contrasts in the ocean, both within and between basins. Regional projections for several areas important to large-scale ocean circulation are presented, including the export of atmospheric moisture across the tropical Americas from Atlantic to Pacific Ocean, the freshwater gain of high-latitude deep water formation sites, and the basin averaged evaporation minus precipitation with implications for interbasin mass transports.
+
+SOURCE: Journal of climate
+PDF URL: None
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Water cycle', 'Climatology', 'Coupled model intercomparison project', 'Environmental science', 'Precipitation', 'Salinity', 'Climate model', 'Latitude', 'Water mass', 'Evaporation', 'Climate change', 'Oceanography', 'Geology', 'Geography', 'Meteorology', 'Ecology', 'Geodesy', 'Biology']

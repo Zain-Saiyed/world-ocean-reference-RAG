@@ -1,0 +1,12 @@
+ID: W2031622930
+TITLE: Alien species in British brackish and marine waters
+AUTHOR: ['Dan Minchin', 'Elizabeth Cook', 'Paul F. Clark']
+ABSTRACT:
+Ninety alien species have been identified from British marine and brackish environments; of which 58 are established. Their arrival has been principally due to shipping and imported consignments of cultured species. The majority of alien species were initially reported from the English Channel, with many subsequently spreading northwards to the North or Celtic Seas. The majority of aliens in Britain originate from the North Pacific (N=35), followed by the North-west Atlantic (N=22). Additional alien species may be expected as a result of continued trade, port, and marina developments. Alterations in climate and extreme weather events are likely to result in future changes to the distribution of marine and brackish water alien species around the British coast.
+
+SOURCE: Aquatic Invasions
+PDF URL: None
+CITED BY COUNT: 62
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Brackish water', 'Biology', 'Alien', 'Alien species', 'Marine species', 'Fishery', 'Introduced species', 'Invasive species', 'Ecology', 'Salinity', 'Environmental health', 'Population', 'Census', 'Medicine']

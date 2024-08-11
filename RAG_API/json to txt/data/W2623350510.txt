@@ -1,0 +1,12 @@
+ID: W2623350510
+TITLE: Shift in tuna catches due to ocean warming
+AUTHOR: ['Alberto Monllor-Hurtado', 'María Grazia Pennino', 'José Luís Sánchez-Lizaso']
+ABSTRACT:
+Ocean warming is already affecting global fisheries with an increasing dominance of catches of warmer water species at higher latitudes and lower catches of tropical and subtropical species in the tropics. Tuna distributions are highly conditioned by sea temperature, for this reason and their worldwide distribution, their populations may be a good indicator of the effect of climate change on global fisheries. This study shows the shift of tuna catches in subtropical latitudes on a global scale. From 1965 to 2011, the percentage of tropical tuna in longliner catches exhibited a significantly increasing trend in a study area that included subtropical regions of the Atlantic and western Pacific Oceans and partially the Indian Ocean. This may indicate a movement of tropical tuna populations toward the poles in response to ocean warming. Such an increase in the proportion of tropical tuna in the catches does not seem to be due to a shift of the target species, since the trends in Atlantic and Indian Oceans of tropical tuna catches are decreasing. Our results indicate that as populations shift towards higher latitudes the catches of these tropical species did not increase. Thus, at least in the Atlantic and Indian Oceans, tropical tuna catches have reduced in tropical areas.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178196&type=printable
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Tuna', 'Subtropics', 'Latitude', 'Tropics', 'Tropical Atlantic', 'Dominance (genetics)', 'Fishery', 'Sea surface temperature', 'Global warming', 'Climate change', 'Geography', 'Oceanography', 'Effects of global warming on oceans', 'Tropical Eastern Pacific', 'Tropical climate', 'Indian ocean', 'Environmental science', 'Climatology', 'Biology', 'Ecology', 'Pacific ocean', 'Fish <Actinopterygii>', 'Geology', 'Biochemistry', 'Geodesy', 'Gene']

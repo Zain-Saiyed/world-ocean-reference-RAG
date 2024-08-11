@@ -1,0 +1,12 @@
+ID: W2330872289
+TITLE: Ocean Salinity and the Global Water Cycle
+AUTHOR: ['Paul J. Durack']
+ABSTRACT:
+complete freshwater budget.Large global climatological mean discrepancies of order 25 W m -2 are apparent between independent current-generation surface heat flux (or, by definition, E) products, and suggest that similar issues exist with
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/28-1_durack.pdf
+CITED BY COUNT: 136
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Salinity', 'Environmental science', 'Oceanography', 'Water cycle', 'Climatology', 'Geology', 'Biology', 'Ecology']

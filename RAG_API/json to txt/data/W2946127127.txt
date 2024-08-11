@@ -1,0 +1,12 @@
+ID: W2946127127
+TITLE: Motivations, success, and cost of coral reef restoration
+AUTHOR: ['Elisa Bayraktarov', 'Phoebe J. Stewart‐Sinclair', 'Shantala Brisbane', 'Lisa Boström‐Einarsson', 'Megan I. Saunders', 'Catherine E. Lovelock', 'Hugh P. Possingham', 'Peter J. Mumby', 'Kerrie A. Wilson']
+ABSTRACT:
+Coral reef restoration is an increasingly important part of tropical marine conservation. Information about what motivates coral reef restoration as well as its success and cost is not well understood but is needed to inform restoration decisions. We systematically review and synthesize data from mostly scientific studies published in peer‐reviewed and gray literature on the motivations for coral reef restoration, the variables measured, outcomes reported, the cost per hectare of the restoration project, the survival of restored corals, the duration of the project, and its overall spatial extent depending on the restoration technique employed. The main motivation to restore coral reefs for the projects assessed was to further our ecological knowledge and improve restoration techniques, with coral growth, productivity, and survival being the main variables measured. The median project cost was 400,000 US$/ha (2010 US$), ranging from 6,000 US$/ha for the nursery phase of coral gardening to 4,000,000 US$/ha for substrate addition to build an artificial reef. Restoration projects were mostly of short duration (1–2 years) and over small spatial extents (0.01 ha or 108 m 2 ). Median reported survival of restored corals was 60.9%. Future research to survey practitioners who do not publish their discoveries would complement this work. Our findings and database provide critical data to inform future research in coral reef restoration.
+
+SOURCE: Restoration ecology
+PDF URL: None
+CITED BY COUNT: 98
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Coral', 'Restoration ecology', 'Coral reef organizations', 'Ecology', 'Environmental resource management', 'Environmental science', 'Coral reef protection', 'Biology']

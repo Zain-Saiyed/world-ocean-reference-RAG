@@ -1,0 +1,12 @@
+ID: W2766672823
+TITLE: Are Some Natural Environments More Psychologically Beneficial Than Others? The Importance of Type and Quality on Connectedness to Nature and Psychological Restoration
+AUTHOR: ['Kayleigh J. Wyles', 'Mathew P. White', 'Caroline Hattam', 'Sabine Pahl', 'Haney King', 'Melanie C. Austen']
+ABSTRACT:
+Exposure to nature can strengthen an individual’s sense of connectedness (i.e., emotional/cognitive bonds to the natural world) and enhance psychological restoration (e.g., feeling relaxed/refreshed). To date, there have been few large studies looking at the role that type and quality of natural environments may have on these outcomes. The present study used data from a large survey in England (sample analyzed = 4,515), which asked participants to recall a recent visit to nature. After controlling for covariates, respondents recalled greater connectedness to nature and restoration following visits to rural and coastal locations compared with urban green space, and to sites of higher environmental quality (operationalized by protected/designated area status, for example, nature reserves). A series of structural equation analyses provided evidence for a bidirectional association between connectedness and restoration. Consideration of the psychological benefits associated with different types and quality of environment has implications for human health, environmental management, and conservation.
+
+SOURCE: Environment and behavior
+PDF URL: None
+CITED BY COUNT: 192
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Social connectedness', 'Operationalization', 'Psychology', 'Quality (philosophy)', 'Feeling', 'Social psychology', 'Recall', 'Environmental quality', 'Sample (material)', 'Natural (archaeology)', 'Geography', 'Ecology', 'Cognitive psychology', 'Philosophy', 'Chemistry', 'Archaeology', 'Epistemology', 'Chromatography', 'Biology']

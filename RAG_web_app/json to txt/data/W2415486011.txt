@@ -1,0 +1,12 @@
+ID: W2415486011
+TITLE: How many vent fields? New estimates of vent field populations on ocean ridges from precise mapping of hydrothermal discharge locations
+AUTHOR: ['Edward T. Baker', 'J. A. Resing', 'Rachel M. Haymon', 'Verena Tunnicliffe', 'J. W. Lavelle', 'Fernando Martínez', 'V. L. Ferrini', 'S. L. Walker', 'Kōichi Nakamura']
+ABSTRACT:
+Decades of exploration for venting sites along spreading ridge crests have produced global datasets that yield estimated mean site spacings of ∼12–220km. This conclusion demands that sites where hydrothermal fluid leaks from the seafloor are improbably rare along the 66 000 km global ridge system, despite the high bulk permeability of ridge crest axes. However, to date, exploration methods have neither reliably detected plumes from isolated low-temperature, particle-poor, diffuse sources, nor differentiated individual, closely spaced (clustered within a few kilometers) sites of any kind. Here we describe a much lower mean discharge spacing of 3–20 km, revealed by towing real-time oxidation–reduction–potential and optical sensors continuously along four fast- and intermediate-rate (>55 mm/yr) spreading ridge sections totaling 1470 km length. This closer spacing reflects both discovery of isolated sites discharging particle-poor plumes (25% of all sites) and improved discrimination (at a spatial resolution of ∼1 km) among clustered discrete and diffuse sources. Consequently, the number of active vent sites on fast- and intermediate-rate spreading ridges may be at least a factor of 3–6 higher than now presumed. This increase provides new quantitative constraints for models of seafloor processes such as dispersal of fauna among seafloor and crustal chemosynthetic habitats, biogeochemical impacts of diffuse venting, and spatial patterns of hydrothermal discharge.
+
+SOURCE: Earth and planetary science letters
+PDF URL: http://manuscript.elsevier.com/S0012821X16302564/pdf/S0012821X16302564.pdf
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seafloor spreading', 'Geology', 'Ridge', 'Hydrothermal circulation', 'Hydrothermal vent', 'Mid-ocean ridge', 'Biogeochemical cycle', 'Mid-Atlantic Ridge', 'Chemosynthesis', 'Seabed', 'Oceanography', 'Paleontology', 'Chemistry', 'Environmental chemistry']

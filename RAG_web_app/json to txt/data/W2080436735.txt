@@ -1,0 +1,12 @@
+ID: W2080436735
+TITLE: The relationship among biodiversity, governance, wealth, and scientific capacity at a country level: Disaggregation and prioritization
+AUTHOR: ['Andrés Lira‐Noriega', 'Jorge Soberón']
+ABSTRACT:
+At a global level, the relationship between biodiversity importance and capacity to manage it is often assumed to be negative, without much differentiation among the more than 200 countries and territories of the world. We examine this relationship using a database including terrestrial biodiversity, wealth and governance indicators for most countries. From these, principal components analysis was used to construct aggregated indicators at global and regional scales. Wealth, governance, and scientific capacity represent different skills and abilities in relation to biodiversity importance. Our results show that the relationship between biodiversity and the different factors is not simple: in most regions wealth and capacity varies positively with biodiversity, while governance vary negatively with biodiversity. However, these trends, to a certain extent, are concentrated in certain groups of nations and outlier countries. We discuss our results in the context of collaboration and joint efforts among biodiversity-rich countries and foreign agencies.
+
+SOURCE: Ambio
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Corporate governance', 'Context (archaeology)', 'Prioritization', 'Measurement of biodiversity', 'Geography', 'Business', 'Natural resource economics', 'Environmental resource management', 'Regional science', 'Economics', 'Ecology', 'Biodiversity conservation', 'Biology', 'Finance', 'Process management', 'Archaeology']

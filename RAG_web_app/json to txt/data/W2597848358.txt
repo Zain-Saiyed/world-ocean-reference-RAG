@@ -1,0 +1,12 @@
+ID: W2597848358
+TITLE: Tropical dead zones and mass mortalities on coral reefs
+AUTHOR: ['Andrew H. Altieri', 'S. Harrison', 'Janina Seemann', 'Rachel Collin', 'Robert J. Díaz', 'Nancy\xad Knowlton\xad']
+ABSTRACT:
+Degradation of coastal water quality in the form of low dissolved oxygen levels (hypoxia) can harm biodiversity, ecosystem function, and human wellbeing. Extreme hypoxic conditions along the coast, leading to what are often referred to as "dead zones," are known primarily from temperate regions. However, little is known about the potential threat of hypoxia in the tropics, even though the known risk factors, including eutrophication and elevated temperatures, are common. Here we document an unprecedented hypoxic event on the Caribbean coast of Panama and assess the risk of dead zones to coral reefs worldwide. The event caused coral bleaching and massive mortality of corals and other reef-associated organisms, but observed shifts in community structure combined with laboratory experiments revealed that not all coral species are equally sensitive to hypoxia. Analyses of global databases showed that coral reefs are associated with more than half of the known tropical dead zones worldwide, with >10% of all coral reefs at elevated risk for hypoxia based on local and global risk factors. Hypoxic events in the tropics and associated mortality events have likely been underreported, perhaps by an order of magnitude, because of the lack of local scientific capacity for their detection. Monitoring and management plans for coral reef resilience should incorporate the growing threat of coastal hypoxia and include support for increased detection and research capacity.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/114/14/3660.full.pdf
+CITED BY COUNT: 223
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Coral reef', 'Reef', 'Hypoxia (environmental)', 'Resilience of coral reefs', 'Coral', 'Tropics', 'Eutrophication', 'Ecology', 'Ecosystem', 'Aquaculture of coral', 'Biodiversity', 'Temperate climate', 'Environmental issues with coral reefs', 'Coral bleaching', 'Biology', 'Fishery', 'Oceanography', 'Environmental science', 'Geography', 'Geology', 'Chemistry', 'Organic chemistry', 'Oxygen', 'Nutrient']

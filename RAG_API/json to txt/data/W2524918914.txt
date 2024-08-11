@@ -1,0 +1,12 @@
+ID: W2524918914
+TITLE: Plastic microfibre ingestion by deep-sea organisms
+AUTHOR: ['Michelle L. Taylor', 'Claire Gwinnett', 'Laura F. Robinson', 'Lucy C. Woodall']
+ABSTRACT:
+Abstract Plastic waste is a distinctive indicator of the world-wide impact of anthropogenic activities. Both macro- and micro-plastics are found in the ocean, but as yet little is known about their ultimate fate and their impact on marine ecosystems. In this study we present the first evidence that microplastics are already becoming integrated into deep-water organisms. By examining organisms that live on the deep-sea floor we show that plastic microfibres are ingested and internalised by members of at least three major phyla with different feeding mechanisms. These results demonstrate that, despite its remote location, the deep sea and its fragile habitats are already being exposed to human waste to the extent that diverse organisms are ingesting microplastics.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep33997.pdf
+CITED BY COUNT: 371
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Microplastics', 'Deep sea', 'Marine habitats', 'Marine species', 'Plastic waste', 'Environmental science', 'Marine ecosystem', 'Deep water', 'Plastic pollution', 'Ecosystem', 'Phylum', 'Marine debris', 'Habitat', 'Ecology', 'Biology', 'Oceanography', 'Fishery', 'Geology', 'Debris', 'Genetics', 'Bacteria', 'Engineering', 'Waste management']

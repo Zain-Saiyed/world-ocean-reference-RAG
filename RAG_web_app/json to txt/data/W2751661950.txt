@@ -1,0 +1,12 @@
+ID: W2751661950
+TITLE: Validating SMAP SSS with in situ measurements
+AUTHOR: ['Wenqing Tang', 'Alexander Fore', 'Simon Yueh', 'Tong Lee', 'Atsushi Hayashi', 'Alejandra Sanchez‐Franks', 'Justino Martínez', 'Brian King', 'Dariusz B. Baranowski']
+ABSTRACT:
+Abstract Sea surface salinity (SSS) retrieved from SMAP radiometer measurements are validated against in situ salinity from Argo floats, tropical moored buoys and ship-based thermosalinograph (TSG) data. SMAP SSS achieved an accuracy of 0.2 PSU on a monthly basis in comparison with Argo gridded data in the tropics and mid-latitudes. In the tropical oceans, time series comparison of salinity measured at 1 m by moored buoys indicates that SMAP can track large salinity changes occurred within a month. Synergetic analysis of SMAP, SMOS and Argo data allows us to identify and exclude erroneous jumps or drift in some real-time buoy data from the assessment of the satellite data. The resulting SMAP-buoy matchup analysis gives an average standard deviation of 0.22 PSU and correlation coefficient of 0.73 on weekly scale. On monthly time scales, the average standard deviation reduced to 0.17 PSU and the correlation coefficient improved to 0.8. SMAP L3 daily maps reveals salty water intrusions from the Arabian Sea into the Bay of Bengal during the Indian summer monsoon, consistent with the daily measurements collected from Argo floats deployed during the Bay of Bengal Boundary Layer Experiment (BoBBLE) project field campaign. In the Mediterranean Sea, the spatial pattern of SSS from SMAP is confirmed by the ship-based TSG. Comparison with individual Argo floats suggests the SMAP retrieval algorithm performs better in the Western Mediterranean region, but suffers from radio-frequency interference (RFI) and land contamination in the Eastern Mediterranean region and Adriatic Sea.
+
+SOURCE: Remote sensing of environment
+PDF URL: http://manuscript.elsevier.com/S0034425717303851/pdf/S0034425717303851.pdf
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Argo', 'Buoy', 'Environmental science', 'Climatology', 'Remote sensing', 'Radiometer', 'Sea surface temperature', 'Satellite', 'Standard deviation', 'Meteorology', 'Geology', 'Oceanography', 'Geography', 'Statistics', 'Mathematics', 'Engineering', 'Aerospace engineering']

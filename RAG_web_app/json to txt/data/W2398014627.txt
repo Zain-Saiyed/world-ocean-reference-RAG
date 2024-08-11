@@ -1,0 +1,12 @@
+ID: W2398014627
+TITLE: Cold Seeps Associated with Structured Benthic Communities: More Accurate Identification and Evaluation Using a New Multibeam Survey Methodology in the Offshore Southern Colombian Caribbean
+AUTHOR: ['Adrian Digby', 'Vladimir Puentes', 'Jorge León']
+ABSTRACT:
+A new methodology was developed to identify cold seeps and structured benthic communities associated, which was applied for the first time in the offshore southern Colombian Caribbean. The integral method consists on a new processing of double-coverage (200%) high-resolution backscatter data combined with bathymetric information; validation was done correlating identified gas plumes, seabed cores and drift camera surveys. Results showed that the elimination of artefacts and the increased signal of the backscatter data allowed accurate plotting of seep boundaries and categorization of seeps into an activity catalogue, with more than 200 seeps identified. Most seeps have chemosynthetic communities associated and data analysis from a previous survey showed two ridges with hard ground as the only possible areas for the development the of deep- water corals. Seep results were compared with designated Areas of Significance for Biodiversity (ASB) identifying seeps both within and outside the ASBs, and showing that the presence of seeps and chemosynthetic communities associated were driven more by geological processes than for big-scale seabed morphology, since they were found in both plains and ridges. This methodology allows an accurate seabed map of structured benthic communities, which may work as a precise geo-hazard map to ensure the oil & gas industry can avoid these areas of shallow gas for further developments, and as a map of deep-water structured benthic communities with environmental significance.
+
+SOURCE: International journal of geosciences
+PDF URL: https://www.scirp.org/journal/PaperDownload.aspx?paperID=66888
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Submarine pipeline', 'Benthic zone', 'Oceanography', 'Identification (biology)', 'Geology', 'Caribbean region', 'Geography', 'Fishery', 'Ecology', 'Latin Americans', 'Political science', 'Biology', 'Law']

@@ -1,0 +1,12 @@
+ID: W2567319663
+TITLE: Comparative mitochondrial and chloroplast genomics of a genetically distinct form of <i>Sargassum</i> contributing to recent “Golden Tides” in the Western Atlantic
+AUTHOR: ['Linda Amaral‐Zettler', 'Nicholas B. Dragone', 'Jeffrey M. Schell', 'Beth Slikas', 'Leslie G. Murphy', 'Clare E. Morrall', 'Erik R. Zettler']
+ABSTRACT:
+Abstract Over the past 5 years, massive accumulations of holopelagic species of the brown macroalga Sargassum in coastal areas of the Caribbean have created “golden tides” that threaten local biodiversity and trigger economic losses associated with beach deterioration and impact on fisheries and tourism. In 2015, the first report identifying the cause of these extreme events implicated a rare form of the holopelagic species Sargassum natans (form VIII ). However, since the first mention of S. natans VIII in the 1930s, based solely on morphological characters, no molecular data have confirmed this identification. We generated full‐length mitogenomes and partial chloroplast genomes of all representative holopelagic Sargassum species, S. fluitans III and S. natans I alongside the putatively rare S. natans VIII , to demonstrate small but consistent differences between S. natans I and VIII (7 bp differences out of the 34,727). Our comparative analyses also revealed that both S. natans I and S. natans VIII share a very close phylogenetic relationship with S. fluitans III (94‐ and 96‐bp differences of 34,727). We designed novel primers that amplified regions of the cox2 and cox3 marker genes with consistent polymorphic sites that enabled differentiation between the two S. natans forms ( I and VIII ) from each other and both from S. fluitans III in over 150 Sargassum samples including those from the 2014 golden tide event. Despite remarkable gene synteny and sequence conservation, the three Sargassum forms differ in morphology, ecology, and distribution patterns, warranting more extensive interrogation of holopelagic Sargassum genomes as a whole.
+
+SOURCE: Ecology and evolution
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.2630
+CITED BY COUNT: 63
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Sargassum', 'Biology', 'Phylogenetic tree', 'Botany', 'Evolutionary biology', 'Ecology', 'Algae', 'Gene', 'Genetics']

@@ -1,0 +1,12 @@
+ID: W1553208841
+TITLE: Deep-sea environments on a warm earth: latest Paleocene-early Eocene
+AUTHOR: ['Ellen Thomas', 'James C. Zachos', 'Timothy J. Bralower']
+ABSTRACT:
+Latest Paleocene–early Eocene high-latitude surface and global deep-ocean waters were warmer than those of today by up to 15 °C; planktonic foraminiferal and nannofossil assemblages suggest that primary oceanic productivity was low. Low oceanic productivity is also indicated by geochemical evidence that the supply of nutrients to the oceans may have been low. Climate modeling suggests that oceanic and atmospheric circulation may have been sluggish at low temperature gradients, leading to low rates of upwelling of nutrients. Benthic foraminiferal data, by contrast, suggest that the food supply to the deep sea floor in open-ocean settings was larger than that in Recent oceans, in agreement with the speculation that a larger fraction of organic carbon was buried. The benthic foraminiferal evidence might be explained by more efficient food transfer to the bottom in poorly oxygenated, warm deep waters. Possibly the pelagic microbial loop was more active at the higher temperatures, leading to enhanced zooplankton productivity and thus enhanced food supply. Or possibly the benthic faunas do not indicate a high average food supply, but a more continuous and less seasonally pulsed supply than that today. Environmental interpretation of early Eocene benthic foraminiferal faunas is difficult not only because they differ substantially from Recent ones but also because the faunas had been decimated by a massive extinction during an episode of rapid warming, the Late Paleocene Thermal Maximum (LPTM), with a duration of between 25 and 200000 ka.
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 49
+PUBLICATION YEAR: 1999
+TYPE: book-chapter
+CONCEPTS: ['Benthic zone', 'Oceanography', 'Upwelling', 'Pelagic zone', 'Productivity', 'Geology', 'Deep sea', 'Fauna', 'Plankton', 'Environmental science', 'Paleontology', 'Ecology', 'Biology', 'Economics', 'Macroeconomics']

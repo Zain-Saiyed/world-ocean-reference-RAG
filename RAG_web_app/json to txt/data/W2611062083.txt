@@ -1,0 +1,12 @@
+ID: W2611062083
+TITLE: Navigational threats by derelict fishing gear to navy ships in the Korean seas
+AUTHOR: ['Sunwook Hong', 'Jong-Myoung Lee', 'Sehan Lim']
+ABSTRACT:
+This study assessed the impact of derelict fishing gear (DFG) on navigation. The Republic of Korea's navy (ROKN) recorded every case of approximately 170 naval ships associated with propeller entanglement by DFG from January 2010 to December 2015. The frequency of cases was 2.3 per ship and 397.7 (± 37.5) per year. The amount of DFG disentangled was 0.025 tons per ship and 10.0 (± 1.7) tons per year. The frequency temporally decreased whereas the amount increased over these six years. To disentangle propellers, 3.1 divers were needed on average per case. Propeller entanglement occurred in all local seas and some of these areas showed increases over time. Our study highlights that the impact of DFG on navigational threats has been persistent and ubiquitous and can potentially be reduced by preventing DFG in fishing areas, with a focus on improved management by fishermen and government and with more efficient retrieval of DFG.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 61
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Fishing', 'Navy', 'Fishery', 'Propeller', 'Aeronautics', 'Environmental science', 'Geography', 'Oceanography', 'Marine engineering', 'Engineering', 'Geology', 'Biology', 'Archaeology']

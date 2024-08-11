@@ -1,0 +1,12 @@
+ID: W2755236571
+TITLE: Multiple stressor effects on marine infauna: responses of estuarine taxa and functional traits to sedimentation, nutrient and metal loading
+AUTHOR: ['Joanne I. Ellis', 'Dana Clark', 'Javier Atalah', 'Weimin Jiang', 'Caine Taiapa', 'Murray Patterson', 'Jim Sinner', 'Judi E. Hewitt']
+ABSTRACT:
+Sedimentation, nutrients and metal loading to coastal environments are increasing, associated with urbanization and global warming, hence there is a growing need to predict ecological responses to such change. Using a regression technique we predicted how maximum abundance of 20 macrobenthic taxa and 22 functional traits separately and interactively responded to these key stressors. The abundance of most taxa declined in response to sedimentation and metal loading while a unimodal response was often associated with nutrient loading. Optimum abundances for both taxa and traits occurred at relatively low stressor levels, highlighting the vulnerability of estuaries to increasing stressor loads. Individual taxa were more susceptible to stress than traits, suggesting that functional traits may be less sensitive for detecting changes in ecosystem health. Multiplicative effects were more common than additive interactions. The observed sensitivity of most taxa to increasing sedimentation and metal loading and the documented interaction effects between multiple stressors have important implications for understanding and managing the ecological consequences of eutrophication, sedimentation and contaminants on coastal ecosystems.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-12323-5.pdf
+CITED BY COUNT: 51
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sedimentation', 'Ecology', 'Ecosystem', 'Eutrophication', 'Abundance (ecology)', 'Biology', 'Nutrient', 'Estuary', 'Taxon', 'Environmental science', 'Marine ecosystem', 'Sediment', 'Paleontology']

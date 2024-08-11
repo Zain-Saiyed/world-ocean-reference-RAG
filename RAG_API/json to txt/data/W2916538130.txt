@@ -1,0 +1,12 @@
+ID: W2916538130
+TITLE: Explaining Extreme Events of 2016 from a Climate Perspective
+AUTHOR: ['Stephanie C. Herring', 'Nikolaos Christidis', 'Andrew Hoell', 'James P. Kossin', 'Carl J. Schreck', 'Peter A. Stott']
+ABSTRACT:
+Editors note: For easy download the posted pdf of the Explaining Extreme Events of 2016 is a very low-resolution file. A high-resolution copy of the report is available by clicking here. Please be patient as it may take a few minutes for the high-resolution file to download.
+
+SOURCE: Bulletin of the American Meteorological Society
+PDF URL: http://journals.ametsoc.org/doi/pdf/10.1175/BAMS-ExplainingExtremeEvents2016.1
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Download', 'Perspective (graphical)', 'Computer science', 'Resolution (logic)', 'High resolution', 'World Wide Web', 'Remote sensing', 'Geology', 'Artificial intelligence']

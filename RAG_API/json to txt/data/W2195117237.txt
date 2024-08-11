@@ -1,0 +1,12 @@
+ID: W2195117237
+TITLE: Has the value of global marine and coastal ecosystem services changed?
+AUTHOR: ['Linwood H. Pendleton', 'Olivier Thébaud', 'Rémi Mongruel', 'Harold Levrel']
+ABSTRACT:
+In 1997, Robert Costanza and his colleagues published a groundbreaking study [1] that estimated the monetary value of the contribution of the world's ecosystems to human wellbeing. The methods used were cited as preliminary and received considerable criticism [2], [3]. In two more recent peer-reviewed studies [4], [5], the authors update the original estimates of ecosystem service value and find: (1) that original per area ecosystem service values were underestimated and (2) using these revised per area values, the total global value of ecosystem services has declined. Just under ninety-five percent of the estimated loss in ecosystem service value comes from revisions by the authors in the value estimates of marine ecosystem services. These revisions include additional per area value estimates of coral reefs and coastal wetlands that are many times the value of estimates used in the original analysis. The reasons cited by Costanza et al. for the increases in revised value estimates are examined and rejected. The data are found to be insufficient for a rigorous estimate of the global value of marine ecosystems services.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Value (mathematics)', 'Ecosystem', 'Wetland', 'Coral reef', 'Marine ecosystem', 'Environmental science', 'Millennium Ecosystem Assessment', 'Marine life', 'Geography', 'Environmental resource management', 'Ecology', 'Statistics', 'Mathematics', 'Biology']

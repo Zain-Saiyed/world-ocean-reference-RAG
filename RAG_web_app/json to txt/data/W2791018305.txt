@@ -1,0 +1,12 @@
+ID: W2791018305
+TITLE: Improving estuary models by reducing uncertainties associated with river flows
+AUTHOR: ['Peter Robins', 'Matt Lewis', 'Jim Freer', 'David M. Cooper', 'C. J. Skinner', 'Tom Coulthard']
+ABSTRACT:
+To mitigate against future changes to estuaries such as water quality, catchment and estuary models can be coupled to simulate the transport of harmful pathogenic viruses, pollutants and nutrients from their terrestrial sources, through the estuary and to the coast. To predict future changes to estuaries, daily mean river flow projections are typically used. We show that this approach cannot resolve higher frequency discharge events that have large impacts to estuarine dilution, contamination and recovery for two contrasting estuaries. We therefore characterise sub-daily scale flow variability and propagate this through an estuary model to provide robust estimates of impacts for the future. River flow data (35-year records at 15-min sampling) were used to characterise variabilities in storm hydrograph shapes and simulate the estuarine response. In particular, we modelled a fast-responding catchment-estuary system (Conwy, UK), where the natural variability in hydrograph shapes generated large variability in estuarine circulation that was not captured when using daily-averaged river forcing. In the extreme, the freshwater plume from a 'flash' flood (lasting <12 h) was underestimated by up to 100% – and the response to nutrient loading was underestimated further still. A model of a slower-responding system (Humber, UK), where hydrographs typically last 2–4 days, showed less variability in estuarine circulation and good approximation with daily-averaged flow forcing. Our result has implications for entire system impact modelling; when we determine future changes to estuaries, some systems will need higher resolution future river flow estimates.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Estuary', 'Hydrograph', 'Environmental science', 'Hydrology (agriculture)', 'Streamflow', 'Forcing (mathematics)', 'Discharge', 'Water quality', 'Flood myth', 'Drainage basin', 'Oceanography', 'Climatology', 'Geology', 'Geography', 'Ecology', 'Cartography', 'Archaeology', 'Biology', 'Geotechnical engineering']

@@ -1,0 +1,12 @@
+ID: W2040823492
+TITLE: Coastal marine eutrophication: A definition, social causes, and future concerns
+AUTHOR: ['Scott W. Nixon']
+ABSTRACT:
+Abstract Abstract There is a need in the marine research and management communities for a clear operational definition of the term, eutrophication. I propose the following: This definition is consistent with historical usage and emphasizes that eutrophication is a process, not a trophic state. A simple trophic classification for marine systems is also proposed: Various factors may increase the supply of organic matter to coastal systems, but the most common is clearly nutrient enrichment. The major causes of nutrient enrichment in coastal areas are associated directly or indirecdy with meeting the requirements and desires of human nutrition and diet. The deposition of reactive nitrogen emitted to the atmosphere as a consequence of fossil fuel combustion is also an important anthropogenic factor. The intensity of nitrogen emission from fertilizer, livestock waste, and fossil fuel combustion varies widely among the countries of the world. It is strongest in Europe, the northeastern United States, India/Pakistan, Japan/Korea, and the Caribbean. This geographical distribution corresponds with many areas where coastal marine eutrophication has become a recent concern. Demographic and social trends suggest that past practices leading to coastal nutrient enrichment are likely to be repeated in the coming decades in the developing countries of Asia, Africa, and Latin America.
+
+SOURCE: Ophelia
+PDF URL: None
+CITED BY COUNT: 2347
+PUBLICATION YEAR: 1995
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Trophic level', 'Environmental protection', 'Environmental science', 'Ecology', 'Nutrient', 'Oceanography', 'Biology', 'Geology']

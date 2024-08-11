@@ -1,0 +1,12 @@
+ID: W2918936118
+TITLE: Tropical fish diversity enhances coral reef functioning across multiple scales
+AUTHOR: ['Jonathan S. Lefcheck', 'Anne Innes-Gold', 'Simon J. Brandl', 'Robert S. Steneck', 'Rubén Torres', 'Douglas B. Rasher']
+ABSTRACT:
+There is now a general consensus that biodiversity positively affects ecosystem functioning. This consensus, however, stems largely from small-scale experiments, raising the question of whether diversity effects operate at multiple spatial scales and flow on to affect ecosystem structure in nature. Here, we quantified rates of fish herbivory on algal turf communities across multiple coral reefs spanning >1000 km of coastline in the Dominican Republic. We show that mass-standardized herbivory rates are best predicted by herbivore biomass and herbivore species richness both within (α-diversity) and across sites in the region (β-diversity). Using species-diversity models, we demonstrate that many common grazer species are necessary to maximize the process of herbivory. Last, we link higher herbivory rates to reduced algal turf height and enhanced juvenile coral recruitment throughout the ecosystem. Our results suggest that, in addition to high herbivore biomass, conserving biodiversity at multiple scales is important for sustaining coral reef function.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/5/3/eaav6420.full.pdf
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coral reef', 'Coral reef fish', 'Diversity (politics)', 'Coral', 'Fish <Actinopterygii>', 'Fishery', 'Ecology', 'Geography', 'Biology', 'Environmental science', 'Sociology', 'Anthropology']

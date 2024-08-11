@@ -1,0 +1,12 @@
+ID: W2289113209
+TITLE: Food limitation of sea lion pups and the decline of forage off central and southern California
+AUTHOR: ['Sam McClatchie', 'John C. Field', 'Andrew R. Thompson', 'Tim Gerrodette', 'Mark S. Lowry', 'Paul C. Fiedler', 'William Watson', 'Karen Nieto', 'Russell D. Vetter']
+ABSTRACT:
+California sea lions increased from approximately 50 000 to 340 000 animals in the last 40 years, and their pups are starving and stranding on beaches in southern California, raising questions about the adequacy of their food supply. We investigated whether the declining sea lion pup weight at San Miguel rookery was associated with changes in abundance and quality of sardine, anchovy, rockfish and market squid forage. In the last decade off central California, where breeding female sea lions from San Miguel rookery feed, sardine and anchovy greatly decreased in biomass, whereas market squid and rockfish abundance increased. Pup weights fell as forage food quality declined associated with changes in the relative abundances of forage species. A model explained 67% of the variance in pup weights using forage from central and southern California and 81% of the variance in pup weights using forage from the female sea lion foraging range. A shift from high to poor quality forage for breeding females results in food limitation of the pups, ultimately flooding animal rescue centres with starving sea lion pups. Our study is unusual in using a long-term, fishery-independent dataset to directly address an important consequence of forage decline on the productivity of a large marine predator. Whether forage declines are environmentally driven, are due to a combination of environmental drivers and fishing removals, or are due to density-dependent interactions between forage and sea lions is uncertain. However, declining forage abundance and quality was coherent over a large area (32.5–38° N) for a decade, suggesting that trends in forage are environmentally driven.
+
+SOURCE: Royal Society open science
+PDF URL: None
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Forage', 'Forage fish', 'Anchovy', 'Rookery', 'Foraging', 'Rockfish', 'Biology', 'Fishery', 'Abundance (ecology)', 'Ecology', 'Geography', 'Predation', 'Population', 'Fish <Actinopterygii>', 'Demography', 'Sociology']

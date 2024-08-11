@@ -1,0 +1,12 @@
+ID: W2150649021
+TITLE: Long-term change in the abyssal NE Atlantic: The ‘Amperima Event’ revisited
+AUTHOR: ['David Billett', 'Brian J. Bett', 'William D. Reid', 'B. Boorman', 'Imants G. Priede']
+ABSTRACT:
+The results from a time series study (1989–2005) at a depth of 4850 m on the Porcupine Abyssal Plain, NE Atlantic, are presented, showing radical changes in the density of large invertebrates (megafauna) over time. Major changes occurred in a number of different taxa between 1996 and 1999 and then again in 2002. One species of holothurian, Amperima rosea, was particularly important, increasing in density by over three orders of magnitude. There were no significant changes in total megafaunal biomass during the same period. Peaks in density were correlated to reductions in mean body size, indicating that the increases were related to large-scale recruitment events. The changes occurred over a wide area of the Porcupine Abyssal Plain. Comparisons made with changes in the density of protozoan and metazoan meiofauna, and with macrofauna, showed that major changes in community structure occurred in all size fractions of the benthic community at the same time. This suggests that the faunal changes were driven by environmental factors rather than being stochastic population imbalances of one or two species. Large-scale changes in the flux of organic matter to the abyssal seafloor have been noted in the time series, particularly in 2001, and may be related to the sudden mass occurrence of A. rosea the following year. Time-varying environmental factors are important in influencing the occurrence of megafauna on the abyssal seafloor.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 152
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Megafauna', 'Abyssal zone', 'Abyssal plain', 'Benthic zone', 'Oceanography', 'Meiobenthos', 'Ecology', 'Geology', 'Population', 'Seafloor spreading', 'Environmental science', 'Biology', 'Sediment', 'Paleontology', 'Pleistocene', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2908138043
+TITLE: Climate Change, Coral Loss, and the Curious Case of the Parrotfish Paradigm: Why Don't Marine Protected Areas Improve Reef Resilience?
+AUTHOR: ['John F. Bruno', 'Isabelle M. Côté', 'Lauren T. Toth']
+ABSTRACT:
+Scientists have advocated for local interventions, such as creating marine protected areas and implementing fishery restrictions, as ways to mitigate local stressors to limit the effects of climate change on reef-building corals. However, in a literature review, we find little empirical support for the notion of managed resilience. We outline some reasons for why marine protected areas and the protection of herbivorous fish (especially parrotfish) have had little effect on coral resilience. One key explanation is that the impacts of local stressors (e.g., pollution and fishing) are often swamped by the much greater effect of ocean warming on corals. Another is the sheer complexity (including numerous context dependencies) of the five cascading links assumed by the managed-resilience hypothesis. If reefs cannot be saved by local actions alone, then it is time to face reef degradation head-on, by directly addressing anthropogenic climate change—the root cause of global coral decline.
+
+SOURCE: Annual review of marine science
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-marine-010318-095300
+CITED BY COUNT: 212
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Parrotfish', 'Coral reef', 'Reef', 'Resilience of coral reefs', 'Marine reserve', 'Climate change', 'Fishery', 'Context (archaeology)', 'Effects of global warming on oceans', 'Coral bleaching', 'Coral reef protection', 'Coral reef fish', 'Marine conservation', 'Marine protected area', 'Ecology', 'Fishing', 'Geography', 'Global warming', 'Biology', 'Habitat', 'Archaeology']

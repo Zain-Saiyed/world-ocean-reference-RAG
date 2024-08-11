@@ -1,0 +1,12 @@
+ID: W2771758945
+TITLE: Distilling the role of ecosystem services in the Sustainable Development Goals
+AUTHOR: ['Stephen C. Wood', 'Sarah K. Jones', 'Justin A. Johnson', 'Kate A. Brauman', 'Rebecca Chaplin‐Kramer', 'Alexander K. Fremier', 'Evan H. Girvetz', 'Line Gordon', 'Carrie V. Kappel', 'Lisa Mandle', 'Mark Mulligan', 'Patrick J. O’Farrell', 'William K. Smith', 'L. Willemen', 'Wei Zhang', 'Fabrice DeClerck']
+ABSTRACT:
+Achieving well-being for all, while protecting the environment, is one of the most pressing global challenges of our time, and a central idea in the UN Sustainable Development Goals (SDGs). We believe that integrating ecosystem services, the benefits nature provides to people, into strategies for meeting the SDGs can help achieve this. Many development goals are likely underpinned by the delivery of one or more ecosystem services. Understanding how these services could support multiple development targets will be essential for planning synergistic and cost-effective interventions. Here we present the results of an expert survey on the contributions of 16 ecosystem services to achieving SDG targets linked to environment and human well-being, and review the capacity of modelling tools to evaluate SDG-relevant ecosystem services interactions. Survey respondents judged that individual ecosystem services could make important contributions to achieving 41 targets across 12 SDGs. The provision of food and water, habitat & biodiversity maintenance, and carbon storage & sequestration were perceived to each make contributions to >14 SDG targets, suggesting cross-target interactions are likely, and may present opportunities for synergistic outcomes across multiple SDGs. Existing modelling tools are well-aligned to support SDG-relevant ecosystem service planning. Together, this work identifies entry points and tools to further analyze the role of ecosystem services to support the SDGs.
+
+SOURCE: Ecosystem services
+PDF URL: None
+CITED BY COUNT: 349
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Sustainable development', 'Environmental resource management', 'Business', 'Work (physics)', 'Ecosystem', 'Service (business)', 'Environmental planning', 'Ecology', 'Environmental science', 'Engineering', 'Marketing', 'Biology', 'Mechanical engineering']

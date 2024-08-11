@@ -1,0 +1,12 @@
+ID: W2167976739
+TITLE: Where temperate meets tropical: multi‐factorial effects of elevated CO<sub>2</sub>, nitrogen enrichment, and competition on a mangrove‐salt marsh community
+AUTHOR: ['Karen L. McKee', 'J. Rooth']
+ABSTRACT:
+Abstract Our understanding of how elevated CO 2 and interactions with other factors will affect coastal plant communities is limited. Such information is particularly needed for transitional communities where major vegetation types converge. Tropical mangroves ( Avicennia germinans ) intergrade with temperate salt marshes ( Spartina alterniflora ) in the northern Gulf of Mexico, and this transitional community represents an important experimental system to test hypotheses about global change impacts on critical ecosystems. We examined the responses of A. germinans (C 3 ) and S. alterniflora (C 4 ), grown in monoculture and mixture in mesocosms for 18 months, to interactive effects of atmospheric CO 2 and pore water nitrogen (N) concentrations typical of these marshes. A. germinans , grown without competition from S. alterniflora , increased final biomass (35%) under elevated CO 2 treatment and higher N availability. Growth of A. germinans was severely curtailed, however, when grown in mixture with S. alterniflora , and enrichment with CO 2 and N could not reverse this growth suppression. A field experiment using mangrove seedlings produced by CO 2 ‐ and N‐enriched trees confirmed that competition from S. alterniflora suppressed growth under natural conditions and further showed that herbivory greatly reduced survival of all seedlings. Thus, mangroves will not supplant marsh vegetation due to elevated CO 2 alone, but instead will require changes in climate, environmental stress, or disturbance to alter the competitive balance between these species. However, where competition and herbivory are low, elevated CO 2 may accelerate mangrove transition from the seedling to sapling stage and also increase above‐ and belowground production of existing mangrove stands, particularly in combination with higher soil N.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 146
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Spartina alterniflora', 'Salt marsh', 'Mangrove', 'Biomass (ecology)', 'Environmental science', 'Competition (biology)', 'Ecosystem', 'Ecology', 'Temperate climate', 'Marsh', 'Vegetation (pathology)', 'Plant community', 'Agronomy', 'Spartina', 'Wetland', 'Biology', 'Species richness', 'Medicine', 'Pathology']

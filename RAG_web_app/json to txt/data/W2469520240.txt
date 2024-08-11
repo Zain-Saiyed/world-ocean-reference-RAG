@@ -1,0 +1,12 @@
+ID: W2469520240
+TITLE: Ecosystem effects of invertebrate fisheries
+AUTHOR: ['Tyler D. Eddy', 'Heike K. Lotze', 'Elizabeth A. Fulton', 'Marta Coll', 'Cameron H. Ainsworth', 'Júlio Neves de Araújo', 'C. M. Bulman', 'Alida Bundy', 'Villy Christensen', 'John C. Field', 'Neil Gribble', 'Mejs Hasan', 'Steven Mackinson', 'Howard Townsend']
+ABSTRACT:
+Abstract Since the 1950s, invertebrate fisheries catches have rapidly expanded globally to more than 10 million tonnes annually, with twice as many target species, and are now significant contributors to global seafood provision, export, trade and local livelihoods. Invertebrates play important and diverse functional roles in marine ecosystems, yet the ecosystem effects of their exploitation are poorly understood. Using 12 ecosystem models distributed worldwide, we analysed the trade‐offs of various invertebrate fisheries and their ecosystem effects as well as ecological indicators. Although less recognized for their contributions to marine food webs, our results show that the magnitude of trophic impacts of invertebrates on other species of commercial and conservation interest is comparable with those of forage fish. Generally, cephalopods showed the strongest ecosystem effects and were characterized by a strong top‐down predatory role. Lobster, and to a lesser extent, crabs, shrimp and prawns, also showed strong ecosystem effects, but at lower trophic levels. Benthic invertebrates, including epifauna and infauna, also showed considerable ecosystem effects, but with strong bottom‐up characteristics. In contrast, urchins, bivalves, and gastropods showed generally lower ecosystem effects in our simulations. Invertebrates also strongly contributed to benthic–pelagic coupling, with exploitation of benthic invertebrates impacting pelagic fishes and vice versa. Finally, on average, invertebrates produced maximum sustainable yield at lower levels of depletion (~45%) than forage fish (~65%), highlighting the need for management targets that avoid negative consequences for target species and marine ecosystems as a whole.
+
+SOURCE: Fish and fisheries
+PDF URL: None
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Invertebrate', 'Trophic level', 'Benthic zone', 'Fishery', 'Marine ecosystem', 'Pelagic zone', 'Ecology', 'Food web', 'Nekton', 'Biology', 'Trophic cascade', 'Ecosystem-based management', 'Estuary']

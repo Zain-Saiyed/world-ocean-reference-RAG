@@ -1,0 +1,12 @@
+ID: W2946336750
+TITLE: Global change drives modern plankton communities away from the pre-industrial state
+AUTHOR: ['Lukas Jonkers', 'Helmut Hillebrand', 'Michal Kučera']
+ABSTRACT:
+The ocean-the Earth's largest ecosystem-is increasingly affected by anthropogenic climate change1,2. Large and globally consistent shifts have been detected in species phenology, range extension and community composition in marine ecosystems3-5. However, despite evidence for ongoing change, it remains unknown whether marine ecosystems have entered an Anthropocene6 state beyond the natural decadal to centennial variability. This is because most observational time series lack a long-term baseline, and the few time series that extend back into the pre-industrial era have limited spatial coverage7,8. Here we use the unique potential of the sedimentary record of planktonic foraminifera-ubiquitous marine zooplankton-to provide a global pre-industrial baseline for the composition of modern species communities. We use a global compilation of 3,774 seafloor-derived planktonic foraminifera communities of pre-industrial age9 and compare these with communities from sediment-trap time series that have sampled plankton flux since AD 1978 (33 sites, 87 observation years). We find that the Anthropocene assemblages differ from their pre-industrial counterparts in proportion to the historical change in temperature. We observe community changes towards warmer or cooler compositions that are consistent with historical changes in temperature in 85% of the cases. These observations not only confirm the existing evidence for changes in marine zooplankton communities in historical times, but also demonstrate that Anthropocene communities of a globally distributed zooplankton group systematically differ from their unperturbed pre-industrial state.
+
+SOURCE: Nature
+PDF URL: None
+CITED BY COUNT: 102
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Anthropocene', 'Zooplankton', 'Foraminifera', 'Plankton', 'Ecosystem', 'Oceanography', 'Marine ecosystem', 'Climate change', 'Ecology', 'Baseline (sea)', 'Global change', 'Environmental science', 'Geography', 'Geology', 'Biology', 'Benthic zone']

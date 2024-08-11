@@ -1,0 +1,12 @@
+ID: W2296345902
+TITLE: Drawing the line on coastline recession risk
+AUTHOR: ['Ruben Jongejan', 'Roshanka Ranasinghe', 'David Wainwright', 'David P. Callaghan', 'Johan Reyns']
+ABSTRACT:
+Climate change and the growth of coastal communities will significantly increase the socio-economic risks associated with coastline recession (i.e. the net long term landward movement of the coastline). Coastal setback lines are a commonly adopted management/planning tool to mitigate these risks. While it is widely recognized that planning decisions should be risk-informed, setback lines are presently determined using deterministic methods that cannot easily be related to considerations regarding the tolerability of risks. Here, we present a model for quantifying the risks posed by coastline recession and show how it can be used for deriving economically optimal setback lines. A demonstration at Narrabeen beach, Sydney, Australia illustrates that the proposed risk-informed approach to coastal zone management can significantly improve the transparency and efficiency of land-use planning decisions.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Setback', 'Recession', 'Risk management', 'Climate change', 'Transparency (behavior)', 'Environmental resource management', 'Environmental planning', 'Business', 'Geography', 'Environmental science', 'Computer science', 'Economics', 'Geology', 'Oceanography', 'Finance', 'Civil engineering', 'Engineering', 'Keynesian economics', 'Computer security']

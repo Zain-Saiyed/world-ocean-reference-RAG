@@ -1,0 +1,12 @@
+ID: W2145836150
+TITLE: From silk to satellite: half a century of ocean colour anomalies in the Northeast Atlantic
+AUTHOR: ['\u202aDionysios E. Raitsos', 'Yaswant Pradhan', 'Samantha Lavender', 'Ibrahim Hoteit', 'Abigail McQuatters‐Gollop', 'Phillip C. Reid', 'Anthony J. Richardson']
+ABSTRACT:
+Abstract Changes in phytoplankton dynamics influence marine biogeochemical cycles, climate processes, and food webs, with substantial social and economic consequences. Large‐scale estimation of phytoplankton biomass was possible via ocean colour measurements from two remote sensing satellites – the Coastal Zone Colour Scanner ( CZCS , 1979–1986) and the Sea‐viewing Wide Field‐of‐view Sensor (SeaWi FS , 1998–2010). Due to the large gap between the two satellite eras and differences in sensor characteristics, comparison of the absolute values retrieved from the two instruments remains challenging. Using a unique in situ ocean colour dataset that spans more than half a century, the two satellite‐derived chlorophyll‐a (Chl‐a) eras are linked to assess concurrent changes in phytoplankton variability and bloom timing over the Northeast Atlantic Ocean and North Sea. Results from this unique re‐analysis reflect a clear increasing pattern of Chl‐a, a merging of the two seasonal phytoplankton blooms producing a longer growing season and higher seasonal biomass, since the mid‐1980s. The broader climate plays a key role in Chl‐a variability as the ocean colour anomalies parallel the oscillations of the Northern Hemisphere Temperature ( NHT ) since 1948.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Oceanography', 'Environmental science', 'SeaWiFS', 'Ocean color', 'Northern Hemisphere', 'Satellite', 'Biogeochemical cycle', 'Bloom', 'Climatology', 'Climate change', 'Geology', 'Ecology', 'Nutrient', 'Biology', 'Aerospace engineering', 'Engineering']

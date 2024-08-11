@@ -1,0 +1,12 @@
+ID: W2589288744
+TITLE: Decadal trends in phytoplankton production in the Pacific Arctic Region from 1950 to 2012
+AUTHOR: ['Victoria Hill', 'Mathieu Ardyna', 'Sang H. Lee', 'Diana E. Varela']
+ABSTRACT:
+This paper provides a synthesis of available in situ primary production (PP) measurements from the Pacific Arctic Region (PAR), collected between 1950 and 2012. Seasonal integrated primary production (IPP) across the PAR was calculated from 524 profiles, 340 of which were also analyzed to determine the average vertical distribution of PP rates for spring, summer and fall months. The Chirikov Basin and Chukchi Shelf were the most productive areas, with the East Siberian Sea, Chukchi Plateau and Canada Basin the lowest. Decadal-scale changes were indicated in the southern Chukchi Sea, and across Hanna Shoal. In the southern Chukchi Sea in August, IPP increased significantly from 113±35 mg C m-2 d-1 in 1959 and 1960 to 833±307 mg C m-2 d-1 in the 2000 s. Increases in the magnitude of IPP were accompanied by variations in the vertical distribution, the subsurface peak observed in the 1959/60 was not present in the 2000 s. The mechanism behind this change was undetermined but could have included changes in stratification, mixing or surface distribution of water masses as well as methodological differences. Over Hanna Shoal, the phytoplankton surface bloom now occurs earlier by several weeks compared to 1993, linked to increases in light due to earlier sea- ice retreat. In 1993 with sea ice still present in the region the surface bloom occurred in August, in 2002 and 2004 this same period was characterized by open water and low surface PP and strong subsurface production. This dataset provides a region-wide quantification of IPP and decadal trends and highlights the need for a cooperative monitoring program to observe the long-term impacts of climate change in the Arctic ecosystem.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S0967064516300959
+CITED BY COUNT: 77
+PUBLICATION YEAR: 2018
+TYPE: preprint
+CONCEPTS: ['Shoal', 'Oceanography', 'Canada Basin', 'Arctic', 'Stratification (seeds)', 'Phytoplankton', 'Geology', 'Environmental science', 'Sea ice', 'Climatology', 'Nutrient', 'Seed dormancy', 'Botany', 'Germination', 'Chemistry', 'Organic chemistry', 'Dormancy', 'Biology']

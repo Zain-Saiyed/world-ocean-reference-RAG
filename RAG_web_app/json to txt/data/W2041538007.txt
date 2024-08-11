@@ -1,0 +1,12 @@
+ID: W2041538007
+TITLE: Changes in dive behavior during naval sonar exposure in killer whales, long-finned pilot whales, and sperm whales
+AUTHOR: ['Lise Doksæter Sivle', 'Petter H. Kvadsheim', 'Andreas Fahlman', 'Frans‐Peter A. Lam', 'Peter L. Tyack', 'Patrick Miller']
+ABSTRACT:
+Anthropogenic underwater sound in the environment might potentially affect the behavior of marine mammals enough to have an impact on their reproduction and survival. Diving behavior of four killer whales (Orcinus orca), seven long-finned pilot whales (Globicephala melas), and four sperm whales (Physeter macrocephalus) was studied during controlled exposures to naval sonar [low frequency active sonar (LFAS): 1-2 kHz and mid frequency active sonar (MFAS): 6-7 kHz] during three field seasons (2006-2009). Diving behavior was monitored before, during and after sonar exposure using an archival tag placed on the animal with suction cups. The tag recorded the animal's vertical movement, and additional data on horizontal movement and vocalizations were used to determine behavioral modes. Killer whales that were conducting deep dives at sonar onset changed abruptly to shallow diving (ShD) during LFAS, while killer whales conducting deep dives at the onset of MFAS did not alter dive mode. When in ShD mode at sonar onset, killer whales did not change their diving behavior. Pilot and sperm whales performed normal deep dives (NDD) during MFAS exposure. During LFAS exposures, long-finned pilot whales mostly performed fewer deep dives and some sperm whales performed shallower and shorter dives. Acoustic recording data presented previously indicates that deep diving (DD) is associated with feeding. Therefore, the observed changes in dive behavior of the three species could potentially reduce the foraging efficiency of the affected animals.
+
+SOURCE: Frontiers in physiology
+PDF URL: https://www.frontiersin.org/articles/10.3389/fphys.2012.00400/pdf
+CITED BY COUNT: 55
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Sonar', 'Marine mammals and sonar', 'Oceanography', 'Sperm', 'Foraging', 'Fishery', 'Biology', 'Environmental science', 'Ecology', 'Geology', 'Botany']

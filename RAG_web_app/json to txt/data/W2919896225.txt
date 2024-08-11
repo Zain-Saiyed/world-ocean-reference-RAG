@@ -1,0 +1,12 @@
+ID: W2919896225
+TITLE: Resilience of Central Pacific reefs subject to frequent heat stress and human disturbance
+AUTHOR: ['Simon D. Donner', 'Jessica Carilli']
+ABSTRACT:
+Abstract Frequent occurrences of coral bleaching and associated coral mortality over recent decades have raised concerns about the survival of coral reefs in a warming planet. The El Niño-influenced coral reefs in the central Gilbert Islands of the Republic of Kiribati, which experience years with prolonged heat stress more frequently than 99% of the world’s reefs, may serve as a natural model for coral community response to frequent heat stress. Here we use nine years of survey data (2004–2012) and a suite of remote sensing variables from sites along gradients of climate variability and human disturbance in the region to evaluate the drivers of coral community response to, and recovery from, multiple heat stress events. The results indicate that the extent of bleaching was limited during the 2009–2010 El Niño event, in contrast to a similar 2004–2005 event, and was correlated with incoming light and historical temperature variability, rather than heat stress. Spatial and temporal patterns in benthic cover suggest growing resistance to bleaching-level heat stress among coral communities subject to high inter-annual temperature variability and local disturbance, due to the spread of “weedy” and temperature-tolerant species (e.g., Porites rus ) and the cloudy conditions in the region during El Niño events.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-40150-3.pdf
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coral', 'Disturbance (geology)', 'Reef', 'Coral bleaching', 'Coral reef', 'Benthic zone', 'Oceanography', 'Climate change', 'Ecology', 'Anthozoa', 'Environmental science', 'Heat stress', 'Geography', 'Porites', 'Resilience of coral reefs', 'Biology', 'Geology', 'Atmospheric sciences', 'Paleontology']

@@ -1,0 +1,12 @@
+ID: W2044564589
+TITLE: Influence of Algal Farming on Fish Assemblages
+AUTHOR: ['Kajsa C. Bergman', 'Sara Svensson', 'Marcus Öhman']
+ABSTRACT:
+We examined the influence of algal farming on fish assemblages in two shallow coastal lagoons in Zanzibar, Tanzania. Fish assemblages were visually investigated using a belt transect method and the line-intercept technique was used to examine the substrate composition. 101 species of fish belonging to 31 families were recorded. Algal farming affected the associated fish fauna in terms of abundance, species richness, trophic identity and fish community composition. However, the impact differed between the lagoons. Algal farms in one lagoon hosted a more abundant and diversified fish fauna than controls, whereas farms in the other lagoon exhibited lower fish densities and similar species diversity compared to controls. The discrepancies between lagoons may be an effect of differences in farming intensity and character of the substratum.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2001
+TYPE: article
+CONCEPTS: ['Fauna', 'Species richness', 'Transect', 'Ecology', 'Abundance (ecology)', 'Fish farming', 'Coastal fish', 'Fishery', 'Trophic level', 'Invertebrate', 'Biology', 'Species diversity', 'Geography', 'Fish <Actinopterygii>', 'Aquaculture', 'Coral reef fish']

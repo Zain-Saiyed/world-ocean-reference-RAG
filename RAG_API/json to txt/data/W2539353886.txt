@@ -1,0 +1,12 @@
+ID: W2539353886
+TITLE: Ecological solutions to reef degradation: optimizing coral reef restoration in the Caribbean and Western Atlantic
+AUTHOR: ['Diego Lirman', 'Stephanie Schopmeyer']
+ABSTRACT:
+Reef restoration activities have proliferated in response to the need to mitigate coral declines and recover lost reef structure, function, and ecosystem services. Here, we describe the recent shift from costly and complex engineering solutions to recover degraded reef structure to more economical and efficient ecological approaches that focus on recovering the living components of reef communities. We review the adoption and expansion of the coral gardening framework in the Caribbean and Western Atlantic where practitioners now grow and outplant 10,000's of corals onto degraded reefs each year. We detail the steps for establishing a gardening program as well as long-term goals and direct and indirect benefits of this approach in our region. With a strong scientific basis, coral gardening activities now contribute significantly to reef and species recovery, provide important scientific, education, and outreach opportunities, and offer alternate livelihoods to local stakeholders. While challenges still remain, the transition from engineering to ecological solutions for reef degradation has opened the field of coral reef restoration to a wider audience poised to contribute to reef conservation and recovery in regions where coral losses and recruitment bottlenecks hinder natural recovery.
+
+SOURCE: PeerJ
+PDF URL: https://peerj.com/articles/2597.pdf
+CITED BY COUNT: 143
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Coral reef organizations', 'Resilience of coral reefs', 'Aquaculture of coral', 'Coral reef protection', 'Restoration ecology', 'Ecology', 'Coral bleaching', 'Environmental issues with coral reefs', 'Ecosystem services', 'Fishery', 'Ecosystem', 'Geography', 'Environmental science', 'Biology']

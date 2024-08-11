@@ -1,0 +1,12 @@
+ID: W2897784225
+TITLE: Two decades of monitoring in marine debris ingestion in loggerhead sea turtle, Caretta caretta, from the western Mediterranean
+AUTHOR: ['Francesc Quiquet de Castàlia Vicent Doménech', 'Francisco Javier Aznar', 'Juan Antonio Raga', 'Jesús Tomás']
+ABSTRACT:
+Anthropogenic marine debris is one of the major worldwide threats to marine ecosystems. The EU Marine Strategy Framework Directive (MSFD) has established a protocol for data collection on marine debris from the gut contents of the loggerhead sea turtle (Caretta caretta), and for determining assessment values of plastics for Good Environmental Status (GES). GES values are calculated as percent turtles having more than average plastic weight per turtle. In the present study, we quantify marine debris ingestion in 155 loggerhead sea turtles collected in the period 1995-2016 in waters of western Mediterranean (North-east Spain). The study aims (1) to update and standardize debris ingestion data available from this area, (2) to analyse this issue over two decades using Zero-altered (hurdle) models and (3) to provide new data to compare the only GES value available (off Italian waters). The composition of marine debris (occurrence and amounts of different categories) was similar to that found in other studies for the western Mediterranean and their amounts seem not to be an important threat to turtle survival in the region. Model results suggest that, in the study area, (a) period of stranding or capture, (b) turtle size and (c) latitude are significant predictors of anthropogenic debris ingestion (occurrence and amount) in turtles. The GES value for late juvenile turtles (CCL>40 cm) has decreased in the last ten years in the study area, and this is very similar to that obtained in Italian waters. We also provide a GES value for early juvenile turtles (CCL≤40 cm) for the first time. Recommendations arising from this study include ensuring use of (1) the standardized protocol proposed by the MSFD for assessing marine debris ingestion by loggerhead sea turtles and (2) the ecology of the turtles (neritic vs oceanic), rather than their size, to obtain GES values.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine debris', 'Debris', 'Mediterranean sea', 'Sea turtle', 'Mediterranean climate', 'Fishery', 'Turtle (robot)', 'Oceanography', 'Microplastics', 'Environmental science', 'Biology', 'Geology', 'Ecology']

@@ -1,0 +1,12 @@
+ID: W2158650102
+TITLE: Extinction risk assessment of the world’s seagrass species
+AUTHOR: ['Frederick T. Short', 'Beth Polidoro', 'Suzanne R. Livingstone', 'Kent E. Carpenter', 'Salomão Bandeira', 'Japar Sidik Bujang', 'H. P. Calumpong', 'Tim J. B. Carruthers', 'Robert G. Coles', 'William C. Dennison', 'P.L.A. Erftemeijer', 'Miguel D. Fortes', 'Aaren S. Freeman', 'T.G. Jagtap', 'Abu Hena Mustafa Kamal', 'Gary A. Kendrick', 'W. J. Kenworthy', 'Yayu A. La Nafie', 'Ichwan M. Nasution', 'Robert J. Orth', 'Anchana Prathep', 'Jonnell C. Sanciangco', 'Brigitta I. van Tussenbroek', 'Sheila Vergara', 'Michelle Waycott', 'Joseph C. Zieman']
+ABSTRACT:
+Seagrasses, a functional group of marine flowering plants rooted in the world’s coastal oceans, support marine food webs and provide essential habitat for many coastal species, playing a critical role in the equilibrium of coastal ecosystems and human livelihoods. For the first time, the probability of extinction is determined for the world’s seagrass species under the Categories and Criteria of the International Union for the Conservation of Nature (IUCN) Red List of Threatened Species. Several studies have indicated that seagrass habitat is declining worldwide. Our focus is to determine the risk of extinction for individual seagrass species, a 4-year process involving seagrass experts internationally, compilation of data on species’ status, populations, and distribution, and review of the biology and ecology of each of the world’s seagrass species. Ten seagrass species are at elevated risk of extinction (14% of all seagrass species), with three species qualifying as Endangered. Seagrass species loss and degradation of seagrass biodiversity will have serious repercussions for marine biodiversity and the human populations that depend upon the resources and ecosystem services that seagrasses provide.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 596
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Seagrass', 'IUCN Red List', 'Threatened species', 'Endangered species', 'Biodiversity', 'Extinction (optical mineralogy)', 'Ecology', 'Habitat', 'Critically endangered', 'Biology', 'Geography', 'Fishery', 'Paleontology']

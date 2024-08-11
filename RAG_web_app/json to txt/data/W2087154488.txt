@@ -1,0 +1,12 @@
+ID: W2087154488
+TITLE: Change in El Niño flavours over 1958–2008: Implications for the long-term trend of the upwelling off Peru
+AUTHOR: ['Boris Dewitte', 'Jorge Vazquez‐Cuervo', 'Katerina Goubanova', 'Séréna Illig', 'K. Takahashi', 'Gildas Cambon', 'Sara Purca', 'David Correa', 'Dimitri Gutiérrez', 'A. Sifeddine', 'Luc Ortlieb']
+ABSTRACT:
+The tropical Pacific variability has experienced changes in its characteristics over the last decades. In particular, there is some evidence of an increased occurrence of El Niño events in the central Pacific (a.k.a. ‘Central Pacific El Niño’ (CP El Niño) or ‘El Niño Modoki’), in contrast with the cold tongue or Eastern Pacific (EP) El Niño which develops in the eastern Pacific. Here we show that the different flavours of El Niño imply a contrasted Equatorial Kelvin Wave (EKW) characteristic and that their rectification on the mean upwelling condition off Peru through oceanic teleconnection is changed when the CP El Niño frequency of occurrence increases. The Simple Ocean Data Assimilation (SODA) reanalysis product is first used to document the seasonal evolution of the EKW during CP and EP El Niño. It is shown that the strong positive asymmetry of ENSO (El Niño Southern Oscillation) is mostly reflected into the EKW activity of the EP El Niño whereas during CP El Niño, the EKW is negatively skewed in the eastern Pacific. Along with slightly cooler conditions off Peru (shallow thermocline) during CP El Niño, this is favourable for the accumulation of cooler SST anomalies along the coast by the remotely forced coastal Kelvin wave. Such a process is observed in a high-resolution regional model of the Humboldt Current system using the SODA outputs as boundary conditions. In particular the model simulates a cooling trend of the SST off Peru although the wind stress forcing has no trend. The model is further used to document the vertical structure along the coast during the two types of El Niño. It is suggested that the increased occurrence of the CP El Niño may also lead to a reduction of mesoscale activity off Peru.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2012
+TYPE: preprint
+CONCEPTS: ['Upwelling', 'Kelvin wave', 'El Niño Southern Oscillation', 'Climatology', 'Oceanography', 'Geology', 'Sea surface temperature', 'Thermocline', 'Teleconnection', 'La Niña', 'Pacific decadal oscillation', 'Environmental science']

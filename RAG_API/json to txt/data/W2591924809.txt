@@ -1,0 +1,12 @@
+ID: W2591924809
+TITLE: Bioerosion: the other ocean acidification problem
+AUTHOR: ['Christine H L Schönberg', 'James Kar‐Hei Fang', 'Marina Carreiro‐Silva', 'Aline Tribollet', 'Max Wisshak']
+ABSTRACT:
+Bioerosion of calcium carbonate is the natural counterpart of biogenic calcification. Both are affected by ocean acidification (OA). We summarize definitions and concepts in bioerosion research and knowledge in the context of OA, providing case examples and meta-analyses. Chemically mediated bioerosion relies on energy demanding, biologically controlled undersaturation or acid regulation and increases with simulated OA, as does passive dissolution. Through substrate weakening both processes can indirectly enhance mechanical bioerosion, which is not directly affected by OA. The low attention and expert knowledge on bioerosion produced some ambiguous views and approaches, and limitations to experimental studies restricted opportunities to generalize. Comparability of various bioerosion and calcification rates remains difficult. Physiological responses of bioeroders or interactions of environmental factors are insufficiently studied. We stress the importance to foster and advance high quality bioerosion research as global trends suggest the following: (i) growing environmental change (eutrophication, coral mortality, OA) is expected to elevate bioerosion in the near future; (ii) changes harmful to calcifiers may not be as severe for bioeroders (e.g. warming); and (iii) factors facilitating bioerosion often reduce calcification rates (e.g. OA). The combined result means that the natural process bioerosion has itself become a “stress factor”&amp;#x94; for reef health and resilience.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/74/4/895/28655273/fsw254.pdf
+CITED BY COUNT: 115
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Bioerosion', 'Ecology', 'Ocean acidification', 'Coral reef', 'Environmental science', 'Context (archaeology)', 'Climate change', 'Oceanography', 'Biology', 'Geology', 'Paleontology']

@@ -1,0 +1,12 @@
+ID: W2270845284
+TITLE: Remote Sensing of Coral Reefs for Monitoring and Management: A Review
+AUTHOR: ['John D. Hedley', 'Chris Roelfsema', 'Iliana Chollett', 'Alastair R. Harborne', 'Scott F. Heron', 'Scarla J. Weeks', 'William Skirving', 'A. E. Strong', 'C. Mark Eakin', 'Thomas Budde Christensen', 'Victor S. Ticzon', 'Sonia Bejarano', 'Peter J. Mumby']
+ABSTRACT:
+Coral reefs are in decline worldwide and monitoring activities are important for assessing the impact of disturbance on reefs and tracking subsequent recovery or decline. Monitoring by field surveys provides accurate data but at highly localised scales and so is not cost-effective for reef scale monitoring at frequent time points. Remote sensing from satellites is an alternative and complementary approach. While remote sensing cannot provide the level of detail and accuracy at a single point than a field survey, the statistical power for inferring large scale patterns benefits in having complete areal coverage. This review considers the state of the art of coral reef remote sensing for the diverse range of objectives relevant for management, ranging from the composition of the reef: physical extent, benthic cover, bathymetry, rugosity; to environmental parameters: sea surface temperature, exposure, light, carbonate chemistry. In addition to updating previous reviews, here we also consider the capability to go beyond basic maps of habitats or environmental variables, to discuss concepts highly relevant to stakeholders, policy makers and public communication: such as biodiversity, environmental threat and ecosystem services. A clear conclusion of the review is that advances in both sensor technology and processing algorithms continue to drive forward remote sensing capability for coral reef mapping, particularly with respect to spatial resolution of maps, and synthesis across multiple data products. Both trends can be expected to continue.
+
+SOURCE: Remote sensing
+PDF URL: https://www.mdpi.com/2072-4292/8/2/118/pdf?version=1456214068
+CITED BY COUNT: 269
+PUBLICATION YEAR: 2016
+TYPE: review
+CONCEPTS: ['Coral reef', 'Reef', 'Marine spatial planning', 'Rugosity', 'Coral bleaching', 'Remote sensing', 'Environmental science', 'Environmental resource management', 'Benthic zone', 'Marine protected area', 'Environmental monitoring', 'Computer science', 'Oceanography', 'Habitat', 'Geography', 'Ecology', 'Geology', 'Environmental engineering', 'Biology']

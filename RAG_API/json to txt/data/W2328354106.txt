@@ -1,0 +1,12 @@
+ID: W2328354106
+TITLE: Human Dimensions of Coral Reef Social-Ecological Systems
+AUTHOR: ['John N. Kittinger', 'Elena M. Finkbeiner', 'Edward W. Glazier', 'Larry B. Crowder']
+ABSTRACT:
+Coral reefs are among the most diverse ecosystems on the planet but are declining because of human activities.Despite general recognition of the human role in the plight of coral reefs, the vast majority of research focuses on the ecological rather than the human dimensions of reef ecosystems, limiting our understanding of social relationships with these environments as well as potential solutions for reef recovery.General frameworks for social-ecological systems (SESs) have been advanced, but system-specific approaches are needed to develop a more nuanced view of human-environmental interactions for specific contexts and resource systems, and at specific scales.We synthesize existing concepts related to SESs and present a human dimensions framework that explores the linkages between social system structural traits, human activities, ecosystem services, and human well-being in coral reef SESs.Key features of the framework include social-ecological reciprocity, proximate and underlying dimensions, and the directionality of key relationships and feedback loops.Such frameworks are needed if human dimensions research is to be more fully integrated into studies of ecosystem change and the sustainability of linked SESs.
+
+SOURCE: Ecology and society
+PDF URL: https://www.ecologyandsociety.org/vol17/iss4/art17/ES-2012-5115.pdf
+CITED BY COUNT: 121
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Coral reef', 'Reef', 'Ecology', 'Coral reef organizations', 'Coral', 'Geography', 'Resilience of coral reefs', 'Coral reef protection', 'Biology']

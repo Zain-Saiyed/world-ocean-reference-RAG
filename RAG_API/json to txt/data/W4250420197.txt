@@ -1,0 +1,12 @@
+ID: W4250420197
+TITLE: Marine Biodiversity, Biogeography, Deep-Sea Gradients, and Conservation
+AUTHOR: ['Mark J. Costello', 'Chhaya Chaudhary']
+ABSTRACT:
+(Current Biology 27, R511–R527; June 5, 2017) Figure 2CMarine Species Richness, Temperature, and Productivity (original)View Large Image Figure ViewerDownload Hi-res image Download (PPT)During preparation of the final figures for this Review, the sea surface temperature map in Figure 2C was mistakenly replaced with the wrong map. Figure 2C has now been replaced with the correct map online. The authors apologize for the error. Marine Biodiversity, Biogeography, Deep-Sea Gradients, and ConservationCostello et al.Current BiologyJune 05, 2017In BriefCostello and Chaudhary review the known number of marine species, the reasons for lower species numbers in the ocean than on land, and what implications this has for conservation efforts. Full-Text PDF Open Archive
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982217307170/pdf
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biogeography', 'Biology', 'Biodiversity', 'Species richness', 'Deep sea', 'Ecology', 'Oceanography', 'Fishery', 'Geology']

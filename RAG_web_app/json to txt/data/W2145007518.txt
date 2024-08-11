@@ -1,0 +1,12 @@
+ID: W2145007518
+TITLE: Temporal and spatial variability of biological nitrogen fixation off the upwelling system of central Chile (35–38.5°S)
+AUTHOR: ['Camila Fernández', 'María Lorena González', 'Cristina García Muñoz', 'Verónica Molina', 'Laura Farı́as']
+ABSTRACT:
+Abstract Although N 2 fixation could represent a supplementary source of bioavailable nitrogen in coastal upwelling areas and underlying oxygen minimum zones (OMZs), the limited data available prevent assessing its variability and biogeochemical significance. Here we report the most extensive N 2 fixation data set gathered to date in the upwelling area off central Chile (36°S). It covers interannual to high frequency time scales in an area of about 82,500 km 2 in the eastern South Pacific (ESP). Because heterotrophic N 2 fixation may be regulated by DOM availability in the ESP, we conducted experiments at different oxygen conditions and included DOM amendments in order to test diazotrophic activity. Rates in the euphotic zone showed strong temporal variability which resulted in values reaching 0.5 nmol L −1 d −1 in 2006 (average 0.32 ± 0.17 nmol L −1 d −1 ) and up to 126.8 nmol L −1 d −1 (average 24.75 ± 37.9 nmol L −1 d −1 ) in 2011. N 2 fixation in subsurface suboxic conditions (1.5 ± 1.16 nmol L −1 d −1 ) also occurred mainly during late summer and autumn while virtually absent in winter. The diversity of diazotrophs was dominated by heterotrophs, with higher richness in surface compared to OMZ waters. Rates in oxygen depleted conditions could exceed values obtained in the euphotic layer, but rates were not dependent on the availability of dissolved organic matter. N 2 fixation also showed a positive correlation with total chlorophyll and the C:N ratio of phytoplankton, but not to the P excess compared to N. We conclude that the diazotrophic community responds to the composition of phytoplankton rather than the extent of N deficiency and the availability of bulk DOM in this system.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2014JC010410
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Upwelling', 'Photic zone', 'Phytoplankton', 'Biogeochemical cycle', 'Diazotroph', 'Oceanography', 'Chlorophyll a', 'Environmental science', 'Heterotroph', 'Oxygen minimum zone', 'Nitrogen', 'Nitrogen fixation', 'Trichodesmium', 'Biology', 'Environmental chemistry', 'Chemistry', 'Ecology', 'Botany', 'Geology', 'Nutrient', 'Bacteria', 'Genetics', 'Organic chemistry']

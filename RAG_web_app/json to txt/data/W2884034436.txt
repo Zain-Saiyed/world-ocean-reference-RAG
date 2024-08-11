@@ -1,0 +1,12 @@
+ID: W2884034436
+TITLE: Risk assessment of microplastics in the ocean: Modelling approach and first conclusions
+AUTHOR: ['Gert Everaert', 'L. Van Cauwenberghe', 'Maarten De Rijcke', 'Albert A. Koelmans', 'Jan Mees', 'M. Vandegehuchte', 'Colin Janssen']
+ABSTRACT:
+We performed an environmental risk assessment for microplastics (<5 mm) in the marine environment by estimating the order of magnitude of the past, present and future concentrations based on global plastic production data. In 2100, from 9.6 to 48.8 particles m−3 are predicted to float around in the ocean, which is a 50-fold increase compared to the present-day concentrations. From a meta-analysis with effect data available in literature, we derived a safe concentration of 6650 buoyant particles m−3 below which adverse effects are not likely to occur. Our risk assessment (excluding the potential role of microplastics as chemical vectors) suggests that on average, no direct effects of free-floating microplastics in the marine environment are to be expected up to the year 2100. Yet, even today, the safe concentration can be exceeded in sites that are heavily polluted with buoyant microplastics. In the marine benthic compartment between 32 and 144 particles kg−1 dry sediment are predicted to be present in the beach deposition zone. Despite the scarcity of effect data, we expect adverse ecological effects along the coast as of the second half of the 21st century. From then ambient concentrations will start to outrange the safe concentration of sedimented microplastics (i.e. 540 particles kg−1 sediment). Additional ecotoxicological research in which marine species are chronically exposed to realistic environmental microplastic concentration series are urgently needed to verify our findings.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 329
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microplastics', 'Environmental science', 'Benthic zone', 'Sediment', 'Oceanography', 'Environmental chemistry', 'Biology', 'Geology', 'Chemistry', 'Paleontology']

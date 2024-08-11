@@ -1,0 +1,12 @@
+ID: W2009757165
+TITLE: Rare earth element abundances in some seawaters and related river waters from the Osaka Bay area, Japan: Significance of anthropogenic Gd
+AUTHOR: ['Tomoya Ogata', 'Yasutaka Terakado']
+ABSTRACT:
+Some major and trace elements in seawaters and related river waters from the Osaka Bay area, Japan were analyzed in order to examine rare earth element (REE) behaviors, especially the relationship between anthropogenic gadolinium (Gd) and nutrient concentrations. The local silicic rock normalized REE patterns for the seawaters show features of light REE depletion, negative Ce anomaly, and very small Eu anomaly. Moreover, some samples have obvious positive Gd anomalies due to contamination of Magnetic Resonance Imaging (MRI) contrast agents in medical use. We calculated the anthropogenic Gd concentrations by subtracting the assumed natural Gd concentration from the measured one. The anthropogenic or excess Gd concentrations of the seawater samples are well correlated with nutrient concentrations (NH4-N, NO2-N, NO3-N, PO4-P). Because both anthropogenic Gd and nutrients are abundant in sewage treatment plant (STP) effluents and much less abundant in non-contaminated river and seawaters, the observed trends can be explained by dilution of STP effluents with non-contaminated river and seawaters. It was found that the nutrient concentrations for a hypothetical STP effluent calculated by using these correlation lines are consistent with the average nutrient contents for the STP effluents in the study area. Moreover, we made a rough estimation of Gd budget in Osaka Bay. The estimated amount of the Gd MRI contrast agents consumed in the area seems to be consistent with the excess Gd concentrations of river and STP waters. The Gd observations in this study suggest that the Gd anomaly data can be used as a geochemical tracer of wastewater component in urban areas.
+
+SOURCE: Geochemical Journal/Geochemical journal
+PDF URL: https://www.jstage.jst.go.jp/article/geochemj/40/5/40_5_463/_pdf
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Seawater', 'Bay', 'Nutrient', 'Effluent', 'Rare-earth element', 'Environmental science', 'Environmental chemistry', 'Geology', 'Trace element', 'Dilution', 'Estuary', 'Oceanography', 'Mineralogy', 'Geochemistry', 'Chemistry', 'Rare earth', 'Organic chemistry', 'Physics', 'Environmental engineering', 'Thermodynamics']

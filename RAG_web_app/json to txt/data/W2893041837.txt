@@ -1,0 +1,12 @@
+ID: W2893041837
+TITLE: Growth and feeding of deep-sea coral <i>Lophelia pertusa</i> from the California margin under simulated ocean acidification conditions
+AUTHOR: ['Carlos E. Gómez', 'Leslie Wickes', 'Dan Deegan', 'Peter J. Etnoyer', 'Erik E. Cordes']
+ABSTRACT:
+The global decrease in seawater pH known as ocean acidification has important ecological consequences and is an imminent threat for numerous marine organisms. Even though the deep sea is generally considered to be a stable environment, it can be dynamic and vulnerable to anthropogenic disturbances including increasing temperature, deoxygenation, ocean acidification and pollution. Lophelia pertusa is among the better-studied cold-water corals but was only recently documented along the US West Coast, growing in acidified conditions. In the present study, coral fragments were collected at ∼300 m depth along the southern California margin and kept in recirculating tanks simulating conditions normally found in the natural environment for this species. At the collection site, waters exhibited persistently low pH and aragonite saturation states (Ω arag ) with average values for pH of 7.66 ± 0.01 and Ω arag of 0.81 ± 0.07. In the laboratory, fragments were grown for three weeks in “favorable” pH/Ω arag of 7.9/1.47 (aragonite saturated) and “unfavorable” pH/Ω arag of 7.6/0.84 (aragonite undersaturated) conditions. There was a highly significant treatment effect ( P &lt; 0.001) with an average% net calcification for favorable conditions of 0.023 ± 0.009% d −1 and net dissolution of −0.010 ± 0.014% d -1 for unfavorable conditions. We did not find any treatment effect on feeding rates, which suggests that corals did not depress feeding in low pH/ Ω arag in an attempt to conserve energy. However, these results suggest that the suboptimal conditions for L. pertusa from the California margin could potentially threaten the persistence of this cold-water coral with negative consequences for the future stability of this already fragile ecosystem.
+
+SOURCE: PeerJ
+PDF URL: https://peerj.com/articles/5671.pdf
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Aragonite', 'Coral', 'Oceanography', 'Seawater', 'Environmental science', 'Calcite', 'Environmental chemistry', 'Geology', 'Chemistry', 'Mineralogy']

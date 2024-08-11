@@ -1,0 +1,12 @@
+ID: W2465599017
+TITLE: Mangroves enhance local fisheries catches: a global meta‐analysis
+AUTHOR: ['Mauricio Carrasquilla‐Henao', 'Francis Juanes']
+ABSTRACT:
+Abstract Mangroves are among the most productive ecosystems in tropical and subtropical regions. Historically, mangroves are assumed to support artisanal fisheries, leading decision‐makers to protect mangroves based on this premise. However, this relationship remains unclear, despite positive correlations obtained in different geographical regions. Here, we provide the first meta‐analysis of the mangroves–fisheries linkage at a global level. After conducting a systematic review, 23 publications containing 51 studies estimating the mangrove–fishery linkage were obtained. A random effect model was used to estimate the effect size (Pearson's correlation coefficient) of each individual study as well as the overall effect size. We found strong evidence for the mangrove–fishery linkage with an overall effect size of r = 0.72 (95% CI : 0.61–0.81), and substantial heterogeneity was observed ( Q = 143.88, df = 50, P &lt; 0.01). The countries where the studies were carried out were the only significant moderator ( Q M = 26.07, P &lt; 0.01), while fisheries types ( i.e . crab, fish, shellfish, prawn and total) and global regions were not good predictors of the relationship. Our results show that mangrove area is a good predictor of fishery catches overall, confirming the importance of conserving such habitats.
+
+SOURCE: Fish and fisheries
+PDF URL: None
+CITED BY COUNT: 75
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Mangrove', 'Fishery', 'Fisheries management', 'Geography', 'Mangrove ecosystem', 'Ecology', 'Fishing', 'Biology']

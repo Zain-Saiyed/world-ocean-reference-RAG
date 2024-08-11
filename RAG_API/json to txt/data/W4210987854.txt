@@ -1,0 +1,12 @@
+ID: W4210987854
+TITLE: Marine natural products
+AUTHOR: ['Anthony R. Carroll', 'Brent R. Copp', 'Rohan A. Davis', 'Robert A. Keyzers', 'Michèle R. Prinsep']
+ABSTRACT:
+A comprehensive review of 1490 new MNPs including the first naturally occurring blue zwitterionic quinoids dactylocyanines A–H is presented.
+
+SOURCE: Natural product reports
+PDF URL: https://pubs.rsc.org/en/content/articlepdf/2019/np/c8np00092a
+CITED BY COUNT: 400
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Natural (archaeology)', 'Computational biology', 'Biology', 'Paleontology']

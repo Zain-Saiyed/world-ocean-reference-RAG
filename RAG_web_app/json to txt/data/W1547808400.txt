@@ -1,0 +1,12 @@
+ID: W1547808400
+TITLE: Predicting Global Patterns in Mangrove Forest Biomass
+AUTHOR: ['J.B. Hutchison', 'Andrea Manica', 'Ruth D. Swetnam', 'Andrew Balmford', 'Mark Spalding']
+ABSTRACT:
+Abstract Understanding spatial variation in carbon storage in natural habitats is critical for climate change mitigation efforts such as REDD. Terrestrial forests are being mapped with increasing accuracy, but the distribution of ``blue carbon'' in marine ecosystems remains poorly understood. We reviewed the literature to obtain field data on carbon storage and fluxes in mangroves world‐wide. Using this material we developed a climate‐based model for potential mangrove above‐ground biomass (AGB) with almost four times the explanatory power of the only previous published model. From this model, we present the first ever global map of potential mangrove AGB and estimate a total global mangrove AGB of 2.83 Pg, with an average of 184.8 t ha −1 . Data on other carbon stocks and fluxes confirm the importance of mangroves in carbon accounting. The map highlights the high variability in mangrove AGB and indicates areas that should be prioritised for mangrove conservation and restoration.
+
+SOURCE: Conservation letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/conl.12060
+CITED BY COUNT: 267
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Mangrove', 'Blue carbon', 'Environmental science', 'Biomass (ecology)', 'Climate change', 'Habitat', 'Carbon sequestration', 'Ecosystem', 'Climate change mitigation', 'Carbon stock', 'Global warming', 'Ecology', 'Geography', 'Carbon dioxide', 'Biology']

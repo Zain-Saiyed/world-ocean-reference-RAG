@@ -1,0 +1,12 @@
+ID: W2995195033
+TITLE: Assessing methods for restoring seagrass (Zostera muelleri) in Australia’s subtropical waters
+AUTHOR: ['Nele Svenja Wendländer', 'Troels Lange', 'Rod M. Connolly', 'Erik Kristensen', 'Ryan M. Pearson', 'Thomas Valdemarsen', 'Mogens Flindt']
+ABSTRACT:
+Zostera muelleri, the dominant seagrass species along the eastern coastline of Australia, has declined due to anthropogenic stressors, including reduced water clarity. Water quality has improved in recent years, but restoration efforts are hampered by limited knowledge of transplantation methods. To support future restoration efforts, we tested multiple techniques for transplanting mature seagrass shoots: (1) sediment cores with intact seagrass plants (plug); (2) individual shoots anchored on frames (frame); (3) frame methods combined with subsurface mats to exclude bioturbating animals (mat+frame); (4) above-ground cages to exclude grazing fish (cage+frame); and (5) combined treatment of above-ground cages and subsurface mats (cage+mat+frame). Transplant success over 10 months showed considerable variability among locations. At one site, seagrass persisted in all treatments, with highest growth in the mat+frame treatment. At two locations, uncaged shoots were lost within 6–35 days of transplanting, presumably due to grazing by fish. In treatments with cages, growth was again highest in the mat+frame treatment. At the fourth location, all seagrass was lost due to physical stress. Thus, we conclude that transplantation success is highest using the mat+frame technique, but overall success depends on careful assessment of biotic and abiotic stressors at the chosen locations.
+
+SOURCE: Marine and freshwater research
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Seagrass', 'Zostera marina', 'Biology', 'Transplantation', 'Transplanting', 'Abiotic component', 'Potamogetonaceae', 'Fishery', 'Ecology', 'Invertebrate', 'Environmental science', 'Habitat', 'Agronomy', 'Medicine', 'Surgery', 'Seedling']

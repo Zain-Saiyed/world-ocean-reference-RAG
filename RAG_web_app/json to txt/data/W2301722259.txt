@@ -1,0 +1,12 @@
+ID: W2301722259
+TITLE: Sea levels, shorelines and settlements on Pacific reef islands
+AUTHOR: ['Patrick D. Nunn']
+ABSTRACT:
+ABSTRACT A reassessment is made of the model of D ickinson (2003, J ournal of C oastal R esearch ), which proposed that many P acific island coasts were settled only after the palaeoreef flats or shore platforms that formed during the mid‐ H olocene sea‐level highstand emerged above high‐tide level: a point in time known as the crossover date. Focusing on reef (atoll) islands, the analysis suggests that this model has potential when applied to islands east of 178° E , with some, such as F unafuti ( T uvalu) and A tafu ( T okelau), being settled around the time of their crossover dates and others to the east and north‐east a few centuries later. The model fails to explain the settlement of atolls in the north‐west P acific ( M arshall I slands and eastern K iribati), where islands formed well before crossover dates, something that can be attributed to the larger tidal range and complex interplay between sea level and reef upgrowth. The enduring legacy of D ickinson to P acific archaeology is the demonstration that people were operating in a dynamic environment that presented them with new challenges and opportunities rather than in an environment that was static.
+
+SOURCE: Archaeology in Oceania/Archæology & physical anthropology in Oceania
+PDF URL: None
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Atoll', 'Reef', 'Shore', 'Human settlement', 'Sea level', 'Oceanography', 'Geography', 'Archaeology', 'Range (aeronautics)', 'Geology', 'Materials science', 'Composite material']

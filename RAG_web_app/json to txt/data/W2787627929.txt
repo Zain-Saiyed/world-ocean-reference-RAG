@@ -1,0 +1,12 @@
+ID: W2787627929
+TITLE: Ecosystem-based fisheries management: Perception on definitions, implementations, and aspirations
+AUTHOR: ['John T. Trochta', 'Maite Pons', 'Merrill B. Rudd', 'Melissa Krigbaum', 'Alexander Tanz', 'Ray Hilborn']
+ABSTRACT:
+Ecosystem-based fisheries management (EBFM) was developed to move beyond single species management by incorporating ecosystem considerations for the sustainable utilization of marine resources. Due to the wide range of fishery characteristics, including different goals of fisheries management across regions and species, theoretical best practices for EBFM vary greatly. Here we highlight the lack of consensus in the interpretation of EBFM amongst professionals in marine science and its implementation. Fisheries policy-makers and managers, stock assessment scientists, conservationists, and ecologists had very different opinions on the degree to which certain management strategies would be considered EBFM. We then assess the variability of the implementation of EBFM, where we created a checklist of characteristics typifying EBFM and scored fisheries across different regions, species, ecosystems, and fishery size and capacity. Our assessments show fisheries are unlikely to meet all the criteria on the EBFM checklist. Consequentially, it is unnecessary for management to practice all the traits of EBFM, as some may be disparate from the ecosystem attributes or fishery goals. Instead, incorporating some ecosystem-based considerations to fisheries management that are context-specific is a more realistic and useful way for EBFM to occur in practice.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0190467&type=printable
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fisheries management', 'Ecosystem', 'Context (archaeology)', 'Environmental resource management', 'Fishery', 'Business', 'Fisheries science', 'Ecology', 'Biology', 'Environmental science', 'Fishing', 'Paleontology']

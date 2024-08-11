@@ -1,0 +1,12 @@
+ID: W1980062565
+TITLE: Biodiversity and ecological composition of macrobenthos on cold-water coral mounds and adjacent off-mound habitat in the bathyal Porcupine Seabight, NE Atlantic
+AUTHOR: ['Lea‐Anne Henry', 'J. Murray Roberts']
+ABSTRACT:
+The cold-water scleractinian corals Lophelia pertusa and Madrepora oculata form mound structures on the continental shelf and slope in the NE Atlantic. This study is the first to compare the taxonomic biodiversity and ecological composition of the macrobenthos between on- and off-mound habitats. Seven box cores from the summits of three mounds and four cores from an adjacent off-mound area in the Belgica Mound Province in the Porcupine Seabight yielded 349 species, including 10 undescribed species. On-mound habitat was three times more speciose, and was richer with higher evenness and significantly greater Shannon's diversity than off-mound. Species composition differed significantly between habitats and the four best discriminating species were Pliobothrus symmetricus (more frequent off-mound), Crisia nov. sp, Aphrocallistes bocagei and Lophelia pertusa (all more frequent on-mound). Filter/suspension feeders were significantly more abundant on-mound, while deposit feeders were significantly more abundant off-mound. Species composition did not significantly differ between mounds, but similarity within replicates decreased from Galway Mound<Thérèse Mound<off-mound. We propose that, despite having greater vertical habitat heterogeneity that supports higher biodiversity, coral mounds have a characteristic "reef fauna" linked to species' biology that contrasts with the higher horizontal habitat heterogeneity conferred by the action of deposit feeders and a varied seabed sedimentary facies off-mound. Standardisation of equipment and restriction of analyses to higher taxonomic levels would facilitate prospective comparative analyses of cold-water coral biodiversity across larger spatio–temporal scales.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 252
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Macrobenthos', 'Bathyal zone', 'Ecology', 'Habitat', 'Biodiversity', 'Reef', 'Fauna', 'Biology', 'Oceanography', 'Geology', 'Benthic zone']

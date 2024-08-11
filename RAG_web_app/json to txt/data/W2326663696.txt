@@ -1,0 +1,12 @@
+ID: W2326663696
+TITLE: Measuring the Global Ocean Surface Circulation with Satellite and In Situ Observations
+AUTHOR: ['Kathleen Dohan', 'Kathleen Dohan', 'Kathleen Dohan', 'Kathleen Dohan', 'Kathleen Dohan', 'Kathleen Dohan', 'Kathleen Dohan', 'Kathleen Dohan', 'Kathleen Dohan', 'Kathleen Dohan']
+ABSTRACT:
+(1) Earth & Space Research, 2101 Fourth Ave, Suite 1310, Seattle WA, 98212, USA, Email: kdohan@esr.org; lager@esr.org (2) SAT-OCEAN, 53, Boulevard de la Reine, 78000 Versailles, France: Email: fabrice.bonjean@sat-ocean.com (3) Scripps Institution of Oceanography, UCSD (University of California, San Diego), 9500 Gilman Drive, MC 0213, La Jolla CA, 92093, USA, Email: lcenturioni@ucsd.edu; pniiler@ucsd.edu (4) NOAA (National Oceanic and Atmospheric Administration) Pacific Marine Environmental Laboratory, Ocean Climate Research Division, 7600 Sand Point Way NE, Seattle, WA, 98115, USA: Email: Meghan.F.Cronin@noaa.gov (5) Department of Marine Sciences, Pusan National University, Busan, 609-735, Korea, Email: lee@east.ocean.pusan.ac.kr (6) Physical Oceanography Division, NOAA/AOML (National Oceanic and Atmospheric Administration/Atlantic Oceanographic and Meteorological Laboratory), 4301 Rickenbacker Causeway, Miami, FL, 33149, USA, Email: Rick.Lumpkin@noaa.gov (7) International Pacific Research Center, SOEST (School of Ocean and Earth Science and Technology), University of Hawaii, 1680 East West Road, POST Bldg. #401, Honolulu, Hawaii, 96822, USA, Email: maximenk@hawaii.edu (8) IORGC ((Institute of Observational Research for Global Change), Japan Agency for Marine-Earth Science and Technology, 2-15 NatsushimaCho, Yokosuka, Kanagawa 237-0061, Japan, Email: huchida@jamstec.go.jp
+
+SOURCE: None
+PDF URL: http://www.oceanobs09.net/proceedings/cwp/Dohan-OceanObs09.cwp.23.pdf
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Satellite', 'In situ', 'Sea surface temperature', 'Circulation (fluid dynamics)', 'Ocean current', 'Climatology', 'Ocean surface topography', 'Environmental science', 'Oceanography', 'Remote sensing', 'Geology', 'Meteorology', 'Geography', 'Aerospace engineering', 'Engineering']

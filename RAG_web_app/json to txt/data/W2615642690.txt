@@ -1,0 +1,12 @@
+ID: W2615642690
+TITLE: Formation of sediment waves by turbidity currents and geostrophic flows: A discussion
+AUTHOR: ['I Nick McCave']
+ABSTRACT:
+A condition for the existence of sediment waves under turbidity currents as antidunes with the requirement of a slope gradient ≥ 3.0 × 10− 3 is deduced. Data show no such waves on slopes < 2.5 × 10− 3, but some contourite mudwaves occur on slopes as low as 4.4 × 10− 4. However the latter also occur on slopes > 3 × 10− 3 so no clear distinction is possible. Where turbidity current channels cross sediment drifts, or geostrophic flows traverse turbidite fans, the origin of most mudwaves will need to be determined by reference to internal features and context. A key problem is deposition of mud as antidunes from turbidity currents where even the waning flow is probably well above the critical erosion velocity for a clear flow. Deposition must occur from high concentration flows well above clear water critical depositional stresses. Once a wavy bed is set up, subsequent deposition may occur via the lee-wave mechanism proposed for contourite waves under a gradient Froude Number > 1. A steep angle (< 45°) between crest and flow axes is typical of GF waves, which may be dunes or antidunes, whereas TC waves tend to be orthogonal, but data on this discriminant are sparse.
+
+SOURCE: Marine geology
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Turbidity current', 'Geology', 'Turbidite', 'Contourite', 'Froude number', 'Geomorphology', 'Geostrophic wind', 'Deposition (geology)', 'Beach morphodynamics', 'Context (archaeology)', 'Sediment', 'Sediment transport', 'Bedform', 'Sedimentary depositional environment', 'Flow (mathematics)', 'Oceanography', 'Geometry', 'Paleontology', 'Structural basin', 'Mathematics']

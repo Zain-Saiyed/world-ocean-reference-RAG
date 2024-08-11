@@ -1,0 +1,12 @@
+ID: W2510508657
+TITLE: Biometric assessment of deep-sea vent megabenthic communities using multi-resolution 3D image reconstructions
+AUTHOR: ['Blair Thornton', 'Adrian Bodenmann', 'Oscar Pizarro', 'Stefan B. Williams', 'Ariell Friedman', 'Ryota Nakajima', 'Ken Takai', 'Kaori Motoki', 'Tomo‐o Watsuji', 'Hisako Hirayama', 'Yohei Matsui', 'Hiromi Watanabe', 'Tamaki Ura']
+ABSTRACT:
+This paper describes a method to survey the distribution of megabenthos over multi-hectare regions of the seafloor. Quantitative biomass estimates are made by combining high-resolution 3D image reconstructions, used to model spatial relationships between representative taxa, with lower-resolution reconstructions taken over a wider area in which the distribution of larger predatory animals can be observed. The method is applied to a region of the Iheya North field that was the target of scientific drilling during the IODP Expedition 331 in 2010. An area of 2.5 ha was surveyed 3 years and 4 months after the site was drilled. More than 100,000 organisms from 6 taxa were identified. The visible effects of drilling on the distribution of megabenthos were confined to a 20 m radius of the artificially created hydrothermal discharges, with the associated densities of biomass lower than observed in nearby naturally discharging areas.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seafloor spreading', 'Geology', 'Drilling', 'Biomass (ecology)', 'High resolution', 'Paleontology', 'RADIUS', 'Terrain', 'Taxon', 'Remote sensing', 'Physical geography', 'Oceanography', 'Geography', 'Cartography', 'Computer science', 'Mechanical engineering', 'Computer security', 'Engineering']

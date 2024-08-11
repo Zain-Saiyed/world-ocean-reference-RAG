@@ -1,0 +1,12 @@
+ID: W2613324804
+TITLE: Shedding light on the Imps of Darkness: an integrative taxonomic revision of the Galápagos marine iguanas (genus Amblyrhynchus)
+AUTHOR: ['Aurélien Miralles', 'A. MacLeod', 'Ariel Rodríguez', 'Alejandro Ibáñez', 'Gustavo Jiménez-Uzcátegui', 'Galo Quezada', 'Miguel Vences', 'Sebastian Steinfartz']
+ABSTRACT:
+Marine iguanas are among the most highly emblematic taxa of the Galápagos archipelago but have paradoxically received little attention from taxonomists. Amblyrhynchus is currently considered as a monotypic genus with a total of seven subspecies, A. cristatus cristatus, A. c. nanus, A. c. venustissimus, A. c. albemarlensis, A. c. hassi, A. c. mertensi and A. c. sielmanni. Although consensually followed for more than half a century, this classification does not properly reflect the main natural subdivisions inferred by more recent molecular evolutionary studies. We integrate population genetics, phylogenomics and comparative morphology to propose an updated taxonomy reflecting the evolutionary history of this group. We recognize a single species with 11 divergent population clusters at the level of subspecies: A. c. albermarlensis is recognized as a junior synonym of A. c. cristatus, and five new subspecies are described: A. c. godzilla subsp. nov. (San Cristóbal-Punta Pitt), A. c. jeffreysi subsp. nov. (Wolf and Darwin), A. c. hayampi subsp. nov. (Marchena), A. c. trillmichi subsp. nov. (Santa Fé) and A. c. wikelskii subsp. nov. (Santiago). Recognizing the genetically divergent population clusters as subspecies also highlights several of them as management units in need of conservation efforts, such as the two subspecies endemic to San Cristóbal.
+
+SOURCE: Zoological journal of the Linnean Society
+PDF URL: https://academic.oup.com/zoolinnean/article-pdf/181/3/678/21578674/zlx007.pdf
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Subspecies', 'Biology', 'Archipelago', 'Zoology', 'Taxon', 'Taxonomy (biology)', 'Genus', 'Synonym (taxonomy)', 'Population', 'Evolutionary biology', 'Ecology', 'Demography', 'Sociology']

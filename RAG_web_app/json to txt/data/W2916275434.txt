@@ -1,0 +1,12 @@
+ID: W2916275434
+TITLE: Rockall and Hatton: Resolving a Super Wicked Marine Governance Problem in the High Seas of the Northeast Atlantic Ocean
+AUTHOR: ['David E. Johnson', 'Christopher Barrio Froján', 'Francis Neat', 'Dick van Oevelen', 'David Stirling', 'M. Gubbins', 'J. Murray Roberts']
+ABSTRACT:
+The Hatton-Rockall plateau in the northeast Atlantic Ocean has long been the subject of interest for fishers, prospectors, conservationists, managers, planners and politicians. As a feature that straddles national and international waters, it is subject to a multitude of competing and confounding regulations, making the development of a holistic management plan for sustainable use fraught with difficulty. Here, the various stakeholders in the area are collated, together with the rules they have created or must abide by with respect to biodiversity assets, maritime resources and governance frameworks. Blue Growth envisages optimal use of sea areas, including potential for additional commercial activities. Current research and stakeholder engagement efforts to achieve this integration are described, and the contribution of the EU-funded ATLAS project is analysed. In particular, more precise, ground-truthed information has the potential to inform systematic conservation planning, providing the basis for sustainable development and improving adaptive management. By scrutinising and exposing all the elements in this example of a spatially managed area we show how the expectations of each stakeholder can be better managed.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00069/pdf
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Stakeholder', 'Corporate governance', 'Stewardship (theology)', 'Business', 'Environmental resource management', 'Environmental planning', 'Sustainable development', 'Marine protected area', 'Stakeholder engagement', 'Political science', 'Geography', 'Environmental science', 'Ecology', 'Finance', 'Public relations', 'Politics', 'Habitat', 'Biology', 'Law']

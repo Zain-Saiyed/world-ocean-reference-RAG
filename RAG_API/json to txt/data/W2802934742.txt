@@ -1,0 +1,12 @@
+ID: W2802934742
+TITLE: Potential and limits for rapid genetic adaptation to warming in a Great Barrier Reef coral
+AUTHOR: ['Mikhail V. Matz', 'Eric A. Treml', 'Galina V. Aglyamova', 'Line K. Bay']
+ABSTRACT:
+Can genetic adaptation in reef-building corals keep pace with the current rate of sea surface warming? Here we combine population genomics, biophysical modeling, and evolutionary simulations to predict future adaptation of the common coral Acropora millepora on the Great Barrier Reef (GBR). Genomics-derived migration rates were high (0.1–1% of immigrants per generation across half the latitudinal range of the GBR) and closely matched the biophysical model of larval dispersal. Both genetic and biophysical models indicated the prevalence of southward migration along the GBR that would facilitate the spread of heat-tolerant alleles to higher latitudes as the climate warms. We developed an individual-based metapopulation model of polygenic adaptation and parameterized it with population sizes and migration rates derived from the genomic analysis. We find that high migration rates do not disrupt local thermal adaptation, and that the resulting standing genetic variation should be sufficient to fuel rapid region-wide adaptation of A. millepora populations to gradual warming over the next 20–50 coral generations (100–250 years). Further adaptation based on novel mutations might also be possible, but this depends on the currently unknown genetic parameters underlying coral thermal tolerance and the rate of warming realized. Despite this capacity for adaptation, our model predicts that coral populations would become increasingly sensitive to random thermal fluctuations such as ENSO cycles or heat waves, which corresponds well with the recent increase in frequency of catastrophic coral bleaching events.
+
+SOURCE: PLOS genetics
+PDF URL: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1007220&type=printable
+CITED BY COUNT: 185
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Local adaptation', 'Biology', 'Adaptation (eye)', 'Ecology', 'Coral', 'Population', 'Reef', 'Metapopulation', 'Demography', 'Neuroscience', 'Sociology']

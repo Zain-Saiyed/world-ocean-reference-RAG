@@ -1,0 +1,12 @@
+ID: W2805523002
+TITLE: First insights into macrofaunal composition from the SokhoBio expedition (Sea of Okhotsk, Bussol Strait and northern slope of the Kuril-Kamchatka Trench)
+AUTHOR: ['Angelika Brandt', 'Inna L. Alalykina', 'Hiroaki Fukumori', 'Olga A. Golovan', 'Katharina Kniesz', 'A. Lavrenteva', 'Anne‐Nina Lörz', 'Marina Malyutina', 'K. Philipps-Bussau', 'Bente Stransky']
+ABSTRACT:
+Macrofauna (46,343 invertebrates from 41 taxa) were collected by means of a camera-epibenthic sledge (C-EBS) during the expedition SokhoBio (Sea of Okhotsk Biodiversity Studies) on board of the RV Akademik M.A. Lavrentyev in 2015. In total 11 sites and 22 stations were sampled at bathyal and abyssal depths ranging from 1696 m to 4798 m in the Kuril Basin of the Sea of Okhotsk (16 stations), the Bussol Strait (two stations) and western slope of the Kuril-Kamchatka Trench (KKT) (four stations). Polychaetes occurred most frequently in the samples with 17,546 individuals, followed by Peracarida with 14,099 individuals (5625 isopods, 3887 amphipods, 3225 tanaids, 1269 cumaceans, and 90 mysids), Copepoda (4679 ind.) and Bivalvia (3999 ind.). Numbers of individuals ranged between 140 at station 3–10–6383 at station 7–3. The numbers of taxa per station were smallest at station 3–10 (4 taxa) and highest at station 2–7 (31 taxa). Peracarida were the most common malacostracan crustaceans recorded, with Isopoda comprising 40% of all peracarids within this fraction, followed by Amphipoda with 27%, Tanaidacea with 23%, Cumacea with 9% and Mysida with 1%. At station 3–10, not a single peracarid was sampled. Isopoda dominated most of the stations, especially in the abyssal sites of the Kuril Basin. Amphipoda occurred in higher numbers in the Bussol Strait at site 8 as well as at Pacific station 9-7. In the SokhoBio area, studied macrofauna was distributed very patchily. In terms of diversity and composition the abyssal macrofauna of the Kuril Basin shows an intermediate state between the adjacent studied abyssal areas: the semi-isolated Sea of Japan and the open abyssal plain of the Kuril-Kamchatka Trench (KKT) area.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Peracarida', 'Isopoda', 'Oceanography', 'Bathyal zone', 'Amphipoda', 'Malacostraca', 'Abyssal zone', 'Geology', 'Abyssal plain', 'Ecology', 'Crustacean', 'Benthic zone', 'Structural basin', 'Biology', 'Paleontology', 'Decapoda']

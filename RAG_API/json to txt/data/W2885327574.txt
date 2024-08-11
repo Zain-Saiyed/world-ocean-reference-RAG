@@ -1,0 +1,12 @@
+ID: W2885327574
+TITLE: Tracking hospital effluent-derived gadolinium in Atlantic coastal waters off Brazil
+AUTHOR: ['Rodrigo M.A. Pedreira', 'Katharina Pahnke', 'Philipp Böning', 'Vanessa Hatje']
+ABSTRACT:
+The use of gadolinium (Gd) complexes as contrast agents in magnetic resonance imaging (MRI) has resulted in point source releases of anthropogenic Gd into the environment and presents the opportunity to trace the fate of wastewater plumes. Here we collected seawater samples along the coast of Northeast Brazil to investigate the influence of two submarine sewage outfalls on the distribution of Gd and other rare earth elements (REE) in the coastal waters. The shale-normalized REEs only show a small light over heavy REE enrichment and negative Ce anomalies, likely reflecting the influence of freshwater inputs. Positive Gd anomalies are observed at most of the sampling sites, indicating the ubiquitous presence of anthropogenic Gd in coastal waters. The highest Gd anomalies are found in the vicinity of the submarine sewage outfalls and decrease with increasing distance from point source. The total daily discharge of 216 ± 82 g Gd and 92.0 ± 19.3 g Gd was calculated for the Rio Vermelho (ERV) and Boca do Rio (EBR) submarine outfalls, respectively, which on population bases equates to 11.5 ± 4.3 g Gd d−1 for ERV and 15.5 ± 3.3 g Gd d−1 for EBR per 100 000 persons. It is estimated that in 2016 the annual emission of anthropogenic Gd by hospitals and clinics in Brazil varied between 527 kg and 5.3 tons. It was roughly estimated that between 698 and 2021 g Gd d−1 are discharged into the Tropical and South Atlantic waters due to submarine outfall sewage along the coast of Brazil.
+
+SOURCE: Water research
+PDF URL: None
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Outfall', 'Sewage', 'Effluent', 'Estuary', 'Seawater', 'Environmental science', 'Oceanography', 'Population', 'Hydrology (agriculture)', 'Geology', 'Environmental engineering', 'Demography', 'Geotechnical engineering', 'Sociology']

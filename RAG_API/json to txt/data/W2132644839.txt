@@ -1,0 +1,12 @@
+ID: W2132644839
+TITLE: Cholera and Other Types of Vibriosis: A Story of Human Pandemics and Oysters on the Half Shell
+AUTHOR: ['J. Glenn Morris', 'David W. K. Acheson']
+ABSTRACT:
+Vibrios are ubiquitous in the aquatic environment and are commonly present in or on shellfish and other seafood. A small subset of strains/species are able to cause human disease, including the cholera toxin-producing strains of Vibrio cholerae that are responsible for epidemic/pandemic cholera; thermostable direct hemolysin-producing strains of Vibrio parahaemolyticus; and Vibrio vulnificus, which can cause fulminant sepsis. Cholera outbreaks can be initiated by transmission of "epidemic" V. cholerae strains from their environmental reservoir to humans through seafood or other environmentally related food or water sources. "Nonepidemic" strains of V. cholerae and strains of other Vibrio species, including V. parahaemolyticus and V. vulnificus, are generally acquired by eating seafood (particularly raw oysters/oysters on the half shell). Although the primary clinical manifestation of infection with these strains is gastroenteritis, they can also cause wound infections and (particularly for V. vulnificus) septicemia in persons who have liver disease or are immunocompromised.
+
+SOURCE: Clinical infectious diseases/Clinical infectious diseases (Online. University of Chicago. Press)
+PDF URL: https://academic.oup.com/cid/article-pdf/37/2/272/6104314/37-2-272.pdf
+CITED BY COUNT: 271
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Vibrio vulnificus', 'Vibrio parahaemolyticus', 'Vibrio cholerae', 'Cholera', 'Microbiology', 'Vibrio Infections', 'Outbreak', 'Vibrionaceae', 'Pandemic', 'Vibrio', 'Biology', 'Food poisoning', 'Virology', 'Medicine', 'Bacteria', 'Disease', 'Infectious disease (medical specialty)', 'Pathology', 'Genetics', 'Coronavirus disease 2019 (COVID-19)']

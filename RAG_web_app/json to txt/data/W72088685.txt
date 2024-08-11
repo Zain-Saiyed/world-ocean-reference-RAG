@@ -1,0 +1,12 @@
+ID: W72088685
+TITLE: Diversity and Ecology of Eukaryotic Marine Phytoplankton
+AUTHOR: ['Fabrice Not', 'Raffaele Siano', 'Wiebe H. C. F. Kooistra', 'Nathalie Simon', 'Daniel Vaulot', 'Ian Probert']
+ABSTRACT:
+Marine phytoplankton, the photosynthetic microorganisms drifting in the illuminated waters of our planet, are extremely diverse, being distributed across major eukaryotic lineages. About 5000 eukaryotic species have been described with traditional morphological methods, but recent environmental molecular surveys are unveiling an ever-increasing diversity, including entirely new lineages with no described representatives. Eukaryotic marine phytoplankton are significant contributors to major global processes (such as oxygen production, carbon fixation and CO2 sequestration, nutrient recycling), thereby sustaining the life of most other aquatic organisms. In modern oceans, the most diverse and ecologically significant eukaryotic phytoplankton taxa are the diatoms, the dinoflagellates, the haptophytes and the small prasinophytes, some of which periodically form massive blooms visible in satellite images. Evidence is now accumulating that many phytoplankton taxa are actually mixotrophs, exhibiting alternate feeding strategies depending on environmental conditions (e.g. grazing on prey or containing symbiotic organisms), thus blurring the boundary between autotrophs and heterotrophs in the ocean.
+
+SOURCE: Advances in botanical research
+PDF URL: None
+CITED BY COUNT: 93
+PUBLICATION YEAR: 2012
+TYPE: book-chapter
+CONCEPTS: ['Phytoplankton', 'Biology', 'Ecology', 'Phototroph', 'Autotroph', 'Protist', 'Algae', 'Dinoflagellate', 'Plankton', 'Mixotroph', 'Heterotroph', 'Photosynthesis', 'Nutrient', 'Botany', 'Bacteria', 'Biochemistry', 'Genetics', 'Gene']

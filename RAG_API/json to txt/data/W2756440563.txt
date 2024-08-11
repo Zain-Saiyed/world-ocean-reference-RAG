@@ -1,0 +1,12 @@
+ID: W2756440563
+TITLE: Pristine populations of habitat-forming gorgonian species on the Antarctic continental shelf
+AUTHOR: ['Stefano Ambroso', 'Janire Salazar', 'Rebeca Zapata-Guardiola', 'Luisa Federwisch', 'Claudio Richter', 'Josep María Gili', 'Núria Teixidó']
+ABSTRACT:
+Abstract Declines in the abundance of long-lived and habitat-forming species on continental shelves have attracted particular attention given their importance to ecosystem structure and function of marine habitats. The study of undisturbed habitats defined as “pristine areas” is essential in creating a frame of reference for natural habitats free of human interference. Gorgonian species are one of the key structure-forming taxa in benthic communities on the Antarctic continental shelf. Current knowledge of the diversity, distribution and demography of this group is relatively limited in Antarctica. To overcome this lack of information we present original data on pristine and remote populations of gorgonians from the Weddell Sea, some of which display the largest colony sizes ever recorded in Antarctica. We assessed the distribution patterns of seven gorgonian species, a morphogroup and a family in front of the Filchner Ronne Ice Shelf (Weddell Sea) by means of quantitative analysis of video transects. Analysis of these videos showed a total of 3140 colonies of gorgonians with the highest abundance in the southern section and a significantly clumped distribution. This study contributes to the general knowledge of pristine areas of the continental shelf and identifies the eastern Weddell Sea as a hotspot for habitat-forming species.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-12427-y.pdf
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Gorgonian', 'Continental shelf', 'Habitat', 'Ecology', 'Transect', 'Oceanography', 'Abundance (ecology)', 'Species richness', 'Benthic zone', 'Geography', 'Biology', 'Marine ecosystem', 'Biodiversity', 'Ecosystem', 'Geology', 'Coral']

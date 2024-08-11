@@ -1,0 +1,12 @@
+ID: W2515139933
+TITLE: Development of China's marine functional zoning: A preliminary analysis
+AUTHOR: ['Ruoyan Feng', 'Xiaoxuan Chen', 'Peng Li', 'Lingling Zhou', 'Yu Jian']
+ABSTRACT:
+The government of China aims to protect and improve the marine ecological environment, exploit and develop marine resources in a rational manner, and improve capacities for comprehensive marine management. In light of these objectives, commencing from the beginning of 2010, preparatory work toward the development of a new round of marine functional zoning revisions was initiated. Based on the National Marine Functional Zoning scheme of 2002, and in accordance with the Law of the People's Republic of China on the Administration of the Use of Sea Area sand Marine Environment Protection Law of the People's Republic of China, in conjunction with other relevant laws, regulations, and specific policies for national marine protection and development, China has launched the National Marine Functional Zoning Scheme for the period from 2001 to 2020. This paper focuses on the development of China's marine functional zoning system. Based on an analysis of existing problems entailed in the implementation process of original marine functional zoning, it discusses the main adjustments made to improve the scheme. It also reflects on these problems in new Marine Functional Zoning and suggests how they can be addressed during a future round of revisions.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Zoning', 'China', 'Environmental planning', 'Marine conservation', 'Government (linguistics)', 'Work (physics)', 'Exploit', 'Environmental resource management', 'Business', 'Environmental protection', 'Geography', 'Political science', 'Environmental science', 'Engineering', 'Law', 'Computer science', 'Computer security', 'Mechanical engineering', 'Linguistics', 'Philosophy']

@@ -1,0 +1,12 @@
+ID: W2619258313
+TITLE: Beyond Restoration: Planting Coastal Infrastructure
+AUTHOR: ['Rosetta S. Elkin']
+ABSTRACT:
+The following research project proposes a model whereby the biological arrangement of plants in space and over time can lead to a new paradigm using the modification of coastal ecologies, to move beyond restoration, ultimately dissolving the limiting dichotomy between green and grey infrastructure.
+
+SOURCE: Climate change management
+PDF URL: None
+CITED BY COUNT: 1
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Limiting', 'Environmental resource management', 'Environmental planning', 'Engineering', 'Environmental science', 'Mechanical engineering']

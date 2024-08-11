@@ -1,0 +1,12 @@
+ID: W2592075386
+TITLE: Hydrogeology and management of freshwater lenses on atoll islands: Review of current knowledge and research needs
+AUTHOR: ['Adrian D. Werner', 'Hannah K. Sharp', 'Sandra C. Galvis', 'Vincent Post', 'Peter J. Sinclair']
+ABSTRACT:
+On atoll islands, fresh groundwater occurs as a buoyant lens-shaped body surrounded by saltwater derived from the sea, forming the main freshwater source for many island communities. A review of the state of knowledge of atoll island groundwater is overdue given their susceptibility to adverse impacts, and the task to address water access and sanitation issues within the United Nations’ Sustainable Development Goals framework before the year 2030. In this article, we review available literature to summarise the key processes, investigation techniques and management approaches of atoll island groundwater systems. Over fifty years of investigation has led to important advancements in the understanding of atoll hydrogeology, but a paucity of hydrogeological data persists on all but a small number of atoll islands. We find that the combined effects of buoyancy forces, complex geology, tides, episodic ocean events, strong climatic variability and human impacts create highly dynamic fresh groundwater lenses. Methods used to quantify freshwater availability range from simple empirical relationships to three-dimensional density-dependent models. Generic atoll island numerical models have proven popular in trying to unravel the individual factors controlling fresh groundwater lens behaviour. Major challenges face the inhabitants and custodians of atoll island aquifers, with rising anthropogenic stresses compounded by the threats of climate variability and change, sea-level rise, and some atolls already extracting freshwater at or above sustainability limits. We find that the study of atoll groundwater systems remains a critical area for further research effort to address persistent knowledge gaps, which lead to high uncertainties in water security issues for both island residents and surrounding environs.
+
+SOURCE: Journal of hydrology
+PDF URL: None
+CITED BY COUNT: 113
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Atoll', 'Hydrogeology', 'Groundwater', 'Aquifer', 'Submarine groundwater discharge', 'Sustainability', 'Environmental science', 'Water resource management', 'Hydrology (agriculture)', 'Geology', 'Oceanography', 'Ecology', 'Reef', 'Geotechnical engineering', 'Biology']

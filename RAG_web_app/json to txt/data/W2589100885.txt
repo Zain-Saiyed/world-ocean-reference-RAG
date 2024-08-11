@@ -1,0 +1,12 @@
+ID: W2589100885
+TITLE: No saturation in the accumulation of alien species worldwide
+AUTHOR: ['Hanno Seebens', 'Tim M. Blackburn', 'Emma Dyer', 'Piero Genovesi', 'Philip E. Hulme', 'Jonathan M. Jeschke', 'Shyama Pagad', 'Petr Pyšek', 'Marten Winter', 'Margarita Arianoutsou', 'Sven Bacher', 'Bernd Blasius', 'G. Brundu', 'César Capinha', 'Laura Celesti‐Grapow', 'Wayne Dawson', 'Stefan Dullinger', 'Nicol Fuentes', 'Heinke Jäger', 'John Kartesz', 'Marc Kenis', 'Holger Kreft', 'Ingolf Kühn', 'Bernd Lenzner', 'Andrew M. Liebhold', 'Alexander Mosena', 'Dietmar Moser', 'Misako Nishino', 'David Pearman', 'Jan Pergl', 'Wolfgang Rabitsch', 'Julissa Rojas‐Sandoval', 'Alain Roques', 'Stephanie Rorke', 'Silvia Rossinelli', 'Helen E. Roy', 'Riccardo Scalerà', 'Stefan Schindler', 'Kateřina Štajerová', 'B. Tokarska-Guzik', 'Mark van Kleunen', 'Kevin J. Walker', 'Patrick Weigelt', 'Takehiko Yamanaka', 'Franz Essl']
+ABSTRACT:
+Although research on human-mediated exchanges of species has substantially intensified during the last centuries, we know surprisingly little about temporal dynamics of alien species accumulations across regions and taxa. Using a novel database of 45,813 first records of 16,926 established alien species, we show that the annual rate of first records worldwide has increased during the last 200 years, with 37% of all first records reported most recently (1970-2014). Inter-continental and inter-taxonomic variation can be largely attributed to the diaspora of European settlers in the nineteenth century and to the acceleration in trade in the twentieth century. For all taxonomic groups, the increase in numbers of alien species does not show any sign of saturation and most taxa even show increases in the rate of first records over time. This highlights that past efforts to mitigate invasions have not been effective enough to keep up with increasing globalization.
+
+SOURCE: Nature communications
+PDF URL: None
+CITED BY COUNT: 1721
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Alien', 'Taxon', 'Alien species', 'Geography', 'Ecology', 'Introduced species', 'Biology', 'Demography', 'Population', 'Sociology', 'Census']

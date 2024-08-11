@@ -1,0 +1,12 @@
+ID: W2791117778
+TITLE: Microplastic pollution increases gene exchange in aquatic ecosystems
+AUTHOR: ['María Arias-Andrés', 'Uli Klümper', 'Keilor Rojas-Jiménez', 'Hans‐Peter Grossart']
+ABSTRACT:
+Pollution by microplastics in aquatic ecosystems is accumulating at an unprecedented scale, emerging as a new surface for biofilm formation and gene exchange. In this study, we determined the permissiveness of aquatic bacteria towards a model antibiotic resistance plasmid, comparing communities that form biofilms on microplastics vs. those that are free-living. We used an exogenous and red-fluorescent E. coli donor strain to introduce the green-fluorescent broad-host-range plasmid pKJK5 which encodes for trimethoprim resistance. We demonstrate an increased frequency of plasmid transfer in bacteria associated with microplastics compared to bacteria that are free-living or in natural aggregates. Moreover, comparison of communities grown on polycarbonate filters showed that increased gene exchange occurs in a broad range of phylogenetically-diverse bacteria. Our results indicate horizontal gene transfer in this habitat could distinctly affect the ecology of aquatic microbial communities on a global scale. The spread of antibiotic resistance through microplastics could also have profound consequences for the evolution of aquatic bacteria and poses a neglected hazard for human health.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 392
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microplastics', 'Aquatic ecosystem', 'Bacteria', 'Biology', 'Biofilm', 'Ecology', 'Microorganism', 'Plasmid', 'Horizontal gene transfer', 'Efflux', 'Microbial ecology', 'Ecosystem', 'Microbiology', 'Gene', 'Genetics', 'Phylogenetics']

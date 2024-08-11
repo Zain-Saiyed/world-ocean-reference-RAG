@@ -1,0 +1,12 @@
+ID: W2904451682
+TITLE: Strong and lasting impacts of past global warming on baleen whale and prey abundance
+AUTHOR: ['Andrea A. Cabrera', 'Elena Schall', 'Martine Bérubé', 'Lutz Bachmann', 'Simon Berrow', 'Peter B. Best', 'Phillip J. Clapham', 'Haydée A. Cunha', 'Luciano Dalla Rosa', 'Carolina P. Dias', 'Ken Findlay', 'Tore Haug', 'Mads Peter Heide‐Jørgensen', 'Kit M. Kovacs', 'Scott Landry', 'Finn Larsen', 'Xênia Moreira Lopes', 'Christian Lydersen', 'David K. Mattila', 'Tom Oosting', 'Richard M. Pace', 'Chiara Papetti', 'Angeliki Paspati', 'Luis A. Pastene', 'Rui Prieto', 'Christian Ramp', 'Jooke Robbins', 'Conor Ryan', 'Richard Sears', 'Eduardo R. Secchi', 'Mónica Silva', 'Gísli A. Víkingsson', 'Øystein Wiig', 'Nils Øien', 'Per J. Palsbøll']
+ABSTRACT:
+Abstract The demography of baleen whales and their prey during the past 30 thousand years was assessed to understand the effects of past rapid global warming on marine ecosystems. Mitochondrial and genome-wide DNA sequence variation in eight baleen whale and seven prey species revealed strong, ocean-wide demographic changes that were correlated with changes in global temperatures and regional oceanographic conditions. In the Southern Ocean baleen whale and prey abundance increased exponentially and in apparent synchrony, whereas changes in abundance varied among species in the more heterogeneous North Atlantic Ocean. The estimated changes in whale abundance correlated with increases in the abundance of prey likely driven by reductions in sea-ice cover and an overall increase in primary production. However, the specific regional oceanographic environment, trophic interactions and species ecology also appeared to play an important role. Somewhat surprisingly the abundance of baleen whales and prey continued to increase for several thousand years after global temperatures stabilized. These findings warn of the potential for dramatic, long-term effects of current climate changes on the marine ecosystem. One Sentence Summary The effects of past global warming on marine ecosystems were drastic, system-wide and long-lasting.
+
+SOURCE: bioRxiv (Cold Spring Harbor Laboratory)
+PDF URL: https://www.biorxiv.org/content/biorxiv/early/2018/12/17/497388.full.pdf
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2018
+TYPE: preprint
+CONCEPTS: ['Baleen', 'Abundance (ecology)', 'Whale', 'Marine ecosystem', 'Trophic level', 'Predation', 'Biology', 'Ecology', 'Ecosystem', 'Global warming', 'Oceanography', 'Apex predator', 'Climate change', 'Effects of global warming on oceans', 'Fishery', 'Geology']

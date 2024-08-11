@@ -1,0 +1,12 @@
+ID: W2887458422
+TITLE: Pathways of inorganic and organic contaminants from land to deep sea: The case study of the Gulf of Cagliari (W Tyrrhenian Sea)
+AUTHOR: ['Stella Tamburrino', 'Salvatore Passaro', 'Mattia Barsanti', 'Antonio Schirone', 'Ivana Delbono', 'Fabio Conte', 'R. Delfanti', 'Maria R. Bonsignore', 'Marianna Del Core', 'Serena Gherardi', 'Mario Sprovieri']
+ABSTRACT:
+In continental margins, canyons appear to act as natural conduits of sediments and organic matter from the shelf to deep basins, providing an efficient physical pathway for transport and accumulation of particles with their associated land-produced contaminants. However, these mechanisms have not been yet sufficiently explored by geochemical markers. The continental slope of the south Sardinia has been used as a natural laboratory for investigating mechanisms and times of transfer dynamics of contaminants from land to sea and from shelf to deep sea through an articulated system of submarine canyons. Here, dynamics of contaminants have been investigated in a pilot area of the central Mediterranean basin (Gulf of Cagliari, S Sardinia) where important industrial plants are sited since beginning of the last century. Five sediment cores dated by 210Pb and 137Cs reveal: i) a complex dynamics of organic and inorganic contaminants from point source areas on land to the deep sea and ii) a crucial role played by canyons and bottom morphology as primary pathway conveying sediments and associated contaminants from sources to very far deep sea environments. In particular, this study provides new integrated tools to properly understand mechanisms of connection between coastal sectors and deep sea. This is challenging mostly in regions where coastal pollution could represent critical threats for larger areas of the Mediterranean Sea.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Canyon', 'Oceanography', 'Submarine canyon', 'Continental shelf', 'Mediterranean sea', 'Deep sea', 'Geology', 'Natural (archaeology)', 'Structural basin', 'Pollution', 'Continental margin', 'Sediment', 'Mediterranean climate', 'Earth science', 'Environmental science', 'Paleontology', 'Tectonics', 'Geomorphology', 'Geography', 'Ecology', 'Archaeology', 'Biology']

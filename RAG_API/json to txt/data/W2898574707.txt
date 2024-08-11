@@ -1,0 +1,12 @@
+ID: W2898574707
+TITLE: Change in singing behavior of humpback whales caused by shipping noise
+AUTHOR: ['Koki Tsujii', 'Tomonari Akamatsu', 'Ryosuke Okamoto', 'Kyoichi Mori', 'Yoko Mitani', 'Naoya Umeda']
+ABSTRACT:
+Reactions of singing behavior of individual humpback whales (Megaptera novaeangliae) to a specific shipping noise were examined. Two autonomous recorders separated by 3.0 km were used for the acoustic monitoring of each individual song sequence. A passenger-cargo liner was operated once per day, and other large ship noise was excluded given the remote location of the Ogasawara Islands, 1000 km south of Tokyo. In total, locations of between 26 and 27 singers were measured acoustically using time arrival difference at both stereo recorders on the ship presence and absence days, respectively. Source level of the ship (157 dB rms re 1μPa) was measured separately in deep water. Fewer whales sang nearby, within 500 m, of the shipping lane. Humpback whales reduced sound production after the ship passed, when the minimum distance to the whale from the ship trajectory was 1200 m. In the Ogasawara water, humpback whales seemed to stop singing temporarily rather than modifying sound characteristics of their song such as through frequency shifting or source level elevation. This could be a cost effective adaptation because the propagation loss at 500 m from the sound source is as high as 54 dB. The focal ship was 500 m away within several minutes. Responses may differ where ship traffic is heavy, because avoiding an approaching ship may be difficult when many sound sources exist.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0204112&type=printable
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Humpback whale', 'Sound (geography)', 'Noise (video)', 'Environmental science', 'Whale', 'Oceanography', 'Ambient noise level', 'Bioacoustics', 'Acoustics', 'Fishery', 'Geology', 'Biology', 'Computer science', 'Physics', 'Artificial intelligence', 'Image (mathematics)']

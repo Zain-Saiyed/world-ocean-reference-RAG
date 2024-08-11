@@ -1,0 +1,12 @@
+ID: W2971048411
+TITLE: Mekong delta much lower than previously assumed in sea-level rise impact assessments
+AUTHOR: ['Philip S. J. Minderhoud', 'L. Coumou', 'Gilles Erkens', 'H. Middelkoop', 'Esther Stouthamer']
+ABSTRACT:
+Abstract Deltas are low-relief landforms that are extremely vulnerable to sea-level rise. Impact assessments of relative sea-level rise in deltas primarily depend on elevation data accuracy and how well the vertical datum matches local sea level. Unfortunately, many major deltas are located in data-sparse regions, forcing researchers and policy makers to use low-resolution, global elevation data obtained from satellite platforms. Using a new, high-accuracy elevation model of the Vietnamese Mekong delta, we show that quality of global elevation data is insufficient and underscore the cruciality to convert to local tidal datum, which is often neglected. The novel elevation model shows that the Mekong delta has an extremely low mean elevation of ~0.8 m above sea level, dramatically lower than the earlier assumed ~2.6 m. Our results imply major uncertainties in sea-level rise impact assessments for the Mekong delta and deltas worldwide, with errors potentially larger than a century of sea-level rise.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-019-11602-1.pdf
+CITED BY COUNT: 133
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mekong delta', 'Elevation (ballistics)', 'Delta', 'Sea level', 'Geodetic datum', 'Landform', 'Sea level rise', 'Forcing (mathematics)', 'Climatology', 'Environmental science', 'Digital elevation model', 'Physical geography', 'Geology', 'Climate change', 'Geography', 'Oceanography', 'Geodesy', 'Remote sensing', 'Geomorphology', 'Water resource management', 'Geometry', 'Mathematics', 'Engineering', 'Aerospace engineering']

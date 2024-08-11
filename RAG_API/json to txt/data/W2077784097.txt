@@ -1,0 +1,12 @@
+ID: W2077784097
+TITLE: Formation of Spartina alterniflora salt marshes on the coast of Jiangsu Province, China
+AUTHOR: ['R.S. Zhang', 'Yongming Shen', 'Lingzhi Lu', 'Shi Yan', 'Y.H. Wang', 'J.L. Li', 'Z.L. Zhang']
+ABSTRACT:
+The climate, substrate, and marine hydrodynamics of Jiangsu, China, tidal flats are suitable for the growth of Spartina alterniflora. Out of 954 km coastline, a section of 410 km is protected by this plant, with a maximum width over 4 km. It functions as a new pioneer stage in plant succession, as a major coastal association, profoundly affecting the coastal environment. Field studies of topography, sedimentology, and vegetation of three typical profiles of Jiangsu coast were conducted in 2000 and 2001. TM satellite images of seven time phases between 1985 and 2001 were used to trace the process of plantation formation. Because of insufficient resolution of the satellites images before 1993 to obtain information on S. alterniflora, we only used those between 1993 and 2001 to classify three stages of their development. The first stage was between 1993 and 1995, with an annual mean expansion rate of 30%. Its area increase is due to enormous seed production and natural spread. The second stage, between 1995 and 1999, had the most rapid with an annual rate of 43%. The third stage, between 1999 and 2001, was only 10%. Its main distribution in Jiangsu lies between mean water level (MWL) and mean high water level (MHWL), on seaward fringe sparse clumps reaching about MWL.
+
+SOURCE: Ecological engineering
+PDF URL: None
+CITED BY COUNT: 128
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Spartina alterniflora', 'Salt marsh', 'Stage (stratigraphy)', 'Ecological succession', 'Environmental science', 'Physical geography', 'Vegetation (pathology)', 'Sedimentology', 'Spartina', 'Landform', 'Plateau (mathematics)', 'Hydrology (agriculture)', 'Marsh', 'Oceanography', 'Geology', 'Geography', 'Wetland', 'Ecology', 'Geomorphology', 'Medicine', 'Paleontology', 'Mathematical analysis', 'Mathematics', 'Geotechnical engineering', 'Pathology', 'Biology']

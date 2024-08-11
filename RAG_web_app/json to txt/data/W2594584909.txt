@@ -1,0 +1,12 @@
+ID: W2594584909
+TITLE: Improved estimates of ocean heat content from 1960 to 2015
+AUTHOR: ['Lijing Cheng', 'Kevin E. Trenberth', 'John T. Fasullo', 'Tim Boyer', 'John Abraham', 'Jiang Zhu']
+ABSTRACT:
+Earth's energy imbalance (EEI) drives the ongoing global warming and can best be assessed across the historical record (that is, since 1960) from ocean heat content (OHC) changes. An accurate assessment of OHC is a challenge, mainly because of insufficient and irregular data coverage. We provide updated OHC estimates with the goal of minimizing associated sampling error. We performed a subsample test, in which subsets of data during the data-rich Argo era are colocated with locations of earlier ocean observations, to quantify this error. Our results provide a new OHC estimate with an unbiased mean sampling error and with variability on decadal and multidecadal time scales (signal) that can be reliably distinguished from sampling error (noise) with signal-to-noise ratios higher than 3. The inferred integrated EEI is greater than that reported in previous assessments and is consistent with a reconstruction of the radiative imbalance at the top of atmosphere starting in 1985. We found that changes in OHC are relatively small before about 1980; since then, OHC has increased fairly steadily and, since 1990, has increasingly involved deeper layers of the ocean. In addition, OHC changes in six major oceans are reliable on decadal time scales. All ocean basins examined have experienced significant warming since 1998, with the greatest warming in the southern oceans, the tropical/subtropical Pacific Ocean, and the tropical/subtropical Atlantic Ocean. This new look at OHC and EEI changes over time provides greater confidence than previously possible, and the data sets produced are a valuable resource for further study.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/3/3/e1601545.full.pdf
+CITED BY COUNT: 489
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Content (measure theory)', 'Ocean heat content', 'Environmental science', 'Oceanography', 'Mathematics', 'Geology', 'Ocean current', 'Mathematical analysis']

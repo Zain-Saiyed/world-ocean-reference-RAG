@@ -1,0 +1,12 @@
+ID: W2008365806
+TITLE: Do artificial substrates favor nonindigenous fouling species over native species?
+AUTHOR: ['Megan C. Tyrrell', 'James E. Byers']
+ABSTRACT:
+Exotic species are prominent constituents of fouling communities. If exotic fouling organisms colonize or compete better on a wider range of substrate types than native species, this may partially account for their high abundance in estuaries and bays. We used four artificial and four naturally occurring substrate types to compare initial settlement and percent cover of native and exotic fouling species through six months of community development. Both the identity of common taxa and the total number of species colonizing artificial versus natural substrate types were similar. Despite the similarities in species richness, relative abundance patterns between natural and artificial substrate types varied, particularly as the communities developed. Native species were initially in equal abundance on natural and artificial substrate types. Initially, the two most common exotic species, the colonial tunicates, Botrylloides violaceus Ritter and Forsyth and Botryllus schlosseri (Pallas), were also in similar, but low, abundance on artificial and natural substrates. As the communities developed, there was little change in abundance of exotic or native species on natural substrates. However, on artificial substrates the exotic tunicates increased dramatically and native species declined in abundance. Artificial surfaces may provide a novel context for competitive interactions giving exotic species a more “level playing field” in an environment for which they otherwise might not be as well adapted compared to long-resident native species. Additions of artificial substrates to nearshore environments may disproportionately favor exotic species by increasing local sources of exotic propagules to colonize all types of substrates.
+
+SOURCE: Journal of experimental marine biology and ecology
+PDF URL: None
+CITED BY COUNT: 178
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Biology', 'Introduced species', 'Ecology', 'Abundance (ecology)', 'Propagule', 'Species richness', 'Invasive species', 'Habitat', 'Propagule pressure', 'Colonisation', 'Substrate (aquarium)', 'Range (aeronautics)', 'Colonization', 'Biological dispersal', 'Population', 'Materials science', 'Demography', 'Sociology', 'Composite material']

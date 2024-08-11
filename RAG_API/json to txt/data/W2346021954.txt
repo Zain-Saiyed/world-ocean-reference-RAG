@@ -1,0 +1,12 @@
+ID: W2346021954
+TITLE: Assessment of seasonal and year-to-year surface salinity signals retrieved from SMOS and Aquarius missions in the Bay of Bengal
+AUTHOR: ['Madhavan Girijakumari Keerthi', 'Matthieu Lengaigne', 'Fabien Durand', 'Jérôme Vialard', 'Akurathi Venkata Sai Chaitanya', 'M. G. Keerthi', 'V. V. Gopalakrishna', 'Jacqueline Boutin', 'Clément de Boyer Montégut']
+ABSTRACT:
+The Bay of Bengal (BoB) exhibits a wide range of sea surface salinity (SSS), with very fresh water induced by heavy monsoonal precipitation and river run-offs to the north, and saltier water to the south. This is a particularly challenging region for the application of satellite-derived SSS measurements because of the potential pollution of the SSS signal by radio frequency interference (RFI) and land-induced contamination in this semi-enclosed basin. The present study validates recent level-3 monthly gridded (1° × 1°) SSS products from Soil Moisture and Ocean Salinity (SMOS) and Aquarius missions to an exhaustive in situ SSS product for the BoB. Current SMOS SSS retrievals do not perform better than existing climatologies. This is in stark contrast to Aquarius, which outperforms SMOS and available SSS climatologies everywhere in the BoB. While SMOS only captures the SSS seasonal evolution in the northern part of the Bay, Aquarius accurately captures the seasonal signal in the entire basin. The Aquarius product is also able to capture SSS non-seasonal anomalies, with an approximate correlation (r) of 0.75 with box-averaged in situ data in the northern, central, and western parts of the Bay. Aquarius can, thus, be confidently used to monitor large-scale year-to-year SSS variations in the BoB.
+
+SOURCE: International journal of remote sensing
+PDF URL: None
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['SSS*', 'Bay', 'Environmental science', 'Satellite', 'BENGAL', 'Monsoon', 'Climatology', 'Precipitation', 'Salinity', 'Structural basin', 'Remote sensing', 'Meteorology', 'Oceanography', 'Geology', 'Geography', 'Mathematical optimization', 'Paleontology', 'Mathematics', 'Aerospace engineering', 'Engineering']

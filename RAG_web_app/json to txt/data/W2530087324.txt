@@ -1,0 +1,12 @@
+ID: W2530087324
+TITLE: Interactions of social, terrestrial, and marine sub-systems in the Galapagos Islands, Ecuador
+AUTHOR: ['Stephen J. Walsh', 'Carlos F. Mena']
+ABSTRACT:
+Galapagos is often cited as an example of the conflicts that are emerging between resource conservation and economic development in island ecosystems, as the pressures associated with tourism threaten nature, including the iconic and emblematic species, unique terrestrial landscapes, and special marine environments. In this paper, two projects are described that rely upon dynamic systems models and agent-based models to examine human-environment interactions. We use a theoretical context rooted in complexity theory to guide the development of our models that are linked to social-ecological dynamics. The goal of this paper is to describe key elements, relationships, and processes to inform and enhance our understanding of human-environment interactions in the Galapagos Islands of Ecuador. By formalizing our knowledge of how systems operate and the manner in which key elements are linked in coupled human-natural systems, we specify rules, relationships, and rates of exchange between social and ecological features derived through statistical functions and/or functions specified in theory or practice. The processes described in our models also have practical applications in that they emphasize how political policies generate different human responses and model outcomes, many detrimental to the social-ecological sustainability of the Galapagos Islands.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/113/51/14536.full.pdf
+CITED BY COUNT: 61
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Sustainability', 'Ecological systems theory', 'Context (archaeology)', 'Key (lock)', 'Environmental resource management', 'Ecology', 'Resource (disambiguation)', 'Marine conservation', 'Social system', 'Politics', 'Ecosystem', 'Tourism', 'Geography', 'Computer science', 'Sociology', 'Political science', 'Biology', 'Social science', 'Economics', 'Computer network', 'Archaeology', 'Law']

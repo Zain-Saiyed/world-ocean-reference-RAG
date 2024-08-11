@@ -1,0 +1,12 @@
+ID: W2328171538
+TITLE: Behavioural drivers of the ecological roles and importance of marine mammals
+AUTHOR: ['Jérémy J. Kiszka', 'MR Heithaus', 'AJ Wirsing']
+ABSTRACT:
+Marine mammals feed at a variety of trophic levels, occur from freshwater to openocean ecosystems and are found across virtually all latitudes.Due to their high historical, and sometimes present-day, abundances, capability for large-scale movements and high metabolic rates, they have the potential to affect the structure and function of ecosystems through a variety of mechanisms over both ecological and evolutionary time.Usually, the effects of marine mammals on ecosystems are explicitly or implicitly considered to occur through their ability to remove prey through direct predation.Recent empirical studies and a rich theoretical framework, however, demonstrate that marine mammals can affect ecosystems through more diverse pathways, including those that are driven by marine mammal behaviour.Thus, non-consumptive effects of and on marine mammals may be critical in shaping their ecological importance.Nonconsumptive effects may include risk effects, whereby predators induce costly changes to prey behaviour that impact prey population sizes or the magnitude and spatiotemporal patterns of prey impacts on communities (e.g.behaviour-mediated trophic cascades).Changes in the abundance of large apex predators (both marine mammals and sharks) and the introduction of perceived and real risks (human disturbance) may also affect behaviours of marine mammals and their prey that cascade to the wider ecosystem; the conditions under which such cascading effects might be most important, however, remain poorly understood.Other behaviour-driven ecological roles of marine mammals may include foraging tactics that facilitate the foraging of other species (especially seabirds), translocating nutrients and linking the dynamics of spatially distinct food webs.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2015/523/m523p267.pdf
+CITED BY COUNT: 77
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Ecology', 'Predation', 'Trophic level', 'Marine ecosystem', 'Apex predator', 'Ecosystem', 'Functional ecology', 'Population', 'Biology', 'Geography', 'Sociology', 'Demography']

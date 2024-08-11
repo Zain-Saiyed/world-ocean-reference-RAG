@@ -1,0 +1,12 @@
+ID: W2996233975
+TITLE: An example of how catch uncertainty hinders effective stock management and rebuilding
+AUTHOR: ['Elisabeth Van Beveren', 'Daniel E. Duplisea', 'Julie R. Marentette', 'Andrew Smith', 'Martin Castonguay']
+ABSTRACT:
+The northern spawning contingent of Western Atlantic mackerel is currently at low biomass and catches are largely underestimated. Catch statistics for Canada are incomplete, and the amount of northern contingent fish caught in the US mackerel fishery is unclear. Our goal was to assess the impact of missing catch on quota management effectiveness and to provide advice for stock rebuilding in the face of large catch uncertainty. As part of a management strategy evaluation (MSE), we assessed how simple harvest control rules (HCRs) performed under different assumptions of catch uncertainty. Results showed that, at present low biomass levels, reducing missing catch was generally more important than the choice among certain HCRs. Canadian undeclared catch would need to be reduced markedly to achieve even short-term rebuilding objectives. To reach long-term rebuilding objectives, the proportion of northern contingent fish caught in the US fishery would also need to be accounted for. We demonstated how an MSE can help inform all involved parties of the trade-off between missing catch and quota magnitude and effectiveness, and provided directions for future developments in management and science.
+
+SOURCE: Fisheries research
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Stock (firearms)', 'Fish stock', 'Fishery', 'Fisheries management', 'Stock assessment', 'Management by objectives', 'Management strategy', 'Fish <Actinopterygii>', 'Environmental resource management', 'Business', 'Environmental science', 'Fishing', 'Geography', 'Marketing', 'Archaeology', 'Biology', 'Business administration']

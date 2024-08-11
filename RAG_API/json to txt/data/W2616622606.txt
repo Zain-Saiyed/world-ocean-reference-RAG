@@ -1,0 +1,12 @@
+ID: W2616622606
+TITLE: How subsidies affect the economic viability of small-scale fisheries
+AUTHOR: ['Anna Schuhbauer', 'Ratana Chuenpagdee', 'William W. L. Cheung', 'Krista Greer', 'U. Rashid Sumaila']
+ABSTRACT:
+This article presents the first bottom-up analysis of the proportion of global marine fisheries subsidies to small-scale fisheries (SSF). Using existing data, the reported national subsidy amounts are split into the fraction that goes to small- and large-scale fishing sectors. Results reveal a major imbalance in subsidy distribution, with SSF receiving only about 16% of the total global fisheries subsidy amount of $35 billion in 2009. To bring this into perspective, a person engaged in large-scale fishing received around 4 times the amount of subsidies received by their SSF counterparts. Furthermore, almost 90% of capacity-enhancing subsidies, which are known to exacerbate overfishing go to large-scale fisheries, thus increasing the unfair competitive advantage that large-scale fisheries already have. The developmental, economic and social consequences of this inequity are huge and impair the economic viability of the already vulnerable small-scale fishing sector. Conclusions indicate that taxpayers' money should be used to support sustainable fishing practices and in turn ocean conservation, and not to foster the degradation of marine ecosystems, often a result of capacity-enhancing subsidies. Reducing capacity-enhancing subsidies will have minimal negative effects on SSF communities since they receive very little of these subsidies to begin with. Instead, it will help correct the existing inequality, enhance SSF economic viability, and promote global fisheries sustainability.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 98
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Subsidy', 'Fishing', 'Overfishing', 'Fishery', 'Fisheries law', 'Business', 'Natural resource economics', 'Sustainability', 'Scale (ratio)', 'Fisheries management', 'Economics', 'Ecology', 'Geography', 'Cartography', 'Market economy', 'Biology']

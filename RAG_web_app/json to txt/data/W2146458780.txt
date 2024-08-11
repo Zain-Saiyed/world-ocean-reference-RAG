@@ -1,0 +1,12 @@
+ID: W2146458780
+TITLE: Assessing sound exposure from shipping in coastal waters using a single hydrophone and Automatic Identification System (AIS) data
+AUTHOR: ['Nathan D. Merchant', 'Matthew J. Witt', 'Philippe Blondel', 'Brendan J. Godley', 'George Smith']
+ABSTRACT:
+Underwater noise from shipping is a growing presence throughout the world’s oceans, and may be subjecting marine fauna to chronic noise exposure with potentially severe long-term consequences. The coincidence of dense shipping activity and sensitive marine ecosystems in coastal environments is of particular concern, and noise assessment methodologies which describe the high temporal variability of sound exposure in these areas are needed. We present a method of characterising sound exposure from shipping using continuous passive acoustic monitoring combined with Automatic Identification System (AIS) shipping data. The method is applied to data recorded in Falmouth Bay, UK. Absolute and relative levels of intermittent ship noise contributions to the 24-h sound exposure level are determined using an adaptive threshold, and the spatial distribution of potential ship sources is then analysed using AIS data. This technique can be used to prioritise shipping noise mitigation strategies in coastal marine environments.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 97
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Automatic Identification System', 'Environmental science', 'Marine ecosystem', 'Sound (geography)', 'Hydrophone', 'Noise (video)', 'Oceanography', 'Underwater', 'Sound exposure', 'Bay', 'Ecosystem', 'Geology', 'Computer science', 'Ecology', 'Real-time computing', 'Artificial intelligence', 'Image (mathematics)', 'Biology']

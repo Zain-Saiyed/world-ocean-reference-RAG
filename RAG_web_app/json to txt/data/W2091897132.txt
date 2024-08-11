@@ -1,0 +1,12 @@
+ID: W2091897132
+TITLE: A Case-Study on Offshore Wind Power Supply to Oil and Gas Rigs
+AUTHOR: ['Magnus Korpås', 'Leif Warland', 'Wei He', 'John Tande']
+ABSTRACT:
+Electricity consumption of offshore oil and gas rigs are commonly supplied by gas turbines located on the platforms. These are expensive to operate and emit significant amounts of CO2 and NOx. Offshore wind farms may thus be an economic and environmentally sound option. This paper presents this possibility assuming a wind farm to be operated in parallel with gas turbines. Fuel savings and emissions reductions are quantified by numerical simulations of a case study of an offshore platform in the North Sea. It is concluded that offshore wind is an economic and environmentally sound option for supplying electricity to oil and gas rigs. The size of the wind farm and operational strategy should be carefully selected for securing technically stable and economic operation.
+
+SOURCE: Energy procedia
+PDF URL: None
+CITED BY COUNT: 57
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Offshore wind power', 'Submarine pipeline', 'Marine engineering', 'Electricity', 'Environmental science', 'Wind power', 'Fossil fuel', 'Petroleum engineering', 'Mains electricity', 'Engineering', 'Offshore oil and gas', 'Waste management', 'Environmental engineering', 'Electrical engineering', 'Geotechnical engineering', 'Voltage']

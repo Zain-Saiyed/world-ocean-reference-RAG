@@ -1,0 +1,12 @@
+ID: W2017463073
+TITLE: The cumulative impacts of repeated heavy rainfall, flooding and altered water quality on the high-latitude coral reefs of Hervey Bay, Queensland, Australia
+AUTHOR: ['Ian R. Butler', 'Brigitte Sommer', 'Maria Zann', 'Jian‐xin Zhao', 'John M. Pandolfi']
+ABSTRACT:
+Terrestrial runoff and flooding have resulted in major impacts on coral communities worldwide, but we lack detailed understanding of flood plume conditions and their ecological effects. Over the course of repeated flooding between 2010 and 2013, we measured coral cover and water quality on the high-latitude coral reefs of Hervey Bay, Queensland, Australia. In 2013, salinity, total suspended solids, total nitrogen and total phosphorus were altered for up to six months post-flooding. Submarine groundwater caused hypo-saline conditions for a further four months. Despite the greater magnitude of flooding in 2013, declines in coral abundance (∼28%) from these floods were lower than the 2011 flood (∼40%), which occurred immediately after a decade of severe drought. There was an overall cumulative decrease of coral by ∼56% from 2010 to 2013. Our study highlights the need for local scale monitoring and research to facilitate informed management and conservation of catchments and marine environments.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Coral reef', 'Environmental science', 'Coral', 'Flooding (psychology)', 'Reef', 'Bay', 'Water quality', 'Oceanography', 'Flood myth', 'Surface runoff', 'Environmental issues with coral reefs', 'Hydrology (agriculture)', 'Fishery', 'Salinity', 'Ecology', 'Geography', 'Geology', 'Biology', 'Psychology', 'Geotechnical engineering', 'Archaeology', 'Psychotherapist']

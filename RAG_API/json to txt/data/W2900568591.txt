@@ -1,0 +1,12 @@
+ID: W2900568591
+TITLE: Decadal Ocean Heat Redistribution Since the Late 1990s and Its Association with Key Climate Modes
+AUTHOR: ['Lijing Cheng', 'Gongjie Wang', 'John Abraham', 'Gang Huang']
+ABSTRACT:
+Ocean heat content (OHC) is the major component of the earth’s energy imbalance. Its decadal scale variability has been heavily debated in the research interest of the so-called “surface warming slowdown” (SWS) that occurred during the 1998–2013 period. Here, we first clarify that OHC has accelerated since the late 1990s. This finding refutes the concept of a slowdown of the human-induced global warming. This study also addresses the question of how heat is redistributed within the global ocean and provides some explanation of the underlying physical phenomena. Previous efforts to answer this question end with contradictory conclusions; we show that the systematic errors in some OHC datasets are partly responsible for these contradictions. Using an improved OHC product, the three-dimensional OHC changes during the SWS period are depicted, related to a reference period of 1982–1997. Several “hot spots” and “cold spots” are identified, showing a significant decadal-scale redistribution of ocean heat, which is distinct from the long-term ocean-warming pattern. To provide clues for the potential drivers of the OHC changes during the SWS period, we examine the OHC changes related to the key climate modes by regressing the Pacific Decadal Oscillation (PDO), El Niño-Southern Oscillation (ENSO), and Atlantic Multi-decadal Oscillation (AMO) indices onto the de-trended gridded OHC anomalies. We find that no single mode can fully explain the OHC change patterns during the SWS period, suggesting that there is not a single “pacemaker” for the recent SWS. Our observation-based analyses provide a basis for further understanding the mechanisms of the decadal ocean heat uptake and evaluating the climate models.
+
+SOURCE: Climate
+PDF URL: https://www.mdpi.com/2225-1154/6/4/91/pdf?version=1542636900
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Climatology', 'Pacific decadal oscillation', 'Slowdown', 'Environmental science', 'Period (music)', 'El Niño Southern Oscillation', 'Global warming', 'Climate change', 'Oscillation (cell signaling)', 'Ocean heat content', 'Sea surface temperature', 'Geology', 'Oceanography', 'Physics', 'Chemistry', 'Biochemistry', 'Political science', 'Acoustics', 'Law']

@@ -1,0 +1,12 @@
+ID: W2987973884
+TITLE: Loss of tourism revenue induced by coastal environmental pollution: a length-of-stay perspective
+AUTHOR: ['Mengmeng Qiang', 'Manhong Shen', 'Huiming Xie']
+ABSTRACT:
+Length of stay has been widely neglected in exploring the relationship between environmental pollution and tourism revenue. Using the survey data of beach tourism along the East China Sea, this paper develops a theoretical model to clarify the impact of length of stay based on the travel cost model with on-site time endogenous. The result shows that the impact of marine litter on tourism revenue is statistically significant with the channel setting of length of stay. The finding remains robust even when the different regression techniques and endogeneity of length-of-stay cases are involved. Moreover, the loss of tourism revenue attributable to tourists' length of stay as affected by waste is considerable. The simulation shows that the tourism revenue can be increased by up to 32.23% and 28.87%, respectively, when plastic and cans on the beach are cleaned up.
+
+SOURCE: Journal of sustainable tourism
+PDF URL: None
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Tourism', 'Revenue', 'Endogeneity', 'Marine debris', 'Business', 'Natural resource economics', 'Economics', 'Environmental science', 'Geography', 'Econometrics', 'Finance', 'Meteorology', 'Archaeology', 'Debris']

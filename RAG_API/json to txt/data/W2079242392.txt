@@ -1,0 +1,12 @@
+ID: W2079242392
+TITLE: Mining of deep-sea seafloor massive sulfides: A review of the deposits, their benthic communities, impacts from mining, regulatory frameworks and management strategies
+AUTHOR: ['Rachel Boschen', 'Ashley A. Rowden', 'Malcolm R. Clark', 'Jonathan P. A. Gardner']
+ABSTRACT:
+Seafloor massive sulfide (SMS) deposits form in a suite of hydrothermal settings across a range of depths. Many deposits are of a tonnage and mineral grade comparable to land deposits and are attractive to mining companies. Economically viable deposits can be either active or inactive, with different biological communities present at each. These benthic communities may include specially adapted and endemic fauna that could be severely impacted by mining activity. Although there is currently no active SMS mining, recent research from Industry and scientific investigations is able to inform decisions on the management of SMS deposits, including appropriate mitigation strategies to minimise the impact of mining activities. Mitigation strategies will likely focus on facilitating recolonisation of areas impacted by mining, spatial management with open and closed areas and reducing the effects of sediment plumes from mining activity. Regulation of mining activity at SMS deposits can be complex, falling under national and international legislation alongside codes of practice issued by industry and other stakeholders. Despite decades of research effort, there are still many unknowns about the ecology of SMS deposits, in particular for inactive SMS sites and the genetic and demographic connectivity of populations among deposits. With considerable industry interest in the exploitation of SMS deposits in the Western South Pacific Ocean, there is an urgent need to assess the potential impact of SMS mining, particularly on the benthic fauna, so that appropriate management strategies can be designed and implemented.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 233
+PUBLICATION YEAR: 2013
+TYPE: review
+CONCEPTS: ['Benthic zone', 'Environmental resource management', 'Tonnage', 'Sand mining', 'Environmental planning', 'Business', 'Environmental science', 'Ecology', 'Oceanography', 'Geology', 'Biology']

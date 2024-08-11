@@ -1,0 +1,12 @@
+ID: W2122985342
+TITLE: The fish community in Zmiinyi Island waters: structure and determinants
+AUTHOR: ['S. M. Snigirov', 'Oleksandr Goncharov', 'Sergiy Sylantyev']
+ABSTRACT:
+The fish fauna assemblage and its association with environmental factors in the waters around Zmiinyi Island in the Black Sea were examined based on biological and hydrological data collected in the period 2003–2011. The aims of the study were to identify the fish species composition and community parameters in the area, to determine the contribution of different environmental factors to seasonal variations of the fish assemblage, and to assess the Danube outflow-induced shaping of the fish species community on a seasonal time scale. A total of 58 species belonging to 35 families were collected; most were of Mediterranean origin. The most abundant species were Atherina boyeri, Aidablennius sphynx, Engraulis encrasicolus, Merlangius merlangus, Neogobius melanostomus, Sprattus sprattus and Trachurus mediterraneus. The fish community in the area studied displayed pronounced seasonal variations. Mediterranean species were the group which predominantly determined the directions of such variations and the overall community structure. Data analysis revealed temperature and salinity to be the most important factors influencing the community assemblage. Despite the substantial amount of freshwater runoff from the adjacent Danube Delta, seasonal variations in this factor did not cause significant fluctuations in fish fauna composition.
+
+SOURCE: Marine biodiversity
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Engraulis', 'Fauna', 'Fishery', 'Biology', 'Neogobius', 'Ecology', 'Anchovy', 'Mediterranean climate', 'Coastal fish', 'Fish <Actinopterygii>', 'Coral reef fish']

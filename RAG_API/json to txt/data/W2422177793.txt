@@ -1,0 +1,12 @@
+ID: W2422177793
+TITLE: Nutrient Loads Flowing into Coastal Waters from the Main Rivers of China (2006–2012)
+AUTHOR: ['Yindong Tong', 'Yue Zhao', 'Gengchong Zhen', 'Jie Chi', 'Xianhua Liu', 'Yiren Lu', 'Xuejun Wang', 'Ruihua Yao', 'Junyue Chen', 'Wei Zhang']
+ABSTRACT:
+Based on monthly monitoring data of unfiltered water, the nutrient discharges of the eight main rivers flowing into the coastal waters of China were calculated from 2006 to 2012. In 2012, the total load of NH3-N (calculated in nitrogen), total nitrogen (TN, calculated in nitrogen) and total phosphorus (TP, calculated in phosphorus) was 5.1 × 10(5), 3.1 × 10(6) and 2.8 × 10(5) tons, respectively, while in 2006, the nutrient load was 7.4 × 10(5), 2.2 × 10(6) and 1.6 × 10(5) tons, respectively. The nutrient loading from the eight major rivers into the coastal waters peaked in summer and autumn, probably due to the large water discharge in the wet season. The Yangtze River was the largest riverine nutrient source for the coastal waters, contributing 48% of the NH3-N discharges, 66% of the TN discharges and 84% of the TP discharges of the eight major rivers in 2012. The East China Sea received the majority of the nutrient discharges, i.e. 50% of NH3-N (2.7 × 10(5) tons), 70% of TN (2.2 × 10(6) tons) and 87% of TP (2.5 × 10(5) tons) in 2012. The riverine discharge of TN into the Yellow Sea and Bohai Sea was lower than that from the direct atmospheric deposition, while for the East China Sea, the riverine TN input was larger.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep16678.pdf
+CITED BY COUNT: 101
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Nutrient', 'Environmental science', 'Phosphorus', 'Hydrology (agriculture)', 'China sea', 'Nitrogen', 'Deposition (geology)', 'Discharge', 'Oceanography', 'Drainage basin', 'Ecology', 'Sediment', 'Geology', 'Geography', 'Biology', 'Chemistry', 'Geotechnical engineering', 'Paleontology', 'Cartography', 'Organic chemistry']

@@ -1,0 +1,12 @@
+ID: W2290387564
+TITLE: Rocky coast processes: with special reference to the recession of soft rock cliffs
+AUTHOR: ['Tsuguo Sunamura']
+ABSTRACT:
+Substantial progress in research on the recession of coastal cliffs composed of soft materials has been made in recent years and data with higher accuracy have been accumulated. This paper provides the state of the art review in the recession studies and highlights two new findings obtained from the reanalysis of existing data. The review topics are: episodic and localized nature of cliff recession; the development of cliffline; the relationship between cliff height and recession rate; mechanisms of cliff toe erosion by waves; a fundamental equation for wave-induced toe erosion; factors controlling toe erosion; and slope instabilities and mass movements. The findings are presented on (1) the temporal change in cliffline recession mode and (2) the effect of beach sediment at the cliff base on the cliff erosion.
+
+SOURCE: Proceedings of the Japan Academy. Series B, Physical and biological sciences
+PDF URL: https://www.jstage.jst.go.jp/article/pjab/91/9/91_PJA9109B-04/_pdf
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Cliff', 'Recession', 'Erosion', 'Geology', 'Coastal erosion', 'Geomorphology', 'Geotechnical engineering', 'Paleontology', 'Keynesian economics', 'Economics']

@@ -1,0 +1,12 @@
+ID: W2622242645
+TITLE: Catching a wave? A case study on incorporating storm protection benefits into Habitat Equivalency Analysis
+AUTHOR: ['Emory H. Wellman', 'Ariana E. Sutton‐Grier', 'Meg Imholt', 'Adam Domanski']
+ABSTRACT:
+Since Hurricane Sandy, there has been heightened attention to increasing the resilience of coastal communities to extreme events, including storm protection provided by coastal ecosystems. Storm protection benefits (SPB) are the ability of ecosystems, including wetlands, reefs, and beaches/dunes, to attenuate waves and storm surge. SPB are a topic of growing interest in the scientific and policy spheres, including discussions of how to incorporate SPB into existing policies. As an engine for restoration and a leading mechanism for the evaluation of ecosystem services, Natural Resource Damage Assessment (NRDA) provides a platform for better internalizing this and other services into decision-making particularly using Habitat Equivalency Analysis (HEA). HEA does not explicitly account for impacts to ecosystem services that flow from one habitat to an adjacent one. This study examines a hypothetical case study of an oil spill that impacts a marsh with resulting impacts on SPB to the adjacent upland forest. To more fully assess these impacts, a “nested HEA” was developed which accounts for cross-habitat ecosystem service flows. The nested HEA captures the impacts of the marsh loss on the forest due to wave and saltwater intrusion that would not be captured by a traditional HEA. By adapting the HEA approach with a nested HEA, NRDA could quantify direct ecosystem services losses as well as additional cross-service flows between habitats. However, additional data are needed in order to perform a nested HEA, and in the case of SPB, location-specific data likely will be needed to appropriately specify the model.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Habitat', 'Storm surge', 'Environmental resource management', 'Environmental science', 'Storm', 'Marsh', 'Wetland', 'Ecosystem', 'Geography', 'Ecology', 'Meteorology', 'Biology']

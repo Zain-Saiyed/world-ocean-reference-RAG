@@ -1,0 +1,12 @@
+ID: W2808115461
+TITLE: Preparing ocean governance for species on the move
+AUTHOR: ['Malin L. Pinsky', 'Gabriel Reygondeau', 'Richard Caddell', 'Juliano Palacios‐Abrantes', 'Jessica Spijkers', 'William W. L. Cheung']
+ABSTRACT:
+Policy must anticipate conflict over geographic shifts
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 276
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Corporate governance', 'Oceanography', 'Business', 'Geology', 'Finance']

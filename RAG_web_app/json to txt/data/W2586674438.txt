@@ -1,0 +1,12 @@
+ID: W2586674438
+TITLE: Coastal Erosion Monitoring on Ouvea Island (New Caledonia): Involving the Local Community in Climate Change Adaptation
+AUTHOR: ['Matthieu Le Duff', 'Pascal Dumas', 'Olivier Cohen', 'Michel Allenbach']
+ABSTRACT:
+This paper presents a project carried out on Ouvea island (New Caledonia). It is funded by the European Union (Program INTEGRE) and the French Ministry of overseas territories (Program MOM). The aim of this project is to monitor coastal evolution of sandy beaches that suffer from erosion. It also focuses on local population involvement in coastal management. The study aims at obtaining in situ data concerning the impacts of rapidly developing phenomena and gaining a better understanding of shoreline dynamics. The main purpose of this communication is to present this methodological approach for coastal erosion monitoring using participatory management. The beach profiles measurements are performed by local people using a simple method, such as developed by Emery (Limnology and oceanography 6:90–93, 1961). In an area of the Pacific where resources are sometimes limited, the aim is to provide methods for studying the coastal dynamics affecting small, remote islands. On Ouvea, a network of volunteers has been set up to conduct the study in conjunction with local government authorities and traditional leaders. The approach is important for Ouvea in particular, but can be used on any Pacific island where land-use planning and management fall almost exclusively under the purview of traditional leaders. This work contributes towards developing integrated coastal management that involves civil society in the climate-change adaptation discussion.
+
+SOURCE: Climate change management
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2017
+TYPE: preprint
+CONCEPTS: ['Geography', 'Coastal erosion', 'Coastal management', 'Environmental resource management', 'Shore', 'Environmental planning', 'Work (physics)', 'Integrated coastal zone management', 'Christian ministry', 'Ministry of Transport', 'Population', 'Climate change', 'Oceanography', 'Coastal zone', 'Environmental science', 'Political science', 'Geology', 'Engineering', 'Ecology', 'Archaeology', 'Demography', 'Law', 'Biology', 'Mechanical engineering', 'Sociology']

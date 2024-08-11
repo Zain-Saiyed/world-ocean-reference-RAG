@@ -1,0 +1,12 @@
+ID: W2885273380
+TITLE: Negative-CO2-emissions ocean thermal energy conversion
+AUTHOR: ['Greg H. Rau', 'Jim R. Baird']
+ABSTRACT:
+Conversion of the ocean’s vertical thermal energy gradient to electricity via Ocean Thermal Energy Conversion (OTEC) has been demonstrated at small scales over the past century, and represents one of the largest (and growing) potential energy sources on the planet. Here we describe how OTEC could be modified to provide a large source of CO2-emissions-negative energy while also allowing heat removal from the surface ocean, helping to directly counter ocean/atmosphere warming. Most OTEC energy potential is far offshore, thus the conversion of the produced electricity to a chemical energy carrier such as H2 or derivatives is required. This can be achieved by employing a method of electrochemically generating H2 that also consumes CO2, converting the carbon to a common form of ocean alkalinity. The addition of such alkalinity to the ocean would provide high-capacity carbon storage while countering the chemical and biological effects of ocean acidification. For each gigawatt (GW) of continuous electric power generated over one year by the preceding negative-emissions OTEC (NEOTEC), roughly 13 GW of surface ocean heat would be directly removed to deep water, while producing 1.3 × 105 tonnes of H2/yr (avoiding 1.1 × 106 tonnes of CO2 emissions/yr), and consuming and storing (as dissolved mineral bicarbonate) approximately 5 × 106 tonnes CO2/yr. The preceding CO2 mitigation would result in an indirect planetary cooling effect of about 2.6 GW. Such negative-emissions energy production and global warming mitigation would avoid the biophysical and land use limitations posed by methods that rely on terrestrial biology.
+
+SOURCE: Renewable & sustainable energy reviews
+PDF URL: None
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ocean thermal energy conversion', 'Environmental science', 'Alkalinity', 'Deep ocean water', 'Electricity generation', 'Effects of global warming on oceans', 'Tonne', 'Thermal energy', 'Global warming', 'Marine energy', 'Renewable energy', 'Atmospheric sciences', 'Environmental engineering', 'Seawater', 'Oceanography', 'Waste management', 'Climate change', 'Chemistry', 'Ecology', 'Geology', 'Engineering', 'Power (physics)', 'Physics', 'Organic chemistry', 'Quantum mechanics', 'Biology']

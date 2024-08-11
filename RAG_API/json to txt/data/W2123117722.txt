@@ -1,0 +1,12 @@
+ID: W2123117722
+TITLE: Thinning of the Arctic sea‐ice cover
+AUTHOR: ['D. A. Rothrock', 'Yongqi Yu', 'Gary A. Maykut']
+ABSTRACT:
+Comparison of sea‐ice draft data acquired on submarine cruises between 1993 and 1997 with similar data acquired between 1958 and 1976 indicates that the mean ice draft at the end of the melt season has decreased by about 1.3 m in most of the deep water portion of the Arctic Ocean, from 3.1 m in 1958–1976 to 1.8 m in the 1990s. The decrease is greater in the central and eastern Arctic than in the Beaufort and Chukchi seas. Preliminary evidence is that the ice cover has continued to become thinner in some regions during the 1990s.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/1999GL010863
+CITED BY COUNT: 905
+PUBLICATION YEAR: 1999
+TYPE: article
+CONCEPTS: ['Arctic ice pack', 'Beaufort sea', 'Sea ice', 'Arctic sea ice decline', 'Oceanography', 'Arctic', 'Geology', 'Antarctic sea ice', 'Submarine', 'The arctic', 'Drift ice', 'Cryosphere', 'Climatology', 'Thinning', 'Physical geography', 'Geography', 'Forestry']

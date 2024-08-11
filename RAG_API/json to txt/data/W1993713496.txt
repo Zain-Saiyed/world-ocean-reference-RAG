@@ -1,0 +1,12 @@
+ID: W1993713496
+TITLE: Earth's energy imbalance and implications
+AUTHOR: ['James E. Hansen', 'Makiko Sato', 'Pushker Kharecha', 'Karina von Schuckmann']
+ABSTRACT:
+Abstract. Improving observations of ocean heat content show that Earth is absorbing more energy from the Sun than it is radiating to space as heat, even during the recent solar minimum. The inferred planetary energy imbalance, 0.58 ± 0.15 W m−2 during the 6-yr period 2005–2010, confirms the dominant role of the human-made greenhouse effect in driving global climate change. Observed surface temperature change and ocean heat gain together constrain the net climate forcing and ocean mixing rates. We conclude that most climate models mix heat too efficiently into the deep ocean and as a result underestimate the negative forcing by human-made aerosols. Aerosol climate forcing today is inferred to be −1.6 ± 0.3 W m−2, implying substantial aerosol indirect climate forcing via cloud changes. Continued failure to quantify the specific origins of this large forcing is untenable, as knowledge of changing aerosol effects is needed to understand future climate change. We conclude that recent slowdown of ocean heat uptake was caused by a delayed rebound effect from Mount Pinatubo aerosols and a deep prolonged solar minimum. Observed sea level rise during the Argo float era is readily accounted for by ice melt and ocean thermal expansion, but the ascendency of ice melt leads us to anticipate acceleration of the rate of sea level rise this decade.
+
+SOURCE: Atmospheric chemistry and physics
+PDF URL: https://acp.copernicus.org/articles/11/13421/2011/acp-11-13421-2011.pdf
+CITED BY COUNT: 466
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Forcing (mathematics)', 'Climatology', 'Environmental science', 'Climate change', 'Climate model', 'Atmospheric sciences', 'Ocean heat content', 'Aerosol', 'Sea ice', 'Radiative forcing', 'Climate commitment', 'Global warming', 'Sea surface temperature', 'Effects of global warming', 'Geology', 'Oceanography', 'Meteorology', 'Geography']

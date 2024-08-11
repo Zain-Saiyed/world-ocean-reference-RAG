@@ -1,0 +1,12 @@
+ID: W3020891227
+TITLE: Seismic Exploration of Mineral Resources in Western Australia with Distribute Acoustic Sensing
+AUTHOR: ['Milovan Urošević', 'Andrej Bóna', 'Sasha Ziramov', 'Roman Pevzner', 'Konstantin Tertyshnikov', 'Ryan A. Martin', 'J. Dwyer', 'D. Felding', 'C. Guarin', 'Andrew Foley']
+ABSTRACT:
+Summary Distributed Acoustic Sensing (DAS) technology is undergoing rapid developments in different areas of science and industry including exploration of natural resources. The primary reason is that DAS could bring a step change in the current application of seismic reflection method in the mineral sector. While the reflection seismic, in its current form of application is useful for mineral exploration it is often considered prohibitively expensive to use over the mining lease or to use as a primary exploration tool, alongside magnetic and gravity surveys. Here we present recent developments in the application of DAS in the surface reflection mode for imaging in hard rock environments. One clear case is the use of DAS for reflection imaging over numerous salt lakes, particularly in Western Australia (WA), where vast mineral resources are yet to be characterised and produced. The use of conventional equipment in hypersaline environments is limited and prone to hardware issues, equipment damage and significant material losses. In contrast, DAS technology is resistant to the affects of a hypersaline environment. We show two very encouraging results obtained over two different salt lakes of WA. Subsequently this methodology was extended to the hard ground with the overwhelming initial results.
+
+SOURCE: 25th European Meeting of Environmental and Engineering Geophysics
+PDF URL: None
+CITED BY COUNT: 1
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Reflection (computer programming)', 'Mineral exploration', 'Mineral resource classification', 'Lease', 'Geology', 'Mining engineering', 'Remote sensing', 'Computer science', 'Earth science', 'Geophysics', 'Geochemistry', 'Business', 'Finance', 'Programming language']

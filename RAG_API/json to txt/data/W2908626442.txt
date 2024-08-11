@@ -1,0 +1,12 @@
+ID: W2908626442
+TITLE: Experimental assessments of marine species sensitivities to ocean acidification and co-stressors: how far have we come?
+AUTHOR: ['Hannes Baumann']
+ABSTRACT:
+Experimental studies assessing the potential impacts of ocean acidification on marine organisms have rapidly expanded and produced a wealth of empirical data over the past decade. This perspective examines four key areas of transformative developments in experimental approaches: (1) methodological advances; (2) advances in elucidating physiological and molecular mechanisms behind observed CO 2 effects; (3) recognition of short-term CO 2 variability as a likely modifier of species sensitivities (Ocean Variability Hypothesis); and (4) consensus on the multistressor nature of marine climate change where effect interactions are still challenging to anticipate. No single experiment allows predicting the fate of future populations. But sustaining the accumulation of empirical evidence is critical for more robust estimates of species reaction norms and thus for enabling better modeling approaches. Moreover, advanced experimental approaches are needed to address knowledge gaps including changes in species interactions and intraspecific variability in sensitivity and its importance for the adaptation potential of marine organisms to a high CO 2 world.
+
+SOURCE: Canadian journal of zoology
+PDF URL: None
+CITED BY COUNT: 63
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Biology', 'Climate change', 'Intraspecific competition', 'Marine species', 'Adaptation (eye)', 'Ecology', 'Neuroscience']

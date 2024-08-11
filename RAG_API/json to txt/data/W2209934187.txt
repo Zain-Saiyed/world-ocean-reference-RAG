@@ -1,0 +1,12 @@
+ID: W2209934187
+TITLE: Multidecadal increase in North Atlantic coccolithophores and the potential role of rising CO <sub>2</sub>
+AUTHOR: ['Sara Rivero‐Calle', 'Anand Gnanadesikan', 'Carlos E. Del Castillo', 'William M. Balch', 'Seth D. Guikema']
+ABSTRACT:
+As anthropogenic carbon dioxide (CO2) emissions acidify the oceans, calcifiers generally are expected to be negatively affected. However, using data from the Continuous Plankton Recorder, we show that coccolithophore occurrence in the North Atlantic increased from ~2 to more than 20% from 1965 through 2010. We used random forest models to examine more than 20 possible environmental drivers of this change, finding that CO2 and the Atlantic Multidecadal Oscillation were the best predictors, leading us to hypothesize that higher CO2 levels might be encouraging growth. A compilation of 41 independent laboratory studies supports our hypothesis. Our study shows a long-term basin-scale increase in coccolithophores and suggests that increasing CO2 and temperature have accelerated the growth of a phytoplankton group that is important for carbon cycling.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/350/6267/1533.full.pdf
+CITED BY COUNT: 112
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Coccolithophore', 'Phytoplankton', 'Atlantic multidecadal oscillation', 'Environmental science', 'Oceanography', 'Carbon cycle', 'Climatology', "Carbon dioxide in Earth's atmosphere", 'Atlantic hurricane', 'Plankton', 'Carbon dioxide', 'Climate change', 'Sea surface temperature', 'Ecology', 'Biology', 'Ecosystem', 'Geology', 'Tropical cyclone', 'Nutrient']

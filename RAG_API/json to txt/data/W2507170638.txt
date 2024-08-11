@@ -1,0 +1,12 @@
+ID: W2507170638
+TITLE: Hong Kong’s marine environments: History, challenges and opportunities
+AUTHOR: ['Racliffe Weng Seng Lai', 'Matthew J. Perkins', 'Kevin Ho', 'Juan C. Astudillo', 'Mana Man Na Yung', 'Bayden D. Russell', 'Gray A. Williams', 'Kenneth M.Y. Leung']
+ABSTRACT:
+Located within the tropics, Hong Kong has diverse marine habitats which host a rich marine biodiversity (∼6000 known species). Its marine environment is, however, under considerable anthropogenic pressure and continuous deterioration from rapid population growth and constant coastal development. This review summarizes the present status of the marine environment of Hong Kong from the perspectives of habitat loss and fragmentation, pollution, biological invasion, over-exploitation and climate change, which are the major threats identified by the IUCN to marine ecosystems. The Chinese white dolphin population (Sousa chinensis; one of the two resident marine mammals in Hong Kong) is at a historic low and continues to decline due to habitat loss through land reclamation, pollution, and intense marine traffic. Much of Hong Kong's coastal water is degraded by both substantial local and transboundary pollution from the Pearl River Delta, leading to eutrophication and harmful algal blooms. Exposure risk to introduced exotic species is high, as Hong Kong is both the fourth busiest harbour in the world and release of animals into the marine environment during religious ceremonies is a common practice of local Buddhists and Taoists. The high consumption of seafood has stressed fishery stocks in Hong Kong and its supplying countries. All these impacts are compounded by the often insidious, but pressing, challenges of climate change, with warming temperatures and increasing acidity of coastal waters. Given these known and emerging threats, Hong Kong serves as a living laboratory to investigate the impacts of both global and local activities and, where possible, develop solutions which could be implemented globally.
+
+SOURCE: Regional studies in marine science
+PDF URL: None
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Habitat destruction', 'Marine habitats', 'Marine ecosystem', 'Biodiversity', 'Land reclamation', 'Habitat', 'Geography', 'Population', 'IUCN Red List', 'Marine life', 'Climate change', 'Fishery', 'Environmental protection', 'Population growth', 'Eutrophication', 'Ecosystem', 'Ecology', 'Biology', 'Demography', 'Archaeology', 'Sociology', 'Nutrient']

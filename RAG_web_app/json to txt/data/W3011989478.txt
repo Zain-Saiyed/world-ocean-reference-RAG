@@ -1,0 +1,12 @@
+ID: W3011989478
+TITLE: Prioritising search effort to locate previously unknown populations of endangered marine reptiles
+AUTHOR: ['Vinay Udyawer', 'Ruchira Somaweera', 'Charlotte R. Nitschke', "Blanche R. D'Anastasi", 'Kate L. Sanders', 'Bruce L. Webber', 'M. Hourston', 'Michelle R. Heupel']
+ABSTRACT:
+Strategies aimed to conserve and manage rare species are often hindered by the lack of data needed for their effective design. Incomplete and inaccurate data on habitat associations and current species distributions pose a barrier to effective conservation and management for several species of endemic sea snakes in Western Australia that are thought to be in decline. Here we used a correlative modelling approach to understand habitat associations and identify suitable habitats for five of these species (Aipysurus apraefrontalis, A. foliosquama, A. fuscus, A. l. pooleorum and A. tenuis). We modelled species-specific habitat suitability across 804,244 km2 of coastal waters along the North-west Shelf of Western Australia, to prioritise future survey regions to locate unknown populations of these rare species. Model projections were also used to quantify the effectiveness of current spatial management strategies (Marine Protected Areas) in conserving important habitats for these species. Species-specific models matched well with the records on which they were trained, and identified additional regions of suitability without records. Subsequent field validation of the model projections uncovered a previously unknown locality for A. fuscus within the mid-shelf shoal region, outside its currently recognised global range. Defining accurate geographic distributions for rare species is a vital first step in defining more robust extent of species occurrence and range overlap with threatening processes.
+
+SOURCE: Global ecology and conservation
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Habitat', 'Endangered species', 'Range (aeronautics)', 'Geography', 'Ecology', 'Rare species', 'Species distribution', 'Critically endangered', 'Fishery', 'Biology', 'Materials science', 'Composite material']

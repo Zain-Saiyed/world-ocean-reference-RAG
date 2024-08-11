@@ -1,0 +1,12 @@
+ID: W1973194472
+TITLE: Cultural ecosystem services in the context of offshore wind farming: A case study from the west coast of Schleswig-Holstein
+AUTHOR: ['Kira Gee', 'Benjamin Burkhard']
+ABSTRACT:
+Although frequently referred to in the literature, the concept of cultural ecosystem services (CES) has so far been limited in its application. Difficulties arise when specifying the nature of intangible values, but more significantly when it comes to relating intangible values to ecosystem functions. After setting out some conceptual issues, this paper uses a case study on the German North Sea coast to illustrate ways of operationalising the concept in a marine context. Based on a survey of local residents, we first identify current CES in the sea and the intangible values associated with them. Seascape and place emerge as useful conceptual bridges linking ecosystem functioning outcomes to key CES values. We then relate this to offshore wind farming, which some residents perceive as a significant threat to certain CES. Although the approach presented increases the visibility of intangible ecosystem values, the problem remains that such assessments are temporal, in need of added calibration and do not automatically put intangibles on a par with market ecosystem value.
+
+SOURCE: Ecological complexity
+PDF URL: None
+CITED BY COUNT: 182
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seascape', 'Ecosystem services', 'Context (archaeology)', 'Ecosystem', 'Offshore wind power', 'Environmental resource management', 'Geography', 'Agriculture', 'Value (mathematics)', 'Conceptual model', 'Marine ecosystem', 'Conceptual framework', 'Business', 'Environmental science', 'Habitat', 'Computer science', 'Ecology', 'Sociology', 'Archaeology', 'Wind power', 'Biology', 'Social science', 'Database', 'Machine learning']

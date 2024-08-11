@@ -1,0 +1,12 @@
+ID: W2123495234
+TITLE: Projected pH reductions by 2100 might put deep North Atlantic biodiversity at risk
+AUTHOR: ['Marion Gehlen', 'Roland Séférian', 'Daniel O. B. Jones', 'Tilla Roy', 'Raphael Roth', 'James Barry', 'Laurent Bopp', 'Scott C. Doney', 'John Dunne', 'Christoph Heinze', 'Fortunat Joos', 'James C. Orr', 'Laure Resplandy', 'Joachim Segschneider', 'Jerry Tjiputra']
+ABSTRACT:
+Abstract. This study aims at evaluating the potential for impacts of ocean acidification on North Atlantic deep-sea ecosystems in response to IPCC AR5 Representative Concentration Pathways (RCP). Deep-sea biota is likely highly vulnerable to changes in seawater chemistry and sensitive to moderate excursions in pH. Here we show, from seven fully-coupled Earth system models, that for three out of four RCPs over 17% of the seafloor area below 500 m depth in the North Atlantic sector will experience pH reductions exceeding −0.2 units by 2100. Increased stratification in response to climate change partially alleviates the impact of ocean acidification on deep benthic environment. We report major potential consequences of pH reductions for deep-sea biodiversity hotspots, such as seamounts and canyons. By 2100 and under the high CO2 scenario RCP8.5 pH reductions exceeding −0.2, (respectively −0.3) units are projected in close to 23% (~ 15%) of North Atlantic deep-sea canyons and ~ 8% (3%) of seamounts – including seamounts proposed as sites of marine protected areas. The spatial pattern of impacts reflects the depth of the pH perturbation and does not scale linearly with atmospheric CO2 concentration. Impacts may cause negative changes of the same magnitude or exceeding the current target of 10% of preservation of marine biomes set by the convention on biological diversity implying that ocean acidification may offset benefits from conservation/management strategies relying on the regulation of resource exploitation.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2014
+TYPE: preprint
+CONCEPTS: ['Ocean acidification', 'Seamount', 'Oceanography', 'Environmental science', 'Representative Concentration Pathways', 'Biodiversity', 'Thermohaline circulation', 'Marine ecosystem', 'Deep sea', 'Benthic zone', 'Biota', 'Effects of global warming on oceans', 'Biome', 'Ecosystem', 'Climate change', 'Geology', 'Global warming', 'Ecology', 'Climate model', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2892658253
+TITLE: Sediment starvation destroys New York City marshes’ resistance to sea level rise
+AUTHOR: ['D. M. Peteet', 'J. E. Nichols', 'T. C. Kenna', 'Clara Chang', 'James P. Browne', 'Mohammad Reza', 'Stephen Kovari', 'Louisa M. Liberman', 'S. Stern-Protz']
+ABSTRACT:
+Significance Worldwide, coastal marshes are facing extreme impacts, including urban encroachment, pollution, upriver dams, and sea level rise. Our research provides a method of sediment history reconstruction to understand the role of plant/animal (organic) and mineral (inorganic) matter in their growth and maintenance, including the effects of humans on the sediment burial. We find that, due to urbanization, these marshes have experienced a remarkable loss of mineral sediment and increase in organic sediment, significantly enhancing the risk of marsh loss with sea level rise by making them structurally weak. Future resilience depends upon active enrichment of mineral sediment in both borrow pits and marshes, ensuring the marshes outpace sea level rise, provide wildlife habitat, and retain polluted sediments beneath them.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/115/41/10281.full.pdf
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Marsh', 'Sediment', 'Environmental science', 'Salt marsh', 'Urbanization', 'Ecology', 'Oceanography', 'Wetland', 'Geology', 'Biology', 'Geomorphology']

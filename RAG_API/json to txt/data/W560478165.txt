@@ -1,0 +1,12 @@
+ID: W560478165
+TITLE: Submarine and deep-sea mine tailing placements: A review of current practices, environmental issues, natural analogs and knowledge gaps in Norway and internationally
+AUTHOR: ['Eva Ramirez-Llodra', 'Hilde Cecilie Trannum', 'Anita Evenset', 'Lisa A. Levin', 'Malin Andersson', 'Tor Erik Finne', 'Ana Belén Ríos Hilario', 'Belinda Flem', 'Guttorm Christensen', 'Morten Schaanning', 'Ann Vanreusel']
+ABSTRACT:
+The mining sector is growing in parallel with societal demands for minerals. One of the most important environmental issues and economic burdens of industrial mining on land is the safe storage of the vast amounts of waste produced. Traditionally, tailings have been stored in land dams, but the lack of land availability, potential risk of dam failure and topography in coastal areas in certain countries results in increasing disposal of tailings into marine systems. This review describes the different submarine tailing disposal methods used in the world in general and in Norway in particular, their impact on the environment (e.g. hyper-sedimentation, toxicity, processes related to changes in grain shape and size, turbidity), current legislation and need for future research. Understanding these impacts on the habitat and biota is essential to assess potential ecosystem changes and to develop best available techniques and robust management plans.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 123
+PUBLICATION YEAR: 2015
+TYPE: review
+CONCEPTS: ['Tailings', 'Natural (archaeology)', 'Environmental science', 'Legislation', 'Environmental protection', 'Submarine', 'Environmental impact assessment', 'Environmental planning', 'Natural resource', 'Ecosystem', 'Biota', 'Environmental resource management', 'Land use', 'Habitat', 'Wildlife', 'Ecology', 'Geography', 'Engineering', 'Oceanography', 'Geology', 'Civil engineering', 'Materials science', 'Archaeology', 'Political science', 'Law', 'Metallurgy', 'Biology']

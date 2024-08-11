@@ -1,0 +1,12 @@
+ID: W2298596790
+TITLE: A mass budget for mercury and methylmercury in the Arctic Ocean
+AUTHOR: ['Anne L. Soerensen', 'Daniel Jacob', 'Amina T. Schartup', 'Jenny A. Fisher', 'Igor Lehnherr', 'Vincent L. St. Louis', 'Lars-Éric Heimbürger', 'Jeroen E. Sonke', 'David P. Krabbenhoft', 'Elsie M. Sunderland']
+ABSTRACT:
+Abstract Elevated biological concentrations of methylmercury (MeHg), a bioaccumulative neurotoxin, are observed throughout the Arctic Ocean, but major sources and degradation pathways in seawater are not well understood. We develop a mass budget for mercury species in the Arctic Ocean based on available data since 2004 and discuss implications and uncertainties. Our calculations show that high total mercury (Hg) in Arctic seawater relative to other basins reflect large freshwater inputs and sea ice cover that inhibits losses through evasion. We find that most net MeHg production (20 Mg a −1 ) occurs in the subsurface ocean (20–200 m). There it is converted to dimethylmercury (Me 2 Hg: 17 Mg a −1 ), which diffuses to the polar mixed layer and evades to the atmosphere (14 Mg a −1 ). Me 2 Hg has a short atmospheric lifetime and rapidly degrades back to MeHg. We postulate that most evaded Me 2 Hg is redeposited as MeHg and that atmospheric deposition is the largest net MeHg source (8 Mg a −1 ) to the biologically productive surface ocean. MeHg concentrations in Arctic Ocean seawater are elevated compared to lower latitudes. Riverine MeHg inputs account for approximately 15% of inputs to the surface ocean (2.5 Mg a −1 ) but greater importance in the future is likely given increasing freshwater discharges and permafrost melt. This may offset potential declines driven by increasing evasion from ice‐free surface waters. Geochemical model simulations illustrate that for the most biologically relevant regions of the ocean, regulatory actions that decrease Hg inputs have the capacity to rapidly affect aquatic Hg concentrations.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015GB005280
+CITED BY COUNT: 113
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Methylmercury', 'Seawater', 'Mercury (programming language)', 'Arctic', 'Bioaccumulation', 'Permafrost', 'Sea ice', 'Environmental chemistry', 'Environmental science', 'Oceanography', 'Chemical oceanography', 'Surface water', 'Chemistry', 'Geology', 'Computer science', 'Programming language', 'Paleontology', 'Microorganism', 'Microbial biodegradation', 'Environmental engineering', 'Bacteria']

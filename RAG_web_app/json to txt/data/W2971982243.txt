@@ -1,0 +1,12 @@
+ID: W2971982243
+TITLE: The future of Blue Carbon science
+AUTHOR: ['Peter I. Macreadie', 'Andrea Antón', 'John A. Raven', 'Nicola Beaumont', 'Rod M. Connolly', 'Daniel A. Friess', 'Jeffrey J. Kelleway', 'Hilary Kennedy', 'Tomohiro Kuwae', 'Paul S. Lavery', 'Catherine E. Lovelock', 'Dan Smale', 'Eugenia T. Apostolaki', 'Trisha B. Atwood', 'Jeff Baldock', 'Thomas S. Bianchi', 'Gail L. Chmura', 'Bradley D. Eyre', 'James W. Fourqurean', 'Jason M. Hall‐Spencer', 'Mark Huxham', 'Iris E. Hendriks', 'Dorte Krause‐Jensen', 'Dan Laffoley', 'Tiziana Luisetti', 'Núria Marbà', 'Pere Masqué', 'Karen J. McGlathery', 'J. Patrick Megonigal', 'Daniel Murdiyarso', 'Bayden D. Russell', 'Rui Santos', 'Óscar Serrano', 'Brian R. Silliman', 'Kenta Watanabe', 'Carlos M. Duarte']
+ABSTRACT:
+Abstract The term Blue Carbon (BC) was first coined a decade ago to describe the disproportionately large contribution of coastal vegetated ecosystems to global carbon sequestration. The role of BC in climate change mitigation and adaptation has now reached international prominence. To help prioritise future research, we assembled leading experts in the field to agree upon the top-ten pending questions in BC science. Understanding how climate change affects carbon accumulation in mature BC ecosystems and during their restoration was a high priority. Controversial questions included the role of carbonate and macroalgae in BC cycling, and the degree to which greenhouse gases are released following disturbance of BC ecosystems. Scientists seek improved precision of the extent of BC ecosystems; techniques to determine BC provenance; understanding of the factors that influence sequestration in BC ecosystems, with the corresponding value of BC; and the management actions that are effective in enhancing this value. Overall this overview provides a comprehensive road map for the coming decades on future research in BC science.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-019-11693-w.pdf
+CITED BY COUNT: 520
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Carbon sequestration', 'Blue carbon', 'Greenhouse gas', 'Climate change', 'Disturbance (geology)', 'Environmental science', 'Global warming', 'Environmental resource management', 'Carbon flux', 'Natural resource economics', 'Environmental protection', 'Ecology', 'Carbon dioxide', 'Biology', 'Paleontology', 'Economics']

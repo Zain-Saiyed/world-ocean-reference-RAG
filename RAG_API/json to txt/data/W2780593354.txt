@@ -1,0 +1,12 @@
+ID: W2780593354
+TITLE: The role of non-natural capital in the co-production of marine ecosystem services
+AUTHOR: ['Luís Outeiro', 'Elena Ojea', 'João Garcia Rodrigues', 'Amber Himes‐Cornell', 'Andrea Belgrano', 'Huan Liu', 'Edna Cabecinha', 'Cristina Pita', 'Gonzalo Macho', 'Sebastián Villasante']
+ABSTRACT:
+A growing concern is arising to recognize that ecosystem services (ES) production often requires the integration of non-natural capital with natural capital in a process known as co-production. Several studies explore co-production in different terrestrial ecosystems, such as agriculture or water delivery, but less attention has been paid to marine ecosystems. Coastal activities such as aquaculture, shellfish harvesting, and small-scale fishing deliver important benefits for seafood provision, but are also inextricably linked to cultural and recreational ES. The degree to which co-production can determine the provision of ES in marine systems has yet not been explored. This paper addresses this key topic with an exploratory analysis of case studies where marine ES are co-produced. We look at five small-scale fisheries that range from intensive semi-aquaculture in Galicia (Spain), to wild harvesting in Northern Portugal, and discuss to what extent co-production influences ES delivery. We find that a direct relationship exists between co-production level and ES delivery in the case of provisioning ES (e.g., fish harvest), but not necessarily in the delivery of other ES. We also find that management practices and property regimes may be affecting trade-offs between co-production and ES.EDITED BY Evangelia Drakou
+
+SOURCE: The International journal of biodiversity science, ecosystem services & management/International journal of biodiversity science, ecosystem services & management
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/21513732.2017.1415973?needAccess=true
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Natural capital', 'Business', 'Fishing', 'Production (economics)', 'Ecosystem', 'Marine ecosystem', 'Aquaculture', 'Fishery', 'Ecosystem services', 'Provisioning', 'Environmental resource management', 'Recreation', 'Natural resource economics', 'Scale (ratio)', 'Capital (architecture)', 'Environmental planning', 'Geography', 'Environmental science', 'Fish <Actinopterygii>', 'Ecology', 'Economics', 'Engineering', 'Archaeology', 'Biology', 'Telecommunications', 'Cartography', 'Macroeconomics']

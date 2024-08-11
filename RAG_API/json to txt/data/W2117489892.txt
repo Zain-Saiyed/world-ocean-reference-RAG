@@ -1,0 +1,12 @@
+ID: W2117489892
+TITLE: Triclosan determination in water related to wastewater treatment
+AUTHOR: ['Jing Wu', 'Nelly Yan Yan Lam', 'D MARTENS', 'A. Kettrup', 'Zongwei Cai']
+ABSTRACT:
+Triclosan in the waste, river and sea water samples collected in Hong Kong was analyzed by using gas chromatography–ion trap mass spectrometry method. 13C12-triclosan was used as internal standard for the quantitative analysis. Water samples were prepared and cleaned-up by using a C18 solid-phase extraction cartridge. The recoveries of triclosan in spiked coastal water at three different concentrations ranged from 83 to 110%. The method detection limit was 0.25 ng/L for triclosan in 1-L water and the relative standard deviations and relative error were less than 11.0 and 12.3%, respectively (n = 3). The method was successfully applied to analyze water samples collected from rivers, coastal water bodies and wastewater treatment plants at ng/L levels.
+
+SOURCE: Talanta
+PDF URL: None
+CITED BY COUNT: 89
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Triclosan', 'Chemistry', 'Wastewater', 'Detection limit', 'Solid phase extraction', 'Environmental chemistry', 'Extraction (chemistry)', 'Chromatography', 'Relative standard deviation', 'Seawater', 'Environmental science', 'Environmental engineering', 'Medicine', 'Oceanography', 'Pathology', 'Geology']

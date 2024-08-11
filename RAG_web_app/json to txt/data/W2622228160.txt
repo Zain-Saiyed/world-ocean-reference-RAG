@@ -1,0 +1,12 @@
+ID: W2622228160
+TITLE: Marine ecosystem services
+AUTHOR: ['Edward B. Barbier']
+ABSTRACT:
+Coastal and marine environments can begin up to 100 kilometers inland, extend to the continental shelf, and include ocean systems with waters up to 50 meters in depth. The distinct marine ecosystems found in these environments include estuarine and coastal wetlands, such as marshes and mangroves, sand beaches and dunes, seagrass beds, and coral and oyster reefs.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982217302890/pdf
+CITED BY COUNT: 272
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seagrass', 'Mangrove', 'Marsh', 'Coral reef', 'Ecosystem', 'Oceanography', 'Wetland', 'Continental shelf', 'Marine ecosystem', 'Oyster', 'Estuary', 'Fishery', 'Mangrove ecosystem', 'Salt marsh', 'Ecosystem services', 'Reef', 'Biology', 'Ecology', 'Geology']

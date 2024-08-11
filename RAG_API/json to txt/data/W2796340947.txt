@@ -1,0 +1,12 @@
+ID: W2796340947
+TITLE: Human footprint in the abyss: 30 year records of deep-sea plastic debris
+AUTHOR: ['Sanae Chiba', 'Hideaki Saito', 'Ruth Fletcher', 'Takayuki Yogi', 'Makino Kayo', 'Shin Miyagi', 'Moritaka Ogido', 'Katsunori Fujikura']
+ABSTRACT:
+This study reports plastic debris pollution in the deep-sea based on the information from a recently developed database. The Global Oceanographic Data Center (GODAC) of the Japan Agency for Marine-Earth Science and Technology (JAMSTEC) launched the Deep-sea Debris Database for public use in March 2017. The database archives photographs and videos of debris that have been collected since 1983 by deep-sea submersibles and remotely operated vehicles. From the 5010 dives in the database, 3425 man-made debris items were counted. More than 33% of the debris was macro-plastic, of which 89% was single-use products, and these ratios increased to 52% and 92%, respectively, in areas deeper than 6000 m. The deepest record was a plastic bag at 10898 m in the Mariana Trench. Deep-sea organisms were observed in the 17% of plastic debris images, which include entanglement of plastic bags on chemosynthetic cold seep communities. Quantitative density analysis for the subset data in the western North Pacific showed plastic density ranging from 17 to 335 items km−2 at depths of 1092–5977 m. The data show that, in addition to resource exploitation and industrial development, the influence of land-based human activities has reached the deepest parts of the ocean in areas more than 1000 km from the mainland. Establishment of international frameworks on monitoring of deep-sea plastic pollution as an Essential Ocean Variable and a data sharing protocol are the keys to delivering scientific outcomes that are useful for the effective management of plastic pollution and the conservation of deep-sea ecosystems.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 338
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Debris', 'Marine debris', 'Deep sea', 'Plastic pollution', 'Oceanography', 'Geology', 'Physical geography', 'Environmental science', 'Geography', 'Microplastics']

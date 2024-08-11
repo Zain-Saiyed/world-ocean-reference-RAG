@@ -1,0 +1,12 @@
+ID: W2477400535
+TITLE: Estuaries: A Lifeline of Ecosystem Services in the Western Indian Ocean
+AUTHOR: ['Salif Diop', 'Peter Scheren', 'John F. Machiwa']
+ABSTRACT:
+This book provides recent environmental, ecological and hydrodynamic information for the major estuaries and the coastal marine systems of the Western Indian Ocean Region. It covers various functions
+
+SOURCE: Estuaries of the world
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2016
+TYPE: book
+CONCEPTS: ['Estuary', 'Ecosystem', 'Environmental resource management', 'Ecosystem services', 'Oceanography', 'Environmental science', 'Geography', 'Fishery', 'Ecology', 'Geology', 'Biology']

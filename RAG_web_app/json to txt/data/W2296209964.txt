@@ -1,0 +1,12 @@
+ID: W2296209964
+TITLE: A Dark Hole in Our Understanding of Marine Ecosystems and Their Services: Perspectives from the Mesopelagic Community
+AUTHOR: ['Michael St. John', 'Ángel Borja', 'Guillem Chust', 'Michael R. Heath', 'Ivo Grigorov', 'Adrian P. Martin', 'Ricardo Serrão Santos', 'Patrizio Mariani']
+ABSTRACT:
+In the face of increasing anthropogenic pressures acting on the Earth system, urgent actions are needed to guarantee efficient resource management and sustainable development for our growing human population. Our oceans - the largest underexplored component of the Earth system - are potentially home for a large number of new resources, which can directly impact upon food security and the wellbeing of humanity. However, the extraction of these resources has repercussions for biodiversity and the oceans ability to sequester green house gases and thereby climate. In the search for “new resources” to unlock the economic potential of the global oceans, recent observations have identified a large unexploited biomass of mesopelagic fish living in the deep ocean. This biomass has recently been estimated to be 10 billion metric tonnes, 10 times larger than previous estimates however the real biomass is still in question. If we are able to exploit this community at sustainable levels without impacting upon biodiversity and compromising the oceans’ ability to sequester carbon, we can produce more food and potentially many new nutraceutical products. However, to meet the needs of present generations without compromising the needs of future generations, we need to guarantee a sustainable exploitation of these resources. To do so requires a holistic assessment of the community and an understanding of the mechanisms controlling this biomass, its role in the preservation of biodiversity and its influence on climate as well as management tools able to weigh the costs and benefits of exploitation of this community.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2016.00031/pdf
+CITED BY COUNT: 182
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Natural resource economics', 'Mesopelagic zone', 'Biomass (ecology)', 'Ecosystem services', 'Environmental resource management', 'Business', 'Population', 'Food security', 'Ecosystem', 'Environmental science', 'Ecology', 'Economics', 'Biology', 'Pelagic zone', 'Demography', 'Sociology', 'Agriculture']

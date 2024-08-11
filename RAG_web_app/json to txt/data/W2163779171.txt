@@ -1,0 +1,12 @@
+ID: W2163779171
+TITLE: Selective Accumulation May Account for Shellfish-Associated Viral Illness
+AUTHOR: ['William Burkhardt', 'Kevin R. Calci']
+ABSTRACT:
+ABSTRACT From 1991 through 1998, 1,266 cases of shellfish-related illnesses were attributed to Norwalk-like viruses. Seventy-eight percent of these illnesses occurred following consumption of oysters harvested from the Gulf Coast during the months of November through January. This study investigated the ability of eastern oysters ( Crassostrea virginica ) to accumulate indicator microorganisms (i.e., fecal coliforms, Escherichia coli , Clostridium perfringens , and F + coliphage) from estuarine water. One-week trials over a 1-year period were used to determine if these indicator organisms could provide insight into the seasonal occurrence of these gastrointestinal illnesses. The results demonstrate that oysters preferentially accumulated F + coliphage, an enteric viral surrogate, to their greatest levels from late November through January, with a concentration factor of up to 99-fold. However, similar increases in accumulation of the other indicator microorganisms were not observed. These findings suggest that the seasonal occurrence of shellfish-related illnesses by enteric viruses is, in part, the result of seasonal physiological changes undergone by the oysters that affect their ability to accumulate viral particles from estuarine waters.
+
+SOURCE: Applied and environmental microbiology
+PDF URL: None
+CITED BY COUNT: 215
+PUBLICATION YEAR: 2000
+TYPE: article
+CONCEPTS: ['Coliphage', 'Shellfish', 'Crassostrea', 'Biology', 'Fecal coliform', 'Feces', 'Ostreidae', 'Bivalvia', 'Oyster', 'Estuary', 'Microbiology', 'Indicator organism', 'Clostridium perfringens', 'Microorganism', 'Escherichia coli', 'Aquatic animal', 'Fishery', 'Ecology', 'Mollusca', 'Bacteriophage', 'Bacteria', 'Fish <Actinopterygii>', 'Water quality', 'Biochemistry', 'Genetics', 'Gene']

@@ -1,0 +1,12 @@
+ID: W2939234172
+TITLE: The rise in ocean plastics evidenced from a 60-year time series
+AUTHOR: ['Clare Ostle', 'Richard C. Thompson', 'Derek Broughton', 'Lance Gregory', 'Marianne Wootton', 'David G. Johns']
+ABSTRACT:
+Plastic production has increased exponentially since its use became widespread in the 1950s. This has led to increased concern as plastics have become prevalent in the oceanic environment, and evidence of their impacts on marine organisms and human health has been highlighted. Despite their prevalence, very few long-term (>40 years) records of the distribution and temporal trends of plastics in the world's oceans exist. Here we present a new time series, from 1957 to 2016 and covering over 6.5 million nautical miles, based on records of when plastics have become entangled on a towed marine sampler. This consistent time series provides some of the earliest records of plastic entanglement, and is the first to confirm a significant increase in open ocean plastics in recent decades.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-019-09506-1.pdf
+CITED BY COUNT: 291
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Series (stratigraphy)', 'Oceanography', 'Human health', 'Environmental science', 'Meteorology', 'Geography', 'Geology', 'Paleontology', 'Environmental health', 'Medicine']

@@ -1,0 +1,12 @@
+ID: W2520692549
+TITLE: Diversity and distribution of hyperiid amphipods along a latitudinal transect in the Atlantic Ocean
+AUTHOR: ['Alice K. Burridge', 'Marloes Tump', 'Ronald Vonk', 'Erica Goetze', 'Katja T. C. A. Peijnenburg']
+ABSTRACT:
+As commensals and parasitoids of gelatinous plankton, hyperiid amphipods play unique and important ecological roles in pelagic food webs. Because the diversity and biogeography of this group in oceanic waters is poorly known, we examined diversity and distribution patterns of hyperiids along a basin-scale meridional transect in the Atlantic Ocean (Atlantic Meridional Transect cruise 22). Hyperiids were collected from epipelagic and upper mesopelagic depths at 27 stations between 39°N and 45°S. A total of 70 species in 36 genera and 17 families were identified, the majority of which belonged to the epipelagic Physocephalata infraorder. We observed maximum species and genus richness in the equatorial upwelling region (up to 35 species, 27 genera per station; 7°N–8°S), which appeared largely driven by increased diversity in the superfamily Platysceloidea, as well as a significant and positive relationship between species richness and sea surface temperature. Cluster analyses of hyperiid species assemblages along the transect broadly supported a division into gyral, equatorial, transitional, and subantarctic assemblages, congruent with Longhurst’s biogeochemical provinces. Steepest transitions in hyperiid species composition occurred at the southern subtropical convergence zone (34–38°S). The majority of zooplankton groups show maximal diversity in subtropical waters, and our observations of equatorial maxima in species and genus richness for hyperiids suggest that the mechanisms controlling diversity in this group are distinct from other zooplanktonic taxa. These patterns may be driven by the distribution and diversity of gelatinous hosts for hyperiids, which remain poorly characterized at ocean basin scales. The data reported here provide new distributional records for epipelagic and upper mesopelagic hyperiids across six major oceanic provinces in the Atlantic Ocean.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Species richness', 'Pelagic zone', 'Mesopelagic zone', 'Biology', 'Ecology', 'Oceanography', 'Transect', 'Zooplankton', 'Plankton', 'Species diversity', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2208359699
+TITLE: Baseline Assessment of Mesophotic Reefs of the Vitória-Trindade Seamount Chain Based on Water Quality, Microbial Diversity, Benthic Cover and Fish Biomass Data
+AUTHOR: ['Pedro Milet Meirelles', 'Gilberto M. Amado‐Filho', 'Guilherme H. Pereira‐Filho', 'Hudson T. Pinheiro', 'Rodrigo L. Moura', 'Jean‐Christophe Joyeux', 'Eric F. Mazzei', 'Alex Cardoso Bastos', 'Robert A. Edwards', 'Elizabeth A. Dinsdale', 'Rodolfo Paranhos', 'Eidy de Oliveira Santos', 'Tetsuya Iida', 'Kazuyoshi Gotoh', 'Shota Nakamura', 'Tomoo Sawabe', 'Carlos Eduardo de Rezende', 'Luiz Gadelha', 'Ronaldo B. Francini‐Filho', 'Cristiane Thompson', 'Fabiano L. Thompson']
+ABSTRACT:
+Seamounts are considered important sources of biodiversity and minerals. However, their biodiversity and health status are not well understood; therefore, potential conservation problems are unknown. The mesophotic reefs of the Vitória-Trindade Seamount Chain (VTC) were investigated via benthic community and fish surveys, metagenomic and water chemistry analyses, and water microbial abundance estimations. The VTC is a mosaic of reef systems and includes fleshy algae dominated rhodolith beds, crustose coralline algae (CCA) reefs, and turf algae dominated rocky reefs of varying health levels. Macro-carnivores and larger fish presented higher biomass at the CCA reefs (4.4 kg per frame) than in the rhodolith beds and rocky reefs (0.0 to 0.1 kg per frame). A larger number of metagenomic sequences identified as primary producers (e.g., Chlorophyta and Streptophyta) were found at the CCA reefs. However, the rocky reefs contained more diseased corals (>90%) than the CCA reefs (~40%) and rhodolith beds (~10%). Metagenomic analyses indicated a heterotrophic and fast-growing microbiome in rocky reef corals that may possibly lead to unhealthy conditions possibly enhanced by environmental features (e.g. light stress and high loads of labile dissolved organic carbon). VTC mounts represent important hotspots of biodiversity that deserve further conservation actions.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130084&type=printable
+CITED BY COUNT: 57
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Reef', 'Crustose', 'Coralline algae', 'Benthic zone', 'Seamount', 'Ecology', 'Biodiversity', 'Coral reef', 'Abundance (ecology)', 'Biology', 'Biomass (ecology)', 'Fishery', 'Environmental science', 'Oceanography', 'Geology', 'Paleontology']

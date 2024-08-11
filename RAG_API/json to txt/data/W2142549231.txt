@@ -1,0 +1,12 @@
+ID: W2142549231
+TITLE: Adaptive governance, ecosystem management, and natural capital
+AUTHOR: ['Lisen Schultz', 'Carl Folke', 'Henrik Österblom', 'Per Olsson']
+ABSTRACT:
+To gain insights into the effects of adaptive governance on natural capital, we compare three well-studied initiatives; a landscape in Southern Sweden, the Great Barrier Reef in Australia, and fisheries in the Southern Ocean. We assess changes in natural capital and ecosystem services related to these social-ecological governance approaches to ecosystem management and investigate their capacity to respond to change and new challenges. The adaptive governance initiatives are compared with other efforts aimed at conservation and sustainable use of natural capital: Natura 2000 in Europe, lobster fisheries in the Gulf of Maine, North America, and fisheries in Europe. In contrast to these efforts, we found that the adaptive governance cases developed capacity to perform ecosystem management, manage multiple ecosystem services, and monitor, communicate, and respond to ecosystem-wide changes at landscape and seascape levels with visible effects on natural capital. They enabled actors to collaborate across diverse interests, sectors, and institutional arrangements and detect opportunities and problems as they developed while nurturing adaptive capacity to deal with them. They all spanned local to international levels of decision making, thus representing multilevel governance systems for managing natural capital. As with any governance system, internal changes and external drivers of global impacts and demands will continue to challenge the long-term success of such initiatives.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/112/24/7369.full.pdf
+CITED BY COUNT: 253
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Natural capital', 'Adaptive management', 'Corporate governance', 'Environmental resource management', 'Business', 'Ecosystem services', 'Ecosystem management', 'Ecosystem-based management', 'Adaptive capacity', 'Seascape', 'Ecosystem', 'Environmental planning', 'Fisheries management', 'Social capital', 'Natural resource economics', 'Geography', 'Fishery', 'Climate change', 'Ecology', 'Economics', 'Fishing', 'Political science', 'Biology', 'Habitat', 'Finance', 'Law']

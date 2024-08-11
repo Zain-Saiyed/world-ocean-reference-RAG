@@ -1,0 +1,12 @@
+ID: W2923133959
+TITLE: Detection of floating plastics from satellite and unmanned aerial systems (Plastic Litter Project 2018)
+AUTHOR: ['Konstantinos Topouzelis', 'Απόστολος Παπακωνσταντίνου', 'Shungudzemwoyo P. Garaba']
+ABSTRACT:
+A rapidly rising amount of plastic litter on land and at sea is becoming a global wicked environmental problem. Here, we present an innovative exploratory application of unmanned aerial systems (UAS) and open-access satellite imagery in remote detection of floating plastics in natural seawater, through a dedicated aquatic environment experiment. We aimed to extract meaningful spectral measurements in near-real scenarios and to compare the geospatial information ranging from moderate to very high resolution. A set of three artificial floating plastic targets were setup for remote detection in the waters close to Tsamakia beach of Mytilene on Lesvos Island, Greece. These floating targets consisted of 100 m2 PET-1 1.5 L water bottles, LDPE plastic bags and nylon fishing ghost nets. Spectral properties of the controlled targets as well as surrounding seawater were investigated for Sentinel-2A satellite data. We demonstrate how UAS very high geospatial resolution images can be useful in improving geo-referencing of satellite images and how UAS can be used to assess the plastic percentage coverage of satellite images. We observed very weak to strong relationships between percentage pixel coverage and the spectral reflectance at p-value < 0.1 significance level. Effects of atmospheric correction algorithms was evaluated using Sen2Cor and ACOLITE, derive unbiased percentage differences were less than 65%. Our feasibility study demonstrated the importance of very high geo-spatial resolution UAS datasets in validating and enhancing the geo-spatial accuracy of satellite data for monitoring plastics in the aquatic environment. Monitoring and identifying plastics needs an integrated suite of sensors, we therefore present how available tools can be utilized to improve current efforts and contribute to advancing relevant future remote sensing technologies.
+
+SOURCE: International journal of applied earth observation and geoinformation
+PDF URL: None
+CITED BY COUNT: 132
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Remote sensing', 'Satellite', 'Environmental science', 'Marine debris', 'Geospatial analysis', 'Spectral bands', 'Pixel', 'Geography', 'Meteorology', 'Computer science', 'Engineering', 'Debris', 'Artificial intelligence', 'Aerospace engineering']

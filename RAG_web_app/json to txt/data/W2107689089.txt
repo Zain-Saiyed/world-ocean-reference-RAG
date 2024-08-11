@@ -1,0 +1,12 @@
+ID: W2107689089
+TITLE: Disruption to place attachment and the protection of restorative environments: A wind energy case study
+AUTHOR: ['Patrick Devine‐Wright', 'Yuko Howes']
+ABSTRACT:
+Deepening understanding of public responses to large-scale renewable energy projects is of academic and practical importance, given policies to lessen fossil fuel use in many countries. Although the NIMBY (Not In My Back Yard) concept is commonly used to explain public opposition, the concept has been extensively critiqued. This study applies an alternative approach based upon the notion of disruption to place attachment, and the theory of social representations, with a focus upon the symbolic meanings associated with a proposed project and the places affected by it. Empirical data is provided from a case study of a proposed 750 MW offshore wind farm in North Wales, using group discussions and questionnaires distributed to local residents in two coastal towns (n = 488). Results indicate significant differences between each town's residents in their responses to the project, and how opposition arises from nature/industry symbolic contradictions: between a place represented in terms of scenic beauty that provides a restorative environment for residents and visitors, and a wind farm that will industrialise the area and ‘fence’ in the bay. In one of the towns, the data suggests that contradiction between project and place was experienced as a threat to identity for those with strong place attachment, leading to negative attitudes and oppositional behaviour. Levels of trust in key actors moderated the relation between place attachment and negative attitudes to the wind farm. The results provide further evidence of the role of place attachment in shaping so-called ‘NIMBY’ responses to development proposals, and challenge the assumption that offshore wind farms will prove less controversial than those onshore.
+
+SOURCE: Journal of environmental psychology
+PDF URL: None
+CITED BY COUNT: 700
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['NIMBY', 'Place attachment', 'Opposition (politics)', 'Place identity', 'Social psychology', 'Sociology', 'Psychology', 'Political science', 'Engineering', 'Civil engineering', 'Law', 'Urban planning', 'Politics']

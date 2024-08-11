@@ -1,0 +1,12 @@
+ID: W2562468253
+TITLE: Virus taxonomy in the age of metagenomics
+AUTHOR: ['Peter Simmonds', 'Mike Adams', 'Mária Benkö', 'Mya Breitbart', 'J. Rodney Brister', 'Eric B. Carstens', 'Andrew J. Davison', 'Eric Delwart', 'Alexander E. Gorbalenya', 'Balázs Harrach', 'Roger Hull', 'Andrew M. Q. King', 'Eugene V. Koonin', 'Mart Krupovìč', 'Jens H. Kuhn', 'Elliot J. Lefkowitz', 'Max L. Nibert', 'Richard Orton', 'Marilyn J. Roossinck', 'Sead Sabanadzovic', 'Matthew B. Sullivan', 'Curtis A. Suttle', 'Robert B. Tesh', 'René A. van der Vlugt', 'Arvind Varsani', 'F. Murilo Zerbini']
+ABSTRACT:
+Although viral sequences are important in taxonomy, classification has typically also required biological properties, thus excluding viruses that were identified by metagenomics. The proposals in this Consensus Statement, which are supported by the International Committee on Taxonomy of Viruses (ICTV), enable viruses that are discovered by sequence alone to be incorporated into virus classification. The number and diversity of viral sequences that are identified in metagenomic data far exceeds that of experimentally characterized virus isolates. In a recent workshop, a panel of experts discussed the proposal that, with appropriate quality control, viruses that are known only from metagenomic data can, and should be, incorporated into the official classification scheme of the International Committee on Taxonomy of Viruses (ICTV). Although a taxonomy that is based on metagenomic sequence data alone represents a substantial departure from the traditional reliance on phenotypic properties, the development of a robust framework for sequence-based virus taxonomy is indispensable for the comprehensive characterization of the global virome. In this Consensus Statement article, we consider the rationale for why metagenomic sequence data should, and how it can, be incorporated into the ICTV taxonomy, and present proposals that have been endorsed by the Executive Committee of the ICTV.
+
+SOURCE: Nature reviews. Microbiology
+PDF URL: https://www.nature.com/articles/nrmicro.2016.177.pdf
+CITED BY COUNT: 581
+PUBLICATION YEAR: 2017
+TYPE: review
+CONCEPTS: ['Metagenomics', 'Human virome', 'Virus classification', 'Biology', 'Taxonomy (biology)', 'Computational biology', 'Genetics', 'Gene', 'Ecology', 'Genome']

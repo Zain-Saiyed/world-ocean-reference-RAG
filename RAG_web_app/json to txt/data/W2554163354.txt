@@ -1,0 +1,12 @@
+ID: W2554163354
+TITLE: Global patterns of kelp forest change over the past half-century
+AUTHOR: ['Kira A. Krumhansl', 'Daniel K. Okamoto', 'Andrew Rassweiler', 'Márk Novák', 'John J. Bolton', 'Kyle C. Cavanaugh', 'Sean D. Connell', 'Craig R. Johnson', 'Brenda Konar', 'Scott D. Ling', 'Fiorenza Micheli', 'Kjell Magnus Norderhaug', 'Alejandro Pérez‐Matus', 'Isabel Sousa-Pinto', 'Daniel C. Reed', 'Anne K. Salomon', 'Nick T. Shears', 'Thomas Wernberg', 'Robert J. Anderson', 'Neville S. Barrett', 'Alejandro H. Buschmann', 'Mark H. Carr', 'Jennifer E. Caselle', 'Sandrine Derrien-Courtel', 'Graham J. Edgar', 'Matt Edwards', 'James A. Estes', 'Claire Goodwin', 'Michael C. Kenner', 'David J. Kushner', 'Frithjof Moy', 'Julia Nunn', 'Robert S. Steneck', 'Julio A. Vásquez', 'Jane C. Watson', 'Jon D. Witman', 'Jarrett E. K. Byrnes']
+ABSTRACT:
+Significance Kelp forests support diverse and productive ecological communities throughout temperate and arctic regions worldwide, providing numerous ecosystem services to humans. Literature suggests that kelp forests are increasingly threatened by a variety of human impacts, including climate change, overfishing, and direct harvest. We provide the first globally comprehensive analysis of kelp forest change over the past 50 y, identifying a high degree of variation in the magnitude and direction of change across the geographic range of kelps. These results suggest region-specific responses to global change, with local drivers playing an important role in driving patterns of kelp abundance. Increased monitoring aimed at understanding regional kelp forest dynamics is likely to prove most effective for the adaptive management of these important ecosystems.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/113/48/13785.full.pdf
+CITED BY COUNT: 536
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Kelp forest', 'Kelp', 'Threatened species', 'Climate change', 'Overfishing', 'Ecology', 'Ecosystem', 'Environmental change', 'Temperate rainforest', 'Marine ecosystem', 'Global change', 'Geography', 'Biology', 'Habitat', 'Fishing']

@@ -1,0 +1,12 @@
+ID: W4239908283
+TITLE: Tin
+AUTHOR: ['Robert J. Kamilli', 'Briant A. Kimball', 'James F. Carlin']
+ABSTRACT:
+element names in blue are liquids at room temperature element names in red are gases at room temperature element names in black are solids at room temperature
+
+SOURCE: U.S. Geological Survey professional papers/U.S. Geological Survey professional paper
+PDF URL: https://pubs.usgs.gov/pp/1802/s/pp1802s.pdf
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Tin', 'Cassiterite', 'Metallurgy', 'Smelting', 'Geology', 'Tonne', 'Geochemistry', 'Mineralogy', 'Environmental science', 'Materials science', 'Archaeology', 'Geography']

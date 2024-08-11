@@ -1,0 +1,12 @@
+ID: W2606280906
+TITLE: Created mangrove wetlands store belowground carbon and surface elevation change enables them to adjust to sea-level rise
+AUTHOR: ['Ken W. Krauss', 'Nicole Cormier', 'Michael J. Osland', 'Matthew L. Kirwan', 'Camille L. Stagg', 'Janet A. Nestlerode', 'Marc Russell', 'Andrew S. From', 'Amanda C. Spivak', 'Darrin D. Dantin', 'James E. Harvey', 'Alejandro E. Almario']
+ABSTRACT:
+Mangrove wetlands provide ecosystem services for millions of people, most prominently by providing storm protection, food and fodder. Mangrove wetlands are also valuable ecosystems for promoting carbon (C) sequestration and storage. However, loss of mangrove wetlands and these ecosystem services are a global concern, prompting the restoration and creation of mangrove wetlands as a potential solution. Here, we investigate soil surface elevation change, and its components, in created mangrove wetlands over a 25 year developmental gradient. All created mangrove wetlands were exceeding current relative sea-level rise rates (2.6 mm yr-1), with surface elevation change of 4.2-11.0 mm yr-1 compared with 1.5-7.2 mm yr-1 for nearby reference mangroves. While mangrove wetlands store C persistently in roots/soils, storage capacity is most valuable if maintained with future sea-level rise. Through empirical modeling, we discovered that properly designed creation projects may not only yield enhanced C storage, but also can facilitate wetland persistence perennially under current rates of sea-level rise and, for most sites, for over a century with projected medium accelerations in sea-level rise (IPCC RCP 6.0). Only the fastest projected accelerations in sea-level rise (IPCC RCP 8.5) led to widespread submergence and potential loss of stored C for created mangrove wetlands before 2100.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-017-01224-2.pdf
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Wetland', 'Mangrove', 'Blue carbon', 'Environmental science', 'Ecosystem', 'Ecosystem services', 'Sea level', 'Carbon sequestration', 'Climate change', 'Avicennia marina', 'Ecology', 'Agroforestry', 'Geography', 'Physical geography', 'Biology', 'Carbon dioxide', 'Seagrass']

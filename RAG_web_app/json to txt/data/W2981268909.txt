@@ -1,0 +1,12 @@
+ID: W2981268909
+TITLE: Mid-Holocene extinction of cold-water corals on the Namibian shelf steered by the Benguela oxygen minimum zone
+AUTHOR: ['Leonardo Tamborrino', 'Claudia Wienberg', 'Jürgen Titschack', 'Paul Wintersteller', 'Furu Mienis', 'Andrea Schröder‐Ritzrau', 'André Freiwald', 'Covadonga Orejas', 'Wolf‐Christian Dullo', 'J. Haberkern', 'Dierk Hebbeln']
+ABSTRACT:
+Abstract An exceptionally large cold-water coral mound province (CMP) was recently discovered extending over 80 km along the Namibian shelf (offshore southwestern Africa) in water depths of 160–270 m. This hitherto unknown CMP comprises &gt;2000 mounds with heights of up to 20 m and constitutes the largest CMP known from the southeastern Atlantic Ocean. Uranium-series dating revealed a short but intense pulse in mound formation during the early to mid-Holocene. Coral proliferation during this period was potentially supported by slightly enhanced dissolved oxygen concentrations compared to the present Benguela oxygen minimum zone (OMZ). The subsequent mid-Holocene strengthening of the Benguela Upwelling System and a simultaneous northward migration of the Angola-Benguela Front resulted in an intensification of the OMZ that caused the sudden local extinction of the Namibian corals and prevented their reoccurrence until today.
+
+SOURCE: Geology
+PDF URL: None
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Upwelling', 'Oceanography', 'Geology', 'Oxygen minimum zone', 'Holocene', 'Coral', 'Submarine pipeline']

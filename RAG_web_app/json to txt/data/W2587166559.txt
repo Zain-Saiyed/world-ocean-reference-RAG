@@ -1,0 +1,12 @@
+ID: W2587166559
+TITLE: Interaction between top-down and bottom-up control in marine food webs
+AUTHOR: ['Christopher P. Lynam', 'Marcos Llope', 'Christian Möllmann', 'Pierre Hélaouët', 'Georgia Bayliss‐Brown', 'Nils Chr. Stenseth']
+ABSTRACT:
+Significance Whether environmental conditions, harvesting, or predation pressure primarily regulate an ecosystem is still a question of much debate in marine ecology. Using a wealth of historical records, we describe how climate and fishing interact in a complex marine ecosystem. Through an integrative evidence-based approach, we demonstrate that indirect effects are key to understanding the system. Planktivorous forage fish provide an important role in the system, linking bottom-up and top-down processes such that fishing can indirectly impact the plankton and environmental effects can cascade up to impact demersal fish and predatory seabirds. Cascading trophic interactions can be mediated by opposing bottom-up and top-down forces; this combination has the potential to avert regime wide shifts in community structure and functioning.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/114/8/1952.full.pdf
+CITED BY COUNT: 202
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Trophic cascade', 'Marine ecosystem', 'Top-down and bottom-up design', 'Trophic level', 'Ecosystem', 'Fishing', 'Ecology', 'Demersal fish', 'Predation', 'Food web', 'Environmental science', 'Fishery', 'Biology', 'Computer science', 'Software engineering']

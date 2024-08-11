@@ -1,0 +1,12 @@
+ID: W2023976598
+TITLE: Alteration of the food web along the Antarctic Peninsula in response to a regional warming trend
+AUTHOR: ['Mark A. Moline', 'Hervé Claustre', 'Thomas K. Frazer', 'Oscar Schofield', 'María Vernet']
+ABSTRACT:
+Abstract In the nearshore coastal waters along the Antarctic Peninsula, a recurrent shift in phytoplankton community structure, from diatoms to cryptophytes, has been documented. The shift was observed in consecutive years (1991–1996) during the austral summer and was correlated in time and space with glacial melt‐water runoff and reduced surface water salinities. Elevated temperatures along the Peninsula will increase the extent of coastal melt‐water zones and the seasonal prevalence of cryptophytes. This is significant because a change from diatoms to cryptophytes represents a marked shift in the size distribution of the phytoplankton community, which will, in turn, impact the zooplankton assemblage. Cryptophytes, because of their small size, are not grazed efficiently by Antarctic krill, a keystone species in the food web. An increase in the abundance and relative proportion of cryptophytes in coastal waters along the Peninsula will likely cause a shift in the spatial distribution of krill and may allow also for the rapid asexual proliferation of carbon poor gelatinous zooplankton, salps in particular. This scenario may account for the reported increase in the frequency of occurrence and abundance of large swarms of salps within the region. Salps are not a preferred food source for organisms that occupy higher trophic levels in the food web, specifically penguins and seals, and thus negative feedbacks to the ecology of these consumers can be anticipated as a consequence of shifts in phytoplankton community composition.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 361
+PUBLICATION YEAR: 2004
+TYPE: preprint
+CONCEPTS: ['Food web', 'Phytoplankton', 'Trophic level', 'Ecology', 'Krill', 'Zooplankton', 'Oceanography', 'Abundance (ecology)', 'Peninsula', 'Climate change', 'Benthic zone', 'Diatom', 'Environmental science', 'Keystone species', 'Biology', 'Ecosystem', 'Nutrient', 'Geology']

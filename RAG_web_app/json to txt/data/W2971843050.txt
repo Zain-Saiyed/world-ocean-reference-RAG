@@ -1,0 +1,12 @@
+ID: W2971843050
+TITLE: Connecting Science to Policymakers, Managers, and Citizens
+AUTHOR: ['Jane Lubchenco', 'Bruce A. Menge', 'John A. Barth', 'Mark H. Carr', 'Jennifer E. Caselle', 'Francis Chan', 'Heather K. Fulton‐Bennett', 'Steven D. Gaines', 'Kristy J. Kroeker', 'Kristen Milligan', 'Stephen R. Palumbi', 'J. Wilson White']
+ABSTRACT:
+Twenty years ago, the creation of a new scientific program, the Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO), funded by the Packard Foundation, provided the opportunity to integrate-from the outsetresearch, monitoring, and outreach to the public, policymakers, and managers.PISCO's outreach efforts were initially focused primarily on sharing scientific findings with lay audiences, but over time they evolved to a more interactive, multi-directional mode of engagement.Over the next two decades, PISCO science and scientists significantly influenced local, state, federal, and international decisions about many topics, but especially marine protected areas, hypoxia, ocean acidification, fishery management, and marine diseases.PISCO scientists' long-term data and understanding of key ecosystem processes also enabled them to detect anomalies, investigate rapidly, and inform others about novel developments such as hypoxia, acidification, warming, and disease.Especially during a time of dynamic changes in ecosystems, long-term data like PISCO's have proven invaluable.Moreover, PISCO's dual focus on understanding fundamental processes and finding solutions (not just identifying problems) has resulted in rich opportunities to co-create knowledge with citizens and translate that knowledge into action by citizens, managers, and policymakers.PISCO has delivered on its goal to serve society through science.
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/32-3_lubchenco.pdf
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Political science', 'Business']

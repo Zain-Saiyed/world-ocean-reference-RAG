@@ -1,0 +1,12 @@
+ID: W2902820023
+TITLE: Functional biodiversity loss along natural CO2 gradients
+AUTHOR: ['Núria Teixidó', 'María Cristina Gambi', 'Valeriano Parravacini', 'Kristy J. Kroeker', 'Fiorenza Micheli', 'Sébastien Villéger', 'Enric Ballesteros']
+ABSTRACT:
+Abstract The effects of environmental change on biodiversity are still poorly understood. In particular, the consequences of shifts in species composition for marine ecosystem function are largely unknown. Here we assess the loss of functional diversity, i.e. the range of species biological traits, in benthic marine communities exposed to ocean acidification (OA) by using natural CO 2 vent systems. We found that functional richness is greatly reduced with acidification, and that functional loss is more pronounced than the corresponding decrease in taxonomic diversity. In acidified conditions, most organisms accounted for a few functional entities (i.e. unique combination of functional traits), resulting in low functional redundancy. These results suggest that functional richness is not buffered by functional redundancy under OA, even in highly diverse assemblages, such as rocky benthic communities.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-07592-1.pdf
+CITED BY COUNT: 87
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Species richness', 'Biodiversity', 'Functional diversity', 'Benthic zone', 'Ecosystem', 'Ecology', 'Ocean acidification', 'Functional group', 'Biology', 'Climate change', 'Chemistry', 'Organic chemistry', 'Polymer']

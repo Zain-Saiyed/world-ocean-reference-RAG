@@ -1,0 +1,12 @@
+ID: W2080862648
+TITLE: Wind forced low frequency variability of the East Australia Current
+AUTHOR: ['K. L. Hill', 'Stephen R. Rintoul', 'Richard Coleman', 'K. R. Ridgway']
+ABSTRACT:
+A 62 year record of temperature and salinity from a coastal station off southeast Australia shows a strong positive trend and quasi‐decadal variability but the cause of the observed changes has not been explained. The temperature and salinity variations are highly correlated. The increase in temperature and salinity with time agrees closely with the mean meridional gradient of water properties along the continental slope, suggesting that changes in strength of the poleward extension of the East Australian Current are responsible for the observed variability. Interannual temperature and salinity changes are correlated (r = 0.7) with basin‐scale winds and with transport through the Tasman Sea estimated from Island Rule, with the changes at the western boundary lagging the wind forcing by three years. We conclude that the trend and decadal variability in the coastal temperature and salinity record reflect the response of the subtropical gyre and western boundary current to basin‐scale wind forcing.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2007GL032912
+CITED BY COUNT: 145
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'Climatology', 'Salinity', 'Boundary current', 'Forcing (mathematics)', 'Current (fluid)', 'Temperature salinity diagrams', 'Subtropics', 'Oceanography', 'Structural basin', 'Environmental science', 'Dynamic height', 'Geology', 'Hydrography', 'Ocean current', 'Fishery', 'Biology', 'Paleontology']

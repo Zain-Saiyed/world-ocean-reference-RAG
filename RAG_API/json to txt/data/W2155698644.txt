@@ -1,0 +1,12 @@
+ID: W2155698644
+TITLE: Anthropogenic causes of the western Steller sea lion <i>Eumetopias jubatus</i> population decline and their threat to recovery
+AUTHOR: ['Shannon Atkinson', 'Douglas P. DeMaster', 'Donald G. Calkins']
+ABSTRACT:
+ABSTRACT The western Steller sea lion Eumetopias jubatus population has experienced a chronic decline since the 1960s. The causes are likely multifactorial and a combination of anthropogenic and natural factors. A draft revised recovery plan for the Steller sea lion has been published by the US National Marine Fisheries Service, listing both anthropogenic and natural factors that may have contributed to the observed decline or which may be a threat to the recovery of the western Steller sea lion population. The purpose of this review is to consider the anthropogenic threats to this stock. Anthropogenic sources of mortality include fisheries competition resulting in nutritional stress, mortality incidental to commercial fisheries (i.e. fisheries by‐catch), subsistence hunts, legal and illegal shooting, commercial hunts, anthropogenic‐related contamination, and research‐induced mortalities. We present evidence that the following anthropogenic factors likely contributed to the decline of the western Steller sea lion population over the last 40 years: (i) mortality incidental to commercial fisheries (i.e. by‐catch); (ii) commercial hunting of western Steller sea lions; and (iii) legal and illegal shooting; whereas the subsistence hunts for western Steller sea lions and mortality incidental to research were not likely to be contributors to the observed decline. Further, we present evidence that the following can be excluded as significant anthropogenic threats to the recovery of the western Steller sea lion population: (i) mortality incidental to commercial fishing; (ii) legal and illegal shooting; (iii) commercial hunts of Steller sea lions; (iv) subsistence hunting; and (v) mortality incidental to research. Competition with fisheries resulting in nutritional stress, and the potential impacts of contaminants, are two anthropogenic factors that should continue to be a priority for the various organizations currently doing research on this population.
+
+SOURCE: Mammal review
+PDF URL: None
+CITED BY COUNT: 76
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Subsistence agriculture', 'Fishery', 'Population', 'Commercial fishing', 'Population decline', 'Geography', 'Sea lion', 'Fishing', 'Biology', 'Archaeology', 'Demography', 'Agriculture', 'Sociology']

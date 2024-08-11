@@ -1,0 +1,12 @@
+ID: W2913751763
+TITLE: First Evidence of Anoxia and Nitrogen Loss in the Southern Canary Upwelling System
+AUTHOR: ['Éric Machu', 'Xavier Capet', 'P. Estrade', 'Seyni Ndoye', 'Julien Brajard', 'François Baurand', 'Pierre-Amaël Auger', 'Alban Lazar', 'Patrice Brehmer']
+ABSTRACT:
+Abstract The northeastern Atlantic hosts the most ventilated subsurface waters of any eastern boundary upwelling system, while coastal upwelling source waters are slightly above hypoxic levels. Anoxic conditions have previously been found offshore inside mesoscale eddies whose core waters undergo oxygen consumption for many months. Based on circumstantial in situ observations, this study demonstrates that the Senegalese coastal ocean is subjected to episodic occurrence of zero dissolved oxygen concentration at depth along with elevated nitrite concentration (11 mmol/m 3 ) and nitrate/nitrite deficit to phosphate, thereby indicating severe anoxia and intense nitrogen loss. The anoxic event was associated with a prolonged upwelling relaxation episode in March 2012 and a nearshore diatom bloom that underwent degradation while being advected offshore in stratified waters. This is consistent with scenarios observed in other upwelling systems (Benguela and California), and such conditions are presumably frequent in the southern part of the Canary system.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Upwelling', 'Oceanography', 'Anoxic waters', 'Submarine pipeline', 'Nitrate', 'Geology', 'Diatom', 'Hypoxia (environmental)', 'Oxygen minimum zone', 'Mesoscale meteorology', 'Environmental science', 'Oxygen', 'Chemistry', 'Ecology', 'Biology', 'Organic chemistry']

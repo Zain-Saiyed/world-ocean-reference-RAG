@@ -1,0 +1,12 @@
+ID: W2771227530
+TITLE: Vessel noise cuts down communication space for vocalizing fish and marine mammals
+AUTHOR: ['Rosalyn L. Putland', 'Nathan D. Merchant', 'Adrian Farcas', 'Craig A. Radford']
+ABSTRACT:
+Abstract Anthropogenic noise across the world's oceans threatens the ability of vocalizing marine species to communicate. Some species vocalize at key life stages or whilst foraging, and disruption to the acoustic habitat at these times could lead to adverse consequences at the population level. To investigate the risk of these impacts, we investigated the effect of vessel noise on the communication space of the Bryde's whale Balaenoptera edeni , an endangered species which vocalizes at low frequencies, and bigeye Pempheris adspersa , a nocturnal fish species which uses contact calls to maintain group cohesion while foraging. By combining long‐term acoustic monitoring data with AIS vessel‐tracking data and acoustic propagation modelling, the impact of vessel noise on their communication space was determined. Routine vessel passages cut down communication space by up to 61.5% for bigeyes and 87.4% for Bryde's whales. This influence of vessel noise on communication space exceeded natural variability for between 3.9 and 18.9% of the monitoring period. Additionally, during the closest point of approach of a large commercial vessel, &lt;10 km from the listening station, the communication space of both species was reduced by a maximum of 99% compared to the ambient soundscape. These results suggest that vessel noise reduces communication space beyond the evolutionary context of these species and may have chronic effects on these populations. To combat this risk, we propose the application or extension of ship speed restrictions in ecologically significant areas, since our results indicate a reduction in sound source levels for vessels transiting at lower speeds.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 96
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Soundscape', 'Foraging', 'Whale', 'Context (archaeology)', 'Habitat', 'Noise (video)', 'Population', 'Environmental science', 'Ecology', 'Computer science', 'Oceanography', 'Biology', 'Geology', 'Sound (geography)', 'Paleontology', 'Demography', 'Artificial intelligence', 'Sociology', 'Image (mathematics)']

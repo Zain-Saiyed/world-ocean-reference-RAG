@@ -1,0 +1,12 @@
+ID: W2810265733
+TITLE: Maximizing the benefits of oyster reef restoration for finfish and their fisheries
+AUTHOR: ['Ben L. Gilby', 'Andrew D. Olds', 'Charles H. Peterson', 'Rod M. Connolly', 'Christine M. Voss', 'Melanie J. Bishop', 'Michael Elliott', 'Jonathan H. Grabowski', 'Nicholas L. Ortodossi', 'Thomas A. Schlacher']
+ABSTRACT:
+Abstract Global declines in oyster reefs have resulted in reduced habitat heterogeneity, extent and quality for some coastal finfish, potentially reducing fish populations and catches. It is well established that habitat restoration results in higher finfish biomass and diversity where oyster reefs replace bare substrata. Therefore, restoring oyster reefs with a view to also improving fish stocks is often a key goal of oyster restoration. However, the principles of habitat quality, ecological connectivity and broader ecosystem management are poorly integrated within oyster reef restoration ecology, but such principles may be instructive in enhancing the benefits of projects on fish populations throughout estuarine seascapes. This manuscript presents a framework for projects seeking to restore both oyster reef habitat and finfish communities. Structurally and biologically complex oyster reefs, comprising both oysters and other invertebrates, are required to provide shelter, food and nursery services to fish. By carefully considering site selection at seascape scales (km to 10s of km), restoration can enhance the network of habitat available to fish and potentially increase the overall carrying capacity of the estuary. Managers of estuaries that now include restored oyster reefs should implement fisheries management plans and consider the effects of management actions broadly throughout catchments; failing to do so may jeopardize gains in fish yields. Management decisions must be adaptable, responding to key criteria in thorough monitoring programs. Integrating these ecological and coastal management concepts into oyster reef restoration will enhance outcomes for fishes and increase stakeholder engagement and cost‐effectiveness.
+
+SOURCE: Fish and fisheries
+PDF URL: None
+CITED BY COUNT: 61
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Oyster', 'Reef', 'Fishery', 'Habitat', 'Restoration ecology', 'Ecology', 'Marine protected area', 'Ecosystem engineer', 'Marine habitats', 'Marine ecosystem', 'Coral reef', 'Ecosystem', 'Biology']

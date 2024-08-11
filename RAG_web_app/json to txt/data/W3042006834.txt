@@ -1,0 +1,12 @@
+ID: W3042006834
+TITLE: Using of Landsat space images to study the dynamic of coastline changes in the Black Sea north-western part in 1983–2013
+AUTHOR: ['Е. А. Черкез', 'В. І. Мединец', 'T. Pavlik', 'Ye. І. Gazyetov', 'Sergiy Medinets', 'Т. В. Козлова']
+ABSTRACT:
+SUMMARY Purpose of the work has been to study different coastal areas’ growth/ reduction resulting from coastlines dynamics changes under abrasion and accumulation processes in the North-Western Black Sea (NWBS) influenced by natural and anthropogenic factors in 1983–2013. Methodology. LANDSAT space images of 1983–2013 and historical experimental data have been utilized as the initial and geological data for thisinvestigation. Processing has been done out using ArcGIS 9.2. Results. The results of study have shown that main areas with maximal changes of coastline location are river deltas (Danube, Dniester, Dnipro), as well as bay-bars of practically all the Black Sea limans (estuaries). Estimations of changes of coastal land areas’ increase (+)/ decrease (−) have been presented and discussed. Conclusions. Maximal changes of coastline position in the North-Western part of the Black Sea were registered in the Danube Delta, areas of the Sasyk and Dniester Limans and Odesa Bay. Land area in those locations grew by more than 16 km2. In other NWBS coastal areas decrease of land terrain was observed, i.e. destruction of coasts, which made about 5 km2. At that, it should be noted that the biggest changes were taking place in the past decade.
+
+SOURCE: Geoinformatics: Theoretical and Applied Aspects 2020
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Remote sensing', 'Black sea', 'Geology', 'Space (punctuation)', 'Ocean surface topography', 'Geodesy', 'Computer science', 'Oceanography', 'Operating system']

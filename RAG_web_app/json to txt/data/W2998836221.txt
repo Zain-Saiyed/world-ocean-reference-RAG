@@ -1,0 +1,12 @@
+ID: W2998836221
+TITLE: How to restore mangroves for greenbelt creation along eroding coasts with abandoned aquaculture ponds
+AUTHOR: ['Celine E.J. van Bijsterveldt', 'Bregje K. van Wesenbeeck', 'Daphne van der Wal', 'Norma Afiati', 'Rudhi Pribadi', 'Benjamin Brown', 'Tjeerd J. Bouma']
+ABSTRACT:
+Globally, erosion of muddy tropical coasts that are dominated by aquaculture ponds, is an increasing problem. Restoration of mangrove greenbelts may counteract such erosion, by restoring the sediment balance. Hence, we aim to unravel the processes controlling natural mangrove regeneration in both “landward” (i.e., into aquaculture ponds) and seaward direction, using the fast eroding coastline of Demak (Indonesia) as case study. Firstly, we investigated which physical and chemical factors drive landward mangrove expansion by relating them to the presence/absence of mangrove seedlings in abandoned aquaculture ponds. Secondly, we investigated which physical parameters control seaward mangrove expansion by relating them to expansion and retreat at the sea-side of mature mangrove stands. Landward mangrove expansion into abandoned aquaculture ponds was positively related to both emergence time (%) and sediment stability (i.e., shear strength), which are in turn both associated to bed level elevation and pond drainage. Surprisingly, there was no effect of soil chemistry. Seaward expansion of existing mangrove stands was strongly associated to foreshore morphology. Mangroves only expanded in the presence of an elevated mudflat, whereas the absence of a mudflat in combination with a concave (hollow) profile was associated with mangrove retreat. Our findings suggest that restoration of a mangrove greenbelt can be stimulated landward by improving drainage of abandoned aquaculture ponds. This enhances sediment stability and allows ponds to accrete. Seaward expansion can be induced by restoring foreshore morphology. Present results are discussed in the context of large-scale applications.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Mangrove', 'Intertidal zone', 'Aquaculture', 'Sediment', 'Context (archaeology)', 'Erosion', 'Coastal erosion', 'Environmental science', 'Geology', 'Ecology', 'Fishery', 'Oceanography', 'Geomorphology', 'Biology', 'Fish <Actinopterygii>', 'Paleontology']

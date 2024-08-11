@@ -1,0 +1,12 @@
+ID: W2970629785
+TITLE: Description of a new species of beaked whale (Berardius) found in the North Pacific
+AUTHOR: ['Tadasu K. Yamada', 'Shino Kitamura', 'Abe S', 'Yuko Tajima', 'Ayaka Matsuda', 'James G. Mead', 'Takashi Matsuishi']
+ABSTRACT:
+Abstract Two types of Berardius are recognised by local whalers in Hokkaido, Japan. The first is the ordinary Baird’s beaked whale, B . bairdii , whereas the other is much smaller and entirely black. Previous molecular phylogenetic analyses revealed that the black type is one recognisable taxonomic unit within the Berardius clade but is distinct from the two known Berardius species. To determine the characteristics of the black type, we summarised external morphology and skull osteometric data obtained from four individuals, which included three individuals from Hokkaido and one additional individual from the United States National Museum of Natural History collection. The whales differed from all of their congeners by having the following unique characters: a substantially smaller body size of physically mature individuals, proportionately shorter beak, and darker body colour. Thus, we conclude that the whales are a third Berardius species.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-46703-w.pdf
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Whale', 'Beak', 'Beaked whale', 'Zoology', 'Clade', 'Biology', 'Skull', 'Phylogenetic tree', 'Geography', 'Ecology', 'Paleontology', 'Biochemistry', 'Gene']

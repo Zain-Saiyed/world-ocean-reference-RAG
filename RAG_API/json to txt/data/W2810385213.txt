@@ -1,0 +1,12 @@
+ID: W2810385213
+TITLE: Benthic Biotic Response to Climate Changes Over the Last 700,000 Years in a Deep Marginal Sea: Impacts of Deoxygenation and the Mid‐Brunhes Event
+AUTHOR: ['Huai-Hsuan May Huang', 'Moriaki Yasuhara', 'Hokuto Iwatani', 'Carlos A. Alvarez Zarikian', 'Maria Angela Bassetti', 'Takuya Sagawa']
+ABSTRACT:
+Abstract The Sea of Japan is a marginal sea, connecting to adjacent seas by four shallow straits (water depths &lt;130 m). Marginal seas are ideal for studying biotic responses to large‐scale environmental changes as they often are sensitive to glacial‐interglacial and stadial‐interstadial climatic cycles. However, only a limited number of studies cover time periods beyond the last two glacial‐interglacial cycles. Here we present a 700,000‐year record of benthic biotic response to paleoceanographic changes in the southern Sea of Japan, covering the past seven glacial‐interglacial cycles, based on ostracode assemblages at the Integrated Ocean Drilling Program (IODP) Site U1427. The results indicate that long‐term oxygen variability in the bottom water has been the major control impacting the marginal‐sea biota. Five local extirpation events were recognized as barren zones during glacial maxima immediately before terminations I, II, IV, V, and VII, which are probably caused by bottom‐water deoxygenation. Results of multivariate analyses indicated clear faunal cyclicity influenced by glacial‐interglacial oxygen variability with a succession from opportunistic species dominance through tolerant infauna dominance to barren zone during the deoxygenation processes and the opposite succession during the recovery processes. The Sea of Japan ostracode faunal composition showed distinct difference between the post‐MBE and pre‐MBE (Mid‐Brunhes Event) periods, indicating the MBE as a major disturbance event in marginal‐sea ecosystems. The MBE shortened the duration of the extirpation events, fostered dominance of warmer‐water species, and amplified the glacial‐interglacial faunal cyclicity. Our long‐term biotic response study clearly indicates that deep marginal sea ecosystems are dynamic and vulnerable to climate changes.
+
+SOURCE: Paleoceanography and Paleoclimatology
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1029/2018pa003343
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Glacial period', 'Interglacial', 'Benthic zone', 'Geology', 'Biota', 'Oceanography', 'Stadial', 'Dominance (genetics)', 'Ecology', 'Paleontology', 'Biology', 'Biochemistry', 'Gene']

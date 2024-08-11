@@ -1,0 +1,12 @@
+ID: W2783044027
+TITLE: Total mercury content in commercial swordfish (Xiphias gladius) from different FAO fishing areas
+AUTHOR: ['Mauro Esposito', 'Antonella De Roma', 'Raffaella La Nucara', 'Giuseppe Picazio', 'Pasquale Gallo']
+ABSTRACT:
+Mercury (Hg) is a global pollutant that affect human and ecosystem health. It is transferred through trophic level and bio magnification in the food chain. In this study, total Hg was measured in the muscular tissue of samples of swordfish (Xiphias gladius) from different FAO fishing areas and imported in Italy between 2014 and 2017. Total mercury concentrations of muscular tissues were determined using cold vapour atomic absorption spectrometry. In order to assess the health risk associated with human consumption of this fish, the Hg intake values were calculated and compared with those of provisional tolerable daily intake (PTDI) (0.57 μg/kg b.w.) as fixed by the Food and Agriculture Organization/World Health Organization (FAO/WHO). The estimated PTDI (provisional tolerable daily intake) were lower for adults (0.40 μg/kg b.w./day) but not for children (0.97 μg/kg b.w./day), and therefore is considered to pose an alert for children with the present fish consumption volume.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Swordfish', 'Mercury (programming language)', 'Trophic level', 'Fishing', 'Tolerable daily intake', 'Food chain', 'Animal science', 'Human health', 'Food contaminant', 'Environmental science', 'Fishery', 'Toxicology', 'Chemistry', 'Environmental chemistry', 'Body weight', 'Tuna', 'Biology', 'Food science', 'Fish <Actinopterygii>', 'Ecology', 'Medicine', 'Environmental health', 'Computer science', 'Programming language', 'Endocrinology']

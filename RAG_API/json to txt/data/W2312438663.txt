@@ -1,0 +1,12 @@
+ID: W2312438663
+TITLE: Detection and Analysis of the Main Routes of Voluntary Observing Ships in the North Atlantic
+AUTHOR: ['Roberto Vettor', 'C. Guedes Soares']
+ABSTRACT:
+The main routes of ships voluntarily completing meteorological observations across the North Atlantic are detected by the intensity of the geographical distribution of the voluntary ship observations. The routes are then analysed in order to assess the relative intensity of traffic, the seasonal changes and the trend over the years. This paper will provide a better understanding of the North Atlantic trades and the relationship among the different routes, allowing the identification of the busiest areas. A discussion over the impact of routing on the weather that a transoceanic ship can experience during its life is also provided.
+
+SOURCE: Journal of navigation
+PDF URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/74C17BDBB68EA83DAFE99DEF93FDC954/S0373463314000757a.pdf/div-class-title-detection-and-analysis-of-the-main-routes-of-voluntary-observing-ships-in-the-north-atlantic-div.pdf
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Geography', 'Identification (biology)', 'Distribution (mathematics)', 'Environmental science', 'Meteorology', 'Ecology', 'Mathematics', 'Mathematical analysis', 'Biology']

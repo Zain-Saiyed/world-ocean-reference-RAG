@@ -1,0 +1,12 @@
+ID: W2977273424
+TITLE: Microplastics in gentoo penguins from the Antarctic region
+AUTHOR: ['Filipa Bessa', 'Norman Ratcliffe', 'Vanessa Otero', 'Paula Sobral', 'João Carlos Marques', 'Claire M. Waluda', 'Phil Trathan', 'José C. Xavier']
+ABSTRACT:
+Abstract There is growing evidence that microplastic pollution (&lt;5 mm in size) is now present in virtually all marine ecosystems, even in remote areas, such as the Arctic and the Antarctic. Microplastics have been found in water and sediments of the Antarctic but little is known of their ingestion by higher predators and mechanisms of their entry into Antarctic marine food webs. The goal of this study was to assess the occurrence of microplastics in a top predator, the gentoo penguin Pygoscelis papua from the Antarctic region (Bird Island, South Georgia and Signy Island, South Orkney Islands) and hence assess the potential for microplastic transfer through Antarctic marine food webs. To achieve this, the presence of microplastics in scats (as a proof of ingestion) was investigated to assess the viability of a non-invasive approach for microplastic analyses in Antarctic penguins. A total of 80 penguin scats were collected and any microplastics they contained were extracted. A total of 20% of penguin scats from both islands contained microplastics, consisting mainly of fibers and fragments with different sizes and polymer composition (mean abundance of microplastics: 0.23 ± 0.53 items individual −1 scat, comprising seven different polymers), which were lower values than those found for seabirds in other regions worldwide. No significant differences in microplastic numbers in penguin scats between the two regions were detected. These data highlight the need for further assessment of the levels of microplastics in this sensitive region of the planet, specifically studies on temporal trends and potential effects on penguins and other organisms in the Antarctic marine food web.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-50621-2.pdf
+CITED BY COUNT: 165
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Microplastics', 'Plastic pollution', 'Marine ecosystem', 'Apex predator', 'Ecology', 'Environmental science', 'Predation', 'Food web', 'Sentinel species', 'Ecosystem', 'Oceanography', 'Abundance (ecology)', 'Marine debris', 'Biology', 'Debris', 'Geology']

@@ -1,0 +1,12 @@
+ID: W1508162533
+TITLE: Renewable Energy Sources and Climate Change Mitigation
+AUTHOR: []
+ABSTRACT:
+This Intergovernmental Panel on Climate Change Special Report (IPCC-SRREN) assesses the potential role of renewable energy in the mitigation of climate change. It covers the six most important renewable energy sources – bioenergy, solar, geothermal, hydropower, ocean and wind energy – as well as their integration into present and future energy systems. It considers the environmental and social consequences associated with the deployment of these technologies and presents strategies to overcome technical as well as non-technical obstacles to their application and diffusion. SRREN brings a broad spectrum of technology-specific experts together with scientists studying energy systems as a whole. Prepared following strict IPCC procedures, it presents an impartial assessment of the current state of knowledge: it is policy relevant but not policy prescriptive. SRREN is an invaluable assessment of the potential role of renewable energy for the mitigation of climate change for policymakers, the private sector and academic researchers.
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 722
+PUBLICATION YEAR: 2011
+TYPE: book
+CONCEPTS: ['Renewable energy', 'Climate change', 'Hydropower', 'Climate change mitigation', 'Environmental economics', 'Software deployment', 'Environmental resource management', 'Energy policy', 'Environmental planning', 'Wind power', 'Natural resource economics', 'Environmental science', 'Business', 'Engineering', 'Economics', 'Ecology', 'Software engineering', 'Electrical engineering', 'Biology']

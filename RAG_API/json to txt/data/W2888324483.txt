@@ -1,0 +1,12 @@
+ID: W2888324483
+TITLE: Geomorphological evidence of large vertebrates interacting with the seafloor at abyssal depths in a region designated for deep-sea mining
+AUTHOR: ['Leigh Marsh', 'Veerle A.I. Huvenne', 'Daniel O. B. Jones']
+ABSTRACT:
+Exploration licences for seafloor mineral deposits have been granted across large areas of the world's oceans, with the abyssal Pacific Ocean being the primary target for polymetallic nodules—a potentially valuable source of minerals. These nodule-bearing areas support a large diversity of deep-sea life and although studies have begun to characterize the benthic fauna within the region, the ecological interactions between large bathypelagic vertebrates of the open ocean and the abyssal seafloor remain largely unknown. Here we report seafloor geomorphological alterations observed by an autonomous underwater vehicle that suggest large vertebrates could have interacted with the seafloor to a maximum depth of 4258 m in the recent geological past. Patterns of disturbance on the seafloor are broadly comparable to those recorded in other regions of the world's oceans attributed to beaked whales. These observations have important implications for baseline ecological assessments and the environmental management of potential future mining activities within this region of the Pacific.
+
+SOURCE: Royal Society open science
+PDF URL: None
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seafloor spreading', 'Abyssal zone', 'Abyssal plain', 'Geology', 'Oceanography', 'Seabed', 'Deep sea', 'Benthic zone', 'Bathyal zone', 'Fauna', 'Paleontology', 'Ecology', 'Structural basin', 'Biology']

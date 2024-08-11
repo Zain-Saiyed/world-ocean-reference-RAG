@@ -1,0 +1,12 @@
+ID: W2291440585
+TITLE: Impact of whale-watching on the short-term behavior of Southern right whales (Eubalaena australis) in Patagonia, Argentina
+AUTHOR: ['M. Arguelles', 'Mariano A. Coscarella', 'Ana Fazio', 'Marcelo Bertellotti']
+ABSTRACT:
+In the last 30 years, whale watching tours in Patagonia, which are primarily based on viewing pods of Southern right whale, have become increasingly popular. The aim of this study was to evaluate the impact of whale watching boat trips on the behavior of whales. Data were analyzed by means of a Generalized Linear Model using a log-link function for categorical data. The model that best fitted the data had four selected first-order interactions among factors. Whales showed short-term reactions to boats, changing their behavior in response to the approaching boats. If the boat approached appropriately (i.e. with the engines off), whales reacted positively by approaching the boat and seeking contact, whereas if the boat approached inappropriately (i.e. with the engines on), whales reacted negatively by moving away from the boat and avoiding contact. The results of this study may have significant implications for whale watching regulations and their enforcement.
+
+SOURCE: Tourism management perspectives
+PDF URL: None
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Whale', 'Right whale', 'Whaling', 'Fishery', 'Geography', 'Cetacea', 'Term (time)', 'Tiger', 'Biology', 'Mathematics', 'Physics', 'Quantum mechanics', 'Algorithm']

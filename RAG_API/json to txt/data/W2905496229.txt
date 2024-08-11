@@ -1,0 +1,12 @@
+ID: W2905496229
+TITLE: Status of Red Sea Dugongs
+AUTHOR: ['Dirar H. Nasr', 'Ahmed M. Shawky', 'Peter J. Vine']
+ABSTRACT:
+Dugongs (Dugong dugon), also known as ‘sea cows’, have captured the imagination of the general public ever since they were first scientifically named in the 18th century. Much of the research on dugongs has been undertaken in Australia and SE Asia and publications are rarely dedicated specifically to the Red Sea population of dugongs and their conservation status. This is a reflection of the relatively poor state of knowledge of Red Sea dugongs—a situation that has changed marginally in the case of Egypt through research work undertaken by the second author. Methods employed to count dugongs, in order to estimate the size of a particular population, vary according to the general nature of their habitats (e.g., close to shore in sheltered bays or over deeper water further offshore), the frequency of sightings and facilities available to the surveying team, both in terms of observation platforms (e.g., helicopter, fixed-wing aeroplane, drone, boat or car) and time that can be allotted to the task. Given the seasonal nature of their behaviour, it would seem necessary that surveys in particular areas extend over at least 12 months and preferably longer. Research on this species in the Red Sea began with largely anatomical and physiological work on dugongs that were accidentally killed or purposely netted. Today, they are protected throughout the region so studies have shifted, largely to observations of live animals in the wild and to data that can be collected from stranded carcasses. Meanwhile, much of the data on their distribution, both in the Red Sea and elsewhere, is based on tapping into the local knowledge of fishermen and, more recently, dive guides at marine resorts.
+
+SOURCE: Springer oceanography
+PDF URL: https://link.springer.com/content/pdf/10.1007%2F978-3-319-99417-8_18.pdf
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Population', 'Fishery', 'Habitat', 'Geography', 'Shore', 'Submarine pipeline', 'Work (physics)', 'Oceanography', 'Ecology', 'Biology', 'Engineering', 'Sociology', 'Demography', 'Geology', 'Mechanical engineering']

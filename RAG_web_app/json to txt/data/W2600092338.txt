@@ -1,0 +1,12 @@
+ID: W2600092338
+TITLE: Harmful Algal Blooms in Benthic Systems: Recent Progress and Future Research
+AUTHOR: ['Elisa Berdalet', 'Patricia A. Tester', 'Mireille Chinain', 'Santiago Fraga', 'R. Lemee', 'Wayne Litaker', 'Antonella Penna', 'Gires Usup', 'Magda Vila', 'Adriana Zingone']
+ABSTRACT:
+FACING PAGE.(a) Ciguatera represents a serious impediment to the development of coral reef fish trade in the tropics.Credit: Institut Louis Malardé (b) Scanning electron microscopy (SEM) image of Gambierdiscus balechii from the Celebes Sea.Credit: S. Fraga (c) SEM image of Ostreopsis and Coolia cells.Credit: M. Vila (background photo)
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/30-1_berdalet1.pdf
+CITED BY COUNT: 80
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Algal bloom', 'Benthic zone', 'Bloom', 'Oceanography', 'Environmental science', 'Ecology', 'Phytoplankton', 'Biology', 'Geology', 'Nutrient']

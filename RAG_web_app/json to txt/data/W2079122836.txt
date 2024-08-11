@@ -1,0 +1,12 @@
+ID: W2079122836
+TITLE: First evidence of widespread active methane seepage in the Southern Ocean, off the sub-Antarctic island of South Georgia
+AUTHOR: ['Miriam Römer', 'Marta E. Torres', 'Sabine Kasten', 'Gerhard Kuhn', 'Alastair G C Graham', 'Susan Mau', 'Crispin T. S. Little', 'Katrin Linse', 'Thomas Pape', 'Patrizia Geprägs', 'David Fischer', 'Paul Wintersteller', 'Yann Marcon', 'Janet Rethemeyer', 'Gerhard Bohrmann']
+ABSTRACT:
+An extensive submarine cold-seep area was discovered on the northern shelf of South Georgia during R/V Polarstern cruise ANT-XXIX/4 in spring 2013. Hydroacoustic surveys documented the presence of 133 gas bubble emissions, which were restricted to glacially-formed fjords and troughs. Video-based sea floor observations confirmed the sea floor origin of the gas emissions and spatially related microbial mats. Effective methane transport from these emissions into the hydrosphere was proven by relative enrichments of dissolved methane in near-bottom waters. Stable carbon isotopic signatures pointed to a predominant microbial methane formation, presumably based on high organic matter sedimentation in this region. Although known from many continental margins in the world's oceans, this is the first report of an active area of methane seepage in the Southern Ocean. Our finding of substantial methane emission related to a trough and fjord system, a topographical setting that exists commonly in glacially-affected areas, opens up the possibility that methane seepage is a more widespread phenomenon in polar and sub-polar regions than previously thought.
+
+SOURCE: Earth and planetary science letters
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Methane', 'Geology', 'Oceanography', 'Fjord', 'Petroleum seep', 'Atmospheric methane', 'Continental shelf', 'Cold seep', 'Greenhouse gas', 'Ecology', 'Biology']

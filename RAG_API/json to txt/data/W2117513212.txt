@@ -1,0 +1,12 @@
+ID: W2117513212
+TITLE: Oxygen as a control on sea floor biological communities and their roles in sedimentary carbon cycling
+AUTHOR: ['Clare Woulds', 'Gregory L. Cowie', 'Lisa A. Levin', 'J. H. Andersson', 'Jack J. Middelburg', 'Sandra Vandewiele', 'Peter Lamont', 'Kate E Larkin', 'Andrew J. Gooday', 'Stefanie Schumacher', 'Christine R. Whitcraft', 'Rachel M. Jeffreys', 'Matthew C. Schwartz']
+ABSTRACT:
+13 C tracer experiments were conducted at sites spanning the steep oxygen, organic matter, and biological community gradients across the Arabian Sea oxygen minimum zone, in order to quantify the role that benthic fauna play in the short‐term processing of organic matter (OM) and to determine how this varies among different environments. Metazoan macrofauna and macrofauna‐sized foraminiferans took up as much as 56 ± 13 mg of added C m −2 (685 mg C m −2 added) over 2–5 d, and at some sites this uptake was similar in magnitude to bacterial uptake and/or total respiration. Bottom‐water dissolved oxygen concentrations exerted a strong control over metazoan macrofaunal OM processing. At oxygen concentrations &lt;7 µmol L −1 (0.16 ml L −1 ), metazoan macrofauna were able to take advantage of abundant OM and to dominate OM uptake, while OM processing at O 2 concentrations of 5.0 µmol L −1 (0.11 ml L −1 ) was dominated instead by (macrofaunal) foraminiferans. This led us to propose the hypothesis that oxygen controls the relative dominance of metazoan macrofauna and foraminifera in a threshold manner, with the threshold lying between 5 and 7 µmol L −1 (0.11 to 0.16 ml L −1 ). Large metazoan macrofaunal biomass and high natural concentrations of OM were also associated with rapid processing of fresh OM by the benthic community. Where they were present, the polychaete Linopherus sp. and the calcareous foraminiferan Uvigerina ex gr. semiornata , dominated the uptake of OM above and below, respectively, the proposed threshold concentrations of bottom‐water oxygen.
+
+SOURCE: Limnology and oceanography/The l & o on cd-rom
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.4319/lo.2007.52.4.1698
+CITED BY COUNT: 149
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Polychaete', 'Organic matter', 'Bioturbation', 'Dominance (genetics)', 'Detritivore', 'Ecology', 'Foraminifera', 'Oxygen', 'Total organic carbon', 'Anoxic waters', 'Fauna', 'Environmental chemistry', 'Phytodetritus', 'Oceanography', 'Biology', 'Ecosystem', 'Chemistry', 'Sediment', 'Geology', 'Paleontology', 'Biochemistry', 'Organic chemistry', 'Gene']

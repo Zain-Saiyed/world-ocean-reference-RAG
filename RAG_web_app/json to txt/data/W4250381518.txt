@@ -1,0 +1,12 @@
+ID: W4250381518
+TITLE: Editorial: Bridging the Gap between Policy and Science in Assessing the Health Status of Marine Ecosystems
+AUTHOR: ['Ángel Borja', 'Michael Elliott', 'María C. Uyarra', 'Jacob Carstensen', 'Marianna Mea']
+ABSTRACT:
+EDITORIAL article Front. Mar. Sci., 08 February 2017Sec. Marine Ecosystem Ecology Volume 4 - 2017 | https://doi.org/10.3389/fmars.2017.00032
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2017.00032/pdf
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2017
+TYPE: editorial
+CONCEPTS: ['Bridging (networking)', 'Marine ecosystem', 'Environmental resource management', 'Ecosystem', 'Environmental science', 'Ecology', 'Biology', 'Computer science', 'Computer network']

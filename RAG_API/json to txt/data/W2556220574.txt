@@ -1,0 +1,12 @@
+ID: W2556220574
+TITLE: Marine pests in paradise: capacity building, awareness raising and preliminary introduced species port survey results in the Republic of Palau
+AUTHOR: ['Marnie L. Campbell', 'Chad L. Hewitt', 'Joel Miles']
+ABSTRACT:
+The expansion of invasive non-indigenous species in the Mediterranean is generating an increasing concern about biodiversity protection and human health, with European countries being solicited to apply early warning measures in such circumstances.The recent expansion of the hazardous fish Lagocephalus sceleratus in the Straits of Sicily, the subsequent actions adopted to manage the risk and the feedback received from the public are herein presented, as an example of the interaction between experts and the public in promoting scientific citizenship through an ad hoc action.A rapid increase in media reports related to L. sceleratus had been registered after the launch of the early warning campaign as part of a scientific and health risk communication strategy, and seven new records of this species have emerged shortly after.This study represents a useful contribution to the further bridging of the science-policy gap.
+
+SOURCE: Management of Biological Invasions
+PDF URL: https://www.reabic.net/journals/mbi/2016/4/MBI_2016_Andaloro_etal.pdf
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Port (circuit theory)', 'Fishery', 'Raising (metalworking)', 'Paradise', 'Geography', 'Environmental protection', 'Ecology', 'Environmental science', 'Biology', 'Engineering', 'Electrical engineering', 'Mechanical engineering', 'Art', 'Art history']

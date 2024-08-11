@@ -1,0 +1,12 @@
+ID: W2800222992
+TITLE: Comparative terrestrial feed and land use of an aquaculture-dominant world
+AUTHOR: ['Halley E. Froehlich', 'Claire A. Runge', 'Rebecca R. Gentry', 'Steven D. Gaines', 'Benjamin S. Halpern']
+ABSTRACT:
+Significance Studies are revealing the potential benefits of shifting human diets away from meat and toward other protein sources, including seafood. The majority of seafood is now, and for the foreseeable future, farmed (i.e., aquaculture). As the fastest-growing food sector, fed aquaculture species increasingly rely on terrestrial-sourced feed crops, but the comparative impact of aquaculture versus livestock on associated feed and land use is unclear––especially if human diets shift. Based on global production data, feed use trends, and human consumption patterns, we simulate how feed-crop and land use may increase by midcentury, but demonstrate that millions of tonnes of crops and hectares could be spared for most, but not all, countries worldwide in an aquaculture-dominant future.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/115/20/5295.full.pdf
+CITED BY COUNT: 182
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Aquaculture', 'Livestock', 'Hectare', 'Agroforestry', 'Crop', 'Animal feed', 'Production (economics)', 'Land use', 'Natural resource economics', 'Biology', 'Business', 'Agriculture', 'Fishery', 'Biotechnology', 'Ecology', 'Fish <Actinopterygii>', 'Economics', 'Macroeconomics']

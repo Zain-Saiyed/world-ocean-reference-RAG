@@ -1,0 +1,12 @@
+ID: W1963959443
+TITLE: Establishment and ecosystem effects of the alien invasive red king crab (Paralithodes camtschaticus) in the Barents Sea–a review
+AUTHOR: ['Jannike Falk-Petersen', 'Paul E. Renaud', 'Н. А. Анисимова']
+ABSTRACT:
+Abstract Falk-Petersen, J., Renaud, P., and Anisimova, N. 2011. Establishment and ecosystem effects of the alien invasive red king crab (Paralithodes camtschaticus) in the Barents Sea – a review. – ICES Journal of Marine Science, 68: . Since its introduction to the Barents Sea from the North Pacific in the 1960s, the red king crab (Paralithodes camtschaticus) has become invasive. The crab represents an important source of income, but also a potential threat to the highly productive fisheries in the region through its ecosystem impacts. A literature review was conducted, identifying factors contributing to the success of the crab as well as its interactions with native biota. Characteristics of the Barents Sea and the crab itself that may explain its success include suitable habitat for settlement and growth of the larvae; the wide range of habitats occupied throughout its life history, high mobility, generalist prey choice, low fishing pressure during establishment, and the lack of parasites. Being a large, bottom-feeding omnivore of great mobility, the king crab can significantly impact the ecosystem. Reduced benthic diversity and biomass have been registered in invaded areas. Important prey items include large epibenthic organisms whose structures also represent important habitat. Impacts on commercial and non-commercial fish species, through egg predation or indirect interactions, are difficult to detect and predict.
+
+SOURCE: ICES journal of marine science
+PDF URL: None
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2011
+TYPE: review
+CONCEPTS: ['Fishery', 'Ecosystem', 'Habitat', 'Predation', 'Ecology', 'Biology', 'Marine ecosystem']

@@ -1,0 +1,12 @@
+ID: W2742435966
+TITLE: Microplastic pollution identified in deep-sea water and ingested by benthic invertebrates in the Rockall Trough, North Atlantic Ocean
+AUTHOR: ['Winnie Courtene‐Jones', 'Brian Quinn', 'Stefan Gary', 'Andrew O.M. Mogg', 'Bhavani E. Narayanaswamy']
+ABSTRACT:
+Microplastics are widespread in the natural environment and present numerous ecological threats. While the ultimate fate of marine microplastics are not well known, it is hypothesized that the deep sea is the final sink for this anthropogenic contaminant. This study provides a quantification and characterisation of microplastic pollution ingested by benthic macroinvertebrates with different feeding modes (Ophiomusium lymani, Hymenaster pellucidus and Colus jeffreysianus) and in adjacent deep water > 2200 m, in the Rockall Trough, Northeast Atlantic Ocean. Despite the remote location, microplastic fibres were identified in deep-sea water at a concentration of 70.8 particles m-3, comparable to that in surface waters. Of the invertebrates examined (n = 66), 48% ingested microplastics with quantities enumerated comparable to coastal species. The number of ingested microplastics differed significantly between species and generalized linear modelling identified that the number of microplastics ingested for a given tissue mass was related to species and not organism feeding mode or the length or overall weight of the individual. Deep-sea microplastics were visually highly degraded with surface areas more than double that of pristine particles. The identification of synthetic polymers with densities greater and less than seawater along with comparable quantities to the upper ocean indicates processes of vertical re-distribution. This study presents the first snapshot of deep ocean microplastics and the quantification of microplastic pollution in the Rockall Trough. Additional sampling throughout the deep-sea is required to assess levels of microplastic pollution, vertical transportation and sequestration, which have the potential to impact the largest global ecosystem.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 333
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Benthic zone', 'Oceanography', 'Environmental science', 'Seawater', 'Invertebrate', 'Plastic pollution', 'Deep sea', 'Pollution', 'Benthos', 'Marine ecosystem', 'Sink (geography)', 'Surface water', 'Pelagic zone', 'Ecosystem', 'Ecology', 'Biology', 'Geology', 'Geography', 'Cartography', 'Environmental engineering']

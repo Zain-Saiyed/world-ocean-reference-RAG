@@ -1,0 +1,12 @@
+ID: W4313567185
+TITLE: North Atlantic Right Whale Consortium 2018 Annual Report Card
+AUTHOR: ['Heather M. Pettis', 'Richard M. Pace', 'Robert S. Schick', 'Philip K. Hamilton']
+ABSTRACT:
+The North Atlantic right whale (Eubalaena glacialis) remains one of the most endangered large whales in the world. Over the past two decades, there has been increasing interest in addressing the problems hampering the recovery of North Atlantic right whales by using innovative research techniques, new technologies, analyses of existing databases, and enhanced conservation and education strategies. This increased interest demanded better coordination and collaboration among all stakeholders to ensure that there was improved access to data, research efforts were not duplicative, and that findings were shared with all interested parties. The North Atlantic Right Whale Consortium, initially formed in 1986 by five research institutions to share data among themselves, was expanded in 1997 to address these greater needs. Currently, the Consortium membership is comprised of representatives from more than 100 entities including: research, academic, and conservation organizations; shipping and fishing industries; whale watching companies; technical experts; United States (U.S.) and Canadian Government agencies; and state authorities. North Atlantic Right Whale Consortium members agreed in 2004 that an annual “report card” on the status of right whales would be useful. This report card includes updates on the status of the cataloged population, mortalities and injury events, and a summary of management and research efforts that have occurred over the previous 12 months. The Board’s goal is to make public a summary of current research and management activities, as well as provide detailed recommendations for future activities. The Board views this report as a valuable asset in assessing the effects of research and management over time.
+
+SOURCE: None
+PDF URL: https://darchive.mblwhoilibrary.org/bitstream/1912/29592/1/narwc_report_card2018.pdf
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2018
+TYPE: report
+CONCEPTS: ['Right whale', 'Whale', 'Endangered species', 'Government (linguistics)', 'Population', 'Geography', 'Business', 'Fishing', 'Fishery', 'Political science', 'Environmental resource management', 'Linguistics', 'Philosophy', 'Demography', 'Environmental science', 'Sociology', 'Biology']

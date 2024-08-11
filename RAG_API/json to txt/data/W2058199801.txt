@@ -1,0 +1,12 @@
+ID: W2058199801
+TITLE: Intercalibration of selected anthropogenic radionuclides for the GEOTRACES Program
+AUTHOR: ['T. C. Kenna', 'Pere Masqué', 'J.L. Mas', 'Patricia Cámara-Mor', 'E. Chamizo', 'Jan Schölten', 'Mats Eriksson', 'Joan‐Albert Sanchez‐Cabeza', 'J. Gastaud', 'Isabelle Levy', 'J. Herrmann', 'Patric Lindahl', 'Gi Hoon Hong', 'S.P. Nielsen']
+ABSTRACT:
+As part of the GEOTRACES Program, six laboratories participated in an intercalibration exercise on several anthropogenic radionuclides of interest. The effort was successful for 239,240 Pu activity, 240 Pu/ 239 Pu isotope ratio, and 137 Cs activity measured in filtered seawater samples from the Bermuda Atlantic Time Series station (BATS) and a site on the continental slope of the Northeastern U.S. A limited number of analyses were reported for 237 Np, 241 Am, 90 Sr, and 238 Pu in filtered seawater. Intercalibration of any of the isotopes of interest in filtered particulate matter was unsuccessful due to insufficient size of the samples distributed. Methods used were based on traditional radio‐counting techniques and inductively coupled plasma mass spectrometry (ICP‐MS). Although the majority of analyses were performed on samples ≥ 60 L, one lab demonstrated the ability to analyze several of the anthropogenic radionuclides on 10–20 L sample volumes using ICP‐MS.
+
+SOURCE: Limnology and oceanography, methods
+PDF URL: None
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Geotraces', 'Radionuclide', 'Seawater', 'Environmental science', 'Inductively coupled plasma mass spectrometry', 'Environmental chemistry', 'Isotope', 'Plutonium', 'Particulates', 'Oceanography', 'Radiochemistry', 'Mass spectrometry', 'Chemistry', 'Geology', 'Physics', 'Organic chemistry', 'Chromatography', 'Quantum mechanics']

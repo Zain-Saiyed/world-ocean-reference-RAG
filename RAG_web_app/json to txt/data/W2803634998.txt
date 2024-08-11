@@ -1,0 +1,12 @@
+ID: W2803634998
+TITLE: Impact of industrial phosphate waste discharge on the marine environment in the Gulf of Gabes (Tunisia)
+AUTHOR: ['Akram El Kateb', 'Claudio Stalder', 'Andres Rüggeberg', 'Christoph Neururer', 'Jorge E. Spangenberg', 'Silvia Spezzaferri']
+ABSTRACT:
+The marine environment in the Gulf of Gabes (southern Tunisia) is severely impacted by phosphate industries. Nowadays, three localities, Sfax, Skhira and Gabes produce phosphoric acid along the coasts of this Gulf and generate a large amount of phosphogypsum as a waste product. The Gabes phosphate industry is the major cause of pollution in the Gulf because most of the waste is directly discharged into the sea without preliminary treatment. This study investigates the marine environment in the proximity of the phosphate industries of Gabes and the coastal marine environment on the eastern coast of Djerba, without phosphate industry. This site can be considered as "pristine" and enables a direct comparison between polluted and "clean" adjacent areas. Phosphorous, by sequential extractions (SEDEX), Rock-Eval, C, H, N elemental analysis, and stable carbon isotope composition of sedimentary organic matter, X-ray diffraction (qualitative and quantitative analysis) were measured on sediments. Temperature, pH and dissolved oxygen were measured on the water close to the sea floor of each station to estimate environmental conditions. These analyses are coupled with video surveys of the sea floor. This study reveals clear differentiations in pollution and eutrophication in the investigated areas.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0197731&type=printable
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Phosphogypsum', 'Environmental science', 'Eutrophication', 'Phosphate', 'Pollution', 'Environmental chemistry', 'Marine pollution', 'Phosphorite', 'Phosphoric acid', 'Total organic carbon', 'Environmental engineering', 'Oceanography', 'Geology', 'Ecology', 'Raw material', 'Chemistry', 'Nutrient', 'Biology', 'Organic chemistry']

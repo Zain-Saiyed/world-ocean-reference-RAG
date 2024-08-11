@@ -1,0 +1,12 @@
+ID: W2769943547
+TITLE: Editorial: The Effect of Climate Change across Ocean Regions
+AUTHOR: ['Ove Hoegh‐Guldberg', 'Elvira S. Poloczanska']
+ABSTRACT:
+EDITORIAL article Front. Mar. Sci., 17 November 2017Sec. Global Change and the Future Ocean Volume 4 - 2017 | https://doi.org/10.3389/fmars.2017.00361
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2017.00361/pdf
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2017
+TYPE: editorial
+CONCEPTS: ['Climate change', 'Climatology', 'Oceanography', 'Environmental science', 'Geography', 'Geology']

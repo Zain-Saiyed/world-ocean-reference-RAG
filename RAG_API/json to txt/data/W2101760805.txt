@@ -1,0 +1,12 @@
+ID: W2101760805
+TITLE: Census of seafloor sediments in the world’s ocean
+AUTHOR: ['Adriana Dutkiewicz', 'R. Dietmar Müller', 'Simon O’Callaghan', 'Hjörtur Jónasson']
+ABSTRACT:
+Knowing the patterns of distribution of sediments in the global ocean is critical for understanding biogeochemical cycles and how deep-sea deposits respond to environmental change at the sea surface. We present the first digital map of seafloor lithologies based on descriptions of nearly 14,500 samples from original cruise reports, interpolated using a support vector machine algorithm. We show that sediment distribution is more complex, with significant deviations from earlier hand-drawn maps, and that major lithologies occur in drastically different proportions globally. By coupling our digital map to oceanographic data sets, we find that the global occurrence of biogenic oozes is strongly linked to specific ranges in sea-surface parameters. In particular, by using recent computations of diatom distributions from pigment-calibrated chlorophyll-a satellite data, we show that, contrary to a widely held view, diatom oozes are not a reliable proxy for surface productivity. Their global accumulation is instead strongly dependent on low surface temperature (0.9–5.7 °C) and salinity (33.8–34.0 PSS, Practical Salinity Scale 1978) and high concentrations of nutrients. Under these conditions, diatom oozes will accumulate on the seafloor regardless of surface productivity as long as there is limited competition from biogenous and detrital components, and diatom frustules are not significantly dissolved prior to preservation. Quantifying the link between the seafloor and the sea surface through the use of large digital data sets will ultimately lead to more robust reconstructions and predictions of climate change and its impact on the ocean environment.
+
+SOURCE: Geology
+PDF URL: https://pubs.geoscienceworld.org/gsa/geology/article-pdf/43/9/795/3547966/795.pdf
+CITED BY COUNT: 108
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Geology', 'Seafloor spreading', 'Oceanography', 'Diatom', 'Deep sea', 'Sediment', 'Depth sounding', 'Paleontology']

@@ -1,0 +1,12 @@
+ID: W1555816794
+TITLE: A test of the seamount oasis hypothesis: seamounts support higher epibenthic megafaunal biomass than adjacent slopes
+AUTHOR: ['Ashley A. Rowden', 'Thomas A. Schlacher', 'Alan Williams', 'Malcolm R. Clark', 'Robert A. Stewart', 'Franziska Althaus', 'David A. Bowden', 'Mireille Consalvey', 'Wayne Robinson', 'Joanne Dowdney']
+ABSTRACT:
+Abstract Seamounts have often been viewed as specialized habitats that support unique communities; this notion has given rise to several hypotheses about how seamount ecosystems are structured. One, the ‘seamount oasis hypothesis’, predicts that invertebrates are more abundant, speciose and attain higher standing stocks on seamounts compared to other deep‐sea habitats. Because this hypothesis has remained untested for biomass, we ask two questions: (i) Do seamounts support a higher benthic biomass than nearby slopes at corresponding depths? (ii) If they do, which particular taxa and trophic groups drive observed difference in biomass? Analysis of more than 5000 sea‐floor images reveals that the mean biomass of epibenthic megafauna on 20 southwest Pacific seamounts was nearly four times greater than on the adjacent continental slope at comparable depths. This difference is largely attributable to the scleractinian coral Solenosmilia variabilis, whose mean biomass was 29 times higher on seamounts . In terms of trophic guilds, filter‐feeders and filter‐feeders/predators made up a significantly greater proportion of biomass on seamounts, whereas deposit feeders and those with mixed feeding modes dominated at slope habitats. Notwithstanding support for the seamount oasis hypothesis provided by this study, the hypothesis needs to be critically tested for seamounts in less productive regions, for seamounts with a greater proportion of soft substratum, and in other parts of the oceans where scleractinian corals are not prevalent. In this context, testing of seamount paradigms should be embedded in a broader ecological context that includes other margin habitats ( e.g. canyons) and community metrics ( e.g. diversity and body size).
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 120
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seamount', 'Context (archaeology)', 'Megafauna', 'Benthic zone', 'Habitat', 'Biomass (ecology)', 'Oceanography', 'Trophic level', 'Ecology', 'Marine habitats', 'Geology', 'Biology', 'Paleontology', 'Pleistocene']

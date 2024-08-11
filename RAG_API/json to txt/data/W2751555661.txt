@@ -1,0 +1,12 @@
+ID: W2751555661
+TITLE: Identification of limits and barriers to climate change adaptation: case study of two islands in Torres Strait, Australia
+AUTHOR: ['Karen E. McNamara', 'Ross Westoby', 'S Smithers']
+ABSTRACT:
+Abstract Communities living on remote islands are often viewed as among the most exposed and vulnerable to climate change impacts. This study uses the Sustainable Livelihoods Framework to investigate how indigenous communities living on two physically different islands in Torres Strait, Australia, experience what they consider to be the impacts of climate change in relation to their daily lives. During this process, a series of natural, physical, and socio‐cultural limits and barriers to climate change adaptation were identified on Boigu, a low‐lying mud island inundated by the sea during high tides and storm surges. As a volcanic island, Erub's elevation is higher but significant community infrastructure, housing, and cultural sites are located on the low coastal fringe. No immediate limits to climate change adaptation were identified on Erub, but physical and socio‐cultural barriers were revealed. Limits to climate change adaptation occur when adaptation actions fail to protect the things valued by those affected, or few adaptation options are available. Barriers to climate change adaptation may be overcome if recognised and addressed but can become entrenched limits if they are ignored. Within the participating communities, such limits and barriers included (a) restricted adaptation options due to limited access to particular livelihood assets; (b) difficulty engaging with government processes to secure external support; and (c) people's place‐based values, which evoke a reluctance to relocate or retreat.
+
+SOURCE: Geographical research
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1745-5871.12242
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Climate change', 'Livelihood', 'Geography', 'Indigenous', 'Adaptation (eye)', 'Environmental resource management', 'Environmental planning', 'Ecology', 'Environmental science', 'Agriculture', 'Physics', 'Archaeology', 'Optics', 'Biology']

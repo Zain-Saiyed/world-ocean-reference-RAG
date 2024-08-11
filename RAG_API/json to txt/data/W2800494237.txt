@@ -1,0 +1,12 @@
+ID: W2800494237
+TITLE: Mapping nearly a century and a half of global marine fishing: 1869–2015
+AUTHOR: ['R. Watson', 'Alex Tidd']
+ABSTRACT:
+Understanding global fisheries patterns contributes significantly to their management. By combining harmonized unmapped data sources with maps from satellite tracking data, regional tuna management organisations, the ranges of fished taxa, the access of fleets and the logistics of associated fishing gears the expansion and intensification of marine fisheries for nearly a century and half (1869–2015) is illustrated. Estimates of industrial, non-industrial reported, illegal/unreported (IUU) and discards reveal changes in country dominance, catch composition and fishing gear use. Catch of industrial and non-industrial marine fishing by year, fishing country, taxa and gear by 30-min spatial cell broken to reported, IUU and discards is available. Results show a historical increase in bottom trawl with corresponding reduction in the landings from seines. Though diverse, global landings are now dominated by demersal and small pelagic species.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Discards', 'Fishing', 'Demersal zone', 'Fishery', 'Tuna', 'Pelagic zone', 'Dominance (genetics)', 'Geography', 'Exclusive economic zone', 'Oceanography', 'Fish <Actinopterygii>', 'Biology', 'Geology', 'Biochemistry', 'Gene']

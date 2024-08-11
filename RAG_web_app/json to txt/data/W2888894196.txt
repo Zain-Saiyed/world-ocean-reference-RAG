@@ -1,0 +1,12 @@
+ID: W2888894196
+TITLE: Last Century Warming Over the Canadian Atlantic Shelves Linked to Weak Atlantic Meridional Overturning Circulation
+AUTHOR: ['Benoît Thibodeau', 'Christelle Not', 'Jiang Zhu', 'Andreas Schmittner', 'David Noone', 'Clay Tabor', 'J. Zhang', 'Zhengyu Liu']
+ABSTRACT:
+Abstract The Atlantic meridional overturning circulation (AMOC) is a key component of the global climate system. Recent studies suggested a twentieth‐century weakening of the AMOC of unprecedented amplitude (~15%) over the last millennium. Here we present a record of δ 18 O in benthic foraminifera from sediment cores retrieved from the Laurentian Channel and demonstrate that the δ 18 O trend is linked to the strength of the AMOC. In this 100‐year record, the AMOC signal decreased steadily to reach its minimum value in the late 1970s, where the weakest AMOC signal then remains constant until 2000. We also present a longer δ 18 O record of 1,500 years and highlight the uniqueness of the last century δ 18 O trend. Moreover, the Little Ice Age period is characterized by statistically heavier δ 18 O, suggesting a relatively weak AMOC. Implications for understanding the mechanisms driving the intensity of AMOC under global warming and high‐latitude freshwater input are discussed.
+
+SOURCE: Geophysical research letters
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2018GL080083
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Shutdown of thermohaline circulation', 'Oceanography', 'Climatology', 'Foraminifera', 'Geology', 'North Atlantic Deep Water', 'Latitude', 'Thermohaline circulation', 'Global warming', 'Climate change', 'Benthic zone', 'Environmental science', 'Geodesy']

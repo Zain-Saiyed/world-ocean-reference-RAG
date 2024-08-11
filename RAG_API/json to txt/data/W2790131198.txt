@@ -1,0 +1,12 @@
+ID: W2790131198
+TITLE: The giant Mauritanian cold-water coral mound province: Oxygen control on coral mound formation
+AUTHOR: ['Claudia Wienberg', 'Jürgen Titschack', 'André Freiwald', 'Norbert Frank', 'Tomas Lundälv', 'Marco Taviani', 'Lydia Beuck', 'Andrea Schröder‐Ritzrau', 'Thomas Krengel', 'Dierk Hebbeln']
+ABSTRACT:
+The largest coherent cold-water coral (CWC) mound province in the Atlantic Ocean exists along the Mauritanian margin, where up to 100 m high mounds extend over a distance of ∼400 km, arranged in two slope-parallel chains in 400–550 m water depth. Additionally, CWCs are present in the numerous submarine canyons with isolated coral mounds being developed on some canyon flanks. Seventy-seven Uranium-series coral ages were assessed to elucidate the timing of CWC colonisation and coral mound development along the Mauritanian margin for the last ∼120,000 years. Our results show that CWCs were present on the mounds during the Last Interglacial, though in low numbers corresponding to coral mound aggradation rates of 16 cm kyr−1. Most prolific periods for CWC growth are identified for the last glacial and deglaciation, resulting in enhanced mound aggradation (>1000 cm kyr−1), before mound formation stagnated along the entire margin with the onset of the Holocene. Until today, the Mauritanian mounds are in a dormant state with only scarce CWC growth. In the canyons, live CWCs are abundant since the Late Holocene at least. Thus, the canyons may serve as a refuge to CWCs potentially enabling the observed modest re-colonisation pulse on the mounds along the open slope. The timing and rate of the pre-Holocene coral mound aggradation, and the cessation of mound formation varied between the individual mounds, which was likely the consequence of vertical/lateral changes in water mass structure that placed the mounds near or out of oxygen-depleted waters, respectively.
+
+SOURCE: Quaternary science reviews
+PDF URL: None
+CITED BY COUNT: 64
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Aggradation', 'Geology', 'Coral', 'Submarine canyon', 'Canyon', 'Deglaciation', 'Slumping', 'Holocene', 'Oceanography', 'Interglacial', 'Continental margin', 'Paleontology', 'Glacial period', 'Geomorphology', 'Tectonics', 'Fluvial', 'Structural basin']

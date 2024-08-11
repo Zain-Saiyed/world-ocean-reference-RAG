@@ -1,0 +1,12 @@
+ID: W2032838523
+TITLE: Probabilistic hazard assessment of environmentally occurring pharmaceuticals toxicity to fish, daphnids and algae by ECOSAR screening
+AUTHOR: ['Hans Sanderson']
+ABSTRACT:
+The risks associated with occurrence of pharmaceuticals in water resources are mostly unknown. In the absence of extensive toxicological data, we scanned all the compounds observed in the environment for toxicological properties by (Quantitative) Structure Activity Relationship ((Q)SAR). The results of the probabilistic distribution of environmental and effect concentrations and hazard quotients (HQs) do not indicate significant acute risks prior to application of assessment factors. Compared with measured effect concentrations SAR predictions were more "sensitive" 80% of the time. The long-term effects of subtle and chronic changes, additive or synergistic effects and effects on other endpoints e.g. reproduction, behavior, metabolism, bacterial resistance etc. are still uncertain. (Q)SAR's can be important prioritization tools for subsequent experimental risk assessment of pharmaceuticals in surface waters, due to the prevalent lack of ecotoxicological data.
+
+SOURCE: Toxicology letters
+PDF URL: None
+CITED BY COUNT: 416
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Prioritization', 'Risk assessment', 'Environmental science', 'Environmental chemistry', 'Environmental risk assessment', 'Hazard analysis', 'Hazard', 'Fish <Actinopterygii>', 'Chemical toxicity', 'Probabilistic logic', 'Toxicology', 'Ecology', 'Biology', 'Chemistry', 'Water pollutants', 'Statistics', 'Fishery', 'Computer science', 'Mathematics', 'Computer security', 'Engineering', 'Aerospace engineering', 'Management science', 'Economics']

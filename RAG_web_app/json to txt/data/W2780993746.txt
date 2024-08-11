@@ -1,0 +1,12 @@
+ID: W2780993746
+TITLE: Influence of an oxygen minimum zone and macroalgal enrichment on benthic megafaunal community composition in a NE Pacific submarine canyon
+AUTHOR: ['Lia Domke', 'Myriam Lacharité', 'Anna Meta×as', 'Marjolaine Matabos']
+ABSTRACT:
+Abstract Megafaunal diversity in the deep sea shows a parabolic pattern with depth. It can be affected by factors such as low oxygen concentration, which suppresses diversity, or the presence of submarine canyons, which enhances it. Barkley Canyon, located off the west coast of British Columbia, Canada, is a submarine canyon that extends from the continental margin (200 m) into the deep ocean (2,000 m). This canyon receives drift kelp from shoreline kelp forests and contains an oxygen minimum zone ( OMZ ) at 500 to 1,500 m depth. Our study investigated the abundance and diversity of epibenthic megafauna over a range of depths (200–2,000 m) and oxygen concentrations (0.5–5.0 ml/L) within Barkley Canyon, as well as changes in abundance near detrital kelp. Video was collected using the remotely operated vehicle ROPOS along seven 1‐km cross‐canyon (i.e., across the axis of the canyon) transects and three 40‐m perpendicular cross‐transects over kelp. Taxonomic groups were associated with depth, temperature, and the presence of pebbles. The OMZ restricted pennatulids, and edge effects along OMZ boundaries were observed for ophiuroids. The geomorphology of the sea floor affected the distribution of taxa across the canyon, with Porifera mainly found along the walls and Echinoidea within the canyon axis. Expected richness exhibited a bimodal pattern, peaking at 300 and 2,000 m, possibly due to the combined effect of the OMZ and the submarine canyon. Echinoidea aggregated near drift kelp at 200 and 300 m. We found that faunal communities in Barkley Canyon were influenced by several confounded factors including depth, oxygen and substrate. Understanding faunal patterns is paramount with increased exploitation and a changing climate.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Submarine canyon', 'Canyon', 'Transect', 'Oceanography', 'Kelp forest', 'Benthic zone', 'Kelp', 'Geology', 'Oxygen minimum zone', 'Megafauna', 'Continental shelf', 'Ecology', 'Paleontology', 'Geomorphology', 'Biology', 'Upwelling', 'Pleistocene']

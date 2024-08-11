@@ -1,0 +1,12 @@
+ID: W2617823414
+TITLE: Does Aquaculture Support the Needs of Nutritionally Vulnerable Nations?
+AUTHOR: ['Christopher D. Golden', 'Katherine Seto', 'Madan M. Dey', 'Oai L. Chen', 'Jessica A. Gephart', 'Samuel S. Myers', 'Matthew A. Smith', 'Bapu Vaitla', 'Edward H. Allison']
+ABSTRACT:
+Aquaculture now supplies half of the fish consumed directly by humans. We evaluate whether aquaculture, given current patterns of production and distribution, supports the needs of poor and food-insecure populations throughout the world. We begin by identifying 41 seafood-reliant nutritionally vulnerable nations (NVNs), and ask whether aquaculture meets human nutritional demand directly via domestic production or trade, or indirectly via purchase of nutritionally rich dietary substitutes. We find that a limited number of NVNs have domestically farmed seafood, and of those, only specific aquaculture approaches (e.g. freshwater) in some locations have the potential to benefit nutritionally vulnerable populations. While assessment of aquaculture’s direct contribution via trade is constrained by data limitations, we find that it is unlikely to contribute substantially to human nutrition in vulnerable groups, as most exported aquaculture consists of high-value species for international markets. We also determine that subpopulations who benefit from aquaculture profits are likely not the same subpopulations who are nutritionally vulnerable, and more research is needed to understand the impacts of aquaculture income gains. Finally, we discuss the relationship of aquaculture to existing trends in capture fisheries in NVNs, and suggest strategies to create lasting solutions to nutritional security, without exacerbating existing challenges in access to food and land resources.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2017.00159/pdf
+CITED BY COUNT: 68
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Aquaculture', 'Food security', 'Business', 'Natural resource economics', 'Distribution (mathematics)', 'Production (economics)', 'Fishery', 'Fish <Actinopterygii>', 'Biology', 'Ecology', 'Economics', 'Agriculture', 'Mathematical analysis', 'Mathematics', 'Macroeconomics']

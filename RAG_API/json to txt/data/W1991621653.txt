@@ -1,0 +1,12 @@
+ID: W1991621653
+TITLE: Distribution of polyfluoroalkyl compounds in water, suspended particulate matter and sediment from Tokyo Bay, Japan
+AUTHOR: ['Lutz Ahrens', 'Sachi Taniyasu', 'Leo W. Y. Yeung', 'Nobuyoshi Yamashita', 'Paul K.S. Lam', 'Ralf Ebinghaus']
+ABSTRACT:
+This study examined the environmental behaviour and fate of polyfluoroalkyl compounds (PFCs) found in water, suspended particulate matter (SPM) and sediment. The sampling of the sediment was performed at two stations from Tokyo Bay, Japan, in 2008. In addition, a depth profile of seawater was collected at three water layers from both sampling stations. The ∑PFC concentrations ranged from 16.7 to 42.3 ng L−1 in the water column, from 6.4 to 15.1 ng g−1 dry weight (dw) in the SPM fraction and from 0.29 to 0.36 dw in surface sediment. The distribution of PFCs was found to depend on their physicochemical characteristics. While short-chain perfluoroalkyl carboxylic acids (PFCAs) (C < 7) were exclusively detected in the dissolved phase, longer-chain PFCAs (C ⩾ 7), perfluoroalkyl sulfonates (PFSAs), ethylperfluorooctane sulfonamidoacetic acid (EtFOSAA), and perfluorooctane sulfonamide (PFOSA) appeared to bind more strongly to particles. Results showed that the sorption of PFCs on SPM increases by 0.52–0.75 log units for each additional CF2 moiety and that the sorption of PFSAs was 0.71–0.76 log units higher compared to the PFCA analogs. In addition, the sorption of PFCs was influenced by the organic carbon content. These data are essential for modelling the transport and environmental fate of PFCs.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 332
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Sorption', 'Particulates', 'Environmental chemistry', 'Sediment', 'Perfluorooctane', 'Bay', 'Seawater', 'Water column', 'Chemistry', 'Total organic carbon', 'Contamination', 'Environmental science', 'Oceanography', 'Adsorption', 'Geology', 'Sulfonate', 'Organic chemistry', 'Ecology', 'Biology', 'Sodium', 'Paleontology']

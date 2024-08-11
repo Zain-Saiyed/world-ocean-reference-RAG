@@ -1,0 +1,12 @@
+ID: W2774118573
+TITLE: Environmental Services of Beaches and Coastal Sand Dunes as a Tool for Their Conservation
+AUTHOR: ['Natalia Rodríguez‐Revelo', 'Ileana Espejel', 'Concepción Arredondo García', 'Lina Ojeda-Revah', 'María Alejandra Sánchez Vázquez']
+ABSTRACT:
+Ecosystem services (ES) are direct and indirect benefits of ecosystems that are not generally offered by markets and from which society obtains goods and services. ES are grouped according to four ecosystemic functions: regulation, provisioning, habitat and cultural. Our study aimed at identifying ES provided by beaches and coastal dunes in the Baja California Peninsula. ES were identified in a literature search in the international and local scientific bibliography databases. We used key words like: ES in Baja California, ES in beaches and ES in coastal dunes. We analyzed 350 selected papers. Explicit and implicit mentions to ES or to their elements were extracted from the reviewed documents; the assigned value represents the degree of importance of each ES: 0 (unimportant), 1 (low importance), 2 (medium importance) and 3 (high importance). The ES cultural function was the best documented, being mentioned in 40 publications. The habitat function was the most reported for the Pacific Ocean coast mainly refuge for flora and fauna. The functions of regulation of air quality and climate are equally analyzed in ten publications. The ES of erosion regulation, pollination, and water flow are only documented in the Gulf of California coastline. We concluded it is highly relevant to know the ES provided by beaches and coastal dunes in order to design and implement adequate management practices that conserve the ecosystem in order for it to continue providing ES to humans.
+
+SOURCE: Coastal research library
+PDF URL: None
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Ecosystem services', 'Geography', 'Habitat', 'Peninsula', 'Provisioning', 'Ecosystem', 'Environmental resource management', 'Coastal management', 'Fauna', 'Ecology', 'Environmental planning', 'Environmental science', 'Archaeology', 'Engineering', 'Biology', 'Telecommunications']

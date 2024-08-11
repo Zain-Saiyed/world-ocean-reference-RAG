@@ -1,0 +1,12 @@
+ID: W2940972797
+TITLE: Gas Seeps at the Edge of the Gas Hydrate Stability Zone on Brazil’s Continental Margin
+AUTHOR: ['João Marcelo Medina Ketzer', 'Daniel Praeg', 'M A Pivel', 'Adolpho Herbert Augustin', 'Luiz Frederico Rodrigues', 'Adriano R. Viana', 'José Cupertino']
+ABSTRACT:
+Gas hydrate provinces occur in two sedimentary basins along Brazil’s continental margin: (1) The Rio Grande Cone in the southeast, and (2) the Amazon deep-sea fan in the equatorial region. The occurrence of gas hydrates in these depocenters was first detected geophysically and has recently been proven by seafloor sampling of gas vents, detected as water column acoustic anomalies rising from seafloor depressions (pockmarks) and/or mounds, many associated with seafloor faults formed by the gravitational collapse of both depocenters. The gas vents include typical features of cold seep systems, including shallow sulphate reduction depths (&lt;4 m), authigenic carbonate pavements, and chemosynthetic ecosystems. In both areas, gas sampled in hydrate and in sediments is dominantly formed by biogenic methane. Calculation of the methane hydrate stability zone for water temperatures in the two areas shows that gas vents occur along its feather edge (water depths between 510 and 760 m in the Rio Grande Cone and between 500 and 670 m in the Amazon deep-sea fan), but also in deeper waters within the stability zone. Gas venting along the feather edge of the stability zone could reflect gas hydrate dissociation and release to the oceans, as inferred on other continental margins, or upward fluid flow through the stability zone facilitated by tectonic structures recording the gravitational collapse of both depocenters. The potential quantity of venting gas on the Brazilian margin under different scenarios of natural or anthropogenic change requires further investigation. The studied areas provide natural laboratories where these critical processes can be analyzed and quantified.
+
+SOURCE: Geosciences
+PDF URL: https://www.mdpi.com/2076-3263/9/5/193/pdf?version=1556427109
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Geology', 'Clathrate hydrate', 'Seafloor spreading', 'Cold seep', 'Continental margin', 'Petroleum seep', 'Continental shelf', 'Natural gas', 'Authigenic', 'Methane', 'Sedimentary rock', 'Seabed', 'Geomorphology', 'Oceanography', 'Geochemistry', 'Tectonics', 'Paleontology', 'Hydrate', 'Ecology', 'Chemistry', 'Organic chemistry', 'Biology']

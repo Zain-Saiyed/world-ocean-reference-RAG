@@ -1,0 +1,12 @@
+ID: W2933499217
+TITLE: The potential of large rafting objects to spread Lessepsian invaders: the case of a detached buoy
+AUTHOR: ['Angelina Ivkić', 'Jan Steger', 'Bella S. Galil', 'Paolo G. Albano']
+ABSTRACT:
+A diverse and abundant fouling community dominated by Lessepsian non-indigenous species was identified on a 13.5-m-long steel buoy stranded on the Israeli coast but originating from Port Said, at the Mediterranean entrance of the Suez Canal, Egypt. The molluscan community was sampled quantitatively by scraping. Three quarters of the individuals and more than half of the species were non-indigenous. Among the latter, a mytilid bivalve, Gregariella cf. ehrenbergi, was first recorded in the Mediterranean Sea on the basis of these samples, suggesting that the full consideration of all potential vectors can contribute to non-indigenous species detection. Large floating objects in coastal waters, such as buoys, are particularly suitable for colonization by Lessepsian species because hard substrates, and artificial ones in particular, are highly susceptible to the establishment of non-indigenous species. Moreover, their size and persistence enable the development of abundant and mature fouling communities that can disseminate propagules as eggs and larvae over long distances and for extended periods if detached. This report highlights the potential for large rafting debris as a vector of the spread of non-indigenous biota within the Mediterranean Sea.
+
+SOURCE: Biological invasions
+PDF URL: https://link.springer.com/content/pdf/10.1007/s10530-019-01972-4.pdf
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Biology', 'Indigenous', 'Introduced species', 'Ecology', 'Propagule', 'Mediterranean climate', 'Mediterranean sea', 'Biota', 'Propagule pressure', 'Invasive species', 'Colonization', 'Fishery', 'Biological dispersal', 'Population', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2811415919
+TITLE: Distribution and fate of 129I in the seabed sediment off Fukushima
+AUTHOR: ['Shigeyoshi Otosaka', 'Yuhi Satoh', 'Takashi Suzuki', 'Jun Kuwabara', 'Takahiro Nakanishi']
+ABSTRACT:
+In this study, seabed sediment was collected from 26 stations located within 160 km from the Fukushima Dai-ichi Nuclear Power Plant (FDNPP) during the 2 years which followed the FDNPP accident of March 2011 and the concentrations of 129I and 137Cs were measured. By comparing the distribution of these two radionuclides with respect to their different geochemical behaviors in the environment, the transport of accident-derived radionuclides near the seafloor is discussed. The concentration of 129I in seabed sediment recovered from offshore Fukushima in 2011 ranged between 0.02 and 0.45 mBq kg-1, with 129I/137Cs activity ratios of (1.9 ± 0.5) × 10-6 Bq Bq-1. The initial deposition of 129I to the seafloor in the study area was 0.36 ± 0.13 GBq, and the general distribution of sedimentary 129I was established within 6 months after the accident. Although iodine is a biophilic element, the accident-derived 129I negligibly affects the benthic ecosystem. Until October 2013, a slight increase in activity of 129I in the surface sediment along the shelf-edge region (bottom depth: 200-400 m) was observed, despite that such a trend was not observed for 137Cs. The preferential increase of the 129I concentrations in the shelf-edge sediments was presumed to be affected by the re-deposition in the shelf-edge sediments of 129I desorbed from the contaminated coastal sediment. The results obtained from this study indicate that 129I/137Cs in marine particles is a useful indicator for tracking the secondary transport of accident-derived materials, particularly biophilic radionuclides, from the coast to offshore areas.
+
+SOURCE: Journal of environmental radioactivity
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Sediment', 'Seafloor spreading', 'Radionuclide', 'Benthic zone', 'Seabed', 'Environmental science', 'Oceanography', 'Deposition (geology)', 'Fukushima Nuclear Accident', 'Sedimentary rock', 'Geology', 'Submarine pipeline', 'Geochemistry', 'Geomorphology', 'Nuclear power plant', 'Physics', 'Quantum mechanics', 'Nuclear physics']

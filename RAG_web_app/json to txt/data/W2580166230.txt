@@ -1,0 +1,12 @@
+ID: W2580166230
+TITLE: From Marine Protected Areas to MPA Networks
+AUTHOR: ['Ferdinando Boero']
+ABSTRACT:
+The positive impressions described in the European Landscape Convention (ELC) simply identify beauty defined as follows in a popular dictionary: ‘a combination of qualities, such as shape, colour, or form that pleases the aesthetic senses, especially the sight’. The ELC is centred on the way the culture of a population perceives and modifies nature, somehow ‘improving’ it with wise management. Protecting beautiful places, and managing the habitats of European Community importance, is a first step towards recognizing the significance of the marine environment, inviting science to design an approach to its management and protection that goes beyond the biases of the current ‘culture’. Marine Protected Areas (MPAs) have been instituted to protect biodiversity and to enhance ecosystem functioning, and so adhere, at least in theory, to all the specifications of Good Environmental Status (GES). The assessment of the efficacy of MPA management should consider the attainment of GES.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2017
+TYPE: other
+CONCEPTS: ['Marine protected area', 'Beauty', 'Sight', 'Convention', 'Environmental resource management', 'Biodiversity', 'Population', 'Habitat', 'Geography', 'Aesthetics', 'Environmental ethics', 'Ecology', 'Sociology', 'Environmental science', 'Art', 'Social science', 'Philosophy', 'Biology', 'Physics', 'Demography', 'Astronomy']

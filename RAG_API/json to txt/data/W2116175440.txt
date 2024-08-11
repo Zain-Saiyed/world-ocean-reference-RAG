@@ -1,0 +1,12 @@
+ID: W2116175440
+TITLE: A Global Census of Marine Microbes
+AUTHOR: ['Linda Amaral‐Zettler', 'Luis Felipe Artigas', 'John A. Baross', 'P.A. LokaBharathi', 'Antje Boëtius', 'D. Chandramohan', 'Gerhard J. Herndl', 'Kazuhiro Kogure', 'Phillip R. Neal', 'Carlos Pedrós‐Alió', 'Alban Ramette', 'Stefan Schouten', 'Lucas J. Stal', 'Anne Thessen', 'Johannes de Leeuw', 'Mitchell L. Sogin']
+ABSTRACT:
+This chapter contains sections titled: Introduction Challenges of a Microbial Census Highlights of ICoMM Investigations A Census of Microbial Lipids Viewing Microbial Diversity through a Community Lens Marine Microbes and Their Roles in a Changing Ocean New Questions Outlook Acknowledgments References
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 83
+PUBLICATION YEAR: 2010
+TYPE: preprint
+CONCEPTS: ['Census', 'Geography', 'Diversity (politics)', 'Ecology', 'Biology', 'Sociology', 'Population', 'Demography', 'Anthropology']

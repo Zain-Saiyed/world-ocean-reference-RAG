@@ -1,0 +1,12 @@
+ID: W2579003104
+TITLE: The Impact of Systematic Conservation Planning
+AUTHOR: ['Emma McIntosh', 'Robert L. Pressey', 'Samuel Lloyd', 'Robert J. Smith', 'Richard Grenyer']
+ABSTRACT:
+Systematic conservation planning (SCP) is a rapidly advancing discipline aimed at providing decision support for choices between alternate conservation actions. SCP is often used to inform choices about areas to protect, in order to optimize outcomes for biodiversity while minimizing societal costs. Despite the widespread application of SCP approaches, there is limited understanding of the types of impacts resulting from related projects, and when and where it is most effective. This is compounded by the absence of a standardized approach to evaluating and reporting on the outcomes of SCP projects. We highlight the challenges of undertaking evaluations of complex planning processes, the current state of knowledge about the outcomes of SCP projects, and emerging opportunities to improve evaluation. There is a need for clarity around theories of change, definitions of SCP and impact, and standardized reporting and information sharing across the discipline.
+
+SOURCE: Annual review of environment and resources
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-environ-102016-060902
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['CLARITY', 'Environmental planning', 'Order (exchange)', 'Business', 'Environmental resource management', 'Management science', 'Risk analysis (engineering)', 'Economics', 'Geography', 'Biochemistry', 'Chemistry', 'Finance']

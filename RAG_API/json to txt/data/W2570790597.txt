@@ -1,0 +1,12 @@
+ID: W2570790597
+TITLE: A comparative analysis of holistic marine management regimes and ecosystem approach in marine spatial planning in developed countries
+AUTHOR: ['Nicolás J. I. Rodríguez']
+ABSTRACT:
+Internationally marine ecosystem-based management has been embraced as an approach to design holistic marine management regimes. In this article a comparative research strategy is applied in the analysis of the holistic marine management regimes in Norway, Australia, US, Canada and the European Union. How can holistic marine management regimes based on an ecosystem approach contribute to sustainable ocean development? Important in this context is how the origin and theory of an ecosystem-based management is implemented and interpreted, and to what extent this is manifested through policies, strategies and legal frameworks. The results of this research indicate that the implementation of marine-ecosystem based management is heterogeneous. This article discusses the concrete mechanisms that are used to reach the aim of sustainable ocean management. Implementation challenges are related to lack of functional metrics, weak spatial measures, weak integration and lack of adaptive management. Still marine ecosystem-based management is an important step forward for sustainable ocean governance.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Ecosystem-based management', 'Environmental resource management', 'Holistic management', 'Marine spatial planning', 'Adaptive management', 'Context (archaeology)', 'Marine ecosystem', 'Ecosystem management', 'Corporate governance', 'Ecosystem', 'Business', 'Sustainable management', 'Sustainable development', 'European union', 'Environmental planning', 'Marine protected area', 'Sustainability', 'Ecology', 'Environmental science', 'Geography', 'Habitat', 'Biology', 'Archaeology', 'Finance', 'Economic policy']

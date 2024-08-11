@@ -1,0 +1,12 @@
+ID: W2015789397
+TITLE: High rates of hybridisation reveal fragile reproductive barriers between endangered Australian sea snakes
+AUTHOR: ['Kate L. Sanders', 'Arne Redsted Rasmussen', 'Michael L. Guinea']
+ABSTRACT:
+The viviparous sea snakes include 62 ecologically diverse species, many of which are of very recent evolutionary origin and have overlapping distributions. Peak sea snake diversity and endemism is recorded from the isolated emergent reefs of the Timor Sea in Northwest Australia. However, nine species have disappeared from Ashmore, the largest of these reefs, over the last 15 years, including two critically endangered Aipysurus species that have also disappeared from neighbouring Hibernia Reef. A third Timor Sea endemic, Aipysurus fuscus, is now known only from Scott and Hibernia reefs, where it coexists with closely related and locally abundant Aipysurus laevis. We analysed microsatellite markers for A. fuscus and A. laevis sampled across four Timor Sea reefs to assess evidence for recent inter-specific gene flow and historical introgression. Our data fit an Isolation–Migration model, which showed significant and asymmetrical levels of gene flow following species divergence, and highest rates of introgression from the large A. laevis population into the much smaller A. fuscus population. Population assignment analyses recovered two ancestral clusters that broadly corresponded to morphological species designations, but revealed high frequencies of hybrids on all four reefs and individuals of pure A. fuscus ancestry only at Scott and (historically) Ashmore. Most unexpectedly, 95% of snakes sampled at Hibernia were hybrids that resembled A. laevis in phenotype, revealing a collapse of reproductive barriers (‘reverse speciation’) at this reef. These results have dire implications for the conservation status of A. fuscus, and highlight the fragility of reproductive barriers in a recent marine radiation.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Endangered species', 'Reef', 'Biology', 'Ecology', 'Population', 'Reproductive isolation', 'Introgression', 'Endemism', 'Geography', 'Habitat', 'Biochemistry', 'Demography', 'Sociology', 'Gene']

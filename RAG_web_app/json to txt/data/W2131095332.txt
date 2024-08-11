@@ -1,0 +1,12 @@
+ID: W2131095332
+TITLE: Annual sea‐air CO<sub>2</sub> fluxes in the Bering Sea: Insights from new autumn and winter observations of a seasonally ice‐covered continental shelf
+AUTHOR: ['Jessica Cross', 'Jeremy T. Mathis', 'Karen E. Frey', 'Catherine E Cosca', 'Seth L. Danielson', 'Nicholas R. Bates', 'Richard A. Feely', 'Taro Takahashi', 'Wiley Evans']
+ABSTRACT:
+Abstract High‐resolution data collected from several programs have greatly increased the spatiotemporal resolution of p CO 2 (sw) data in the Bering Sea, and provided the first autumn and winter observations. Using data from 2008 to 2012, monthly climatologies of sea‐air CO 2 fluxes for the Bering Sea shelf area from April to December were calculated, and contributions of physical and biological processes to observed monthly sea‐air p CO 2 gradients (Δ p CO 2 ) were investigated. Net efflux of CO 2 was observed during November, December, and April, despite the impact of sea surface cooling on Δ p CO 2 . Although the Bering Sea was believed to be a moderate to strong atmospheric CO 2 sink, we found that autumn and winter CO 2 effluxes balanced 65% of spring and summer CO 2 uptake. Ice cover reduced sea‐air CO 2 fluxes in December, April, and May. Our estimate for ice‐cover corrected fluxes suggests the mechanical inhibition of CO 2 flux by sea‐ice cover has only a small impact on the annual scale (&lt;2%). An important data gap still exists for January to March, the period of peak ice cover and the highest expected retardation of the fluxes. By interpolating between December and April using assumptions of the described autumn and winter conditions, we estimate the Bering Sea shelf area is an annual CO 2 sink of ∼6.8 Tg C yr −1 . With changing climate, we expect warming sea surface temperatures, reduced ice cover, and greater wind speeds with enhanced gas exchange to decrease the size of this CO 2 sink by augmenting conditions favorable for greater wintertime outgassing.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2013JC009579
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Sea ice', 'Environmental science', 'Sink (geography)', 'Oceanography', 'Climatology', 'Antarctic sea ice', 'Ice shelf', 'Arctic ice pack', 'Atmospheric sciences', 'Cryosphere', 'Geology', 'Geography', 'Cartography']

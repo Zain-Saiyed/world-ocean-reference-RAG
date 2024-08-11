@@ -1,0 +1,12 @@
+ID: W4235776655
+TITLE: Bruguiera hainesii: Duke, N., Kathiresan, K., Salmo III, S.G., Fernando, E.S., Peras, J.R., Sukardjo, S., Miyagi, T., Ellison, J., Koedam, N.E., Wang, Y., Primavera, J., Jin Eong, O., Wan-Hong Yong, J. &amp; Ngoc Nam, V.
+AUTHOR: []
+ABSTRACT:
+Established in 1964, the IUCN Red List of Threatened Species has evolved to become the world’s most comprehensive information source on the global conservation status of animal, fungi and plant species.
+
+SOURCE: IUCN Red List of Threatened Species
+PDF URL: None
+CITED BY COUNT: 1
+PUBLICATION YEAR: 2008
+TYPE: dataset
+CONCEPTS: ['IUCN Red List', 'Threatened species', 'Geography', 'Biology', 'Humanities', 'Forestry', 'Ecology', 'Philosophy', 'Habitat']

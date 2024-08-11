@@ -1,0 +1,12 @@
+ID: W2558027242
+TITLE: Scenario planning for tourism management: a participatory and system dynamics model applied to the Galapagos Islands of Ecuador
+AUTHOR: ['Francesco Pizzitutti', 'Stephen J. Walsh', 'Ronald R. Rindfuss', 'Gunter Reck', 'Diego Quiroga', 'Rebecca Tippett', 'Carlos F. Mena']
+ABSTRACT:
+This paper presents a decision-support system based on a system dynamics model designed to examine tourism management in the Galapagos Islands. A participatory approach was used to integrate the views of multiple stakeholders in the Galapagos Islands and to build an understandable, graphical representation of the impacts of tourism and residential population growth. Each subsystem is examined through hypotheses involving three scenarios of tourism growth that are associated with different residential population expansions. A number of integrative and linked social-ecological effects in our model have been shown to severely shock the natural environment of the Galapagos and saturate the capacity of several socio-economic subsystems. Major concerns of the expanding human dimension in the Galapagos are represented by (1) the growing number of introduced species that threaten the Islands’ unique natural environment, and (2) the rapid saturation of the Galapagos National Park's tourism reception capacity. The model relies upon real data to specify rules, relationships, and rates of exchange that are derived through statistical functions and/or functions specified in theory or practice. The presented decision-support system is a quantitative scenario-planning tool that can be used by policy-makers to achieve an enhanced understanding of the Galapagos Islands as a coupled human–natural system.
+
+SOURCE: Journal of sustainable tourism
+PDF URL: None
+CITED BY COUNT: 75
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Tourism', 'Environmental resource management', 'Citizen journalism', 'Geography', 'Population', 'Dimension (graph theory)', 'Natural (archaeology)', 'Regional science', 'Computer science', 'Economics', 'Sociology', 'Demography', 'Mathematics', 'World Wide Web', 'Pure mathematics', 'Archaeology']

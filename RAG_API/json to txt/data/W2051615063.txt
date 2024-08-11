@@ -1,0 +1,12 @@
+ID: W2051615063
+TITLE: Equilibrium shoreline modelling of a high-energy meso-macrotidal multiple-barred beach
+AUTHOR: ['Bruno Castelle', 'Vincent Marieu', 'Stéphane Bujan', 'Sophie Ferreira', 'J. P. Parisot', 'Sylvain Capo', 'Nadia Sénéchal', 'Thomas Chouzenoux']
+ABSTRACT:
+8-year time series of incident wave energy and monthly alongshore-averaged beach surveys at the high-energy meso-macrotidal multiple-barred Truc Vert beach are analysed. We apply two behaviour-oriented equilibrium shoreline models that relate the rate of cross-shore shoreline displacement to the wave energy and the wave energy disequilibrium between the wave energy and the equilibrium wave energy that would cause no change to the present shoreline location. The two models show similar skill. Results show that the equilibrium shoreline model concept works on meso-macrotidal multiple-barred beaches, with similar skill when applied to non-barred and/or micro-mesotidal beaches, provided that a relevant shoreline proxy is used. Simulations show that Truc Vert beach responds predominantly at seasonal timescales rather than at individual storm frequency. The first winter storms drive the most pronounced erosion events because both the wave energy disequilibrium and erosion change potential are large. The best shoreline proxy at Truc Vert beach is the mean high water level, where the inner-bar and berm dynamics have little influence on the shoreline cross-shore displacement. Implications for shoreline monitoring through video imagery on this type of beach are discussed. Results also reveal that the equilibrium shoreline concept can be extended to an equilibrium beach profile concept pending further improvements.
+
+SOURCE: Marine geology
+PDF URL: None
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Shore', 'Geology', 'Storm', 'Disequilibrium', 'Coastal erosion', 'Oceanography', 'Plage', 'Beach ridge', 'Medicine', 'Ophthalmology']

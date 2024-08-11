@@ -1,0 +1,12 @@
+ID: W2793458790
+TITLE: The invasion risk of species associated with Japanese Tsunami Marine Debris in Pacific North America and Hawaii
+AUTHOR: ['Thomas W. Therriault', 'Jocelyn C. Nelson', 'James T. Carlton', 'Lauran Liggan', 'Michio Otani', 'Hiroshi Kawai', 'Danielle Scriven', 'Gregory M. Ruiz', 'Cathryn Clarke Murray']
+ABSTRACT:
+Marine debris from the Great Tsunami of 2011 represents a unique transport vector for Japanese species to reach Pacific North America and Hawaii. Here we characterize the invasion risk of invertebrate species associated with tsunami debris using a screening-level risk assessment tool - the Canadian Marine Invasive Screening Tool (CMIST). Higher-risk invertebrate invaders were identified for each of five different ecoregions. Some of these are well-known global invaders, such as the mussel Mytilus galloprovincialis and the ascidian Didemnum vexillum which already have invasion histories in some of the assessed ecoregions, while others like the sea star Asterias amurensis and the shore crab Hemigrapsus sanguineus have yet to invade large portions of the assessed ecoregions but also are recognized global invaders. In general, the probability of invasion was lower for the Gulf of Alaska and Hawaii, in part due to lower climate matches and the availability of other invasion vectors.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mytilus', 'Invertebrate', 'Fishery', 'Asterias', 'Shore', 'Invasive species', 'Marine invertebrates', 'Geography', 'Ecology', 'Biology', 'Starfish']

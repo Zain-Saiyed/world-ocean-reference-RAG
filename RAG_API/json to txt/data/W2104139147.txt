@@ -1,0 +1,12 @@
+ID: W2104139147
+TITLE: High seas marine protected areas: Benthic environmental conservation priorities from a GIS analysis of global ocean biophysical data
+AUTHOR: ['Peter T. Harris', 'Tanya Whiteway']
+ABSTRACT:
+Designing a representative network of high seas marine protected areas (MPAs) requires an acceptable scheme to classify the benthic (as well as the pelagic) bioregions of the oceans. Given the lack of sufficient biological information to accomplish this task, we used a multivariate statistical method with 6 biophysical variables (depth, seabed slope, sediment thickness, primary production, bottom water dissolved oxygen and bottom temperature) to objectively classify the ocean floor into 53,713 separate polygons comprising 11 different categories, that we have termed "seascapes". A cross-check of the seascape classification was carried out by comparing the seascapes with existing maps of seafloor geomorphology and seabed sediment type and by GIS analysis of the number of separate polygons, polygon area and perimeter/area ratio. We conclude that seascapes, derived using a multivariate statistical approach, are biophysically meaningful subdivisions of the ocean floor and can be expected to contain different biological associations, in as much as different geomorphological units do the same. Less than 20% of some seascapes occur in the high seas while other seascapes are largely confined to the high seas, indicating specific types of environment whose protection and conservation will require international cooperation. Our study illustrates how the identification of potential sites for high seas marine protected areas can be accomplished by a simple GIS analysis of seafloor geomorphic and seascape classification maps. Using this approach, maps of seascape and geomorphic heterogeneity were generated in which heterogeneity hotspots identify themselves as MPA candidates. The use of computer-aided mapping tools removes subjectivity in the MPA design process and provides greater confidence to stakeholders that an unbiased result has been achieved.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 74
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Seascape', 'Marine protected area', 'Pelagic zone', 'Benthic zone', 'Seabed', 'Geography', 'Oceanography', 'Bathymetry', 'Fishery', 'Environmental science', 'Physical geography', 'Geology', 'Cartography', 'Ecology', 'Habitat', 'Biology']

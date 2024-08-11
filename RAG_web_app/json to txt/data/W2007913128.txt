@@ -1,0 +1,12 @@
+ID: W2007913128
+TITLE: Paucity of mobile species on constructed seawalls: effects of urbanization on biodiversity
+AUTHOR: ['M. G. Chapman']
+ABSTRACT:
+Intertidal seawalls are increasingly being built in urban estuaries, fragmenting and replacing natural intertidal shores.Many species of animals and plants live on seawalls.Previous work in Sydney Harbour has shown that common species live on seawalls and rocky shores, but vary in their relative abundances according to height on the shore and location.The potential value of seawalls to provide viable intertidal habitat will depend on their ability to support the full diversity of intertidal species, including those that are relatively rare.This study examines the diversity of animals and plants at 2 heights on rocky shore and seawalls, at 4 locations in Sydney Harbour, using presence/absence measures in an intensive sampling schedule in each habitat.The total number and types of taxa found were very variable within and among locations, but clear patterns arose when the data were combined (800 quadrats in each habitat).With few exceptions, algae and sessile animals were similarly distributed across habitats, but approximately 50% of the mobile animals were not found on seawalls.In addition, rocky shores had a greater proportion of rare taxa (only found in 1 or very few quadrats).Of the shared taxa, patterns of occurrence were similar on the 2 structures.Potential reasons for these patterns are discussed and ways to improve seawalls as a habitat for mobile animals are proposed.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2003/264/m264p021.pdf
+CITED BY COUNT: 245
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Intertidal zone', 'Ecology', 'Biodiversity', 'Rocky shore', 'Habitat', 'Geography', 'Shore', 'Tide pool', 'Quadrat', 'Coastal management', 'Fishery', 'Biology', 'Shrub', 'Environmental planning']

@@ -1,0 +1,12 @@
+ID: W1923653053
+TITLE: Marine-Based Nutraceuticals: An Innovative Trend in the Food and Supplement Industries
+AUTHOR: ['Hafiz Ansar Rasul Suleria', 'Simone A. Osborne', 'Paul P. Masci', 'Glenda C. Gobé']
+ABSTRACT:
+Recent trends in functional foods and supplements have demonstrated that bioactive molecules play a major therapeutic role in human disease.Nutritionists and biomedical and food scientists are working together to discover new bioactive molecules that have increased potency and therapeutic benefits.Marine life constitutes almost 80% of the world biota with thousands of bioactive compounds and secondary metabolites derived from marine invertebrates such as tunicates, sponges, molluscs, bryozoans, sea slugs and many other marine organisms.These bioactive molecules and secondary metabolites possess antibiotic, antiparasitic, antiviral, anti-inflammatory, antifibrotic and anticancer activities.They are also inhibitors or activators of critical enzymes and transcription factors, competitors of transporters and sequestrants that modulate various physiological pathways.The current review summaries the widely available marine-based nutraceuticals and recent research carried out for the purposes of isolation, identification and characterization of marine-derived bioactive compounds with various therapeutic potentials.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/13/10/6336/pdf?version=1444815480
+CITED BY COUNT: 174
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Nutraceutical', 'Biology', 'Marine invertebrates', 'Antiparasitic', 'Functional food', 'Biochemistry', 'Ecology', 'Medicine', 'Food science', 'Pathology']

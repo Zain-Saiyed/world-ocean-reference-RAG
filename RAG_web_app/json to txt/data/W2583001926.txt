@@ -1,0 +1,12 @@
+ID: W2583001926
+TITLE: Ice sheets as a missing source of silica to the polar oceans
+AUTHOR: ['Jon R. Hawkings', 'Jemma L. Wadham', 'Liane G. Benning', 'Allyson C. Tessin', 'Martyn Tranter', 'Andrew Tedstone', 'Peter Nienow', 'R. Raiswell']
+ABSTRACT:
+Ice sheets play a more important role in the global silicon cycle than previously appreciated. Input of dissolved and amorphous particulate silica into natural waters stimulates the growth of diatoms. Here we measure dissolved and amorphous silica in Greenland Ice Sheet meltwaters and icebergs, demonstrating the potential for high ice sheet export. Our dissolved and amorphous silica flux is 0.20 (0.06-0.79) Tmol year-1, ∼50% of the input from Arctic rivers. Amorphous silica comprises >95% of this flux and is highly soluble in sea water, as indicated by a significant increase in dissolved silica across a fjord salinity gradient. Retreating palaeo ice sheets were therefore likely responsible for high dissolved and amorphous silica fluxes into the ocean during the last deglaciation, reaching values of ∼5.5 Tmol year-1, similar to the estimated export from palaeo rivers. These elevated silica fluxes may explain high diatom productivity observed during the last glacial-interglacial period.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms14198.pdf
+CITED BY COUNT: 119
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biogenic silica', 'Deglaciation', 'Diatom', 'Meltwater', 'Oceanography', 'Geology', 'Arctic', 'Dissolved silica', 'Ice sheet', 'Environmental science', 'Salinity', 'Amorphous solid', 'Greenland ice sheet', 'Glacial period', 'Chemistry', 'Geomorphology', 'Dissolution', 'Holocene', 'Organic chemistry', 'Physical chemistry']

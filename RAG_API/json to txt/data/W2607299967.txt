@@ -1,0 +1,12 @@
+ID: W2607299967
+TITLE: Resilience of benthic deep-sea fauna to mining activities
+AUTHOR: ['Sabine Gollner', 'Stefanie Kaiser', 'Lena Menzel', 'Daniel O. B. Jones', 'Alastair Brown', 'Nélia C. Mestre', 'Dick van Oevelen', 'Lénaïck Menot', 'Ana Colaço', 'Miquel Canals', 'Daphné Cuvelier', 'Jennifer M. Durden', 'Andrey Gebruk', 'Great Egho', 'Matthias Haeckel', 'Yann Marcon', 'Lisa Mevenkamp', 'Telmo Morato', 'Christopher K. Pham', 'Autun Purser', 'Anna Sánchez‐Vidal', 'Ann Vanreusel', 'Αnnemiek Vink', 'Pedro Martínez Arbizu']
+ABSTRACT:
+With increasing demand for mineral resources, extraction of polymetallic sulphides at hydrothermal vents, cobalt-rich ferromanganese crusts at seamounts, and polymetallic nodules on abyssal plains may be imminent. Here, we shortly introduce ecosystem characteristics of mining areas, report on recent mining developments, and identify potential stress and disturbances created by mining. We analyze species' potential resistance to future mining and perform meta-analyses on population density and diversity recovery after disturbances most similar to mining: volcanic eruptions at vents, fisheries on seamounts, and experiments that mimic nodule mining on abyssal plains. We report wide variation in recovery rates among taxa, size, and mobility of fauna. While densities and diversities of some taxa can recover to or even exceed pre-disturbance levels, community composition remains affected after decades. The loss of hard substrata or alteration of substrata composition may cause substantial community shifts that persist over geological timescales at mined sites.
+
+SOURCE: Marine environmental research
+PDF URL: None
+CITED BY COUNT: 232
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seamount', 'Abyssal plain', 'Abyssal zone', 'Benthic zone', 'Fauna', 'Hydrothermal vent', 'Volcano', 'Oceanography', 'Ecology', 'Ecosystem', 'Disturbance (geology)', 'Habitat', 'Population', 'Geology', 'Environmental science', 'Biology', 'Geochemistry', 'Paleontology', 'Hydrothermal circulation', 'Structural basin', 'Demography', 'Sociology']

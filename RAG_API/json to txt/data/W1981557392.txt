@@ -1,0 +1,12 @@
+ID: W1981557392
+TITLE: Social licence and mining: A critical perspective
+AUTHOR: ['John R. Owen', 'Deanna Kemp']
+ABSTRACT:
+In 2002 the International Institute of Environment and Development published the landmark report Breaking New Ground: Mining, Minerals and Sustainable Development (MMSD). The report portrayed an industry distrusted by stakeholders and under threat from opposition groups. When read closely, the MMSD report reveals an inextricable link between industry's ‘survival’ instincts and the notion of a social licence. Within the context of a growing divergence around the expectations of minerals-led development, social licence has emerged as an industry response to opposition and a mechanism to ensure the viability of the sector. The objective of this article is to reinvigorate discussion and debate over how best to frame the industry's social and environmental obligations and how these obligations can be met by the sector. Where social licence has contributed to raising the profile of social issues within a predominantly industrial discourse, a primary failure is its inability to articulate a collaborative developmental agenda for the sector or a pathway forward in restoring the lost confidence of impacted communities, stakeholders, and pressure groups. We argue that a necessary first step in this process is for industry to reconcile its internal risk-orientation with external expectations which requires a less defensive and more constructive approach to stakeholder engagement and collaboration.
+
+SOURCE: Resources policy
+PDF URL: None
+CITED BY COUNT: 497
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Opposition (politics)', 'Stakeholder', 'Instinct', 'Constructive', 'Public relations', 'Sustainability', 'Environmental ethics', 'Business', 'Political science', 'Sociology', 'Process (computing)', 'Law', 'Ecology', 'Politics', 'Computer science', 'Philosophy', 'Biology', 'Operating system']

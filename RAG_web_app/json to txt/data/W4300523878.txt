@@ -1,0 +1,12 @@
+ID: W4300523878
+TITLE: The Biology of Mangroves and Seagrasses
+AUTHOR: ['Peter J. Hogarth']
+ABSTRACT:
+Abstract Mangroves and seagrasses form extensive and highly productive ecosystems that are biologically diverse and economically valuable. This new edition provides an introduction to all aspects of the biology and ecology of mangroves and seagrasses, using a global range of examples. It deals with the adaptations of these plants to their exacting environment, the rich and diverse communities of organisms that depend on mangrove forests and seagrass meadows (including tree-climbing crabs, marine ants, flashing fireflies, and ‘gardening’ seacows), the links between mangroves, seagrasses, and other coastal habitats, the evolution, biodiversity, and biogeography of mangroves and seagrasses, and — an increasingly pressing issue — the impact of climate change. The economic value of mangroves and seagrasses is also discussed, including — with case studies — approaches to rational management of these vital resources. Particular emphasis is placed on the organisms that dominate (and change) these aquatic environments, and their interactions: human impacts, including pollution and overexploitation are also considered.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 151
+PUBLICATION YEAR: 2015
+TYPE: book
+CONCEPTS: ['Mangrove', 'Seagrass', 'Overexploitation', 'Ecology', 'Habitat', 'Biodiversity', 'Ecosystem', 'Mangrove ecosystem', 'Biology', 'Geography']

@@ -1,0 +1,12 @@
+ID: W2599014886
+TITLE: Predicting <i>Sargassum</i> blooms in the Caribbean Sea from MODIS observations
+AUTHOR: ['Mengqiu Wang', 'Chuanmin Hu']
+ABSTRACT:
+Abstract Recurrent and significant Sargassum beaching events in the Caribbean Sea (CS) have caused serious environmental and economic problems, calling for a long‐term prediction capacity of Sargassum blooms. Here we present predictions based on a hindcast of 2000–2016 observations from Moderate Resolution Imaging Spectroradiometer (MODIS), which showed Sargassum abundance in the CS and the Central West Atlantic (CWA), as well as connectivity between the two regions with time lags. This information was used to derive bloom and nonbloom probability matrices for each 1° square in the CS for the months of May–August, predicted from bloom conditions in a hotspot region in the CWA in February. A suite of standard statistical measures were used to gauge the prediction accuracy, among which the user's accuracy and kappa statistics showed high fidelity of the probability maps in predicting both blooms and nonblooms in the eastern CS with several months of lead time, with overall accuracy often exceeding 80%. The bloom probability maps from this hindcast analysis will provide early warnings to better study Sargassum blooms and prepare for beaching events near the study region. This approach may also be extendable to many other regions around the world that face similar challenges and opportunities of macroalgal blooms and beaching events.
+
+SOURCE: Geophysical research letters
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/2017gl072932
+CITED BY COUNT: 85
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Hindcast', 'Sargassum', 'Environmental science', 'Bloom', 'Algal bloom', 'Oceanography', 'Tide gauge', 'Climatology', 'Meteorology', 'Geography', 'Ecology', 'Algae', 'Sea level', 'Phytoplankton', 'Biology', 'Geology', 'Nutrient']

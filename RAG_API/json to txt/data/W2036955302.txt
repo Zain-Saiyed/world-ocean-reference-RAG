@@ -1,0 +1,12 @@
+ID: W2036955302
+TITLE: Importance of estuarine mangroves to juvenile banana prawns
+AUTHOR: ['Marcus Sheaves', 'Ross Johnston', 'Rod M. Connolly', 'Ronald Baker']
+ABSTRACT:
+Offshore catches of banana prawns, Penaeus merguiensis, are correlated with the extent of mangrove forests. However, recent evaluation has questioned whether the apparent relationship between juvenile penaeids and mangroves reflects specific utilisation of mangroves or just the use of shallow, organically rich, muddy habitats. We investigated this by focussing on juvenile P. merguiensis within 30 mangrove estuaries spanning 650 km of the coast of north-eastern Australia. We investigated a range of hierarchically clustered spatial scales and within-estuary spatial resolutions, as well as variables representing a variety of estuary structural factors, anthropogenic impacts, and particular hypotheses about the ways in which mangroves could influence P. merguiensis catch per unit effort (CPUE). Estuary to estuary differences, rather than climatic zone or the proximity of other estuaries, was the major large scale spatial influence on CPUE. At the among-estuaries scale mangrove extent appeared to influence CPUE but was extensively confounded with the effects of two non-mangrove variables; intertidal extent and substrate type. The fact that 3 alternative measures of connectivity with mangrove forests were not influential, points to the importance of the non-mangrove variables rather than mangrove extent. At the within-estuary scale, P. merguiensis CPUE was correlated with the extent of shallow water but not with mangrove variables. The spatial and temporal extent of sampling support a strong conclusion that factors associated with mangroves alone do not drive abundances of juvenile prawns. Nevertheless, despite being the dominant habitat, mangroves are only one of a mosaic of interacting habitats occurring in the tropical estuaries inhabited by juvenile penaeids (Sheaves, 2009), so causal relationships are complex and difficult to define unambiguously.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Mangrove', 'Estuary', 'Intertidal zone', 'Fishery', 'Habitat', 'Seagrass', 'Ecology', 'Aerial root', 'Catch per unit effort', 'Geography', 'Ocypodidae', 'Juvenile fish', 'Environmental science', 'Juvenile', 'Abundance (ecology)', 'Biology', 'Decapoda', 'Crustacean']

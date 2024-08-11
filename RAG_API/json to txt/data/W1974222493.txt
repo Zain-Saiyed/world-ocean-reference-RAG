@@ -1,0 +1,12 @@
+ID: W1974222493
+TITLE: Hadal trenches: the ecology of the deepest places on Earth
+AUTHOR: ['Alan J. Jamieson', 'Toyonobu Fujii', 'Daniel J. Mayor', 'Martin Solan', 'Imants G. Priede']
+ABSTRACT:
+Hadal trenches account for the deepest 45% of the oceanic depth range and host active and diverse biological communities. Advances in our understanding of hadal community structure and function have, until recently, relied on technologies that were unable to document ecological information. Renewed international interest in exploring the deepest marine environment on Earth provides impetus to re-evaluate hadal community ecology. We review the abiotic and biotic characteristics of trenches and offer a contemporary perspective of trench ecology. The application of existing, rather than the generation of novel, ecological theory offers the best prospect of understanding deep ocean ecology.
+
+SOURCE: Trends in ecology & evolution
+PDF URL: None
+CITED BY COUNT: 297
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Ecology', 'Abiotic component', 'Functional ecology', 'Biology', 'Ecosystem']

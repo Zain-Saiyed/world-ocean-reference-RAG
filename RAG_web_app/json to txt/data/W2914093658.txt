@@ -1,0 +1,12 @@
+ID: W2914093658
+TITLE: Ocean recoveries for tomorrow’s Earth: Hitting a moving target
+AUTHOR: ['Kurt E. Ingeman', 'Jameal F. Samhouri', 'Adrian C. Stier']
+ABSTRACT:
+Growing scientific awareness, strong regulations, and effective management have begun to fulfill the promise of recovery in the ocean. However, many efforts toward ocean recovery remain unsuccessful, in part because marine ecosystems and the human societies that depend upon them are constantly changing. Furthermore, recovery efforts are embedded in marine social-ecological systems where large-scale dynamics can inhibit recovery. We argue that the ways forward are to (i) rethink an inclusive definition of recovery that embraces a diversity of stakeholder perspectives about acceptable recovery goals and ecosystem outcomes; (ii) encourage research that enables anticipation of feasible recovery states and identifies pathways toward resilient ecosystems; and (iii) adopt policies that are sufficiently nimble to keep pace with rapid change and governance that works seamlessly from local to regional scales. Application of these principles can facilitate successful recoveries in a world where environmental conditions and social imperatives are constantly shifting.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/363/6425/eaav1004.full.pdf
+CITED BY COUNT: 44
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Earth system science', 'Ecosystem', 'Population', 'Environmental science', 'Environmental resource management', 'Dual (grammatical number)', 'Sustainable development', 'Oceanography', 'Earth science', 'Natural resource economics', 'Computer science', 'Geology', 'Ecology', 'Biology', 'Sociology', 'Economics', 'Art', 'Demography', 'Literature']

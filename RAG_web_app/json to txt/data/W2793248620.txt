@@ -1,0 +1,12 @@
+ID: W2793248620
+TITLE: Operationalizing an ecosystem approach to small-scale fisheries in developing countries: The case of Uruguay
+AUTHOR: ['Ignacio Gianelli', 'Sebastián Horta', 'Gastón Martínez', 'Andrés de la Rosa', 'Omar Defeo']
+ABSTRACT:
+Small-scale fisheries (SSFs) constitute a critical socioeconomic sector by providing a source of income and animal protein for fishing communities worldwide. In Uruguay this sector has traditionally been neglected. More recently, the Uruguayan government has shown an increasing interest in readdressing this situation by setting a high-level policy for SSFs. This paper addresses the long-term process from conceptualization to operationalization of the Ecosystem Approach to Fisheries (EAF) in Uruguayan SSFs. An overview of the social-ecological enabling conditions that facilitated EAF operationalization across four pilot sites is also provided. Long-term results showed that the intrinsic characteristics of each fishery conditioned the goals achieved. Fishery systems with more favorable enabling conditions served as starting points for operationalizing an EAF strategy. By contrast, SSFs with historical conflicts of use and a complex relationship between the fisheries management agency and fishing communities are still challenging. These results were used as learning platforms to strength and enhance the normative framework regarding management of SSFs. Progresses in EAF implementation at pilot sites have provided initial building blocks for scaling practices to other Uruguayan SSFs. The translation of processes and results into the long-term fishery policy allowed establishing an appropriate legal basis for further EAF development at a national level. Despite the above, long-term political will is critical for sustaining responsible fishing practices and the involvement of fishers as stewardships of their own activity.
+
+SOURCE: Marine policy
+PDF URL: http://manuscript.elsevier.com/S0308597X18300101/pdf/S0308597X18300101.pdf
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Operationalization', 'Fishing', 'Fisheries management', 'Fishery', 'Business', 'Scale (ratio)', 'Government (linguistics)', 'Environmental resource management', 'Environmental planning', 'Geography', 'Political science', 'Economics', 'Biology', 'Philosophy', 'Linguistics', 'Cartography', 'Epistemology']

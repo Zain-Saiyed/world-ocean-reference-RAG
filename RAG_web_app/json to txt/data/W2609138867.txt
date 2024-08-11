@@ -1,0 +1,12 @@
+ID: W2609138867
+TITLE: Ecosystem‐Based Fisheries Management for Social–Ecological Systems: Renewing the Focus in the United States with <i>Next Generation</i> Fishery Ecosystem Plans
+AUTHOR: ['Kristin N. Marshall', 'Phillip S. Levin', 'Timothy E. Essington', 'Laura E. Koehn', 'Lee G. Anderson', 'Alida Bundy', 'Courtney Carothers', 'Felicia C. Coleman', 'Leah R. Gerber', 'Jonathan H. Grabowski', 'Edward D. Houde', 'Olaf P. Jensen', 'Christian Möllmann', 'Kenneth A. Rose', 'James N. Sanchirico', 'Anthony D. M. Smith']
+ABSTRACT:
+Abstract Resource managers and policy makers have long recognized the importance of considering fisheries in the context of ecosystems; yet, movement towards widespread Ecosystem‐based Fisheries Management (EBFM) has been slow. A conceptual reframing of fisheries management is occurring globally, which envisions fisheries as systems with interacting biophysical and human subsystems. This broader view, along with a process for decision making, can facilitate implementation of EBFM. A pathway to achieve these broadened objectives of EBFM in the United States is a Fishery Ecosystem Plan (FEP). The first generation of FEPs was conceived in the late 1990s as voluntary guidance documents that Regional Fishery Management Councils could adopt to develop and guide their ecosystem‐based fisheries management decisions, but few of these FEPs took concrete steps to implement EBFM. Here, we emphasize the need for a new generation of FEPs that provide practical mechanisms for putting EBFM into practice in the United States. We argue that next‐generation FEPs can balance environmental, economic, and social objectives—the triple bottom line—to improve long‐term planning for fishery systems.
+
+SOURCE: Conservation letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/conl.12367
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Fisheries management', 'Ecosystem', 'Context (archaeology)', 'Business', 'Cognitive reframing', 'Environmental resource management', 'Fisheries science', 'Resource (disambiguation)', 'Fisheries law', 'Ecosystem management', 'Resource management (computing)', 'Fishery', 'Fishing', 'Ecology', 'Environmental science', 'Geography', 'Computer science', 'Biology', 'Psychology', 'Social psychology', 'Computer network', 'Archaeology']

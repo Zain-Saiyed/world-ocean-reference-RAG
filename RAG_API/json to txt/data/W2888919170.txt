@@ -1,0 +1,12 @@
+ID: W2888919170
+TITLE: Temperature dependency of metabolic rates in the upper ocean: A positive feedback to global climate change?
+AUTHOR: ['Flavia Boscolo Galazzo', 'Katherine Crichton', 'Stephen Barker', 'Paul N. Pearson']
+ABSTRACT:
+The temperature of seawater can affect marine plankton in various ways, including by affecting rates of metabolic processes. This can change the way carbon and nutrients are fixed and recycled and hence the chemical and biological profile of the water column. A variety of feedbacks on global climate are possible, especially by altering patterns of uptake and return of carbon dioxide to the atmosphere. Here we summarize and synthesize recent studies in the field of ecology, oceanography and ocean carbon cycling pertaining to possible feedbacks involving metabolic processes. By altering the rates of cellular growth and respiration, temperature-dependency may affect nutrient uptake and food demand in plankton and ultimately the equilibrium of pelagic food webs, with cascade effects on the flux of organic carbon between the upper and inner ocean (the “biological carbon pump”) and the global carbon cycle. Insights from modern ecology can be applied to investigate how temperature-dependent changes in ocean biogeochemical cycling over thousands to millions of years may have shaped the long-term evolution of Earth's climate and life. Investigating temperature-dependency over geological time scales, including through globally warm and cold climate states, can help to identify processes that are relevant for a variety of future scenarios.
+
+SOURCE: Global and planetary change
+PDF URL: None
+CITED BY COUNT: 73
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Environmental science', 'Carbon cycle', 'Pelagic zone', 'Plankton', 'Climate change', 'Biogeochemical cycle', 'Effects of global warming on oceans', 'Global warming', 'Water column', 'Ecology', 'Ocean acidification', 'Oceanography', 'Global change', 'Nutrient cycle', 'Phytoplankton', 'Nutrient', 'Ecosystem', 'Biology', 'Geology']

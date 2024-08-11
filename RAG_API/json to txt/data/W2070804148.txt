@@ -1,0 +1,12 @@
+ID: W2070804148
+TITLE: Dissociation of Cascadia margin gas hydrates in response to contemporary ocean warming
+AUTHOR: ['Susan Hautala', 'Evan A. Solomon', 'H. Paul Johnson', 'Robert N. Harris', 'Una Kim Miller']
+ABSTRACT:
+Abstract Gas hydrates, pervasive in continental margin sediments, are expected to release methane in response to ocean warming, but the geographic range of dissociation and subsequent flux of methane to the ocean are not well constrained. Sediment column thermal models based on observed water column warming trends offshore Washington (USA) show that a substantial volume of gas hydrate along the entire Cascadia upper continental slope is vulnerable to modern climate change. Dissociation along the Washington sector of the Cascadia margin alone has the potential to release 45–80 Tg of methane by 2100. These results highlight the importance of lower latitude warming to global gas hydrate dynamics and suggest that contemporary warming and downslope retreat of the gas hydrate reservoir occur along a larger fraction of continental margins worldwide than previously recognized.
+
+SOURCE: Geophysical research letters
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/2014gl061606
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Clathrate hydrate', 'Methane', 'Continental margin', 'Geology', 'Submarine pipeline', 'Continental shelf', 'Oceanography', 'Effects of global warming on oceans', 'Global warming', 'Climate change', 'Earth science', 'Environmental science', 'Hydrate', 'Paleontology', 'Tectonics', 'Chemistry', 'Organic chemistry']

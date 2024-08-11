@@ -1,0 +1,12 @@
+ID: W2803721248
+TITLE: Assessment of post-harvest fish losses Croaker Pseudotolithus elongatus, (Bowdich, 1825), Catfish Arius heudeloti, (Valenciennes, 1840) and Shrimp Nematopalaemon hastatus (Aurivillius, 1898) in Ondo State, Nigeria
+AUTHOR: ['Olusumbo Adeolu Adelaja', 'Roslina Kamaruddin', 'Wen Chiat Lee']
+ABSTRACT:
+The study assess post-harvest fish losses among three (3) dominant marine fish species along coastal areas of Ondo State, Nigeria. Simple random sampling was used to select 100 fishermen from 5 viable fishing communities along coastal areas of Ondo State while questionnaire was used for data collection. Descriptive statistics shows that small-scale fishing is dominated by males with mean age of 39 years. The fishermen incurred average post-harvest fish losses of 8.15% for croaker, 7.76% for catfish and 7.57% for shrimp respectively. Causes of post-harvest fish losses in the study area includes lengthy duration of fishing cycle, poor handling practices, lack of covering facilities, failure to use ice, lack of storage facilities and lack of good means of transportation. Regression model revealed a statistical significant relationship (P < 0.05) with age, educational level, fishing experience, duration of fishing cycle, storage and transportation facilities against percentage fish losses (Croaker: Pseudotolithus elongatus, Catfish: Arius heudeloti and Shrimp: Nematopalaemon hastatus). In order to ensure food security, post-harvest fish losses needs to be reduced to the barest minimum. Government should provide adequate infrastructural facilities to the small-scale fisheries sector in order to improve their standard of living and increase their income level.
+
+SOURCE: Aquaculture and fisheries
+PDF URL: None
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishing', 'Fishery', 'Shrimp', 'Catfish', 'Geography', 'Fish <Actinopterygii>', 'Biology']

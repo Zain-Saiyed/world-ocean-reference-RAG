@@ -1,0 +1,12 @@
+ID: W2739873983
+TITLE: Are mangroves in Victoria (south-eastern Australia) already responding to climate change?
+AUTHOR: ['Paul I. Boon']
+ABSTRACT:
+The distribution and productivity of mangroves is directly affected by a wide range of climatic drivers, including temperature, frost, rainfall, evaporation and storm activity, which, in turn, influence a suite of secondary drivers, including changes in freshwater run-off and sediment supply, groundwater dynamics and inter-species competitiveness. The highest-latitude expression of mangroves globally is at Millers Landing, Victoria (38°45′S), and because the vigour and productivity of mangroves across much of Victoria is thought to be limited by low winter temperatures and the incidence and severity of frosts, it is likely that mangroves will be among the first plant communities to be affected by climate change in coastal south-eastern Australia. An increase in plant vigour is likely, but there are almost no historical data with which to compare current rates of primary production. An extension of mangroves to higher latitudes on the mainland is impossible because of the geomorphology of the land that lies further to the south. Small-scale changes in distribution, including the progressive encroachment of mangroves into coastal saltmarsh, are likely to be among the clearest indications of the response of mangroves to a warming climate. Increased effort into tracking changes in mangrove vigour, productivity and distribution is clearly warranted.
+
+SOURCE: Marine and freshwater research
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Mangrove', 'Climate change', 'Productivity', 'Geography', 'Ecology', 'Latitude', 'Environmental science', 'Biology', 'Geodesy', 'Economics', 'Macroeconomics']

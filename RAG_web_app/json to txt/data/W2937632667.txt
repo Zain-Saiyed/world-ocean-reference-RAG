@@ -1,0 +1,12 @@
+ID: W2937632667
+TITLE: Thirty years of leatherback turtle Dermochelys coriacea nesting in Espírito Santo, Brazil, 1988-2017: reproductive biology and conservation
+AUTHOR: ['Liliana P. Colman', 'João C. A. Thomé', 'Antônio de Pádua Almeida', 'Cecília Baptistotte', 'Paulo C. R. Barata', 'Annette C. Broderick', 'Flávia Ribeiro', 'Lucas Vila-Verde', 'Brendan J. Godley']
+ABSTRACT:
+In the southwestern Atlantic Ocean, leatherback turtles Dermochelys coriacea are only known to regularly nest in eastern Brazil, on the coast of the state of Espírito Santo.Here, we present an analysis of the nesting ecology, population trends and conservation status of this leatherback turtle colony between 1988 and 2017.We observed an increasing, although variable, trend in the annual number of nests, with the mean increasing from 25.6 nests in the first 5 yr of the study to 89.8 in the last 5 yr.Concurrently, there was also a significant decrease in the mean curved carapace length of the population, which we hypothesize was caused by recruitment of new females to the nesting population.Throughout the study period, nests were concentrated in the southern part of the 160 km long study area.No change was observed in the annual median nesting date.Mean annual hatching success was 66.0% and no significant variation in hatching success was detected after a major spill of mining tailings into the nesting area in 2015.We postulate that local conservation actions that started in the 1980s have contributed to the gentle recovery of this population; however, given the small population size and restricted nesting geographical distribution alongside the persistence of various threats -fisheries bycatch, climate change, pollution and coastal development -this population continues to be of conservation concern.
+
+SOURCE: Endangered species research
+PDF URL: https://www.int-res.com/articles/esr2019/39/n039p147.pdf
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Turtle (robot)', 'Carapace', 'Population', 'Geography', 'Nest (protein structural motif)', 'Endangered species', 'Ecology', 'Fishery', 'Biology', 'Demography', 'Habitat', 'Crustacean', 'Biochemistry', 'Sociology']

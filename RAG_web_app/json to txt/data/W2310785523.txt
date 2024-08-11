@@ -1,0 +1,12 @@
+ID: W2310785523
+TITLE: Megafaunal Impacts on Structure and Function of Ocean Ecosystems
+AUTHOR: ['James A. Estes', 'Michael R. Heithaus', 'Douglas J. McCauley', 'Douglas B. Rasher', 'Boris Worm']
+ABSTRACT:
+Here, we identify the extant species of marine megafauna (&gt;45 kg maximum reported mass), provide a conceptual template for the ways in which these species influence the structure and function of ocean ecosystems, and review the published evidence for such influences. Ecological influences of more than 90% of the 338 known species of extant ocean megafauna are unstudied and thus unknown. The most widely known effect of those few species that have been studied is direct prey limitation, which occurs through consumption and risk avoidance behavior. Consumer-prey interactions result in indirect effects that extend through marine ecosystems to other species and ecological processes. Marine megafauna transport energy, nutrients, and other materials vertically and horizontally through the oceans, often over long distances. The functional relationships between these various ecological impacts and megafauna population densities, in the few well-studied cases, are characterized by phase shifts and hysteresis.
+
+SOURCE: Annual review of environment and resources
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-environ-110615-085622
+CITED BY COUNT: 153
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Megafauna', 'Marine ecosystem', 'Ecology', 'Ecosystem', 'Extant taxon', 'Population', 'Habitat', 'Biology', 'Geography', 'Environmental science', 'Pleistocene', 'Paleontology', 'Demography', 'Evolutionary biology', 'Sociology']

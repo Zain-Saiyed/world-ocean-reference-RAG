@@ -1,0 +1,12 @@
+ID: W2933643806
+TITLE: Individual and Population Level Variation in the Reproductive Potential of Deep-Sea Corals From Different Regions Within the Gulf of Maine
+AUTHOR: ['C. Tyler Fountain', 'Rhian G. Waller', 'Peter J. Auster']
+ABSTRACT:
+Deep-sea corals are of conservation concern in the North Atlantic due to prolonged disturbances associated with the exploitation of natural resources and a changing environment. As a result, two research cruises in the Gulf of Maine region during 2014 and 2017 collected samples of two locally dominant coral species, Primnoa resedaeformis and Paramuricea placomus, at six locations to investigate reproductive ecology. Remotely operated vehicles (ROVs) were used to collect specimens that were examined via paraffin histology, and coincident video surveys were used to determine size class distributions. Both species were identified as gonochoristic, and sampled locations exhibited dissimilarities in spermatocyst development and oocyte size except for those in close geographic proximity. Fecundities exhibited substantial ranges across sample locations and average oocyte sizes ( SD) were 140  117 m for P. resedaeformis and 64  46 m for P. placomus. In addition, colony size distributions were also significantly different across sampling locations. Notably, the Outer Schoodic Ridge sample location, with larger colony and oocyte sizes, was identified as a potential key source population of reproductive material in the Gulf of Maine. These data were used to calculate differences in reproductive potential based on relationships between colony morphology and reproductive output using height as a predictive proxy. Furthermore, calculated age at first reproduction, 7.6-19.8 years for P. resedaeformis and 20.7-37 years for P. placomus, which may be dependent on sex of the colony, provides a metric for estimating the amount of time these coral habitats will take to recover. This investigation, in response to historical population impacts and environmental change, links reproductive and morphometric relationships to inform population scale reproductive models, while also establishing an understanding of regional scale gametogenic variability within the Gulf of Maine region.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00172/pdf
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coral', 'Biology', 'Population', 'Ecology', 'Habitat', 'Oceanography', 'Fishery', 'Geography', 'Zoology', 'Geology', 'Demography', 'Sociology']

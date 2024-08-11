@@ -1,0 +1,12 @@
+ID: W2016728854
+TITLE: Accelerating Invasion Rate in a Highly Invaded Estuary
+AUTHOR: ['A. N. Cohen', 'James T. Carlton']
+ABSTRACT:
+Biological invasions are a major global environmental and economic problem. Analysis of the San Francisco Bay and Delta ecosystem revealed a large number of exotic species that dominate many habitats in terms of number of species, number of individuals and biomass, and a high and accelerating rate of invasion. These factors suggest that this may be the most invaded estuary in the world. Possible causes include a large number and variety of transport vectors, a depauperate native biota, and extensive natural and anthropogenic disturbance.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 1075
+PUBLICATION YEAR: 1998
+TYPE: article
+CONCEPTS: ['Estuary', 'Biota', 'Introduced species', 'Habitat', 'Ecology', 'Ecosystem', 'Bay', 'Invasive species', 'Biomass (ecology)', 'Disturbance (geology)', 'Environmental science', 'Biology', 'Geography', 'Oceanography', 'Geology', 'Paleontology']

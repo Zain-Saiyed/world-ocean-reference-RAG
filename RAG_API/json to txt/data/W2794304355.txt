@@ -1,0 +1,12 @@
+ID: W2794304355
+TITLE: Impacts of the Deepwater Horizon oil spill evaluated using an end-to-end ecosystem model
+AUTHOR: ['Cameron H. Ainsworth', 'Claire B. Paris', 'Natalie Perlin', 'Lindsey N. Dornberger', 'William F. Patterson', 'Emily Chancellor', 'Steven A. Murawski', 'David J. Hollander', 'Kendra L. Daly', 'Isabel C. Romero', 'Felicia C. Coleman', 'Holly A. Perryman']
+ABSTRACT:
+We use a spatially explicit biogeochemical end-to-end ecosystem model, Atlantis, to simulate impacts from the Deepwater Horizon oil spill and subsequent recovery of fish guilds. Dose-response relationships with expected oil concentrations were utilized to estimate the impact on fish growth and mortality rates. We also examine the effects of fisheries closures and impacts on recruitment. We validate predictions of the model by comparing population trends and age structure before and after the oil spill with fisheries independent data. The model suggests that recruitment effects and fishery closures had little influence on biomass dynamics. However, at the assumed level of oil concentrations and toxicity, impacts on fish mortality and growth rates were large and commensurate with observations. Sensitivity analysis suggests the biomass of large reef fish decreased by 25% to 50% in areas most affected by the spill, and biomass of large demersal fish decreased even more, by 40% to 70%. Impacts on reef and demersal forage caused starvation mortality in predators and increased reliance on pelagic forage. Impacts on the food web translated effects of the spill far away from the oiled area. Effects on age structure suggest possible delayed impacts on fishery yields. Recovery of high-turnover populations generally is predicted to occur within 10 years, but some slower-growing populations may take 30+ years to fully recover.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0190840&type=printable
+CITED BY COUNT: 87
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Forage fish', 'Biomass (ecology)', 'Demersal zone', 'Environmental science', 'Fishery', 'Pelagic zone', 'Demersal fish', 'Ecosystem', 'Deepwater horizon', 'Reef', 'Fishing', 'Population', 'Coral reef fish', 'Trophic level', 'Marine ecosystem', 'Forage', 'Population dynamics of fisheries', 'Ecology', 'Biology', 'Fish <Actinopterygii>', 'Oil spill', 'Environmental protection', 'Demography', 'Sociology']

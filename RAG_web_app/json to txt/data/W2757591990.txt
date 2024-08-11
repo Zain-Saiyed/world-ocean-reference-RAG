@@ -1,0 +1,12 @@
+ID: W2757591990
+TITLE: Marine Renewable Energy in the Mediterranean Sea: Status and Perspectives
+AUTHOR: ['Takvor Soukissian', 'Dimitra Denaxa', 'Flora Karathanasi', 'Aristides Prospathopoulos', 'Konstantinos Sarantakos', 'Iona Athanasia', 'Konstantinos Georgantas', 'Spyros A. Mavrakos']
+ABSTRACT:
+In this work, an extended overview of the marine renewable energy in the Mediterranean Sea is provided as regards current status, potential problems, challenges, and perspectives of development. An integrated and holistic approach is necessary for the economic viability and sustainability of marine renewable energy projects; this approach comprises three different frameworks, not always aligned, i.e., geotechnical/engineering, socio-economic, and environmental/ecological frameworks. In this context, the geomorphological, climatological, socio-economic, and environmental/ecological particularities of the Mediterranean basin are discussed, as they constitute key issues of the spatial context in which marine renewable energy projects are to be implemented. General guidelines for the sustainable development of marine renewable energy in the Mediterranean are also provided.
+
+SOURCE: Energies
+PDF URL: https://www.mdpi.com/1996-1073/10/10/1512/pdf?version=1506839850
+CITED BY COUNT: 103
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Renewable energy', 'Sustainability', 'Context (archaeology)', 'Environmental resource management', 'Mediterranean sea', 'Work (physics)', 'Mediterranean climate', 'Sustainable development', 'Marine spatial planning', 'Environmental planning', 'Environmental science', 'Environmental protection', 'Natural resource economics', 'Geography', 'Ecology', 'Engineering', 'Economics', 'Mechanical engineering', 'Archaeology', 'Biology']

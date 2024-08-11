@@ -1,0 +1,12 @@
+ID: W3013734830
+TITLE: Global Patterns in Marine Sediment Carbon Stocks
+AUTHOR: ['Trisha B. Atwood', 'Andrew Witt', 'Juan Mayorga', 'Edd Hammill', 'Enric Sala']
+ABSTRACT:
+To develop more accurate global carbon (C) budgets and to better inform management of human activities in the ocean, we need high-resolution estimates of marine C stocks. Here we quantify global marine sedimentary C stocks at a 1-km resolution, and find that marine sediments store 2322 (2239–2391) Pg C in the top 1 m (nearly twice that of terrestrial soils). Sediments in abyss/basin zones account for 79% of the global marine sediment C stock, and 49% of that stock is within the 200-mile Exclusive Economic Zones of countries. Currently, only ∼2% of sediment C stocks are located in highly to fully protected areas that prevent the disturbance of the seafloor. Our results show that marine sediments represent a large and globally important C sink. However, the lack of protection for marine C stocks makes them highly vulnerable to human disturbances that can lead to their remineralization to CO 2 , further aggravating climate change impacts.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2020.00165/pdf
+CITED BY COUNT: 102
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Environmental science', 'Stock (firearms)', 'Sediment', 'Oceanography', 'Carbon sink', 'Climate change', 'Sedimentary rock', 'Sink (geography)', 'Marine ecosystem', 'Ecosystem', 'Geology', 'Ecology', 'Geography', 'Paleontology', 'Cartography', 'Archaeology', 'Biology']

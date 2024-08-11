@@ -1,0 +1,12 @@
+ID: W2944619571
+TITLE: Developing the knowledge base needed to sustainably manage mesopelagic resources
+AUTHOR: ['Manuel Hidalgo', 'Howard I. Browman']
+ABSTRACT:
+Abstract Recent estimates suggest that the mesopelagic zone could contain a total fish biomass of 2-19.5 gigatonnes, roughly equivalent to 100 times the annual catch of all existing fisheries. In addition to the possibility of direct consumption of mesopelagic species, there is interest in their use for fishmeal, as a source of dietary supplements for humans, and to bio-prospect pharmaceuticals. All of this, and the demands for a global food supply that can feed an ever-growing population, has driven interest in the mesopelagic. Thus, accurate quantification of the biomass of mesopelagic resources, their nutritional and genetic composition, their links to other components of the food web, to other oceanic realms and to biological and chemical oceanographic processes and cycles, are the focus of growing research activity. This information is needed to ensure the sustainable management of these resources. In this introduction, we summarize the contributions included in this theme set and provide some “food for thought” on the state-of-the-art in research on the mesopelagic, including identifying the knowledge that must be generated to support its sustainable management (e.g. the effect that extracting significant biomass might have on the pelagic ecosystem and the flow of material and energy through it).
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/76/3/609/31238693/fsz067.pdf
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mesopelagic zone', 'Sustainability', 'Pelagic zone', 'Biomass (ecology)', 'Population', 'Productivity', 'Food web', 'Business', 'Fishery', 'Environmental science', 'Natural resource economics', 'Ecosystem', 'Ecology', 'Biology', 'Economics', 'Demography', 'Macroeconomics', 'Sociology']

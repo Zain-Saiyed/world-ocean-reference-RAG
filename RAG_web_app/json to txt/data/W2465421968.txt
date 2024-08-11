@@ -1,0 +1,12 @@
+ID: W2465421968
+TITLE: Projection of coastal floods in 2050 Jakarta
+AUTHOR: ['Hiroshi Takagi', 'Miguel Esteban', 'Takahito Mikami', 'Daisuke Fujii']
+ABSTRACT:
+The present work projects the extent of coastal floods by the year 2050 in Jakarta, one of the fastest growing megacities in the world, using a coastal hydrodynamic model that considers abnormal high tides, sea-level rise, and land subsidence. The tidal constituents were adjusted in a manner to reproduce the observed tidal record during the extensive coastal floods that took place on November 2007, when it is likely that a La Niña event, the 18.6 year lunar nodal high-tide cycle, and other abnormal tide mechanisms took place simultaneously. The simulations demonstrate that by the middle of this century extensive floods could potentially reach several kilometers inland in Jakarta. Land subsidence is clearly one of the major challenges facing the city, as considering only the influence of sea-level rise indicates that such floods may be limited to within a few hundred meters of the coastline. From 2000 to 2050 the potential flood extent is estimated to increase by 110.5 km2. Land subsidence is responsible for 88% of this increase. The results also indicate that the rate of flood area expansion in the 2025–2050 period would be 3.4 times faster than during the 2000–2025 period, demonstrating a non-linear increase in flood risk with the passage of time.
+
+SOURCE: Urban climate
+PDF URL: None
+CITED BY COUNT: 85
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Flood myth', 'Megacity', 'Subsidence', 'Sea level', 'Coastal flood', 'Period (music)', 'Sea level rise', 'Physical geography', 'Geography', 'Oceanography', 'Environmental science', 'Hydrology (agriculture)', 'Geology', 'Climatology', 'Climate change', 'Paleontology', 'Physics', 'Economy', 'Geotechnical engineering', 'Archaeology', 'Structural basin', 'Acoustics', 'Economics']

@@ -1,0 +1,12 @@
+ID: W1993571161
+TITLE: Anthropogenic pressure on the open ocean: The growth of ship traffic revealed by altimeter data analysis
+AUTHOR: ['Jean Tournadre']
+ABSTRACT:
+Abstract Marine ecosystems are under increasing anthropogenic pressures from marine and terrestrial activities. Ship traffic, the major cause of change in the open ocean, and its temporal evolution are still largely unknown because of lack of data. Altimeter data provide a new powerful tool to detect and monitor the ship traffic through a method of analysis of echo waveform. The archive of seven altimeter missions has been processed to create a two decade database of ship locations. The estimated annual density maps compare well with the ones obtained from Automatic Identification System. The ship traffic analysis shows a global fourfold growth between 1992 and 2012, the largest increase being observed in the Indian Ocean and the Chinese seas reflecting the world trade change. Although mainly concentrated along lanes, the traffic has a direct impact on the atmosphere, e.g., on the growth of tropospheric nitrogen dioxide in the Indian Ocean.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2014GL061786
+CITED BY COUNT: 161
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Altimeter', 'Environmental science', 'Oceanography', 'Marine ecosystem', 'Terrestrial ecosystem', 'Troposphere', 'Ecosystem', 'Meteorology', 'Climatology', 'Geology', 'Geography', 'Ecology', 'Biology']

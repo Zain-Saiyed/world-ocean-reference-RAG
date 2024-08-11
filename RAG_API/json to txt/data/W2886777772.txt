@@ -1,0 +1,12 @@
+ID: W2886777772
+TITLE: The development of coral concretes and their upgrading technologies: A critical review
+AUTHOR: ['Aiguo Wang', 'Bang-Cheng Lyu', 'Zuhua Zhang', 'Kaiwei Liu', 'Haiyan Xu', 'Di Sun']
+ABSTRACT:
+The utilization of locally available raw materials is extremely necessary for the offshore island construction in ocean. Coral can be used as aggregate but is usually light and porous, having rough surface, weak adherence to the attachments and high concentration of sea salts. These characteristics affect the workability, mechanical properties, volume stability and durability of resulting concretes. This review paper discussed the instability of Portland cement hydration products under the ocean environment, the low strength and stiffness of coral aggregates, their large connected porosity and the weak interface microstructure between the cement matrix and coral aggregates. To overcome these problems, such as low grade of strengths, inadequate corrosion resistance and high brittleness, this paper proposed some perspective techniques: modification of coral aggregate, development of new cementitious materials, fiber reinforcement and mix proportion design.
+
+SOURCE: Construction & building materials
+PDF URL: None
+CITED BY COUNT: 113
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Materials science', 'Durability', 'Cementitious', 'Aggregate (composite)', 'Cement', 'Corrosion', 'Microstructure', 'Coral', 'Composite material', 'Brittleness', 'Geology', 'Oceanography']

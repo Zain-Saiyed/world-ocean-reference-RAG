@@ -1,0 +1,12 @@
+ID: W1996945619
+TITLE: An argument for probabilistic coastal hazard assessment: Retrospective examination of practice in New South Wales, Australia
+AUTHOR: ['David Wainwright', 'Roshanka Ranasinghe', 'David P. Callaghan', 'Colin D. Woodroffe', 'Peter J. Cowell', 'Kerrylee Rogers']
+ABSTRACT:
+Determination of coastal hazard lines is a key task for coastal engineers worldwide. While current practice differs from country to country and even within countries, in many coastal hazard assessments three main components of coastline recession are taken into account: episodic recession due to storm erosion, long term recession due to an imbalance in sediment transport, and recession due to sea-level rise. In Australia, the state of New South Wales has a well-established procedure for the definition of coastal hazards that has evolved since the 1970's. Accepted practice in NSW is intentionally conservative, due to uncertainties and a limited understanding of physical processes. This article (i) provides an historical perspective on the development of the established methodology; (ii) discusses the various components of coastal hazard considered, and (iii) examines the way in which these components can be combined. Suggestions are subsequently provided for a way forward that better suits emerging risk-based coastal management/planning frameworks. The article also considers the advantages and practicalities associated with assigning numerical probabilities to hazard lines as part of risk-based coastal management.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Argument (complex analysis)', 'Hazard', 'Probabilistic logic', 'Geography', 'Environmental planning', 'Environmental resource management', 'Statistics', 'Environmental science', 'Medicine', 'Ecology', 'Mathematics', 'Biology', 'Internal medicine']

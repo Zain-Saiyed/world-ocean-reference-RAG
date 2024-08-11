@@ -1,0 +1,12 @@
+ID: W2896452592
+TITLE: Governing the Coastal Commons
+AUTHOR: []
+ABSTRACT:
+Discourses of unprecedented and accelerated human impacts on the earth’s ecosystems underpin increasing scholarship on deliberate and desirable transformations towards sustainability (ISSC and UNESCO, 2013). While transformations in dynamic social-ecological systems are inherently difficult to define and identify, they broadly describe a profound change when existing systems become untenable; a change that recombines existing elements of social-ecological systems in fundamentally novel ways (Walker et al., 2004). Transformations in ecological systems can include changing stability landscapes or fundamental alterations in species composition and biomass (Biggs et al., 2009; McClanahan et al., 2011; Scheffer et al., 2012). In social systems, transformations can lead to restructuring of social institutions, changes in human agency, or new ways of making a living (Chapin et al., 2010). An emerging literature on transformational pathways aims to characterise transformative change and identify its key drivers (e.g. Biggs et al., 2010; Leach et al., 2012; Olsson et al., 2006; Westley et al., 2011). Understanding how to deliberately trigger and navigate such transformations is an important frontier of sustainability science (Brown et al., 2013). In this chapter, we use the case of community-based resource management (CBRM) in the Solomon Islands to contribute a critical social science perspective on navigating social transformations towards sustainability.
+
+SOURCE: Routledge eBooks
+PDF URL: None
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2017
+TYPE: book
+CONCEPTS: ['Commons', 'Environmental resource management', 'Political science', 'Environmental ethics', 'Geography', 'Environmental science', 'Law', 'Philosophy']

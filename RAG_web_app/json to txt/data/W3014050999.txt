@@ -1,0 +1,12 @@
+ID: W3014050999
+TITLE: A new species of turtle-headed sea Snake (Emydocephalus: Elapidae) endemic to Western Australia
+AUTHOR: ['James H. Nankivell', 'Claire Goiran', 'M. Hourston', 'Richard Shine', 'Arne Redsted Rasmussen', 'Vicki A. Thomson', 'Kate L. Sanders']
+ABSTRACT:
+We describe a new species of turtle-headed sea snake Emydocephalus orarius sp. nov. (Elapidae) from Western Australia’s Coral Coast, Pilbara and Kimberley regions. Phylogenetic analysis of mitochondrial markers places the new species as the sister lineage to the two currently recognised species in Emydocephalus: E. annulatus from the Timor Sea reefs and Coral Sea, and E. ijimae from the Ryukyu Islands. Analysis of nuclear SNP data from the new species and E. annulatus from Australia and New Caledonia provides additional independent evidence of their evolutionary distinctiveness. The new taxon is usually morphologically diagnosable from its congeners using a combination of scalation and colour pattern characters, and appears to reach greater total lengths (&gt;1 m in the new species versus typically ~80 cm in E. annulatus/E. ijimae). The new species is known largely from soft-bottomed trawl grounds, unlike E. annulatus and E.ijimae which usually inhabit coral reefs. The discovery of this new species brings the number of sea snake species endemic to Western Australia to six.
+
+SOURCE: Zootaxa
+PDF URL: None
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Biology', 'Elapidae', 'Coral reef', 'Ecology', 'Lineage (genetic)', 'Endemism', 'Zoology', 'Sister group', 'Reef', 'Fishery', 'Phylogenetic tree', 'Clade', 'Biochemistry', 'Gene', 'Venom']

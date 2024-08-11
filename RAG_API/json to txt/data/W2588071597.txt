@@ -1,0 +1,12 @@
+ID: W2588071597
+TITLE: Seagrass ecosystems reduce exposure to bacterial pathogens of humans, fishes, and invertebrates
+AUTHOR: ['Joleah B. Lamb', 'Jeroen A. J. M. van de Water', 'David G. Bourne', 'Craig Altier', 'Margaux Y. Hein', 'Evan A. Fiorenza', 'Nur Abu', 'Jamaluddin Jompa', 'C. Drew Harvell']
+ABSTRACT:
+Missing meadows fail to mop up microbes Seagrass meadows, a prominent feature of most healthy coastal ecosystems, are often also associated with shallow coral reefs. Many plants have bioremediation qualities, and seagrasses, of which there are 60 or so species, produce natural biocides. Lamb et al. found that the seagrass meadows of inhabited atolls near Sulawesi, Indonesia, ameliorated seawater pollution from human-origination bacteria. This effect extended to potential pathogens of marine invertebrates and fish: Reefs fringing the seagrass meadows showed significantly less impact from coral and fish disease. Science , this issue p. 731
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 319
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seagrass', 'Coral reef', 'Invertebrate', 'Ecosystem', 'Ecology', 'Biology', 'Marine ecosystem', 'Reef', 'Coral', 'Fishery', 'Marine habitats', 'Aquaculture of coral', 'Environmental science', 'Habitat']

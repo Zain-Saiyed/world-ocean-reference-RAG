@@ -1,0 +1,12 @@
+ID: W2755667069
+TITLE: Response of Tropical Cyclone Activity and Structure to Global Warming in a High-Resolution Global Nonhydrostatic Model
+AUTHOR: ['Yohei Yamada', 'Masaki Satoh', 'Masato Sugi', 'Chihiro Kodama', 'Akira Noda', 'Masuo Nakano', 'Tomoe Nasuno']
+ABSTRACT:
+Future changes in tropical cyclone (TC) activity and structure are investigated using the outputs of a 14-km mesh climate simulation. A set of 30-yr simulations was performed under present-day and warmer climate conditions using a nonhydrostatic icosahedral atmospheric model with explicitly calculated convection. The model projected that the global frequency of TCs is reduced by 22.7%, the ratio of intense TCs is increased by 6.6%, and the precipitation rate within 100 km of the TC center increased by 11.8% under warmer climate conditions. These tendencies are consistent with previous studies using a hydrostatic global model with cumulus parameterization. The responses of vertical and horizontal structures to global warming are investigated for TCs with the same intensity categories. For TCs whose minimum sea level pressure (SLP) reaches less than 980 hPa, the model predicted that tangential wind increases in the outside region of the eyewall. Increases in the tangential wind are related to the elevation of the tropopause caused by global warming. The tropopause rise induces an upward extension of the eyewall, resulting in an increase in latent heating in the upper layers of the inclined eyewall. Thus, SLP is reduced underneath the warmed eyewall regions through hydrostatic adjustment. The altered distribution of SLP enhances tangential winds in the outward region of the eyewall cloud. Hence, this study shows that the horizontal scale of TCs defined by a radius of 12 m s −1 surface wind is projected to increase compared with the same intensity categories for SLP less than 980 hPa.
+
+SOURCE: Journal of climate
+PDF URL: None
+CITED BY COUNT: 89
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Eye', 'Climatology', 'Tropical cyclone', 'Tropopause', 'Atmospheric sciences', 'Rainband', 'Environmental science', 'Atmospheric model', 'Convection', 'Precipitation', 'Tropical cyclogenesis', 'Global warming', 'Climate model', 'Geology', 'Cyclone (programming language)', 'Climate change', 'Meteorology', 'Troposphere', 'Physics', 'Oceanography', 'Field-programmable gate array', 'Computer science', 'Computer hardware']

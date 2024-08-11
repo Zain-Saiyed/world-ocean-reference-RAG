@@ -1,0 +1,12 @@
+ID: W2049037403
+TITLE: Species diversity of planktonic gastropods (Pteropoda and Heteropoda) from six ocean regions based on DNA barcode analysis
+AUTHOR: ['Robert M. Jennings', 'Ann Bucklin', 'Holger Ossenbrügger', 'Russell R. Hopcroft']
+ABSTRACT:
+Pteropods and heteropods are two distinct groups of holoplanktonic gastropods whose species and genetic diversity remain poorly understood, despite their ubiquity in the world’s oceans. Some species apparently attain near cosmopolitan distributions, implying long-distance dispersal or cryptic species assemblages. We present the first multi-regional and species-rich molecular dataset of holoplanktonic gastropods, comprising DNA barcodes from the mitochondrial cytochrome c oxidase I subunit gene (COI) from 115 individuals of 41 species sampled from six ocean regions across the globe. Molecular analysis and assessment of barcoding utility supported the validity of several morphological subspecies and forms (e.g. of Creseis virgula and Limacina helicina), while others were not supported (e.g. Cavolinia uncinata). Significant genetic variation was observed among conspecific specimens collected in different geographic regions for some species, particularly in euthecosomatous pteropods. Several species of euthecosomes showed no evidence of genetic separation among distant ocean regions. Overall, we suggest some taxonomic revision of the holoplanktonic gastropods will be required, pending a more complete molecular inventory of these groups.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 61
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['DNA barcoding', 'Biology', 'Subspecies', 'Biological dispersal', 'Species complex', 'Genetic diversity', 'Ecology', 'Plankton', 'Mitochondrial DNA', 'Zoology', 'Evolutionary biology', 'Gene', 'Phylogenetic tree', 'Genetics', 'Sociology', 'Population', 'Demography']

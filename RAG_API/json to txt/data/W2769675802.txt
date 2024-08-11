@@ -1,0 +1,12 @@
+ID: W2769675802
+TITLE: Quaternary deep-sea ostracods from the north-western Pacific Ocean: global biogeography and Drake-Passage, Tethyan, Central American and Arctic pathways
+AUTHOR: ['Moriaki Yasuhara', 'Gene Hunt', 'Hisayo Okahashi']
+ABSTRACT:
+Twelve genera and 19 species of deep-sea ostracods from the Shatsky Rise, north-western Pacific, were examined and illustrated for taxonomy. Three new species, Cytheropteron nasutum sp. nov., Poseidonamicus shatskyensis sp. nov. and Legitimocythere stellae sp. nov., are described. Based on these Shatsky Rise ostracods and a comprehensive literature survey of synonyms, we discuss global biogeography and possible migration pathways of deep-sea species. The four possible deep-water pathways connecting the Atlantic and Pacific Oceans are: the Drake Passage (Southern Ocean), established by 30 Ma; the Tethys Seaway, which had closed by 19–14 Ma; the Central American Seaway, which had closed by 3 Ma; and the Arctic Ocean Seaway via the Bering Strait, which opened about 4.8–7.4 Ma, and via the Fram Strait, which opened between 10 and 20 Ma. The Drake Passage is likely the major pathway. We argue that the Arctic was an important pathway for some deep-sea species before the mid-Pleistocene. Most deep-sea organisms have poor fossil records, and thus the rich fossil record of deep-sea ostracods is an ideal model system for the study of deep-time biogeography of deep-sea organisms. It may well be that other deep-sea organisms had similar palaeobiogeographical histories and patterns.http://zoobank.org/urn:lsid:zoobank.org:pub:3B70B7E5-04E0-4FF7-91EF-88CE1B199C8D
+
+SOURCE: Journal of systematic palaeontology
+PDF URL: None
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biogeography', 'Deep sea', 'Oceanography', 'Arctic', 'Geology', 'Paleontology', 'Pleistocene']

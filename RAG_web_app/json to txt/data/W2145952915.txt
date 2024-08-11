@@ -1,0 +1,12 @@
+ID: W2145952915
+TITLE: Ecological effects of sewage discharge in the marine environment
+AUTHOR: ['A. J. O&apos;Sullivan']
+ABSTRACT:
+In has always been faced with the problem of getting rid of the waste he proves. Our palaeolithic and neolithic ancestors who subsisted on oysters and other ellfish in small coastal settlements simply threw the waste shells out of their ck doors to form kitchen middens which are now of great interest to the archaeogist. In medieval times sewage and domestic waste was thrown into the streets ere it flowed along open channels. Rats were plentiful and provided food for edatory birds such as the kite which were then common. In the nineteenth ntury, the system of sewers and water carriage evolved which did not produce many problems while the populations served remained scattered or reasonably hall, but which gave rise to pollution of rivers and streams as the size of towns sew. The problems produced were mainly inland and terrestrial however; little the marine environment was affected apart from estuaries within the boundaries or close to large cities such as London. The problem in inland waters became so serious however that a series of Royal Commissions was set up in the nineteenth century to report on methods of sewa treatment. The last of these Commissions, that on Sewage Disposal which report during the first fifteen years of this century, may be said to have initiated model attitudes to pollution control in inland waters.
+
+SOURCE: Proceedings of the Royal Society of London. Series B, Biological sciences
+PDF URL: None
+CITED BY COUNT: 23
+PUBLICATION YEAR: 1971
+TYPE: article
+CONCEPTS: ['Sewage', 'Human settlement', 'Sanitary sewer', 'Pollution', 'Estuary', 'Sewage disposal', 'Fishery', 'Geography', 'Archaeology', 'Environmental science', 'Ecology', 'Environmental engineering', 'Biology']

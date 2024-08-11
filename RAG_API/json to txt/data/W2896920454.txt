@@ -1,0 +1,12 @@
+ID: W2896920454
+TITLE: Regional Scale Risk-Informed Land-Use Planning Using Probabilistic Coastline Recession Modelling and Economical Optimisation: East Coast of Sri Lanka
+AUTHOR: ['Ali Dastgheib', 'Ruben Jongejan', 'Mangala Wickramanayake', 'Roshanka Ranasinghe']
+ABSTRACT:
+One of the measures that has been implemented widely to adapt to the effect of climate change in coastal zones is the implementation of set-back lines. The traditional approach of determining set-back lines is likely to be conservative, and thus pose unnecessary constraints on coastal zone development and fully utilising the potential of these high-return areas. In this study, we apply a newly developed risk-informed approach to determine the coastal set-back line at regional scale in a poor data environment. This approach aims to find the economic optimum by balancing the (potential) economic gain from investing in coastal zones and the risk of coastal retreat due to sea level rise and storm erosion. This application focusses on the east coast of Sri Lanka, which is experiencing rapid economic growth on one hand and severe beach erosion on the other hand. This area of Sri Lanka is a highly data-poor environment, and the data is mostly available from global databases and very limited measurement campaigns. Probabilistic estimates of coastline retreat are obtained from the application of Probabilistic Coastline Recession (PCR) framework. Economic data, such as the discount rate, rate of return of investment, cost of damage, etc., are collated from existing estimates/reports for the area. The main outcome of this study is a series of maps indicating the economically optimal set-back line (EOSL) for the ~200-km-long coastal region. The EOSL is established for the year 2025 to provide a stable basis for land-use planning decisions over the next two decades or so. The EOSLs thus determined range between 12 m and 175 m from the coastline. Sensitivity analyses show that strong variations in key economic parameters such as the discount rate have a disproportionately small impact on the EOSL.
+
+SOURCE: Journal of marine science and engineering
+PDF URL: https://www.mdpi.com/2077-1312/6/4/120/pdf?version=1539768893
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Recession', 'Coastal erosion', 'Scale (ratio)', 'Environmental resource management', 'Storm', 'Return period', 'Environmental science', 'Geography', 'Erosion', 'Meteorology', 'Geology', 'Cartography', 'Economics', 'Paleontology', 'Archaeology', 'Keynesian economics', 'Flood myth']

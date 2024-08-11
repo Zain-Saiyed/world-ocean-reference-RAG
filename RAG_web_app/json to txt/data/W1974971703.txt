@@ -1,0 +1,12 @@
+ID: W1974971703
+TITLE: Disturbance of deep-sea environments induced by the M9.0 Tohoku Earthquake
+AUTHOR: ['Shinsuke Kawagucci', 'Yukari Yoshida', 'Takuroh Noguchi', 'Makio C. Honda', 'Hiroshi Uchida', 'Hidenori Ishibashi', 'Fumiko Nakagawa', 'Urumu Tsunogai', 'Kei Okamura', 'Yoshihiro Takaki', 'Takuro Nunoura', 'Junichi Miyazaki', 'Miho Hirai', 'Weiren Lin', 'Hiroshi Kitazato', 'Ken Takai']
+ABSTRACT:
+The impacts of the M9.0 Tohoku Earthquake on deep-sea environment were investigated 36 and 98 days after the event. The light transmission anomaly in the deep-sea water after 36 days became atypically greater (∼35%) and more extensive (thickness ∼1500 m) near the trench axis owing to the turbulent diffusion of fresh seafloor sediment, coordinated with potential seafloor displacement. In addition to the chemical influx associated with sediment diffusion, an influx of (13)C-enriched methane from the deep sub-seafloor reservoirs was estimated. This isotopically unusual methane influx was possibly triggered by the earthquake and its aftershocks that subsequently induced changes in the sub-seafloor hydrogeologic structures. The whole prokaryotic biomass and the development of specific phylotypes in the deep-sea microbial communities could rise and fall at 36 and 98 days, respectively, after the event. We may capture the snap shots of post-earthquake disturbance in deep-sea chemistry and microbial community responses.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep00270.pdf
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Seafloor spreading', 'Geology', 'Deep sea', 'Sediment', 'Methane', 'Disturbance (geology)', 'Oceanography', 'Hydrogeology', 'Aftershock', 'Seismology', 'Paleontology', 'Ecology', 'Geotechnical engineering', 'Biology']

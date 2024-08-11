@@ -1,0 +1,12 @@
+ID: W2580194835
+TITLE: Eyes Wide Shut
+AUTHOR: ['Bella S. Galil']
+ABSTRACT:
+This chapter examines whether Marine Protected Areas (MPAs) are effective in protecting native biodiversity under a high load of alien species, and underlines the risk posed to MPAs as management tools for the conservation of Mediterranean marine biodiversity. The Mediterranean Sea has a long history of bio-invasions: in the first decade of the 20th century, 13 of the 14 alien species recorded for the first time in the Mediterranean entered through the Suez Canal. Alien macrophytes, invertebrates and fish are prominent in many coastal habitats in the Mediterranean, especially affecting the composition of the biota of the south-eastern Mediterranean Sea. Their impacts are determined, in part, by their demographic success. A survey of alien opisthobranch species along the Mediterranean coast of Turkey from Bodrum to the Gulf of Iskenderun revealed that the largest number (13 of 18 species) were recorded in the Kas-Kekova Specially Protected Area.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2017
+TYPE: other
+CONCEPTS: ['Mediterranean sea', 'Biodiversity', 'Mediterranean climate', 'Alien', 'Marine protected area', 'Biota', 'Geography', 'Fishery', 'Habitat', 'Ecology', 'Invertebrate', 'Oceanography', 'Biology', 'Archaeology', 'Geology', 'Politics', 'Citizenship', 'Political science', 'Law']

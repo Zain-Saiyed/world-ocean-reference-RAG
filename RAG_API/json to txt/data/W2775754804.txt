@@ -1,0 +1,12 @@
+ID: W2775754804
+TITLE: Attributable Human‐Induced Changes in the Likelihood and Magnitude of the Observed Extreme Precipitation during Hurricane Harvey
+AUTHOR: ['Mark D. Risser', 'Michael Wehner']
+ABSTRACT:
+Abstract Record rainfall amounts were recorded during Hurricane Harvey in the Houston, Texas, area, leading to widespread flooding. We analyze observed precipitation from the Global Historical Climatology Network with a covariate‐based extreme value statistical analysis, accounting for both the external influence of global warming and the internal influence of El Niño–Southern Oscillation. We find that human‐induced climate change likely increased the chances of the observed precipitation accumulations during Hurricane Harvey in the most affected areas of Houston by a factor of at least 3.5. Further, precipitation accumulations in these areas were likely increased by at least 18.8% (best estimate of 37.7%), which is larger than the 6–7% associated with an attributable warming of 1°C in the Gulf of Mexico and Clausius‐Clapeyron scaling. In a Granger causality sense, these statements provide lower bounds on the impact of climate change and motivate further attribution studies using dynamical climate models.
+
+SOURCE: Geophysical research letters
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2017GL075888
+CITED BY COUNT: 253
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Precipitation', 'Climatology', 'Flooding (psychology)', 'Environmental science', 'Extreme value theory', 'Global warming', 'Climate change', 'Magnitude (astronomy)', 'Flood myth', 'Meteorology', 'Geography', 'Geology', 'Statistics', 'Mathematics', 'Oceanography', 'Physics', 'Psychology', 'Archaeology', 'Astronomy', 'Psychotherapist']

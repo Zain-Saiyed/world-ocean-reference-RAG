@@ -1,0 +1,12 @@
+ID: W2081395300
+TITLE: Contrasting futures for ocean and society from different anthropogenic CO<sub>2</sub>emissions scenarios
+AUTHOR: ['Jean‐Pierre Gattuso', 'Alexandre Magnan', 'Raphaël Billé', 'William W. L. Cheung', 'Ella L. Howes', 'Fortunat Joos', 'Denis Allemand', 'Laurent Bopp', 'Sarah R. Cooley', 'C. Mark Eakin', 'Ove Hoegh‐Guldberg', 'Ryan P. Kelly', 'Hans‐Otto Pörtner', 'Alex D. Rogers', 'John M. Baxter', 'Dan Laffoley', 'David Osborn', 'Aleksandar Rankovic', 'Julien Rochette', 'U. Rashid Sumaila', 'Sébastien Treyer', 'Carol Turley']
+ABSTRACT:
+The ocean moderates anthropogenic climate change at the cost of profound alterations of its physics, chemistry, ecology, and services. Here, we evaluate and compare the risks of impacts on marine and coastal ecosystems—and the goods and services they provide—for growing cumulative carbon emissions under two contrasting emissions scenarios. The current emissions trajectory would rapidly and significantly alter many ecosystems and the associated services on which humans heavily depend. A reduced emissions scenario—consistent with the Copenhagen Accord's goal of a global temperature increase of less than 2°C—is much more favorable to the ocean but still substantially alters important marine ecosystems and associated goods and services. The management options to address ocean impacts narrow as the ocean warms and acidifies. Consequently, any new climate regime that fails to minimize ocean impacts would be incomplete and inadequate.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 1048
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Futures contract', 'Environmental science', 'Ecosystem services', 'Ecosystem', 'Marine ecosystem', 'Climate change', 'Goods and services', 'Blue carbon', 'Ocean acidification', 'Oceanography', 'Natural resource economics', 'Environmental resource management', 'Ecology', 'Business', 'Economics', 'Biology', 'Market economy', 'Finance', 'Seagrass', 'Geology']

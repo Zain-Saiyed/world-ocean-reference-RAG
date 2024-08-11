@@ -1,0 +1,12 @@
+ID: W2792158326
+TITLE: Postmortem examination of Australian sea snakes (<i>Hydrophiinae</i>): Anatomy and common pathologic conditions
+AUTHOR: ['Amber Gillett', 'Richard Ploeg', 'Mark Flint', 'Paul C. Mills']
+ABSTRACT:
+There is limited published information about disease in wild sea snakes and no standardized guideline for postmortem examination of sea snakes. Identifying causes of morbidity and mortality of marine vertebrate species has been pivotal to understanding disease factors implicated in stranding events and assisting with the formulation of conservation plans. Additionally, postmortem findings can provide valuable information on life history traits and the ecology of these reclusive species. Sick, moribund, or dead sea snakes are intermittently washed ashore along Australian and international beaches and provide an opportunity to examine a subset of the population and identify causes of population decline. We present an illustrated description of sea snake anatomy and describe a systematic approach to postmortem examination of sea snakes. We describe common pathologic conditions identified from clinical and postmortem examinations of stranded Australian sea snakes from southeast Queensland. Notable pathologic conditions include traumatic injury, inflammatory conditions, parasitic infections, and neoplasia.
+
+SOURCE: Journal of veterinary diagnostic investigation
+PDF URL: https://journals.sagepub.com/doi/pdf/10.1177/1040638717710056
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Population', 'Guideline', 'Disease', 'Biology', 'Pathology', 'Zoology', 'Medicine', 'Environmental health']

@@ -1,0 +1,12 @@
+ID: W2048831528
+TITLE: Ocean Salinities Reveal Strong Global Water Cycle Intensification During 1950 to 2000
+AUTHOR: ['Paul J. Durack', 'Susan Wijffels', 'Richard J. Matear']
+ABSTRACT:
+Fundamental thermodynamics and climate models suggest that dry regions will become drier and wet regions will become wetter in response to warming. Efforts to detect this long-term response in sparse surface observations of rainfall and evaporation remain ambiguous. We show that ocean salinity patterns express an identifiable fingerprint of an intensifying water cycle. Our 50-year observed global surface salinity changes, combined with changes from global climate models, present robust evidence of an intensified global water cycle at a rate of 8 ± 5% per degree of surface warming. This rate is double the response projected by current-generation climate models and suggests that a substantial (16 to 24%) intensification of the global water cycle will occur in a future 2° to 3° warmer world.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 810
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Water cycle', 'Environmental science', 'Salinity', 'Global warming', 'Climatology', 'Climate change', 'Evaporation', 'Climate model', 'Global temperature', 'Atmospheric sciences', 'Global change', 'Oceanography', 'Meteorology', 'Ecology', 'Geology', 'Geography', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2766700045
+TITLE: Completing fishing monitoring with spaceborne Vessel Detection System (VDS) and Automatic Identification System (AIS) to assess illegal fishing in Indonesia
+AUTHOR: ['Nicolas Longépé', 'Guillaume Hajduch', 'Romy Ardianto', 'Romain de Joux', 'Béatrice Nhunfat', 'Marza Ihsan Marzuki', 'Ronan Fablet', 'Indra Hermawan', 'Olivier Germain', 'Berny A. Subki', 'A R Farhan', 'Ahmad Deni Muttaqin', 'Philippe Gaspar']
+ABSTRACT:
+The Indonesian fisheries management system is now equipped with the state-of-the-art technologies to deter and combat Illegal, Unreported and Unregulated (IUU) fishing. Since October 2014, non-cooperative fishing vessels can be detected from spaceborne Vessel Detection System (VDS) based on high resolution radar imagery, which directly benefits to coordinated patrol vessels in operation context. This study attempts to monitor the amount of illegal fishing in the Arafura Sea based on this new source of information. It is analyzed together with Vessel Monitoring System (VMS) and satellite-based Automatic Identification System (Sat-AIS) data, taking into account their own particularities. From October 2014 to March 2015, i.e. just after the establishment of a new moratorium by the Indonesian authorities, the estimated share of fishing vessels not carrying VMS, thus being illegal, ranges from 42 to 47%. One year later in January 2016, this proportion decreases and ranges from 32 to 42%.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishing', 'Automatic Identification System', 'Context (archaeology)', 'Indonesian', 'Identification (biology)', 'Remote sensing', 'Business', 'Fishery', 'Computer science', 'Geography', 'Computer security', 'Linguistics', 'Philosophy', 'Botany', 'Archaeology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2517782643
+TITLE: Estimating the cumulative effects of the nature-based tourism in a coastal dolphin population from southern Kenya
+AUTHOR: ['Sergi Pérez‐Jorge', 'Maité Louzao', 'Daniel Oró', 'Thalia Pereira', 'Chloe Corne', 'Zeno Wijtten', 'Inês Gomes', 'J. M. Wambua', 'Fredrik Christiansen']
+ABSTRACT:
+Due to the growth of nature-based tourism worldwide, behavioural studies are needed to assess the impact of this industry on wildlife populations and understand their short-term effect. Tourism impact on dolphin populations remain poorly documented in developing countries. This study investigates the effects of nature-based tourism on the behaviour of the Indo-Pacific bottlenose dolphins (Tursiops aduncus) in southern Kenya. We used Markov chain models to estimate transition probabilities between behavioural states in the presence and absence of tourist boats, and assess the overall behavioural budgets. Based on these data and the tourism intensity in the area, we quantified the potential tourist boat disturbance over the period 2006–2013. Our results demonstrated that tourist boat interactions affected dolphins’ behavioural budgets, with a significant decrease in the overall amount of time travelling and an increase in diving. The average duration of travelling and resting decreased significantly in the presence of boats. Although the cumulative tourism exposure was not significant for the dolphin population at their current levels, these impacts should be taken into consideration with the potential tourism growth in the area. This is particularly important if tourism reaches periods of high intensity, as we have shown that these periods could have a significant impact for the species, particularly where home-range and core areas are highly overlap by this activity. Understanding the effect of human disturbance variations from previous years may help to predict the consequences on dolphin populations, towards achieving a more ecological and economic sustainability of the activity.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Tourism', 'Geography', 'Cumulative effects', 'Wildlife tourism', 'Sustainability', 'Wildlife', 'Population', 'Disturbance (geology)', 'Range (aeronautics)', 'Fishery', 'Ecology', 'Ecotourism', 'Demography', 'Biology', 'Sociology', 'Paleontology', 'Materials science', 'Composite material', 'Archaeology']

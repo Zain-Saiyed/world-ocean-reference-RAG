@@ -1,0 +1,12 @@
+ID: W2805280669
+TITLE: Submarine canyons represent an essential habitat network for krill hotspots in a Large Marine Ecosystem
+AUTHOR: ['Jarrod A. Santora', 'Ramona Zeno', 'Jeffrey G. Dorman', 'William J. Sydeman']
+ABSTRACT:
+Submarine canyon systems are ubiquitous features of marine ecosystems, known to support high levels of biodiversity. Canyons may be important to benthic-pelagic ecosystem coupling, but their role in concentrating plankton and structuring pelagic communities is not well known. We hypothesize that at the scale of a large marine ecosystem, canyons provide a critical habitat network, which maintain energy flow and trophic interactions. We evaluate canyon characteristics relative to the distribution and abundance of krill, critically important prey in the California Current Ecosystem. Using a geological database, we conducted a census of canyon locations, evaluated their dimensions, and quantified functional relationships with krill hotspots (i.e., sites of persistently elevated abundance) derived from hydro-acoustic surveys. We found that 76% of krill hotspots occurred within and adjacent to canyons. Most krill hotspots were associated with large shelf-incising canyons. Krill hotspots and canyon dimensions displayed similar coherence as a function of latitude and indicate a potential regional habitat network. The latitudinal migration of many fish, seabirds and mammals may be enhanced by using this canyon-krill network to maintain foraging opportunities. Biogeographic assessments and predictions of krill and krill-predator distributions under climate change may be improved by accounting for canyons in habitat models.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-25742-9.pdf
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Krill', 'Canyon', 'Pelagic zone', 'Submarine canyon', 'Marine ecosystem', 'Environmental science', 'Habitat', 'Oceanography', 'Ecosystem', 'Ecology', 'Fishery', 'Benthic zone', 'Geography', 'Biology', 'Geology', 'Cartography']

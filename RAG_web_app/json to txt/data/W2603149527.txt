@@ -1,0 +1,12 @@
+ID: W2603149527
+TITLE: Cold-water marine natural products, 2006 to 2016
+AUTHOR: ['Sylvia Soldatou', 'Bill J. Baker']
+ABSTRACT:
+Covering the literature on cold-water marine natural products from 2006 to 2016.This is an update report on marine natural products isolated from cold-water organisms in the last decade, following the previous review that covered the literature up to 2005. Emphasis is given to the biological activities as well as the spectroscopic methods used for the structure elucidation of the new metabolites isolated from cold-water habitats.
+
+SOURCE: Natural product reports
+PDF URL: None
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Natural (archaeology)', 'Fresh water', 'Cold climate', 'Marine species', 'Environmental science', 'Seawater', 'Ecology', 'Biology', 'Geography', 'Meteorology', 'Environmental engineering', 'Paleontology']

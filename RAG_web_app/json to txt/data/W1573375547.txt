@@ -1,0 +1,12 @@
+ID: W1573375547
+TITLE: A Political Ecology of Sustainable Livelihoods in Coastal Sulawesi, Indonesia
+AUTHOR: ['Derek Armitage', 'Chui‐Ling Tam']
+ABSTRACT:
+ABSTRACT This paper examines selected dimensions of ecological and socio-institutional change in two coastal communities in Sulawesi, Indonesia. The authors analyze issues that influence power, marginality and vulnerability, and the implications for livelihood sustainability. They propose a conceptual framework to identify constraints and opportunities involved in maintaining and renewing sustainable livelihoods and the commons resource systems upon which they depend. Highlighted issues include the need to carefully consider the nature and extent of ecological change, clarify rights and entitlements to resources, articulate desirable and feasible futures, address ethnic and socio-cultural conflict, and foster empowerment through enhanced communication.
+
+SOURCE: Revue canadienne d'études du développement
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Livelihood', 'Vulnerability (computing)', 'Commons', 'Empowerment', 'Sustainability', 'Futures contract', 'Politics', 'Political ecology', 'Political science', 'Geography', 'Environmental resource management', 'Ecology', 'Environmental planning', 'Business', 'Economic growth', 'Economics', 'Computer security', 'Archaeology', 'Finance', 'Computer science', 'Law', 'Biology', 'Agriculture']

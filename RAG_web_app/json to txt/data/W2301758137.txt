@@ -1,0 +1,12 @@
+ID: W2301758137
+TITLE: Anthropogenic noise increases fish mortality by predation
+AUTHOR: ['Stephen D. Simpson', 'Andrew N. Radford', 'Sophie L. Nedelec', 'Maud C. O. Ferrari', 'Douglas P. Chivers', 'Mark I. McCormick', 'Mark G. Meekan']
+ABSTRACT:
+Noise-generating human activities affect hearing, communication and movement in terrestrial and aquatic animals, but direct evidence for impacts on survival is rare. We examined effects of motorboat noise on post-settlement survival and physiology of a prey fish species and its performance when exposed to predators. Both playback of motorboat noise and direct disturbance by motorboats elevated metabolic rate in Ambon damselfish (Pomacentrus amboinensis), which when stressed by motorboat noise responded less often and less rapidly to simulated predatory strikes. Prey were captured more readily by their natural predator (dusky dottyback, Pseudochromis fuscus) during exposure to motorboat noise compared with ambient conditions, and more than twice as many prey were consumed by the predator in field experiments when motorboats were passing. Our study suggests that a common source of noise in the marine environment has the potential to impact fish demography, highlighting the need to include anthropogenic noise in management plans.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms10544.pdf
+CITED BY COUNT: 267
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Damselfish', 'Predation', 'Noise (video)', 'Predator', 'Fish <Actinopterygii>', 'Environmental science', 'Ecology', 'Biology', 'Fishery', 'Coral reef fish', 'Artificial intelligence', 'Computer science', 'Image (mathematics)']

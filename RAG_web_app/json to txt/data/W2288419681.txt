@@ -1,0 +1,12 @@
+ID: W2288419681
+TITLE: Linking pattern to process in reef sediment dynamics at Lady Musgrave Island, southern Great Barrier Reef
+AUTHOR: ['Sarah Hamylton', 'Rafael C. Carvalho', 'Stephanie Duce', 'Chris Roelfsema', 'Ana Vila‐Concejo']
+ABSTRACT:
+Abstract Linking surficial sediment patterns in reef environments to the processes that underlie their depositional dynamics enables predictions to be made of how environmental changes will influence reef‐associated sedimentary landforms, such as islands and beaches. Geomorphic linkages between sediment deposition patterns and the biophysical processes that drive them are often poorly resolved, particularly at broad landscape scales where tangible statements can be made about structural changes to landforms. The present study applies geospatial techniques to link patterns in reef sediment dynamics at Lady Musgrave Island to the underlying processes driving them. In situ calcification is characterized by developing a high resolution map of the surficial calcium carbonate producing communities inhabiting the reef platform, and associated sediments across the reef flat are analysed for grain size, kurtosis, sorting and threshold bed shear stress to explore transport pathways across the reef flat and lagoon. Wave energy is modelled across the entire reef platform as a potential driver of sediment dynamics, and morphometric linkages are empirically defined between wave energy and grain size. Findings indicate that carbonate sediments are primarily sourced from calcifying communities colonizing the outer periphery of the reef platform and that sediment grain size can be reliably linked to wave energy by virtue of a linear model.
+
+SOURCE: Sedimentology
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1111/sed.12278
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Reef', 'Geology', 'Sedimentary depositional environment', 'Sediment', 'Landform', 'Oceanography', 'Deposition (geology)', 'Sorting', 'Sedimentary rock', 'Fringing reef', 'Geomorphology', 'Paleontology', 'Structural basin', 'Computer science', 'Programming language']

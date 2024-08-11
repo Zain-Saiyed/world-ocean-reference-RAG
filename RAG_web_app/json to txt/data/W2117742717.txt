@@ -1,0 +1,12 @@
+ID: W2117742717
+TITLE: Global river nutrient export: A scenario analysis of past and future trends
+AUTHOR: ['Sybil P. Seitzinger', 'Emilio Mayorga', 'Lex Bouwman', 'Carolien Kroeze', 'Arthur H.W. Beusen', 'Gilles Billen', 'G. Van Drecht', 'Egon Dumont', 'B M Fekete', 'Josette Garnier', 'John Harrison']
+ABSTRACT:
+An integrated modeling approach was used to connect socioeconomic factors and nutrient management to river export of nitrogen, phosphorus, silica and carbon based on an updated Global NEWS model. Past trends (1970–2000) and four future scenarios were analyzed. Differences among the scenarios for nutrient management in agriculture were a key factor affecting the magnitude and direction of change of future DIN river export. In contrast, connectivity and level of sewage treatment and P detergent use were more important for differences in DIP river export. Global particulate nutrient export was calculated to decrease for all scenarios, in part due to increases in dams for hydropower. Small changes in dissolved silica and dissolved organics were calculated for all scenarios at the global scale. Population changes were an important underlying factor for river export of all nutrients in all scenarios. Substantial regional differences were calculated for all nutrient elements and forms. South Asia alone accounted for over half of the global increase in DIN and DIP river export between 1970 and 2000 and in the subsequent 30 years under the Global Orchestration scenario (globally connected with reactive approach to environmental problems); DIN river export decreased in the Adapting Mosaic (globally connected with proactive approach) scenario by 2030, although DIP continued to increase. Risks for coastal eutrophication will likely continue to increase in many world regions for the foreseeable future due to both increases in magnitude and changes in nutrient ratios in river export.
+
+SOURCE: Global biogeochemical cycles
+PDF URL: None
+CITED BY COUNT: 642
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Nutrient', 'Environmental science', 'Eutrophication', 'Phosphorus', 'Hydrology (agriculture)', 'Ecology', 'Biology', 'Geology', 'Geotechnical engineering', 'Materials science', 'Metallurgy']

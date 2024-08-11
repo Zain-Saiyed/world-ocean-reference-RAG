@@ -1,0 +1,12 @@
+ID: W2160458206
+TITLE: The change in oceanic O <sub>2</sub> inventory associated with recent global warming
+AUTHOR: ['Ralph F. Keeling', 'Hernan E. Garcia']
+ABSTRACT:
+Oceans general circulation models predict that global warming may cause a decrease in the oceanic O(2) inventory and an associated O(2) outgassing. An independent argument is presented here in support of this prediction based on observational evidence of the ocean's biogeochemical response to natural warming. On time scales from seasonal to centennial, natural O(2) flux/heat flux ratios are shown to occur in a range of 2 to 10 nmol of O(2) per joule of warming, with larger ratios typically occurring at higher latitudes and over longer time scales. The ratios are several times larger than would be expected solely from the effect of heating on the O(2) solubility, indicating that most of the O(2) exchange is biologically mediated through links between heating and stratification. The change in oceanic O(2) inventory through the 1990s is estimated to be 0.3 +/- 0.4 x 10(14) mol of O(2) per year based on scaling the observed anomalous long-term ocean warming by natural O(2) flux/heating ratios and allowing for uncertainty due to decadal variability. Implications are discussed for carbon budgets based on observed changes in atmospheric O(2)/N(2) ratio and based on observed changes in ocean dissolved inorganic carbon.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 269
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Environmental science', 'Global warming', 'Atmospheric sciences', 'Climatology', 'Effects of global warming on oceans', 'Flux (metallurgy)', 'Ocean heat content', 'Carbon cycle', 'Latitude', 'Climate change', 'Ocean current', 'Oceanography', 'Chemistry', 'Environmental chemistry', 'Ecosystem', 'Geology', 'Ecology', 'Organic chemistry', 'Geodesy', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2061951578
+TITLE: Sources and Levels of Ambient Ocean Sound near the Antarctic Peninsula
+AUTHOR: ['Robert P. Dziak', 'D. R. Bohnenstiehl', 'Kathleen M. Stafford', 'H. Matsumoto', 'Minkyu Park', 'Won Sang Lee', 'Matthew Fowler', 'Tai‐Kwan Lau', 'J. H. Haxel', 'David K. Mellinger']
+ABSTRACT:
+Arrays of hydrophones were deployed within the Bransfield Strait and Scotia Sea (Antarctic Peninsula region) from 2005 to 2009 to record ambient ocean sound at frequencies of up to 125 and 500 Hz. Icequakes, which are broadband, short duration signals derived from fracturing of large free-floating icebergs, are a prominent feature of the ocean soundscape. Icequake activity peaks during austral summer and is minimum during winter, likely following freeze-thaw cycles. Iceberg grounding and rapid disintegration also releases significant acoustic energy, equivalent to large-scale geophysical events. Overall ambient sound levels can be as much as ~10–20 dB higher in the open, deep ocean of the Scotia Sea compared to the relatively shallow Bransfield Strait. Noise levels become lowest during the austral winter, as sea-ice cover suppresses wind and wave noise. Ambient noise levels are highest during austral spring and summer, as surface noise, ice cracking and biological activity intensifies. Vocalizations of blue (Balaenoptera musculus) and fin (B. physalus) whales also dominate the long-term spectra records in the 15–28 and 89 Hz bands. Blue whale call energy is a maximum during austral summer-fall in the Drake Passage and Bransfield Strait when ambient noise levels are a maximum and sea-ice cover is a minimum. Fin whale vocalizations were also most common during austral summer-early fall months in both the Bransfield Strait and Scotia Sea. The hydrophone data overall do not show sustained anthropogenic sources (ships and airguns), likely due to low coastal traffic and the typically rough weather and sea conditions of the Southern Ocean.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0123425&type=printable
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Oceanography', 'Iceberg', 'Sound (geography)', 'Geology', 'Sea ice', 'Peninsula', 'Ambient noise level', 'Environmental science', 'Geography', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W2094543066
+TITLE: Cross-shore separation of adult and juvenile euphausiids in a shelf-break alongshore current
+AUTHOR: ['Lu Beiwei', 'David L. Mackas', 'D F Moore']
+ABSTRACT:
+Euphausiids are an important component of the zooplankton in boundary current upwelling regions, including the Pacific Northwest continental margin. Many aspects of euphausiid distribution and ecology in this region are well known. However, some features of their spatial and temporal distribution are less understood: How and why euphausiids aggregate near the shelf-break upwelling center. How and why there is (within an alongshore band of high abundance of all stages) spatial segregation of adults and larvae. Why, despite spatial association with upwelling, euphausiid abundance off Vancouver Island is weakly or negatively correlated at interannual time scales with upwelling intensity.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Upwelling', 'Oceanography', 'Continental shelf', 'Boundary current', 'Zooplankton', 'Abundance (ecology)', 'Current (fluid)', 'Geology', 'Spatial distribution', 'Euphausiacea', 'Krill', 'Ecology', 'Ocean current', 'Biology', 'Euphausia', 'Remote sensing']

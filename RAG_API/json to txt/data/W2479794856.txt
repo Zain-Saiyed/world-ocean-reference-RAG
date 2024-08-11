@@ -1,0 +1,12 @@
+ID: W2479794856
+TITLE: Ecotoxicological Risk of Personal Care Products and Pharmaceuticals
+AUTHOR: ['Maria João Bebianno', 'María González-Rey']
+ABSTRACT:
+Personal care products and pharmaceutical compounds were only detected in the aquatic environment in the past two decades. This chapter critically reviews the current knowledge of the main sources of these compounds and their distribution in the aquatic environment, their impact, and effects (acute, chronic and sublethal) on aquatic organisms, particularly on marine molluscs. In addition, the impact of mixtures and the importance of the use of new technologies such as “omics” are also highlighted along with environmental risk assessment and measures to mitigate their impact in the aquatic environment.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2015
+TYPE: book-chapter
+CONCEPTS: ['Aquatic environment', 'Personal care', 'Environmental impact of pharmaceuticals and personal care products', 'Aquatic ecosystem', 'Risk analysis (engineering)', 'Environmental planning', 'Business', 'Environmental resource management', 'Environmental science', 'Ecology', 'Biology', 'Medicine', 'Contamination', 'Family medicine']

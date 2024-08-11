@@ -1,0 +1,12 @@
+ID: W1973438833
+TITLE: Relationships between nitrogen and phosphorus forms and ratios and the development of dinoflagellate blooms in the East China Sea
+AUTHOR: ['Jian Li', 'Patricia M. Glibert', 'Meng Zhou', 'Songhui Lü', 'Dan Lu']
+ABSTRACT:
+During late spring and early summer of 2005, large-scale (>15 000 km 2 ), mixed dinoflagellate blooms developed along the the coast of the East China Sea.Karenia mikimotoi was the dominant harmful algal bloom species in the first stage of the bloom (late May) and was succeeded by Prorocentrum donghaiense approximately 2 wk later.Samples were collected from different stations along both north-south and west -east transects, from the Changjiang River estuary to the south Zhejiang coast, during 3 cruises of the Chinese Ecology and Oceanography of Harmful Algal Blooms Program, before and during the bloom progression.Nitrogen isotope tracer techniques were used to measure rates of NO 3 -, NH 4 + , urea, and glycine uptake during the blooms.High inorganic nitrogen (N), but low phosphorus (P) loading from the Changjiang River led to high dissolved inorganic N:dissolved inorganic P ratios in the sampling area and indicate the development of P limitation.The rates of 15 N-uptake experiments enriched with PO 4 3were enhanced compared to unamended samples, suggesting P limitation of the N-uptake rates.The bloom progression was related to the change in availability of both organic and inorganic N and P. Reduced N forms, especially NH 4 + , were preferentially taken up during the blooms, but different bloom species had different rates of uptake of organic N substrates.K. mikimotoi had higher rates of urea uptake, while P. donghaiense had higher rates of glycine uptake.Changes in the availability of reduced N and the ratios of N:P in inorganic and organic forms were suggested to be important in the bloom succession.Nutrient ratios and specific uptake rates of urea were similar when compared to analogous blooms on the West Florida Shelf.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps_oa/m383p011.pdf
+CITED BY COUNT: 139
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Oceanography', 'Bloom', 'Algal bloom', 'Dinoflagellate', 'Environmental science', 'Estuary', 'China', 'Eutrophication', 'Ecology', 'Phytoplankton', 'Nutrient', 'Geography', 'Biology', 'Geology', 'Archaeology']

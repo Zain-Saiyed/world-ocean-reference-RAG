@@ -1,0 +1,12 @@
+ID: W1967665524
+TITLE: Cultural Ecosystem Services: A Literature Review and Prospects for Future Research
+AUTHOR: ['Andra Ioana Milcu', 'Jan Hanspach', 'David J. Abson', 'Joern Fischer']
+ABSTRACT:
+Cultural ecosystem services constitute a growing field of research that is characterized by an increasing number of publications from various academic disciplines.We conducted a semiquantitative review of publications explicitly dealing with cultural ecosystem services.Our aims were: (1) to provide an overview of the current state of research, (2) to classify the diversity of research approaches by identifying clusters of publications that address cultural ecosystem services in similar ways, and (3) to highlight some important challenges for the future of cultural ecosystem services research.We reviewed 107 publications and extracted 20 attributes describing their type and content, including methods, scales, drivers of change, and trade-offs between services.Using a cluster analysis on a subset of attributes we identified five groups of publications: Group 1, conceptual focus, deals with theoretical issues; Group 2, descriptive reviews, consists mostly of desktop studies; Group 3, localized outcomes, deals with case studies coming from different disciplines; Group 4, social and participatory, deals mainly with assessing preferences and perceptions; and Group 5, economic assessments, provides economic valuations.Emerging themes in cultural ecosystem services research relate to improving methods for cultural ecosystem services valuation, studying cultural ecosystem services in the context of ecosystem service bundles, and more clearly articulating policy implications.Based on our findings, we conclude that: (1) cultural ecosystem services are well placed as a tool to bridge gaps between different academic disciplines and research communities, (2) capitalizing on the societal relevance of cultural ecosystem services could help address real-world problems, and (3) cultural ecosystem services have the potential to foster new conceptual links between alternative logics relating to a variety of social and ecological issues.
+
+SOURCE: Ecology and society
+PDF URL: https://www.ecologyandsociety.org/vol18/iss3/art44/ES-2013-5790.pdf
+CITED BY COUNT: 661
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Environmental resource management', 'Ecosystem', 'Business', 'Environmental planning', 'Political science', 'Geography', 'Environmental science', 'Ecology', 'Biology']

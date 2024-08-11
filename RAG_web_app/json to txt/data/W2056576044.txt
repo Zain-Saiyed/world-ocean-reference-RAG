@@ -1,0 +1,12 @@
+ID: W2056576044
+TITLE: Mesopelagic zone ecology and biogeochemistry – a synthesis
+AUTHOR: ['Carol Robinson', 'Deborah K. Steinberg', 'Thomas R. Anderson', 'Javier Arı́stegui', 'Craig A. Carlson', 'Jessica R. Frost', 'Jean François Ghiglione', 'Santiago Hernández‐León', 'George A. Jackson', 'Rolf Koppelmann', 'Bernard Quéguiner', 'Olivier Ragueneau', 'Fereidoun Rassoulzadegan', 'Bruce H. Robison', 'Christian Tamburini', 'Tsuneo Tanaka', 'Karen F. Wishner', 'Jing Zhang']
+ABSTRACT:
+The mesopelagic zone is the oceanic region through which carbon and other elements must pass in order to reach deeper waters or the sea floor. However, the food web interactions that occur in the mesopelagic zone are difficult to measure and so, despite their crucial importance to global elemental cycles, are not very well known. Recent developments in technology and new approaches have advanced the study of the variability in and controls upon the distribution and diversity of organisms in the mesopelagic zone, including the roles of respiration, recycling, and repackaging of particulate and dissolved organic material. However, there are remarkably few syntheses of the ecology and biogeochemistry of the microbes and metazoa that permanently reside or habitually visit this ‘twilight zone’. Without this synthesis, it is difficult to assess the impact of ongoing changes in ocean hydrography and chemistry, due to increasing atmospheric carbon dioxide levels, on the biological carbon pump. This paper reviews what is known about the distribution of microbes and metazoa in the mesopelagic zone in relation to their activity and impact on global biogeochemical cycles. Thus, gaps in our knowledge are identified and suggestions made for priority research programmes that will improve our ability to predict the effects of climate change on carbon sequestration.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 245
+PUBLICATION YEAR: 2010
+TYPE: preprint
+CONCEPTS: ['Mesopelagic zone', 'Biogeochemistry', 'Biogeochemical cycle', 'Environmental science', 'Oceanography', 'Ecology', 'Pelagic zone', 'Earth science', 'Biology', 'Geology']

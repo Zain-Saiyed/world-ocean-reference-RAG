@@ -1,0 +1,12 @@
+ID: W2106385645
+TITLE: Discovery of the first known benthic invasive species in the Southern Ocean: the North Atlantic spider crab <i>Hyas araneus</i> found in the Antarctic Peninsula
+AUTHOR: ['Marcos Tavares', 'Gustavo Augusto Schmidt de Melo']
+ABSTRACT:
+The Southern Ocean around Antarctica is no longer free from invasive marine species. The North Atlantic spider crab Hyas araneus (Linnaeus, 1758) (Crustacea: Decapoda: Majidae) has been recorded for the first time from the Antarctic Peninsula. Isolated for at least 25 million years, the endemic Antarctic Southern Ocean marine fauna is now being exposed to human-mediated influx of exotic species. Invasive species and polar warming combined can foster the probability of arrival and colonization by non-indigenous species, with unpredictable consequences for the Antarctic marine biota.
+
+SOURCE: Antarctic science
+PDF URL: None
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Oceanography', 'Fauna', 'Benthic zone', 'Peninsula', 'Ecology', 'Biology', 'Geology']

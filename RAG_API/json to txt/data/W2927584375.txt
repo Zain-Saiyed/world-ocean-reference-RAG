@@ -1,0 +1,12 @@
+ID: W2927584375
+TITLE: How does eutrophication impact bundles of ecosystem services in multiple coastal habitats using state-and-transition models
+AUTHOR: ['Charlène Kermagoret', 'Joachim Claudet', 'Valérie Derolez', 'Maggy M. Nugues', 'Vincent Ouisse', 'Nolwenn Quillien', 'Yoann Baulaz', 'Patrick Le Mao', 'Pierre Scemama', 'Diane Vaschalde', 'Denis Bailly', 'Rémi Mongruel']
+ABSTRACT:
+One of the current major scientific challenges to sustain social-ecological systems is to improve our understanding of the spatial and temporal dynamics of the relationships between biodiversity, ecosystem functioning and ecosystem services. Here, we analyse the bundles of ecosystem services supplied by three coastal ecosystems (coastal lagoons, coral reefs and sandy beaches) along a gradient of eutrophication. Based on a state-and-transition model, we analyses the dynamic responses of ecological communities to environmental change and management actions. Although few exceptions are highlighted, increasing eutrophication in the three ecosystem types leads to a degradation of the ecosystem service bundles, particularly for nutrient and pathogen regulation/sequestration, or for the support of recreational and leisure activities. Despite few obstacles to their full use, state-and-transition models can be very powerful frameworks to integrate multiple functions and services delivered by ecosystems while accounting for their temporal dynamics.
+
+SOURCE: Ocean & coastal management
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S0964569118308743
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Ecosystem', 'Eutrophication', 'Coral reef', 'Environmental science', 'Environmental resource management', 'Recreation', 'Habitat', 'Biodiversity', 'Ecology', 'Nutrient', 'Biology']

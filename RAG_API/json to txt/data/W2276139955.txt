@@ -1,0 +1,12 @@
+ID: W2276139955
+TITLE: Catch reconstructions reveal that global marine fisheries catches are higher than reported and declining
+AUTHOR: ['Daniel Pauly', 'Dirk Zeller']
+ABSTRACT:
+Fisheries data assembled by the Food and Agriculture Organization (FAO) suggest that global marine fisheries catches increased to 86 million tonnes in 1996, then slightly declined. Here, using a decade-long multinational 'catch reconstruction' project covering the Exclusive Economic Zones of the world's maritime countries and the High Seas from 1950 to 2010, and accounting for all fisheries, we identify catch trajectories differing considerably from the national data submitted to the FAO. We suggest that catch actually peaked at 130 million tonnes, and has been declining much more strongly since. This decline in reconstructed catches reflects declines in industrial catches and to a smaller extent declining discards, despite industrial fishing having expanded from industrialized countries to the waters of developing countries. The differing trajectories documented here suggest a need for improved monitoring of all fisheries, including often neglected small-scale fisheries, and illegal and other problematic fisheries, as well as discarded bycatch.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms10244.pdf
+CITED BY COUNT: 931
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Fishery', 'Bycatch', 'Discards', 'Fishing', 'Marine fisheries', 'Fisheries management', 'Geography', 'International waters', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2889716668
+TITLE: Planktonic Marine Archaea
+AUTHOR: ['Alyson E. Santoro', 'R. Alexander Richter', 'Christopher L. Dupont']
+ABSTRACT:
+Archaea are ubiquitous and abundant members of the marine plankton. Once thought of as rare organisms found in exotic extremes of temperature, pressure, or salinity, archaea are now known in nearly every marine environment. Though frequently referred to collectively, the planktonic archaea actually comprise four major phylogenetic groups, each with its own distinct physiology and ecology. Only one group—the marine Thaumarchaeota—has cultivated representatives, making marine archaea an attractive focus point for the latest developments in cultivation-independent molecular methods. Here, we review the ecology, physiology, and biogeochemical impact of the four archaeal groups using recent insights from cultures and large-scale environmental sequencing studies. We highlight key gaps in our knowledge about the ecological roles of marine archaea in carbon flow and food web interactions. We emphasize the incredible uncultivated diversity within each of the four groups, suggesting there is much more to be done.
+
+SOURCE: Annual review of marine science
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-marine-121916-063141
+CITED BY COUNT: 121
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Archaea', 'Thaumarchaeota', 'Biology', 'Ecology', 'Plankton', 'Microbial ecology', 'Bacteria', 'Genetics']

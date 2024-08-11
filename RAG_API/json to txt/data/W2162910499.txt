@@ -1,0 +1,12 @@
+ID: W2162910499
+TITLE: Challenges for Implementing an Ecosystem Approach to Fisheries Management
+AUTHOR: ['James H. Cowan', 'Jake Rice', 'Carl J. Walters', 'Ray Hilborn', 'Timothy E. Essington', 'John W. Day', 'Kevin M. Boswell']
+ABSTRACT:
+Abstract The ecosystem approach is being promoted as the foundation of solutions to the unsustainability of fisheries. However, because the ecosystem approach is broadly inclusive, the science for its implementation is often considered to be overly complex and difficult. When the science needed for an ecosystem approach to fisheries is perceived this way, science products cannot keep pace with fisheries critics, thus encouraging partisan political interference in fisheries management and proliferation of “faith‐based solutions. In this paper we argue that one way to effectively counter politicization of fisheries decision‐making is to ensure that new ecosystem‐based approaches in fisheries are viewed only as an emergent property of innovation in science and policy. We organize our essay using three major themes to focus the discussion: empirical, jurisdictional, and societal challenges. We undertake at least partial answers to the following questions: (1) has conventional fisheries management really failed?; (2) can short‐comings in conventional fisheries management be augmented with new tools, such as allocation of rights?; (3) is the Ecosystem Approach to Fisheries (EAF) equivalent to Ecosystem‐Based Management?; and (4) is restoration of degraded ecosystems a necessary component of an EAF? Received March 6, 2012; accepted April 26, 2012
+
+SOURCE: Marine and coastal fisheries
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1080/19425120.2012.690825
+CITED BY COUNT: 57
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Fisheries management', 'Ecosystem approach', 'Fisheries law', 'Ecosystem', 'Ecosystem management', 'Pace', 'Ecosystem-based management', 'Fisheries science', 'Business', 'Fishery', 'Environmental resource management', 'Ecosystem services', 'Fishing', 'Economics', 'Ecology', 'Geography', 'Geodesy', 'Biology']

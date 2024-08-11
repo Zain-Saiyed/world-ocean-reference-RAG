@@ -1,0 +1,12 @@
+ID: W2626618502
+TITLE: Deep-sea benthic habitats modeling and mapping in a NE Atlantic seamount (Galicia Bank)
+AUTHOR: ['Alberto Serrano', 'J.M. González-Irusta', 'Antonio Punzón', 'Ana García‐Alegre', 'Antía Lourido', 'Pilar Ríos', 'M. Blanco', 'M. Gómez-Ballesteros', 'M. Druet', 'Javier Cristobo', 'Joan Enric Cartes']
+ABSTRACT:
+This study presents the results of seafloor habitat identification and mapping of a NE Atlantic deep seamount. An “assemble first, predict later” approach has been followed to identify and map the benthic habitats of the Galicia Bank (NW Iberian). Biotic patterns inferred from the survey data have been used to drive the definition of benthic assemblages using multivariate tools. Eight assemblages, four hard substrates and four sedimentary ones, have been described from a matrix of structural species. Distribution of these assemblages was correlated with environmental factors (multibeam and backscatter data) using binomial GAMs. Finally, the distribution model of each assemblage was applied to produce continuous maps and pooled in a final map with the distribution of the main benthic habitats. Depth and substrate type are key factors when determining soft bottom communities, whereas rocky habitat distribution is mainly explained by rock slope and orientation. Enrichment by northern water masses (LSW) arriving to GB and possible zooplankton biomass increase at vertical-steep walls by “bottom trapping” can explain the higher diversity of habitat providing filter-feeders at slope rocky breaks. These results concerning vulnerable species and habitats, such as Lophelia and Madrepora communities and black and bamboo coral aggregations were the basis of the Spanish proposal of inclusion within the Natura 2000 network. The aim of the present study was to establish the scientific criteria needed for managing and protecting those environmental values.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Seamount', 'Habitat', 'Bathymetry', 'Habitats Directive', 'Oceanography', 'Biomass (ecology)', 'Ecology', 'Environmental science', 'Geology', 'Geography', 'Biology']

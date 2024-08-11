@@ -1,0 +1,12 @@
+ID: W3011179511
+TITLE: The Global Flood Protection Benefits of Mangroves
+AUTHOR: ['Pelayo Menéndez', 'Íñigo J. Losada', 'Saúl Torres-Ortega', 'Siddharth Narayan', 'Michael W. Beck']
+ABSTRACT:
+Coastal flood risks are rising rapidly. We provide high resolution estimates of the economic value of mangroves forests for flood risk reduction every 20 km worldwide. We develop a probabilistic, process-based valuation of the effects of mangroves on averting damages to people and property. We couple spatially-explicit 2-D hydrodynamic analyses with economic models, and find that mangroves provide flood protection benefits exceeding $US 65 billion per year. If mangroves were lost, 15 million more people would be flooded annually across the world. Some of the nations that receive the greatest economic benefits include the USA, China, India and Mexico. Vietnam, India and Bangladesh receive the greatest benefits in terms of people protected. Many (>45) 20-km coastal stretches particularly those near cities receive more than $US 250 million annually in flood protection benefits from mangroves. These results demonstrate the value of mangroves as natural coastal defenses at global, national and local scales, which can inform incentives for mangrove conservation and restoration in development, climate adaptation, disaster risk reduction and insurance.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-020-61136-6.pdf
+CITED BY COUNT: 227
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Mangrove', 'Flood myth', 'Natural hazard', 'Natural disaster', 'Geography', 'Damages', 'Total economic value', 'China', 'Environmental protection', 'Natural resource economics', 'Environmental resource management', 'Ecosystem services', 'Environmental planning', 'Business', 'Environmental science', 'Fishery', 'Ecology', 'Ecosystem', 'Economics', 'Archaeology', 'Meteorology', 'Political science', 'Law', 'Biology']

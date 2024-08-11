@@ -1,0 +1,12 @@
+ID: W2315211523
+TITLE: Influence of the Mississippi River on Pseudo-nitzschia spp. Abundance and Toxicity in Louisiana Coastal Waters
+AUTHOR: ['Sibel Bargu', 'Melissa M. Baustian', 'Nancy N. Rabalais', 'Ross Del Rio', 'Benjamin Von Korff', 'R. Eugene Turner']
+ABSTRACT:
+The presence of domoic acid (DA) toxin from multiple species of Pseudo-nitzschia is a concern in the highly productive food webs of the northern Gulf of Mexico. We documented the Pseudo-nitzschia presence, abundance, blooms, and toxicity over three years along a transect ∼100 km west of the Mississippi River Delta on the continental shelf. Pseudo-nitzschia were present throughout the year and occurred in high abundances (>104 cells l−1) in the early spring months during high Mississippi River (MSR) flow (∼20,000 m3 s−1) but were most abundant (>106 cells l−1) when MSR discharge was relatively lower among the spring months. A high particulate toxin production (maximum reaching 13 μg DA l−1) was associated with the high cell abundances and exceeded, by an order of magnitude, prior reports of particulate DA concentrations in Louisiana coastal waters. Differences in Pseudo-nitzschia peak times and its toxicity were correlated mainly with the timing and magnitude of MSR discharge and changes in associated parameters such as nutrient stoichiometry and salinity. A negative relationship between high MSR discharge and Pseudo-nitzschia and particulate DA concentrations was documented. These riverine dynamics have the potential to influence DA contamination in pelagic and benthic food webs in the coastal waters of the northern Gulf of Mexico.
+
+SOURCE: Estuaries and coasts
+PDF URL: None
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Nitzschia', 'Oceanography', 'Benthic zone', 'Transect', 'Phytoplankton', 'Salinity', 'Environmental science', 'Abundance (ecology)', 'Domoic acid', 'Bloom', 'Particulates', 'Ecology', 'Biology', 'Nutrient', 'Geology', 'Toxin', 'Biochemistry']

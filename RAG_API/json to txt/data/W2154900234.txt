@@ -1,0 +1,12 @@
+ID: W2154900234
+TITLE: Dispersal of Mississippi Sediment in the Gulf of Mexico
+AUTHOR: ['W. Richard Moore David K. Davies']
+ABSTRACT:
+ABSTRACT Pleistocene and Recent Mississippi sediments possess a distinctive heavy mineral assemblage which retains its identity between Cairo, Illinois and the Gulf of Mexico Abyssal Plain. Thus this assemblage may be used to trace the Mississippi contribution to the Gulf of Mexico from fluvial, through deltaic, neritic and bathyal, to abyssal environments. Significant changes in the heavy mineral assemblage of sediments in the Gulf are related to source changes and not to the reworking or selective sorting of Mississippi sediments. As a result, three distinct sediment input sources may be recognized for detrital sediments in the Gulf of Mexico Abyssal Plain, 1) The Mississippi, 2) the Rio Grande, and 3) the rivers of north-east Mexico. The Mississippi contribution is dominant and is only repl ced by other inputs in the northwest and southwest corners of the abyssal plain. On the Louisiana-Texas Inner Continental Shelf, Mississippi sediment forms a veneer which extends between the present delta and the Sabine River. Dredge samples reveal that underlying sediments were derived from the central Texas rivers to the west, probably during a period of regression which occurred between 10,000 and 7,000 B.P. The interaction of a high zircon content and intense selective sorting in the Inner Continental Shelf sediments has resulted in two areas of zircon enrichment which may be of economic significance. Because of the insensitivity of the heavy mineral assemblage of the Mississippi contribution to processes of selective sorting and reworking, only 200 non-opaque grains from one size fraction of one sample are needed to characterize this contribution.
+
+SOURCE: Journal of sedimentary research
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 1970
+TYPE: article
+CONCEPTS: ['Geology', 'Abyssal plain', 'Sorting', 'Sediment', 'Coastal plain', 'Oceanography', 'Heavy mineral', 'Continental shelf', 'Abyssal zone', 'Fluvial', 'Zircon', 'Assemblage (archaeology)', 'Provenance', 'Geochemistry', 'Paleontology', 'Structural basin', 'Computer science', 'Programming language']

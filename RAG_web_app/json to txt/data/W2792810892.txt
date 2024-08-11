@@ -1,0 +1,12 @@
+ID: W2792810892
+TITLE: Dichotomy of mangrove management: A review of research and policy in the Mesoamerican reef region
+AUTHOR: ['Steven W. J. Canty', 'Richard F. Preziosi', 'Jennifer K. Rowntree']
+ABSTRACT:
+Abstract Mangroves are declining globally at faster rates than tropical forests and coral reefs, with primary threats including, aquaculture, agriculture and climate change. Mangroves provide ecosystem services to coastal communities of Mexico, Belize, Guatemala and Honduras, which comprise the Mesoamerican Reef (MAR) ecoregion. Over the past two decades mangroves within the MAR have declined. Current estimates of mangrove cover in the region suggest that mangroves cover 239,176 ha of the MAR, equivalent to 1.7% of the world's mangroves. Concerted efforts to manage, conserve and protect mangrove forest are apparent in all four countries. Comprehensive laws that prohibit the cutting and clearing of mangroves have been implemented in Mexico, Guatemala and Honduras. Belize has a permitting system to regulate mangrove alterations. In addition, a total of seven international and regional agreements have been ratified. Across the ecoregion, forty-three protected areas have been designated that contain mangroves, providing protection to 111,396 ha of mangroves (47% of the total). However, our findings suggest a lack of transparency in the governance framework, a disconnect between management and research, and geopolitical differences have all played a role in reducing management efficacy. A key finding of our study reveals a distinct division in the perceived major threats to mangroves between Ramsar site managers and researchers. Ramsar site managers identify anthropogenic disturbances as key threats, while in contrast, the bulk of research focuses on natural disturbances. To promote the inclusion of evidence-based research within mangrove management plans, greater efforts to connect these important stakeholders are required.
+
+SOURCE: Ocean & coastal management
+PDF URL: http://manuscript.elsevier.com/S0964569117308888/pdf/S0964569117308888.pdf
+CITED BY COUNT: 17
+PUBLICATION YEAR: 2018
+TYPE: review
+CONCEPTS: ['Mangrove', 'Reef', 'Geography', 'Agroforestry', 'Environmental resource management', 'Environmental protection', 'Fishery', 'Environmental science', 'Biology']

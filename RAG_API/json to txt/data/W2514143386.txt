@@ -1,0 +1,12 @@
+ID: W2514143386
+TITLE: Benthic estuarine communities in Brazil: moving forward to long term studies to assess climate change impacts
+AUTHOR: ['Ângelo F. Bernardino', 'Paulo Roberto Pagliosa', 'Ronaldo Adriano Christofoletti', 'Francisco Barros', 'Sérgio A. Netto', 'Pablo Muñiz', 'Paulo da Cunha Lana']
+ABSTRACT:
+Abstract Estuaries are unique coastal ecosystems that sustain and provide essential ecological services for mankind. Estuarine ecosystems include a variety of habitats with their own sediment-fauna dynamics, all of them globally undergoing alteration or threatened by human activities. Mangrove forests, saltmarshes, tidal flats and other confined estuarine systems are under increasing stress due to human activities leading to habitat and species loss. Combined changes in estuarine hydromorphology and in climate pose severe threats to estuarine ecosystems on a global scale. The ReBentos network is the first integrated attempt in Brazil to monitor estuarine changes in the long term to detect and assess the effects of global warming. This paper is an initial effort of ReBentos to review current knowledge on benthic estuarine ecology in Brazil. We herein present and synthesize all published work on Brazilian estuaries that has focused on the description of benthic communities and related ecological processes. We then use current data on Brazilian estuaries and present recommendations for future studies to address climate change effects, suggesting trends for possible future research and stressing the need for long-term datasets and international partnerships.
+
+SOURCE: Brazilian Journal of Oceanography
+PDF URL: https://www.scielo.br/j/bjoce/a/f6LCXxj39gYwbkCXBYcjGff/?lang=en&format=pdf
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Estuary', 'Benthic zone', 'Mangrove', 'Ecology', 'Threatened species', 'Habitat', 'Ecosystem', 'Climate change', 'Geography', 'Environmental science', 'Global change', 'Habitat destruction', 'Environmental resource management', 'Biology']

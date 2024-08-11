@@ -1,0 +1,12 @@
+ID: W2425675749
+TITLE: Worldwide Analysis of Sedimentary DNA Reveals Major Gaps in Taxonomic Knowledge of Deep-Sea Benthos
+AUTHOR: ['Frédéric Sinniger', 'Jan Pawłowski', 'Saki Harii', 'Andrew J. Gooday', 'Hiroyuki Yamamoto', 'Pierre Chevaldonné', 'Tomas Cedhagen', 'Gary R. Carvalho', 'Simon Creer']
+ABSTRACT:
+Deep-sea sediments represent the largest but least known ecosystem on earth. With increasing anthropogenic pressure, it is now a matter of urgency to improve our understanding of deep-sea biodiversity. Traditional morpho-taxonomic studies suggest that the ocean floor hosts extraordinarily diverse benthic communities. However, due to both its remoteness and a lack of expert taxonomists, assessing deep-sea diversity is a very challenging task. Environmental DNA (eDNA) metabarcoding offers a powerful tool to complement morpho-taxonomic studies. Here we use eDNA to assess benthic metazoan diversity in 39 deep-sea sediment samples from bathyal and abyssal depths worldwide. The eDNA dataset was dominated by meiobenthic taxa and we identified all animal phyla commonly found in the deep-sea benthos; yet, the diversity within these phyla remains largely unknown. The large numbers of taxonomically unassigned molecular operational taxonomic units (OTUs) were not equally distributed among phyla, with nematodes and platyhelminthes being the most poorly characterized from a taxonomic perspective. While the data obtained here reveal pronounced heterogeneity and vast amounts of unknown biodiversity in the deep sea, they also expose the difficulties in exploiting metabarcoding datasets resulting from the lack of taxonomic knowledge and appropriate reference databases. Overall, our study demonstrates the promising potential of eDNA metabarcoding to accelerate the assessment of deep-sea biodiversity for pure and applied deep-sea environmental research but also emphasises the necessity to integrate such new approaches with traditional morphology-based examination of deep-sea organisms.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2016.00092/pdf
+CITED BY COUNT: 136
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Phylum', 'Environmental DNA', 'Bathyal zone', 'Biodiversity', 'Benthic zone', 'Deep sea', 'Benthos', 'Biology', 'Taxonomic rank', 'Ecology', 'Taxon', 'Paleontology', 'Fishery', 'Bacteria']

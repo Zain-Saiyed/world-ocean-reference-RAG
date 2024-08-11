@@ -1,0 +1,12 @@
+ID: W2754146283
+TITLE: Taking the Pulse of the Planet
+AUTHOR: ['Lijing Cheng', 'Kevin E. Trenberth', 'John T. Fasullo', 'John Abraham', 'Tim Boyer', 'Karina von Schuckmann', 'Jiang Miao Zhu']
+ABSTRACT:
+How fast is Earth warming? Ocean heat content and sea level rise measurements may provide a more reliable answer than atmospheric measurements.
+
+SOURCE: Eos
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Planet', 'Astrobiology', 'Pulse (music)', 'Environmental science', 'Astronomy', 'Physics', 'Optics', 'Detector']

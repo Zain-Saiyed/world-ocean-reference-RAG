@@ -1,0 +1,12 @@
+ID: W3009333250
+TITLE: Comparative genome-centric analysis reveals seasonal variation in the function of coral reef microbiomes
+AUTHOR: ['Bettina Glasl', 'Steven J. Robbins', 'Pedro R. Frade', 'Emma Marangon', 'Patrick W. Laffy', 'David G. Bourne', 'Nicole S. Webster']
+ABSTRACT:
+Abstract Microbially mediated processes contribute to coral reef resilience yet, despite extensive characterisation of microbial community variation following environmental perturbation, the effect on microbiome function is poorly understood. We undertook metagenomic sequencing of sponge, macroalgae and seawater microbiomes from a macroalgae-dominated inshore coral reef to define their functional potential and evaluate seasonal shifts in microbially mediated processes. In total, 125 high-quality metagenome-assembled genomes were reconstructed, spanning 15 bacterial and 3 archaeal phyla. Multivariate analysis of the genomes relative abundance revealed changes in the functional potential of reef microbiomes in relation to seasonal environmental fluctuations (e.g. macroalgae biomass, temperature). For example, a shift from Alphaproteobacteria to Bacteroidota-dominated seawater microbiomes occurred during summer, resulting in an increased genomic potential to degrade macroalgal-derived polysaccharides. An 85% reduction of Chloroflexota was observed in the sponge microbiome during summer, with potential consequences for nutrition, waste product removal, and detoxification in the sponge holobiont. A shift in the Firmicutes:Bacteroidota ratio was detected on macroalgae over summer with potential implications for polysaccharide degradation in macroalgal microbiomes. These results highlight that seasonal shifts in the dominant microbial taxa alter the functional repertoire of host-associated and seawater microbiomes, and highlight how environmental perturbation can affect microbially mediated processes in coral reef ecosystems.
+
+SOURCE: The ISME journal
+PDF URL: https://www.nature.com/articles/s41396-020-0622-6.pdf
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Biology', 'Holobiont', 'Microbiome', 'Metagenomics', 'Coral reef', 'Ecology', 'Anthozoa', 'Bacteroidetes', 'Coral', 'Reef', 'Firmicutes', 'Symbiosis', 'Bacteria', '16S ribosomal RNA', 'Bioinformatics', 'Biochemistry', 'Genetics', 'Gene']

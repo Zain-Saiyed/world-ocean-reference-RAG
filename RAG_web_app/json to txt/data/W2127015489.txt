@@ -1,0 +1,12 @@
+ID: W2127015489
+TITLE: Oceanographic and Biological Effects of Shoaling of the Oxygen Minimum Zone
+AUTHOR: ['William F. Gilly', 'J. Michael Beman', 'Steven Y. Litvin', 'Bruce H. Robison']
+ABSTRACT:
+Long-term declines in oxygen concentrations are evident throughout much of the ocean interior and are particularly acute in midwater oxygen minimum zones (OMZs). These regions are defined by extremely low oxygen concentrations (&lt;20–45 μmol kg −1 ), cover wide expanses of the ocean, and are associated with productive oceanic and coastal regions. OMZs have expanded over the past 50 years, and this expansion is predicted to continue as the climate warms worldwide. Shoaling of the upper boundaries of the OMZs accompanies OMZ expansion, and decreased oxygen at shallower depths can affect all marine organisms through multiple direct and indirect mechanisms. Effects include altered microbial processes that produce and consume key nutrients and gases, changes in predator-prey dynamics, and shifts in the abundance and accessibility of commercially fished species. Although many species will be negatively affected by these effects, others may expand their range or exploit new niches. OMZ shoaling is thus likely to have major and far-reaching consequences.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 269
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Environmental science', 'Shoaling and schooling', 'Ecology', 'Oceanography', 'Oxygen minimum zone', 'Biology', 'Upwelling', 'Geology']

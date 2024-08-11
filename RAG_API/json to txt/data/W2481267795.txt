@@ -1,0 +1,12 @@
+ID: W2481267795
+TITLE: Nitrogen Fluxes from Rivers to the Coastal Oceans
+AUTHOR: ['E. W. Boyer', 'Robert W. Howarth']
+ABSTRACT:
+Publisher Summary This chapter reviews information from previous studies regarding nitrogen inputs to landscapes and the associated delivery of nitrogen to coastal waters around the world. It specifically focuses on fluxes of total nitrogen rather than dissolved inorganic nitrogen (DIN, typically including nitrate, nitrite, and ammonium), since most of the organic nitrogen added to the oceans in rivers is likely converted to DIN on ecologically meaningful time scales; that is, terrestrially derived organic nitrogen in marine sediments is only a very small proportion of the inputs (probably
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2008
+TYPE: book-chapter
+CONCEPTS: ['Oceanography', 'Environmental science', 'Nitrogen', 'Geology', 'Chemistry', 'Organic chemistry']

@@ -1,0 +1,12 @@
+ID: W2169055218
+TITLE: Mechanisms of action of inhaled fibers, particles and nanoparticles in lung and cardiovascular diseases
+AUTHOR: ['Brooke T. Mossman', 'Paul J. A. Borm', 'Vincent Castranova', 'Daniel L. Costa', 'Kenneth Donaldson', 'Steven R. Kleeberger']
+ABSTRACT:
+A symposium on the mechanisms of action of inhaled airborne particulate matter (PM), pathogenic particles and fibers such as silica and asbestos, and nanomaterials, defined as synthetic particles or fibers less than 100 nm in diameter, was held on October 27 and 28, 2005, at the Environmental Protection Agency (EPA) Conference Center in Research Triangle Park, North Carolina. The meeting was the eighth in a series of transatlantic conferences first held in Penarth, Wales, at the Medical Research Council Pneumoconiosis Unit (1979), that have fostered long-standing collaborations between researchers in the fields of mineralogy, cell and molecular biology, pathology, toxicology, and environmental/occupational health.The goal of this meeting, which was largely supported by a conference grant from the NHLBI, was to assemble a group of clinical and basic research scientists who presented and discussed new data on the mechanistic effects of inhaled particulates on the onset and development of morbidity and mortality in the lung and cardiovascular system. Another outcome of the meeting was the elucidation of a number of host susceptibility factors implicated in adverse health effects associated with inhaled pathogenic particulates.New models and data presented supported the paradigm that both genetic and environmental (and occupational) factors affect disease outcomes from inhaled particulates as well as cardiopulmonary responses. These future studies are encouraged to allow the design of appropriate strategies for prevention and treatment of particulate-associated morbidity and mortality, especially in susceptible populations.
+
+SOURCE: Particle and fibre toxicology
+PDF URL: https://particleandfibretoxicology.biomedcentral.com/track/pdf/10.1186/1743-8977-4-4
+CITED BY COUNT: 118
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Action (physics)', 'Lung', 'Materials science', 'Medicine', 'Internal medicine', 'Physics', 'Quantum mechanics']

@@ -1,0 +1,12 @@
+ID: W2567549542
+TITLE: Marine litter on deep Arctic seafloor continues to increase and spreads to the North at the HAUSGARTEN observatory
+AUTHOR: ['Mine Banu Tekman', 'Thomas Krumpen', 'Melanie Bergmann']
+ABSTRACT:
+The increased global production of plastics has been mirrored by greater accumulations of plastic litter in marine environments worldwide. Global plastic litter estimates based on field observations account only for 1% of the total volumes of plastic assumed to enter the marine ecosystem from land, raising again the question ‘Where is all the plastic? ’. Scant information exists on temporal trends on litter transport and litter accumulation on the deep seafloor. Here, we present the results of photographic time-series surveys indicating a strong increase in marine litter over the period of 2002–2014 at two stations of the HAUSGARTEN observatory in the Arctic (2500 m depth). Plastic accounted for the highest proportion (47%) of litter recorded at HAUSGARTEN for the whole study period. When the most southern station was considered separately, the proportion of plastic items was even higher (65%). Increasing quantities of small plastics raise concerns about fragmentation and future microplastic contamination. Analysis of litter types and sizes indicate temporal and spatial differences in the transport pathways to the deep sea for different categories of litter. Litter densities were positively correlated with the counts of ship entering harbour at Longyearbyen, the number of active fishing vessels and extent of summer sea ice. Sea ice may act as a transport vehicle for entrained litter, being released during periods of melting. The receding sea ice coverage associated with global change has opened hitherto largely inaccessible environments to humans and the impacts of tourism, industrial activities including shipping and fisheries, all of which are potential sources of marine litter.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 148
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine debris', 'Litter', 'Environmental science', 'Plastic pollution', 'Oceanography', 'Arctic', 'Marine ecosystem', 'Ecosystem', 'Sea ice', 'Climate change', 'Physical geography', 'Fishery', 'Geography', 'Ecology', 'Geology', 'Biology', 'Debris', 'Microplastics']

@@ -1,0 +1,12 @@
+ID: W2568837678
+TITLE: Cumulative hazard: The case of nuisance flooding
+AUTHOR: ['Hamed Moftakhari', 'Amir AghaKouchak', 'Brett F. Sanders', 'Richard A. Matthew']
+ABSTRACT:
+Abstract The cumulative cost of frequent events (e.g., nuisance floods) over time may exceed the costs of the extreme but infrequent events for which societies typically prepare. Here we analyze the likelihood of exceedances above mean higher high water and the corresponding property value exposure for minor, major, and extreme coastal floods. Our results suggest that, in response to sea level rise, nuisance flooding (NF) could generate property value exposure comparable to, or larger than, extreme events. Determining whether (and when) low cost, nuisance incidents aggregate into high cost impacts and deciding when to invest in preventive measures are among the most difficult decisions for policymakers. It would be unfortunate if efforts to protect societies from extreme events (e.g., 0.01 annual probability) left them exposed to a cumulative hazard with enormous costs. We propose a Cumulative Hazard Index ( CHI ) as a tool for framing the future cumulative impact of low cost incidents relative to infrequent extreme events. CHI suggests that in New York, NY , Washington, DC , Miami, FL , San Francisco, CA , and Seattle, WA , a careful consideration of socioeconomic impacts of NF for prioritization is crucial for sustainable coastal flood risk management.
+
+SOURCE: Earth's future
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2016EF000494
+CITED BY COUNT: 170
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Flooding (psychology)', 'Nuisance', 'Flood myth', 'Hazard', 'Environmental science', 'Geography', 'Psychology', 'Chemistry', 'Organic chemistry', 'Political science', 'Law', 'Psychotherapist', 'Archaeology']

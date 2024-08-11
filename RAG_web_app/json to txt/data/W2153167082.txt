@@ -1,0 +1,12 @@
+ID: W2153167082
+TITLE: Destruction or persistence of coral atoll islands in the face of 20th and 21st century sea‐level rise?
+AUTHOR: ['Roger McLean', 'Paul S. Kench']
+ABSTRACT:
+The future of low‐lying reef islands has been the subject of international concern, scientific debate, and media interest in the last decade. As a result of sea‐level rise, atoll islands are expected to become increasingly unstable and to be susceptible to potential depopulation by the end of the 21st century. Some have suggested that sea‐level rise has already resulted in widespread erosion and inundation of atoll islands. Here, we analyze the physical changes in over 200 islands on 12 atolls in the central and western Pacific in the past few decades when sea level in the region increased at rates three to four times the global average. Results show little evidence of heightened erosion or reduction in island size. Instead island shores have adjusted their position and morphology in response to human impacts such as seawall construction and to variations in climate–ocean processes. These changes are reviewed and the role of sea‐level rise is evaluated. The implications of this analysis are addressed in two parts. First, we consider the proposition that future sea‐level rise will destabilize atoll islands to such an extent that their inhabitants will be forced to migrate offshore. And second, we identify a series of new challenges relating to risk reduction and adaptation policy for atoll island governments, international agencies, and island communities. These require a substantial shift away from the present adaptation paradigm of external migration and focus on the persistence of atoll islands and in‐country solutions. WIREs Clim Change 2015, 6:445–463. doi: 10.1002/wcc.350 This article is categorized under: Paleoclimates and Current Trends &gt; Earth System Behavior Assessing Impacts of Climate Change &gt; Evaluating Future Impacts of Climate Change Vulnerability and Adaptation to Climate Change &gt; Learning from Cases and Analogies
+
+SOURCE: Wiley interdisciplinary reviews. Climate change
+PDF URL: None
+CITED BY COUNT: 136
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Atoll', 'Geography', 'Reef', 'Shore', 'Climate change', 'Coral reef', 'Oceanography', 'Sea level', 'Sea level rise', 'Coastal erosion', 'Small Island Developing States', 'Physical geography', 'Geology']

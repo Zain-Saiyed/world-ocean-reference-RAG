@@ -1,0 +1,12 @@
+ID: W2889811449
+TITLE: New Advances in Benthic Monitoring Technology and Methodology
+AUTHOR: ['Daniel T. I. Bayley', 'Andrew O.M. Mogg']
+ABSTRACT:
+The last few decades have seen dramatic increases in the abundance and variety of data that can be collected within benthic marine environments to monitor species and ecosystems. These developments are now allowing ecologists to view their study systems in ever greater detail and over scales ranging from microscopic to global. Here we give an overview of current widely used techniques, touch on a number of recent advances in both technologies and methodologies, and focus on photogrammetry. We recommend that greater synergies, standardization, and automation of a range of these methods could further improve many monitoring programs’ effectiveness.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Standardization', 'Variety (cybernetics)', 'Benthic zone', 'Data science', 'Environmental resource management', 'Automation', 'Computer science', 'Systems engineering', 'Environmental science', 'Remote sensing', 'Engineering', 'Geography', 'Ecology', 'Biology', 'Artificial intelligence', 'Mechanical engineering', 'Operating system']

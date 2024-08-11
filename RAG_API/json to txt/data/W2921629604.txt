@@ -1,0 +1,12 @@
+ID: W2921629604
+TITLE: Commercial fishing patterns influence odontocete whale-longline interactions in the Southern Ocean
+AUTHOR: ['Paul Tixier', 'P Burch', 'Gaétan Richard', 'Karin H. Olsson', 'Dirk Welsford', 'Mary‐Anne Lea', 'Mark A. Hindell', 'Christophe Guinet', 'Anaïs Janc', 'Nicolas Gasco', 'Guy Duhamel', 'Maria Ching Villanueva', 'Lavinia Suberg', 'Rhys Arangio', 'Marta Söffker', 'John P. Y. Arnould']
+ABSTRACT:
+Abstract The emergence of longline fishing around the world has been concomitant with an increase in depredation-interactions by odontocete whales (removal of fish caught on hooks), resulting in substantial socio-economic and ecological impacts. The extent, trends and underlying mechanisms driving these interactions remain poorly known. Using long-term (2003–2017) datasets from seven major Patagonian toothfish ( Dissostichus eleginoides ) longline fisheries, this study assessed the levels and inter-annual trends of sperm whale ( Physeter macrocephalus ) and/or killer whale ( Orcinus orca ) interactions as proportions of fishing time (days) and fishing area (spatial cells). The role of fishing patterns in explaining between-fisheries variations of probabilities of odontocete interactions was investigated. While interaction levels remained globally stable since the early 2000s, they varied greatly between fisheries from 0 to &gt;50% of the fishing days and area. Interaction probabilities were influenced by the seasonal concentration of fishing effort, size of fishing areas, density of vessels, their mobility and the depth at which they operated. The results suggest that between-fisheries variations of interaction probabilities are largely explained by the extent to which vessels provide whales with opportunities for interactions. Determining the natural distribution of whales will, therefore, allow fishers to implement better strategies of spatio-temporal avoidance of depredation.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-36389-x.pdf
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Fishing', 'Fishery', 'Geography', 'Whale', 'Biology']

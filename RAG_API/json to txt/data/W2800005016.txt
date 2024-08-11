@@ -1,0 +1,12 @@
+ID: W2800005016
+TITLE: Wave energy resource variation off the west coast of Ireland and its impact on realistic wave energy converters’ power absorption
+AUTHOR: ['Markel Peñalba', 'Alain Ulazia', 'Gabriel Ibarra-Berastegui', 'John V. Ringwood', 'Jon Sáenz']
+ABSTRACT:
+Wave energy converters are specifically designed to extract the maximum energy from a given location. To that end, wave data statistics based on past measures at the given location are commonly used, neglecting any possible future wave trend. This paper studies the variations of the wave energy resource off the west coast of Ireland over the 20th century via the atmospheric reanalyses created by the European Centre for Medium-Range Weather Forecasts. In particular, the European Re-Analysis ERA20 is calibrated via quantile-matching against the new European Re-Analysis ERA-Interim for the period 1979–2010. In addition, the calibrated ERA20 reanalysis is validated against buoy measurements in the area of interest. Results show a significant increase of the wave energy resource along the last century (an increase of over 40%), for which the largest increase is observed within the last 20 years (an increase of 18% between 1980 and 2000). The paper shows that these variations considerably affect the power absorption of realistic devices, showing a power surplus of up to 15% within the lifespan of a wave energy converter. Finally, an increase of extreme events over the last century is also observed, highlighting its impact on power production due to the need of wave energy converters to switch into survival mode during extreme events.
+
+SOURCE: Applied energy
+PDF URL: None
+CITED BY COUNT: 51
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Buoy', 'Wave energy converter', 'Wave power', 'Environmental science', 'Meteorology', 'Range (aeronautics)', 'Renewable energy', 'Energy (signal processing)', 'Power (physics)', 'Climatology', 'West coast', 'Atmospheric sciences', 'Engineering', 'Geography', 'Electrical engineering', 'Geology', 'Physics', 'Statistics', 'Marine engineering', 'Oceanography', 'Mathematics', 'Aerospace engineering', 'Quantum mechanics']

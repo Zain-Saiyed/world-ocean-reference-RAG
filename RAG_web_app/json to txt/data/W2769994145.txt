@@ -1,0 +1,12 @@
+ID: W2769994145
+TITLE: Pseudoliparis swirei sp. nov.: A newly-discovered hadal snailfish (Scorpaeniformes: Liparidae) from the Mariana Trench
+AUTHOR: ['Mackenzie E. Gerringer', 'Thomas D. Linley', 'Alan J. Jamieson', 'Erica Goetze', 'Jeffrey C. Drazen']
+ABSTRACT:
+Pseudoliparis swirei sp. nov. is described from 37 individuals collected in the Mariana Trench at depths 6898–7966 m. The collection of this new species is the deepest benthic capture of a vertebrate with corroborated depth data. Here, we describe P. swirei sp. nov. and discuss aspects of its morphology, biology, distribution, and phylogenetic relationships to other hadal liparids based on analysis of three mitochondrial genes. Pseudoliparis swirei sp. nov. is almost certainly endemic to the Mariana Trench, as other hadal liparids appear isolated to a single trench/ trench system in the Kermadec, Macquarie, South Sandwich, South Orkney, Peru-Chile, Kurile-Kamchatka and Japan trenches. The discovery of another hadal liparid species, apparently abundant at depths where other fish species are few and only found in low numbers, provides further evidence for the dominance of this family among the hadal fish fauna.
+
+SOURCE: Zootaxa
+PDF URL: https://www.biotaxa.org/Zootaxa/article/download/zootaxa.4358.1.7/30549
+CITED BY COUNT: 44
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biology', 'Fauna', 'Trench', 'Benthic zone', 'Dominance (genetics)', 'Fishery', 'Paleontology', 'Ecology', 'Gene', 'Genetics', 'Chemistry', 'Organic chemistry', 'Layer (electronics)']

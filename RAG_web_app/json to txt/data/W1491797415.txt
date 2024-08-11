@@ -1,0 +1,12 @@
+ID: W1491797415
+TITLE: Decline and local extinction of Fucales in French Riviera: the harbinger of future extinctions?
+AUTHOR: ['Thierry Thibaut', 'Aurelie Blanfuné', 'Charles‐François Boudouresque', 'Marc Verlaque']
+ABSTRACT:
+The French Riviera is one of the Mediterranean areas that has been longest and most thoroughly impacted by human activities. Fucales are long-lived, large-sized brown algae that constitute a good model for studying human impact on species diversity. We gathered all historical data (literature and herbarium vouchers), since the early 19th century, to reconstruct their distribution. The current distribution was established from a 7-year (2007-2013) survey of the 212-km shoreline (1/2 500 map), by means of boating, snorkelling and scuba diving. Overall, 18 taxa of Cystoseira and Sargassum have been reported. Upon comparison with historical data, 5 taxa were no longer observed (C. elegans, C. foeniculacea f. latiramosa, C. squarrosa, C. spinosa var. spinosa and S. hornschuchii) while C. jabukae, previously unrecorded, was observed. In addition to these taxa, probably extinct at a local scale, some taxa had suffered a dramatic decline (C. barbata f. barbata, C. crinita, C. spinosa var. compressa and S. acinarium) or become nearly extinct (C. foeniculacea f. tenuiramosa). Three of them, which played in the past significant functional roles in coastal communities, can be considered as functionally extinct. Possible causes of decline and local extinction are discussed. A similar situation has already been reported, although at a much more local scale, in a variety of Mediterranean localities. The question therefore arises about the status of Fucales species in the Mediterranean: are some species on the brink of extinction? Is their extinction at the scale of the French Riviera the harbinger of their extinction Mediterranean–wide?
+
+SOURCE: Mediterranean Marine Science
+PDF URL: https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/download/12875/12469
+CITED BY COUNT: 136
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Fucales', 'Extinction (optical mineralogy)', 'Herbarium', 'Mediterranean climate', 'Taxon', 'Geography', 'Ecology', 'Riviera', 'Extinction event', 'Biology', 'Algae', 'Population', 'Archaeology', 'Paleontology', 'Demography', 'Biological dispersal', 'Sociology']

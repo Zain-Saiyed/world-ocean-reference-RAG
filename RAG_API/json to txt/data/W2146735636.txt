@@ -1,0 +1,12 @@
+ID: W2146735636
+TITLE: Increases in deep ocean ambient noise in the Northeast Pacific west of San Nicolas Island, California
+AUTHOR: ['Mark A. McDonald', 'John A. Hildebrand', 'Sean M. Wiggins']
+ABSTRACT:
+Recent measurement at a previously studied location illustrates the magnitude of increases in ocean ambient noise in the Northeast Pacific over the past four decades. Continuous measurements west of San Nicolas Island, California, over 138days, spanning 2003–2004 are compared to measurements made during the 1960s at the same site. Ambient noise levels at 30–50Hz were 10–12dB higher (95% CI=2.6dB) in 2003–2004 than in 1964–1966, suggesting an average noise increase rate of 2.5–3dB per decade. Above 50Hz the noise level differences between recording periods gradually diminished to only 1–3dB at 100–300Hz. Above 300Hz the 1964–1966 ambient noise levels were higher than in 2003–2004, owing to a diel component which was absent in the more recent data. Low frequency (10–50Hz) ocean ambient noise levels are closely related to shipping vessel traffic. The number of commercial vessels plying the world’s oceans approximately doubled between 1965 and 2003 and the gross tonnage quadrupled, with a corresponding increase in horsepower. Increases in commercial shipping are believed to account for the observed low-frequency ambient noise increase.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: None
+CITED BY COUNT: 388
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Ambient noise level', 'Noise (video)', 'Environmental science', 'Oceanography', 'Tonnage', 'Diel vertical migration', 'Pacific ocean', 'Geology', 'Sound (geography)', 'Artificial intelligence', 'Image (mathematics)', 'Computer science']

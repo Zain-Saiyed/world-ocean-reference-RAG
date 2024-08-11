@@ -1,0 +1,12 @@
+ID: W2751528963
+TITLE: Unlocking Marine Biotechnology in the Developing World
+AUTHOR: ['Cristiane C. Thompson', 'Ricardo Henrique Krüger', 'Fabiano L. Thompson']
+ABSTRACT:
+Fulfilling the promise of marine biotechnology as a source for environmental and biomedical applications remains challenging. New technologies will be necessary to harness marine biodiversity, and collaboration across government, academic, and private sectors will be crucial to create mechanisms of technology transfer and promote the development of new marine biotechnology companies.
+
+SOURCE: Trends in biotechnology
+PDF URL: None
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biotechnology', 'Computational biology', 'Biology', 'Business']

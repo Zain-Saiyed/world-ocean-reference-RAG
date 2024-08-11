@@ -1,0 +1,12 @@
+ID: W4231760036
+TITLE: Deep-Sea Biology
+AUTHOR: ['John Gage', 'Paul A. Tyler']
+ABSTRACT:
+Deep-Sea Biology provides a comprehensive account of the natural history of the organisms associated with the deep-sea floor, and examines their relationship with this remote and inhospitable environment. In the initial chapters, the authors describe the physico-chemical nature of the deep-sea floor and the methods used to collect and study its fauna. They then go on to discuss the ecological framework by exploring spatial patterns of diversity, biomass, vertical zonation and large-scale distributions. Subsequent chapters review current knowledge of feeding, respiration, reproduction and growth processes in these communities. The unique fauna of hydrothermal vents and seeps are considered separately. Finally, there is a discussion of man's exploitation of deep-sea resources and his use of this environment for waste disposal on the fauna of this, the earth's largest ecosystem.
+
+SOURCE: None
+PDF URL: None
+CITED BY COUNT: 607
+PUBLICATION YEAR: 1991
+TYPE: book
+CONCEPTS: ['Fauna', 'Hydrothermal vent', 'Deep sea', 'Ecology', 'Natural (archaeology)', 'Biomass (ecology)', 'Ecosystem', 'Geography', 'Oceanography', 'Earth science', 'Environmental science', 'Biology', 'Geology', 'Paleontology', 'Hydrothermal circulation', 'Archaeology']

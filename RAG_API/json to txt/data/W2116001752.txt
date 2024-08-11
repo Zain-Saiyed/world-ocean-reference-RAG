@@ -1,0 +1,12 @@
+ID: W2116001752
+TITLE: A review of the life cycles and life-history adaptations of pelagic tunicates to environmental conditions
+AUTHOR: ['Don Deibel', 'Ben Lowen']
+ABSTRACT:
+Abstract Deibel, D., and Lowen, B. 2012. A review of the life cycles and life-history adaptations of pelagic tunicates to environmental conditions. – ICES Journal of Marine Science, 69: 358–369. Phylogeny, life cycles, and life-history adaptations of pelagic tunicates to temperature and food concentration are reviewed. Using literature data on lifetime egg production and generation time of appendicularians, salps, and doliolids, rmax, the maximum rate of lifetime reproductive fitness, is calculated as a common metric of adaptation to environmental conditions. The rmax values are high for all three groups, ranging from ∼0.1 to 1.9 d−1, so population doubling times range from ∼8 h to 1 week. These high values of rmax are attributable primarily to short generation times, ranging from 2 to 50 d. Clearly, pelagic tunicates are adapted to event-scale (i.e. days to weeks) rather than seasonal-scale changes in environmental conditions. Although they are not closely related phylogenetically, all three groups have a unique life-history adaptation promoting high lifetime fitness. Appendicularians have late oocyte selection, salps are viviparous, and doliolids possess a polymorphic asexual phase. There has been little research on hermaphroditic appendicularians, on large oceanic salps, and on doliolids generally. Research is needed on factors regulating generation time, on the heritability of life-history traits, and on age- and size-specific rates of mortality.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/69/3/358/29142430/fsr159.pdf
+CITED BY COUNT: 66
+PUBLICATION YEAR: 2011
+TYPE: review
+CONCEPTS: ['Pelagic zone', 'Biology', 'Adaptation (eye)', 'Life history', 'Population', 'Ecology', 'Zoology', 'Demography', 'Neuroscience', 'Sociology']

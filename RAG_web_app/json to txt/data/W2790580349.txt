@@ -1,0 +1,12 @@
+ID: W2790580349
+TITLE: Anthropogenic Signatures of Lead in the Northeast Atlantic
+AUTHOR: ['Dagmara Rusiecka', 'Martha Gledhill', 'Angela Milne', 'Eric P. Achterberg', 'Amber Annett', 'Sov Atkinson', 'Antony J. Birchill', 'Johannes Karstensen', 'Maeve C. Lohan', 'Clarisse Mariez', 'Rob Middag', 'John M. Rolison', 'Toste Tanhua', 'Simon J. Ussher', 'Douglas P. Connelly']
+ABSTRACT:
+Abstract Anthropogenic activities have resulted in enhanced lead (Pb) emissions to the environment over the past century, mainly through the combustion of leaded gasoline. Here we present the first combined dissolved (DPb), labile (LpPb), and particulate (PPb) Pb data set from the Northeast Atlantic (Celtic Sea) since the phasing out of leaded gasoline in Europe. Concentrations of DPb in surface waters have decreased by fourfold over the last four decades. We demonstrate that anthropogenic Pb is transported from the Mediterranean Sea over long distances (&gt;2,500 km). Benthic DPb fluxes exceeded the atmospheric Pb flux in the region, indicating the importance of sediments as a contemporary Pb source. A strong positive correlation between DPb, PPb, and LpPb indicates a dynamic equilibrium between the phases and the potential for particles to “buffer” the DPb pool. This study provides insights into Pb biogeochemical cycling and demonstrates the potential of Pb in constraining ocean circulation patterns.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Oceanography', 'Environmental science', 'Benthic zone', 'Lead (geology)', 'Particulates', 'Mediterranean sea', 'Mediterranean climate', 'Flux (metallurgy)', 'Mesopelagic zone', 'Environmental chemistry', 'Atmospheric sciences', 'Geology', 'Pelagic zone', 'Ecology', 'Chemistry', 'Biology', 'Organic chemistry', 'Geomorphology']

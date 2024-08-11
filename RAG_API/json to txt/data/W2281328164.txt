@@ -1,0 +1,12 @@
+ID: W2281328164
+TITLE: Anthropogenic climate change drives shift and shuffle in North Atlantic phytoplankton communities
+AUTHOR: ['Andrew D. Barton', 'Andrew J. Irwin', 'Zoe V. Finkel', 'Charles A. Stock']
+ABSTRACT:
+Anthropogenic climate change has shifted the biogeography and phenology of many terrestrial and marine species. Marine phytoplankton communities appear sensitive to climate change, yet understanding of how individual species may respond to anthropogenic climate change remains limited. Here, using historical environmental and phytoplankton observations, we characterize the realized ecological niches for 87 North Atlantic diatom and dinoflagellate taxa and project changes in species biogeography between mean historical (1951-2000) and future (2051-2100) ocean conditions. We find that the central positions of the core range of 74% of taxa shift poleward at a median rate of 12.9 km per decade (km⋅dec(-1)), and 90% of taxa shift eastward at a median rate of 42.7 km⋅dec(-1) The poleward shift is faster than previously reported for marine taxa, and the predominance of longitudinal shifts is driven by dynamic changes in multiple environmental drivers, rather than a strictly poleward, temperature-driven redistribution of ocean habitats. A century of climate change significantly shuffles community composition by a basin-wide median value of 16%, compared with seasonal variations of 46%. The North Atlantic phytoplankton community appears poised for marked shift and shuffle, which may have broad effects on food webs and biogeochemical cycles.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/113/11/2964.full.pdf
+CITED BY COUNT: 204
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Climate change', 'Ecology', 'Oceanography', 'Biogeochemical cycle', 'Range (aeronautics)', 'Ecological niche', 'Dinoflagellate', 'Biogeography', 'Habitat', 'Taxon', 'Environmental science', 'Geography', 'Biology', 'Geology', 'Nutrient', 'Materials science', 'Composite material']

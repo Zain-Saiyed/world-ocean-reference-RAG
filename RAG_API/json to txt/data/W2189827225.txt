@@ -1,0 +1,12 @@
+ID: W2189827225
+TITLE: Impaired gamete production and viability in Atlantic croaker collected throughout the 20,000 km2 hypoxic region in the northern Gulf of Mexico
+AUTHOR: ['Peter Thomas', 'Md Saydur Rahman', 'Matthew E. Picha', 'Wenxian Tan']
+ABSTRACT:
+The long-term impacts of recent marked increases in the incidence and extent of hypoxia (dissolved oxygen <2 mg/L) in coastal regions worldwide on fisheries and ecosystems are unknown. Reproductive impairment was investigated in Atlantic croaker collected in 2010 from the extensive coastal hypoxic region in the northern Gulf of Mexico. Potential fecundity was significantly lower in croaker collected throughout the ~20,000 km(2) hypoxic region than in croaker from normoxic sites. In vitro bioassays of gamete viability showed reductions in oocyte maturation and sperm motility in croaker collected from the hypoxic sites in response to reproductive hormones which were accompanied by decreases in gonadal levels of membrane progestin receptor alpha, the receptor regulating these processes. The finding that environmental hypoxia exposure reduces oocyte viability in addition to decreasing oocyte production in croaker suggests that fecundity estimates need to be adjusted to account for the decrease in oocyte maturation.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Gamete', 'Oocyte', 'Biology', 'Fecundity', 'Hypoxia (environmental)', 'Fishery', 'Human fertilization', 'Ecology', 'Zoology', 'Chemistry', 'Embryo', 'Population', 'Anatomy', 'Organic chemistry', 'Oxygen', 'Demography', 'Sociology']

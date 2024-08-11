@@ -1,0 +1,12 @@
+ID: W2123420867
+TITLE: Perfluorinated compounds in red-throated divers from the German Baltic Sea: new findings from their distribution in 10 different tissues
+AUTHOR: ['Janne Rubarth', 'Annekatrin Dreyer', 'Nils Guse', 'Jürgen W. Einax', 'Ralf Ebinghaus']
+ABSTRACT:
+Environmental contextPerfluorinated compounds are commonly used chemicals that are detected globally in all environmental matrices. We investigated the extent of contamination by perfluorinated compounds in the red-throated diver, a marine predatory bird, and observed an unusual distribution of perfluorinated compounds in tissues. The data help us to better understand the behaviour of these contaminants in organisms. AbstractTwenty poly- and perfluorinated compounds (PFCs) were investigated in four red-throated divers (Gavia stellata) from the German Baltic Sea sampled in 2005. Concentrations of perfluoroalkyl sulfonates (PFSAs), perfluoroalkyl carboxylates (PFCAs), alkylated perfluoroalkyl sulfonamides, alkylated perfluoroalkyl sulfonamidoethanols and perfluorooctane sulfonamides were determined in blood, brain, fatty tissue, gall bladder, heart, kidney, liver, lung, muscle and spleen by high-performance liquid chromatography tandem mass spectrometry (HPLC-MS/MS). For quantification standard addition was applied. Twelve compounds were detected with average total PFC concentrations ranging from 42 ng g–1 in muscle to 220 ng g–1 in liver samples. Perfluorooctane sulfonate (PFOS) was the major compound in each of the 40 tissue samples. Except for brain, perfluoroundecanoate was the dominant PFCA. In brain samples preferential enrichment of long-chain PFSAs and PFCAs was observed. The total PFC body burden was estimated to 100 ± 39 µg. Multivariate statistical analyses supported the identification of the preferred accumulation ‘location’ of individual PFCs in the birds’ body.
+
+SOURCE: Environmental chemistry
+PDF URL: https://www.publish.csiro.au/en/pdf/EN10142
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Perfluorooctane', 'Environmental chemistry', 'Chemistry', 'Baltic sea', 'Contamination', 'Chromatography', 'Sulfonate', 'Biology', 'Ecology', 'Organic chemistry', 'Sodium', 'Oceanography', 'Geology']

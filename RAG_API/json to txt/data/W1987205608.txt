@@ -1,0 +1,12 @@
+ID: W1987205608
+TITLE: Emergent Biogeography of Microbial Communities in a Model Ocean
+AUTHOR: ['Michael J. Follows', 'Stephanie Dutkiewicz', 'Scott Grant', 'Sallie W. Chisholm']
+ABSTRACT:
+A marine ecosystem model seeded with many phytoplankton types, whose physiological traits were randomly assigned from ranges defined by field and laboratory data, generated an emergent community structure and biogeography consistent with observed global phytoplankton distributions. The modeled organisms included types analogous to the marine cyanobacterium Prochlorococcus. Their emergent global distributions and physiological properties simultaneously correspond to observations. This flexible representation of community structure can be used to explore relations between ecosystems, biogeochemical cycles, and climate change.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 717
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Biogeography', 'Prochlorococcus', 'Biogeochemical cycle', 'Phytoplankton', 'Ecosystem', 'Ecology', 'Marine ecosystem', 'Environmental science', 'Community structure', 'Oceanography', 'Marine biology', 'Cyanobacteria', 'Biology', 'Synechococcus', 'Geology', 'Genetics', 'Nutrient', 'Bacteria']

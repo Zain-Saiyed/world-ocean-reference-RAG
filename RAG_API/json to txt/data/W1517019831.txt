@@ -1,0 +1,12 @@
+ID: W1517019831
+TITLE: Eutrophication and macroalgal blooms in temperate and tropical coastal waters: nutrient enrichment experiments with <i>Ulva</i> spp.
+AUTHOR: ['Mirta Teichberg', 'Sophia E. Fox', 'Ylva S. Olsen', 'Iván Valiela', 'Paulina Martinetto', 'Oscar Iribarne', 'Elizabeti Yuriko Muto', 'Mônica Angélica Varella Petti', 'Thaïs Navajas Corbisier', 'Martín F. Soto‐Jiménez', 'Federico Páez Osuna', 'Paula M. Castro', 'Helena Freitas', 'A. Zitelli', 'Massimo Cardinaletti', 'Davide Tagliapietra']
+ABSTRACT:
+Abstract Receiving coastal waters and estuaries are among the most nutrient‐enriched environments on earth, and one of the symptoms of the resulting eutrophication is the proliferation of opportunistic, fast‐growing marine seaweeds. Here, we used a widespread macroalga often involved in blooms, Ulva spp., to investigate how supply of nitrogen (N) and phosphorus (P), the two main potential growth‐limiting nutrients, influence macroalgal growth in temperate and tropical coastal waters ranging from low‐ to high‐nutrient supplies. We carried out N and P enrichment field experiments on Ulva spp. in seven coastal systems, with one of these systems represented by three different subestuaries, for a total of nine sites. We showed that rate of growth of Ulva spp. was directly correlated to annual dissolved inorganic nitrogen (DIN) concentrations, where growth increased with increasing DIN concentration. Internal N pools of macroalgal fronds were also linked to increased DIN supply, and algal growth rates were tightly coupled to these internal N pools. The increases in DIN appeared to be related to greater inputs of wastewater to these coastal waters as indicated by high δ 15 N signatures of the algae as DIN increased. N and P enrichment experiments showed that rate of macroalgal growth was controlled by supply of DIN where ambient DIN concentrations were low, and by P where DIN concentrations were higher, regardless of latitude or geographic setting. These results suggest that understanding the basis for macroalgal blooms, and management of these harmful phenomena, will require information as to nutrient sources, and actions to reduce supply of N and P in coastal waters concerned.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 287
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Nutrient', 'Environmental science', 'Algae', 'Temperate climate', 'Frond', 'Estuary', 'Phosphorus', 'Oceanography', 'Ecology', 'Environmental chemistry', 'Biology', 'Botany', 'Chemistry', 'Organic chemistry', 'Geology']

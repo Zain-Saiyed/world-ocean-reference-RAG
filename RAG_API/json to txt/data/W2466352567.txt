@@ -1,0 +1,12 @@
+ID: W2466352567
+TITLE: Characteristics of coastline changes in mainland China since the early 1940s
+AUTHOR: ['Xiyong Hou', 'Ting Wu', 'Hou Wan', 'Qing Chen', 'YuanDong Wang', 'Longxing Yu']
+ABSTRACT:
+Based on multi-temporal topographic maps, remote sensing images and field surveys covering the entire coastal zone of mainland China, the coastlines of six periods since the early 1940s were extracted. Coastline changes over the last 70 years were then analyzed in terms of coastline structure, coastline fractals, coastline change rates, land-sea patterns, and bay areas. The results showed that mainland coastline structure changed dramatically, and due to the significant coastline artificialization mainly driven by sea reclamation and coastal engineering, the remaining natural coastline merely accounts for less than one third at present. Coastline fractal dimension represented an overall spatial pattern of “north < entirety < south”; however, the discrepancy between the north and south coast was apparently narrowed due to dramatic coastline artificialization of northern China which in turn altered the whole pattern. Patterns and processes of land-sea interchange along the mainland coast were complex and varied spatially and temporally, with over 68% advancing toward sea and 22% retreating toward land. The net growth of land area was nearly 14.2 ×103 km2 with an average growth rate of 202.82 km2 a−1; and coast retreat was characterized by area decrease of 93 bays with a magnitude of 10.1 ×103 km2 and an average shrinking rate up to 18.19% or an average shrinking speed up to 144.20 km2 a−1, among which the total area of Bohai shrunk by 7.06%, with an average annual loss amounting to 82 km2. The dramatic coastline changes along mainland China have brought about kinds of challenges to the coastal environment, therefore the integrated management, effective environment protection and sustainable utilization of coastlines is urgent.
+
+SOURCE: Science China. Earth Sciences/Science China. Earth sciences
+PDF URL: None
+CITED BY COUNT: 104
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Mainland China', 'Land reclamation', 'Bay', 'Geology', 'Mainland', 'Physical geography', 'China', 'Oceanography', 'Land area', 'Period (music)', 'China mainland', 'Geography', 'Environmental science', 'Archaeology', 'Physics', 'Agricultural science', 'Acoustics']

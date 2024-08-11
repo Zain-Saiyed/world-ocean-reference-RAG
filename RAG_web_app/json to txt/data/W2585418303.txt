@@ -1,0 +1,12 @@
+ID: W2585418303
+TITLE: The air-sea exchange of mercury in the low latitude Pacific and Atlantic Oceans
+AUTHOR: ['Robert P. Mason', 'Chad R. Hammerschmidt', 'Carl H. Lamborg', 'Katlin L. Bowman', 'Gretchen J. Swarr', 'Rachel Shelley']
+ABSTRACT:
+Air-sea exchange is an important component of the global mercury (Hg) cycle as it mediates the rate of increase in ocean Hg, and therefore the rate of change in levels of methylmercury (MeHg), the most toxic and bioaccumulative form of Hg in seafood and the driver of human health concerns. Gas evasion of elemental Hg (Hg0) from the ocean is an important sink for ocean Hg with previous studies suggesting that evasion is not uniform across ocean basins. To understand further the factors controlling Hg0 evasion, and its relationship to atmospheric Hg deposition, we made measurements of dissolved Hg0 (DHg0) in surface waters, along with measurements of Hg in precipitation and on aerosols, and Hg0 in marine air, during two GEOTRACES cruises; GP16 in the equatorial South Pacific and GA03 in the North Atlantic. We contrast the concentrations and estimated evasion fluxes of Hg0 during these cruises, and the factors influencing this exchange. Concentrations of DHg0 and fluxes were lower during the GP16 cruise than during the GA03 cruise, and likely reflect the lower atmospheric deposition in the South Pacific. An examination of Hg/Al ratios for aerosols from the cruises suggests that they were anthropogenically-enriched relative to crustal material, although to a lesser degree for the South Pacific than the aerosols over the North Atlantic. Both regions appear to be net sources of Hg0 to the atmosphere (evasion>deposition) and the reasons for this are discussed. Overall, the studies reported here provide further clarification on the factors controlling evasion of Hg0 from the ocean surface, and the role of anthropogenic inputs in influencing ocean Hg concentrations.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Oceanography', 'Mercury (programming language)', 'Environmental science', 'Sink (geography)', 'Latitude', 'Elemental mercury', 'Methylmercury', 'Bioaccumulation', 'Atmospheric sciences', 'Environmental chemistry', 'Geology', 'Chemistry', 'Geography', 'Cartography', 'Geodesy', 'Organic chemistry', 'Flue gas', 'Computer science', 'Programming language']

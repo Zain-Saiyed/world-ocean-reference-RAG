@@ -1,0 +1,12 @@
+ID: W2330992985
+TITLE: The geographical distribution of the abyssal and hadal (ultra-abyssal) fauna in relation to the vertical zonation of the ocean
+AUTHOR: ['N.G. Vinogradova']
+ABSTRACT:
+Abstract The analysis of the distribution of the deep-sea macrobenthos (more than 2000 species) permitted to recognize the scheme of zoogeography of the abyssal and hadal zones. It includes the Pacific-North-Indian, Atlantic, and Antarctic deep-sea regions, 6 subregions and 19 provinces (8 abyssal and 11 hadal). About 85 % of species occur in one ocean only and 4 % are cosmopolitans. The greater the amplitude of vertical distribution of a species the wider its range. The hadal fauna has 50-75 % of the endemics in each trench. A direct relationship exists between the degree of isolation of the abyssal fauna of one or another taxon and the extension of the distribution of the given group as a whole in the ocean. In the latitudinal direction the faunistic connections are more strongly expressed than in the meridional. The degree of Preston's index of similarity varies in different vertical faunistic zones. The differences between faunas of different regions is increasing with depth. All the elements of the biological structure of the ocean (the latitudinal and meridional symmetry, circumoceanic zonation) are represented in the abyssal zoogeography. The distribution of the deep-sea benthos is influenced by means.of its trophic relation by a large complex of general oceanic processes, which determines the unity of the biological structure at all oceanic depths.
+
+SOURCE: Sarsia
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 1979
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Fauna', 'Zoogeography', 'Oceanography', 'Abyssal plain', 'Geology', 'Deep sea', 'Benthic zone', 'Range (aeronautics)', 'Macrobenthos', 'Bathyal zone', 'Paleontology', 'Ecology', 'Biology', 'Materials science', 'Composite material', 'Structural basin']

@@ -1,0 +1,12 @@
+ID: W2790078404
+TITLE: Phytoplankton as Key Mediators of the Biological Carbon Pump: Their Responses to a Changing Climate
+AUTHOR: ['Samarpita Basu', 'Katherine Mackey']
+ABSTRACT:
+The world’s oceans are a major sink for atmospheric carbon dioxide (CO2). The biological carbon pump plays a vital role in the net transfer of CO2 from the atmosphere to the oceans and then to the sediments, subsequently maintaining atmospheric CO2 at significantly lower levels than would be the case if it did not exist. The efficiency of the biological pump is a function of phytoplankton physiology and community structure, which are in turn governed by the physical and chemical conditions of the ocean. However, only a few studies have focused on the importance of phytoplankton community structure to the biological pump. Because global change is expected to influence carbon and nutrient availability, temperature and light (via stratification), an improved understanding of how phytoplankton community size structure will respond in the future is required to gain insight into the biological pump and the ability of the ocean to act as a long-term sink for atmospheric CO2. This review article aims to explore the potential impacts of predicted changes in global temperature and the carbonate system on phytoplankton cell size, species and elemental composition, so as to shed light on the ability of the biological pump to sequester carbon in the future ocean.
+
+SOURCE: Sustainability
+PDF URL: https://www.mdpi.com/2071-1050/10/3/869/pdf?version=1525344403
+CITED BY COUNT: 152
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Biological pump', 'Sink (geography)', 'Environmental science', "Carbon dioxide in Earth's atmosphere", 'Carbon sink', 'Carbon dioxide', 'Climate change', 'Atmospheric carbon cycle', 'Oceanography', 'Ecology', 'Nutrient', 'Carbon sequestration', 'Biology', 'Geology', 'Geography', 'Cartography']

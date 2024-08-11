@@ -1,0 +1,12 @@
+ID: W2895057634
+TITLE: Losses of natural coastal wetlands by land conversion and ecological degradation in the urbanizing Chinese coast
+AUTHOR: ['Qiaoying Lin', 'Shen Yu']
+ABSTRACT:
+Coastal wetland ecosystems have experienced serious losses of area and ecological function and are currently facing worldwide challenges due to coastal development and global climate change. This study attempted to explore patterns and possible factors driving loss of natural coastal wetlands due to land conversion (permanent loss) and ecological degradation (temporal loss) in three urbanizing coastal city clusters, China in the period of 1990-2015. The natural coastal wetland area was substantially lost due to land conversion highly related to regional economic development. The ecological degradation, assessed as a function of surface water quality, resulted in much greater impairment area of natural coastal wetlands. This impairment was predominantly driven by inbound river pollutants' discharge, rather than local discharge. This study suggests that the ecological degradation should be considered as well as the land conversion loss for conserving the remaining natural coastal wetland ecosystems. The pollutant discharges from the inbound river watersheds need to be mitigated as the local discharges for reducing the functional degradation of the natural coastal wetlands while the regional economic development plan should consider the conservation needs of the remaining natural coastal wetlands worldwide.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-33406-x.pdf
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Wetland', 'Environmental science', 'Ecosystem', 'Natural (archaeology)', 'Environmental degradation', 'Functional ecology', 'Land use', 'Ecosystem services', 'Pollutant', 'Ecology', 'Environmental protection', 'Geography', 'Archaeology', 'Biology']

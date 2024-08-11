@@ -1,0 +1,12 @@
+ID: W2122425522
+TITLE: Diversity patterns along and across the Chilean margin: a continental slope encompassing oxygen gradients and methane seep benthic habitats
+AUTHOR: ['Javier Sellanes', 'Carlos Neira', 'Eduardo Quiroga', 'Núria Teixidó']
+ABSTRACT:
+Abstract In the present study we review datasets available for the Chilean margin to assess the relationship between environmental (or habitat) heterogeneity and benthic diversity. Several factors, such as the presence of different water masses, including the oxygen‐deficient Equatorial Sub‐surface Waters (ESSW) at the continental shelf and upper slope, and the Antarctic Intermediate Waters (AIW) at mid slope depths appear to control the bathymetric distribution of benthic communities. The presence of methane seeps and an extended oxygen minimum zone (OMZ) add complexity to the benthic distribution patterns observed. All these factors generate environmental heterogeneity, which is predicted to affect the diversity patterns both along and across the Chilean continental margin. The response to these factors differs among different faunal size groups: meio‐, macro‐, and megafauna. Physiological adaptations to oxygen deficiency and constraints related to body size of each group seem to explain the larger‐scale patterns observed, while sediment/habitat heterogeneity ( e.g. at water mass boundaries, hardgrounds, biogeochemical patchiness, sediment organic content, grain size) may influence the local fauna diversity patterns.
+
+SOURCE: Marine ecology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1439-0485.2009.00332.x
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Oxygen minimum zone', 'Continental margin', 'Continental shelf', 'Fauna', 'Ecology', 'Sediment', 'Habitat', 'Petroleum seep', 'Oceanography', 'Geology', 'Megafauna', 'Biogeochemical cycle', 'Biodiversity', 'Environmental science', 'Biology', 'Methane', 'Paleontology', 'Pleistocene', 'Upwelling', 'Tectonics']

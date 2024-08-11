@@ -1,0 +1,12 @@
+ID: W2123403933
+TITLE: Global methylmercury exposure from seafood consumption and risk of developmental neurotoxicity: a systematic review
+AUTHOR: ['Mary C. Sheehan', 'Thomas A. Burke', 'Ana Navas‐Acién', 'Patrick N. Breysse', 'John McGready', 'Mary A. Fox']
+ABSTRACT:
+Global mercury exposure
+
+SOURCE: Bulletin of the World Health Organization
+PDF URL: None
+CITED BY COUNT: 225
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Methylmercury', 'Environmental health', 'Systematic review', 'Neurotoxicity', 'Mercury (programming language)', 'Medicine', 'Fish consumption', 'Mercury poisoning', 'Toxicology', 'MEDLINE', 'Biology', 'Fish <Actinopterygii>', 'Fishery', 'Ecology', 'Computer science', 'Toxicity', 'Internal medicine', 'Biochemistry', 'Programming language', 'Bioaccumulation']

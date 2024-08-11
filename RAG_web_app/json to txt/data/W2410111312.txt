@@ -1,0 +1,12 @@
+ID: W2410111312
+TITLE: Microbes and the Arctic Ocean
+AUTHOR: ['Iain Dickinson', 'Gordon Walker', 'David A. Pearce']
+ABSTRACT:
+It is surprising how little we really know about the microorganisms that live within the Arctic Ocean and in particular their role in the marine food web. A comprehensive food web study is yet to be conducted, and although many studies talk of an Arctic marine food web, publications normally focus on just one aspect of it. In some way, it mirrors our knowledge of the deep sea. We know it exists, we know the main interactions and pathways, but a great deal of the background information and detail is lacking. The single most important part of our research, therefore, is to understand the role and function of microorganisms in the environment. A fitting analogy is perhaps an iceberg. We know what it looks like, we know roughly what it does and how it behaves, we even know that the majority of the iceberg is hidden from view. However, we know very little about the effects of an iceberg on the general environment around it. Further, if we induce change in the behaviour of that iceberg, we have little idea what effect it might have. This is due to a combination of factors; (1) the complexity of the science, (2) the ambition, cost and logistics of conducting experimental work in these systems, (3) the fact that the existing, relatively simple model is sufficient for most purposes, (4) technological and methodological limitations and (5) research funding tends not to favour supporting ambitious long term ecological studies which can be very expensive. However, as with most questions in science, the harder we look, the more there is to find, and for every question we answer, a number of new questions arise. In this chapter, we attempt to give an overview of what is known about the microbial community in the Arctic marine food web, assess why this knowledge is relatively limited and pose some of the questions that remain to be answered.
+
+SOURCE: Advances in environmental microbiology
+PDF URL: None
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['Iceberg', 'Need to know', 'Arctic', 'Function (biology)', 'The arctic', 'Analogy', 'Data science', 'Geography', 'Computer science', 'Ecology', 'Oceanography', 'Sea ice', 'Biology', 'Meteorology', 'Epistemology', 'Geology', 'Philosophy', 'Computer security', 'Evolutionary biology']

@@ -1,0 +1,12 @@
+ID: W2147239733
+TITLE: Modelling ecological change over half a century in a subtropical estuary: impacts of climate change, land-use, urbanization and freshwater extraction
+AUTHOR: ['SA Condie', 'Daniel B. Hayes', 'Elizabeth A. Fulton', 'Marie Savina']
+ABSTRACT:
+The Clarence River Estuary is the largest estuary in southeast Australia, with an extensive floodplain encompassing multiple river channels and a large coastal lagoon.It is the focus of major commercial and recreational fisheries and there is pressure to divert its freshwater inputs for agricultural and domestic uses.We used a spatial biogeochemical model to simulate the variability and evolution of this system on timescales from days to decades over the past half century.Like most tropical and subtropical estuaries, the Clarence River Estuary is strongly influenced by river discharge, sediment and nutrient loads.Given the high nutrient loads arriving from the upper catchment, plankton biomasses in the model were typically limited by flushing through the estuary channels.However, the longer residence times of the lagoons produced a profoundly different regime where higher zooplankton concentrations were supported by recycling of nutrients and detritus.Using alternative model scenarios, it was found that the ecology of the lagoon was sensitive to changes in land-use and urbanization within the local sub-catchment, but was largely insensitive to changes in upstream river discharge (i.e.rainfall or freshwater extraction).The opposite was true in the estuary channels, where changes in land-use or urbanisation in the populated lower catchment had little effect on the estuarine ecology, while even modest reductions in river discharges dramatically increased the biomass of the smaller phytoplankton and zooplankton groups, and favoured benthic algae over seagrass and macroalgae.The contrasting responses of these 2 estuarine environments suggests the need for distinct management approaches, with stringent controls on nutrient loads into coastal lagoons and protection of environmental flows into estuary channels.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps_oa/m457p043.pdf
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Estuary', 'Environmental science', 'Subtropics', 'Oceanography', 'Ecology', 'Climate change', 'Fishery', 'Biology', 'Geology']

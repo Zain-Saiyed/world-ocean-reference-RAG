@@ -1,0 +1,12 @@
+ID: W2944698399
+TITLE: A review on floating photovoltaic (FPV) power generation units
+AUTHOR: ['Parisa Ranjbaran', 'Hossein Yousefi', 'Gevork B. Gharehpetian', 'Fatemeh Razi Astaraei']
+ABSTRACT:
+The floating photovoltaic (FPV) system is a new power generation system which has attracted a wide attention due to its numerous advantages. Apart from power generation, the system can reduce the water evaporation. Development of FPV power plants requires studying both mechanical and electrical structure of these systems. Many studies have been conducted on FPV systems which have assessed these systems from different points of view. In this paper, an analytical analysis and updated review that studies different aspects of FPV systems as a power generation system is presented. Also, a comparison between the ground mounted and floating PV systems is presented and the gaps of the reviewed subjects are indicated. Furthermore, the applicable FPV array interconnection schemes are discussed and the most favorable reconfiguration schemes for FPV arrays are shown, also multilevel DC-DC converters for grid integration of FPV panels are investigated. Reviewing the articles indicated that the main focus of the researchers was on the experimental study and mechanical investigation of FPV systems as well as the impact of the application of these systems on water evaporation. The present research has a potential to make a contribution to the electrical design and application of FPV panels which are less described in the existing papers.
+
+SOURCE: Renewable & sustainable energy reviews
+PDF URL: None
+CITED BY COUNT: 118
+PUBLICATION YEAR: 2019
+TYPE: review
+CONCEPTS: ['Photovoltaic system', 'Electric power system', 'Interconnection', 'Converters', 'Electricity generation', 'Electrical engineering', 'Computer science', 'Systems engineering', 'Power (physics)', 'Engineering', 'Telecommunications', 'Physics', 'Quantum mechanics', 'Voltage']

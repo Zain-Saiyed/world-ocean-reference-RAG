@@ -1,0 +1,12 @@
+ID: W1826044145
+TITLE: Global nutrient transport in a world of giants
+AUTHOR: ['Christopher E. Doughty', 'Joe Roman', 'Sören Faurby', 'Adam Wolf', 'Alifa Bintha Haque', 'Elisabeth S. Bakker', 'Yadvinder Malhi', 'John B. Dunning', 'Jens‐Christian Svenning']
+ABSTRACT:
+The past was a world of giants, with abundant whales in the sea and large animals roaming the land. However, that world came to an end following massive late-Quaternary megafauna extinctions on land and widespread population reductions in great whale populations over the past few centuries. These losses are likely to have had important consequences for broad-scale nutrient cycling, because recent literature suggests that large animals disproportionately drive nutrient movement. We estimate that the capacity of animals to move nutrients away from concentration patches has decreased to about 8% of the preextinction value on land and about 5% of historic values in oceans. For phosphorus (P), a key nutrient, upward movement in the ocean by marine mammals is about 23% of its former capacity (previously about 340 million kg of P per year). Movements by seabirds and anadromous fish provide important transfer of nutrients from the sea to land, totalling ∼150 million kg of P per year globally in the past, a transfer that has declined to less than 4% of this value as a result of the decimation of seabird colonies and anadromous fish populations. We propose that in the past, marine mammals, seabirds, anadromous fish, and terrestrial animals likely formed an interlinked system recycling nutrients from the ocean depths to the continental interiors, with marine mammals moving nutrients from the deep sea to surface waters, seabirds and anadromous fish moving nutrients from the ocean to land, and large animals moving nutrients away from hotspots into the continental interior.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/113/4/868.full.pdf
+CITED BY COUNT: 321
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Fish migration', 'Nutrient', 'Ecology', 'Population', 'Biology', 'Environmental change', 'Nutrient cycle', 'Geography', 'Fishery', 'Oceanography', 'Habitat', 'Climate change', 'Geology', 'Demography', 'Sociology']

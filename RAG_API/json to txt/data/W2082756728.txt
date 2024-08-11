@@ -1,0 +1,12 @@
+ID: W2082756728
+TITLE: West Antarctic Peninsula: An Ice-Dependent Coastal Marine Ecosystem in Transition
+AUTHOR: ['Hugh W. Ducklow', 'William R. Fraser', 'Michael P. Meredith', 'Sharon Stammerjohn', 'Scott C. Doney', 'Douglas G. Martinson', 'Sévrine F. Sailley', 'Oscar Schofield', 'Deborah K. Steinberg', 'Hugh J. Venables', 'Charles D. Amsler']
+ABSTRACT:
+The extent, duration, and seasonality of sea ice and glacial discharge strongly influence Antarctic marine ecosystems. Most organisms' life cycles in this region are attuned to ice seasonality. The annual retreat and melting of sea ice in the austral spring stratifies the upper ocean, triggering large phytoplankton blooms. The magnitude of the blooms is proportional to the winter extent of ice cover, which can act as a barrier to wind mixing. Antarctic krill, one of the most abundant metazoan populations on Earth, consume phytoplankton blooms dominated by large diatoms. Krill, in turn, support a large biomass of predators, including penguins, seals, and whales. Human activity has altered even these remote ecosystems. The western Antarctic Peninsula region has warmed by 7°C over the past 50 years, and sea ice duration has declined by almost 100 days since 1978, causing a decrease in phytoplankton productivity in the northern peninsula region. Besides climate change, Antarctic marine systems have been greatly altered by harvesting of the great whales and now krill. It is unclear to what extent the ecosystems we observe today differ from the pristine state.
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/26-3_ducklow.pdf
+CITED BY COUNT: 254
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Peninsula', 'Oceanography', 'Ecosystem', 'Marine ecosystem', 'Environmental science', 'Physical geography', 'Climatology', 'Geology', 'Geography', 'Ecology', 'Biology', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W2896870140
+TITLE: Governing Resilience through Power: Explaining Community Adaptations to Extreme Events in Coastal Louisiana
+AUTHOR: ['Candace K. May']
+ABSTRACT:
+Abstract Scholars of socioecological resilience are calling for approaches that will aid understanding of the articulations of structure, power, and agency in adaptations toward resilience. This article presents a framework designed to guide analyses of structure and agency through three different forms of power: structural, differential, and systemic. It applies the framework to a case study of a fishery‐dependent Louisiana town, which was rebuilt and reimagined following over a decade of natural, technological, and economic shocks and disturbances. Data collection involved policy and document review and field research, consisting of observations and semistructured interviews. Findings demonstrate how the town’s adaptations toward resilience were produced by power operating through the legislated rights and responsibilities of the Twin Parish Port District; differential capacity of stratified groups; and systemic aspects of generalized values, norms, and preferences manifested through politics of place. In the context of successful community adaptations toward resilience, the article raises questions regarding sustainability and discusses the relevance of the power framework for explaining adaptive responses in cooperative, as well as conflictual contexts.
+
+SOURCE: Rural sociology
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Context (archaeology)', 'Agency (philosophy)', 'Psychological resilience', 'Community resilience', 'Sustainability', 'Sociology', 'Power (physics)', 'Adaptive capacity', 'Environmental resource management', 'Economic growth', 'Geography', 'Economics', 'Social psychology', 'Ecology', 'Social science', 'Psychology', 'Climate change', 'Engineering', 'Physics', 'Archaeology', 'Quantum mechanics', 'Redundancy (engineering)', 'Reliability engineering', 'Biology']

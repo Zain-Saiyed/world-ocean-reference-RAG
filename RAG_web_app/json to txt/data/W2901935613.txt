@@ -1,0 +1,12 @@
+ID: W2901935613
+TITLE: Managing Mangrove Forests Using Open Source-Based WebGIS
+AUTHOR: ['K. Jayakumar']
+ABSTRACT:
+This chapter introduces an open source-based WebGIS for the management of mangrove forests. Since the 1970s, the mangrove forests have faced many difficulties and have lost their original areas worldwide, which was identified through remote-sensing techniques used widely for mapping and monitoring of mangroves. This chapter explains how the WebGIS was developed by using open source software in order to access mangrove information by users through the Internet. The chapter then highlights the benefits of WebGIS, including a three-tier architecture (client, database, and users); the functions of tools are also explained. Following this, the results part shows that the areas of mangroves were increased to about 2908 ha over the last 31 years. In the end, it was highlighted that this WebGIS-based study would be useful to end users with up-to-date spatial data of qualitative and quantitative information on mangroves to guide strategic implementation of sustainable mangrove forest planning and management.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Mangrove', 'Open source', 'Geography', 'Forestry', 'Environmental resource management', 'Computer science', 'Ecology', 'Environmental science', 'Biology', 'Operating system', 'Software']

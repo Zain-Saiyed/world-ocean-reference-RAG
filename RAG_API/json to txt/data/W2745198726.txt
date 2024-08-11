@@ -1,0 +1,12 @@
+ID: W2745198726
+TITLE: Hypoxia off the Changjiang (Yangtze River) estuary and in the adjacent East China Sea: Quantitative approaches to estimating the tidal impact and nutrient regeneration
+AUTHOR: ['⎜Zhuoyi Zhu', 'Hui Wu', 'Sumei Liu', 'Ying Wu', 'Daji Huang', 'Jing Zhang', 'Guosen Zhang']
+ABSTRACT:
+Large areas of hypoxia have been reported off The Changjiang Estuary and in the East China Sea. Five cruises, covering winter, spring, and summer, were carried out from 2007 to 2013 in this region, and in August 2013 (summer), an extensive hypoxic event (11,150 km2) was observed, which was characterized by an estimated bulk oxygen depletion of 5.1 million tons. A strong tidal impact was observed associated with the bottom oxygen depletion, with the periodicity of diel variations in dissolved oxygen being 12 h (i.e., similar to the tidal cycle). A conservative estimate of nutrient regeneration suggested that during the hypoxic event of August 2013, the amount of regenerated nitrogen (as nitrate) and phosphorus (as dissolved inorganic phosphorus) was 27,000–30,000 tons and 1300–41,000 tons, respectively. Estimates of the absolute (bulk) regenerated nutrient fluxes were much greater than the conservative estimates.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Estuary', 'Hypoxia (environmental)', 'Nutrient', 'Environmental science', 'Diel vertical migration', 'China sea', 'Oceanography', 'Nitrate', 'Phosphorus', 'Hydrology (agriculture)', 'Oxygen', 'Geology', 'Ecology', 'Biology', 'Chemistry', 'Geotechnical engineering', 'Organic chemistry']

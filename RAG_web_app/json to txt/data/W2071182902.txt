@@ -1,0 +1,12 @@
+ID: W2071182902
+TITLE: Sedimentary facies, geomorphic features and habitat distribution at the Hudson Canyon head from AUV multibeam data
+AUTHOR: ['Martina Pierdomenico', 'Vincent G. Guida', 'Leonardo Macelloni', 'Francesco Latino Chiocci', 'Peter A. Rona', 'Mary I. Scranton', 'Vernon Asper', 'Arne R. Diercks']
+ABSTRACT:
+Mapping of physical benthic habitats at the head of Hudson Canyon was performed by means of integrated analysis of acoustic data, video surveys and seafloor sampling. Acoustic mapping, performed using AUV-mounted multibeam sonar, provided ultra-high resolution bathymetric and backscatter imagery for the identification of geomorphological features and the characterization of surficial sediments. Habitat characterization in terms of seafloor texture and identification of benthic and demersal communities was accomplished by visual analysis of still photographs from underwater vehicles. Habitat classes were defined on the basis of the seafloor texture observed on photos and then compared with the geophysical data in order to associate habitats to acoustic classes and/or geomorphological features. This enabled us to infer habitat distribution on the basis of morpho-acoustic classes and extrapolate results over larger areas. Results from bottom trawling were used to determine the overall biodiversity within the identified habitats. Our analysis revealed a variety of topographic and sedimentological structures that provide a wide range of physical habitats. A variety of sandy and muddy substrates, gravel patches and mudstone outcrops host rich and varied faunal assemblages, including cold-water corals and sponge communities. Pockmark fields below 300 m depth suggest that methane-based chemosynthetic carbonate deposition may contributes to creation of specific benthic habitats. Hummocky terrain has been delineated along the canyon rims and associated with extensive, long-term burrowing activity by golden tilefish (Lopholatilus chamaeleonticeps). These results show the relationships of physical features to benthic habitat variation, support the notion of the area as a biodiversity hotspot and define essential habitats for planning of sustainable regional fisheries.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Geology', 'Canyon', 'Seafloor spreading', 'Benthic zone', 'Habitat', 'Bathymetry', 'Oceanography', 'Geomorphology', 'Ecology', 'Biology']

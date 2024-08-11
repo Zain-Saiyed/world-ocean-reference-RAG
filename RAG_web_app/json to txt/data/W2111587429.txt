@@ -1,0 +1,12 @@
+ID: W2111587429
+TITLE: Relationship between environment and the occurrence of the deep-water rose shrimp Aristeus antennatus (Risso, 1816) in the Blanes submarine canyon (NW Mediterranean)
+AUTHOR: ['Francisco Sardà', 'Joan B. Company', 'Nixon Bahamón', 'Guiomar Rotllant', 'M.M. Flexas', 'Jesús del Río Sánchez', 'Diana Zúñiga', 'Johan Coenjaerts', 'Daniel Orellana', 'Gabriel Jordá', 'Joan Puigdefàbregas', 'Anna Sánchez‐Vidal', 'Antoni Calafat', 'Daniel Martín', 'Manuel Espino']
+ABSTRACT:
+We performed a multidisciplinary study characterizing the relationships between hydrodynamic conditions (currents and water masses) and the presence and abundance of the deep-water rose shrimp Aristeus antennatus in a submarine canyon (Blanes canyon in the NW Mediterranean Sea). This species is heavily commercially exploited and is the main target species of a bottom trawl fishery. Seasonal fluctuations in landings are attributed to spatio-temporal movements by this species associated with submarine canyons in the study area. Despite the economic importance of this species and the decreases in catches in the area in recent years, few studies have provided significant insight into the environmental conditions driving shrimp distribution. We therefore measured daily A. antennatus catches over the course of an entire year and analyzed this time series in terms of daily average temperature, salinity, mean kinetic energy (MKE), and eddy kinetic energy (EKE) values using generalized additive models and decision trees. A. antennatus was captured between 600 and 900 m in the Blanes canyon, depths that include Levantine Intermediate Water (LIW) and the underlying Western Mediterranean Deep Water (WMDW). The greatest catches were associated with relatively salty waters (38.5–38.6), low MKE values (6 and 9 cm2 s−2) and moderate EKE values (10 and 20 cm2 s−2). Deep-water rose shrimp occurrence appears to be driven in a non-linear manner by environmental conditions including local temperature. A. antennatus appears to prefer relatively salty (LIW) waters and low currents (MKE) with moderate variability (EKE).
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Submarine canyon', 'Canyon', 'Shrimp', 'Oceanography', 'Mediterranean climate', 'Fishery', 'Deep water', 'Abundance (ecology)', 'Mediterranean sea', 'Environmental science', 'Geology', 'Continental shelf', 'Ecology', 'Biology', 'Geomorphology']

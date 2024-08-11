@@ -1,0 +1,12 @@
+ID: W2804452393
+TITLE: Integrative omics - from data to biology
+AUTHOR: ['Hassan Dihazi', 'Abdul R. Asif', 'Tim Beißbarth', 'Rainer Bohrer', 'Kirstin Feussner', 'Ivo Feußner', 'Olaf Jahn', 'Christof Lenz', 'Andrzej Majcherczyk', 'Bernhard Schmidt', 'Kerstin Schmitt', 'Henning Urlaub', 'Oliver Valerius']
+ABSTRACT:
+Multi-omic approaches are promising a broader view on cellular processes and a deeper understanding of biological systems. with strongly improved high-throughput methods the amounts of data generated have become huge, and their handling challenging. Area Covered: New bioinformatic tools and pipelines for the integration of data from different omics disciplines continue to emerge, and will support scientists to reliably interpret data in the context of biological processes. comprehensive data integration strategies will fundamentally improve systems biology and systems medicine. to present recent developments of integrative omics, the göttingen proteomics forum (gpf) organized its 6th symposium on the 23rd of november 2017, as part of a series of regular gpf symposia. more than 140 scientists attended the event that highlighted the challenges and opportunities but also the caveats of integrating data from different omics disciplines. Expert commentary: The continuous exponential growth in omics data require similar development in software solutions for handling this challenge. Integrative omics tools offer the chance to handle this challenge but profound investigations and coordinated efforts are required to boost this field.
+
+SOURCE: Expert review of proteomics
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Omics', 'Computational biology', 'Biology', 'Proteomics', 'Systems biology', 'Data science', 'Bioinformatics', 'Computer science', 'Genetics', 'Gene']

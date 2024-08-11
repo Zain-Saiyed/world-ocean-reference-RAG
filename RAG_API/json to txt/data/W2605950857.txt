@@ -1,0 +1,12 @@
+ID: W2605950857
+TITLE: The Arctic Ocean as a dead end for floating plastics in the North Atlantic branch of the Thermohaline Circulation
+AUTHOR: ['Andrés Cózar', 'Elisa Martí', 'Carlos M. Duarte', 'Juan García-de-Lomas', 'Erik van Sebille', 'Thomas J. Ballatore', 'Vı́ctor M. Eguı́luz', 'J. Ignacio González-Gordillo', 'Maria-Luiza Pedrotti', 'Fidel Echevarrı́a', 'Romain Troublé', 'Xabier Irigoien']
+ABSTRACT:
+The subtropical ocean gyres are recognized as great marine accummulation zones of floating plastic debris; however, the possibility of plastic accumulation at polar latitudes has been overlooked because of the lack of nearby pollution sources. In the present study, the Arctic Ocean was extensively sampled for floating plastic debris from the Tara Oceans circumpolar expedition. Although plastic debris was scarce or absent in most of the Arctic waters, it reached high concentrations (hundreds of thousands of pieces per square kilometer) in the northernmost and easternmost areas of the Greenland and Barents seas. The fragmentation and typology of the plastic suggested an abundant presence of aged debris that originated from distant sources. This hypothesis was corroborated by the relatively high ratios of marine surface plastic to local pollution sources. Surface circulation models and field data showed that the poleward branch of the Thermohaline Circulation transfers floating debris from the North Atlantic to the Greenland and Barents seas, which would be a dead end for this plastic conveyor belt. Given the limited surface transport of the plastic that accumulated here and the mechanisms acting for the downward transport, the seafloor beneath this Arctic sector is hypothesized as an important sink of plastic debris.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/3/4/e1600582.full.pdf
+CITED BY COUNT: 436
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'Debris', 'Thermohaline circulation', 'Plastic pollution', 'Oceanography', 'Arctic', 'Marine debris', 'Geology', 'Sink (geography)', 'Shutdown of thermohaline circulation', 'Ocean current', 'Environmental science', 'Climatology', 'North Atlantic Deep Water', 'Geography', 'Microplastics', 'Subtropics', 'Fishery', 'Cartography', 'Biology']

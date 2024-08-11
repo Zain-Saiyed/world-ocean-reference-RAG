@@ -1,0 +1,12 @@
+ID: W2077635452
+TITLE: Cyanobacteria and Cyanotoxins: From Impacts on Aquatic Ecosystems and Human Health to Anticarcinogenic Effects
+AUTHOR: ['Giliane Zanchett', 'Eduardo Cyrino Oliveira-Filho']
+ABSTRACT:
+Cyanobacteria or blue-green algae are among the pioneer organisms of planet Earth. They developed an efficient photosynthetic capacity and played a significant role in the evolution of the early atmosphere. Essential for the development and evolution of species, they proliferate easily in aquatic environments, primarily due to human activities. Eutrophic environments are conducive to the appearance of cyanobacterial blooms that not only affect water quality, but also produce highly toxic metabolites. Poisoning and serious chronic effects in humans, such as cancer, have been described. On the other hand, many cyanobacterial genera have been studied for their toxins with anticancer potential in human cell lines, generating promising results for future research toward controlling human adenocarcinomas. This review presents the knowledge that has evolved on the topic of toxins produced by cyanobacteria, ranging from their negative impacts to their benefits.
+
+SOURCE: Toxins
+PDF URL: https://www.mdpi.com/2072-6651/5/10/1896/pdf?version=1382520934
+CITED BY COUNT: 226
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Cyanobacteria', 'Eutrophication', 'Biology', 'Aquatic ecosystem', 'Blue green algae', 'Photosynthesis', 'Human health', 'Algae', 'Ecology', 'Ecosystem', 'Algal bloom', 'Phytoplankton', 'Botany', 'Bacteria', 'Environmental health', 'Nutrient', 'Medicine', 'Genetics']

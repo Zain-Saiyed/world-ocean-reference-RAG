@@ -1,0 +1,12 @@
+ID: W2053914213
+TITLE: Benthic Filter Feeding: A Natural Eutrophication Control
+AUTHOR: ['Charles B. Officer', 'Theodore J. Smayda', 'Roger Mann']
+ABSTRACT:
+The importance of the benthic filter feeding community as a natural control on eutrophication is considered.The important environmental factors favorable for such a control are relatively shallow water depths and a dense benthic filter feeding commmunity of small animals.The criteria are summarized in the equivalence of the water recycling time, t, for the benthic community and the time constant, tp, for phytoplankton growth.The criteria are applied specifically to the conditions that exist in South San Francisco bay.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: None
+CITED BY COUNT: 445
+PUBLICATION YEAR: 1982
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Eutrophication', 'Bay', 'Environmental science', 'Phytoplankton', 'Oceanography', 'Filter (signal processing)', 'Ecology', 'Nutrient', 'Biology', 'Geology', 'Engineering', 'Electrical engineering']

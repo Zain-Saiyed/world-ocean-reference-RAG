@@ -1,0 +1,12 @@
+ID: W2607187480
+TITLE: Mixing of water masses caused by a drifting iceberg affects bacterial activity, community composition and substrate utilization capability in the Southern Ocean
+AUTHOR: ['Julie Dinasquet', 'Inga Richert', 'Ramiro Logares', 'Patricia L. Yager', 'Stefan Bertilsson', 'Lasse Riemann']
+ABSTRACT:
+The number of icebergs produced from ice-shelf disintegration has increased over the past decade in Antarctica. These drifting icebergs mix the water column, influence stratification and nutrient condition, and can affect local productivity and food web composition. Data on whether icebergs affect bacterioplankton function and composition are scarce, however. We assessed the influence of iceberg drift on bacterial community composition and on their ability to exploit carbon substrates during summer in the coastal Southern Ocean. An elevated bacterial production and a different community composition were observed in iceberg-influenced waters relative to the undisturbed water column nearby. These major differences were confirmed in short-term incubations with bromodeoxyuridine followed by CARD-FISH. Furthermore, one-week bottle incubations amended with inorganic nutrients and carbon substrates (a mix of substrates, glutamine, N-acetylglucosamine, or pyruvate) revealed contrasting capacity of bacterioplankton to utilize specific carbon substrates in the iceberg-influenced waters compared with the undisturbed site. Our study demonstrates that the hydrographical perturbations introduced by a drifting iceberg can affect activity, composition, and substrate utilization capability of marine bacterioplankton. Consequently, in a context of global warming, increased frequency of drifting icebergs in polar regions holds the potential to affect carbon and nutrient biogeochemistry at local and possibly regional scales.
+
+SOURCE: Environmental microbiology
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Bacterioplankton', 'Iceberg', 'Water column', 'Biogeochemistry', 'Oceanography', 'Phytoplankton', 'Nutrient', 'Biology', 'Carbon cycle', 'Environmental science', 'Ecology', 'Environmental chemistry', 'Ecosystem', 'Chemistry', 'Sea ice', 'Geology']

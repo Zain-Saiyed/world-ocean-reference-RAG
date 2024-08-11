@@ -1,0 +1,12 @@
+ID: W2787070071
+TITLE: Patterns of island change and persistence offer alternate adaptation pathways for atoll nations
+AUTHOR: ['Paul S. Kench', 'Murray R. Ford', 'Susan Owen']
+ABSTRACT:
+Abstract Sea-level rise and climatic change threaten the existence of atoll nations. Inundation and erosion are expected to render islands uninhabitable over the next century, forcing human migration. Here we present analysis of shoreline change in all 101 islands in the Pacific atoll nation of Tuvalu. Using remotely sensed data, change is analysed over the past four decades, a period when local sea level has risen at twice the global average (~3.90 ± 0.4 mm.yr −1 ). Results highlight a net increase in land area in Tuvalu of 73.5 ha (2.9%), despite sea-level rise, and land area increase in eight of nine atolls. Island change has lacked uniformity with 74% increasing and 27% decreasing in size. Results challenge perceptions of island loss, showing islands are dynamic features that will persist as sites for habitation over the next century, presenting alternate opportunities for adaptation that embrace the heterogeneity of island types and their dynamics.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-02954-1.pdf
+CITED BY COUNT: 109
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Atoll', 'Shore', 'Climate change', 'Geography', 'Sea level', 'Adaptation (eye)', 'Persistence (discontinuity)', 'Sea level rise', 'Physical geography', 'Ecology', 'Oceanography', 'Biology', 'Geology', 'Reef', 'Neuroscience', 'Geotechnical engineering']

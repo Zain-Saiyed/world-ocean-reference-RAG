@@ -1,0 +1,12 @@
+ID: W2521472414
+TITLE: Sea level rise and inundation of island interiors: Assessing impacts of lake formation and evaporation on water resources in arid climates
+AUTHOR: ['Jason Gulley', 'Alex Mayer', 'Jonathan B. Martin', 'Vivek Bedekar']
+ABSTRACT:
+Abstract Coasts of many low‐lying islands will be inundated should sea level rise by 1 m by 2100 as projected, thereby decreasing water resources through aquifer salinization. A lesser known impact occurs if rising sea level elevates water tables above interior topographic lows to form lakes. Impacts of lake formation on water resources, however, remain unquantified. Here we use hydrological models, based on islands in the Bahamian archipelago, to demonstrate that on islands with negative water budgets, evaporation following lake inundation can cause more than twice the loss of fresh groundwater resources relative to an equivalent amount of coastal inundation. This result implies that in dry climates, low‐lying islands with inland depressions could face substantially greater threats to their water resources from sea level rise than previously considered.
+
+SOURCE: Geophysical research letters
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/2016gl070667
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Archipelago', 'Arid', 'Aquifer', 'Hydrology (agriculture)', 'Sea level', 'Water resources', 'Groundwater', 'Geology', 'Oceanography', 'Water level', 'Soil salinity', 'Environmental science', 'Salinity', 'Geography', 'Ecology', 'Paleontology', 'Geotechnical engineering', 'Biology', 'Cartography']

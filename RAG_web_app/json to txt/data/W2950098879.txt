@@ -1,0 +1,12 @@
+ID: W2950098879
+TITLE: Microzooplankton distribution in the Amundsen Sea Polynya (Antarctica) during an extensive Phaeocystis antarctica bloom
+AUTHOR: ['Rasmus Swalethorp', 'Julie Dinasquet', 'Ramiro Logares', 'Stefan Bertilsson', 'Sanne Kjellerup', 'Anders K. Krabberød', 'Per‐Olav Moksnes', 'Torkel Gissel Nielsen', 'Lasse Riemann']
+ABSTRACT:
+In Antarctica, summer is a time of extreme environmental shifts resulting in large coastal phytoplankton blooms fueling the food web. Despite the importance of the microbial loop in remineralizing biomass from primary production, studies of how microzooplankton communities respond to such blooms in the Southern Ocean are rather scarce. Microzooplankton (ciliate and dinoflagellate) communities were investigated combining microscopy and 18S rRNA sequencing analyses in the Amundsen Sea Polynya during an extensive summer bloom of Phaeocystis antarctica. The succession of microzooplankton was further assessed during a 15-day induced bloom microcosm experiment. Dinoflagellates accounted for up to 59 % of the microzooplankton biomass in situ with Gymnodinium spp., Protoperidium spp. and Gyrodinium spp. constituting 89 % of the dinoflagellate biomass. Strobilidium spp., Strombidium spp. and tintinids represented 90 % of the ciliate biomass. Gymnodinium, Gyrodinium and tintinnids are known grazers of Phaeocystis, suggesting that this prymnesiophyte selected for the key microzooplankton taxa. Availability of other potential prey, such as diatoms, heterotrophic nanoflagellates and bacteria, also correlated to changes in microzooplankton community structure. Overall, both heterotrophy and mixotrophy appeared to be key trophic strategies of the dominant microzooplankton observed, suggesting that they influence carbon flow in the microbial food web through top-down control on the phytoplankton community.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: https://www.sciencedirect.com/science/article/am/pii/S0079661118300491
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Microbial food web', 'Dinoflagellate', 'Phytoplankton', 'Gymnodinium', 'Microbial loop', 'Bloom', 'Food web', 'Oceanography', 'Biology', 'Ciliate', 'Trophic level', 'Biomass (ecology)', 'Algal bloom', 'Ecology', 'Zooplankton', 'Plankton', 'Nutrient', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2136604863
+TITLE: Zoning, a fundamental cornerstone of effective Marine Spatial Planning: lessons learnt from the Great Barrier Reef, Australia
+AUTHOR: ['Richard Kenchington', 'Jon C. Day']
+ABSTRACT:
+The Great Barrier Reef Marine Park was established to provide for conservation and ecologically sustainable multiple use of 344,400 km2 of a large marine ecosystem. Management is based on multiple use, with zoning as a fundamental component of marine spatial planning. The legislative framework, including a specific Act and Regulations, address the objectives of ecosystem-based, integrated management of human uses and impacts consistent with best contemporary understanding of biological diversity. Zoning is one of a suite of management tools that include other spatial and temporal management tools and non-spatial measures including public education, community engagement, codes of environmental best practice, industry partnerships and economic instruments. The first section of the Great Barrier Reef Marine Park came into operation in 1981 and the most recent zoning came into operation in mid 2004. The paper discusses some common misunderstandings about zoning and identifies lessons that appear relevant for others addressing management and use of marine ecosystems and natural resources.
+
+SOURCE: Journal of coastal conservation
+PDF URL: None
+CITED BY COUNT: 90
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Zoning', 'Marine spatial planning', 'Ecosystem-based management', 'Environmental resource management', 'Marine protected area', 'Environmental planning', 'Ecosystem management', 'Marine conservation', 'Geography', 'Ecosystem', 'Ecology', 'Environmental science', 'Engineering', 'Habitat', 'Civil engineering', 'Biology']

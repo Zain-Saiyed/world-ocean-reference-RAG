@@ -1,0 +1,12 @@
+ID: W2035021095
+TITLE: Estimating coastal recession due to sea level rise: beyond the Bruun rule
+AUTHOR: ['Roshanka Ranasinghe', 'David P. Callaghan', 'Marcel Stive']
+ABSTRACT:
+Accelerated sea level rise (SLR) in the twenty-first century will result in unprecedented coastal recession, threatening billions of dollars worth of coastal developments and infrastructure. Therefore, we cannot continue to depend on the highly uncertain coastal recession estimates obtained via the simple, deterministic method (Bruun rule) that has been widely used over the last 50 years. Furthermore, the emergence of risk management style coastal planning frameworks is now requiring probabilistic (rather than deterministic, single value) estimates of coastal recession. This paper describes the development and application of a process based model (PCR model) which provides probabilistic estimates of SLR driven coastal recession. The PCR model is proposed as a more appropriate and defensible method for determining coastal recession due to SLR for planning purposes in the twenty-first century and beyond.
+
+SOURCE: Climatic change
+PDF URL: https://link.springer.com/content/pdf/10.1007/s10584-011-0107-8.pdf
+CITED BY COUNT: 196
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Recession', 'Probabilistic logic', 'Environmental science', 'Environmental resource management', 'Geology', 'Computer science', 'Economics', 'Macroeconomics', 'Artificial intelligence']

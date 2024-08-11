@@ -1,0 +1,12 @@
+ID: W2958274006
+TITLE: Linking the scientific knowledge on marine frontal systems with ecosystem services
+AUTHOR: ['Paulina Martinetto', 'Daniela Alemany', 'Florencia Botto', 'Matías E. Mastrángelo', 'Valeria Falabella', 'Eduardo Marcelo', 'Gustavo Antón', 'Alejandro A. Bianchi', 'Claudio Campagna', 'Guillermo Cañete', 'Pablo Filippo', 'Oscar Iribarne', 'Pedro Laterra', 'Patricia Martínez', 'Rubén M. Negri', 'Alberto R. Piola', 'Sílvia I. Romero', 'David M. Santos', 'Martín Saraceno']
+ABSTRACT:
+Primary production hotspots in the marine environment occur where the combination of light, turbulence, temperature and nutrients makes the proliferation of phytoplankton possible. Satellite-derived surface chlorophyll-a distributions indicate that these conditions are frequently associated with sharp water mass transitions named "marine fronts". Given the link between primary production, consumers and ecosystem functions, marine fronts could play a key role in the production of ecosystem services (ES). Using the shelf break front in the Argentine Sea as a study case, we show that the high primary production found in the front is the main ecological feature that supports the production of tangible (fisheries) and intangible (recreation, regulation of atmospheric gases) marine ES and the reason why the provision of ES in the Argentine Sea concentrates there. This information provides support to satellite chlorophyll as a good indicator of multiple marine ES. We suggest that marine fronts could be considered as marine ES hot spots.
+
+SOURCE: Ambio
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Primary producers', 'Ecosystem', 'Front (military)', 'Phytoplankton', 'Environmental science', 'Oceanography', 'Ocean color', 'Production (economics)', 'Chlorophyll a', 'Satellite', 'Environmental resource management', 'Ecology', 'Nutrient', 'Geology', 'Biology', 'Botany', 'Macroeconomics', 'Aerospace engineering', 'Engineering', 'Economics']

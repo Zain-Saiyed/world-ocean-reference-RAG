@@ -1,0 +1,12 @@
+ID: W2217596996
+TITLE: New range and habitat records for threatened Australian sea snakes raise challenges for conservation
+AUTHOR: ["Blanche R. D'Anastasi", 'Lynne van Herwerden', 'John Hobbs', 'Colin A. Simpfendorfer', 'Vimoksalehi Lukoschek']
+ABSTRACT:
+Hydrophiine (true) sea snakes are large predatory live-bearing marine reptiles. Australia is a biodiversity hotspot for true sea snakes with almost half of the ~ 70 extant species (including 11 endemics). Two Australian endemics, Aipysurus foliosquama and Aipysurus apraefrontalis, were listed as Critically Endangered (CR) under IUCN Red List (2010) criteria and Australia's Threatened Species Legislation (2011) due to their restricted geographic ranges being < 10 km2 (i.e. Ashmore and Hibernia Reefs, Timor Sea), from where they disappeared between 1998 and 2002. However, museum and anecdotal records suggested that these species might also occur in coastal locations of Western Australia (WA). We used intensive field surveys, habitat data, and molecular genetics to document the first unequivocal records of living A. foliosquama (n = 16) and A. apraefrontalis (n = 7) since they were listed as Critically Endangered, in coastal WA. Our data significantly increases the known geographic range and habitats of A. foliosquama, to include seagrass meadows in subtropical Shark Bay (latitudes 24.5°S to 26.6°S), which is 500 km further south than any previous sighting. Most sea snakes were collected from demersal prawn trawl by-catch surveys, indicating that these species are vulnerable to demersal trawl gear. Nonetheless, the disappearance of these two species from Ashmore Reef (which coincided with extirpations of at least three other sea snake species) could not be attributed to trawling and remain unexplained. Key threatening processes will need to be identified if effective conservation strategies are to be implemented to protect these newly discovered coastal populations of two Critically Endangered species.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Threatened species', 'Endangered species', 'Geography', 'IUCN Red List', 'Endemism', 'Critically endangered', 'Ecology', 'Fishery', 'Habitat', 'Biodiversity', 'Flagship species', 'Carcharias', 'Marine protected area', 'Range (aeronautics)', 'Coral reef', 'Biology', 'Materials science', 'Juvenile', 'Composite material']

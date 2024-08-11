@@ -1,0 +1,12 @@
+ID: W2502428080
+TITLE: Ecological Consequences of Shoreline Hardening: A Meta-Analysis
+AUTHOR: ['Rachel K. Gittman', 'Steven B. Scyphers', 'Charles S. Smith', 'Isabelle P. Neylan', 'Jonathan H. Grabowski']
+ABSTRACT:
+Protecting coastal communities has become increasingly important as their populations grow, resulting in increased demand for engineered shore protection and hardening of over 50% of many urban shorelines. Shoreline hardening is recognized to reduce ecosystem services that coastal populations rely on, but the amount of hardened coastline continues to grow in many ecologically important coastal regions. Therefore, to inform future management decisions, we conducted a meta-analysis of studies comparing the ecosystem services of biodiversity (richness or diversity) and habitat provisioning (organism abundance) along shorelines with versus without engineered-shore structures. Seawalls supported 23% lower biodiversity and 45% fewer organisms than natural shorelines. In contrast, biodiversity and abundance supported by riprap or breakwater shorelines were not different from natural shorelines; however, effect sizes were highly heterogeneous across organism groups and studies. As coastal development increases, the type and location of shoreline hardening could greatly affect the habitat value and functioning of nearshore ecosystems.
+
+SOURCE: BioScience/Bioscience
+PDF URL: https://academic.oup.com/bioscience/article-pdf/66/9/763/16648446/biw091.pdf
+CITED BY COUNT: 165
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Shore', 'Biodiversity', 'Habitat', 'Riprap', 'Species richness', 'Ecosystem', 'Ecosystem services', 'Ecology', 'Intertidal zone', 'Coastal management', 'Abundance (ecology)', 'Breakwater', 'Geography', 'Environmental science', 'Environmental resource management', 'Fishery', 'Biology', 'Oceanography', 'Geology', 'Cartography']

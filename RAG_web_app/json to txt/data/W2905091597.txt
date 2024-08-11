@@ -1,0 +1,12 @@
+ID: W2905091597
+TITLE: The state of desalination and brine production: A global outlook
+AUTHOR: ['Edward R. Jones', 'Manzoor Qadir', 'Michelle T. H. van Vliet', 'Vladimir Smakhtin', 'Seong Mu Kang']
+ABSTRACT:
+Rising water demands and diminishing water supplies are exacerbating water scarcity in most world regions. Conventional approaches relying on rainfall and river runoff in water scarce areas are no longer sufficient to meet human demands. Unconventional water resources, such as desalinated water, are expected to play a key role in narrowing the water demand-supply gap. Our synthesis of desalination data suggests that there are 15,906 operational desalination plants producing around 95 million m3/day of desalinated water for human use, of which 48% is produced in the Middle East and North Africa region. A major challenge associated with desalination technologies is the production of a typically hypersaline concentrate (termed 'brine') discharge that requires disposal, which is both costly and associated with negative environmental impacts. Our estimates reveal brine production to be around 142 million m3/day, approximately 50% greater than previous quantifications. Brine production in Saudi Arabia, UAE, Kuwait and Qatar accounts for 55% of the total global share. Improved brine management strategies are required to limit the negative environmental impacts and reduce the economic cost of disposal, thereby stimulating further developments in desalination facilities to safeguard water supplies for current and future generations.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 1110
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Desalination', 'Brine', 'Water scarcity', 'Environmental science', 'Surface runoff', 'Water resources', 'Water supply', 'Environmental engineering', 'Scarcity', 'Water resource management', 'Environmental protection', 'Natural resource economics', 'Ecology', 'Genetics', 'Physics', 'Membrane', 'Economics', 'Biology', 'Microeconomics', 'Thermodynamics']

@@ -1,0 +1,12 @@
+ID: W2916499939
+TITLE: The Fantasy of the Grand Inga Hydroelectric Project on the River Congo
+AUTHOR: ['Jeroen Warner', 'Sarunas Jomantas', 'Eliot Jones', 'Mohd Dilshad Ansari', 'Lotje de Vries']
+ABSTRACT:
+The Congo River is the deepest in the world and second-longest in Africa. Harnessing its full hydropower potential has been an ongoing development dream of the Democratic Republic of Congo (DRC) and its more powerful regional allies. If completed, the Grand Inga complex near Kinshasa, the capital of the DRC, will be the largest dam project in the world. Its eight separate dams (Inga 1–8) are envisioned to be “lighting up and powering Africa”. Opponents claim, however, that the rewards will be outsourced to corporate mining interests rather than meeting the needs of the local population, and that the project is flawed economically, socially and environmentally. The planned construction of the Inga dams and associated infrastructure has been stuck in limbo since it was mooted in the 1960s; a fantasy rather than a reality. This article attempts to analyse the rivalry underlying the Grand Inga scheme beyond the “pro” and “contra” reports. Embracing Lacanian psychoanalysis and triangulating multiple sources, we seek to unmask Grand Inga as a potent fantasy. Whilst exhibiting its purpose to serve as a screen to protect both proponents of and opponents to the dam from encountering their own self-deception, we conclude the scheme to be at its most powerful whilst the dream remains unfulfilled.
+
+SOURCE: Water
+PDF URL: https://www.mdpi.com/2073-4441/11/3/407/pdf?version=1551175805
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Inga', 'Hydroelectricity', 'Hydropower', 'Fantasy', 'Population', 'Democracy', 'Dream', 'Political science', 'Sociology', 'Law', 'Politics', 'Engineering', 'Art', 'Ecology', 'Psychology', 'Demography', 'Literature', 'Electrical engineering', 'Biology', 'Neuroscience']

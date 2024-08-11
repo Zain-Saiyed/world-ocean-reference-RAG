@@ -1,0 +1,12 @@
+ID: W2890113718
+TITLE: The Northern Argentine Sea
+AUTHOR: ['Jorge E. Marcovecchio', 'Silvia G. De Marco', 'María Andrea Gavio', 'Maite Narvarte', 'Sandra Fiori', 'Marcela Gerpe', 'Diego H. Rodríguez', 'María Celeste López Abbate', 'Noelia La Colla', 'Ana L. Oliva', 'Sergia Zalba', 'María Cielo Bazterrica', 'Valeria A. Guinder', 'Carla V. Spetter', 'Melisa D. Fernández Severini', 'Andrés H. Arias', 'Sandra E. Botté']
+ABSTRACT:
+The Northern area of the Argentine Sea is a very wide system, with a large continental shelf and an oceanographic scenario determined by the collision of the Brazil and the Malvinas/Falkland megacurrents, which a produce subtropical convergence. The outflow of the huge Río de la Plata (discharging ~ 11,000 m3 s− 1) is another main driver of the oceanographic system, generating a set of frontal systems which influences the productivity within the region. Large sandy beaches make up the landscape of the northern coastal area of the study area, which also includes significant estuarine areas with very high biological diversity and productivity. The San Matías Gulf, in the southern area of the region, is a semienclosed system whose coasts include substantial cliffs. The area receives significant anthropic stress due to the presence of numerous cities, ports, and human facilities (touristic centers, industrial and extractive ventures, among others). Commercial fishing is very significant within the area, and most of its products are exported to other countries. Biodiversity is high within the area, and is stressed by the large number of activities that occur there. A number of regulations and management regimes are currently in development for the conservation and protection of the area. This large region is important also because of its direct interaction with Patagonian waters, which transforms it into a gateway to Antarctica.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Productivity', 'Biodiversity', 'Oceanography', 'Geography', 'Fishing', 'Physical geography', 'Geology', 'Fishery', 'Ecology', 'Macroeconomics', 'Economics', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2170886240
+TITLE: Understanding Continental Margin Biodiversity: A New Imperative
+AUTHOR: ['Lisa A. Levin', 'Myriam Sibuet']
+ABSTRACT:
+Until recently, the deep continental margins (200–4,000 m) were perceived as monotonous mud slopes of limited ecological or environmental concern. Progress in seafloor mapping and direct observation now reveals unexpected heterogeneity, with a mosaic of habitats and ecosystems linked to geomorphological, geochemical, and hydrographic features that influence biotic diversity. Interactions among water masses, terrestrial inputs, sediment diagenesis, and tectonic activity create a multitude of ecological settings supporting distinct communities that populate canyons and seamounts, high-stress oxygen minimum zones, and methane seeps, as well as vast reefs of cold corals and sponges. This high regional biodiversity is fundamental to the production of valuable fisheries, energy, and mineral resources, and performs critical ecological services (nutrient cycling, carbon sequestration, nursery and habitat support). It is under significant threat from climate change and human resource extraction activities. Serious actions are required to preserve the functions and services provided by the deep-sea settings we are just now getting to know.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 204
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Ecology', 'Coral reef', 'Habitat', 'Reef', 'Seamount', 'Ecosystem', 'Continental margin', 'Earth science', 'Environmental science', 'Oceanography', 'Geology', 'Tectonics', 'Biology', 'Paleontology']

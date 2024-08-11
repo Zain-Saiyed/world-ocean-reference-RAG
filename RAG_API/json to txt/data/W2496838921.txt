@@ -1,0 +1,12 @@
+ID: W2496838921
+TITLE: Insights into the abundance and diversity of abyssal megafauna in a polymetallic-nodule region in the eastern Clarion-Clipperton Zone
+AUTHOR: ['Diva J. Amon', 'Amanda F. Ziegler', 'Thomas G. Dahlgren', 'Adrian G. Glover', 'Aurélie Goineau', 'Andrew J. Gooday', 'Helena Wiklund', 'Craig R. Smith']
+ABSTRACT:
+Abstract There is growing interest in mining polymetallic nodules in the abyssal Clarion-Clipperton Zone (CCZ) in the Pacific. Nonetheless, benthic communities in this region remain poorly known. The ABYSSLINE Project is conducting benthic biological baseline surveys for the UK Seabed Resources Ltd. exploration contract area (UK-1) in the CCZ. Using a Remotely Operated Vehicle, we surveyed megafauna at four sites within a 900 km 2 stratum in the UK-1 contract area, and at a site ~250 km east of the UK-1 area, allowing us to make the first estimates of abundance and diversity. We distinguished 170 morphotypes within the UK-1 contract area but species-richness estimators suggest this could be as high as 229. Megafaunal abundance averaged 1.48 ind. m −2 . Seven of 12 collected metazoan species were new to science, and four belonged to new genera. Approximately half of the morphotypes occurred only on polymetallic nodules. There were weak, but statistically significant, positive correlations between megafaunal and nodule abundance. Eastern-CCZ megafaunal diversity is high relative to two abyssal datasets from other regions, however comparisons with CCZ and DISCOL datasets are problematic given the lack of standardised methods and taxonomy. We postulate that CCZ megafaunal diversity is driven in part by habitat heterogeneity.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep30492.pdf
+CITED BY COUNT: 156
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Megafauna', 'Abyssal zone', 'Benthic zone', 'Abundance (ecology)', 'Oceanography', 'Species richness', 'Ecology', 'Abyssal plain', 'Species diversity', 'Biology', 'Geology', 'Structural basin', 'Paleontology', 'Pleistocene']

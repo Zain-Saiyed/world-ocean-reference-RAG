@@ -1,0 +1,12 @@
+ID: W2107284196
+TITLE: Analysis of bubble plume distributions to evaluate methane hydrate decomposition on the continental slope
+AUTHOR: ['H. Paul Johnson', 'Una Kim Miller', 'Marie S. Salmi', 'Evan A. Solomon']
+ABSTRACT:
+Abstract Cascadia margin sediments contain a rich reservoir of carbon derived both from terrestrial input and sea surface productivity. A portion of this carbon exists as solid gas hydrate within sediment pore spaces which previous studies have shown to be a methane reservoir of substantial size on both the Vancouver Island and Oregon portions of the Cascadia margin. Multichannel seismic reflection profiles on the Cascadia margin show the widespread presence of Bottom Simulating Reflectors (BSRs) within the sediment column, indicating the gas hydrate reservoir extends from the deformation front at 3000 m depth to the upper limit of gas hydrate stability near 500 m water depth. In this study, we compile an inventory of methane bubble plume sites on the Cascadia margin identified in investigations carried out for a range of interdisciplinary goals that also include sites volunteered by commercial fishermen. High plume density anomalies are associated with both the continental shelf (&lt;180 m) and the depth of the upper limit of methane hydrate stability depth (MHSD) that occurs near 500 m in the NE Pacific. The observed anomalies on the Cascadia slope may be due to the warming of seawater at intermediate depths, suggesting that modern climate change has begun to destabilize the climate‐sensitive hydrate reservoir within the Cascadia margin sediments. Reanalysis of similar plume images on the North American Atlantic slope suggests a lack of correlation between observed plume depths and the MHSD for much of the latitudinal range.
+
+SOURCE: Geochemistry, geophysics, geosystems
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015GC005955
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Geology', 'Clathrate hydrate', 'Plume', 'Methane', 'Continental shelf', 'Sediment', 'Continental margin', 'Submarine pipeline', 'Panache', 'Oceanography', 'Geomorphology', 'Hydrate', 'Petrology', 'Paleontology', 'Tectonics', 'Ecology', 'Chemistry', 'Physics', 'Organic chemistry', 'Biology', 'Thermodynamics']

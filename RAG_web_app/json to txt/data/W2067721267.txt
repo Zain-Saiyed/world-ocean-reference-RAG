@@ -1,0 +1,12 @@
+ID: W2067721267
+TITLE: High abundances of viruses in a deep-sea hydrothermal vent system indicates viral mediated microbial mortality
+AUTHOR: ['Alice C. Ortmann', 'Curtis A. Suttle']
+ABSTRACT:
+Little is known about the distribution and abundance of viruses at deep-sea hydrothermal vents. Based on estimates made using epifluorescence microscopy and the dye YoPro-1, much higher viral abundances were observed at active hydrothermal vents than in the surrounding deep sea. This indicates that viral production was occurring and that viruses were a source of microbial mortality. Samples collected from three actively venting sites (Clam Bed, S&M and Salut) within the Endeavour Ridge system off the west coast of North America had viral abundances ranging from 1.45×105 to 9.90×107 ml−1, while the abundances of prokaryotes ranged from 1.30×105 to 4.46×106 ml−1. The abundances of viruses and prokaryotes in samples collected along the neutrally buoyant plume associated with the Main Endeavour Field were lower than at actively venting sites, with a mean of 5.3×105 prokaryotes ml−1 (s.d. 2.9×105, n=64) and 3.50×106 viruses ml−1 (s.d. 1.89×106, n=64), but were higher than non-plume samples (2.7×105 prokaryotes ml−1, s.d. 5.0×104, n=15 and 2.94×106 viruses ml−1, s.d. 1.08×106, n=15). Prokaryotic and viral abundances in non-hydrothermal regions were as much as 10-fold higher than found in previous studies, in which sample fixation likely resulted in underestimates. This suggests that viral infection may be a greater source of prokaryotic mortality throughout the deep sea than previously recognized. Overall, our results indicate that virus-mediated mortality of prokaryotes at these hydrothermal-vent environments is significant and may reduce energy flow to higher trophic levels.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 103
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Hydrothermal vent', 'Deep sea', 'Abundance (ecology)', 'Biology', 'Plume', 'Hydrothermal circulation', 'Mid-Atlantic Ridge', 'Ecology', 'Paleontology', 'Geography', 'Fishery', 'Meteorology']

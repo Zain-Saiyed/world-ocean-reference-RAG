@@ -1,0 +1,12 @@
+ID: W2782911146
+TITLE: Local values and fairness in climate change adaptation: Insights from marginal rural Australian communities
+AUTHOR: ['Sonia Graham', 'Jon Barnett', 'Colette Mortreux', 'Anna Hurlimann', 'Ruth Fincher']
+ABSTRACT:
+A key criterion of successful adaptation to climate change is that it avoids potential inequalities arising from climate impacts or from adaptation strategies themselves. Recent research on adaptation in developing and developed countries argues that the measures of such fairness cannot be captured by standard metrics of vulnerability and should be situated in the milieu of people’s daily lives and temporalities. Yet there is little empirical evidence to support this theoretical argument. This paper describes a method, and presents findings from research that aimed to understand and classify the lived values of four marginal rural communities at risk of sea-level rise in Australia to inform adaptation planning and implementation. Our research finds that there are at least five types of primary residents and second home-owners attached to these four low-lying coastal communities. Some of these residents are more likely to be amenable to relocation if their needs for affordable living and belonging are met. For others, there may be little that can be done to compensate for the loss of place attachment, and implementing a measured approach that provides them time to adapt to the idea of change and form connections to new places is the best that could be achieved. We discuss the implications of place-specific and people-centric values for achieving fair adaptation.
+
+SOURCE: World development
+PDF URL: None
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Relocation', 'Temporalities', 'Vulnerability (computing)', 'Adaptation (eye)', 'Argument (complex analysis)', 'Situated', 'Climate change', 'Climate change adaptation', 'Environmental resource management', 'Adaptive capacity', 'Environmental planning', 'Sociology', 'Geography', 'Political science', 'Economics', 'Computer science', 'Psychology', 'Ecology', 'Biology', 'Neuroscience', 'Biochemistry', 'Chemistry', 'Computer security', 'Artificial intelligence', 'Law', 'Programming language']

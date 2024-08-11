@@ -1,0 +1,12 @@
+ID: W2113865965
+TITLE: The Storegga Slide tsunami—comparing field observations with numerical simulations
+AUTHOR: ['Stein Bondevik', 'Finn Løvholt', 'C. B. Harbitz', 'Jan Mangerud', 'Alastair Dawson', 'John Inge Svendsen']
+ABSTRACT:
+Deposits from the Storegga tsunami have been found in coastal areas around the Norwegian Sea and North Sea, from the northeast coast of England to beyond the Arctic Circle in northern Norway. The tsunami deposits reach onshore elevations of 10–12 m above sea level of their time in western Norway, 3–6 m in northeast Scotland and above 20 m on the Shetland Islands. These elevations are compared with surface (wave) elevations derived from a numerical simulation of the Storegga slide. A good agreement is obtained for a retrogressive slide that descends at 25–30 m/s, and that has short time lags of 15–20 s between each individual slide-block.
+
+SOURCE: Marine and petroleum geology
+PDF URL: None
+CITED BY COUNT: 241
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Geology', 'Shetland', 'Tsunami wave', 'Geomorphology', 'Arctic', 'Sea level', 'Submarine pipeline', 'Norwegian', 'Oceanography', 'Seismology', 'North sea', 'Physical geography', 'Geography', 'Linguistics', 'Philosophy']

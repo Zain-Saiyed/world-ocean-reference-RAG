@@ -1,0 +1,12 @@
+ID: W2884475909
+TITLE: Occurrence, distribution, and ecological-health risks of selected antibiotics in coastal waters along the coastline of China
+AUTHOR: ['Jian Lü', 'Jun Wu', 'Cui Zhang', 'Yuxuan Zhang', 'Yichen Lin', 'Yongming Luo']
+ABSTRACT:
+Information on ecological and health risks posed by antibiotics in coastal waters at continental or national scale is limited although antibiotics have continuously entered the natural environments due to extensive usage for human beings and animals. This study collected coastal water samples along nearly 18,000 km of coastline of China to investigate the distribution, possible sources, and potential ecological-health risks of antibiotics. Only 7 out of 13 target antibiotics were detected in coastal water samples. Total concentrations of antibiotics ranged from 389 to 3302.3 ng/L. Norfloxacin (NFC), roxithromycin (RTM), and ciprofloxacin (CFC) were the most frequently detected antibiotics, with the maximal concentrations of 1990, 1230, and 109 ng/L, respectively. Antibiotics in coastal waters might be affected by three possible factors including veterinary-drug sources, anthropogenic sources, and mixed sources. Detected NFC and sulfamethoxazole (SMX) exerted high ecological risks in the short and long terms. CFC posed moderate short-term risks but insignificant long-term risks for aquatic organisms. RTM exerted low short-term risks while it posed moderate risks in the long term. Antibiotics exerted very low cancer risks and negligible non-cancer risks for both adults and children at all sampling sites. Health risks for children posed by antibiotics were generally higher than those for adults. Antibiotics in coastal waters of China still need effective control due to potential ecological-health risks they pose.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 116
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Antibiotics', 'Environmental science', 'Ecological health', 'Environmental health', 'Ciprofloxacin', 'Ecology', 'Medicine', 'Biology', 'Ecosystem', 'Microbiology']

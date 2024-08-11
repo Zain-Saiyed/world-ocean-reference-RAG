@@ -1,0 +1,12 @@
+ID: W1993832426
+TITLE: Implementing and evaluating a code of conduct for visitors
+AUTHOR: ['Stroma Cole']
+ABSTRACT:
+Codes of conduct have been produced for tourists to educate them about societies they visit, and how to behave without causing offence. While numerous codes of conduct have been developed, very little research has been carried out to evaluate their effectiveness in changing tourists’ behaviour. A code of conduct was developed with local stakeholders in Ngadha, Flores, Indonesia in 2003. In 2005, research was conducted to evaluate its usefulness as a tool to educate tourists to behave in a more responsible way. Fifty questionnaire-based interviews were held with tourists and group interviews were held with villagers, guides and representatives of the local government. The research highlights the complexities of trying to implement and evaluate the effectiveness of codes of conduct for tourists. Initial research suggests that in some areas of behaviour the code was effective; there were, however, limits to the tourists’ compliance. While, the development of the code proved a useful tool for stimulating dialogue between local stakeholders, the ‘ownership’ of the code remains in question.
+
+SOURCE: Tourism management
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Code of conduct', 'Code (set theory)', 'Tourism', 'Public relations', 'Ethical code', 'Government (linguistics)', 'Local government', 'Marketing', 'Business', 'Political science', 'Computer science', 'Public administration', 'Law', 'Set (abstract data type)', 'Programming language', 'Linguistics', 'Philosophy']

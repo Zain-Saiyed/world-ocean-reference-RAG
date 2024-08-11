@@ -1,0 +1,12 @@
+ID: W2400271343
+TITLE: Shrimp and Petroleum: The Social Ecology of Louisiana’s Offshore Industries
+AUTHOR: ['Tyler Priest']
+ABSTRACT:
+This essay examines the intimate historical relationship between two of south Louisiana’s most important industries, shrimping and offshore oil. Analyzing the social, cultural, and labor dimensions of environmental change, the essay argues that petroleum did not undermine the environmental sustainability of shrimping, as many scholars assert, but rather evolved in an intimate and complementary relationship to it. The organization of labor, transportation, and physical space by shrimp and petroleum were mutually reinforcing, the products of a similar social ecology of waterborne extraction and commerce. The essay also explains how the close bond between shrimp and petroleum found cultural expression in the Louisiana Shrimp & Petroleum Festival, long held each Labor Day weekend in Morgan City, Louisiana. Ultimately, the threat to the local survival of these industries came not from oil-driven environmental degradation and resource depletion, as often implied, but from global competition and industry migration.
+
+SOURCE: Environmental history
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Shrimp', 'Petroleum', 'Competition (biology)', 'Sustainability', 'Petroleum industry', 'Cartel', 'Submarine pipeline', 'Environmental degradation', 'Economy', 'Ecology', 'Sociology', 'Fishery', 'Economics', 'Biology', 'Engineering', 'Market economy', 'Environmental engineering', 'Paleontology', 'Geotechnical engineering', 'Incentive']

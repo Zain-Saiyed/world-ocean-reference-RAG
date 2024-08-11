@@ -1,0 +1,12 @@
+ID: W2973345515
+TITLE: Estimates of fishing gear loss rates at a global scale: A literature review and meta‐analysis
+AUTHOR: ['Kelsey Richardson', 'Britta Denise Hardesty', 'Chris Wilcox']
+ABSTRACT:
+Abstract Abandoned, lost or otherwise discarded fishing gear (ALDFG) represents a significant, yet ultimately unknown amount of global marine debris, with serious environmental and socioeconomic impacts. This study reviews 68 publications from 1975 to 2017 that contain quantitative information about fishing gear losses. Gear loss estimates reported by the studies ranged widely, with all net studies reviewed reporting annual gear loss rates from 0% to 79.8%, all trap studies reporting gear loss rates from 0% to 88%, and all line studies reporting gear loss rates from 0.1% to 79.2%. Information obtained from this review was used to perform a meta‐analysis that provides the first synthetic, statistically robust estimates of global fishing gear losses. The meta‐analysis estimates global fishing gear losses for different major gear types. We estimate that 5.7% of all fishing nets, 8.6% of all traps, and 29% of all lines are lost around the world each year. Furthermore, we identified key gear characteristics, operational aspects and environmental contexts that influence gear loss. These estimates can be used to support sustainable fisheries development through informing risk assessments for fisheries and monitoring and assessment efforts to reduce gear losses.
+
+SOURCE: Fish and fisheries
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/faf.12407
+CITED BY COUNT: 118
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Fishing', 'Environmental science', 'Fishery', 'Marine engineering', 'Engineering', 'Biology']

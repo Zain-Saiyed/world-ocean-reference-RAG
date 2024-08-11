@@ -1,0 +1,12 @@
+ID: W2096825402
+TITLE: Risk analysis reveals global hotspots for marine debris ingestion by sea turtles
+AUTHOR: ['Qamar Schuyler', 'Chris Wilcox', 'Kathy A. Townsend', 'Kathryn R. Wedemeyer‐Strombel', 'George H. Balazs', 'Erik van Sebille', 'Britta Denise Hardesty']
+ABSTRACT:
+Plastic marine debris pollution is rapidly becoming one of the critical environmental concerns facing wildlife in the 21st century. Here we present a risk analysis for plastic ingestion by sea turtles on a global scale. We combined global marine plastic distributions based on ocean drifter data with sea turtle habitat maps to predict exposure levels to plastic pollution. Empirical data from necropsies of deceased animals were then utilised to assess the consequence of exposure to plastics. We modelled the risk (probability of debris ingestion) by incorporating exposure to debris and consequence of exposure, and included life history stage, species of sea turtle and date of stranding observation as possible additional explanatory factors. Life history stage is the best predictor of debris ingestion, but the best-fit model also incorporates encounter rates within a limited distance from stranding location, marine debris predictions specific to the date of the stranding study and turtle species. There is no difference in ingestion rates between stranded turtles vs. those caught as bycatch from fishing activity, suggesting that stranded animals are not a biased representation of debris ingestion rates in the background population. Oceanic life-stage sea turtles are at the highest risk of debris ingestion, and olive ridley turtles are the most at-risk species. The regions of highest risk to global sea turtle populations are off of the east coasts of the USA, Australia and South Africa; the east Indian Ocean, and Southeast Asia. Model results can be used to predict the number of sea turtles globally at risk of debris ingestion. Based on currently available data, initial calculations indicate that up to 52% of sea turtles may have ingested debris.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 144
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Marine debris', 'Sea turtle', 'Plastic pollution', 'Debris', 'Bycatch', 'Turtle (robot)', 'Population', 'Fishery', 'Environmental science', 'Fishing', 'Oceanography', 'Geography', 'Ecology', 'Microplastics', 'Biology', 'Geology', 'Demography', 'Sociology']

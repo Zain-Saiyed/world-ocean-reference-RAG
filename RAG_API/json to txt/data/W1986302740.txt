@@ -1,0 +1,12 @@
+ID: W1986302740
+TITLE: Circulation, eddies, oxygen, and nutrient changes in the eastern tropical South Pacific Ocean
+AUTHOR: ['Rena Czeschel', 'Lothar Stramma', 'Robert A. Weller', 'Tim Fischer']
+ABSTRACT:
+Abstract. A large subsurface oxygen deficiency zone is located in the eastern tropical South Pacific Ocean (ETSP). The large-scale circulation in the eastern equatorial Pacific and off the coast of Peru in November/December 2012 shows the influence of the equatorial current system, the eastern boundary currents, and the northern reaches of the subtropical gyre. In November 2012 the equatorial undercurrent (EUC) is centered at 250 m depth, deeper than in earlier observations. In December 2012, the equatorial water is transported southeastward near the shelf in the Peru–Chile undercurrent (PCUC) with a mean transport of 1.4 Sv. In the oxygen minimum zone (OMZ), the flow is overlaid with strong eddy activity on the poleward side of the OMZ. Floats with parking depth at 400 m show fast westward flow in the mid-depth equatorial channel and sluggish flow in the OMZ. Floats with oxygen sensors clearly show the passage of eddies with oxygen anomalies. The long-term float observations in the upper ocean lead to a net community production estimate at about 18° S of up to 16.7 mmol C m−3 yr−1 extrapolated to an annual rate and 7.7 mmol C m−3 yr−1 for the time period below the mixed layer. Oxygen differences between repeated ship sections are influenced by the Interdecadal Pacific Oscillation (IPO), by the phase of El Niño, by seasonal changes, and by eddies, and hence have to be interpreted with care. At and south of the Equator the decrease in oxygen in the upper ocean since 1976 is related to an increase in nitrate, phosphate, and in part silicate.
+
+SOURCE: Ocean science
+PDF URL: https://os.copernicus.org/articles/11/455/2015/os-11-455-2015.pdf
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'Oceanography', 'Oxygen minimum zone', 'Eddy', 'Geology', 'Equator', 'Subtropics', 'Boundary current', 'Climatology', 'Ocean current', 'Upwelling', 'Latitude', 'Geography', 'Turbulence', 'Meteorology', 'Geodesy', 'Fishery', 'Biology']

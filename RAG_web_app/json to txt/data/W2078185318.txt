@@ -1,0 +1,12 @@
+ID: W2078185318
+TITLE: Aerobic ammonium oxidation in the oxycline and oxygen minimum zone of the eastern tropical South Pacific off northern Chile (∼20°S)
+AUTHOR: ['Verónica Molina', 'Laura Farı́as']
+ABSTRACT:
+Aerobic NH4+ oxidation rates were measured along the strong oxygen gradient associated with the oxygen minimum zone (OMZ) of the eastern tropical South Pacific off northern Chile (∼20°S) during 2000, 2003, and 2004. This process was examined by comparing NH4+ rates of change during dark incubations, with and without the addition of allylthiourea, a classical inhibitor of the ammonia monooxygenase enzyme of ammonium-oxidizing bacteria. The contribution of aerobic NH4+ oxidation in dark carbon fixation and NO2− rates of change were also explored. Thirteen samples were retrieved from the oxycline (252 to ⩽5 μM O2; 15 to ∼65 m depth) and three from the oxygen minimum core (⩽5 μM O2; 100–200 m depth). Aerobic NH4+ oxidation rates were mainly detected in the upper part (15–30 m depth) of the oxycline, with rates ranging from 0.16 to 0.79 μM d−1, but not towards the oxycline base (40–65 m depth). In the oxygen minimum core, aerobic NH4+ oxidation was in the upper range and higher than in the upper part of the oxycline (0.70 and 1.0 μM d−1). Carbon fixation rates through aerobic NH4+ oxidation ranged from 0.18 to 0.43 μg C L−1 d−1 and contributed between 33% and 57% of the total dark carbon fixation, mainly towards the oxycline base and, in a single experiment, in the upper part of the oxycline. NO2− consumption was high (up to 10 μM d−1) towards the oxycline base and OMZ core, but was significantly reduced in experiments amended with allylthiourea, indicating that aerobic NH4+ oxidation could contribute between 8% and 76% of NO2− production, which in turn could be available for denitrifiers. Overall, these results support the important role of aerobic NH4+ oxidizers in the nitrogen and carbon cycling in the OMZ and at its upper boundary.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Oxygen minimum zone', 'Oxygen', 'Ammonium', 'Chemistry', 'Environmental chemistry', 'Organic chemistry']

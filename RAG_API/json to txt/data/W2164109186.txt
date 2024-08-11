@@ -1,0 +1,12 @@
+ID: W2164109186
+TITLE: Trophic level asynchrony in rates of phenological change for marine, freshwater and terrestrial environments
+AUTHOR: ['Stephen J. Thackeray', 'Tim H. Sparks', 'Morten Frederiksen', 'Sarah J. Burthe', 'P. J. Bacon', 'James R. Bell', 'Marc S. Botham', 'Tom Brereton', 'P. W. Bright', 'Laurence Carvalho', 'Tim Clutton‐Brock', 'Alistair Dawson', 'Martin Edwards', 'J. M. Elliott', 'R. Harrington', 'David G. Johns', 'Ian D. Jones', 'James T. Jones', 'David I. Leech', 'David B. Roy', 'W. Andy Scott', 'Matt Smith', 'R. Smithers', 'Ian J. Winfield', 'Sarah Wanless']
+ABSTRACT:
+Abstract Recent changes in the seasonal timing (phenology) of familiar biological events have been one of the most conspicuous signs of climate change. However, the lack of a standardized approach to analysing change has hampered assessment of consistency in such changes among different taxa and trophic levels and across freshwater, terrestrial and marine environments. We present a standardized assessment of 25 532 rates of phenological change for 726 UK terrestrial, freshwater and marine taxa. The majority of spring and summer events have advanced, and more rapidly than previously documented. Such consistency is indicative of shared large scale drivers. Furthermore, average rates of change have accelerated in a way that is consistent with observed warming trends. Less coherent patterns in some groups of organisms point to the agency of more local scale processes and multiple drivers. For the first time we show a broad scale signal of differential phenological change among trophic levels; across environments advances in timing were slowest for secondary consumers, thus heightening the potential risk of temporal mismatch in key trophic interactions. If current patterns and rates of phenological change are indicative of future trends, future climate warming may exacerbate trophic mismatching, further disrupting the functioning, persistence and resilience of many ecosystems and having a major impact on ecosystem services.
+
+SOURCE: Global change biology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2486.2010.02165.x
+CITED BY COUNT: 757
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Trophic level', 'Climate change', 'Phenology', 'Ecology', 'Ecosystem', 'Environmental change', 'Environmental science', 'Terrestrial ecosystem', 'Global warming', 'Freshwater ecosystem', 'Global change', 'Marine ecosystem', 'Asynchrony (computer programming)', 'Biology', 'Computer network', 'Asynchronous communication', 'Computer science']

@@ -1,0 +1,12 @@
+ID: W2571872739
+TITLE: Operationalizing and implementing ecosystem-based management
+AUTHOR: ['Jason S. Link', 'Howard I. Browman']
+ABSTRACT:
+There is now a large literature on ecosystem-based management (EBM; also known as the ecosystem approach). Our sense is that EBM is moving - albeit slowly - from the “what's, why's and when's” to the “how's” of operationalization and implementation; as such it seemed timely to develop this article theme set (TS). Our objectives were to ascertain the state of the discipline and to advance EBM by offering practical examples of its implementation - or attempts at such - in a variety of incarnations and at various scales, including what has or has not worked, suggestions for best practice, and lessons learned. As exemplified by the articles in this TS, key lessons learned include the need for: constant and clear communication with all parties involved; clear objectives and governance; the distillation of complex ecosystem information into digestible indicators; the establishment of reference levels on which management decisions can be made; and clear protocols to evaluate tradeoffs. Instances of truly multisectoral EBM remain rare, with EBM having advanced farthest within specific ocean-use sectors. Although progress towards implementing operational EBM has been somewhat limited, and although EBM is by its very nature complex and difficult to operationalize, there has been progress nonetheless. We hope that this TS will encourage even further operationalization of EBM.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/74/1/379/28657974/fsw247.pdf
+CITED BY COUNT: 76
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Operationalization', 'Variety (cybernetics)', 'Set (abstract data type)', 'Computer science', 'Corporate governance', 'Knowledge management', 'Process management', 'Environmental resource management', 'Management science', 'Business', 'Engineering', 'Environmental science', 'Epistemology', 'Philosophy', 'Finance', 'Artificial intelligence', 'Programming language']

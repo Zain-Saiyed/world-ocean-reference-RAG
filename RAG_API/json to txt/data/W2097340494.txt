@@ -1,0 +1,12 @@
+ID: W2097340494
+TITLE: Climate change and marine plankton
+AUTHOR: ['Graeme C. Hays', 'Anthony J. Richardson', 'Carlos J. Robinson']
+ABSTRACT:
+Understanding how climate change will affect the planet is a key issue worldwide. Questions concerning the pace and impacts of climate change are thus central to many ecological and biogeochemical studies, and addressing the consequences of climate change is now high on the list of priorities for funding agencies. Here, we review the interactions between climate change and plankton communities, focusing on systematic changes in plankton community structure, abundance, distribution and phenology over recent decades. We examine the potential socioeconomic impacts of these plankton changes, such as the effects of bottom-up forcing on commercially exploited fish stocks (i.e. plankton as food for fish). We also consider the crucial roles that plankton might have in dictating the future pace of climate change via feedback mechanisms responding to elevated atmospheric CO(2) levels. An important message emerges from this review: ongoing plankton monitoring programmes worldwide will act as sentinels to identify future changes in marine ecosystems.
+
+SOURCE: Trends in ecology & evolution
+PDF URL: None
+CITED BY COUNT: 1021
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Plankton', 'Climate change', 'Marine ecosystem', 'Ecosystem', 'Pace', 'Ecology', 'Global change', 'Global warming', 'Environmental science', 'Environmental resource management', 'Geography', 'Biology', 'Geodesy']

@@ -1,0 +1,12 @@
+ID: W2959137854
+TITLE: The five deeps: The location and depth of the deepest place in each of the world's oceans
+AUTHOR: ['Heather A. Stewart', 'Alan J. Jamieson']
+ABSTRACT:
+The exact location and depth of the deepest places in each of the world's oceans is surprisingly unresolved or at best ambiguous. Out of date, erroneous, misleading, or non-existent data on these locations have propagated uncorrected through online sources and the scientific literature. For clarification, this study reviews and assesses the best resolution bathymetric datasets currently available from public repositories. The deepest place in each ocean are the Molloy Hole in the Fram Strait (Arctic Ocean; 5669 m, 79.137° N/2.817° E), the trench axis of the Puerto Rico Trench (Atlantic Ocean; 8408 m 19.613° N/67.847° W), an unnamed deep in the Java Trench (Indian Ocean; 7290 m, 11.20° S/118.47° E), Challenger Deep in the Mariana Trench (Pacific Ocean; 10,925 m, 11.332° N/142.202° E) and an unnamed deep in the South Sandwich Trench (Southern Ocean; 7385 m, 60.33° S/25.28° W). However, discussed are caveats to these locations that range from the published coordinates for a number of named deeps that require correction, some deeps that should fall into abeyance, deeps that are currently unnamed and the problems surrounding variable and low-resolution bathymetric data. Recommendations on the above and the nomenclature and definition of deeps as undersea features are provided.
+
+SOURCE: Earth-science reviews
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Bathymetry', 'Geology', 'Trench', 'Oceanography', 'The arctic', 'Range (aeronautics)', 'Engineering', 'Chemistry', 'Organic chemistry', 'Layer (electronics)', 'Aerospace engineering']

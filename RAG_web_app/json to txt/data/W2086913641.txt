@@ -1,0 +1,12 @@
+ID: W2086913641
+TITLE: Abrupt climate change and collapse of deep-sea ecosystems
+AUTHOR: ['Moriaki Yasuhara', 'Thomas M. Cronin', 'Peter B deMenocal', 'Hisayo Okahashi', 'Braddock K. Linsley']
+ABSTRACT:
+We investigated the deep-sea fossil record of benthic ostracodes during periods of rapid climate and oceanographic change over the past 20,000 years in a core from intermediate depth in the northwestern Atlantic. Results show that deep-sea benthic community "collapses" occur with faunal turnover of up to 50% during major climatically driven oceanographic changes. Species diversity as measured by the Shannon-Wiener index falls from 3 to as low as 1.6 during these events. Major disruptions in the benthic communities commenced with Heinrich Event 1, the Inter-Allerød Cold Period (IACP: 13.1 ka), the Younger Dryas (YD: 12.9-11.5 ka), and several Holocene Bond events when changes in deep-water circulation occurred. The largest collapse is associated with the YD/IACP and is characterized by an abrupt two-step decrease in both the upper North Atlantic Deep Water assemblage and species diversity at 13.1 ka and at 12.2 ka. The ostracode fauna at this site did not fully recover until approximately 8 ka, with the establishment of Labrador Sea Water ventilation. Ecologically opportunistic slope species prospered during this community collapse. Other abrupt community collapses during the past 20 ka generally correspond to millennial climate events. These results indicate that deep-sea ecosystems are not immune to the effects of rapid climate changes occurring over centuries or less.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 118
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Younger Dryas', 'Benthic zone', 'Oceanography', 'Fauna', 'Deep sea', 'Climate change', 'Geology', 'Ecosystem', 'Holocene', 'Period (music)', 'Paleoclimatology', 'Paleontology', 'Ecology', 'Biology', 'Physics', 'Acoustics']

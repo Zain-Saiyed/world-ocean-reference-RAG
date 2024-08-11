@@ -1,0 +1,12 @@
+ID: W2105499236
+TITLE: Mounting evidence: near‐slope seamounts are faunally indistinct from an adjacent bank
+AUTHOR: ['Kerry L. Howell', 'Sophie L. Mowles', 'Andrew Foggo']
+ABSTRACT:
+Abstract Seamounts have been described as island habitats harbouring a unique fauna, and as biodiversity hotspots with high rates of endemism. However, recent research suggests that these generalisations are inappropriate and poorly supported, though appropriate on and off seamount comparative data are lacking. This study uses quantitative data derived from video analysis to compare epibenthic megafaunal community composition, diversity and potential species endemism on two seamounts and one bank in the Rockall Trough region of the NE Atlantic. Sample data were standardised for substratum type across all three features and as far as possible for depth and geomorphological variation. The results suggest that under similar environmental conditions, e.g . similar substratum, depth and geomorphology, there is little difference between the communities of the bank and seamounts in the Rockall Trough. Where differences are observed, the ‘guyot’ seamount is as different to the conical seamount as it is to the bank. The seamounts are no more or less diverse than the bank; endemism is low or non‐existent. The results are discussed in the context of the common generalisations made concerning seamount communities and the implications for conservation and management of the deep sea.
+
+SOURCE: Marine ecology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1439-0485.2010.00368.x
+CITED BY COUNT: 51
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seamount', 'Endemism', 'Context (archaeology)', 'Geology', 'Fauna', 'Biodiversity', 'Oceanography', 'Geography', 'Habitat', 'Paleontology', 'Ecology', 'Biology']

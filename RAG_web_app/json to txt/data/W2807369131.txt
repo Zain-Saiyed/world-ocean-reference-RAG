@@ -1,0 +1,12 @@
+ID: W2807369131
+TITLE: Is floating photovoltaic better than conventional photovoltaic? Assessing environmental impacts
+AUTHOR: ['Gardenio Diogo Pimentel da Silva', 'David Alves Castelo Branco']
+ABSTRACT:
+Photovoltaic (PV) solar energy installations are growing all over the world as a promising renewable alternative to generate electricity. However, many studies have highlighted some drawbacks associated with the installation and operation of conventional solar energy power plants. Thus, floating photovoltaic (FPV) systems have been emerging as a new concept in solar energy to lessen negative environmental impacts caused by allocation of conventional PV facilities. This paper is an overview of the potential negative and positive environmental impacts caused by photovoltaic systems with particular interest on large-scale conventional and floating photovoltaic. This study addresses and compares the impacts at all phases of project implementation, which covers planning, construction, and operation and decommissioning, focusing on ambient located in the tropics. The overall impacts associated with project allocation such as deforestation (for the project implementation and site accessing), bird mortality, erosion, runoff, and change in microclimate are expected to have higher magnitudes for the implementation of conventional PV facilities. The results highlight advantages of FPV over conventional PV during the operational and decommissioning phases as well. Though, further studies are required to assess both qualitative and quantitative aspects of installations in similar areas.
+
+SOURCE: Impact assessment and project appraisal
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/14615517.2018.1477498?needAccess=true
+CITED BY COUNT: 105
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Photovoltaic system', 'Nuclear decommissioning', 'Renewable energy', 'Environmental science', 'Photovoltaics', 'Environmental impact assessment', 'Electricity', 'Microclimate', 'Solar energy', 'Environmental resource management', 'Engineering', 'Electrical engineering', 'Waste management', 'Geography', 'Ecology', 'Archaeology', 'Biology']

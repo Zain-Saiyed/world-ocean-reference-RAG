@@ -1,0 +1,12 @@
+ID: W2748161017
+TITLE: Food web functioning of the benthopelagic community in a deep-sea seamount based on diet and stable isotope analyses
+AUTHOR: ['Izaskun Preciado', 'Joan Enric Cartes', 'Antonio Punzón', 'Inmaculada Frutos', 'Lucía López‐López', 'Alberto Serrano']
+ABSTRACT:
+Trophic interactions in the deep-sea fish community of the Galicia Bank seamount (NE Atlantic) were inferred by using stomach contents analyses (SCA) and stable isotope analyses (SIA) of 27 fish species and their main prey items. Samples were collected during three surveys performed in 2009, 2010 and 2011 between 625 and 1800 m depth. Three main trophic guilds were determined using SCA data: pelagic, benthopelagic and benthic feeders, respectively. Vertically migrating macrozooplankton and meso-bathypelagic shrimps were identified to play a key role as pelagic prey for the deep sea fish community of the Galicia Bank. Habitat overlap was hardly detected; as a matter of fact, when species coexisted most of them evidenced a low dietary overlap, indicating a high degree of resource partitioning. A high potential competition, however, was observed among benthopelagic feeders, i.e.: Etmopterus spinax, Hoplostethus mediterraneus and Epigonus telescopus. A significant correlation was found between δ15N and δ13C for all the analysed species. When calculating Trophic Levels (TLs) for the main fish species, using both the SCA and SIA approaches, some discrepancies arose: TLs calculated from SIA were significantly higher than those obtained from SCA, probably indicating a higher consumption of benthic-suprabenthic prey in the previous months. During the summer, food web functioning in the Galicia Bank was more influenced by the assemblages dwelling in the water column than by deep-sea benthos, which was rather scarce in the summer samples. These discrepancies demonstrate the importance of using both approaches, SCA (snapshot of diet) and SIA (assimilated food in previous months), when attempting trophic studies, if an overview of food web dynamics in different compartments of the ecosystem is to be obtained.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Trophic level', 'Pelagic zone', 'Seamount', 'Benthic zone', 'Predation', 'Food web', 'Biology', 'Fishery', 'Mesopelagic zone', 'Benthos', 'Ecology', 'Oceanography', 'Paleontology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2030429307
+TITLE: Seaweed biodiversity in the south-western Antarctic Peninsula: surveying macroalgal community composition in the Adelaide Island/Marguerite Bay region over a 35-year time span
+AUTHOR: ['Alexandra Mystikou', 'Akira F. Peters', 'Aldo Asensi', 'Kyle Fletcher', 'Paul Brickle', 'Pieter van West', 'Peter Convey', 'Frithjof C. Küpper']
+ABSTRACT:
+The diversity of seaweed species of the south-western Antarctic Peninsula region is poorly studied, contrasting with the substantial knowledge available for the northern parts of the Peninsula. However, this is a key region affected by contemporary climate change. Significant consequences of this change include sea ice recession, increased iceberg scouring and increased inputs of glacial melt water, all of which can have major impacts on benthic communities. We present a baseline seaweed species checklist for the southern Adelaide Island and northern Marguerite Bay region, combining data obtained during a small number of surveys completed in 1973–1975 and a 6-week intensive diving-based field campaign in 2010–2011. Overall, with a total of 41 macroalgal species recorded (7 brown, 27 red, 6 green, 1 chrysophyte), the region is species-poor compared to the north of the Antarctic Peninsula, and even more so in comparison with the sub-Antarctic. The key canopy-forming species is Desmarestia menziesii, which is abundant in Antarctic Peninsula waters, but lacking in the sub-Antarctic. Himantothallus grandifolius, which is a common species further north in the Antarctic phytobenthos, was absent in our recent collections. This paper also reports the first record of Aplanochytrium sp. (Labyrinthulomycetes) from this part of Antarctica and in association with Elachista sp.
+
+SOURCE: Polar biology
+PDF URL: None
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Peninsula', 'Bay', 'Oceanography', 'Biodiversity', 'Benthic zone', 'Ecology', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2115661873
+TITLE: Electronic monitoring trials on in the tropical tuna purse-seine fishery
+AUTHOR: ['Jon Ruiz', 'Adam Roy Batty', 'Pierre Chavance', 'H. McElderry', 'Victor Restrepo', 'P. Sharples', 'Jorge Santos', 'Agurtzane Urtizberea']
+ABSTRACT:
+The difficulty of ensuring adequate statistical coverage of whole fleets is a challenge for the implementation of observer programmes and may reduce the usefulness of the data they obtain for management purposes. This makes it necessary to find cost-effective alternatives. Electronic monitoring (EM) systems are being used in some fisheries as an alternative or a complement to human observers. The objective of this study was to test the use and reliability of EM on the tropical tuna purse-seine fishery. To achieve this objective, seven trips of tuna purse seiners operating in the three Oceans were closely monitored to compare the information provided by EM and on-board observers to determine if EM can reliably document fishing effort, set type, tuna catch, and bycatch. Total tuna catch per set was not significantly different between EM and observer datasets; however, regarding species composition, only main species matched between EM and observers. Success on set-type identification using EM varied between 98.3 and 56.3%, depending on the camera placement. Overall, bycatch species were underestimated by EM, but large bodied species, such as billfishes, were well documented. The analyses in this study showed that EM can be used to determine the fishing effort (number of sets) and total tuna catch as reliably as observers can. Set-type identification also had very promising results, but indicated that refinement of the methods is still needed. To be fully comparable with observer data, improvements for accurately estimating the bycatch will need to be developed in the application and use of the EM system. Operational aspects that need to be improved for an EM programme to be implemented include standardizing installation and on-board catch handling methodology as well as improvements in video technology deployment.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/72/4/1201/31225159/fsu224.pdf
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Tuna', 'Bycatch', 'Fishing', 'Fishery', 'Skipjack tuna', 'Computer science', 'Environmental science', 'Biology', 'Fish <Actinopterygii>']

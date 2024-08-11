@@ -1,0 +1,12 @@
+ID: W1990477297
+TITLE: Links between deep‐sea respiration and community dynamics
+AUTHOR: ['Henry A. Ruhl', 'Brian J. Bett', 'Sarah Jane Hughes', 'Claudia H. S. Alt', 'Elizabeth Ross', 'Richard S. Lampitt', 'Corinne Pebody', 'Kenneth L. Smith', 'David Billett']
+ABSTRACT:
+It has been challenging to establish the mechanisms that link ecosystem functioning to environmental and resource variation, as well as community structure, composition, and compensatory dynamics. A compelling hypothesis of compensatory dynamics, known as "zero-sum" dynamics, is framed in terms of energy resource and demand units, where there is an inverse link between the number of individuals in a community and the mean individual metabolic rate. However, body size energy distributions that are nonuniform suggest a niche advantage at a particular size class, which suggests a limit to which metabolism can explain community structuring. Since 1989, the composition and structure of abyssal seafloor communities in the northeast Pacific and northeast Atlantic have varied interannually with links to climate and resource variation. Here, for the first time, class and mass-specific individual respiration rates were examined along with resource supply and time series of density and biomass data of the dominant abyssal megafauna, echinoderms. Both sites had inverse relationships between density and mean individual metabolic rate. We found fourfold variation in echinoderm respiration over interannual timescales at both sites, which were linked to shifts in species composition and structure. In the northeastern Pacific, the respiration of mobile surface deposit feeding echinoderms was positively linked to climate-driven particulate organic carbon fluxes with a temporal lag of about one year, respiring - 1-6% of the annual particulate organic carbon flux.
+
+SOURCE: Ecology
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Ecology', 'Biomass (ecology)', 'Community structure', 'Environmental science', 'Ecosystem', 'Competition (biology)', 'Respiration', 'Oceanography', 'Biology', 'Geology', 'Botany']

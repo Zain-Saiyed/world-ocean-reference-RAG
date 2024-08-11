@@ -1,0 +1,12 @@
+ID: W1995816231
+TITLE: Different male vs. female breeding periodicity helps mitigate offspring sex ratio skews in sea turtles
+AUTHOR: ['Graeme C. Hays', 'Antonios D. Mazaris', 'Gail Schofield']
+ABSTRACT:
+The implications of climate change for global biodiversity may be profound with those species with little capacity for adaptation being thought to be particularly vulnerable to warming. A classic case of groups for concern are those animals exhibiting temperature-dependent sex-determination (TSD), such as sea turtles, where climate warming may produce single sex populations and hence extinction. We show that, globally, female biased hatchling sex ratios dominate sea turtle populations (exceeding 3:1 in >50% records), which, at-a-glance, reiterates concerns for extinction. However, we also demonstrate that more frequent breeding by males, empirically shown by satellite tracking 23 individuals and supported by a generalized bio-energetic life history model, generates more balanced operational sex ratios (OSRs). Hence, concerns of increasingly skewed hatchling sex ratios and reduced population viability are less acute than previously thought for sea turtles. In fact, in some scenarios skewed hatchling sex ratios in groups with TSD may be adaptive to ensure optimum OSRs.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2014.00043/pdf
+CITED BY COUNT: 119
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Hatchling', 'Sex ratio', 'Extinction (optical mineralogy)', 'Biology', 'Population', 'Adaptation (eye)', 'Global warming', 'Ecology', 'Climate change', 'Demography', 'Hatching', 'Sociology', 'Paleontology', 'Neuroscience']

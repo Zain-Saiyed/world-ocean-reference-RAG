@@ -1,0 +1,12 @@
+ID: W2560433521
+TITLE: N2 production rates limited by nitrite availability in the Bay of Bengal oxygen minimum zone
+AUTHOR: ['Laura A. Bristow', 'Cameron M. Callbeck', 'Morten Larsen', 'Mark A. Altabet', 'Julien Dekaezemacker', 'Michael Forth', 'Mangesh Gauns', 'Ronnie N. Glud', 'Marcel M. M. Kuypers', 'Gaute Lavik', 'Jana Milucka', 'S.W.A. Naqvi', 'Anil Pratihary', 'N. P. Revsbech', 'Bo Thamdrup', 'Alexander H. Treusch', 'Donald E. Canfield']
+ABSTRACT:
+A third or more of the fixed nitrogen lost from the oceans as N2 is removed by anaerobic microbial processes in open ocean oxygen minimum zones. These zones have expanded over the past decades, and further anthropogenically induced expansion could accelerate nitrogen loss. However, in the Bay of Bengal there has been no indication of nitrogen loss, although oxygen levels are below the detection level of conventional methods (1 to 2 μM). Here we quantify the abundance of microbial genes associated with N2 production, measure nitrogen transformations in incubations of sampled seawater with isotopically labelled nitrogen compounds and analyse geochemical signatures of these processes in the water column. We find that the Bay of Bengal supports denitrifier and anammox microbial populations, mediating low, but significant N loss. Yet, unlike other oxygen minimum zones, our measurements using a highly sensitive oxygen sensor demonstrate that the Bay of Bengal has persistent concentrations of oxygen in the 10 to 200 nM range. We propose that this oxygen supports nitrite oxidation, thereby restricting the nitrite available for anammox or denitrification. If these traces of oxygen were removed, nitrogen loss in the Bay of Bengal oxygen minimum zone waters could accelerate to global significance. Nitrogen losses have not been observed in the Bay of Bengal, unlike in other ocean oxygen minimum zones. Chemical and molecular analyses reveal that trace levels of oxygen inhibit nitrate formation, largely preventing microbial N2 production.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 170
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Bay', 'Anammox', 'Oxygen', 'Oxygen minimum zone', 'Nitrite', 'BENGAL', 'Environmental chemistry', 'Nitrogen', 'Denitrification', 'Nitrate', 'Environmental science', 'Seawater', 'Oceanography', 'Chemistry', 'Ecology', 'Biology', 'Geology', 'Denitrifying bacteria', 'Organic chemistry']

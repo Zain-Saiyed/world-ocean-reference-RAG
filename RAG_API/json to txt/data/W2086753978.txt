@@ -1,0 +1,12 @@
+ID: W2086753978
+TITLE: Acute survivorship of the deep-sea coral Lophelia pertusa from the Gulf of Mexico under acidification, warming, and deoxygenation
+AUTHOR: ['Jay J. Lunden', 'Conall G. McNicholl', 'Christopher R. Sears', 'Cheryl L. Morrison', 'Erik E. Cordes']
+ABSTRACT:
+Changing global climate due to anthropogenic emissions of CO2 are driving rapid changes in the physical and chemical environment of the oceans via warming, deoxygenation, and acidification. These changes may threaten the persistence of species and populations across a range of latitudes and depths, including species that support diverse biological communities that in turn provide ecological stability and support commercial interests. Worldwide, but particularly in the North Atlantic and deep Gulf of Mexico, Lophelia pertusa forms expansive reefs that support biological communities whose diversity rivals that of tropical coral reefs. In this study, L. pertusa colonies were collected from the Viosca Knoll region in the Gulf of Mexico (390 to 450 m depth), genotyped using microsatellite markers, and exposed to a series of treatments testing survivorship responses to acidification, warming, and deoxygenation. All coral nubbins survived the acidification scenarios tested, between pH of 7.67 and 7.90 and aragonite saturation states of 0.92 and 1.47. However, calcification generally declined with respect to pH, though a disparate response was evident where select individuals net calcified and others exhibited net dissolution near a saturation state of 1. Warming and deoxygenation both had negative effects on survivorship, with up to 100% mortality observed at temperatures above 14ºC and oxygen concentrations of approximately 1.5 ml·l-1. These results suggest that, over the short-term, climate change and OA may negatively impact L. pertusa in the Gulf of Mexico, though the potential for acclimation and the effects of genetic background should be considered in future research.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2014.00078/pdf
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Coral', 'Oceanography', 'Climate change', 'Coral reef', 'Reef', 'Ecology', 'Global warming', 'Environmental science', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2995605020
+TITLE: Contrasting potential for nature-based solutions to enhance coastal protection services in atoll islands
+AUTHOR: ['Virginie Duvat', 'Alexandre Magnan']
+ABSTRACT:
+Based on the study of 107 inhabited islands of the Maldives, we assess to what extent the level of local human disturbance of the coastal protection services provided by the reef-island system influences the potential for nature-based solutions (NBS) to address climate change impacts in atoll contexts. The results show that in 2014-16, 68.2% of the Maldivian islands (classified Type 3) exhibited a significant human-induced undermining of these services, while respectively 7.5% and 21.5% experienced a substantial (Type 4) and very substantial (Type 5) level of undermining of these services, whereas hardly any inhabited island shows low levels of undermining (Types 1 and 2). Based on these findings and on our own expertise in atoll environments, we propose a 5-pillar adaptation pathway approach for atoll islands: (i) increase ecosystem resilience; (ii) minimise the risk of maladaptation; (iii) facilitate internal relocation; (iv) island fortification associated with ground elevation, and (v) permanent international migration (back-up plan). While the potential for NBS is high for island types 1, 2 and 3 (respectively undisturbed, little disturbed and significantly disturbed islands), it is nil for island types 4 and 5, where the coastal protection services delivered by the reef-island system are no longer functional. Given that the Maldives Islands are the atoll country exhibiting the highest population densities among atoll countries and territories, our findings indicate that there is still a high potential for NBS in atoll contexts at large.
+
+SOURCE: None
+PDF URL: http://www.univerlag.uni-goettingen.de/bitstream/3/isbn-978-3-86395-435-2.3/1/3_duvat_contrasting.pdf
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2019
+TYPE: preprint
+CONCEPTS: ['Atoll', 'Oceanography', 'Geography', 'Environmental science', 'Fishery', 'Environmental protection', 'Geology', 'Biology', 'Reef']

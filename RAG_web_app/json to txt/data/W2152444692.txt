@@ -1,0 +1,12 @@
+ID: W2152444692
+TITLE: The future of evolutionary diversity in reef corals
+AUTHOR: ['Danwei Huang', 'Kaustuv Roy']
+ABSTRACT:
+One-third of the world's reef-building corals are facing heightened extinction risk from climate change and other anthropogenic impacts. Previous studies have shown that such threats are not distributed randomly across the coral tree of life, and future extinctions have the potential to disproportionately reduce the phylogenetic diversity of this group on a global scale. However, the impact of such losses on a regional scale remains poorly known. In this study, we use phylogenetic metrics in conjunction with geographical distributions of living reef coral species to model how extinctions are likely to affect evolutionary diversity across different ecoregions. Based on two measures-phylogenetic diversity and phylogenetic species variability-we highlight regions with the largest losses of evolutionary diversity and hence of potential conservation interest. Notably, the projected loss of evolutionary diversity is relatively low in the most species-rich areas such as the Coral Triangle, while many regions with fewer species stand to lose much larger shares of their diversity. We also suggest that for complex ecosystems like coral reefs it is important to consider changes in phylogenetic species variability; areas with disproportionate declines in this measure should be of concern even if phylogenetic diversity is not as impacted. These findings underscore the importance of integrating evolutionary history into conservation planning for safeguarding the future diversity of coral reefs.
+
+SOURCE: Philosophical transactions - Royal Society. Biological sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2014.0010
+CITED BY COUNT: 70
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Phylogenetic diversity', 'Ecology', 'Coral reef', 'Reef', 'Biodiversity', 'Phylogenetic tree', 'Biology', 'Extinction (optical mineralogy)', 'Coral', 'Species diversity', 'Geography', 'Paleontology', 'Biochemistry', 'Gene']

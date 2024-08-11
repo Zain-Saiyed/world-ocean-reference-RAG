@@ -1,0 +1,12 @@
+ID: W2115220943
+TITLE: Hexachlorobenzene sources, levels and human exposure in the environment of China
+AUTHOR: ['Wang Guang', 'Yonglong Lü', 'Jianwei Han', 'Wei Luo', 'Yunfeng Shi', 'Tieyu Wang', 'Yuebing Sun']
+ABSTRACT:
+This article summarizes the published scientific data on sources, levels and human exposure of hexachlorobenzene (HCB) in China. Potential sources of unintended HCB emission were assessed by production information, emission factors and environmental policies. HCB was observed in various environmental compartments in China. HCB levels increased from South China to North China in most of environmental compartments (air, soil and mussel). Some hotspots were identified near the factories producing and using HCB. In terms of spatial distribution, HCB concentrations in air and shellfish showed much variation, which indicated some primary emission sources in China. HCB levels in air and human milk in China were relatively higher than those in other countries, but HCB levels in other compartments were similar to those in Europe and other countries in Eastern Asia. In the limited studies on temporal trends of HCB levels in China, HCB concentrations in air, sediment, fish and human milk did not show a consistent downward trend. Although HCB levels in food and human milk does not pose a health risk in China at present, long-term exposure to HCB should not be overlooked.
+
+SOURCE: Environment international
+PDF URL: None
+CITED BY COUNT: 105
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Hexachlorobenzene', 'China', 'Environmental science', 'Human health', 'Environmental chemistry', 'Environmental protection', 'Environmental health', 'Geography', 'Ecology', 'Pollutant', 'Biology', 'Chemistry', 'Medicine', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W2334140573
+TITLE: Tracking ocean heat uptake during the surface warming hiatus
+AUTHOR: ['Wei Liu', 'Shang‐Ping Xie', 'Jian Lu']
+ABSTRACT:
+Abstract Ocean heat uptake is observed to penetrate deep into the Atlantic and Southern Oceans during the recent hiatus of global warming. Here we show that the deep heat penetration in these two basins is not unique to the hiatus but is characteristic of anthropogenic warming and merely reflects the depth of the mean meridional overturning circulation in the basin. We find, however, that heat redistribution in the upper 350 m between the Pacific and Indian Oceans is closely tied to the surface warming hiatus. The Indian Ocean shows an anomalous warming below 50 m during hiatus events due to an enhanced heat transport by the Indonesian throughflow in response to the intensified trade winds in the equatorial Pacific. Thus, the Pacific and Indian Oceans are the key regions to track ocean heat uptake during the surface warming hiatus.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms10926.pdf
+CITED BY COUNT: 122
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Hiatus', 'Throughflow', 'Ocean heat content', 'Climatology', 'Oceanography', 'Global warming', 'Geology', 'Effects of global warming on oceans', 'Thermohaline circulation', 'Climate change', 'Paleontology', 'Soil science']

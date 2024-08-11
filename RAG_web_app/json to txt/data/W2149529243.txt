@@ -1,0 +1,12 @@
+ID: W2149529243
+TITLE: Marine Biodiversity Hotspots and Conservation Priorities for Tropical Reefs
+AUTHOR: ['Callum M. Roberts', 'Colin J. McClean', 'John Veron', 'Julie P. Hawkins', 'Gerald R. Allen', 'Don E. McAllister', 'Cristina G. Mittermeier', 'Frederick W Schueler', 'Mark Spalding', 'Fred E. Wells', 'Carly Vynne', 'Timothy B. Werner']
+ABSTRACT:
+Coral reefs are the most biologically diverse of shallow water marine ecosystems but are being degraded worldwide by human activities and climate warming. Analyses of the geographic ranges of 3235 species of reef fish, corals, snails, and lobsters revealed that between 7.2% and 53.6% of each taxon have highly restricted ranges, rendering them vulnerable to extinction. Restricted-range species are clustered into centers of endemism, like those described for terrestrial taxa. The 10 richest centers of endemism cover 15.8% of the world's coral reefs (0.012% of the oceans) but include between 44.8 and 54.2% of the restricted-range species. Many occur in regions where reefs are being severely affected by people, potentially leading to numerous extinctions. Threatened centers of endemism are major biodiversity hotspots, and conservation efforts targeted toward them could help avert the loss of tropical reef biodiversity.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 1420
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Endemism', 'Threatened species', 'Biodiversity', 'Reef', 'Coral reef', 'Geography', 'Ecology', 'Range (aeronautics)', 'Coral reef protection', 'Biodiversity hotspot', 'Environmental issues with coral reefs', 'Extinction (optical mineralogy)', 'Fishery', 'Biology', 'Habitat', 'Paleontology', 'Materials science', 'Composite material']

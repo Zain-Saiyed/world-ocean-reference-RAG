@@ -1,0 +1,12 @@
+ID: W1248764069
+TITLE: Impact of anthropogenic Pb and ocean circulation on the recent distribution of Pb isotopes in the Indian Ocean
+AUTHOR: ['Jong‐Mi Lee', 'Edward A. Boyle', 'Toshitaka Gamo', 'Hajime Obata', 'Kazuhiro Norisuye', 'Yolanda Echegoyen']
+ABSTRACT:
+Pb and Pb isotope ratios in the modern ocean have been altered significantly by anthropogenic Pb inputs over the past century. Most studies of anthropogenic Pb in the ocean have focused on the North Atlantic and North Pacific Oceans, and the impact of anthropogenic Pb inputs to the Indian Ocean and processes controlling the distribution of Pb in the Indian Ocean are poorly known. This study presents the Pb and Pb isotopic composition (206Pb/207Pb, 208Pb/207Pb) of 11 deep stations from the Indian Ocean Japanese GEOTRACES cruise (KH-09-5), from the Bay of Bengal and Arabian Sea to the Southern Ocean (62°S). The Pb isotope ratios of the Indian Ocean range 1.140–1.190 for 206Pb/207Pb and 2.417–2.468 for 208Pb/207Pb, with lower ratios appearing in the shallow waters of the northern Indian Ocean and higher ratios appearing in the deep layers of the Southern Ocean. This result agrees with a previous study on Pb concentrations (Echegoyen et al., 2014) showing that the Indian Ocean, particularly its northern part, is largely perturbed by anthropogenic Pb inputs. 206Pb/207Pb and 208Pb/207Pb of the Indian sector Southern Ocean are still lower than natural Pb, showing this region was also affected by anthropogenic Pb. Anomalously low or high 206Pb/207Pb and 208Pb/207Pb were observed in the thermocline and shallow waters of the southern Indian Ocean and the Arabian Sea, which are ascribed to water mass distribution (e.g., Subantarctic Mode Water) and evolving Pb isotope ratios of this region as dominant anthropogenic Pb sources change. 206Pb/207Pb and 208Pb/207Pb in the Bay of Bengal are higher than those in the Arabian Sea, which might be the result of the anthropogenic Pb inputs from different provenance or seawater exchanging Pb isotopes with natural particles derived from rivers and/or sediments at the basin boundaries.
+
+SOURCE: Geochimica et cosmochimica acta
+PDF URL: None
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Oceanography', 'Geotraces', 'Thermocline', 'Geology', 'Bay', 'Ocean current', 'Thermohaline circulation', 'Deep sea', 'Deep ocean water', 'Water mass', 'Indian ocean', 'Oceanic basin', 'Seawater', 'Structural basin', 'Paleontology']

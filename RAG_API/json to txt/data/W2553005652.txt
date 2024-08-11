@@ -1,0 +1,12 @@
+ID: W2553005652
+TITLE: Observing and Predicting the 2015/16 El Niño
+AUTHOR: ['Michelle L’Heureux', 'K. Takahashi', 'Andrew Watkins', 'Anthony G. Barnston', 'Emily Becker', 'Tom E. Di Liberto', 'Felicity Gamble', 'Jon Gottschalck', 'Michael S. Halpert', 'Boyin Huang', 'K. Mosquera‐Vásquez', 'Andrew T. Wittenberg']
+ABSTRACT:
+Abstract The El Niño of 2015/16 was among the strongest El Niño events observed since 1950 and took place almost two decades after the previous major event in 1997/98. Here, perspectives of the event are shared by scientists from three national meteorological or climate services that issue regular operational updates on the status and prediction of El Niño–Southern Oscillation (ENSO). Public advisories on the unfolding El Niño were issued in the first half of 2015. This was followed by significant growth in sea surface temperature (SST) anomalies, a peak during November 2015–January 2016, subsequent decay, and its demise during May 2016. The life cycle and magnitude of the 2015/16 El Niño was well predicted by most models used by national meteorological services, in contrast to the generally overexuberant model predictions made the previous year. The evolution of multiple atmospheric and oceanic measures demonstrates the rich complexity of ENSO, as a coupled ocean–atmosphere phenomenon with pronounced global impacts. While some aspects of the 2015/16 El Niño rivaled the events of 1982/83 and 1997/98, we show that it also differed in unique and important ways, with implications for the study and evaluation of past and future ENSO events. Unlike previous major El Niños, remarkably above-average SST anomalies occurred in the western and central equatorial Pacific but were milder near the coast of South America. While operational ENSO systems have progressed markedly over the past several decades, the 2015/16 El Niño highlights several challenges that will continue to test both the research and operational forecast communities.
+
+SOURCE: Bulletin of the American Meteorological Society
+PDF URL: None
+CITED BY COUNT: 248
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['El Niño Southern Oscillation', 'Climatology', 'Demise', 'Sea surface temperature', 'Environmental science', 'Magnitude (astronomy)', 'Pacific decadal oscillation', 'Pacific ocean', 'Geography', 'Geology', 'Oceanography', 'Physics', 'Political science', 'Astronomy', 'Law']

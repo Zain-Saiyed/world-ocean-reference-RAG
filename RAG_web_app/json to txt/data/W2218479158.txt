@@ -1,0 +1,12 @@
+ID: W2218479158
+TITLE: Seventy years of continuous encroachment substantially increases ‘blue carbon’ capacity as mangroves replace intertidal salt marshes
+AUTHOR: ['Jeffrey J. Kelleway', 'Neil Saintilan', 'Peter I. Macreadie', 'C. Gregory Skilbeck', 'Atun Zawadzki', 'Peter J. Ralph']
+ABSTRACT:
+Abstract Shifts in ecosystem structure have been observed over recent decades as woody plants encroach upon grasslands and wetlands globally. The migration of mangrove forests into salt marsh ecosystems is one such shift which could have important implications for global ‘blue carbon’ stocks. To date, attempts to quantify changes in ecosystem function are essentially constrained to climate‐mediated pulses (30 years or less) of encroachment occurring at the thermal limits of mangroves. In this study, we track the continuous, lateral encroachment of mangroves into two south‐eastern Australian salt marshes over a period of 70 years and quantify corresponding changes in biomass and belowground C stores. Substantial increases in biomass and belowground C stores have resulted as mangroves replaced salt marsh at both marine and estuarine sites. After 30 years, aboveground biomass was significantly higher than salt marsh, with biomass continuing to increase with mangrove age. Biomass increased at the mesohaline river site by 130 ± 18 Mg biomass km −2 yr −1 (mean ± SE ), a 2.5 times higher rate than the marine embayment site (52 ± 10 Mg biomass km −2 yr −1 ), suggesting local constraints on biomass production. At both sites, and across all vegetation categories, belowground C considerably outweighed aboveground biomass stocks, with belowground C stocks increasing at up to 230 ± 62 Mg C km −2 yr −1 (± SE ) as mangrove forests developed. Over the past 70 years, we estimate mangrove encroachment may have already enhanced intertidal biomass by up to 283 097 Mg and belowground C stocks by over 500 000 Mg in the state of New South Wales alone. Under changing climatic conditions and rising sea levels, global blue carbon storage may be enhanced as mangrove encroachment becomes more widespread, thereby countering global warming.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 165
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Mangrove', 'Blue carbon', 'Salt marsh', 'Biomass (ecology)', 'Wetland', 'Environmental science', 'Intertidal zone', 'Ecosystem', 'Marsh', 'Ecology', 'Seagrass', 'Biology']

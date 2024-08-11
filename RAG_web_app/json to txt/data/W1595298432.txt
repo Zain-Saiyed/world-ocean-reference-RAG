@@ -1,0 +1,12 @@
+ID: W1595298432
+TITLE: Deleterious Effects of Litter on Marine Life
+AUTHOR: ['Susanne Kühn', 'Elisa L. Bravo Rebolledo', 'J.A. van Franeker']
+ABSTRACT:
+In this review we report new findings concerning interaction between marine debris and wildlife. Deleterious effects and consequences of entanglement, consumption and smothering are highlighted and discussed. The number of species known to have been affected by either entanglement or ingestion of plastic debris has doubled since 1997, from 267 to 557 species among all groups of wildlife. For marine turtles the number of affected species increased from 86 to 100 % (now 7 of 7 species), for marine mammals from 43 to 66 % (now 81 of 123 species) and for seabirds from 44 to 50 % of species (now 203 of 406 species). Strong increases in records were also listed for fish and invertebrates, groups that were previously not considered in detail. In future records of interactions between marine debris and wildlife we recommend to focus on standardized data on frequency of occurrence and quantities of debris ingested. In combination with dedicated impact studies in the wild or experiments, this will allow more detailed assessments of the deleterious effects of marine debris on individuals and populations.
+
+SOURCE: Springer eBooks
+PDF URL: https://link.springer.com/content/pdf/10.1007%2F978-3-319-16510-3_4.pdf
+CITED BY COUNT: 328
+PUBLICATION YEAR: 2015
+TYPE: book-chapter
+CONCEPTS: ['Marine debris', 'Wildlife', 'Debris', 'Smothering', 'Invertebrate', 'Ecology', 'Microplastics', 'Biology', 'Marine invertebrates', 'Fish <Actinopterygii>', 'Marine species', 'Fishery', 'Geography', 'Medicine', 'Asphyxia', 'Pediatrics', 'Meteorology']

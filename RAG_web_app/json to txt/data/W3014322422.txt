@@ -1,0 +1,12 @@
+ID: W3014322422
+TITLE: Composition, abundance and sources of anthropogenic marine debris on the beaches from Ecuador – A volunteer-supported study
+AUTHOR: ['Nikita Gaibor', 'Verónica Condo-Espinel', 'María Herminia Cornejo-Rodríguez', 'Jodie J. Darquea', 'Beatriz Pernía', 'Gustavo A. Domínguez', 'María Esther Briz', 'Lady Márquez', 'Enrique Laaz', 'Carlos Alemán-Dyer', 'Ulises Avendaño', 'Johanna Guerrero', 'Mercy Preciado', 'Daniela Honorato‐Zimmer', 'Martín Thiel']
+ABSTRACT:
+This study represents an inter-institutional effort that was supported by more than 400 volunteers. We sampled Anthropogenic Marine Debris (AMD) on 26 beaches, including one beach from Galapagos Islands. AMD was mainly composed of plastics (>60%), followed by cigarette butts, paper and metal. Average AMD density on the continental beaches was 1.31 ± 1.03 items m−2 (mean ± SD). AMD densities and the proportion of plastics were higher on some beaches located on the Gulf of Guayaquil, suggesting that many of the plastic items found on these beaches were, likely, drifted by the swift currents of the Guayas River. Additionally, the overall results indicate that most litter on continental beaches from Ecuador has local sources. Recommendations include marine pollution education and public awareness campaigns to reduce the consumption of plastic bags, as well as a ban on harmful single-use plastics.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Debris', 'Abundance (ecology)', 'Environmental science', 'Marine debris', 'Oceanography', 'Composition (language)', 'Environmental protection', 'Ecology', 'Geology', 'Biology', 'Linguistics', 'Philosophy']

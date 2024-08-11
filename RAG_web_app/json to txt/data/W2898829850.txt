@@ -1,0 +1,12 @@
+ID: W2898829850
+TITLE: Recent trends in nutrient and sediment loading to coastal areas of the conterminous U.S.: Insights and global context
+AUTHOR: ['Gretchen P. Oelsner', 'Edward G. Stets']
+ABSTRACT:
+Coastal areas in the U.S. and worldwide have experienced massive population and land-use changes contributing to significant degradation of coastal ecosystems. Excess nutrient pollution causes coastal ecosystem degradation, and both regulatory and management efforts have targeted reducing nutrient and sediment loading to coastal rivers. Decadal trends in flow-normalized nutrient and sediment loads were determined for 95 monitoring locations on 88 U.S. coastal rivers, including tributaries of the Great Lakes, between 2002 and 2012 for nitrogen (N), phosphorus (P), and sediment. N and P loading from urban watersheds generally decreased between 2002 and 2012. In contrast, N and P trends in agricultural watersheds were variable indicating uneven progress in decreasing nutrient loading. Coherent decreases in N loading from agricultural watersheds occurred in the Lake Erie basin, but limited benefit is expected from these changes because P is the primary driver of degradation in the lake. Nutrient loading from undeveloped watersheds was low, but increased between 2002 and 2012, possibly indicating degradation of coastal watersheds that are minimally affected by human activities. Regional differences in trends were evident, with stable nutrient loads from the Mississippi River to the Gulf of Mexico, but commonly decreasing N loads and increasing P loads in Chesapeake Bay. Compared to global rivers, coastal rivers of the conterminous U.S have somewhat lower TN yields and slightly higher TP yields, but similarities exist among land use, nutrient sources, and changes in nutrient loads. Despite widespread decreases in N loading in coastal watersheds, recent N:P ratios remained elevated compared to historic values in many areas. Additional progress in reducing N and P loading to U.S. coastal waters, particularly outside of urban areas, would benefit coastal ecosystems.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Nutrient', 'Environmental science', 'Tributary', 'Sediment', 'Eutrophication', 'Context (archaeology)', 'Hydrology (agriculture)', 'Nutrient pollution', 'Ecosystem', 'Bay', 'Oceanography', 'Ecology', 'Geography', 'Geology', 'Paleontology', 'Cartography', 'Archaeology', 'Biology', 'Geotechnical engineering']

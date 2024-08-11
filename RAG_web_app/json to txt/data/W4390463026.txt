@@ -1,0 +1,12 @@
+ID: W4390463026
+TITLE: Adapting floating wetland design to advance performance in urban waterfronts
+AUTHOR: ['Christopher Streb']
+ABSTRACT:
+The great cities of the Mid-Atlantic, from Washington, DC to New York City, were strategically placed along the fall line where the Piedmont physiographic province transitions to the Coastal Plain. Situated at the head of the tide, this landscape position held important attributes for city building, including safe harbor for ships, local stone for construction, and proximity to steep streams suitable to run mills. But the head of tide is also an important ecological landscape threshold, where carbon, sediment and nutrients are delivered from the uplands by streams and rivers and deposited in tidal freshwater and brackish marsh systems. In undisturbed landscapes, those marshes uptake and transform pollutants in the water while providing refugia for aquatic fauna, spawning habitat for fish, and feeding grounds for migrating waterfowl. As human development has displaced these ecosystems, the connection facilitated by the beneficial ecosystem services of the tidal marsh systems has been severed.
+
+SOURCE: The Society of Wetland Scientists bulletin/SWS bulletin
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marsh', 'Wetland', 'Brackish marsh', 'Habitat', 'Waterfowl', 'STREAMS', 'Environmental science', 'Brackish water', 'Salt marsh', 'Ecosystem', 'Dredging', 'Hydrology (agriculture)', 'Ecology', 'Geography', 'Fishery', 'Oceanography', 'Geology', 'Salinity', 'Computer network', 'Geotechnical engineering', 'Computer science', 'Biology']

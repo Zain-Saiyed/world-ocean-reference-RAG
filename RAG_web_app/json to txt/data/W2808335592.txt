@@ -1,0 +1,12 @@
+ID: W2808335592
+TITLE: Protecting Migratory Species in the Australian Marine Environment: A Cross-Jurisdictional Analysis of Policy and Management Plans
+AUTHOR: ['Rachel L. Miller', 'Helene Marsh', 'Alison Cottrell', 'Mark Hamann']
+ABSTRACT:
+Marine migratory species are difficult to manage because animal movements can span large areas and are unconstrained by jurisdictional boundaries. We reviewed policy and management plans associated with four case studies protected under the Australian Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act 1999) in order to identify the coherence of policy and management plans for managing marine migratory species in Australia. Environmental policies (n=23) and management plans (n=115) relevant to marine turtles, dugongs, humpback whales, and migratory shorebirds were reviewed. Few of the reviewed policies (n=7) listed protected species and even fewer (n=4) listed protected marine migratory species. Marine turtles were most represented in the reviewed policies (n=7), while migratory shorebirds were most represented in management plans (n=59). Policies and management plans were much more likely to identify relationships to other policies or plans within the same jurisdiction than to different jurisdictions. The EPBC Act 1999 served as the central link between reviewed policies and plans, but the requirements of that Act were weakly integrated into the other documents. This weak integration and the biases towards specific migratory species in environmental policies and management plans are detrimental to the conservation of these Matters of National Environmental Significance in Australia. Any changes to the EPBC Act 1999 will affect all environmental policy and management plans in Australia and highlights a need for cooperative, multi-level governance of migratory species. Our findings may have relevance to the conservation of marine migratory species in a broader international context.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00229/pdf
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Marine protected area', 'Environmental resource management', 'Jurisdiction', 'Context (archaeology)', 'Environmental planning', 'Marine conservation', 'Geography', 'Business', 'Corporate governance', 'Biodiversity', 'Ecology', 'Habitat', 'Political science', 'Biology', 'Environmental science', 'Archaeology', 'Finance', 'Law']

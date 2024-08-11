@@ -1,0 +1,12 @@
+ID: W2503265825
+TITLE: Supervision of Antarctic Shipborne Tourism: A Pending Issue?
+AUTHOR: ['Rodolfo A. Sánchez', 'Ricardo Roura']
+ABSTRACT:
+This chapter focuses on the ways Parties to the Antarctic Treaty, and the tourism industry supervise the implementation of applicable regulation for Antarctic shipborne tourism. Tourism regulation is adopted in the framework of the Antarctic Treaty Consultative Meetings, as well as the external provisions from other international fora and by industry self-regulation. Based on a description of the existing regulation and provisions in place, this chapter discusses the way supervision of Antarctic tourist operations have been debated, conducted and reported by both Treaty Parties and the industry. The article concludes by discussing likely mechanisms to enhance supervision of the management of shipborne tourist activities in Antarctica, and proposing further lines of research on this issue.
+
+SOURCE: Springer briefs in geography
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['Antarctic treaty', 'Tourism', 'Treaty', 'Business', 'Political science', 'Law']

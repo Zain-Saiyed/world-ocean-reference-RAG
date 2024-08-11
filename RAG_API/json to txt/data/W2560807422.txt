@@ -1,0 +1,12 @@
+ID: W2560807422
+TITLE: Conservation status of polar bears (<i>Ursus maritimus</i>) in relation to projected sea-ice declines
+AUTHOR: ['Eric V. Regehr', 'Kristin L. Laidre', 'H. Reşi̇t Akçakaya', 'Steven C. Amstrup', 'Todd C. Atwood', 'Nicholas J. Lunn', 'Martyn E. Obbard', 'Harry Stern', 'Gregory W. Thiemann', 'Øystein Wiig']
+ABSTRACT:
+Loss of Arctic sea ice owing to climate change is the primary threat to polar bears throughout their range. We evaluated the potential response of polar bears to sea-ice declines by (i) calculating generation length (GL) for the species, which determines the timeframe for conservation assessments; (ii) developing a standardized sea-ice metric representing important habitat; and (iii) using statistical models and computer simulation to project changes in the global population under three approaches relating polar bear abundance to sea ice. Mean GL was 11.5 years. Ice-covered days declined in all subpopulation areas during 1979–2014 (median −1.26 days year −1 ). The estimated probabilities that reductions in the mean global population size of polar bears will be greater than 30%, 50% and 80% over three generations (35–41 years) were 0.71 (range 0.20–0.95), 0.07 (range 0–0.35) and less than 0.01 (range 0–0.02), respectively. According to IUCN Red List reduction thresholds, which provide a common measure of extinction risk across taxa, these results are consistent with listing the species as vulnerable. Our findings support the potential for large declines in polar bear numbers owing to sea-ice loss, and highlight near-term uncertainty in statistical projections as well as the sensitivity of projections to different plausible assumptions.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2016.0556
+CITED BY COUNT: 116
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ursus maritimus', 'Sea ice', 'Range (aeronautics)', 'Biology', 'Arctic', 'IUCN Red List', 'Climate change', 'Population', 'Ecology', 'Extinction (optical mineralogy)', 'Arctic ice pack', 'Habitat', 'Polar', 'Threatened species', 'Physical geography', 'Oceanography', 'Geography', 'Demography', 'Paleontology', 'Materials science', 'Physics', 'Astronomy', 'Sociology', 'Composite material', 'Geology']

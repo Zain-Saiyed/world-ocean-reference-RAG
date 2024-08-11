@@ -1,0 +1,12 @@
+ID: W2169615677
+TITLE: Managing resilience to reverse phase shifts in coral reefs
+AUTHOR: ['Nicholas A. J. Graham', 'David R. Bellwood', 'Joshua E. Cinner', 'Terry P. Hughes', 'Albert V. Norström', 'Magnus Nyström']
+ABSTRACT:
+Both coral‐dominated and degraded reef ecosystems can be resistant to change. Typically, research and management have focused on maintaining coral dominance and avoiding phase shifts to other species compositions, rather than on weakening the resilience of already degraded reefs to re‐establish coral dominance. Reversing degraded coral‐reef states will involve reducing local chronic drivers like fishing pressure and poor water quality. Reversals will also require management of key ecological processes – such as those performed by different functional groups of marine herbivores – that both weaken the resilience of the degraded state and strengthen the coral‐dominated state. If detrimental human impacts are reduced and key ecological processes are enhanced, pulse disturbances, such as extreme weather events, and ecological variability may provide opportunities for a return to a coral‐dominated state. Critically, achieving these outcomes will necessitate a diverse range of integrated approaches to alter human interactions with reef ecosystems.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: None
+CITED BY COUNT: 199
+PUBLICATION YEAR: 2013
+TYPE: review
+CONCEPTS: ['Resilience of coral reefs', 'Coral reef', 'Reef', 'Coral', 'Aquaculture of coral', 'Dominance (genetics)', 'Ecology', 'Coral reef organizations', 'Coral reef protection', 'Environmental issues with coral reefs', 'Ecosystem', 'Resilience (materials science)', 'Environmental science', 'Fishery', 'Biology', 'Biochemistry', 'Physics', 'Thermodynamics', 'Gene']

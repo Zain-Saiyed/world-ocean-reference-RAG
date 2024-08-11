@@ -1,0 +1,12 @@
+ID: W2137416631
+TITLE: The Global, Complex Phenomena of Harmful Algal Blooms
+AUTHOR: ['Patricia Glibert', 'Donald Anderson', 'Patrick Gentien', 'Edna Granéli', 'Kevin G. Sellner']
+ABSTRACT:
+HarmfulAlgal Blooms Figure 1.Many HABs produce vividly colored blooms of cells that accumulate on surface water.Th ese high biomass blooms can cause hypoxia, can contribute to toxicity of fi sh and shellfi sh, and can cause other environmental problems.Main photo: A bloom off Heron Island, Australia caused by cyanobacteria (Trichodesmium theibautii).Photo by P. Glibert.Insets: (Left) A bloom in Hong Kong, China caused by caused by dinofl agellates (Gymnodinium sp.).Photo by M. Dickman.(Middle) A bloom in the Choptank River, one of the tributaries of the Chesapeake Bay, USA caused by dinofl agellates (Prorocentrum minimum).Photo by P. Glibert.(Right) A bloom in the Baltic Sea caused by caused by cyanobacteria (Anabaena sp.).Photo by K. Kononen.
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/18-2_glibert2.pdf
+CITED BY COUNT: 431
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Algal bloom', 'Environmental science', 'Oceanography', 'Red tide', 'Biology', 'Ecology', 'Geology', 'Phytoplankton', 'Nutrient']

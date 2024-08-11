@@ -1,0 +1,12 @@
+ID: W2009519289
+TITLE: Gas hydrates: a hazard for the twenty-first century?
+AUTHOR: ['Simon Day', 'Mark Maslin']
+ABSTRACT:
+The first aspect is the problem of how to gain a better understanding of the distribution and abundance of gas hydrates in continental slope sediments at the present day. Mark Maslin (University College London) and Nick Langhorne (Office of Naval Research, USA) both emphasized that while the
+
+SOURCE: Philosophical transactions - Royal Society. Mathematical, Physical and engineering sciences/Philosophical transactions - Royal Society. Mathematical, physical and engineering sciences
+PDF URL: None
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Hazard', 'Clathrate hydrate', 'Environmental science', 'Geology', 'Chemistry', 'Hydrate', 'Organic chemistry']

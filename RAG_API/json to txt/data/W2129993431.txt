@@ -1,0 +1,12 @@
+ID: W2129993431
+TITLE: Biogeography Revisited with Network Theory: Retracing the History of Hydrothermal Vent Communities
+AUTHOR: ['Yann Moalic', 'Daniel Desbruyères', 'Carlos M. Duarte', 'Alejandro Rozenfeld', 'Charleyne Bachraty', 'Sophie Arnaud‐Haond']
+ABSTRACT:
+Defining biogeographic provinces to understand the history and evolution of communities associated with a given kind of ecosystem is challenging and usually requires a priori assumptions to be made. We applied network theory, a holistic and exploratory method, to the most complete database of faunal distribution available on oceanic hydrothermal vents, environments which support fragmented and unstable ecosystems, to infer the processes driving their worldwide biogeography. Besides the identification of robust provinces, the network topology allowed us to identify preferential pathways that had hitherto been overlooked. These pathways are consistent with the previously proposed hypothesis of a role of plate tectonics in the biogeographical history of hydrothermal vent communities. A possible ancestral position of the Western Pacific is also suggested for the first time. Finally, this work provides an innovative example of the potential of network tools to unravel the biogeographic history of faunal assemblages and to supply comprehensive information for the conservation and management of biodiversity.
+
+SOURCE: Systematic biology
+PDF URL: None
+CITED BY COUNT: 92
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Biogeography', 'Ecology', 'Biology', 'Ecosystem', 'Biodiversity', 'Hydrothermal vent', 'Identification (biology)', 'Paleontology', 'Hydrothermal circulation']

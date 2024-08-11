@@ -1,0 +1,12 @@
+ID: W2566953169
+TITLE: Monitoring of persistent organic pollutants in the polar regions: knowledge gaps &amp; gluts through evidence mapping
+AUTHOR: ['Maria Cristina Mangano', 'Gianluca Sarà', 'Simonetta Corsolini']
+ABSTRACT:
+Persistent organic pollutants (POPs) are widespread compounds that accumulating in polar regions canalise through trophic webs. Although several dozens of studies have been carried out in the last decades, the information is generally scattered across a large number of literature sources. This does not allow an efficient synthesis and constraints our understanding on how address future monitoring plans and environmental conservation strategies on the Polar Regions with respect to POPs. Thus, here, we present the outcome of a systematic map (SM) to scope, screen and chart evidences from literature dealing with POPs in Polar regions. The SMs strive to produce rigorous guidelines and have recently been proposed as useful and effective tools to summarise growing bodies of research that seek to reduce bias and increase reliability, particularly in the case of high priority and controversial topics. Our SM was based on 125 polar studies, focussing on the most studied target species among those listed in the International Union for Conservation of Nature's Red List (IUCN Red List). To facilitate analysis of evidence, the studies were classified into Accumulation Monitoring (accounting for POP monitoring through sub-organismal, functional and population levels) and Food Web Monitoring approaches (accounting for contaminants monitoring through food webs). Our SM allowed us to assess and visualise, a set of both knowledge gaps and gluts and lastly a list was provided to address future research on POPs in Polar Regions.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['IUCN Red List', 'Scope (computer science)', 'European union', 'Population', 'Environmental science', 'Pollutant', 'Set (abstract data type)', 'Environmental monitoring', 'Environmental resource management', 'Geography', 'Computer science', 'Business', 'Ecology', 'Biology', 'Environmental health', 'Environmental engineering', 'Medicine', 'Programming language', 'Economic policy']

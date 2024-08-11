@@ -1,0 +1,12 @@
+ID: W2126592100
+TITLE: Projected expansion of the subtropical biome and contraction of the temperate and equatorial upwelling biomes in the North Pacific under global warming
+AUTHOR: ['Jeffrey J. Polovina', 'John Dunne', 'Phoebe A. Woodworth', 'Evan A. Howell']
+ABSTRACT:
+Abstract Polovina, J. J., Dunne, J. P., Woodworth, P. A., and Howell, E. A. 2011. Projected expansion of the subtropical biome and contraction of the temperate and equatorial upwelling biomes in the North Pacific under global warming. – ICES Journal of Marine Science, 68: 986–995. A climate model that includes a coupled ocean biogeochemistry model is used to define large oceanic biomes in the North Pacific Ocean and describe their changes over the 21st century in response to the IPCC Special Report on Emission Scenario A2 future atmospheric CO2 emissions scenario. Driven by enhanced stratification and a northward shift in the mid-latitude westerlies under climate change, model projections demonstrated that between 2000 and 2100, the area of the subtropical biome expands by ∼30% by 2100, whereas the area of temperate and equatorial upwelling (EU) biomes decreases by ∼34 and 28%, respectively, by 2100. Over the century, the total biome primary production and fish catch is projected to increase by 26% in the subtropical biome and decrease by 38 and 15% in the temperate and the equatorial biomes, respectively. Although the primary production per unit area declines slightly in the subtropical and the temperate biomes, it increases 17% in the EU biome. Two areas where the subtropical biome boundary exhibits the greatest movement is in the northeast Pacific, where it moves northwards by as much as 1000 km per 100 years and at the equator in the central Pacific, where it moves eastwards by 2000 km per 100 years. Lastly, by the end of the century, there are projected to be more than 25 million km2 of water with a mean sea surface temperature of 31°C in the subtropical and EU biomes, representing a new thermal habitat. The projected trends in biome carrying capacity and fish catch suggest resource managers might have to address long-term trends in fishing capacity and quota levels.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/68/6/986/29140181/fsq198.pdf
+CITED BY COUNT: 148
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Biome', 'Upwelling', 'Temperate climate', 'Subtropics', 'Oceanography', 'Climate change', 'Climatology', 'Environmental science', 'Geology', 'Ecosystem', 'Ecology', 'Biology']

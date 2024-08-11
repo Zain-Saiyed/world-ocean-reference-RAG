@@ -1,0 +1,12 @@
+ID: W2963693783
+TITLE: Rapid inundation of southern Florida coastline despite low relative sea-level rise rates during the late-Holocene
+AUTHOR: ['Miriam C. Jones', 'G. Lynn Wingard', 'Bethany L. Stackhouse', 'Katherine Keller', 'Debra A. Willard', 'Marci Marot', 'Bryan Landacre', 'Christopher E. Bernhardt']
+ABSTRACT:
+Abstract Sediment cores from Florida Bay, Everglades National Park were examined to determine ecosystem response to relative sea-level rise (RSLR) over the Holocene. High-resolution multiproxy analysis from four sites show freshwater wetlands transitioned to mangrove environments 4–3.6 ka, followed by estuarine environments 3.4–2.8 ka, during a period of enhanced climate variability. We calculate a RSLR rate of 0.67 ± 0.1 mm yr −1 between ~4.2–2.8 ka, 4–6 times lower than current rates. Despite low RSLR rates, the rapid mangrove to estuarine transgression was facilitated by a period of prolonged droughts and frequent storms. These findings suggest that with higher and accelerating RSLR today, enhanced climate variability could further hasten the loss of mangrove-lined coastlines, compounded by the reductions in natural flow to the coast caused by water management. Climate variability is nonlinear, and when superimposed on increases in RSLR, can complicate estimated trajectories of coastal inundation for resource management and urban planning.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-019-11138-4.pdf
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Holocene', 'Environmental science', 'Storm surge', 'Wetland', 'Estuary', 'Oceanography', 'Bay', 'Sea level', 'Storm', 'Sediment', 'Ecosystem', 'Blue carbon', 'Climate change', 'Hydrology (agriculture)', 'Ecology', 'Geology', 'Seagrass', 'Paleontology', 'Geotechnical engineering', 'Biology']

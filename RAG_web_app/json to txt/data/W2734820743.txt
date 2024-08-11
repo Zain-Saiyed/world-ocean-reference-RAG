@@ -1,0 +1,12 @@
+ID: W2734820743
+TITLE: Marine protected areas
+AUTHOR: ['John Humphreys', 'Robert W. Clark']
+ABSTRACT:
+Compliance is essential for MPA success yet is neglected in the literature. It cannot be achieved through enforcement alone but needs, above all, interactions with stakeholders in which they perceive their interests and livelihoods are valued as integral to the decision process: alongside conservation outcomes, rather than as secondary to such outcomes. This can only be delivered locally, but general impediments to this outcome originate with structural and process features of global and national policy. More devolved approaches, from international to national and from national to local, are advocated as a basis for ameliorating current MPA policy and process deficits. These deficits originate with international area targets which provoke politically expedient designations, which in turn engender local scepticism on the validity of stakeholder engagement. Nevertheless devolved approaches do need to be positioned in the context of international and national frameworks in order to ensure they address growing societal concerns about the marine environment As an alternative to arbitrary international area targets, a general global strategy for marine conservation is advocated in which MPAs play a more considered role alongside many other measures in such a way as to be applicable to 100% of the marine realm. In a more genuinely devolved system, enhanced site level scientific programmes would serve informed MPA management and there would be less need to generalise sometimes questionable MPA ‘orthodoxies’. Finally the traditional structural and disciplinary distinctions between conservation science and fisheries science should be broken down, in favour of a unified science of marine conservation.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2020
+TYPE: book-chapter
+CONCEPTS: ['Marine protected area', 'Stakeholder', 'Context (archaeology)', 'Marine conservation', 'Skepticism', 'Political science', 'Enforcement', 'Process (computing)', 'Environmental resource management', 'Environmental planning', 'Business', 'Geography', 'Public relations', 'Ecology', 'Economics', 'Law', 'Computer science', 'Habitat', 'Biology', 'Philosophy', 'Archaeology', 'Epistemology', 'Operating system']

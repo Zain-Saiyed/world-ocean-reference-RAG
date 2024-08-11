@@ -1,0 +1,12 @@
+ID: W2268650868
+TITLE: Theme section on mesophotic coral ecosystems: advances in knowledge and future perspectives
+AUTHOR: ['Yossi Loya', 'Gal Eyal', 'Tali Treibitz', 'Michael P. Lesser', 'Richard S. Appeldoorn']
+ABSTRACT:
+The Second International Mesophotic Coral Ecosystems (MCEs) workshop was held in Eilat, Israel, October 26–31, 2014. Here we provide an account of: (1) advances in our knowledge of MCE ecology, including the central question of the potential vertical connectivity between MCEs and shallow-water reefs (SWRs), and that of the validity of the deep-reef refugia hypothesis (DRRH); (2) the contribution of the 2014 MCE workshop to the central question presented in (1), as well as its contribution to novel MCE studies on corals, sponges, fish, and crabs; and (3) gaps, priorities, and recommendations for future research stemming from the workshop. Despite their close proximity to well-studied SWRs, and the growing evidence of their importance, our scientific knowledge of MCEs is still in its infancy. During the last five years, we have witnessed an ever-increasing scientific interest in MCEs, expressed in the exponential increase in the number of publications studying this unique environment. The emerging consensus is that lower MCE benthic assemblages represent unique communities, either of separate species or genetically distinct individuals within species, and any significant support for the DRRH will be limited to upper MCEs. Determining the health and stability of MCEs, their biodiversity, and the degree of genetic connectivity among SWRs and MCEs, will ultimately indicate the ability of MCEs to contribute to the resilience of SWRs and help to guide future management and conservation strategies. MCEs deserve therefore management consideration in their own right. With the technological advancements taking place in recent years that facilitate access to MCEs, the prospects for exciting and innovative discoveries resulting from MCE research, spanning a wide variety of fields, are immense.
+
+SOURCE: Coral reefs
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs00338-016-1410-7.pdf
+CITED BY COUNT: 138
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Coral', 'Resilience (materials science)', 'Biodiversity', 'Ecology', 'Ecosystem', 'Psychological resilience', 'Benthic zone', 'Biology', 'Reef', 'Coral reef', 'Environmental resource management', 'Psychology', 'Environmental science', 'Physics', 'Psychotherapist', 'Thermodynamics']

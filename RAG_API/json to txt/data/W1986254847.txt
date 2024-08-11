@@ -1,0 +1,12 @@
+ID: W1986254847
+TITLE: Footprint of <i>Deepwater Horizon</i> blowout impact to deep-water coral communities
+AUTHOR: ['Charles R. Fisher', 'Pen‐Yuan Hsing', 'Carl L. Kaiser', 'D. Yoerger', 'Harry H. Roberts', 'William Shedd', 'Erik E. Cordes', 'Timothy M. Shank', 'Samantha P. Berlet', 'Miles Saunders', 'Elizabeth A. Larcom', 'James M. Brooks']
+ABSTRACT:
+Significance The Deepwater Horizon blowout released more oil and gas into the deep sea than any previous spill. Soon after the well was capped, a deep-sea community 13 km southwest of the wellhead was discovered with corals that had been damaged by the spill. Here we show this was not an isolated incident; at least two other coral communities were also impacted by the spill. One was almost twice as far from the wellhead and in 50% deeper water, considerably expanding the known area of impact. In addition, two of four other newly discovered coral communities in the region were fouled with commercial fishing line, indicating a large cumulative effect of anthropogenic activities on the corals of the deep Gulf of Mexico.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/111/32/11744.full.pdf
+CITED BY COUNT: 122
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Wellhead', 'Coral', 'Deepwater horizon', 'Oceanography', 'Environmental science', 'Fishery', 'Deep water', 'Fishing', 'Geology', 'Oil spill', 'Biology', 'Paleontology', 'Environmental protection']

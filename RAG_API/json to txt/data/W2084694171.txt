@@ -1,0 +1,12 @@
+ID: W2084694171
+TITLE: The Danube so colourful: A potpourri of plastic litter outnumbers fish larvae in Europe's second largest river
+AUTHOR: ['Aaron Lechner', 'Hubert Keckeis', 'Franz Lumesberger-Loisl', 'Bernhard Zens', 'Reinhard Krusch', 'Michael Tritthart', 'Martin Glas', 'Elisabeth Schludermann']
+ABSTRACT:
+Previous studies on plastic pollution of aquatic ecosystems focused on the world's oceans. Large rivers as major pathways for land-based plastic litter, has received less attention so far. Here we report on plastic quantities in the Austrian Danube. A two year survey (2010, 2012) using stationary driftnets detected mean plastic abundance (n = 17,349; mean ± S.D: 316.8 ± 4664.6 items per 1000 m(-3)) and mass (4.8 ± 24.2 g per 1000 m(-3)) in the river to be higher than those of drifting larval fish (n = 24,049; 275.3 ± 745.0 individuals. 1000 m(-3) and 3.2 ± 8.6 g 1000 m(-3)). Industrial raw material (pellets, flakes and spherules) accounted for substantial parts (79.4%) of the plastic debris. The plastic input via the Danube into the Black Sea was estimated to 4.2 t per day.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 703
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Litter', 'Debris', 'Plastic pollution', 'Environmental science', 'Larva', 'Fish <Actinopterygii>', 'Fishery', 'Pollution', 'Ecosystem', 'Ecology', 'Biology', 'Hydrology (agriculture)', 'Geography', 'Geology', 'Meteorology', 'Geotechnical engineering']

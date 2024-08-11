@@ -1,0 +1,12 @@
+ID: W2208506062
+TITLE: The seasonal sea-ice zone in the glacial Southern Ocean as a carbon sink
+AUTHOR: ['Andrea Abelmann', 'Rainer Gersonde', 'Gregor Knorr', 'Xu Zhang', 'Bernhard Chapligin', 'Edith Maier', 'Oliver Esper', 'Hans Friedrichsen', 'Gerrit Lohmann', 'Hanno Meyer', 'Ralf Tiedemann']
+ABSTRACT:
+Reduced surface-deep ocean exchange and enhanced nutrient consumption by phytoplankton in the Southern Ocean have been linked to lower glacial atmospheric CO2. However, identification of the biological and physical conditions involved and the related processes remains incomplete. Here we specify Southern Ocean surface-subsurface contrasts using a new tool, the combined oxygen and silicon isotope measurement of diatom and radiolarian opal, in combination with numerical simulations. Our data do not indicate a permanent glacial halocline related to melt water from icebergs. Corroborated by numerical simulations, we find that glacial surface stratification was variable and linked to seasonal sea-ice changes. During glacial spring-summer, the mixed layer was relatively shallow, while deeper mixing occurred during fall-winter, allowing for surface-ocean refueling with nutrients from the deep reservoir, which was potentially richer in nutrients than today. This generated specific carbon and opal export regimes turning the glacial seasonal sea-ice zone into a carbon sink.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms9136.pdf
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Glacial period', 'Oceanography', 'Geology', 'Sea ice', 'Sink (geography)', 'Mixed layer', 'Phytoplankton', 'Deep sea', 'Environmental science', 'Nutrient', 'Paleontology', 'Ecology', 'Cartography', 'Biology', 'Geography']

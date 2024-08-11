@@ -1,0 +1,12 @@
+ID: W2911462454
+TITLE: Megathrust earthquake drives drastic organic carbon supply to the hadal trench
+AUTHOR: ['Arata Kioka', 'Tobias Schwestermann', 'Jasper Moernaut', 'Ken Ikehara', 'Toshiya Kanamatsu', 'Cecilia M. McHugh', 'Christian dos Santos Ferreira', 'Gau\xadvain Wiemer', 'Negar Haghipour', 'Achim Kopf', 'Timothy I. Eglinton', 'Michael Strasser']
+ABSTRACT:
+Abstract The giant 2011 Tohoku-oki earthquake has been inferred to remobilise fine-grained, young surface sediment enriched in organic matter from the slope into the &gt;7 km deep Japan Trench. Yet, this hypothesis and assessment of its significance for the carbon cycle has been hindered by limited data density and resolution in the hadal zone. Here we combine new high-resolution bathymetry data with sub-bottom profiler images and sediment cores taken during 2012–2016 in order to map for the first time the spatial extent of the earthquake-triggered event deposit along the hadal Japan Trench. We quantify a sediment volume of ~0.2 km 3 deposited from spatially-widespread remobilisation of young surficial seafloor slope sediments triggered by the 2011 earthquake and its aftershock sequence. The mapped volume and organic carbon content in sediment cores encompassing the 2011 event reveals that this single tectonic event delivered &gt;1 Tg of organic carbon to the hadal trench. This carbon supply is comparable to high carbon fluxes described for other Earth system processes, shedding new light on the impact of large earthquakes on long-term carbon cycling in the deep-sea.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-019-38834-x.pdf
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Geology', 'Trench', 'Sediment', 'Total organic carbon', 'Bathymetry', 'Seafloor spreading', 'Tectonics', 'Carbon cycle', 'Aftershock', 'Oceanography', 'Seismology', 'Paleontology', 'Ecology', 'Chemistry', 'Organic chemistry', 'Layer (electronics)', 'Ecosystem', 'Biology']

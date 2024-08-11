@@ -1,0 +1,12 @@
+ID: W2288273411
+TITLE: Overestimation of marsh vulnerability to sea level rise
+AUTHOR: ['Matthew L. Kirwan', 'Stijn Temmerman', 'Emily E. Skeehan', 'Glenn R. Guntenspergen', 'Sergio Fagherazzi']
+ABSTRACT:
+In this Perspective it is argued that coastal marsh vulnerability is often overstated because assessments generally neglect feedback processes known to accelerate soil building with sea level rise, as well as the potential for marshes to migrate inland. Coastal marshes are considered to be among the most valuable and vulnerable ecosystems on Earth, where the imminent loss of ecosystem services is a feared consequence of sea level rise. However, we show with a meta-analysis that global measurements of marsh elevation change indicate that marshes are generally building at rates similar to or exceeding historical sea level rise, and that process-based models predict survival under a wide range of future sea level scenarios. We argue that marsh vulnerability tends to be overstated because assessment methods often fail to consider biophysical feedback processes known to accelerate soil building with sea level rise, and the potential for marshes to migrate inland.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 579
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Marsh', 'Salt marsh', 'Sea level rise', 'Sea level', 'Vulnerability (computing)', 'Environmental science', 'Wetland', 'Ecosystem', 'Range (aeronautics)', 'Climate change', 'Environmental resource management', 'Geography', 'Oceanography', 'Physical geography', 'Ecology', 'Geology', 'Computer science', 'Computer security', 'Biology', 'Materials science', 'Composite material']

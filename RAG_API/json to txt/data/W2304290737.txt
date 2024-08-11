@@ -1,0 +1,12 @@
+ID: W2304290737
+TITLE: Practical global salinity gradient energy potential
+AUTHOR: ['Óscar Álvarez-Silva', 'Andrés F. Osorio', 'Christian Winter']
+ABSTRACT:
+Salinity gradient energy (SGE) is a clean and renewable energy source that can be harnessed from the controlled mixing of two water masses of different salt concentration. Various natural and artificial systems offer conditions under which SGE can be harnessed amongst which river mouths play the prominent role in a global assessment. The theoretical SGE potential at river mouths has been previously estimated to be 15,102 TWh/a, equivalent to 74% of the worldwide electricity consumption; however, practical extractable SGE from these systems depends on several physical and environmental constraints that are discussed here. The suitability, sustainability and reliability of the exploitation of this renewable energy are considered based on quantified descriptors. It is shown that practically 625 TWh/a of SGE are globally extractable from river mouths, equivalent to 3% of global electricity consumption. Although this is much smaller than the theoretical potential, is still a significant amount of clean energy.
+
+SOURCE: Renewable & sustainable energy reviews
+PDF URL: None
+CITED BY COUNT: 111
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Renewable energy', 'Salinity', 'Environmental science', 'Electricity', 'Environmental engineering', 'Sustainability', 'Energy consumption', 'Potential gradient', 'Engineering', 'Ecology', 'Physics', 'Geology', 'Oceanography', 'Quantum mechanics', 'Electrical engineering', 'Biology']

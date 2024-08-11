@@ -1,0 +1,12 @@
+ID: W2564290869
+TITLE: Conservation of deep-sea ecosystems within offshore oil fields on the Brazilian margin, SW Atlantic
+AUTHOR: ['Gustavo Vaz de Mello Baez Almada', 'Ângelo F. Bernardino']
+ABSTRACT:
+The exploration of deep-sea mineral resources on continental margins is increasing worldwide. In the SW Atlantic, Campos Basin has been Brazil's main deep-sea area for oil and gas extraction since the 1980′s, with currently over 11,000 km2 of leased blocks below 200 m depth. The historical record of exploration and the lack of a basin-wide management for the offshore industry in the SW Atlantic threaten the biodiversity and ecological function of vulnerable deep-sea ecosystems. This study identified habitats of biological interest on the Campos Basin and proposes relevant areas for conservation (EBSAs) that could be included in the first deep-sea Marine Protected Area (MPA) network in the South Atlantic. A total of 42 benthic habitats were mapped including cold-water coral reefs, submarine canyons, soft sediment slope and a seamount. Those habitats fill conservation criteria to be proposed as EBSAs along Campos Basin and could support a MPA network with a 5.5% overlap (2330 km2) to current leased blocks. If implemented, the MPA network would cover 31% of the Campos Basin and offer 31–100% protection of EBSAs with minimal interference on industry. This study is the first to identify EBSAs in a deep-sea basin of major economic importance in Brazil's EEZ and their conservation would also protect areas at two biogeographic provinces in the South Atlantic. Furthermore, the methods demonstrated here could be widely applied to other offshore oil and gas areas that lack environmental management measures at early stages of bidding rounds or during the process of environmental licensing.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Oceanography', 'Marine protected area', 'Coral reef', 'Continental shelf', 'Structural basin', 'Marine conservation', 'Seamount', 'Habitat', 'Geology', 'Geography', 'Fishery', 'Environmental science', 'Ecology', 'Environmental resource management', 'Paleontology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2902274351
+TITLE: Claims That Anthropogenic Stressors Facilitate Jellyfish Blooms Have Been Amplified Beyond the Available Evidence: A Systematic Review
+AUTHOR: ['Kylie A. Pitt', 'Cathy H. Lucas', 'Robert H. Condon', 'Carlos M. Duarte', 'Ben Stewart‐Koster']
+ABSTRACT:
+The perception that anthropogenic stressors cause jellyfish blooms is widespread within the scientific literature and media but robust evidence in support of these claims appears scarce. We used a citation analysis of papers published on “jellyfish blooms” to assess the extent to which such claims are made and the robustness of the evidence cited to support claims. Our search of the Web of Science returned 365 papers on “jellyfish blooms”. Each paper was searched for statements linking jellyfish blooms to specific anthropogenic stressors. For each statement we recorded the affirmation afforded to the claim, identified the stressors purported to cause blooms, the sources cited to support the statement, the type of study cited and the species studied in the cited source. Almost half the papers claimed that blooms were facilitated by anthropogenic stressors but most (70%) afforded a low degree of affirmation to the claim. We identified three major limitations in the evidence used to support claims: 1) evidence was dominated by studies of two wide-spread and highly invasive taxa (Aurelia aurita and Mnemiopsis leidyi) that may not represent the responses of jellyfishes more generally; 2) the empirical studies cited were dominated by correlative studies which, whilst useful for generating hypotheses, cannot attribute causation; and 3) the most commonly-cited reviews often cited circumstantial evidence and other reviews and provided conceptual models of how stressors could influence blooms, rather than robust evidence. We conclude that, although anthropogenic stressors could enhance jellyfish blooms, robust evidence is limited. Claims that strongly affirm anthropogenic stressors as causes of jellyfish blooms appear to be amplifying the evidence beyond that available. As a community we need to strike a better balance between perpetuating perception and accurately portraying the state of knowledge. Moreover, we should consider that anthropogenic stressors may adversely affect some species of jellyfish.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00451/pdf
+CITED BY COUNT: 56
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Jellyfish', 'Stressor', 'Ecology', 'Biology', 'Neuroscience']

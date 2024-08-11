@@ -1,0 +1,12 @@
+ID: W1967849499
+TITLE: Antibiotics in typical marine aquaculture farms surrounding Hailing Island, South China: Occurrence, bioaccumulation and human dietary exposure
+AUTHOR: ['Hui Chen', 'Shan Liu', 'Xiangrong Xu', 'Shuangshuang Liu', 'Guang‐Jie Zhou', 'Kun Sun', 'Jian‐Liang Zhao', 'Guang‐Guo Ying']
+ABSTRACT:
+The occurrence, bioaccumulation, and human dietary exposure via seafood consumption of 37 antibiotics in six typical marine aquaculture farms surrounding Hailing Island, South China were investigated in this study. Sulfamethoxazole, salinomycin and trimethoprim were widely detected in the water samples (0.4–36.9 ng/L), while oxytetracycline was the predominant antibiotic in the water samples of shrimp larvae pond. Enrofloxacin was widely detected in the feed samples (16.6–31.8 ng/g) and erythromycin–H2O was the most frequently detected antibiotic in the sediment samples (0.8–4.8 ng/g). Erythromycin–H2O was the dominant antibiotic in the adult Fenneropenaeus penicillatus with concentrations ranging from 2498 to 15,090 ng/g. In addition, trimethoprim was found to be bioaccumulative in young Lutjanus russelli with a median bioaccumulation factor of 6488 L/kg. Based on daily intake estimation, the erythromycin–H2O in adult F. penicillatus presented a potential risk to human safety.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 254
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Bioaccumulation', 'Enrofloxacin', 'Erythromycin', 'Aquaculture', 'Oxytetracycline', 'Biology', 'Trimethoprim', 'Florfenicol', 'Antibiotics', 'Fishery', 'Veterinary medicine', 'Ecology', 'Microbiology', 'Fish <Actinopterygii>', 'Ciprofloxacin', 'Medicine']

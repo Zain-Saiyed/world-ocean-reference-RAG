@@ -1,0 +1,12 @@
+ID: W2529442549
+TITLE: Effects of Ocean Warming and Acidification on Rhodolith/Maërl Beds
+AUTHOR: ['Sophie Martin', 'Jason M. Hall‐Spencer']
+ABSTRACT:
+Coralline algae are expected to be adversely impacted by global warming and ocean acidification, although there has been no synthesis of these effects on habitat-forming species. We compiled published responses of maërl and rhodolith-forming species to ocean acidification and warming. Although the response is variable among species, their recruitment, growth, health and survival are usually negatively affected under elevated CO2. Most studies show that coralline algal calcification is adversely affected under near-future ocean acidification scenarios and that in combination with a 1–3 °C increase in seawater temperature this has an even larger impact. Most research has involved relatively short-term experiments on single species, which makes it difficult to predict long-term effects at the ecosystem level because the impact of global changes on coralline algal habitats will depend on the direct impacts on individual species and the indirect effects of altered interspecific interactions. Studies in areas with naturally high CO2 levels show that coralline algae are adversely affected by long-term acidification through increased competition from non-calcified competitors. Coralline algal habitats such as vermetid reefs, coralligene and beds of rhodoliths or maerl are likely to decline in the near future as higher CO2 levels benefit fleshy algae and corrosive waters reduce calcareous habitat complexity and associated biodiversity.
+
+SOURCE: Coastal research library
+PDF URL: None
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['Coralline algae', 'Ocean acidification', 'Effects of global warming on oceans', 'Habitat', 'Ecology', 'Biodiversity', 'Calcareous', 'Ecosystem', 'Algae', 'Climate change', 'Marine ecosystem', 'Environmental science', 'Global warming', 'Biology', 'Oceanography', 'Geology', 'Botany']

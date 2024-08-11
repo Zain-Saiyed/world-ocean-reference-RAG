@@ -1,0 +1,12 @@
+ID: W2065731998
+TITLE: Ocean Acidification: Present Conditions and Future Changes in a High-CO2 World
+AUTHOR: ['Richard A. Feely', 'Scott C. Doney', 'Sarah R. Cooley']
+ABSTRACT:
+Author Posting. © Oceanography Society, 2009. This article is posted here by permission of Oceanography Society for personal use, not for redistribution. The definitive version was published in Oceanography 22 no. 4 (2009): 36-47.
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/22-4_feely.pdf
+CITED BY COUNT: 825
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Ocean acidification', 'Oceanography', 'Environmental science', 'Climatology', 'Geology', 'Climate change']

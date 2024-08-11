@@ -1,0 +1,12 @@
+ID: W2283830242
+TITLE: Economic viability and small-scale fisheries — A review
+AUTHOR: ['Anna Schuhbauer', 'U. Rashid Sumaila']
+ABSTRACT:
+Globally, over 90% of all fishing vessels and about 22 million fishers are considered small-scale. Despite their high numbers, small-scale fisheries are often understudied. They are usually economically and politically marginalized, and therefore vulnerable to large-scale threats (e.g., globalized markets). To support this sector and contribute to its sustainability, we argue that it is fundamental to understand how economically viable small-scale fisheries are. Hence, the main objective of this article is to critically review and describe the current discourse on the economic viability of small-scale fisheries. We find that currently, economic viability is mainly equated with financial viability, where profitability is the goal. In consideration of socio-economic aspects, the maintenance of nonnegative net benefits to society is often not considered in current notions of economic viability. While these shortcomings have been acknowledged in some of the existing literature, our review shows that they have not yet been addressed comprehensively. We therefore conclude that it is necessary to develop or expand current methods to better take into account social aspects when assessing the economic viability of small-scale fisheries. This would help find solutions to make these fisheries less vulnerable and better equipped to face large-scale processes of change.
+
+SOURCE: Ecological economics
+PDF URL: None
+CITED BY COUNT: 87
+PUBLICATION YEAR: 2016
+TYPE: review
+CONCEPTS: ['Profitability index', 'Scale (ratio)', 'Fishing', 'Sustainability', 'Fisheries law', 'Business', 'Fishery', 'Fisheries management', 'Natural resource economics', 'Economics', 'Environmental resource management', 'Ecology', 'Finance', 'Geography', 'Biology', 'Cartography']

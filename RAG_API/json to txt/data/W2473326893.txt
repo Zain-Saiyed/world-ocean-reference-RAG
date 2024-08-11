@@ -1,0 +1,12 @@
+ID: W2473326893
+TITLE: Characteristics, seasonal distribution and surface degradation features of microplastic pellets along the Goa coast, India
+AUTHOR: ['S. Veerasingam', 'M.K. Saha', 'V. Suneel', 'P. Vethamony', 'Andrea Carmelita Rodrigues', 'Sourav Bhattacharyya', 'B. G. Naik']
+ABSTRACT:
+Microplastic pellets (MPPs) are ubiquitous contaminants, recognised as a serious threat to the biota in coastal, estuarine and marine environment. The distribution, abundance, weathering and chemical characteristics of MPPs on the beaches of Goa, and their transport to the coast during the southwest (SW) monsoon are discussed in this paper. MPP samples collected from six sandy beaches were categorised based on colour and polymer types using Stereoscope microscope and FTIR-ATR spectroscopy, respectively. White colour MPPs were the most abundant, and Polyethylene (PE) and Polypropylene (PP) were the dominant polymer types of MPPs deposited on all the beaches. Carbonyl index values showed that MPPs collected in June 2015 (representing SW monsoon) were ‘new’, whereas the MPPs collected in January 2015 were ‘aged’, showing that MPPs are arriving at Goa coast only during SW monsoon due to conducive hydrodynamic conditions. Characteristics of MPPs suggest that they could be originated primarily from ocean-based sources. The winds and surface currents during SW monsoon are the driving forces for the transportation and deposition of MPPs on the Goa beaches. The results of this study will be useful to the National ‘Clean India’ program for effective plastic debris removal management.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 277
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Microplastics', 'Monsoon', 'Oceanography', 'Environmental science', 'Biota', 'Marine debris', 'Polypropylene', 'Deposition (geology)', 'Plastic pollution', 'Weathering', 'Debris', 'Geology', 'Environmental chemistry', 'Sediment', 'Chemistry', 'Ecology', 'Geomorphology', 'Biology', 'Organic chemistry']

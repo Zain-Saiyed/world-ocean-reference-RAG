@@ -1,0 +1,12 @@
+ID: W1823541243
+TITLE: Diatoms (Bacillariophyceae) associated with free-drifting Antarctic icebergs: taxonomy and distribution
+AUTHOR: ['Adrián O. Cefarelli', 'Martha E. Ferrario', 'María Vernet']
+ABSTRACT:
+Free-drifting Antarctic icebergs can alter the phytoplankton in surrounding waters. In addition, diatom mats live attached to the submerged walls of the icebergs. In this study we describe a diverse diatom community associated with these mats and an atypical planktonic community in waters affected by icebergs. Samples were collected in the winter of 2008 and fall of 2009 from Antarctic icebergs and their adjacent waters, utilizing a remote operated vehicle and plankton nets, respectively, and subsequently analyzed using light and electron microscopy. Thalassioneis signyensis, dominant species growing on the icebergs’ flanks, provided substrate for other diatoms, mainly Synedropsis lata var. angustata, Synedropsis recta, Fragilaria cf. islandica var. adeliae, Attheya gaussii, Navicula cf. perminuta, Amphora sp. and Nitzschia spp. New morphological characteristics are given for S. lata var. angustata, S. recta and A. gaussii. We report also Biddulphia alternans and Coscinodiscus concinnus for the first time in Antarctic waters. Similar to sea ice algae, the term sympagic is used to describe the habitat of these diatom communities. A particular planktonic community is also found close to icebergs, including diatoms known to have a benthic, epiphytic, sympagic or freshwater habitat: Amphora sp., B. alternans, Cocconeis spp., Delphineis minutissima, Licmophora gracilis, Luticola cf. australomutica, Opephora sp., Pinnularia spp., Plagiogramma sp., Psammodictyon panduriforme var. minor, Pseudogomphonema kamtschaticum, Rhaphoneis amphiceros, S. recta and T. signyensis. Our results support the hypothesis that species associated with icebergs exchange freely with plankton, ice shelves and sea ice, suggesting that icebergs can act as physical agents to transport and distribute organisms in between these habitats.
+
+SOURCE: Polar biology
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Biology', 'Iceberg', 'Taxonomy (biology)', 'Ecology', 'Diatom', 'Oceanography', 'Zoology', 'Sea ice', 'Geology']

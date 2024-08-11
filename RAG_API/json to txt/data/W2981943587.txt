@@ -1,0 +1,12 @@
+ID: W2981943587
+TITLE: Toxicological considerations of nano-sized plastics
+AUTHOR: ['Phoebe A. Stapleton']
+ABSTRACT:
+Undoubtedly, plastics have changed human existence. These pervasive products are used in nearly every field to include technological, biomedical, and domestic applications. Post-consumer plastic waste disposal leading to plastic pollution in landfills, waterways, and oceans represents a worldwide environmental challenge. Accumulation and continued material fragmentation from micro- to nanoplastics has identified concerns pertaining to environmental and human exposures and toxicity. While many studies have focused on particle fate and identification, the toxicological considerations must focus on the biological relevance of particle deposition within a particular organism, compartment, organ, and tissue. Further, concerns exist regarding the physical and chemical properties of the plastic particles during their production and/or degradation. In this mini-review we will discuss (1) particle characterization and assessment, (2) environmental concerns, and (3) human toxicity.
+
+SOURCE: AIMS environmental science
+PDF URL: None
+CITED BY COUNT: 87
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Plastic pollution', 'Environmental pollution', 'Environmental science', 'Biochemical engineering', 'Human life', 'Organism', 'Waste management', 'Forensic engineering', 'Environmental chemistry', 'Engineering', 'Environmental protection', 'Chemistry', 'Microplastics', 'Biology', 'Paleontology', 'Philosophy', 'Humanity', 'Theology']

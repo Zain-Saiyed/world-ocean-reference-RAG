@@ -1,0 +1,12 @@
+ID: W2739437202
+TITLE: ROVs and AUVs
+AUTHOR: ['Veerle Huvenne', 'Katleen Robert', 'Leigh Marsh', 'Claudio Lo Iacono', 'Tim Le Bas', 'Russell B. Wynn']
+ABSTRACT:
+The most significant breakthroughs in science are often made as a result of technological developments and innovation. A new capacity to gather more data, measure more precisely or make entirely new observations generally leads to new insights and fundamental understanding. The future of ocean research and exploration therefore lies in robotics: marine robotic systems can be deployed at depths and in environments that are out of direct reach for humans, they can work around the clock, and they can be autonomous, freeing up time and money for other activities. To advance the field of submarine geomorphology, the two types of robots that currently make the biggest difference are Remotely Operated Vehicles (ROVs) and Autonomous Underwater Vehicles (AUVs). Other autonomous or robotic systems are available for marine research (e.g. gliders, autonomous surface vehicles, benthic crawlers etc.), but their application for geomorphological studies is less extensive. This chapter gives an overview of the main characteristics of ROVs and AUVs, their advantages and disadvantages, and their main applications for geomorphological research. In comparison to the other geomorphological methods discussed in this book, however, it has to be made clear that ROVs and AUVs are not so much methods per se, instead they are platforms from which existing and new approaches can be applied.
+
+SOURCE: Springer geology
+PDF URL: None
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Remotely operated underwater vehicle', 'Underwater', 'Intervention AUV', 'Submarine', 'Robotics', 'Computer science', 'Systems engineering', 'Marine engineering', 'Remotely operated vehicle', 'Robot', 'Engineering', 'Artificial intelligence', 'Mobile robot', 'Geology', 'Oceanography', 'Aerospace engineering']

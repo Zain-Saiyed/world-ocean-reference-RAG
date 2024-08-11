@@ -1,0 +1,12 @@
+ID: W2617295866
+TITLE: Massive blow-out craters formed by hydrate-controlled methane expulsion from the Arctic seafloor
+AUTHOR: ['Karin Andreassen', 'Alun Hubbard', 'Monica Winsborrow', 'Henry Patton', 'Sunil Vadakkepuliyambatta', 'Andreia Plaza‐Faverola', 'Eythor Gudlaugsson', 'Pavel Serov', 'Alexey Deryabin', 'Rune Mattingsdal', 'Jürgen Mienert', 'Stefan Bünz']
+ABSTRACT:
+Widespread methane release from thawing Arctic gas hydrates is a major concern, yet the processes, sources, and fluxes involved remain unconstrained. We present geophysical data documenting a cluster of kilometer-wide craters and mounds from the Barents Sea floor associated with large-scale methane expulsion. Combined with ice sheet/gas hydrate modeling, our results indicate that during glaciation, natural gas migrated from underlying hydrocarbon reservoirs and was sequestered extensively as subglacial gas hydrates. Upon ice sheet retreat, methane from this hydrate reservoir concentrated in massive mounds before being abruptly released to form craters. We propose that these processes were likely widespread across past glaciated petroleum provinces and that they also provide an analog for the potential future destabilization of subglacial gas hydrate reservoirs beneath contemporary ice sheets.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 189
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Clathrate hydrate', 'Methane', 'Geology', 'Impact crater', 'Arctic', 'Earth science', 'Seafloor spreading', 'Permafrost', 'Natural gas', 'Ice sheet', 'Glacial period', 'Hydrate', 'Geomorphology', 'Geochemistry', 'Oceanography', 'Astrobiology', 'Chemistry', 'Physics', 'Organic chemistry']

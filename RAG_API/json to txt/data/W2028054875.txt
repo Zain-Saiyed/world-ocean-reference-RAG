@@ -1,0 +1,12 @@
+ID: W2028054875
+TITLE: Effects of Unplanned Development on Marine Biodiversity: A Lesson from Albania (Central Mediterranean Sea)
+AUTHOR: ['Simonetta Fraschetti', 'Antonio Terlizzi', 'Giuseppe Guarnieri', 'Fausto Pizzolante', 'Paolo D’Ambrosio', 'Porzia Maiorano', 'Sajmir Beqiraj', 'Ferdinando Boero']
+ABSTRACT:
+Human activities determine dramatic changes in natural systems, especially in marine coastal areas. This is especially true when economic development is fast and scarcely regulated, representing a serious threat to biodiversity. Besides the obvious prediction of impairment of natural systems, forecasting the effects of human activities can be particularly challenging since they affect species and assemblages, the patterns of distribution and extent of which are often totally unknown. In Vlora Bay, we show through an interdisciplinary project that 15 y of coastal development can result in a loss of over 50% of seagrass cover and a decline in macroalgae cover such as Cystoseira spp., which are structurally and functionally crucial habitats that provide essential goods and services for local human communities and recreation. Furthermore, illegal fishery practices (date mussel fishery, trawling, and use of explosives) contribute to depict a scenario of fragmentation and loss of shallow species-rich assemblages. Large-scale changes in sedimentation patterns have been recognised as one of the main drivers of those changes. This model of development, associated with nearly irreversible environmental consequences, as observed in Albania, can serve as an example for many other Mediterranean areas, showing a combination of high biodiversity and low protection regime. We discuss the urgent need for ecosystem-based management to ensure sustainable development while conserving and managing natural biodiversity and resources.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Seagrass', 'Ecosystem services', 'Geography', 'Recreation', 'Ecosystem', 'Mediterranean sea', 'Fishery', 'Fishing', 'Habitat', 'Marine ecosystem', 'Environmental resource management', 'Ecology', 'Mediterranean climate', 'Environmental science', 'Biology']

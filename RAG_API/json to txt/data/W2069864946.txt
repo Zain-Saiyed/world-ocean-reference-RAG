@@ -1,0 +1,12 @@
+ID: W2069864946
+TITLE: The 27–year decline of coral cover on the Great Barrier Reef and its causes
+AUTHOR: ['Glenn De’ath', 'Katharina Fabricius', 'Hugh Sweatman', 'Marji Puotinen']
+ABSTRACT:
+The world's coral reefs are being degraded, and the need to reduce local pressures to offset the effects of increasing global pressures is now widely recognized. This study investigates the spatial and temporal dynamics of coral cover, identifies the main drivers of coral mortality, and quantifies the rates of potential recovery of the Great Barrier Reef. Based on the world's most extensive time series data on reef condition (2,258 surveys of 214 reefs over 1985-2012), we show a major decline in coral cover from 28.0% to 13.8% (0.53% y(-1)), a loss of 50.7% of initial coral cover. Tropical cyclones, coral predation by crown-of-thorns starfish (COTS), and coral bleaching accounted for 48%, 42%, and 10% of the respective estimated losses, amounting to 3.38% y(-1) mortality rate. Importantly, the relatively pristine northern region showed no overall decline. The estimated rate of increase in coral cover in the absence of cyclones, COTS, and bleaching was 2.85% y(-1), demonstrating substantial capacity for recovery of reefs. In the absence of COTS, coral cover would increase at 0.89% y(-1), despite ongoing losses due to cyclones and bleaching. Thus, reducing COTS populations, by improving water quality and developing alternative control measures, could prevent further coral decline and improve the outlook for the Great Barrier Reef. Such strategies can, however, only be successful if climatic conditions are stabilized, as losses due to bleaching and cyclones will otherwise increase.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/109/44/17995.full.pdf
+CITED BY COUNT: 1481
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Coral bleaching', 'Coral', 'Reef', 'Resilience of coral reefs', 'Coral reef', 'Environmental issues with coral reefs', 'Environmental science', 'Oceanography', 'Aquaculture of coral', 'Fishery', 'Coral reef organizations', 'Great barrier reef', 'Coral reef protection', 'Ecology', 'Biology', 'Geology']

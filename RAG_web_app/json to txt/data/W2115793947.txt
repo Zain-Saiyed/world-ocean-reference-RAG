@@ -1,0 +1,12 @@
+ID: W2115793947
+TITLE: Explaining the Storegga Slide
+AUTHOR: ['Petter Bryn', 'K. Berg', 'Carl Fredrik Forsberg', 'Anders Solheim', 'Tore J. Kvalstad']
+ABSTRACT:
+The Storegga Slide occurred 8200 years ago and was the last megaslide in this region where similar slides have occurred with intervals of approximately 100 ky since the onset of continental shelf glaciations at 0.5 Ma. A geological model for the Plio-Pleistocene of the area explains the large scale sliding as a response to climatic variability, and the seismic stratigraphy indicates that sliding occurs at the end of a glaciation or soon after the deglaciation. The slides are in general translational with the failure planes related to strain softening behaviour of marine clay layers. The destabilisation prior to the slide is related to rapid loading from glacial deposits with generation of excess pore pressure and reduction of the effective shear strength in the underlying clays. Basin modelling has shown that excess pore pressure generated in the North Sea Fan area is transferred to the Storegga area with reduction of the slope stability in the old escarpments in distal parts of the Storegga Slide. The slide was most likely triggered by a strong earthquake in an area 150 km downslope from the Ormen Lange gas field and developed as a retrogressive slide. The unstable sediments in the area disappeared with the slide 8200 years ago. A new ice age with infilling of glacial sediments on top of marine clays in the slide scar would be needed to create a new unstable situation at Ormen Lange.
+
+SOURCE: Marine and petroleum geology
+PDF URL: None
+CITED BY COUNT: 381
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Geology', 'Deglaciation', 'Pore water pressure', 'Glacial period', 'Escarpment', 'Continental shelf', 'Geomorphology', 'Debris', 'Paleontology', 'Geotechnical engineering', 'Oceanography']

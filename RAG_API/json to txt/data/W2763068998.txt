@@ -1,0 +1,12 @@
+ID: W2763068998
+TITLE: Accounting for multiple stressors influencing living marine resources in a complex estuarine ecosystem using an Atlantis model
+AUTHOR: ['Thomas F. Ihde', 'Howard Townsend']
+ABSTRACT:
+Many external stressors influence marine and coastal ecosystems. Understanding effects of these stressors is important for managers concerned with living marine resources (LMR). Historically, analytical methods for understanding these effects have been limited to a relative few stressors being modelled. Recent work has shown that multiple stressors may commonly have non-additive or cumulative effects, so accounting for the interactions of such stressors on LMR populations may be important. Coastal and marine ecosystems, which are often important for early life stages of many LMR populations, have a wide variety of stressors, yet analytical approaches accounting for the dynamics of multiple stressors have been used infrequently in these types of systems. For this work, we simulate the effects of individual and multiple stressors on a complex estuarine system, the Chesapeake Bay (USA), to demonstrate the range of conclusions about the effects of stressors on LMR populations that might be reached if stressors are considered singly versus in combination. Temperature increase has the greatest effect on productivity in our simulations, and appears to be the dominant stressor currently affecting this system. Consequently, we suggest it may be important for future work focusing on the effects of other factors to also consider the effects of expected temperature increase in this system, or important non-additive trends could be missed. With recent improvements in processing speed, full system models like Atlantis have become effective tools to provide resource managers with the information regarding non-additive effects of multiple stressors that they need for sound decision making.
+
+SOURCE: Ecological modelling
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Stressor', 'Ecosystem', 'Estuary', 'Environmental science', 'Marine ecosystem', 'Environmental resource management', 'Ecology', 'Biology', 'Neuroscience']

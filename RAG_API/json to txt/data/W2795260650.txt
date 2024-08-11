@@ -1,0 +1,12 @@
+ID: W2795260650
+TITLE: Low levels of microplastics (MP) in wild mussels indicate that MP ingestion by humans is minimal compared to exposure via household fibres fallout during a meal
+AUTHOR: ['Ana I. Catarino', 'Valeria Macchia', 'William Sanderson', 'Richard C. Thompson', 'Theodore B. Henry']
+ABSTRACT:
+Microplastics (MPs) are the most numerous debris reported in marine environments and assessment of the amounts of MPs that accumulate in wild organisms is necessary for risk assessment. Our objective was to assess MP contamination in mussels collected around the coast of Scotland (UK) to identify characteristics of MPs and to evaluate risk of human exposure to MPs via ingestion of mussels. We deployed caged mussels (Mytilus edulis) in an urbanised estuary (Edinburgh, UK) to assess seasonal changes in plastic pollution, and collected mussels (Mytilus spp and subtidal Modiolus modiolus) from eight sampling stations around Scotland to enumerate MP types at different locations. We determined the potential exposure of humans to household dust fibres during a meal to compare with amounts of MPs present in edible mussels. The mean number of MPs in M. modiolus was 0.086 ± 0.031 (SE, n = 6)/g ww (3.5 ± 1.29 (SE) per mussel). In Mytilus spp, the mean number of MPs/g ww was 3.0 ± 0.9 (SE, n = 36) (3.2 ± 0.52 (SE) per mussel), but weight dependent. The visual accuracy of plastic fibres identification was estimated to be between 48 and 50%, using Nile Red staining and FT-IR methodologies, respectively, halving the observed amounts of MPs in wild mussels. We observed an allometric relationship between the number of MPs and the mussels wet weight. Our predictions of MPs ingestion by humans via consumption of mussels is 123 MP particles/y/capita in the UK and can go up to 4620 particles/y/capita in countries with a higher shellfish consumption. By comparison, the risk of plastic ingestion via mussel consumption is minimal when compared to fibre exposure during a meal via dust fallout in a household (13,731–68,415 particles/Y/capita).
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 505
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Mytilus', 'Mussel', 'Microplastics', 'Ingestion', 'Shellfish', 'Blue mussel', 'Fishery', 'Perna viridis', 'Biology', 'Bivalvia', 'Zoology', 'Biomonitoring', 'Animal science', 'Environmental chemistry', 'Mollusca', 'Ecology', 'Chemistry', 'Aquatic animal', 'Fish <Actinopterygii>', 'Biochemistry']

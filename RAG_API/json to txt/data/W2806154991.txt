@@ -1,0 +1,12 @@
+ID: W2806154991
+TITLE: Losing a winner: thermal stress and local pressures outweigh the positive effects of ocean acidification for tropical seagrasses
+AUTHOR: ['Catherine Collier', 'Lucas Langlois', 'Yan Xiang Ow', 'Charlotte Johansson', 'Manuela Giammusso', 'Matthew Adams', 'Katherine R. O’Brien', 'Sven Uthicke']
+ABSTRACT:
+Seagrasses are globally important coastal habitat-forming species, yet it is unknown how seagrasses respond to the combined pressures of ocean acidification and warming of sea surface temperature. We exposed three tropical species of seagrass (Cymodocea serrulata, Halodule uninervis, and Zostera muelleri) to increasing temperature (21, 25, 30, and 35°C) and pCO2 (401, 1014, and 1949 μatm) for 7 wk in mesocosms using a controlled factorial design. Shoot density and leaf extension rates were recorded, and plant productivity and respiration were measured at increasing light levels (photosynthesis-irradiance curves) using oxygen optodes. Shoot density, growth, photosynthetic rates, and plant-scale net productivity occurred at 25°C or 30°C under saturating light levels. High pCO2 enhanced maximum net productivity for Z. muelleri, but not in other species. Z. muelleri was the most thermally tolerant as it maintained positive net production to 35°C, yet for the other species there was a sharp decline in productivity, growth, and shoot density at 35°C, which was exacerbated by pCO2 . These results suggest that thermal stress will not be offset by ocean acidification during future extreme heat events and challenges the current hypothesis that tropical seagrass will be a 'winner' under future climate change conditions.
+
+SOURCE: New phytologist
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.15234
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seagrass', 'Ocean acidification', 'Photosynthesis', 'Mesocosm', 'Productivity', 'Biology', 'Environmental science', 'Effects of global warming on oceans', 'Shoot', 'Oceanography', 'Acclimatization', 'Botany', 'Ecology', 'Climate change', 'Habitat', 'Ecosystem', 'Global warming', 'Geology', 'Macroeconomics', 'Economics']

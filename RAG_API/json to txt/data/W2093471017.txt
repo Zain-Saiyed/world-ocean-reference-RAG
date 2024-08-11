@@ -1,0 +1,12 @@
+ID: W2093471017
+TITLE: Sulfonamide resistance: mechanisms and trends
+AUTHOR: ['Ola Sköld']
+ABSTRACT:
+Sulfonamides were the first drugs acting selectively on bacteria which could be used systemically. Today they are infrequently used, in part due to widespread resistance. The target of sulfonamides, and the basis for their selectivity, is the enzyme dihydropteroate synthase (DHPS) in the folic acid pathway. Mammalian cells are not dependent on endogenous synthesis of folic acid and generally lack DHPS. Instead, they have a folate uptake system which most prokaryotes lack. Laboratory mutants in the dhps (folP) gene can be easily isolated and show a trade off between sulfonamide resistance and DHPS enzyme performance. Clinical resistant mutants, however, have additional compensatory mutations in DHPS that allow it to function normally. In many pathogenic bacteria sulfonamide resistance is mediated by the horizontal transfer of foreign folP or parts of it. Clinical resistance in gram-negative enteric bacteria is plasmid-borne and is effected by genes encoding alternative drug-resistance variants of the DHPS enzymes. Two such genes, sul1 and sul2, have been sequenced and are found at roughly the same frequency among clinical isolates. Remarkably, the corresponding DHPS enzymes show pronounced insensitivity to sulfonamides but normal binding to the p -aminobenzoic acid substrate, despite the close structural similarity between substrate and inhibitor. Copyright 2000 Harcourt Publishers Ltd.
+
+SOURCE: Drug resistance updates
+PDF URL: None
+CITED BY COUNT: 503
+PUBLICATION YEAR: 2000
+TYPE: article
+CONCEPTS: ['DHPS', 'Dihydropteroate synthase', 'Sulfonamide', 'Mutant', 'Biology', 'Bacteria', 'Drug resistance', 'Enzyme', 'Gene', 'Microbiology', 'Genetics', 'Biochemistry', 'Chemistry', 'Pyrimethamine', 'Stereochemistry', 'Immunology', 'Plasmodium falciparum', 'Malaria']

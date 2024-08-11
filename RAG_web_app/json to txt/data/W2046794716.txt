@@ -1,0 +1,12 @@
+ID: W2046794716
+TITLE: An interlaboratory study of dissolved oxygen in water
+AUTHOR: ['Robert J. Wilcock', 'C. Stevenson', 'Cindy A. Roberts']
+ABSTRACT:
+Abstract Dissolved oxygen concentrations in water samples free from chemical reductants may be stabilised by the addition of mercuric chloride (40 g m −3 ) and storage in gas-tight bottles. This preservation technique has been used in an interlaboratory study of dissolved oxygen analysis in New Zealand laboratories. At reference concentrations of 1.20 and 5.86 g m −3 , there was a significant positive bias in results reported for both the Winkler method (0.24 and 0.22 g m −3 respectively) and the membrane electrode method (0.59 and 0.62 g m −3 respectively). Inadequate precautions to avoid sample aeration during handling and analysis probably caused the bias.
+
+SOURCE: Water research
+PDF URL: None
+CITED BY COUNT: 22
+PUBLICATION YEAR: 1981
+TYPE: article
+CONCEPTS: ['Environmental science', 'Environmental chemistry', 'Oxygen', 'Water quality', 'Environmental engineering', 'Hydrology (agriculture)', 'Chemistry', 'Engineering', 'Ecology', 'Biology', 'Organic chemistry', 'Geotechnical engineering']

@@ -1,0 +1,12 @@
+ID: W2915752365
+TITLE: Potential effects of deep seabed mining on pelagic and benthopelagic biota
+AUTHOR: ['Bernd Christiansen', 'Anneke Denda', 'Sabine Christiansen']
+ABSTRACT:
+Environmental concerns were raised from the very onset of discussions concerning the extraction of metalliferous ores from the deep sea, but most studies have targeted the expected impacts on the benthic communities only. The first section of this study compiles possible impacts of deep seabed mining activities on pelagic organisms. Several processes of mining-related activities were identified that can potentially affect the pelagic environment. Some of these processes will assumedly have only minor effects on the pelagic and benthopelagic communities, for example substrate removal and deposition of material. Most others will severely interfere with pelagic and benthopelagic fauna, at least locally. Some impacts will be directly lethal, but most will impair processes associated with feeding, growth and reproduction, which can ultimately lead to smaller standing stocks, altered communities and loss of biodiversity. The actual scale of effects remains unknown until the pelagic ecosystem is better investigated and the technology becomes specified. In the second section, the guidance provided by the International Seabed Authority (ISA) for baseline studies, environmental impact assessment (EIA) and monitoring in connection with prospecting and exploration of deep-sea mineral resources is reviewed in the light of potential threats to the pelagic ecosystem. Although the ISA recommendations request assessments not only of benthic, but also of pelagic communities, the recommendations remain unspecific in most cases; possible links between benthic and pelagic communities and their consequences for impact assessments are not considered. Some recommendations for modifications and additions to the existing guidelines are presented.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Benthic zone', 'Biota', 'Ecosystem', 'Seabed', 'Oceanography', 'Environmental science', 'Fishery', 'Ecology', 'Biology', 'Geology']

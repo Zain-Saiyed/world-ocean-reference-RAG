@@ -1,0 +1,12 @@
+ID: W1991308688
+TITLE: The representative concentration pathways: an overview
+AUTHOR: ['Detlef van Vuuren', 'Jae Edmonds', 'Mikiko Kainuma', 'Keywan Riahi', 'Allison M. Thomson', 'Kathy Hibbard', 'George Hurtt', 'Tom Kram', 'Volker Krey', 'J. F. Lamarque', 'Toshihiko Masui', 'Malte Meinshausen', 'Nebojša Nakićenović', 'Steven J. Smith', 'Steven K. Rose']
+ABSTRACT:
+This paper summarizes the development process and main characteristics of the Representative Concentration Pathways (RCPs), a set of four new pathways developed for the climate modeling community as a basis for long-term and near-term modeling experiments. The four RCPs together span the range of year 2100 radiative forcing values found in the open literature, i.e. from 2.6 to 8.5 W/m2. The RCPs are the product of an innovative collaboration between integrated assessment modelers, climate modelers, terrestrial ecosystem modelers and emission inventory experts. The resulting product forms a comprehensive data set with high spatial and sectoral resolutions for the period extending to 2100. Land use and emissions of air pollutants and greenhouse gases are reported mostly at a 0.5 × 0.5 degree spatial resolution, with air pollutants also provided per sector (for well-mixed gases, a coarser resolution is used). The underlying integrated assessment model outputs for land use, atmospheric emissions and concentration data were harmonized across models and scenarios to ensure consistency with historical observations while preserving individual scenario trends. For most variables, the RCPs cover a wide range of the existing literature. The RCPs are supplemented with extensions (Extended Concentration Pathways, ECPs), which allow climate modeling experiments through the year 2300. The RCPs are an important development in climate research and provide a potential foundation for further research and assessment, including emissions mitigation and impact analysis.
+
+SOURCE: Climatic change
+PDF URL: https://link.springer.com/content/pdf/10.1007/s10584-011-0148-z.pdf
+CITED BY COUNT: 6049
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Representative Concentration Pathways', 'Environmental science', 'Greenhouse gas', 'Radiative forcing', 'Climate model', 'Climate change', 'Land cover', 'Land use', 'Climatology', 'Engineering', 'Civil engineering', 'Ecology', 'Biology', 'Geology']

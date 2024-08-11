@@ -1,0 +1,12 @@
+ID: W2604316091
+TITLE: River plastic emissions to the world’s oceans
+AUTHOR: ['Laurent Lebreton', 'Joost Van Der Zwet', 'Jan Willem Damsteeg', 'Boyan Slat', 'Anthony L. Andrady', 'Júlia Reisser']
+ABSTRACT:
+Plastics in the marine environment have become a major concern because of their persistence at sea, and adverse consequences to marine life and potentially human health. Implementing mitigation strategies requires an understanding and quantification of marine plastic sources, taking spatial and temporal variability into account. Here we present a global model of plastic inputs from rivers into oceans based on waste management, population density and hydrological information. Our model is calibrated against measurements available in the literature. We estimate that between 1.15 and 2.41 million tonnes of plastic waste currently enters the ocean every year from rivers, with over 74% of emissions occurring between May and October. The top 20 polluting rivers, mostly located in Asia, account for 67% of the global total. The findings of this study provide baseline data for ocean plastic mass balance exercises, and assist in prioritizing future plastic debris monitoring and mitigation strategies. Rivers provide a major pathway for ocean plastic waste, but effective mitigation is dependent on a quantification of active sources. Here, the authors present a global model of riverine plastic inputs, and estimate annual plastic waste of almost 2.5 million tonnes, with 86% sourced from Asia.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms15611.pdf
+CITED BY COUNT: 2423
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Environmental science', 'Baseline (sea)', 'Plastic waste', 'Plastic pollution', 'Tonne', 'Debris', 'Marine life', 'Environmental monitoring', 'Environmental resource management', 'Oceanography', 'Microplastics', 'Meteorology', 'Environmental engineering', 'Geography', 'Waste management', 'Geology', 'Engineering']

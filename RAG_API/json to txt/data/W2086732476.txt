@@ -1,0 +1,12 @@
+ID: W2086732476
+TITLE: Surface freshwater from Bay of Bengal runoff and Indonesian Throughflow in the tropical Indian Ocean
+AUTHOR: ['Debasis Sengupta', 'Gokul Raj', 'S. S. C. Shenoi']
+ABSTRACT:
+According to recent estimates, the annual total continental runoff into the Bay of Bengal (BoB) is about 2950 km 3 , which is more than half that into the entire tropical Indian Ocean (IO). Here we use climatological observations to trace the seasonal pathways of near surface freshwater from BoB runoff and Indonesian Throughflow (ITF) by removing the net contribution from precipitation minus evaporation. North of 20°S, the amount of freshwater from BoB runoff and ITF changes with season in a manner consistent with surface currents from drifters. BoB runoff reaches remote regions of the Arabian Sea; it also crosses the equator in the east to join the ITF. This freshwater subsequently flows west across the southern tropical IO in the South Equatorial Current.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2006GL027573
+CITED BY COUNT: 231
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Throughflow', 'Bay', 'Surface runoff', 'BENGAL', 'Oceanography', 'Equator', 'Precipitation', 'Wet season', 'Geology', 'Climatology', 'Indian ocean', 'Surface water', 'Monsoon', 'Environmental science', 'Latitude', 'Geography', 'Meteorology', 'Ecology', 'Cartography', 'Geodesy', 'Environmental engineering', 'Soil science', 'Biology']

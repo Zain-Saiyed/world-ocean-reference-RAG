@@ -1,0 +1,12 @@
+ID: W1973350069
+TITLE: Benefits of Rebuilding Global Marine Fisheries Outweigh Costs
+AUTHOR: ['U. Rashid Sumaila', 'William W. L. Cheung', 'Andrew Dyck', 'Kamal Gueye', 'Ling Huang', 'Vicky W. Y. Lam', 'Daniel Pauly', 'Thara Srinivasan', 'Wilf Swartz', 'Reg Watson', 'Dirk Zeller']
+ABSTRACT:
+Global marine fisheries are currently underperforming, largely due to overfishing. An analysis of global databases finds that resource rent net of subsidies from rebuilt world fisheries could increase from the current negative US$13 billion to positive US$54 billion per year, resulting in a net gain of US$600 to US$1,400 billion in present value over fifty years after rebuilding. To realize this gain, governments need to implement a rebuilding program at a cost of about US$203 (US$130-US$292) billion in present value. We estimate that it would take just 12 years after rebuilding begins for the benefits to surpass the cost. Even without accounting for the potential boost to recreational fisheries, and ignoring ancillary and non-market values that would likely increase, the potential benefits of rebuilding global fisheries far outweigh the costs.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0040542&type=printable
+CITED BY COUNT: 121
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Overfishing', 'Fishery', 'Natural resource economics', 'Subsidy', 'Business', 'Great barrier reef', 'Fisheries management', 'Resource (disambiguation)', 'Marine conservation', 'Recreational fishing', 'Cost–benefit analysis', 'Fishing', 'Economics', 'Ecology', 'Biology', 'Computer network', 'Computer science', 'Market economy', 'Coral reef']

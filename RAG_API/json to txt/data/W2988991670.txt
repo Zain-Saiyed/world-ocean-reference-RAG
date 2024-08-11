@@ -1,0 +1,12 @@
+ID: W2988991670
+TITLE: Abundance of Floating Plastic Particles Is Increasing in the Western North Atlantic Ocean
+AUTHOR: ['Chris Wilcox', 'Britta Denise Hardesty', 'Kara Lavender Law']
+ABSTRACT:
+Since the start of commercial plastics production in the 1940s, global production has rapidly accelerated, doubling approximately every 11 years. Despite this increase and clear evidence of plastics loss into the oceans, including a substantial standing stock, previous research has not detected a temporal trend in plastic particle concentration in the surface ocean. Using a generalized additive statistical model, we examined the longest data set on floating plastic debris available globally, collected using plankton nets in the western North Atlantic from 1986 to 2015. There was a significant increasing temporal trend in plastic particle concentration that tracked cumulative global plastics production. We estimated an increase of 506,000 tons of floating plastic in the ocean in 2010 alone or 0.2% of global production. Our results suggest that, while loss of plastic particles from the surface ocean undoubtedly occurs, the input exceeds the collective losses.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 70
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Debris', 'Environmental science', 'Oceanography', 'Climatology', 'Meteorology', 'Geology', 'Geography']

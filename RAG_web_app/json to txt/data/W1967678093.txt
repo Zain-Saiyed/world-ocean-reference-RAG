@@ -1,0 +1,12 @@
+ID: W1967678093
+TITLE: Mitigation of low-frequency underwater anthropogenic noise using stationary encapsulated gas bubbles
+AUTHOR: ['Kevin M. Lee', 'Mark S. Wochner', 'Preston S. Wilson']
+ABSTRACT:
+Collections of bubbles cause significant dispersion and attenuation of underwater sound near the individual bubbles' resonance frequencies and can potentially be used to abate low-frequency anthropogenic underwater noise. Such effects have been reported for large encapsulated bubbles with resonance frequencies below 100 Hz [J. Acoust. Soc. Am. {\bf{127}}:2015 (2010)] and significant attenuation due to bubble resonance phenomena and acoustic impedance mismatching was observed in experiments using a compact electromechanical acoustic source [J. Acoust. Soc. Am. {\bf{128}}:2279 (2010); J. Acoust. Soc. Am. {\bf{129}}:2462 (2011)]. We describe a method of shielding either a noise source or a receiver using screens or curtains of large encapsulated bubbles. This method was applied to two distinct types of real-world noise excitation: continuous wave noise radiated by a vibrating marine vessel and impact noise from marine pile driving. Experimental results show significant noise reduction ranging up to 40 dB can be attained using this method. In addition, a model of encapsulated bubble dynamics was developed and has been used in conjunction with numerical models to design the encapsulated bubble curtain systems. [Work supported by Shell Global Solutions and the ARL:UT IR&D Program.]
+
+SOURCE: Proceedings of meetings on acoustics
+PDF URL: https://asa.scitation.org/doi/pdf/10.1121/1.4767960
+CITED BY COUNT: 5
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Acoustics', 'Bubble', 'Attenuation', 'Noise (video)', 'Underwater', 'Ambient noise level', 'Resonance (particle physics)', 'Physics', 'Electrical impedance', 'Materials science', 'Geology', 'Optics', 'Computer science', 'Sound (geography)', 'Mechanics', 'Oceanography', 'Particle physics', 'Quantum mechanics', 'Artificial intelligence', 'Image (mathematics)']

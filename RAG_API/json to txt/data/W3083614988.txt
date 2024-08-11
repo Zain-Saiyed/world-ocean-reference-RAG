@@ -1,0 +1,12 @@
+ID: W3083614988
+TITLE: How far have we come? A review of MPA network performance indicators in reaching qualitative elements of Aichi Target 11
+AUTHOR: ['Mairi C. Meehan', 'Natalie C. Ban', 'Rodolphe Devillers', 'Gerald G. Singh', 'Joachim Claudet']
+ABSTRACT:
+Abstract Effective networks of marine protected areas (MPAs) are explicitly recognized and called for in international biodiversity conservation strategies such as the Aichi Targets. While various indicators have been proposed to assess effectiveness of individual MPAs, no comprehensive set of indicators exists for MPA networks, particularly for Aichi Target 11. The qualitative elements of this target recognize the value of social, economic, governance, and ecological factors in achieving effective biodiversity conservation. Here, we used a systematic literature review to identify indicators of MPA network effectiveness. We reviewed 64 publications, identifying 48 indicators that could be aligned with the qualitative elements. Results showed that assessments of MPA network effectiveness predominantly focused on effective management while neglecting equitable management and integration into the wider land and seascape. Indicators tended to focus on ecological characteristics, overlooking social, economic, and governance dimensions. Key challenges in addressing these gaps include identifying conflicting priorities and objectives in adjacent marine and land areas that interfere with cooperation and knowledge sharing, and ensuring diverse areas with distinct social and ecological contexts are considered. This study provides the first review of indicators for assessing MPA networks and adds to the literature assessing whether current and future targets can be met.
+
+SOURCE: Conservation letters
+PDF URL: https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/conl.12746
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2020
+TYPE: review
+CONCEPTS: ['Seascape', 'Marine protected area', 'Environmental resource management', 'Corporate governance', 'Environmental planning', 'Biodiversity', 'Business', 'Geography', 'Ecology', 'Environmental science', 'Biology', 'Habitat', 'Finance']

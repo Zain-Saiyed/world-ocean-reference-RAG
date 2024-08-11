@@ -1,0 +1,12 @@
+ID: W2412260727
+TITLE: Establishment, Management, and Maintenance of the Phoenix Islands Protected Area
+AUTHOR: ['Randi Rotjan', 'Regen Jamieson', 'Benjamin H. Carr', 'Les Kaufman', 'Sangeeta Mangubhai', 'David Obura', 'Ray Pierce', 'Betarim Rimon', 'Bud Ris', 'Stuart A. Sandin', 'Peter Shelley', 'U. Rashid Sumaila', 'Sue Taei', 'Heather Tausig', 'Tukabu Teroroko', 'Simon R. Thorrold', 'Brooke Wikgren', 'Teuea Toatu', 'Gregory S. Stone']
+ABSTRACT:
+The Republic of Kiribati's Phoenix Islands Protected Area (PIPA), located in the equatorial central Pacific, is the largest and deepest UNESCO World Heritage site on earth. Created in 2008, it was the first Marine Protected Area (MPA) of its kind (at the time of inception, the largest in the world) and includes eight low-lying islands, shallow coral reefs, submerged shallow and deep seamounts and extensive open-ocean and ocean floor habitat. Due to their isolation, the shallow reef habitats have been protected de facto from severe exploitation, though the surrounding waters have been continually fished for large pelagics and whales over many decades. PIPA was created under a partnership between the Government of Kiribati and the international non-governmental organizations—Conservation International and the New England Aquarium. PIPA has a unique conservation strategy as the first marine MPA to use a conservation contract mechanism with a corresponding Conservation Trust established to be both a sustainable financing mechanism and a check-and-balance to the oversight and maintenance of the MPA. As PIPA moves forward with its management objectives, it is well positioned to be a global model for large MPA design and implementation in similar contexts. The islands and shallow reefs have already shown benefits from protection, though the pending full closure of PIPA (and assessments thereof) will be critical for determining success of the MPA as a refuge for open-ocean pelagic and deep-sea marine life. As global ocean resources are continually being extracted to support a growing global population, PIPA's closure is both timely and of global significance.
+
+SOURCE: Advances in marine biology
+PDF URL: None
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2014
+TYPE: book-chapter
+CONCEPTS: ['Marine protected area', 'Geography', 'Phoenix', 'Marine conservation', 'Coral reef', 'Reef', 'Habitat', 'Fishery', 'Marine habitats', 'Population', 'Marine reserve', 'Oceanography', 'Fishing', 'Ecology', 'Geology', 'Biology', 'Demography', 'Archaeology', 'Metropolitan area', 'Sociology']

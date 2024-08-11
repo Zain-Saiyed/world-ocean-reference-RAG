@@ -1,0 +1,12 @@
+ID: W1881066983
+TITLE: Eukaryotic plankton diversity in the sunlit ocean
+AUTHOR: ['Colomban de Vargas', 'Stéphane Audic', 'Nicolas Henry', 'Johan Decelle', 'Frédéric Mahé', 'Ramiro Logares', 'Enrique Lara', 'Cédric Berney', 'Noan Le Bescot', 'Ian Probert', 'Margaux Carmichael', 'Julie Poulain', 'Sarah Romac', 'Sébastien Colin', 'Jean‐Marc Aury', 'Lucie Bittner', 'Samuel Chaffron', 'Micah Dunthorn', 'Stéfan Engelen', 'Olga Flegontova', 'Lionel Guidi', 'Aleš Horák', 'Olivier Jaillon', 'Gipsi Lima‐Mendez', 'Julius Lukeš', 'Shruti Malviya', 'Raphaël Morard', 'Matthieu Mulot', 'Eleonora Scalco', 'Raffaele Siano', 'Flora Vincent', 'Adriana Zingone', 'Céline Dimier', 'Marc Picheral', 'Sarah Searson', 'Stefanie Kandels‐Lewis', 'Silvia G. Acinas', 'Peer Bork', 'Chris Bowler', 'Gabriel Gorsky', 'Nigel Grimsley', 'Pascal Hingamp', 'Daniele Iudicone', 'Fabrice Not', 'Hiroyuki Ogata', 'Stéphane Pesant', 'Jeroen Raes', 'Michael E. Sieracki', 'Sabrina Speich', 'Lars Stemmann', 'Shinichi Sunagawa', 'Jean Weissenbach', 'Patrick Wincker', 'Eric Karsenti', 'Emmanuel Boss', 'Michael J. Follows', 'Lee Karp‐Boss', 'Uroš Kržič', 'Emmanuel G. Reynaud', 'Christian Sardet', 'Matthew B. Sullivan', 'Didier Velayoudon']
+ABSTRACT:
+Marine plankton support global biological and geochemical processes. Surveys of their biodiversity have hitherto been geographically restricted and have not accounted for the full range of plankton size. We assessed eukaryotic diversity from 334 size-fractionated photic-zone plankton communities collected across tropical and temperate oceans during the circumglobal Tara Oceans expedition. We analyzed 18S ribosomal DNA sequences across the intermediate plankton-size spectrum from the smallest unicellular eukaryotes (protists, >0.8 micrometers) to small animals of a few millimeters. Eukaryotic ribosomal diversity saturated at ~150,000 operational taxonomic units, about one-third of which could not be assigned to known eukaryotic groups. Diversity emerged at all taxonomic levels, both within the groups comprising the ~11,200 cataloged morphospecies of eukaryotic plankton and among twice as many other deep-branching lineages of unappreciated importance in plankton ecology studies. Most eukaryotic plankton biodiversity belonged to heterotrophic protistan groups, particularly those known to be parasites or symbiotic hosts.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 1523
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Plankton', 'Biology', 'Biodiversity', 'Ecology', 'Eukaryotic cell', 'Temperate climate', 'Gene', 'Genetics']

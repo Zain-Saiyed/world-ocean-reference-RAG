@@ -1,0 +1,12 @@
+ID: W2800781791
+TITLE: Effects of Ice-Algal Aggregate Export on the Connectivity of Bacterial Communities in the Central Arctic Ocean
+AUTHOR: ['Josephine Z. Rapp', 'Mar Fernández‐Méndez', 'Christina Bienhold', 'Antje Boëtius']
+ABSTRACT:
+In summer 2012, Arctic sea ice declined to a record minimum and, as a consequence of the melting, large amounts of aggregated ice-algae sank to the seafloor at more than 4,000 m depth. In this study, we assessed the composition, turnover and connectivity of bacterial and microbial eukaryotic communities across Arctic habitats from sea ice, algal aggregates and surface waters to the seafloor. Eukaryotic communities were dominated by diatoms, dinoflagellates and other alveolates in all samples, and showed highest richness and diversity in sea-ice habitats (∼400-500 OTUs). Flavobacteriia and Gammaproteobacteria were the predominant bacterial classes across all investigated Arctic habitats. Bacterial community richness and diversity peaked in deep-sea samples (∼1,700 OTUs). Algal aggregate-associated bacterial communities were mainly recruited from the sea-ice community, and were transported to the seafloor with the sinking ice algae. The algal deposits at the seafloor had a unique community structure, with some shared sequences with both the original sea-ice community (22% OTU overlap), as well as with the deep-sea sediment community (17% OTU overlap). We conclude that ice-algal aggregate export does not only affect carbon export from the surface to the seafloor, but may change microbial community composition in central Arctic habitats with potential effects for benthic ecosystem functioning in the future.
+
+SOURCE: Frontiers in microbiology
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmicb.2018.01035/pdf
+CITED BY COUNT: 50
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Sea ice', 'Arctic', 'Oceanography', 'Ecology', 'Community structure', 'Benthic zone', 'Seafloor spreading', 'Species richness', 'Ecosystem', 'Algae', 'Microbial population biology', 'Environmental science', 'Biology', 'Geology', 'Genetics', 'Bacteria']

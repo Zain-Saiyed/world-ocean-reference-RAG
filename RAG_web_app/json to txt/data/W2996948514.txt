@@ -1,0 +1,12 @@
+ID: W2996948514
+TITLE: Effects of the 2018 exceptional storm on the Paramuricea clavata (Anthozoa, Octocorallia) population of the Portofino Promontory (Mediterranean Sea)
+AUTHOR: ['Federico Betti', 'Giorgio Bavestrello', 'Marzia Bo', 'Francesco Enrichetti', 'Riccardo Cattaneo‐Vietti']
+ABSTRACT:
+Exceptional meteo-marine events, such as storms, may have profound effects on the structure of benthic communities, yet their consequences on these ecosystems in the Mediterranean basin are still poorly known, mainly due to the unpredictability of such phenomena as well as the general lack of comparative datasets. The highly destructive storm of fall 2018, sustained by SE winds exceeding 130 kmh−1 and generating 10-m high waves, hit the coasts of the Ligurian Sea with devastating strength, producing vast damages and profound changes to the coastal morphology. Quantitative surveys performed soon after the catastrophic event were used to study the effects of the storm on the population structure of the habitat-forming gorgonian Paramuricea clavata (Risso, 1826) along the cliffs of the Portofino Promontory, a site particularly stricken by the storm. The same population was studied in 1997, 2002 and 2016, therefore it was possible to compare its health status before and after the impact of the storm. The P. clavata forest lost about one-third of the colonies between 2016 and 2018; colonies up to 25 m depth utterly disappeared, while below 30 m the storm effects were reduced, although the remaining population showed increased levels of epibiosis and necrosis. Over 21-years of observation, the effects of the storm have significantly slowed-down the recovery of the Portofino Promontory population after the massive mortality events of the last decades. Natural stress factors, although unpredictable, are fundamental to put into perspective changes in the benthic communities over time.
+
+SOURCE: Regional studies in marine science
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Gorgonian', 'Storm', 'Promontory', 'Population', 'Habitat', 'Mediterranean climate', 'Benthic zone', 'Ecology', 'Octocorallia', 'Oceanography', 'Mediterranean sea', 'Biology', 'Geography', 'Cnidaria', 'Coelenterata', 'Coral', 'Geology', 'Demography', 'Archaeology', 'Sociology']

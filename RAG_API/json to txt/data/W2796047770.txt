@@ -1,0 +1,12 @@
+ID: W2796047770
+TITLE: Increased Winter‐Mean Wave Height, Variability, and Periodicity in the Northeast Atlantic Over 1949–2017
+AUTHOR: ['Bruno Castelle', 'Guillaume Dodet', 'Gerd Masselink', 'Tim Scott']
+ABSTRACT:
+Abstract A 69‐year (1948–2017) numerical weather and wave hindcast is used to investigate the interannual variability and trend of winter wave height along the west coast of Europe. Results show that the winter‐mean wave height, variability, and periodicity all increased significantly in the northeast Atlantic over the last seven decades which primarily correlate with changes in the climate indices North Atlantic Oscillation (NAO) and West Europe Pressure Anomaly (WEPA) affecting atmospheric circulation in the North Atlantic. NAO and WEPA primarily explain the increase in winter‐mean wave height and periodicity, respectively, while both WEPA and NAO explain the increase in interannual variability. This increase in trend, variability, and periodicity resulted in more frequent high‐energy winters with high NAO and/or WEPA over the last decades. The ability of climate models to predict the winter NAO and WEPA indices a few months ahead will be crucial to anticipate coastal hazards in this region.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['North Atlantic oscillation', 'Hindcast', 'Climatology', 'Anomaly (physics)', 'Significant wave height', 'Environmental science', 'Atmospheric circulation', 'Atlantic multidecadal oscillation', 'Climate change', 'Wave height', 'Arctic oscillation', 'Geology', 'Oceanography', 'Wind wave', 'Northern Hemisphere', 'Physics', 'Condensed matter physics']

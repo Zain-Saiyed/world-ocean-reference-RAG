@@ -1,0 +1,12 @@
+ID: W2099390590
+TITLE: Distribution and Biodiversity of Australian Tropical Marine Bioinvasions
+AUTHOR: ['Chad L. Hewitt']
+ABSTRACT:
+Marine invasions have been identified in virtually all regions of the world, yet relatively few introductions have been detected in the Tropics. This has been attributed at least in part to an increase in intrinsic native community resistance at lower latitudes resulting from strongly interacting food webs in high(er) diversity systems. However, recent evidence from surveys in Australia and elsewhere indicate that tropical systems are also susceptible to invasions, though detection ability may be constrained by taxonomic limitations. Preliminary analyses of data from surveys designed to detect introduced species do not support a pattern of decreased invasion success in higher diversity systems but do indicate a strong latitudinal gradient at the mesoscale of Australia. This cannot be attributed to disparities in search effort (controlled for by consistency in survey effort) or taxonomic knowledge. The original hypothesis of a decreased relative susceptibility of tropical versus temperate biota to invasions may remain viable, but be scale dependent. Additional confounding factors may include differing vector strengths and availability of source bioregions.
+
+SOURCE: Pacific science
+PDF URL: None
+CITED BY COUNT: 97
+PUBLICATION YEAR: 2002
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Temperate climate', 'Ecology', 'Tropics', 'Biota', 'Biology', 'Geography', 'Latitude', 'Tropical climate', 'Geodesy']

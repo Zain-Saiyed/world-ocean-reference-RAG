@@ -1,0 +1,12 @@
+ID: W2777821100
+TITLE: Alteration of host-pathogen interactions in the wake of climate change – Increasing risk for shellfish associated infections?
+AUTHOR: ['Bodil Hernroth', 'Susanne Baden']
+ABSTRACT:
+The potential for climate-related spread of infectious diseases through marine systems has been highlighted in several reports. With this review we want to draw attention to less recognized mechanisms behind vector-borne transmission pathways to humans. We have focused on how the immune systems of edible marine shellfish, the blue mussels and Norway lobsters, are affected by climate related environmental stressors. Future ocean acidification (OA) and warming due to climate change constitute a gradually increasing persistent stress with negative trade-off for many organisms. In addition, the stress of recurrent hypoxia, inducing high levels of bioavailable manganese (Mn) is likely to increase in line with climate change. We summarized that OA, hypoxia and elevated levels of Mn did have an overall negative effect on immunity, in some cases also with synergistic effects. On the other hand, moderate increase in temperature seems to have a stimulating effect on antimicrobial activity and may in a future warming scenario counteract the negative effects. However, rising sea surface temperature and climate events causing high land run-off promote the abundance of naturally occurring pathogenic Vibrio and will in addition, bring enteric pathogens which are circulating in society into coastal waters. Moreover, the observed impairments of the immune defense enhance the persistence and occurrence of pathogens in shellfish. This may increase the risk for direct transmission of pathogens to consumers. It is thus essential that in the wake of climate change, sanitary control of coastal waters and seafood must recognize and adapt to the expected alteration of host-pathogen interactions.
+
+SOURCE: Environmental research
+PDF URL: None
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Climate change', 'Shellfish', 'Biology', 'Ecology', 'Hypoxia (environmental)', 'Stressor', 'Zoology', 'Aquatic animal', 'Fishery', 'Fish <Actinopterygii>', 'Chemistry', 'Organic chemistry', 'Neuroscience', 'Oxygen']

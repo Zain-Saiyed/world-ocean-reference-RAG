@@ -1,0 +1,12 @@
+ID: W2271110629
+TITLE: Real-Time Classification of Seagrass Meadows on Flat Bottom with Bathymetric Data Measured by a Narrow Multibeam Sonar System
+AUTHOR: ['Masahiro Hamana', 'Toshimitsu Komatsu']
+ABSTRACT:
+Seagrass meadows, one of the most important habitats for many marine species, provide essential ecological services. Thus, society must conserve seagrass beds as part of their sustainable development efforts. Conserving these ecosystems requires information on seagrass distribution and relative abundance, and an efficient, accurate monitoring system. Although narrow multibeam sonar systems (NMBSs) are highly effective in resolving seagrass beds, post-processing methods are required to extract key data. The purpose of this study was to develop a simple method capable of detecting seagrass meadows and estimating their relative abundance in real time using an NMBS. Because most seagrass meadows grow on sandy seafloors, we proposed a way of discriminating seagrass meadows from the sand bed. We classify meadows into three categories of relative seagrass abundance using the 95% confidence level of beam depths and the depth range of the beam depth. These are respectively two times the standard deviation of beam depths, and the difference between the shallowest and the deepest depths in a 0.5 × 0.5 m grid cell sampled with several narrow beams. We examined Zostera caulescens Miki, but this simple NMBS method of seagrass classification can potentially be used to map seagrass meadows with longer shoots of other species, such as Posidonia, as both have gas filled cavities.
+
+SOURCE: Remote sensing
+PDF URL: https://www.mdpi.com/2072-4292/8/2/96/pdf?version=1453887130
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seagrass', 'Zostera marina', 'Abundance (ecology)', 'Environmental science', 'Posidonia oceanica', 'Sonar', 'Habitat', 'Ecosystem', 'Range (aeronautics)', 'Oceanography', 'Bathymetry', 'Remote sensing', 'Geology', 'Ecology', 'Biology', 'Materials science', 'Composite material']

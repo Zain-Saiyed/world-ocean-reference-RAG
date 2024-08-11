@@ -1,0 +1,12 @@
+ID: W2981569413
+TITLE: Measuring Marine Plastic Debris from Space: Initial Assessment of Observation Requirements
+AUTHOR: ['Victor Martinez‐Vicente', 'James R. Clark', 'Paolo Corradi', 'Stefano Aliani', 'Manuel Arias', 'Mathias Bochow', 'Guillaume Bonnery', 'Matthew Cole', 'Andrés Cózar', 'R. P. Donnelly', 'Fidel Echevarrı́a', 'François Galgani', 'Shungudzemwoyo P. Garaba', 'Lonneke Goddijn‐Murphy', 'Laurent Lebreton', 'H.A. Leslie', 'Penelope K. Lindeque', 'Nikolai Maximenko', 'François-Régis Martin-Lauzer', 'Delwyn Moller', 'Peter M. Murphy', 'Lorenzo Palombi', 'Valentina Raimondi', 'Júlia Reisser', 'Laia Romero', 'Stefan Simis', 'Sindy Sterckx', 'Richard C. Thompson', 'Konstantinos Topouzelis', 'Erik van Sebille', 'Joana Mira Veiga', 'A.D. Vethaak']
+ABSTRACT:
+Sustained observations are required to determine the marine plastic debris mass balance and to support effective policy for planning remedial action. However, observations currently remain scarce at the global scale. A satellite remote sensing system could make a substantial contribution to tackling this problem. Here, we make initial steps towards the potential design of such a remote sensing system by: (1) identifying the properties of marine plastic debris amenable to remote sensing methods and (2) highlighting the oceanic processes relevant to scientific questions about marine plastic debris. Remote sensing approaches are reviewed and matched to the optical properties of marine plastic debris and the relevant spatio-temporal scales of observation to identify challenges and opportunities in the field. Finally, steps needed to develop marine plastic debris detection by remote sensing platforms are proposed in terms of fundamental science as well as linkages to ongoing planning for satellite systems with similar observation requirements.
+
+SOURCE: Remote sensing
+PDF URL: https://www.mdpi.com/2072-4292/11/20/2443/pdf?version=1571800822
+CITED BY COUNT: 114
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Remote sensing', 'Debris', 'Environmental science', 'Space debris', 'Marine debris', 'Satellite', 'Computer science', 'Geology', 'Engineering', 'Aerospace engineering', 'Oceanography']

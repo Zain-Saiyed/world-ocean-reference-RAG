@@ -1,0 +1,14 @@
+ID: W2039300997
+TITLE: A World Without Mangroves?
+AUTHOR: ['Norman C. Duke', 'Jan‐Olaf Meynecke', 'Sabine Dittmann', 'Aaron M. Ellison', 'Klaus Anger', 'Uta Berger', 'Stefano Cannicci', 'Karen Diele', 'Katherine C. Ewel', 'C. D. Field', 'Nico Koedam', 'S.Y. Lee', 'Cyril Marchand', 'Inga Nordhaus', 'Farid Dahdouh‐Guebas']
+ABSTRACT:
+At a meeting of world mangrove experts held last year in Australia, it was unanimously agreed that we face the prospect of a world deprived of the services offered by mangrove ecosystems, perhaps within the next 100 years.
+
+Mangrove forests once covered more than 200,000 km2 of sheltered tropical
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 1270
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Mangrove', 'Geography', 'Fishery', 'Biology']

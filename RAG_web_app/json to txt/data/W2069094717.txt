@@ -1,0 +1,12 @@
+ID: W2069094717
+TITLE: Carbonate-hosted methanotrophy represents an unrecognized methane sink in the deep sea
+AUTHOR: ['Jeffrey J. Marlow', 'Joshua A. Steele', 'Wiebke Ziebis', 'Andrew R. Thurber', 'Lisa A. Levin', 'Victoria J. Orphan']
+ABSTRACT:
+The atmospheric flux of methane from the oceans is largely mitigated through microbially mediated sulphate-coupled methane oxidation, resulting in the precipitation of authigenic carbonates. Deep-sea carbonates are common around active and palaeo-methane seepage, and have primarily been viewed as passive recorders of methane oxidation; their role as active and unique microbial habitats capable of continued methane consumption has not been examined. Here we show that seep-associated carbonates harbour active microbial communities, serving as dynamic methane sinks. Microbial aggregate abundance within the carbonate interior exceeds that of seep sediments, and molecular diversity surveys reveal methanotrophic communities within protolithic nodules and well-lithified carbonate pavements. Aggregations of microbial cells within the carbonate matrix actively oxidize methane as indicated by stable isotope FISH-nanoSIMS experiments and (14)CH4 radiotracer rate measurements. Carbonate-hosted methanotrophy extends the known ecological niche of these important methane consumers and represents a previously unrecognized methane sink that warrants consideration in global methane budgets.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms6094.pdf
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Methane', 'Anaerobic oxidation of methane', 'Carbonate', 'Sink (geography)', 'Abiogenic petroleum origin', 'Atmospheric methane', 'Petroleum seep', 'Microbial mat', 'Environmental science', 'Authigenic', 'Cold seep', 'Environmental chemistry', 'Ecosystem', 'Oceanography', 'Methanotroph', 'Ecology', 'Geology', 'Earth science', 'Chemistry', 'Biology', 'Paleontology', 'Cyanobacteria', 'Cartography', 'Organic chemistry', 'Bacteria', 'Geography']

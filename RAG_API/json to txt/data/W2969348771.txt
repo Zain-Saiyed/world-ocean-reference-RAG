@@ -1,0 +1,12 @@
+ID: W2969348771
+TITLE: Applications of Marine-Derived Microorganisms and Their Enzymes in Biocatalysis and Biotransformation, the Underexplored Potentials
+AUTHOR: ['Willian Garcia Birolli', 'Rafaely N. Lima', 'André Luiz Meleiro Porto']
+ABSTRACT:
+Biodiversity has been explored in the search for novel enzymes, including forests, savannas, tundras, deserts, and finally the sea. Marine microorganisms and their enzymes are capable of being active in high-salt concentration, large range of temperature, and high incidence of light and pressure, constituting an important source of unique biocatalysts. This review presents studies employing whole-cell processes of marine bacteria and fungi, aiming for new catalysts for different reactions in organic synthesis, such as reduction, oxidation, hydroxylation, hydrolysis, elimination, and conjugation. Genomics and protein engineering studies were also approached, and reactions employing isolated enzymes from different classes (oxidoreductases, hydrolases, lyases, and ligases) were described and summarized. Future biotechnological studies and process development should focus on molecular biology for the obtention of enzymes with interesting, fascinating and enhanced properties, starting from the exploration of microorganisms from the marine environment. This review approaches the literature about the use of marine-derived bacteria, fungi, and their enzymes for biocatalytic reactions of organic compounds, promoting a discussion about the possibilities of these microorganisms in the synthesis of different substances.
+
+SOURCE: Frontiers in microbiology
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmicb.2019.01453/pdf
+CITED BY COUNT: 75
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Biocatalysis', 'Biotransformation', 'Microorganism', 'Enzyme', 'Bacteria', 'Chemistry', 'Marine bacteriophage', 'Biology', 'Biochemistry', 'Biochemical engineering', 'Catalysis', 'Reaction mechanism', 'Engineering', 'Genetics']

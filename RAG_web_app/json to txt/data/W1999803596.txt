@@ -1,0 +1,12 @@
+ID: W1999803596
+TITLE: A blueprint for blue carbon: toward an improved understanding of the role of vegetated coastal habitats in sequestering CO<sub>2</sub>
+AUTHOR: ['Elizabeth McLeod', 'Gail L. Chmura', 'Steven Bouillon', 'Rodney V. Salm', 'Mats Björk', 'Carlos M. Duarte', 'Catherine E. Lovelock', 'William H. Schlesinger', 'Brian R. Silliman']
+ABSTRACT:
+Recent research has highlighted the valuable role that coastal and marine ecosystems play in sequestering carbon dioxide (CO 2 ). The carbon (C) sequestered in vegetated coastal ecosystems, specifically mangrove forests, seagrass beds, and salt marshes, has been termed “blue carbon”. Although their global area is one to two orders of magnitude smaller than that of terrestrial forests, the contribution of vegetated coastal habitats per unit area to long‐term C sequestration is much greater, in part because of their efficiency in trapping suspended matter and associated organic C during tidal inundation. Despite the value of mangrove forests, seagrass beds, and salt marshes in sequestering C, and the other goods and services they provide, these systems are being lost at critical rates and action is urgently needed to prevent further degradation and loss. Recognition of the C sequestration value of vegetated coastal ecosystems provides a strong argument for their protection and restoration; however, it is necessary to improve scientific understanding of the underlying mechanisms that control C sequestration in these ecosystems. Here, we identify key areas of uncertainty and specific actions needed to address them.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/110004
+CITED BY COUNT: 2430
+PUBLICATION YEAR: 2011
+TYPE: review
+CONCEPTS: ['Blue carbon', 'Salt marsh', 'Seagrass', 'Carbon sequestration', 'Environmental science', 'Mangrove', 'Ecosystem', 'Habitat', 'Ecosystem services', 'Marsh', 'Wetland', 'Ecology', 'Carbon dioxide', 'Biology']

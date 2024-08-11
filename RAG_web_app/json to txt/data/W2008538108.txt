@@ -1,0 +1,12 @@
+ID: W2008538108
+TITLE: Productivity in the Barents Sea - Response to Recent Climate Variability
+AUTHOR: ['Padmini Dalpadado', 'Kevin R. Arrigo', 'Solfrid Sætre Hjøllo', 'Francisco Rey', 'Randi Ingvaldsen', 'Erik Sperfeld', 'Gert L. van Dijken', 'Leif Christian Stige', 'Are Olsen', 'Geir Ottersen']
+ABSTRACT:
+The temporal and spatial dynamics of primary and secondary biomass/production in the Barents Sea since the late 1990s are examined using remote sensing data, observations and a coupled physical-biological model. Field observations of mesozooplankton biomass, and chlorophyll a data from transects (different seasons) and large-scale surveys (autumn) were used for validation of the remote sensing products and modeling results. The validation showed that satellite data are well suited to study temporal and spatial dynamics of chlorophyll a in the Barents Sea and that the model is an essential tool for secondary production estimates. Temperature, open water area, chlorophyll a, and zooplankton biomass show large interannual variations in the Barents Sea. The climatic variability is strongest in the northern and eastern parts. The moderate increase in net primary production evident in this study is likely an ecosystem response to changes in climate during the same period. Increased open water area and duration of open water season, which are related to elevated temperatures, appear to be the key drivers of the changes in annual net primary production that has occurred in the northern and eastern areas of this ecosystem. The temporal and spatial variability in zooplankton biomass appears to be controlled largely by predation pressure. In the southeastern Barents Sea, statistically significant linkages were observed between chlorophyll a and zooplankton biomass, as well as between net primary production and fish biomass, indicating bottom-up trophic interactions in this region.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0095273&type=printable
+CITED BY COUNT: 126
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Environmental science', 'Biomass (ecology)', 'Zooplankton', 'Primary production', 'Trophic level', 'Transect', 'Productivity', 'Oceanography', 'Ecosystem', 'Spatial variability', 'Ecology', 'Biology', 'Geology', 'Statistics', 'Mathematics', 'Macroeconomics', 'Economics']

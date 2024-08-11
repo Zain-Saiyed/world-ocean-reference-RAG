@@ -1,0 +1,12 @@
+ID: W1563447486
+TITLE: Scientific frontiers in the management of coral reefs
+AUTHOR: ['Shankar Aswani', 'Peter J. Mumby', 'Andrew C. Baker', 'Patrick Christie', 'Laurence McCook', 'Robert S. Steneck', 'Robert H. Richmond']
+ABSTRACT:
+Coral reefs are subjected globally to a variety of natural and anthropogenic stressors that often act synergistically. Today, reversing ongoing and future coral reef degradation presents significant challenges and countering this negative trend will take considerable efforts and investments. Scientific knowledge can inform and guide the requisite decision-making process and offer practical solutions to the problem of protection as the effects of climate change exacerbate. However, implementation of solutions presently lags far behind the pace required to reverse global declines, and there is a need for an urgent and significant step-up in the extent and range of strategies being implemented. In this paper, we consider scientific frontiers in natural and social science research that can help build stronger support for reef management and improve the efficacy of interventions. We cover various areas including: (1) enhancing the case for reef conservation and management, (2) dealing with local stressors on reefs, (3) addressing global climate change impacts, (4) and reviewing various approaches to the governance of coral reefs. In sum, we consider scientific frontiers in natural and social science that will require further attention in coming years as managers' work towards building stronger support for reef management and improve the efficacy of local interventions.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2015.00050/pdf
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Coral reef', 'Reef', 'Pace', 'Environmental resource management', 'Climate change', 'Environmental planning', 'Business', 'Geography', 'Ecology', 'Environmental science', 'Biology', 'Geodesy']

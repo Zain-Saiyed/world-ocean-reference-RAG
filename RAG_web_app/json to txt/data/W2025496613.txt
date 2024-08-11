@@ -1,0 +1,12 @@
+ID: W2025496613
+TITLE: Ecology of Heterotrophic Microflagellates. IV Quantitative Occurrence and Importance as Bacterial Consumers
+AUTHOR: ['Tom Fenchel']
+ABSTRACT:
+Heterotrophic nanoplankton flagellates and bacteria were quantified at regular intervals during a month in Limfjorden, Denmark.The number of flagellates averaged about 103 ml-l and ranged from < 2 X 102 to about 3 X 103 ml-l.The composition of this fauna was dominated by choanoflagellates, non-plgmented chrysomonads and bicoecids; other forms are rarer.A substantial part of this fauna is associated with suspended particulate matter.Bacteria occurred in concentrations ranging from 1.5 to 3 X 106 ml-l.Flagellate numbers followed bacterial numbers and the bacteriaflagellate system showed a cyclical behaviour with a frequency of about 16 d during the study period.Calculations based on laboratory data on the clearance of flagellates show that such organisms on the average filter 20 % of the Limfjord water d-l (range 12 to 67 % d-l).This is consistent with previously published estimates of bacterial division rates in seawater provided that microflagellates are the main consumers of pelagic bacteria.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: None
+CITED BY COUNT: 484
+PUBLICATION YEAR: 1982
+TYPE: article
+CONCEPTS: ['Ecology', 'Heterotroph', 'Geography', 'Biology', 'Environmental science', 'Bacteria', 'Genetics']

@@ -1,0 +1,12 @@
+ID: W2803609353
+TITLE: Benthic species of the Kerguelen Plateau show contrasting distribution shifts in response to environmental changes
+AUTHOR: ['Charlène Guillaumot', 'Salomé Fabri‐Ruiz', 'Alexis Martin', 'Marc Eléaume', 'Bruno Danis', 'Jean‐Pierre Féral', 'Thomas Saucède']
+ABSTRACT:
+Abstract Marine life of the Southern Ocean has been facing environmental changes and the direct impact of human activities during the past decades. Benthic communities have particularly been affected by such changes although we only slowly understand the effect of environmental changes on species physiology, biogeography, and distribution. Species distribution models ( SDM ) can help explore species geographic responses to main environmental changes. In this work, we modeled the distribution of four echinoid species with contrasting ecological niches. Models developed for [2005–2012] were projected to different time periods, and the magnitude of distribution range shifts was assessed for recent‐past conditions [1955–1974] and for the future, under scenario RCP 8.5 for [2050–2099]. Our results suggest that species distribution shifts are expected to be more important in a near future compared to the past. The geographic response of species may vary between poleward shift, latitudinal reduction, and local extinction. Species with broad ecological niches and not limited by biogeographic barriers would be the least affected by environmental changes, in contrast to endemic species, restricted to coastal areas, which are predicted to be more sensitive.
+
+SOURCE: Ecology and evolution
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4091
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ecological niche', 'Benthic zone', 'Ecology', 'Biogeography', 'Range (aeronautics)', 'Extinction (optical mineralogy)', 'Species distribution', 'Niche', 'Environmental change', 'Plateau (mathematics)', 'Climate change', 'Macroecology', 'Distribution (mathematics)', 'Environmental niche modelling', 'Biology', 'Geography', 'Habitat', 'Paleontology', 'Mathematical analysis', 'Materials science', 'Mathematics', 'Composite material']

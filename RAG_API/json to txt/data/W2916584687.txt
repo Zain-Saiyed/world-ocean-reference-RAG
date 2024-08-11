@@ -1,0 +1,12 @@
+ID: W2916584687
+TITLE: Tools and constraints in monitoring interactions between marine litter and megafauna: Insights from case studies around the world
+AUTHOR: ['Françoise Claro', 'María Cristina Fossi', 'Christos Ioakeimidis', 'Matteo Baini', 'Amy Lusher', 'W. Mc Fee', 'Rebecca R. McIntosh', 'Tania Pelamatti', 'Marisa Sorce', 'François Galgani', 'Britta Denise Hardesty']
+ABSTRACT:
+Adverse impacts of marine litter is documented on >1400 species, including marine megafauna (fish, birds, sea turtles and mammals). The primary impacts include ingestion and entanglement, and there is increasing concern about chemical contamination via ingestion. Numerous survey approaches and monitoring programs have been developed and implemented around the world. They may aim to provide data about parameters such as species distribution and interactions with anthropogenic activities. During the Sixth International Marine Debris Conference, a session was dedicated to the tools and constraints in monitoring interactions between litter and megafauna. In the present paper, we summarize 7 case studies which discuss entanglement and ingestion including macro- and micro-debris in several taxa and across multiple geographic regions. We then discusses the importance of tools and standardizing methods for assessment and management purposes, in the context of international environmental policies and marine litter strategies.
+
+SOURCE: Marine pollution bulletin
+PDF URL: http://manuscript.elsevier.com/S0025326X19300189/pdf/S0025326X19300189.pdf
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Megafauna', 'Microplastics', 'Marine debris', 'Context (archaeology)', 'Litter', 'Ecology', 'Environmental science', 'Debris', 'Environmental resource management', 'Geography', 'Biology', 'Oceanography', 'Geology', 'Pleistocene', 'Archaeology']

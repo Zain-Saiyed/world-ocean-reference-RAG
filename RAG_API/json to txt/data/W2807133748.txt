@@ -1,0 +1,12 @@
+ID: W2807133748
+TITLE: Impact of Climate Change on Vibrio vulnificus Abundance and Exposure Risk
+AUTHOR: ['Reem Deeb', 'Dan Tufford', 'Geoffrey I. Scott', 'John Robert Moore', 'Kirstin Dow']
+ABSTRACT:
+Vibrio species are marine bacteria that occur in estuaries worldwide; many are virulent human pathogens with high levels of antibiotic resistance. The average annual incidence of all Vibrio infections has increased by 41% between 1996 and 2005. V. vulnificus (Vv), a species associated with shellfish and occurring in the US Southeast, has ranges of temperature (16-33 °C) and salinity (5-20 ppt) dependencies for optimal growth. Increased water temperatures caused by atmospheric warming and increased salinity gradients caused by sea level rise raise concerns for the effect of climate change on the geographic range of Vv and the potential for increased exposure risk. This research combined monthly field sampling, laboratory analysis, and modeling to identify the current occurrence of Vv in the Winyah Bay estuary (South Carolina, USA) and assess the possible effects of climate change on future geographic range and exposure risk in the estuary. Vv concentrations ranged from 0 to 58 colony forming units (CFU)/mL, salinities ranged from 0 to 28 ppt, and temperature from 18 to 31 °C. A significant empirical relationship was found between Vv concentration and salinity and temperature that fit well with published optimal ranges for growth for these environmental parameters. These results, when coupled with an existing model of future specific conductance, indicated that sea level rise has a greater impact on exposure risk than temperature increases in the estuary. Risk increased by as much as four times compared to current conditions with the largest temporally widespread increase at the most upriver site where currently there is minimal risk.
+
+SOURCE: Estuaries and coasts
+PDF URL: None
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Estuary', 'Vibrio vulnificus', 'Salinity', 'Environmental science', 'Bay', 'Climate change', 'Abundance (ecology)', 'Shellfish', 'Global warming', 'Ecology', 'Oceanography', 'Biology', 'Fishery', 'Aquatic animal', 'Bacteria', 'Genetics', 'Fish <Actinopterygii>', 'Geology']

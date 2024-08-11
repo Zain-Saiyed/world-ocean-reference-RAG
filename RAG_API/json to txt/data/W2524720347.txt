@@ -1,0 +1,12 @@
+ID: W2524720347
+TITLE: Three new species of glass sponges Pheronematidae (Porifera: Hexactinellida) from the deep-sea of the northwestern Pacific Ocean
+AUTHOR: ['Dexiang Wang', 'Chunsheng Wang', 'Yuan Zhang', 'Chenggang Liu']
+ABSTRACT:
+Three new glass sponge species of the family Pheronematidae are described in this study. Specimens were sampled in the northwestern Pacific Ocean during cruise DY125-35I expedition (July-August, 2014) conducted by the China Ocean Mineral Resources R&D Association. All samples were collected by the Chinese manned submersible Jiaolong HOV at a depth of 1627-2897 m. The three species belonging to three genera of the same family were observed, i.e., Platylistrum subviridum sp. nov. Poliopogon canaliculatus sp. nov. and Semperella retrospinella sp. nov. An unique form of the pinular ray of pinular pentactins with reclined spines is described for S. retrospinella sp. nov. This is also the first record of Platylistrum in the Pacific Ocean.
+
+SOURCE: Zootaxa
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biology', 'Pacific ocean', 'Oceanography', 'Deep sea', 'Sponge', 'China', 'Paleontology', 'Fishery', 'Archaeology', 'Geology', 'Geography']

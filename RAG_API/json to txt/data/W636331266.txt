@@ -1,0 +1,12 @@
+ID: W636331266
+TITLE: Marine foods sourced from farther as their use of global ocean primary production increases
+AUTHOR: ['Reg Watson', 'Gabrielle B. Nowara', 'Klaas Hartmann', 'Bridget S. Green', 'S Tracey', 'Chris Carter']
+ABSTRACT:
+The growing human population must be fed, but historic land-based systems struggle to meet expanding demand. Marine production supports some of the world's poorest people but increasingly provides for the needs of the affluent, either directly by fishing or via fodder-based feeds for marine and terrestrial farming. Here we show the expanding footprint of humans to utilize global ocean productivity to feed themselves. Our results illustrate how incrementally each year, marine foods are sourced farther from where they are consumed and moreover, require an increasing proportion of the ocean's primary productivity that underpins all marine life. Though mariculture supports increased consumption of seafood, it continues to require feeds based on fully exploited wild stocks. Here we examine the ocean's ability to meet our future demands to 2100 and find that even with mariculture supplementing near-static wild catches our growing needs are unlikely to be met without significant changes.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms8365.pdf
+CITED BY COUNT: 81
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Mariculture', 'Productivity', 'Fishing', 'Marine conservation', 'Production (economics)', 'Fishery', 'Agriculture', 'Marine life', 'Population', 'Natural resource economics', 'Business', 'Geography', 'Environmental science', 'Aquaculture', 'Fish <Actinopterygii>', 'Ecology', 'Biology', 'Economics', 'Economic growth', 'Demography', 'Macroeconomics', 'Sociology']

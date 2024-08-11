@@ -1,0 +1,12 @@
+ID: W2143742165
+TITLE: Understanding marine ecosystem based management: A literature review
+AUTHOR: ['Richard Curtin', 'Raúl Prellezo']
+ABSTRACT:
+Ecosystem based management takes into account the interconnectedness and interdependent nature of ecosystem components and emphasizes the importance of ecosystem structures and functions which provide a range of services. The concept has now been adopted by many international agreements and national governments and is in the process of being implemented. This paper seeks to review the literature and to analyze the understanding of the subject. The term is defined and its implementation in fisheries and for all marine uses is analyzed. It has been concluded that to understand marine ecosystem based management one must consider ecosystems as complex adaptive systems which can show changes at higher levels from actions and processes occurring at lower levels. Recognizing that humans are part of these complex adaptive systems is vital in that their actions along with other processes can lead to transformations in ecosystem functioning. This recognition is also important to show how society can sustainably exploit these resources and that the inclusion of all stakeholders in the management process is necessary to legitimize the process. The uses of the precautionary principle along with adaptive management are seen to be useful tools in implementing these insights into the management of natural resources. Finally, the need for reducing consumption of fish is considered.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 316
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Interdependence', 'Adaptive management', 'Sustainability', 'Ecosystem-based management', 'Ecosystem management', 'Process (computing)', 'Environmental resource management', 'Ecosystem', 'Exploit', 'Fisheries management', 'Marine ecosystem', 'Complex adaptive system', 'Ecosystem services', 'Business', 'Management process', 'Marine conservation', 'Natural resource', 'Computer science', 'Management system', 'Ecology', 'Environmental science', 'Political science', 'Economics', 'Fishing', 'Computer security', 'Management', 'Artificial intelligence', 'Law', 'Biology', 'Operating system']

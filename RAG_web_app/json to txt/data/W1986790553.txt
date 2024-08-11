@@ -1,0 +1,12 @@
+ID: W1986790553
+TITLE: Deoxygenation of the Baltic Sea during the last century
+AUTHOR: ['Jacob Carstensen', 'Jesper H. Andersen', 'Bo Gustafsson', 'Daniel J. Conley']
+ABSTRACT:
+Deoxygenation is a global problem in coastal and open regions of the ocean, and has led to expanding areas of oxygen minimum zones and coastal hypoxia. The recent expansion of hypoxia in coastal ecosystems has been primarily attributed to global warming and enhanced nutrient input from land and atmosphere. The largest anthropogenically induced hypoxic area in the world is the Baltic Sea, where the relative importance of physical forcing versus eutrophication is still debated. We have analyzed water column oxygen and salinity profiles to reconstruct oxygen and stratification conditions over the last 115 y and compare the influence of both climate and anthropogenic forcing on hypoxia. We report a 10-fold increase of hypoxia in the Baltic Sea and show that this is primarily linked to increased inputs of nutrients from land, although increased respiration from higher temperatures during the last two decades has contributed to worsening oxygen conditions. Although shifts in climate and physical circulation are important factors modulating the extent of hypoxia, further nutrient reductions in the Baltic Sea will be necessary to reduce the ecosystems impacts of deoxygenation.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/111/15/5628.full.pdf
+CITED BY COUNT: 493
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Hypoxia (environmental)', 'Eutrophication', 'Environmental science', 'Ecosystem', 'Oceanography', 'Nutrient', 'Anoxic waters', 'Salinity', 'Deoxygenation', 'Water column', 'Climate change', 'Baltic sea', 'Ecology', 'Oxygen', 'Biology', 'Geology', 'Chemistry', 'Biochemistry', 'Organic chemistry', 'Catalysis']

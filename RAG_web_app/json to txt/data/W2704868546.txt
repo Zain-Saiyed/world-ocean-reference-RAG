@@ -1,0 +1,12 @@
+ID: W2704868546
+TITLE: Northward dispersal of sea kraits (Laticauda semifasciata) beyond their typical range
+AUTHOR: ['Jaejin Park', 'Il-Hun Kim', 'Jonathan J. Fong', 'Kyo-Soung Koo', 'Woo-Jin Choi', 'Tein‐Shun Tsai', 'Daesik Park']
+ABSTRACT:
+Marine reptiles are declining globally, and recent climate change may be a contributing factor. The study of sea snakes collected beyond their typical distribution range provides valuable insight on how climate change affects marine reptile populations. Recently, we collected 12 Laticauda semifasciata (11 females, 1 male) from the waters around southern South Korea—an area located outside its typical distribution range (Japan, China including Taiwan, Philippines and Indonesia). We investigated the genetic origin of Korean specimens by analyzing mitochondrial cytochrome b gene (Cytb) sequences. Six individuals shared haplotypes with a group found in Taiwan-southern Ryukyu Islands, while the remaining six individuals shared haplotypes with a group encompassing the entire Ryukyu Archipelago. These results suggest L. semifasciata moved into Korean waters from the Taiwan-Ryukyu region via the Taiwan Warm Current and/or the Kuroshio Current, with extended survival facilitated by ocean warming. We highlight several contributing factors that increase the chances that L. semifasciata establishes new northern populations beyond the original distribution range.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0179871&type=printable
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Archipelago', 'Biological dispersal', 'Range (aeronautics)', 'Ecology', 'Biology', 'Distribution (mathematics)', 'Geography', 'Oceanography', 'Zoology', 'Demography', 'Population', 'Geology', 'Mathematical analysis', 'Materials science', 'Mathematics', 'Sociology', 'Composite material']

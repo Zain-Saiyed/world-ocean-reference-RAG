@@ -1,0 +1,12 @@
+ID: W2625445794
+TITLE: Scaling copepod grazing in a coastal upwelling system: the importance of community size structure for phytoplankton C flux
+AUTHOR: ['Valentina Valdés', 'Rubén Escribano', 'Odette A. Vergara']
+ABSTRACT:
+Crustacean zooplankton, often dominated by copepods and euphausiids, are the major phytoplankton grazers in coastal upwelling systems.It has been argued that zooplankton grazing is a sizedependent process, such that models incorporating the size structure of zooplankton are appropriate for describing herbivore C-transfer.Here, based on the size-spectrum theory and on gut-fluorescence experiments, conducted with numerically dominant copepods from two upwelling sites off the Chilean coast, we show that C-specific ingestion rates of copepods are size-dependent.We further show that the size structure of the copepod community, synthesized by the slope of the normalized size spectrum, determines the impact of grazing on phytoplankton.C-specific ingestion rates, depending on species size, were in the range of 0.14-353.97(ng C µg C -1 h -1 ).A modelled normalized biomass-spectra of a copepod community in the size range of 0.5 to 74.0 µg C showed that C-specific grazing impact can increase by a factor of 4 when small-sized species (0.1-10 µg C ind -1 ), such as Paracalanus cf.indicus, Acartia tonsa, Oncaea spp.and Corycaeus spp., dominate the community in terms of biomass.By contrast, when larger-sized copepods dominate (10-100 µg C ind -1 ), such as Calanus chilensis, Calanoides patagoniensis and Rhyncalanus nasutus, total zooplankton biomass may increase, but with a sharp decrease in the efficiency of C transfer via herbivores.Our findings indicate that processes affecting the size structure of zooplankton communities can substantially impact the phytoplankton C flux through the pelagic food web, thus controlling production of higher trophic levels.
+
+SOURCE: Latin american journal of aquatic research
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Acartia tonsa', 'Copepod', 'Zooplankton', 'Phytoplankton', 'Upwelling', 'Biomass (ecology)', 'Calanus', 'Oceanography', 'Grazing', 'Community structure', 'Ecology', 'Biology', 'Clearance rate', 'Plankton', 'Crustacean', 'Environmental science', 'Nutrient', 'Geology', 'Endocrinology']

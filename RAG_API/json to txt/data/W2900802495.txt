@@ -1,0 +1,12 @@
+ID: W2900802495
+TITLE: Concentrations and Water Mass Transport of Legacy POPs in the Arctic Ocean
+AUTHOR: ['Yuxin Ma', 'Dave Adelman', 'Eduard Bauerfeind', 'Ana Cabrerizo', 'Carrie A. McDonough', 'Derek C. G. Muir', 'Thomas Soltwedel', 'Caoxin Sun', 'Charlotte C. Wagner', 'Elsie M. Sunderland', 'Rainer Lohmann']
+ABSTRACT:
+Abstract The Arctic Ocean is known to be contaminated by various persistent organic pollutants (POPs). The Fram Strait, the only deepwater passage to the Arctic Ocean (from the Atlantic Ocean), represents an unquantified gateway for POPs fluxes into and out of the Arctic. Polyethylene passive samplers were deployed in vertical profiles in the Fram Strait and in air and surface water in the Canadian Archipelago to determine the concentrations, profiles, and mass fluxes of dissolved polychlorinated biphenyls (PCBs) and organochlorine pesticides. In the Fram Strait, higher concentrations of ΣPCBs (1.3–3.6 pg/L) and dichlorodiphenyltrichloroethanes (ΣDDTs, 5.2–9.1 pg/L) were observed in the deepwater masses (below 1,000 m), similar to nutrient‐like vertical profiles. There was net southward transport of hexachlorobenzene and hexachlorocyclohexanes (ΣHCHs) of 0.70 and 14 Mg/year but a net northward transport of ΣPCBs at 0.16 Mg/year through the Fram Strait.
+
+SOURCE: Geophysical research letters
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1029/2018gl078759
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Hexachlorobenzene', 'Arctic', 'Environmental science', 'Oceanography', 'Pollutant', 'Archipelago', 'The arctic', 'Environmental chemistry', 'Geology', 'Chemistry', 'Organic chemistry']

@@ -1,0 +1,12 @@
+ID: W2093113796
+TITLE: Coastal protection from tsunamis and cyclones provided by mangrove wetlands – a review
+AUTHOR: ['Darryl E. Marois', 'William J. Mitsch']
+ABSTRACT:
+Coastal human settlements are becoming increasingly vulnerable to natural disasters such as tsunamis and cyclones. Recent events, including the Indian Ocean Tsunami in 2004 and Typhoon Haiyan in 2013, have brought the issue of coastal protection to the forefront in many countries across the globe. We conducted a review of recent research regarding the extent of coastal protection provided by mangroves that includes observational studies, numerical modeling, and laboratory experiments. We described our findings in a unique outline based on the methodology and event type and concluded that observational studies have not provided conclusive results on the extent of coastal protection provided by mangroves from extreme natural disasters. However, results from several recent numerical and physical models support the mitigating capabilities of mangroves for cyclone storm surges and small tsunamis. Studies on the economic valuation of mangroves have estimated coastal protection to be a major portion of their total value. Further research utilizing robust datasets for multivariate statistical analyses and validation of numerical models is still needed to provide a better assessment of the feasibility of incorporating mangroves into coastal protection plans.
+
+SOURCE: The International journal of biodiversity science, ecosystem services & management/International journal of biodiversity science, ecosystem services & management
+PDF URL: None
+CITED BY COUNT: 144
+PUBLICATION YEAR: 2015
+TYPE: review
+CONCEPTS: ['Mangrove', 'Storm surge', 'Tropical cyclone', 'Natural disaster', 'Environmental science', 'Coastal engineering', 'Environmental resource management', 'Storm', 'Geography', 'Natural hazard', 'Wetland', 'Typhoon', 'Coastal hazards', 'Human settlement', 'Climatology', 'Oceanography', 'Meteorology', 'Fishery', 'Climate change', 'Ecology', 'Geology', 'Sea level rise', 'Biology', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W2792634037
+TITLE: Marine heatwaves off eastern Tasmania: Trends, interannual variability, and predictability
+AUTHOR: ['Eric C. J. Oliver', 'Véronique Lago', 'Alistair J. Hobday', 'Neil J. Holbrook', 'Scott D. Ling', 'CN Mundy']
+ABSTRACT:
+Surface waters off eastern Tasmania are a global warming hotspot. Here, mean temperatures have been rising over several decades at nearly four times the global average rate, with concomitant changes in extreme temperatures – marine heatwaves. These changes have recently caused the marine biodiversity, fisheries and aquaculture industries off Tasmania’s east coast to come under stress. In this study we quantify the long-term trends, variability and predictability of marine heatwaves off eastern Tasmania. We use a high-resolution ocean model for Tasmania’s eastern continental shelf. The ocean state over the 1993–2015 period is hindcast, providing daily estimates of the three-dimensional temperature and circulation fields. Marine heatwaves are identified at the surface and subsurface from ocean temperature time series using a consistent definition. Trends in marine heatwave frequency are positive nearly everywhere and annual marine heatwave days and penetration depths indicate significant positive changes, particularly off southeastern Tasmania. A decomposition into modes of variability indicates that the East Australian Current is the dominant driver of marine heatwaves across the domain. Self-organising maps are used to identify 12 marine heatwave types, each with its own regionality, seasonality, and associated large-scale oceanic and atmospheric circulation patterns. The implications of this work for marine ecosystems and their management were revealed through review of past impacts and stakeholder discussions regarding use of these data.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Hindcast', 'Oceanography', 'Predictability', 'Marine ecosystem', 'Climatology', 'Environmental science', 'Climate change', 'Sea surface temperature', 'Effects of global warming on oceans', 'Ocean current', 'Geography', 'Ecosystem', 'Global warming', 'Geology', 'Ecology', 'Physics', 'Quantum mechanics', 'Biology']

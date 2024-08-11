@@ -1,0 +1,12 @@
+ID: W2904785470
+TITLE: Decoding the ocean's microbiological secrets for marine enzyme biodiscovery
+AUTHOR: ['Manuel Ferrer', 'Celia Méndez‐García', 'Rafael Bargiela', 'Jennifer Chow', 'Sandra Alonso', 'Antonio García‐Moyano', 'Gro Elin Kjæreng Bjerga', 'Ida Helene Steen', 'Tatjana M.E. Schwabe', 'Charlotte Blom', 'Jan Kjølhede Vester', 'Andrea Weckbecker', 'Patrick Shahgaldian', 'Carla C. C. R. de Carvalho', 'Rolandas Meškys', 'Giulio Zanaroli', 'Frank Oliver Glöckner', 'Antonio Fernández-Guerra', 'Siva Thambisetty', 'Fernando de la Calle', 'Olga V. Golyshina', 'Michail M. Yakimov', 'Karl‐Erich Jaeger', 'Alexander F. Yakunin', 'Wolfgang R. Streit', 'Oonagh McMeel', 'Jan-Bart Calewaert', 'Nathalie Tonné', 'Peter N. Golyshin']
+ABSTRACT:
+A global census of marine microbial life has been underway over the past several decades. During this period, there have been scientific breakthroughs in estimating microbial diversity and understanding microbial functioning and ecology. It is estimated that the ocean, covering 71% of the earth's surface with its estimated volume of about 2 × 1018 m3 and an average depth of 3800 m, hosts the largest population of microbes on Earth. More than 2 million eukaryotic and prokaryotic species are thought to thrive both in the ocean and on its surface. Prokaryotic cell abundances can reach densities of up to 1012 cells per millilitre, exceeding eukaryotic densities of around 106 cells per millilitre of seawater. Besides their large numbers and abundance, marine microbial assemblages and their organic catalysts (enzymes) have a largely underestimated value for their use in the development of industrial products and processes. In this perspective article, we identified critical gaps in knowledge and technology to fast-track this development. We provided a general overview of the presumptive microbial assemblages in oceans, and an estimation of what is known and the enzymes that have been currently retrieved. We also discussed recent advances made in this area by the collaborative European Horizon 2020 project 'INMARE'.
+
+SOURCE: FEMS microbiology letters
+PDF URL: https://academic.oup.com/femsle/article-pdf/366/1/fny285/27434994/fny285.pdf
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Abundance (ecology)', 'Seawater', 'Ecology', 'Microbial population biology', 'Population', 'Biology', 'Marine bacteriophage', 'Marine life', 'Microbial ecology', 'Oceanography', 'Biodiversity', 'Environmental science', 'Bacteria', 'Geology', 'Paleontology', 'Demography', 'Sociology']

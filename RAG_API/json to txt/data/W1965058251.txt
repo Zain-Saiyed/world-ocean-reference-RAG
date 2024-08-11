@@ -1,0 +1,12 @@
+ID: W1965058251
+TITLE: An early footprint of fisheries: Changes for a demersal fish assemblage in the German Bight from 1902–1932 to 1991–2009
+AUTHOR: ['Heino O. Fock', 'Matthias Kloppmann', 'Wolfgang Probst']
+ABSTRACT:
+Groundfish survey data from the German Bight from 1902–08, 1919–23, and 1930–1932 and ICES International Bottom Trawl Survey (IBTS) quarter 3 data from 1991 to 2009 were analysed with respect to species frequencies, maximum length, trends in catch-per-unit-effort, species richness parameters (SNR) and presence of large fish (Φ40), the latter defined as average presence of species per haul with specimens larger than 40 cm given. Four different periods are distinguished: (a) before 1914 with medium commercial CPUE and low landings, Φ40 ≈ 2, high abundance in elasmobranchs and SNR conditions indicating highly diverse assemblages, (b) conditions immediately after 1918 with higher commercial CPUE, recovering landings, Φ40 at > 4 in 1919, and SNR conditions indicating highly diverse assemblages, (c) conditions from 1920 to the early 1930's with decreasing commercial CPUE, increased landings, decreasing Φ40, SNR conditions similar to later years indicating less diverse assemblages, and a decrease in elasmobranchs. In the IBTS series (d), Φ40 remains low indicating an increased rarity of large specimens, and SNR characteristics are similar to the third period. Dab, whiting and grey gurnard have increased considerably in the IBTS series as compared to the historic data. Φ40 is suggested an alternative indicator reflecting community functional diversity when weight based indicators cannot be applied.
+
+SOURCE: Journal of sea research
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Catch per unit effort', 'Groundfish', 'Fishery', 'Demersal zone', 'Bycatch', 'Fishing', 'Species richness', 'Whiting', 'Geography', 'Demersal fish', 'Oceanography', 'Bay', 'Hake', 'Environmental science', 'Pelagic zone', 'Fish <Actinopterygii>', 'Biology', 'Fisheries management', 'Ecology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2767631512
+TITLE: What is blue growth? The semantics of “Sustainable Development” of marine environments
+AUTHOR: ['Anne Maria Eikeset', 'Anna B. Mazzarella', 'Brynhildur Davíðsdóttir', 'Dane H. Klinger', 'Simon A. Levin', 'Elena Rovenskaya', 'Nils Chr. Stenseth']
+ABSTRACT:
+This Special Issue is intended to help readers gain a better understanding of the various definitions of blue growth, as well as to give a heightened awareness of the constraints of, and possibilities within, the important concept. Increased communication among those working together on these topics is of utmost importance, especially considering the diversity of the backgrounds of those who have a role to play in blue growth and sustainable development. Scientists, policy makers, business people, and the larger society need to become more precise and transparent in their language and meanings in order to effectively work together, and hopefully one day succeed in our joint goal to secure blue growth.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 150
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Sustainable development', 'Diversity (politics)', 'Order (exchange)', 'Sustainable growth rate', 'Work (physics)', 'Semantics (computer science)', 'Joint (building)', 'Business', 'Computer science', 'Political science', 'Architectural engineering', 'Law', 'Engineering', 'Mechanical engineering', 'Finance', 'Programming language']

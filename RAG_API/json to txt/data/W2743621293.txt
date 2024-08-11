@@ -1,0 +1,12 @@
+ID: W2743621293
+TITLE: Industrial Melanism in the Seasnake Emydocephalus annulatus
+AUTHOR: ['Claire Goiran', 'Paco Bustamante', 'Richard Shine']
+ABSTRACT:
+Although classically associated with urban environments in invertebrates, melanism in terrestrial snakes is more often linked to occupancy of cool climates [1-3]. Thermal advantages to melanism do not apply in aquatic snakes [4], but although turtle-headed seasnakes (Emydocephalus annulatus) are banded or blotched across a wide geographic range [5], most individuals are melanic in polluted inshore bays of the Pacific island of New Caledonia [4]. Why has melanism evolved in these urban sites? Because trace elements bind to melanin, darker feathers enhance a bird's ability to shed pollutants [6]. Reptiles in polluted habitats also accumulate trace elements, which are expelled when the skin is sloughed [7-11]. Might melanism enable snakes to rid themselves of harmful pollutants? We measured trace elements in sloughed skins of seasnakes from urban-industrial versus other areas and in dark versus light skin. For the latter comparison, we used data from laticaudine seasnakes (sea kraits Laticauda spp.), in which each individual is dark and light banded, facilitating comparisons between dark and light skin. As predicted, concentrations of trace elements were higher in snakes from urban-industrial areas and higher in darker than paler skin (even within the same slough). The rate of excretion of trace elements is further enhanced by higher frequencies of sloughing in melanic than banded individuals, even within the same population, because of higher rates of algal settlement on darker skin. Thus, melanism of seasnakes in polluted sites may facilitate excretion of trace elements via sloughing. VIDEO ABSTRACT.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982217308102/pdf
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Melanism', 'Biology', 'Invertebrate', 'Ecology', 'Tetrapod (structure)', 'Feather', 'Zoology', 'Range (aeronautics)', 'Habitat', 'Paleontology', 'Materials science', 'Composite material']

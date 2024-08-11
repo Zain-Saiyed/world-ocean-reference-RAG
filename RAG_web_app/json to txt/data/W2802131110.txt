@@ -1,0 +1,12 @@
+ID: W2802131110
+TITLE: Key Questions and Recent Research Advances on Harmful Algal Blooms in Relation to Nutrients and Eutrophication
+AUTHOR: ['Patricia M. Glibert', 'Adnan Al-Azri', 'J. Icarus Allen', 'Alexander F. Bouwman', 'Arthur H.W. Beusen', 'Michele A. Burford', 'Paul J. Harrison', 'Meng Zhou']
+ABSTRACT:
+The Core Research Project on HABs in Eutrophic Systems was one of the projects implemented under the Global Ecology and Oceanography of Harmful Algal Blooms (GEOHAB) program. Building on several Open Science Meetings and associated international efforts, this project focused on a number of key questions that related to the types of harmful algal species found in eutrophic systems, the drivers of nutrient changes and their effects, as well as interactions with community composition of all members of the food web. Substantial progress was made on all of the identified key questions and that progress is reviewed in this chapter. In all, the evidence is unequivocal that harmful algae can be directly and/or indirectly stimulated by nutrient over-enrichment and that chronic, subtle effects, such as changes in nutrient proportion or form, can be equally important or even more important than the obvious, acute effects. Furthermore, nutrient enrichment interacts with other major drivers, such as hydrology, food web interactions, and climate change, in both direct and indirect ways. Many questions remain, however. Much needs to be done in parameterizing rates, characterizing traits, and how they are both externally driven and internally dynamically regulated. Many species are understudied. Work needs to advance in understanding the physiological responses to excess nutrient availability and relationships with toxicity, among other physiological processes. A new emphasis on improved model formulations is needed, linking land-use models with regional ocean models and that incorporate dynamic physiological behavior. Given the pace at which nutrient loads continue to pollute the global landscape and the global expansion of HABs, continued international collaborative efforts in understanding changing nutrients and their relationships with HABs are not only necessary, but urgently needed.
+
+SOURCE: Ecological studies
+PDF URL: None
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Eutrophication', 'Nutrient', 'Ecology', 'Algal bloom', 'Environmental science', 'Food web', 'Climate change', 'Global change', 'Algae', 'Phytoplankton', 'Biology', 'Trophic level']

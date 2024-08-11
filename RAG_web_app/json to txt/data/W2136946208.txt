@@ -1,0 +1,12 @@
+ID: W2136946208
+TITLE: The sciences of science communication
+AUTHOR: ['Baruch Fischhoff']
+ABSTRACT:
+The May 2012 Sackler Colloquium on "The Science of Science Communication" brought together scientists with research to communicate and scientists whose research could facilitate that communication. The latter include decision scientists who can identify the scientific results that an audience needs to know, from among all of the scientific results that it would be nice to know; behavioral scientists who can design ways to convey those results and then evaluate the success of those attempts; and social scientists who can create the channels needed for trustworthy communications. This overview offers an introduction to these communication sciences and their roles in science-based communication programs.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/110/Supplement_3/14033.full.pdf
+CITED BY COUNT: 318
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Science communication', 'Scientific communication', 'Trustworthiness', 'Behavioural sciences', 'Engineering ethics', 'Communication sciences', 'Citizen science', 'Computer science', 'Data science', 'Public relations', 'Sociology', 'Psychology', 'Science education', 'Internet privacy', 'Political science', 'Biology', 'Social science', 'Engineering', 'Library science', 'Mathematics education', 'Botany']

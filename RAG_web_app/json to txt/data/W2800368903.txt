@@ -1,0 +1,12 @@
+ID: W2800368903
+TITLE: Survey on Communication and Networks for Autonomous Marine Systems
+AUTHOR: ['Artur Zolich', 'David Palma', 'Kimmo Kansanen', 'Kay Fjørtoft', 'João Borges de Sousa', 'Karl Henrik Johansson', 'Yuming Jiang', 'Hefeng Dong', 'Tor Arne Johansen']
+ABSTRACT:
+The rapid development of autonomous systems and Information and Communications Technologies (ICT) create new opportunities for maritime activities. Existing autonomous systems are becoming more powerful and utilise the capabilities of several types of devices such as Autonomous Underwater Vehicles (AUVs), Unmanned Surface Vehicles (USVs) – sometimes referred as Autonomous Surface Vehicles (ASVs) –, Unmanned Aerial Vehicles (UAVs), moored and drifting systems and, recently emerging, autonomous vessels. Their importance in providing new services in maritime environments is undeniable and the opportunity for coordinated and interconnected operations is clear. However, continuous wide integration of various technologies in maritime environments still faces many challenges. Operations may take place in remote locations, so that dependence on third-party infrastructures such as satellite communication or terrestrial communication systems must be expected. The reliability, performance, availability, and cost of such systems are important issues that need to be tackled. This work reviews the major advancements on state-of-the-art autonomous maritime vehicles and systems, which are used in several different scenarios, from scientific research to transportation. Moreover, the paper highlights how available technologies can be composed in order to efficiently and effectively operate in maritime environments. Highlights of the trade-off between autonomy and communication requirements are provided and followed by an overview of promising communication and networking technologies that could encourage the integration of autonomous systems in maritime scenarios.
+
+SOURCE: Journal of intelligent & robotic systems
+PDF URL: https://link.springer.com/content/pdf/10.1007/s10846-018-0833-5.pdf
+CITED BY COUNT: 85
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Communications system', 'Systems engineering', 'Reliability (semiconductor)', 'Work (physics)', 'Computer science', 'Information and Communications Technology', 'Engineering', 'Telecommunications', 'World Wide Web', 'Mechanical engineering', 'Power (physics)', 'Physics', 'Quantum mechanics']

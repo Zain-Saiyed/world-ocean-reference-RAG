@@ -1,0 +1,12 @@
+ID: W2084953314
+TITLE: Expanding Oxygen-Minimum Zones in the Tropical Oceans
+AUTHOR: ['Lothar Stramma', 'Gregory C. Johnson', 'Janet Sprintall', 'Volker Mohrholz']
+ABSTRACT:
+Oxygen-poor waters occupy large volumes of the intermediate-depth eastern tropical oceans. Oxygen-poor conditions have far-reaching impacts on ecosystems because important mobile macroorganisms avoid or cannot survive in hypoxic zones. Climate models predict declines in oceanic dissolved oxygen produced by global warming. We constructed 50-year time series of dissolved-oxygen concentration for select tropical oceanic regions by augmenting a historical database with recent measurements. These time series reveal vertical expansion of the intermediate-depth low-oxygen zones in the eastern tropical Atlantic and the equatorial Pacific during the past 50 years. The oxygen decrease in the 300- to 700-m layer is 0.09 to 0.34 micromoles per kilogram per year. Reduced oxygen levels may have dramatic consequences for ecosystems and coastal economies.
+
+SOURCE: Science
+PDF URL: https://www.science.org/doi/pdf/10.1126/science.1153847?download=true
+CITED BY COUNT: 1238
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Oxygen', 'Oceanography', 'Environmental science', 'Oxygen minimum zone', 'Tropics', 'Climate change', 'Tropical climate', 'Global warming', 'Marine ecosystem', 'Ecology', 'Geology', 'Upwelling', 'Chemistry', 'Biology', 'Organic chemistry']

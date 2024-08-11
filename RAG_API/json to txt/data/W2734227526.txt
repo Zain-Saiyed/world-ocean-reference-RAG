@@ -1,0 +1,12 @@
+ID: W2734227526
+TITLE: Analysis of shoreline changes and cliff retreat to support Marine Spatial Planning in Shabla Municipality, Northeast Bulgaria
+AUTHOR: ['Hristo Stanchev', 'Margarita Stancheva', 'Roger C. Young', 'Atanas Palazov']
+ABSTRACT:
+Measuring historical shoreline change and cliff retreat is an essential aspect of understanding the long-term geomorphic evolution of any coastal system. These data are also critical for predicting future changes and incorporating that data into proper coastal management. In recent years, Marine Spatial Planning (MSP) has increasingly been recognized as an important tool in the sustainable management of marine space across Europe and worldwide, including also issues of coastal zone management and land-sea interactions (Directive 2014/89/EU for MSP). This paper deals with investigation of the shoreline changes and cliff retreat along the 34 km section of the Black Sea coast at Shabla Municipality (Northeast Bulgaria). The study area has a low density of development and comprises large sand beaches, dunes and rapidly retreating loess cliffs. The present research was formulated under the European Union (EU) Directive for MSP in the Black Sea Basin (MARSPLAN-BS) Project. The goal was to provide reliable data and useful information in support of the development of a pilot marine spatial plan for Shabla Municipality. The study was focused on the analysis of shoreline movement (at sand beaches – erosion/accretion) and cliff retreat (at rocky coasts) utilizing a Geographic Information System (GIS). Primary data sources include topographic maps in scale 1:5,000, tachometry survey and modern Very High Resolution (VHR) orthophoto images. Change rates were determined using the Digital Shoreline Analysis System (DSAS), an ArcGIS extension for calculating shoreline change (Version 4.3), and rate-of-change statistical method. Management of coastal erosion, hard engineering methods and lack of required setbacks were discussed. Results for rates of shoreline change and cliff retreat were verified with preliminary field measurement studies and cross-checked with existing hydrodynamics, geology and geomorphology of the coast of Shabla Municipality.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Shore', 'Cliff', 'Coastal erosion', 'Coastal management', 'Physical geography', 'Geography', 'Environmental resource management', 'Oceanography', 'Geology', 'Environmental science', 'Archaeology']

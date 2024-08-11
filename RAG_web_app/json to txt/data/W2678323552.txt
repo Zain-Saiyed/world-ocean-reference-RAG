@@ -1,0 +1,12 @@
+ID: W2678323552
+TITLE: Severe impacts of brown tides caused by Sargassum spp. on near-shore Caribbean seagrass communities
+AUTHOR: ['Brigitta I. van Tussenbroek', 'Héctor A. Hernández Arana', 'Rosa E. Rodríguez-Martínez', 'Julio Espinoza-Ávalos', 'Hazel M. Canizales-Flores', 'Carlos E. González-Godoy', 'M. Guadalupe Barba-Santos', 'Alejandro Vega‐Zepeda', 'Ligia Collado‐Vides']
+ABSTRACT:
+From mid-2014 until the end of 2015, the Mexican Caribbean coast experienced a massive influx of drifting Sargassum spp. that accumulated on the shores, resulting in build-up of decaying beach-cast material and near-shore murky brown waters (Sargassum-brown-tides, Sbt). The effects of Sbt on four near-shore waters included reduction in light, oxygen (hypoxia or anoxia) and pH. The monthly influx of nitrogen, and phosphorus by drifting Sargassum spp. was estimated at 6150 and 61 kg km− 1 respectively, resulting in eutrophication. Near-shore seagrass meadows dominated by Thalassia testudinum were replaced by a community dominated by calcareous rhizophytic algae and drifting algae and/or epiphytes, resulting in 61.6–99.5% loss of below-ground biomass. Near-shore corals suffered total or partial mortality. Recovery of affected seagrass meadows may take years or even decades, or changes could be permanent if massive influxes of Sargassum spp. recur.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 264
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sargassum', 'Seagrass', 'Thalassia testudinum', 'Epiphyte', 'Algae', 'Eutrophication', 'Oceanography', 'Fucales', 'Rocky shore', 'Shore', 'Bay', 'Environmental science', 'Ecology', 'Fishery', 'Biology', 'Ecosystem', 'Geology', 'Nutrient']

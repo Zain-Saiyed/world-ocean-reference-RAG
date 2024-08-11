@@ -1,0 +1,12 @@
+ID: W2129180156
+TITLE: Phaeocystis blooms in the global ocean and their controlling mechanisms: a review
+AUTHOR: ['Véronique Schoemann', 'Sylvie Becquevort', 'Jacqueline Stefels', 'Véronique Rousseau', 'Christiane Lancelot']
+ABSTRACT:
+Phaeocystis is a genus of marine phytoplankton with a world-wide distribution. It has a polymorphic life cycle alternating free-living cells and colonies but develops massive blooms under the colony form in nutrient (major)-enriched areas (mostly nitrates) of the global ocean. Among the 6 species, only 3 (P. pouchetii, P. antarctica, P. globosa) have been reported as blooming species. However, information is lacking on the present-day contribution of Phaeocystis-dominated ecosystems to regional and global marine production as well as to global C and S cycles and on how these might change in the future. As a first step in this direction, this review aims to synthesise knowledge on the physiology, growth and fate of Phaeocystis in the global ocean, and to select relevant parameters for implementing mechanistic models describing Phaeocystis blooms in the global ocean. Missing information concerning the regulation of the most important bottom-up and top-down processes is also identified. The synthesis of published data suggests that it is possible to derive a single unique parameterisation to describe some bottom-up processes for global modelling without consideration of species and location. Most important among these are the temperature-dependence of the maximum growth rates that characterises all three blooming species, and their high adaptation to environmental light. Other processes seem to be more species-(e.g. colony matrix synthesis) or site-related (top-down controls, e.g. grazing parameters). This review also points out that some crucial processes are still poorly described and need further research. For instance, increased knowledge of iron uptake kinetics and iron quotas is of prime importance given the very large recurrent blooms of P. antarctica colonies reported in the HNLC waters of the Southern Ocean.
+
+SOURCE: Journal of sea research
+PDF URL: None
+CITED BY COUNT: 536
+PUBLICATION YEAR: 2005
+TYPE: review
+CONCEPTS: ['Phytoplankton', 'Marine ecosystem', 'Oceanography', 'Ecosystem', 'Bloom', 'Adaptation (eye)', 'Global change', 'Algal bloom', 'Ecology', 'Biology', 'Environmental science', 'Climate change', 'Nutrient', 'Geology', 'Neuroscience']

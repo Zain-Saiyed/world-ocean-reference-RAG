@@ -1,0 +1,12 @@
+ID: W2148106824
+TITLE: Bathymetric zonation of deep-sea macrofauna in relation to export of surface phytoplankton production
+AUTHOR: ['C. Wei', 'GT Rowe', 'George D. Hubbard', 'AH Scheltema', 'George Wilson', 'Iustinian Petrescu', 'Foster Jm', 'Mary K. Wicksten', 'Ming Chen', 'Russell J. Davenport', 'Yousria Soliman', 'Yuan Wang']
+ABSTRACT:
+Macrobenthos of the deep, northern Gulf of Mexico (GoM) was sampled with box cores (0.2 m 2 ) along multiple cross-depth transects extending from depths of 200 m to the maximum depth of the basin at 3700 m.Bathymetric (depth) zonation of the macrofaunal community was documented for 6 major taxa (a total of 957 species) on the basis of shared species among geographic locations; 4 major depth zones were identified, with the 2 intermediatedepth zones being divided into east and west subzones.Change of faunal composition with depth reflects an underlying continuum of species replacements without distinct boundaries.The zonal patterns correlated with depth and detrital particulate organic carbon (POC) export flux estimated from remotely-sensed phytoplankton pigment concentrations in the surface water.The Mississippi River and its associated mesoscale eddies, submarine canyon, and deep sediment fan appear to influence the horizontal zonation pattern through export of organic carbon from the ocean surface and the adjacent continental margin.On the local scale, near-bottom currents may shape the zonation pattern by altering sediment grain size, food availability, and larval dispersal.This study suggests a macroecological relationship between depth, export POC flux, and zonation; parsimonious zonal thresholds need to be tested independently for other continental margin ecosystems.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/feature/m399p001.pdf
+CITED BY COUNT: 115
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Oceanography', 'Phytoplankton', 'Bathymetry', 'Geography', 'Geology', 'Archaeology', 'Ecology', 'Biology', 'Nutrient']

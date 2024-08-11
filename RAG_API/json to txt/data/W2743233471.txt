@@ -1,0 +1,12 @@
+ID: W2743233471
+TITLE: Social Wellbeing and the Values of Small-scale Fisheries
+AUTHOR: ['Derek Johnson', 'Tim Acott', 'Natasha Stacey', 'Julie Urquhart']
+ABSTRACT:
+Questions of value have long been a central, if often unacknowledged, concern in maritime studies and in research on fisheries. Social scientists have
+
+SOURCE: MARE publication series
+PDF URL: None
+CITED BY COUNT: 69
+PUBLICATION YEAR: 2018
+TYPE: book
+CONCEPTS: ['Fishery', 'Scale (ratio)', 'Value (mathematics)', 'Fisheries science', 'Marine fisheries', 'Fisheries Research', 'Geography', 'Sociology', 'Environmental resource management', 'Fisheries management', 'Fish <Actinopterygii>', 'Environmental science', 'Fishing', 'Biology', 'Statistics', 'Mathematics', 'Cartography']

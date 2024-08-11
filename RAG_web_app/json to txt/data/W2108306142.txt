@@ -1,0 +1,12 @@
+ID: W2108306142
+TITLE: Monitoring pelagic ecosystems using plankton indicators
+AUTHOR: ['Grégory Beaugrand']
+ABSTRACT:
+Abstract Planktonic organisms are an important food resource of pelagic ecosystems, but they also serve as an integrator of hydroclimatic forcing. Four types of recently developed plankton indicator, based on the Continuous Plankton Recorder survey, are summarized here: indicators based on individual taxa; indicators based on functional attributes of the ecosystem (diversity); species assemblage indicators; and indicators of larval fish survival. All provide information on the state of a pelagic ecosystem, but have different limitations. Therefore, their combined application provides the most accurate diagnosis of ecosystem state. In most of the examples described, statistical analyses help to identify major spatial and temporal patterns, and may allow future ecosystem changes to be anticipated.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/62/3/333/29150675/62-3-333.pdf
+CITED BY COUNT: 130
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Plankton', 'Ecosystem', 'Zooplankton', 'Environmental science', 'Ecology', 'Marine ecosystem', 'Environmental resource management', 'Biology']

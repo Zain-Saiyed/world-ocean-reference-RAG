@@ -1,0 +1,12 @@
+ID: W2735593998
+TITLE: Homestead pond polyculture can improve access to nutritious small fish
+AUTHOR: ['Sarah Castine', 'Jessica R. Bogard', 'Benoy Kumar Barman', 'Muhammad Rezaul Karim', 'Md. Mahabub Hossain', 'Mrityunjoy Kunda', 'A.B.M. Mahfuzul Haque', 'Michael Phillips', 'Shakuntala H. Thilsted']
+ABSTRACT:
+Abstract In Bangladesh, homestead pond aquaculture currently comprises a polyculture of large fish species but provides an ideal environment to integrate a range of small fish species. Small fish consumed whole, with bones, head and eyes, are rich in micronutrients and are an integral part of diets, particularly for the poor. Results from three large projects demonstrate that the small fish, mola ( Amblypharyngodon mola ) contributes significantly to the micronutrients produced from all fish, in homestead ponds, in one production cycle. Mola contributed 98%, 56% and 35% of the total vitamin A, iron and zinc produced, respectively, despite comprising only 15% of the total fish production by weight. If consumed within the household, mola could contribute half of the vitamin A and a quarter of the iron intake recommended for a family of four, annually. Homestead ponds are uniquely accessible to women who prepare the household food. Further dissemination of the carp-small fish technology provides opportunities to target women and men together for training on fish production and consumption, nutrition and gender equity. Women only training is also recommended to enable them to engage fully, without feeling dominated by men. Partnering with the fisheries and health sectors will encourage sustainable uptake of this promising technology. Clearly, dissemination could have significant health benefits; however, improved monitoring and evaluation, particularly of dietary diversity and diet quality are essential. Research priorities should also include the production techniques of other small indigenous fish species (SIS), besides mola, and the power dynamics between women and men in operating homestead ponds.
+
+SOURCE: Food security
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs12571-017-0699-6.pdf
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Aquaculture', 'Polyculture', 'Fishery', 'Aquaponics', 'Fish farming', 'Micronutrient', 'Socioeconomics', 'Biology', 'Fish <Actinopterygii>', 'Sociology', 'Chemistry', 'Organic chemistry']

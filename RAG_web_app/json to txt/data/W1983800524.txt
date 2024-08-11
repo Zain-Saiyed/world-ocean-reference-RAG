@@ -1,0 +1,12 @@
+ID: W1983800524
+TITLE: Occurrence of demersal fishes in relation to near‐bottom oxygen levels within the California Current large marine ecosystem
+AUTHOR: ['Aimee A. Keller', 'Lorenzo Ciannelli', 'W. Waldo Wakefield', 'Victor Simon', 'John A. Barth', 'Stephen D. Pierce']
+ABSTRACT:
+Abstract Various ocean‐climate models driven by increased greenhouse gases and higher temperatures predict a decline in oceanic dissolved oxygen ( DO ) as a result of greater stratification, reduced ventilation below the thermocline, and decreased solubility at higher temperatures. Since spreading of low oxygen waters is underway and predicted to increase, understanding impacts on higher trophic levels is essential. Within the California Current System, shoaling of the oxygen minimum zone ( OMZ ) is expected to produce complex changes. Onshore movement of the OMZ could lead to habitat compression for species with higher oxygen requirements while allowing expansion of species tolerant of low bottom DO . As part of annual groundfish surveys, we sampled catch across a range of conditions from the upper to the lower limit of the OMZ and shoreward across the continental shelf of the US west coast. DO ranged from 0.02 to 4.25 mL L −1 with 642 stations (of 1020 sampled) experiencing hypoxic conditions in 2008–2010. Catch and species richness exhibited significant and positive relationships with near‐bottom oxygen concentration. The probability of occurrence was estimated for four species (spotted ratfish, petrale sole, greenstriped rockfish and Dover sole) using a binomial Generalized Additive Model. The models for each species included terms for position, day of the year, salinity, near‐bottom temperature and the interaction term between depth and near‐bottom DO . Spotted ratfish and petrale sole were sensitive to changes in near‐bottom oxygen, while greenstriped rockfish and Dover sole show no changes in probability of occurrence in relation to changes in oxygen concentration.
+
+SOURCE: Fisheries oceanography
+PDF URL: None
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Demersal zone', 'Oceanography', 'Bottom water', 'Groundfish', 'Oxygen minimum zone', 'Rockfish', 'Demersal fish', 'Thermocline', 'Environmental science', 'Salinity', 'Hypoxia (environmental)', 'Oxygen', 'Pelagic zone', 'Upwelling', 'Fishery', 'Biology', 'Geology', 'Fishing', 'Fisheries management', 'Chemistry', 'Fish <Actinopterygii>', 'Organic chemistry']

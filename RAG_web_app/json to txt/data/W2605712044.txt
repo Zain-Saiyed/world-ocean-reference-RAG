@@ -1,0 +1,12 @@
+ID: W2605712044
+TITLE: Biodiversity losses and conservation responses in the Anthropocene
+AUTHOR: ['Christopher N. Johnson', 'Andrew Balmford', 'Barry W. Brook', 'Jessie C. Buettel', 'Mauro Galetti', 'Guangchun Lei', 'Janet M. Wilmshurst']
+ABSTRACT:
+Biodiversity is essential to human well-being, but people have been reducing biodiversity throughout human history. Loss of species and degradation of ecosystems are likely to further accelerate in the coming years. Our understanding of this crisis is now clear, and world leaders have pledged to avert it. Nonetheless, global goals to reduce the rate of biodiversity loss have mostly not been achieved. However, many examples of conservation success show that losses can be halted and even reversed. Building on these lessons to turn the tide of biodiversity loss will require bold and innovative action to transform historical relationships between human populations and nature.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 629
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Anthropocene', 'Biodiversity', 'Biodiversity conservation', 'Ecosystem', 'Environmental resource management', 'Action (physics)', 'Global biodiversity', 'Geography', 'Natural resource economics', 'Environmental planning', 'Ecology', 'Environmental science', 'Biology', 'Economics', 'Physics', 'Quantum mechanics']

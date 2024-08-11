@@ -1,0 +1,12 @@
+ID: W1993216721
+TITLE: Spiny lobster, Jasus edwardsii, recovery in New Zealand marine reserves
+AUTHOR: ['Shane Kelly', 'Donald S. Scott', 'AB MacDiarmid', 'Russell C. Babcock']
+ABSTRACT:
+The abundance, size, biomass and reproductive output of spiny lobsters, Jasus edwardsii, from replicated sites nested within four marine reserves and similar non-reserve locations in north-eastern New Zealand were compared. No time–series data were available from three of the reserves so the ages of the reserves (3–21 years) were used to infer temporal patterns of lobster population recovery. Linear models indicated that the mean density of the total lobster population increased 3.9 and 9.5% in shallow (<10 m depth) and deep sites (>10 m depth), respectively, for each year in which the reserves were established, while the mean size of lobsters was estimated to increase by 1.14 mm per year of protection. As a consequence lobster biomass (kg/500 m−2) was conservatively estimated to increase by 5.4% per year of protection in shallow sites and 10.9% per year of protection in the deep sites and egg production (eggs/500 m−2) by 4.8 and 9.1% per year of protection for shallow and deep sites respectively.
+
+SOURCE: Biological conservation
+PDF URL: None
+CITED BY COUNT: 147
+PUBLICATION YEAR: 2000
+TYPE: article
+CONCEPTS: ['Spiny lobster', 'Marine reserve', 'Fishery', 'Abundance (ecology)', 'Population', 'Biomass (ecology)', 'Biology', 'Population density', 'Decapoda', 'Oceanography', 'Ecology', 'Crustacean', 'Geology', 'Fish <Actinopterygii>', 'Demography', 'Sociology']

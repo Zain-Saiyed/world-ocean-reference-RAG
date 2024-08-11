@@ -1,0 +1,12 @@
+ID: W2924251988
+TITLE: Towards climate resiliency in fisheries management
+AUTHOR: ['Kirstin K. Holsman', 'Elliott L. Hazen', 'Alan C. Haynie', 'Sophie Gourguet', 'Anne B. Hollowed', 'Steven J. Bograd', 'Jameal F. Samhouri', 'Kerim Aydin']
+ABSTRACT:
+It is increasingly evident that climate change is having significant impacts on marine ecosystems and dependent fisheries. Yet, translating climate science into management actions and policies is an ongoing challenge. In particular, four aspects have confounded implementation of climate-resilient management: (i) regional management tools may not be well-suited for managing the same systems under climate change, (ii) individual management policies and climate research studies are often implicitly focussed on spatio-temporal scales that are rarely aligned, (iii) management approaches seldom integrate across spatio-temporal scales and are, therefore, maladapted to unidirectional change and extreme events, and (iv) challenges to modelling socio-economic implications of climate change impede projections of cumulative costs to society, disguise adaptive limits, and ultimately impact climate risk and management trade-off assessments. We suggest that addressing environmental change favours adaptive and dynamic management approaches, while addressing shifting socio-economic and political conditions favours fixed long-term measures; considering both jointly requires a combination of dynamic-adaptive-fixed approaches. We outline a framework to integrate climate-responsive tools into a unified climate-resilient management approach using nested dynamic-adaptive-fixed management portfolios that improve management effectiveness and efficiency. This approach may help reduce future conflict between marine resource extractive and conservation goals through more explicit characterization of management trade-offs and identification of social and ecological tipping points.
+
+SOURCE: ICES journal of marine science
+PDF URL: None
+CITED BY COUNT: 85
+PUBLICATION YEAR: 2019
+TYPE: preprint
+CONCEPTS: ['Adaptive management', 'Climate change', 'Environmental resource management', 'Fisheries management', 'Adaptive capacity', 'Adaptive strategies', 'Temporal scales', 'Psychological resilience', 'Resource management (computing)', 'Management by objectives', 'Environmental planning', 'Business', 'Computer science', 'Ecology', 'Environmental science', 'Geography', 'Psychology', 'Computer network', 'Psychotherapist', 'Fishing', 'Archaeology', 'Marketing', 'Biology']

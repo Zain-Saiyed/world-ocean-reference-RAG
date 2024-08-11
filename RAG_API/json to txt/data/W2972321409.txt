@@ -1,0 +1,12 @@
+ID: W2972321409
+TITLE: Phyconomy: the extensive cultivation of seaweeds, their sustainability and economic value, with particular reference to important lessons to be learned and transferred from the practice of eucheumatoid farming
+AUTHOR: ['Anicia Q. Hurtado', 'Iain C. Neish', 'Alan T. Critchley']
+ABSTRACT:
+Kappaphycus and Eucheuma, known collectively as ‘eucheumatoids’, are two related genera of red seaweeds which currently lead the rankings for volume of global production of farmed macroalgae. Since 2009, the combined cultivated volume of these carrageenophytes overtook that of the brown seaweeds Laminaria (Saccharina) and Undaria for global production tonnages, according to statistics of the Food and Agriculture Organization of the United Nations (FAO). The Southeast Asian region, particularly Indonesia, the Philippines, Malaysia, Tanzania, and East Africa are the major producers of eucheumatoid biomass. Despite several success stories of red seaweed cultivation and the economic and socioeconomic value of their ecosystem services, there remain a number of salutary lessons to be learned from ‘agronomic’ practices applicable to their extensive cultivation. These case studies should be further developed, analysed, and adopted as best-practice recommendations for future socioeconomic prosperity, as well as both economic and environmental sustainability. In this review, we propose the use of the term ‘phyconomy’ (i.e. large-scale production of marine macroalgae for economic and industrial purposes) as an alternative to the term agronomy (i.e. terrestrial plant production).
+
+SOURCE: Phycologia
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/00318884.2019.1625632?needAccess=true
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Laminaria', 'Sustainability', 'Agriculture', 'Prosperity', 'Biology', 'Biomass (ecology)', 'Agroforestry', 'Agricultural economics', 'Geography', 'Ecology', 'Algae', 'Economic growth', 'Economics']

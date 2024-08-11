@@ -1,0 +1,12 @@
+ID: W2107960291
+TITLE: The effectiveness of coral reefs for coastal hazard risk reduction and adaptation
+AUTHOR: ['Filippo Ferrario', 'Michael W. Beck', 'Curt D. Storlazzi', 'Fiorenza Micheli', 'Christine C. Shepard', 'Laura Airoldi']
+ABSTRACT:
+The world's coastal zones are experiencing rapid development and an increase in storms and flooding. These hazards put coastal communities at heightened risk, which may increase with habitat loss. Here we analyse globally the role and cost effectiveness of coral reefs in risk reduction. Meta-analyses reveal that coral reefs provide substantial protection against natural hazards by reducing wave energy by an average of 97%. Reef crests alone dissipate most of this energy (86%). There are 100 million or more people who may receive risk reduction benefits from reefs or bear hazard mitigation and adaptation costs if reefs are degraded. We show that coral reefs can provide comparable wave attenuation benefits to artificial defences such as breakwaters, and reef defences can be enhanced cost effectively. Reefs face growing threats yet there is opportunity to guide adaptation and hazard mitigation investments towards reef restoration to strengthen this first line of coastal defence.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms4794.pdf
+CITED BY COUNT: 623
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Resilience of coral reefs', 'Coral reef protection', 'Flooding (psychology)', 'Coral reef organizations', 'Fishery', 'Environmental science', 'Coastal hazards', 'Climate change', 'Ecology', 'Oceanography', 'Sea level rise', 'Geology', 'Biology', 'Psychology', 'Psychotherapist']

@@ -1,0 +1,12 @@
+ID: W2129782733
+TITLE: Cumulative human threats on fish biodiversity components in Tunisian waters
+AUTHOR: ['Frida Ben Rais Lasram', 'Tarek Hattab', 'Ghassen Halouani', 'M. S. Romdhane', 'François Le Loc’h', 'Camille Albouy']
+ABSTRACT:
+Human activities are increasingly impacting biodiversity. To improve conservation planning measures in an ecosystem-based management context, we need to explore how the effects of these activities interact with different biodiversity components. In this study, we used a semi-quantitative method to assess the cumulative impacts of human activities on three biodiversity components (species richness, phylogenetic diversity, and functional diversity) in Tunisia’s exclusive economic zone. For each of the nine activities considered, we developed an understanding of their effects from local studies and the expert opinion of stakeholders with country-specific experience. We mapped the cumulative effects and the three biodiversity components and then assessed the degree to which these elements overlapped using an overlap index. This is the first time such an assessment has been made for Tunisia’s marine ecosystems and our assessment highlight the inappropriateness of current conservation measures. The results of this study have specific application for the prioritization of future management actions.
+
+SOURCE: Mediterranean Marine Science
+PDF URL: https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/download/13148/12529
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Context (archaeology)', 'Prioritization', 'Environmental resource management', 'Species richness', 'Cumulative effects', 'Ecosystem', 'Phylogenetic diversity', 'Diversity (politics)', 'Geography', 'Environmental planning', 'Ecology', 'Business', 'Biology', 'Environmental science', 'Phylogenetic tree', 'Biochemistry', 'Process management', 'Archaeology', 'Sociology', 'Gene', 'Anthropology']

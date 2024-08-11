@@ -1,0 +1,12 @@
+ID: W2280521516
+TITLE: Bathymetric and regional changes in benthic macrofaunal assemblages on the deep Eastern Brazilian margin, SW Atlantic
+AUTHOR: ['Ângelo F. Bernardino', 'Vanessa Berenguer', 'Venina Pires Ribeiro-Ferreira']
+ABSTRACT:
+Deep-sea continental slopes have valuable mineral and biological resources in close proximity to diverse, undersampled and fragile marine benthic ecosystems. The eastern Brazilian Continental Margin (19.01°S to 21.06°S, 37.88°W to 40.22°W) is an important economic region for both fishing and oil industries, but is poorly understood with respect to the structure of the soft-sediment benthic fauna, their regional distribution and their bathymetric patterns. To identify spatial and temporal patterns of benthic macrofaunal assemblages on the slope (400 to 3000 m), the Espirito Santo Basin Assessment Project (AMBES, coordinated by Cenpes-Petrobras) sampled 42 stations across the Brazilian Eastern Slope during both Summer 2012 and Winter 2013. We found a significant decrease in macrofaunal abundance at the 400 m isobath along the slope near the northern region of the Espirito Santo Basin, suggesting benthic responses to upwelling events towards the south in Campos Basin and southern Espirito Santo Basin. The taxonomic diversity and assemblage composition also changed significantly across depth zones with mid-slope peaks of diversity at 1000–1300 m. In general, macrofaunal assemblages were strongly related to slope depth, suggesting a strong influence of productivity gradients and water mass distribution on this oligotrophic margin. Sediment grain size was marginally important to macrofaunal composition on the upper slope. In general, macrofaunal assemblages on the slope of Espirito Santo Basin are similar to other areas of the SE Brazilian margin, but regional changes in response to productivity and depth need to be considered for management strategies in the face of increasing economic activities off-shore.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Oceanography', 'Geology', 'Fauna', 'Structural basin', 'Bathymetry', 'Continental margin', 'Upwelling', 'Productivity', 'Continental shelf', 'Sediment', 'Ecology', 'Geomorphology', 'Paleontology', 'Tectonics', 'Macroeconomics', 'Economics', 'Biology']

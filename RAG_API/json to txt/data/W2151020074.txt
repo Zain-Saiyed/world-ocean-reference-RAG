@@ -1,0 +1,12 @@
+ID: W2151020074
+TITLE: Migration from atolls as climate change adaptation: Current practices, barriers and options in Solomon Islands
+AUTHOR: ['Thomas Birk', 'Kjeld Rasmussen']
+ABSTRACT:
+Abstract Adaptive strategies are important for reducing the vulnerability of atoll communities to climate change and sea level rise in both the short and long term. This paper seeks to contribute to the emerging discourse on migration as a form of adaptation to climate change based on empirical studies in the two atoll communities, R eef I slands and O ntong J ava, which are located in the periphery of S olomon I slands. The paper will outline current migration patterns in the two island groups and discuss how some of this migration may contribute to adaptation to climate change and other stresses. It shows that migration currently improves access to financial and social capital, reduces pressure on natural resources and makes island communities less vulnerable to extreme weather events and other shocks — all factors that contribute positively to adaptive capacity. It also shows that there are major barriers to migration that reduce the efficacy of positive outcomes to both migrants and their home communities, including high transport costs and problems in gaining access to housing, employment and government services in urban destination areas. If it is accepted that voluntary migration may play a positive role in adaptation to climate change in exposed atoll communities, addressing some of the barriers to migration seems logical. This may be done by efforts to stimulate migrant income opportunities, by improving migrant living conditions and by improving the transport services to the islands.
+
+SOURCE: Natural Resources Forum
+PDF URL: None
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Vulnerability (computing)', 'Adaptive capacity', 'Atoll', 'Climate change', 'Adaptation (eye)', 'Tourism', 'Government (linguistics)', 'Human migration', 'Geography', 'Business', 'Forced migration', 'Development economics', 'Ecology', 'Economics', 'Population', 'Biology', 'Sociology', 'Linguistics', 'Philosophy', 'Demography', 'Computer security', 'Refugee', 'Archaeology', 'Computer science', 'Reef', 'Neuroscience']

@@ -1,0 +1,12 @@
+ID: W2154282766
+TITLE: Mangrove Sedimentation and Response to Relative Sea-Level Rise
+AUTHOR: ['Colin D. Woodroffe', 'Kerrylee Rogers', 'Karen L. McKee', 'Catherine E. Lovelock', 'Irving A. Mendelssohn', 'Neil Saintilan']
+ABSTRACT:
+Mangroves occur on upper intertidal shorelines in the tropics and subtropics. Complex hydrodynamic and salinity conditions, related primarily to elevation and hydroperiod, influence mangrove distributions; this review considers how these distributions change over time. Accumulation rates of allochthonous and autochthonous sediment, both inorganic and organic, vary between and within different settings. Abundant terrigenous sediment can form dynamic mudbanks, and tides redistribute sediment, contrasting with mangrove peat in sediment-starved carbonate settings. Sediments underlying mangroves sequester carbon but also contain paleoenvironmental records of adjustments to past sea-level changes. Radiometric dating indicates long-term sedimentation, whereas measurements made using surface elevation tables and marker horizons provide shorter perspectives, indicating shallow subsurface processes of root growth and substrate autocompaction. Many tropical deltas also experience deep subsidence, which augments relative sea-level rise. The persistence of mangroves implies an ability to cope with moderately high rates of relative sea-level rise. However, many human pressures threaten mangroves, resulting in a continuing decline in their extent throughout the tropics.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 322
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Mangrove', 'Intertidal zone', 'Terrigenous sediment', 'Sediment', 'Sea level', 'Peat', 'Geology', 'Oceanography', 'Sedimentation', 'Subtropics', 'Tropics', 'Environmental science', 'Ecology', 'Geomorphology', 'Biology']

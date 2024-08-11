@@ -1,0 +1,12 @@
+ID: W2015764519
+TITLE: Occurrence, distribution, and bioaccumulation of antibiotics in coastal environment of Dalian, China
+AUTHOR: ['Guangshui Na', 'Xiaodan Fang', 'Yaqi Cai', 'Liang Ge', 'Hong-Shi Zong', 'Xiutang Yuan', 'Ziwei Yao', 'Zhifeng Zhang']
+ABSTRACT:
+Seawater, sediment, and aquatic organism samples were collected from 20 sampling sites in coastal environment of Dalian in August, 2011. The occurrence, distribution, and bioaccumulation of 20 antibiotics categorizing into three groups, including 14 sulfonamides (SAs), two chloramphenicols (CAPs) and four tetracyclines (TCs), were investigated. The results suggested that tetracyclines were the predominant antibiotics in the seawater (range: 2.11-9.23 ng L(-1)), while sulfonamides were the dominant antibiotics in both sediments (range: 1.42-71.32 μg kg(-1)) and aquatic organisms (range: 2.18-63.87 μg kg(-1)). The sorption coefficient Kd,s values revealed that sulfameter, sulfadiazine, sulfamethoxypyridazine, sulfamonomethoxine, chloramphenicol, and doxycycline presented higher sorption capacities than the other antibiotics. The average BAFs suggested that sulfamethazine, sulfamethiazole, sulfamonomethoxine, and doxycycline were potentially bioaccumulative, while sulfadiazine, sulfameter, sulfamethoxypyridazine, and chloramphenicol were bioaccumulative.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 173
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Bioaccumulation', 'Sulfadiazine', 'Antibiotics', 'Doxycycline', 'Chloramphenicol', 'Environmental chemistry', 'Seawater', 'Chemistry', 'Biology', 'Microbiology', 'Ecology']

@@ -1,0 +1,12 @@
+ID: W1503900815
+TITLE: Physiology and Climate Change
+AUTHOR: ['Hans‐Otto Pörtner', 'Anthony P. Farrell']
+ABSTRACT:
+Endurance Swimming Is Related to Summer Lake Survival of Rainbow Trout in a Warm Lake with Avian Piscivores,
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 2066
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Climate change', 'Environmental science', 'Biology', 'Physiology', 'Ecology']

@@ -1,0 +1,12 @@
+ID: W2161668461
+TITLE: Recent Changes in Phytoplankton Communities Associated with Rapid Regional Climate Change Along the Western Antarctic Peninsula
+AUTHOR: ['Martin Montes‐Hugo', 'Scott C. Doney', 'Hugh W. Ducklow', 'William R. Fraser', 'Douglas G. Martinson', 'Sharon Stammerjohn', 'Oscar Schofield']
+ABSTRACT:
+The climate of the western shelf of the Antarctic Peninsula (WAP) is undergoing a transition from a cold-dry polar-type climate to a warm-humid sub-Antarctic-type climate. Using three decades of satellite and field data, we document that ocean biological productivity, inferred from chlorophyll a concentration (Chl a), has significantly changed along the WAP shelf. Summertime surface Chl a (summer integrated Chl a approximately 63% of annually integrated Chl a) declined by 12% along the WAP over the past 30 years, with the largest decreases equatorward of 63 degrees S and with substantial increases in Chl a occurring farther south. The latitudinal variation in Chl a trends reflects shifting patterns of ice cover, cloud formation, and windiness affecting water-column mixing. Regional changes in phytoplankton coincide with observed changes in krill (Euphausia superba) and penguin populations.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 603
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Oceanography', 'Phytoplankton', 'Peninsula', 'Euphausia', 'Climate change', 'Krill', 'Environmental science', 'Chlorophyll a', 'Water column', 'Antarctic krill', 'Polar front', 'Climatology', 'Geology', 'Biology', 'Ecology', 'Nutrient', 'Botany']

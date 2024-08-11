@@ -1,0 +1,12 @@
+ID: W2003488151
+TITLE: The supergiant amphipod Alicella gigantea (Crustacea: Alicellidae) from hadal depths in the Kermadec Trench, SW Pacific Ocean
+AUTHOR: ['Alan J. Jamieson', 'Nichola C. Lacey', 'Anne‐Nina Lörz', 'Ashley A. Rowden', 'Stuart B. Piertney']
+ABSTRACT:
+Here we provide the first record of the 'supergiant' amphipod Alicella gigantea Chevreux, 1899 (Alicellidae) from the Southern Hemisphere, and extend the known bathymetric range by over 1000 m to 7000 m. An estimated nine individuals were observed across 1500 photographs taken in situ by baited camera at 6979 m in the Kermadec Trench, SW Pacific Ocean. Nine specimens, ranging in length from 102 to 290 mm were recovered by baited trap at depths of 6265 m and 7000 m. Mitochondrial and nuclear DNA sequences obtained indicate a cosmopolitan distribution for the species. Data and observations from the study are used to discuss the reason for gigantism in this species, and its apparently disjunct geographical distribution.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 41
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Gigantea', 'Range (aeronautics)', 'Oceanography', 'Cosmopolitan distribution', 'Biology', 'Southern Hemisphere', 'Bathymetry', 'Paleontology', 'Geology', 'Ecology', 'Botany', 'Materials science', 'Composite material']

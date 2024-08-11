@@ -1,0 +1,12 @@
+ID: W1990764941
+TITLE: Collaborative Engagement of Local and Traditional Knowledge and Science in Marine Environments: A Review
+AUTHOR: ['Thomas F. Thornton', 'Adela Maciejewski Scheer']
+ABSTRACT:
+Thornton, T. F., and A. Maciejewski Scheer. 2012. Collaborative engagement of local and traditional knowledge and science in marine environments: a review. Ecology and Society 17(3): 8. https://doi.org/10.5751/ES-04714-170308
+
+SOURCE: Ecology and society
+PDF URL: https://www.ecologyandsociety.org/vol17/iss3/art8/ES-2012-4714.pdf
+CITED BY COUNT: 183
+PUBLICATION YEAR: 2012
+TYPE: review
+CONCEPTS: ['Citizen science', 'Environmental resource management', 'Knowledge management', 'Geography', 'Environmental planning', 'Computer science', 'Environmental science', 'Biology', 'Botany']

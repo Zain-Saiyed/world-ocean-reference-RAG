@@ -1,0 +1,12 @@
+ID: W867033363
+TITLE: Analysis and trends of the world's coastal cities and agglomerations
+AUTHOR: ['Juan Manuel Barragán', 'María de Andrés']
+ABSTRACT:
+This research aims to assess the influence of coastal cities around the world. The main goals are focused on quantifying the urbanization process in coastal areas. Also, the relationship between urban growth and different coastal conditions was studied. In this research two sources of information were used: city population databases of United Nations and Google Earth remote sensing. The method is focused on a detailed study of all cities with over 100,000 inhabitants, from 1945 to 2012. The results show that half of population living in cities with over 100,000 inhabitants are within 100 km from the coast. This urban settlement has a particular pattern on the south, where is observed a “southern ridge” with a greater growth. The relationship between this development and coastal issues about geographical distribution, ecosystems, social and economic points; allows obtaining areas of interest for integrated coastal management.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 217
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Urban agglomeration', 'Urbanization', 'Geography', 'Population growth', 'Distribution (mathematics)', 'Urban ecosystem', 'Population', 'Settlement (finance)', 'Human settlement', 'Coastal management', 'Ridge', 'Environmental resource management', 'Physical geography', 'Environmental protection', 'Environmental planning', 'Economic geography', 'Environmental science', 'Ecology', 'Cartography', 'Business', 'Archaeology', 'Mathematical analysis', 'Demography', 'Mathematics', 'Finance', 'Sociology', 'Payment', 'Biology']

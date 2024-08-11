@@ -1,0 +1,12 @@
+ID: W2775228740
+TITLE: Looking at the bigger picture: the importance of considering annual cycles in impact assessments illustrated in a migratory seabird species
+AUTHOR: ['Malte Busch', 'Stefan Garthe']
+ABSTRACT:
+Abstract Accurate assessment of the overall impacts of anthropogenic activities on mobile, migratory species requires cumulative year-round impact assessments covering their entire annual cycle. This study considers the type of information needed and the assessment tools required to implement such assessments. The developed concept is demonstrated by modelling year-round collisions of Black-legged Kittiwakes (Rissa tridactyla) breeding on the German North Sea island of Helgoland with constructed and planned offshore wind farms across the species distributional range, in order to assess the endangerment status of the local population.
+
+SOURCE: ICES journal of marine science
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seabird', 'Range (aeronautics)', 'Annual cycle', 'Impact assessment', 'Geography', 'Population', 'North sea', 'Offshore wind power', 'Submarine pipeline', 'Environmental science', 'Fishery', 'Ecology', 'Oceanography', 'Biology', 'Wind power', 'Demography', 'Engineering', 'Geology', 'Public administration', 'Sociology', 'Political science', 'Predation', 'Aerospace engineering']

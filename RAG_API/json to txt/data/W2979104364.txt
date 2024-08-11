@@ -1,0 +1,12 @@
+ID: W2979104364
+TITLE: Planning for Climate Change Impacts: Coastal Tourism Destination Resilience Policies
+AUTHOR: ['David Jarratt', 'Natasha Davies']
+ABSTRACT:
+Coastal tourism is a vital part of the world economy bit also facilitates access to "blue spaces" – this offers significant health benefits to populations and shapes our relationship with the coast. At present, climate change impacts on the coast, such as storm surges and rising sea levels, are an inevitability and, in some regions, they are already damaging coastal tourism economies. It is clear, therefore, that our relationship with the coast will change. Given the importance of coastal tourism, this new relationship needs to incorporate adaptive measures; including a blue space and wellbeing focus, education and awareness of challenges facing the natural environment. We make this case by re-evaluating the literature on coastal tourism and climate adaptation policies. Using recent examples, we also offer an indication of new policy directions for coastal destinations. At present coastal tourism plans and policies largely ignore how destinations might respond and adapt to climate change impacts. We critique this and suggest that the human–environment relationship should be placed directly at the centre of all thinking on this topic.
+
+SOURCE: Tourism planning & development
+PDF URL: None
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Tourism', 'Climate change', 'Destinations', 'Environmental resource management', 'Psychological resilience', 'Environmental planning', 'Storm surge', 'Geography', 'Resilience (materials science)', 'Ecotourism', 'Tourism geography', 'Natural hazard', 'Natural (archaeology)', 'Adaptation (eye)', 'Business', 'Storm', 'Environmental science', 'Oceanography', 'Psychology', 'Physics', 'Archaeology', 'Psychotherapist', 'Thermodynamics', 'Meteorology', 'Optics', 'Geology']

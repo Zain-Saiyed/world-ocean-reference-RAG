@@ -1,0 +1,12 @@
+ID: W2581032812
+TITLE: Ecological Role of Submarine Canyons and Need for Canyon Conservation: A Review
+AUTHOR: ['U. Fernández-Arcaya', 'Eva Ramírez-Llodra', 'Jacopo Aguzzi', 'A. Louise Allcock', 'Jaime S. Davies', 'Awantha Dissanayake', 'Peter T. Harris', 'Kerry L. Howell', 'Veerle Huvenne', 'Miles Macmillan-Lawler', 'Jacobo Martín', 'Lénaïck Menot', 'Martha S. Nizinski', 'Pere Puig', 'Ashley A. Rowden', 'Florence Sanchez', 'Inge M.J. van den Beld']
+ABSTRACT:
+Submarine canyons are major geomorphic features of continental margins around the world. Several recent multidisciplinary projects focused on the study of canyons have considerably increased our understanding of their ecological role, the goods and services they provide to human populations, and the impacts that human activities have on their overall ecological condition. Pressures from human activities include fishing, dumping of land-based mine tailings, and oil and gas extraction. Moreover, hydrodynamic processes of canyons enhance the down-canyon transport of litter. The effects of climate change may modify the intensity of currents. This potential hydrographic change is predicted to impact the structure and functioning of canyon communities as well as affect nutrient supply to the deep-ocean ecosystem. This review not only identifies the ecological status of canyons, and current and future issues for canyon conservation, but also highlights the need for a better understanding of anthropogenic impacts on canyon ecosystems and proposes other research required to inform management measures to protect canyon ecosystems.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2017.00005/pdf
+CITED BY COUNT: 173
+PUBLICATION YEAR: 2017
+TYPE: review
+CONCEPTS: ['Canyon', 'Submarine canyon', 'Environmental science', 'Ecosystem', 'Hydrography', 'Ecology', 'Environmental resource management', 'Oceanography', 'Geography', 'Geology', 'Cartography', 'Biology']

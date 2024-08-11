@@ -1,0 +1,12 @@
+ID: W2043094767
+TITLE: Place attachment as a driver of adaptation in coastal communities in Northern Norway
+AUTHOR: ['Helene Amundsen']
+ABSTRACT:
+Changes in a range of interlinked factors, in social, economic, environmental and climatic conditions, require adaptation in many communities. This paper explores how place attachment affects adaptive responses to a changing social context through analysing adaptation in two coastal municipalities in Northern Norway. The main challenge in these municipalities is declining populations and the consequences accompanying this trend, including livelihood uncertainties and decreased provision of public services. This paper discusses the role of place attachment in motivating adaptation to these changes to contribute to a growing body of literature within climate change adaptation on "subjective" (values, culture and place) dimensions. The findings suggest that people are motivated to act based on their emotional connection with place, and the paper argues that place attachment may offer a better starting point for climate change adaptation than an emphasis on climate change impacts.
+
+SOURCE: Local environment
+PDF URL: None
+CITED BY COUNT: 117
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Place attachment', 'Livelihood', 'Adaptation (eye)', 'Climate change', 'Context (archaeology)', 'Climate change adaptation', 'Adaptive capacity', 'Geography', 'Environmental change', 'Environmental resource management', 'Environmental planning', 'Economic geography', 'Ecology', 'Social psychology', 'Psychology', 'Economics', 'Agriculture', 'Neuroscience', 'Archaeology', 'Biology']

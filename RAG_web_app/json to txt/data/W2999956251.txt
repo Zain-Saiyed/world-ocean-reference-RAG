@@ -1,0 +1,12 @@
+ID: W2999956251
+TITLE: Quantifying tourism booms and the increasing footprint in the Arctic with social media data
+AUTHOR: ['Claire A. Runge', 'Rémi Daigle', 'Vera Helene Hausner']
+ABSTRACT:
+Arctic tourism has rapidly increased in the past two decades. We used social media data to examine localized tourism booms and quantify the spatial expansion of the Arctic tourism footprint. We extracted geotagged locations from over 800,000 photos on Flickr and mapped these across space and time. We critically examine the use of social media as a data source in data-poor regions, and find that while social media data is not suitable as an early warning system of tourism growth in less visited parts of the world, it can be used to map changes at large spatial scales. Our results show that the footprint of summer tourism quadrupled and winter tourism increased by over 600% between 2006 and 2016, although large areas of the Arctic remain untouched by tourism. This rapid increase in the tourism footprint raises concerns about the impacts and sustainability of tourism on Arctic ecosystems and communities. This boom is set to continue, as new parts of the Arctic are being opened to tourism by melting sea ice, new airports and continued promotion of the Arctic as a 'last chance to see' destination. Arctic societies face complex decisions about whether this ongoing growth is socially and environmentally sustainable.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0227189&type=printable
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Footprint', 'Boom', 'Tourism', 'Social media', 'Arctic', 'Geography', 'Environmental resource management', 'Data science', 'Physical geography', 'Economic geography', 'Environmental science', 'Biology', 'Computer science', 'Geology', 'Ecology', 'Oceanography', 'World Wide Web', 'Archaeology']

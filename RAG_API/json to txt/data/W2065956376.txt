@@ -1,0 +1,12 @@
+ID: W2065956376
+TITLE: Re-establishment of an abyssal megabenthic community after experimental physical disturbance of the seafloor
+AUTHOR: ['Hartmut Bluhm']
+ABSTRACT:
+The suitability of deep-sea megafauna as indicators of environmental change has been demonstrated by a large-scale and long-term disturbance and recolonisation experiment (DISCOL) established in the deep Peru Basin in 1989. The experiment was designed to show what effects physical disturbances, such as those caused by future commercial deep-sea mining, might have on the seafloor and its inhabitants. A plough-harrow was used to create a large-scale disturbance on the seafloor. It destroyed megafauna within the plough tracks to a large extent and buried the manganese nodules in the area. As a result fauna that lived attached to the nodules disappeared. The soft-bottom community, however, did show signs of recovery in the seven years of the study. The repopulation of the disturbed areas by highly motile and scavenging animals started shortly after the area was ploughed. Seven years later hemisessile animals had returned to the disturbed areas, but the total abundance of soft-bottom taxa was still low compared to the pre-impact study. Nearby reference areas not impacted by the experiment showed natural changes in animal densities during the study. The ploughing activities created a sediment plume that resettled in the surrounding areas. In these not directly impacted areas animal densities declined immediately after the ploughing event, but later appeared to be greater than in the reference areas of the pre-impact study. Possible reasons for this are discussed.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 114
+PUBLICATION YEAR: 2001
+TYPE: article
+CONCEPTS: ['Disturbance (geology)', 'Megafauna', 'Seafloor spreading', 'Fauna', 'Geology', 'Oceanography', 'Environmental science', 'Ecology', 'Paleontology', 'Biology', 'Pleistocene']

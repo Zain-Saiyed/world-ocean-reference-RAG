@@ -1,0 +1,12 @@
+ID: W2022050034
+TITLE: Occurrence and risks of antibiotics in the coastal aquatic environment of the Yellow Sea, North China
+AUTHOR: ['Ruijie Zhang', 'Jianhui Tang', 'Jun Li', 'Zhu Cheng', 'Chakra Chaemfa', 'Lingxin Chen', 'Qing‐Shui Zheng', 'Mengke Song', 'Chunling Luo', 'Gan Zhang']
+ABSTRACT:
+Eleven antibiotics in three different categories were investigated in two types of coastal bays (a semi-enclosed bay and an open bay) of the Yellow Sea and in fresh water (rivers and sewage treatment plants [STP] effluents) that discharged into the bays. The results revealed the presence of three predominant antibiotics: dehydration erythromycin, sulfamethoxazole and trimethoprim. These antibiotics were detected in the seawater and fresh water with concentrations of <0.23-50.4 ng L(-1) and <0.25-663.1 ng L(-1), respectively. In terms of the regional distribution of the compounds within the two types of bays, higher concentrations (<0.23-50.4 ng L(-1)) and higher spatial variations (coefficients of variation: 98%-124%) were found in the semi-enclosed Jiaozhou Bay due to the poor water-exchange ability and to fresh-water inputs through rivers and/or STP effluents. In contrast, lower concentrations (<0.23-3.0 ng L(-1)) and lower spatial variations (coefficients of variation: 36%-75%) were present in the open Yantai Bays due to the strong water-exchange with the open sea. The source apportionment suggested that 1) fresh-water inputs were the primary source of macrolides in the coastal water, and 2) mariculture affected the relative pollution levels of trimethoprim, sulfamethoxazole and sulfathiazole in the bays. In addition, a risk assessment based on the calculated risk quotient (RQ) showed that the dehydrated erythromycin, sulfamethoxazole and clarithromycin detected at most of the sampling sites in Jiaozhou Bay could pose high (RQ>1) risks to the most sensitive aquatic microorganisms, such as Synechococcus leopoliensis and Pseudokirchneriella subcapitata, whilst in the Yantai Bays, the compounds could pose medium risks (1≥RQ>0.1) to the same aquatic microorganisms.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 148
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['China', 'Aquatic environment', 'Environmental science', 'Coastal sea', 'Geography', 'Environmental protection', 'Oceanography', 'Fishery', 'Ecology', 'Biology', 'Geology', 'Archaeology']

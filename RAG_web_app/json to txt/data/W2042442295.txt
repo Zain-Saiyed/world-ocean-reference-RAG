@@ -1,0 +1,12 @@
+ID: W2042442295
+TITLE: Palytoxin and Analogs: Biological and Ecological Effects
+AUTHOR: ['Vítor Ramos', 'Vı́tor Vasconcelos']
+ABSTRACT:
+Palytoxin (PTX) is a potent marine toxin that was originally found in soft corals from tropical areas of the Pacific Ocean. Soon after, its occurrence was observed in numerous other marine organisms from the same ecological region. More recently, several analogs of PTX were discovered, remarkably all from species of the dinoflagellate genus Ostreopsis. Since these dinoflagellates are also found in other tropical and even in temperate regions, the formerly unsuspected broad distribution of these toxins was revealed. Toxicological studies with these compounds shows repeatedly low LD50 values in different mammals, revealing an acute toxic effect on several organs, as demonstrated by different routes of exposure. Bioassays tested for some marine invertebrates and evidences from environmental populations exposed to the toxins also give indications of the high impact that these compounds may have on natural food webs. The recognition of its wide distribution coupled with the poisoning effects that these toxins can have on animals and especially on humans have concerned the scientific community. In this paper, we review the current knowledge on the effects of PTX and its analogs on different organisms, exposing the impact that these toxins may have in coastal ecosystems.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/8/7/2021/pdf?version=1424780738
+CITED BY COUNT: 119
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Palytoxin', 'Dinoflagellate', 'Marine toxin', 'Biology', 'Ecology', 'Invertebrate', 'Temperate climate', 'Marine ecosystem', 'Ecosystem', 'Marine invertebrates', 'Toxin', 'Zoology', 'Biochemistry']

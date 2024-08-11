@@ -1,0 +1,12 @@
+ID: W2089482438
+TITLE: Pan-European survey on the occurrence of selected polar organic persistent pollutants in ground water
+AUTHOR: ['Robert Loos', 'Locoro Giovanni', 'Sara Comero', 'S. Contini', 'David Schwesig', 'Friedrich Werres', 'Peter Balsaa', 'Oliver Gans', 'Stefan Weiß', 'Luděk Bláha', 'Monica Bolchi', 'Gawlik Bernd']
+ABSTRACT:
+This study provides the first pan-European reconnaissance of the occurrence of polar organic persistent pollutants in European ground water. In total, 164 individual ground-water samples from 23 European Countries were collected and analysed (among others) for 59 selected organic compounds, comprising pharmaceuticals, antibiotics, pesticides (and their transformation products), perfluorinated acids (PFAs), benzotriazoles, hormones, alkylphenolics (endocrine disrupters), Caffeine, Diethyltoluamide (DEET), and Triclosan. The most relevant compounds in terms of frequency of detection and maximum concentrations detected were DEET (84%; 454 ng/L), Caffeine (83%; 189 ng/L), PFOA (66%; 39 ng/L), Atrazine (56%; 253 ng/L), Desethylatrazine (55%; 487 ng/L), 1H-Benzotriazole (53%; 1032 ng/L), Methylbenzotriazole (52%; 516 ng/L), Desethylterbutylazine (49%; 266 ng/L), PFOS (48%, 135 ng/L), Simazine (43%; 127 ng/L), Carbamazepine (42%; 390 ng/L), nonylphenoxy acetic acid (NPE(1)C) (42%; 11 microg/L), Bisphenol A (40%; 2.3 microg/L), PFHxS (35%; 19 ng/L), Terbutylazine (34%; 716 ng/L), Bentazone (32%; 11 microg/L), Propazine (32%; 25 ng/L), PFHpA (30%; 21 ng/L), 2,4-Dinitrophenol (29%; 122 ng/L), Diuron (29%; 279 ng/L), and Sulfamethoxazole (24%; 38 ng/L). The chemicals which were detected most frequently above the European ground water quality standard for pesticides of 0.1 microg/L were Chloridazon-desphenyl (26 samples), NPE(1)C (20), Bisphenol A (12), Benzotriazole (8), N,N'-Dimethylsulfamid (DMS) (8), Desethylatrazine (6), Nonylphenol (6), Chloridazon-methyldesphenyl (6), Methylbenzotriazole (5), Carbamazepine (4), and Bentazone (4). However, only 1.7% of all single analytical measurements (in total 8000) were above this threshold value of 0.1 microg/L; 7.3% were > than 10 ng/L.
+
+SOURCE: Water research
+PDF URL: None
+CITED BY COUNT: 741
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Chemistry', 'Environmental chemistry', 'Atrazine', 'Triclosan', 'Simazine', 'European union', 'Bisphenol A', 'Pesticide', 'Medicine', 'Epoxy', 'Organic chemistry', 'Pathology', 'Agronomy', 'Business', 'Biology', 'Economic policy']

@@ -1,0 +1,12 @@
+ID: W2117236941
+TITLE: CLIMATIC INFLUENCES ON DEEP‐SEA OSTRACODE (CRUSTACEA) DIVERSITY FOR THE LAST THREE MILLION YEARS
+AUTHOR: ['Moriaki Yasuhara', 'Thomas M. Cronin']
+ABSTRACT:
+Ostracodes are small, bivalved crustaceans with the finest-scale fossil resolution of any metazoan, rivaled only by the fossil record of the protistan Foraminifera. This article presents a synthesis of the patterns and possible causes of alpha species diversity variation in benthic deep-sea ostracodes at drilling sites in the North Atlantic and Arctic Oceans. Taken together, these sites represent a period of great climatic variability covering the past three million years. Sediment cores taken from the Mid-Atlantic Ridge show a positive correlation between warm temperatures and high species diversity. These Mid-Atlantic Ridge cores, at the same latitude as northern Spain, show the same positive correlation during the last two glacial-interglacial cycles (200-0 ka [thousands of years ago]) as they do during the pre-glacial Pliocene 2.85-2.4 Ma (millions of years ago). This positive correlation is also found in Pliocene cores from the Rockall Plateau, at the same latitude as Ireland. During the last 200 thousand years, however, this correlation is reversed in cores taken from both the Rockall and Iceland Plateaus. The discovery of high diversity during colder periods in recent high-latitude Rockall and Iceland cores seems to be explained by spikes in diversity caused by ice-rafting events, which would not affect the lower-latitude Mid-Atlantic Ridge. The Heinrich ice-rafting events reduce North Atlantic surface temperatures and salinity every approximately 6-12 ka, dramatically decreasing surface productivity. This increase in diversity during Heinrich events may be explained either by a negative correlation between surface productivity and benthic diversity or by increase in diversity caused by moderate disturbance when ice rafted debris fall to the bottom of the ocean.
+
+SOURCE: Ecology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/07-1021.1
+CITED BY COUNT: 65
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Oceanography', 'Benthic zone', 'Glacial period', 'Geology', 'Interglacial', 'Arctic', 'Foraminifera', 'Ridge', 'Latitude', 'Plateau (mathematics)', 'Period (music)', 'Paleontology', 'Physical geography', 'Geography', 'Mathematical analysis', 'Physics', 'Mathematics', 'Geodesy', 'Acoustics']

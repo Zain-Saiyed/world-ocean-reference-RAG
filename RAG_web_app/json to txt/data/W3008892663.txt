@@ -1,0 +1,12 @@
+ID: W3008892663
+TITLE: Illicit trade in marine fish catch and its effects on ecosystems and people worldwide
+AUTHOR: ['U. Rashid Sumaila', 'Dirk Zeller', 'Lincoln Hood', 'Maria Lourdes D. Palomares', 'Yu‐Wen Li', 'Daniel Pauly']
+ABSTRACT:
+Illegal, unreported, and unregulated fishing is widespread; it is therefore likely that illicit trade in marine fish catch is also common worldwide. We combine ecological-economic databases to estimate the magnitude of illicit trade in marine fish catch and its impacts on people. Globally, between 8 and 14 million metric tons of unreported catches are potentially traded illicitly yearly, suggesting gross revenues of US$9 to US$17 billion associated with these catches. Estimated loss in annual economic impact due to the diversion of fish from the legitimate trade system is US$26 to US$50 billion, while losses to countries' tax revenues are between US$2 and US$4 billion. Country-by-country estimates of these losses are provided in the Supplementary Materials. We find substantial likely economic effects of illicit trade in marine fish catch, suggesting that bold policies and actions by both public and private actors are needed to curb this illicit trade.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/6/9/eaaz3801.full.pdf
+CITED BY COUNT: 80
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Fishing', 'Revenue', 'Tax revenue', 'Fishery', 'Business', 'Fish <Actinopterygii>', 'Economic impact analysis', 'Natural resource economics', 'International trade', 'Economics', 'Public economics', 'Finance', 'Biology', 'Microeconomics']

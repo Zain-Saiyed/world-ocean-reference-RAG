@@ -1,0 +1,12 @@
+ID: W2849447013
+TITLE: Benthic Estuarine Assemblages of the Brazilian North Coast (Amazonia Ecoregion)
+AUTHOR: ['José Souto Rosa Filho', 'Luci Cajueiro Carneiro Pereira', 'Daiane Aviz', 'César França Braga', 'Marcela Cunha Monteiro', 'Rauquírio Albuquerque Marinho da Costa', 'E. Nils', 'Colin Robert Beasley']
+ABSTRACT:
+Despite its ecological and economical importance, the Brazilian North Coast (BNC) or Amazonia Ecoregion sensu Spalding et al. (Bioscience 57:573–583, 2007), was poorly studied until the 1980s, when major interdisciplinary coastal research programs began. The Amazon and other major rivers strongly influence the BNC, causing seasonally reduced surface salinity and significant sediment deposition. From February to March, monthly accumulated rainfall is 400 mm or more and estuarine salinity varies between 0 and 10, but reaches over 40 in the dry season. Mangrove vegetation, with narrow seaward fringes of salt marsh, dominates the BNC. Macrotides between 4 and 7 m expose large areas of muddy to sandy sediments at low tide. Tidal amplitude is twice as large during spring tides, inundating large areas of mangrove. Tidal export, as well as riverine discharge, determines BNC dissolved nutrient profiles. Despite high turbidity, BNC estuaries have high phytoplankton biomasses and washout of benthic microalgae may also contribute to high chlorophyll-a concentrations. Though benthic diversity is low, secondary productivity in sediments is high, and important for nutrient cycling, especially in mangrove forest. The uçá-crab (Ucides cordatus) is economically important in the region. Strong gradients in salinity, along both the coast and individual estuaries, determine the relative abundance of freshwater and marine benthic taxa but abundance and diversity are lower in the wet season. Although relatively conserved, there is increasing pressure on the BNC through urban expansion, organic pollution, mangrove logging, and over-harvesting of coastal resources. With only 17 protected and especially managed areas along the BNC, the implementation of conservation policies is, so far, unsatisfactory.
+
+SOURCE: Brazilian marine biodiversity
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Mangrove', 'Benthic zone', 'Estuary', 'Ecoregion', 'Oceanography', 'Environmental science', 'Salt marsh', 'Ecology', 'Phytoplankton', 'Nutrient', 'Geology', 'Biology']

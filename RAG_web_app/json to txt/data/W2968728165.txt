@@ -1,0 +1,12 @@
+ID: W2968728165
+TITLE: Evidence of the occurrence of a large dugong in the Red Sea, Egypt
+AUTHOR: ['Ahmed M. Shawky']
+ABSTRACT:
+Three feeding trails of a large dugong with a width of 30 cm were recorded at 11 m depth at Marsa Hermez off the Egyptian Red Sea coast (25.321° N and 34.744° E) on the 23rd January 2019. Additionally, four other feeding trails (with widths of 6 cm, 15 cm, 20 cm and 25 cm) were also noted within the seagrass patches. The small size of a trail beside a larger one suggests the presence of calf with mother. Thus, the present results demonstrate indirect evidence for the existence of a large female dugong in the Red Sea. The present study documents the presence of female dugongs with calves in a key habitat, which is important for dugong conservation in Egypt.
+
+SOURCE: Egyptian Journal of Aquatic Research/Egyptian Journal of Aquatic Research 
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Seagrass', 'Fishery', 'Geography', 'Oceanography', 'Habitat', 'Sea coast', 'Ecology', 'Biology', 'Geology']

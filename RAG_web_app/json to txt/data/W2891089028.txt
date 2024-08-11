@@ -1,0 +1,12 @@
+ID: W2891089028
+TITLE: Rapid response of benthic deep-sea microbes (viruses and prokaryotes) to an intense dense shelf water cascading event in a submarine canyon of the NW Mediterranean Sea
+AUTHOR: ['Eugenio Rastelli', 'Cinzia Corinaldesi', 'Miquel Canals', 'Roberto Danovaro', 'Antonio Dell’Anno']
+ABSTRACT:
+Abstract A major dense shelf water cascading (DSWC) event occurred in 2005 downward the Cap de Creus Canyon (Gulf of Lion, NW Mediterranean Sea), which caused a significant change in environmental parameters and biological components. Here we describe the effects of this DSWC event on benthic microbes and on virus-prokaryote interactions, and we explore their implications on the functioning of the canyon’s ecosystem. We collected sediment samples at increasing depths inside the canyon and in the adjacent deep continental margin over a period of five years, i.e. during and after the DSWC event, which led to the deposition of high amounts of fresh and labile organic matter that stimulated C production by benthic prokaryotes and increased their abundance and biomass. The enhanced prokaryotic metabolism, still evident 6 months after the DSWC event, was associated with high viral replication rates and prokaryotic mortality, which released 3.4–6.3 gC m−2 over such a 6 months period. Such values are up to 3-times higher than the yearly C-flux to the seafloor reported in this area in years without DSWC. We conclude that DSWC can significantly enhance benthic prokaryotic metabolism and C cycling through viral-induced prokaryotic mortality.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Oceanography', 'Submarine canyon', 'Benthic zone', 'Canyon', 'Submarine', 'Mediterranean sea', 'Geology', 'Deep sea', 'Mediterranean climate', 'Continental shelf', 'Biology', 'Ecology', 'Geomorphology']

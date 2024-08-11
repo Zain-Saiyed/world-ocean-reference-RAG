@@ -1,0 +1,12 @@
+ID: W2035446895
+TITLE: HOW MANY SPECIES OF ALGAE ARE THERE?
+AUTHOR: ['Michael D. Guiry']
+ABSTRACT:
+Algae have been estimated to include anything from 30,000 to more than 1 million species. An attempt is made here to arrive at a more accurate estimate using species numbers in phyla and classes included in the on‐line taxonomic database AlgaeBase ( http://www.algaebase.org ). Despite uncertainties regarding what organisms should be included as algae and what a species is in the context of the various algal phyla and classes, a conservative approach results in an estimate of 72,500 algal species, names for 44,000 of which have probably been published, and 33,248 names have been processed by AlgaeBase to date (June 2012). Some published estimates of diatom numbers are of over 200,000 species, which would result in four to five diatom species for every other algal species. Concern is expressed at the decline and potential extinction of taxonomists worldwide capable of improving and completing the necessary systematic studies.
+
+SOURCE: Journal of phycology
+PDF URL: None
+CITED BY COUNT: 700
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Phylum', 'Biology', 'Algae', 'Diatom', 'Context (archaeology)', 'Ecology', 'Extinction (optical mineralogy)', 'Paleontology', 'Bacteria']

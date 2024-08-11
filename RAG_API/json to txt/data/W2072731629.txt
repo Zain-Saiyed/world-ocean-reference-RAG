@@ -1,0 +1,12 @@
+ID: W2072731629
+TITLE: Evolutionary Ecology of the Marine Roseobacter Clade
+AUTHOR: ['Haiwei Luo', 'Mary Ann Moran']
+ABSTRACT:
+SUMMARY Members of the Roseobacter clade are equipped with a tremendous diversity of metabolic capabilities, which in part explains their success in so many different marine habitats. Ideas on how this diversity evolved and is maintained are reviewed, focusing on recent evolutionary studies exploring the timing and mechanisms of Roseobacter ecological diversification.
+
+SOURCE: Microbiology and molecular biology reviews
+PDF URL: https://mmbr.asm.org/content/mmbr/78/4/573.full.pdf
+CITED BY COUNT: 253
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Roseobacter', 'Biology', 'Clade', 'Diversification (marketing strategy)', 'Ecology', 'Evolutionary biology', 'Diversity (politics)', 'Phylogenetics', 'Gene', 'Genetics', 'Marketing', 'Sociology', 'Anthropology', 'Business']

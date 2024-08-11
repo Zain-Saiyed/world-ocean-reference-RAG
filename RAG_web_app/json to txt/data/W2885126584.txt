@@ -1,0 +1,12 @@
+ID: W2885126584
+TITLE: Microplastics in Seafood and the Implications for Human Health
+AUTHOR: ['Mike Smith', 'David C. Love', 'Chelsea M. Rochman', 'Roni Neff']
+ABSTRACT:
+We describe evidence regarding human exposure to microplastics via seafood and discuss potential health effects.Shellfish and other animals consumed whole pose particular concern for human exposure. If there is toxicity, it is likely dependent on dose, polymer type, size, surface chemistry, and hydrophobicity. Human activity has led to microplastic contamination throughout the marine environment. As a result of widespread contamination, microplastics are ingested by many species of wildlife including fish and shellfish. Because microplastics are associated with chemicals from manufacturing and that sorb from the surrounding environment, there is concern regarding physical and chemical toxicity. Evidence regarding microplastic toxicity and epidemiology is emerging. We characterize current knowledge and highlight gaps. We also recommend mitigation and adaptation strategies targeting the life cycle of microplastics and recommend future research to assess impacts of microplastics on humans. Addressing these research gaps is a critical priority due to the nutritional importance of seafood consumption.
+
+SOURCE: Current environmental health reports
+PDF URL: https://link.springer.com/content/pdf/10.1007/s40572-018-0206-z.pdf
+CITED BY COUNT: 1015
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microplastics', 'Shellfish', 'Human health', 'Contamination', 'Environmental health', 'Wildlife', 'Fish <Actinopterygii>', 'Environmental science', 'Fishery', 'Biology', 'Environmental chemistry', 'Aquatic animal', 'Ecology', 'Chemistry', 'Medicine']

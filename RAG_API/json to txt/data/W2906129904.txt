@@ -1,0 +1,12 @@
+ID: W2906129904
+TITLE: A three-dimensional view on biodiversity changes: spatial, temporal, and functional perspectives on fish communities in the Baltic Sea
+AUTHOR: ['Romain Frelat', 'Alessandro Orio', 'Michèle Casini', 'Andreas Lehmann', 'Bastien Mérigot', 'Saskia Otto', 'Camilla Sguotti', 'Christian Möllmann']
+ABSTRACT:
+Abstract Fisheries and marine ecosystem-based management requires a holistic understanding of the dynamics of fish communities and their responses to changes in environmental conditions. Environmental conditions can simultaneously shape the spatial distribution and the temporal dynamics of a population, which together can trigger changes in the functional structure of communities. Here, we developed a comprehensive framework based on complementary multivariate statistical methodologies to simultaneously investigate the effects of environmental conditions on the spatial, temporal and functional dynamics of species assemblages. The framework is tested using survey data collected during more than 4000 fisheries hauls over the Baltic Sea between 2001 and 2016. The approach revealed the Baltic fish community to be structured into three sub-assemblages along a strong and temporally stable salinity gradient decreasing from West to the East. Additionally, we highlight a mismatch between species and functional richness associated with a lower functional redundancy in the Baltic Proper compared with other sub-areas, suggesting an ecosystem more susceptible to external pressures. Based on a large dataset of community data analysed in an innovative and comprehensive way, we could disentangle the effects of environmental changes on the structure of biotic communities—key information for the management and conservation of ecosystems.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/75/7/2463/31236943/fsy027.pdf
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Ecology', 'Biodiversity', 'Species richness', 'Community structure', 'Geography', 'Environmental resource management', 'Baltic sea', 'Temporal scales', 'Fishery', 'Environmental science', 'Oceanography', 'Biology', 'Geology']

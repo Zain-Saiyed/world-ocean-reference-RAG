@@ -1,0 +1,12 @@
+ID: W2790313440
+TITLE: The Nippon Foundation—GEBCO Seabed 2030 Project: The Quest to See the World’s Oceans Completely Mapped by 2030
+AUTHOR: ['Larry A. Mayer', 'Martin Jakobsson', 'Graham Allen', 'Boris Dorschel', 'R. K. H. Falconer', 'V. L. Ferrini', 'Geoffroy Lamarche', 'Helen Snaith', 'Pauline Weatherall']
+ABSTRACT:
+Despite many of years of mapping effort, only a small fraction of the world ocean’s seafloor has been sampled for depth, greatly limiting our ability to explore and understand critical ocean and seafloor processes. Recognizing this poor state of our knowledge of ocean depths and the critical role such knowledge plays in understanding and maintaining our planet, GEBCO and the Nippon Foundation have joined forces to establish the Nippon Foundation GEBCO Seabed 2030 Project, an international effort with the objective of facilitating the complete mapping of the world ocean by 2030. The Seabed 2030 Project will establish globally distributed regional data assembly and coordination centers (RDACCs) that will identify existing data from their assigned regions that are not currently in publicly available databases and seek to make these data available. They will develop protocols for data collection (including resolution goals) and common software and other tools to assemble and attribute appropriate metadata as they assimilate regional grids using standardized techniques. A Global Data Assembly and Coordination Center (GDACC) will integrate the regional grids into a global grid and distribute to users world-wide. The GDACC will also act as the central focal point for the coordination of common data standards and processing tools as well as the outreach coordinator for Seabed 2030 efforts. The GDACC and RDACCs will collaborate with existing data centers and bathymetric compilation efforts. Finally, the Nippon Foundation GEBCO Seabed 2030 Project will encourage and help coordinate and track new survey efforts and facilitate the development of new and innovative technologies that can increase the efficiency of seafloor mapping and thus make the ambitious goals of Seabed 2030 more likely to be achieved.
+
+SOURCE: Geosciences
+PDF URL: https://www.mdpi.com/2076-3263/8/2/63/pdf?version=1518107692
+CITED BY COUNT: 267
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seabed', 'Metadata', 'Outreach', 'Ocean observations', 'Bathymetry', 'Environmental resource management', 'Computer science', 'Oceanography', 'Environmental science', 'Geology', 'World Wide Web', 'Political science', 'Law']

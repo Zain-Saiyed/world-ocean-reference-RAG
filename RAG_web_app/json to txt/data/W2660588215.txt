@@ -1,0 +1,12 @@
+ID: W2660588215
+TITLE: Polar zoobenthos blue carbon storage increases with sea ice losses, because across‐shelf growth gains from longer algal blooms outweigh ice scour mortality in the shallows
+AUTHOR: ['David K. A. Barnes']
+ABSTRACT:
+Abstract One of the major climate‐forced global changes has been white to blue to green; losses of sea ice extent in time and space around Arctic and West Antarctic seas has increased open water and the duration (though not magnitude) of phytoplankton blooms. Blueing of the poles has increases potential for heat absorption for positive feedback but conversely the longer phytoplankton blooms have increased carbon export to storage and sequestration by shelf benthos. However, ice shelf collapses and glacier retreat can calve more icebergs, and the increased open water allows icebergs more opportunities to scour the seabed, reducing zoobenthic blue carbon capture and storage. Here the size and variability in benthic blue carbon in mega and macrobenthos was assessed in time and space at Ryder and Marguerite bays of the West Antarctic Peninsula ( WAP ). In particular the influence of the duration of primary productivity and ice scour are investigated from the shallows to typical shelf depths of 500 m. Ice scour frequency dominated influence on benthic blue carbon at 5 m, to comparable with phytoplankton duration by 25 m depth. At 500 m only phytoplankton duration was significant and influential. WAP zoobenthos was calculated to generate ~10 7 , 4.5 × 10 6 and 1.6 × 10 6 tonnes per year (between 2002 and 2015) in terms of production, immobilization and sequestration of carbon respectively. Thus about 1% of annual primary productivity has sequestration potential at the end of the trophic cascade. Polar zoobenthic blue carbon capture and storage responses to sea ice losses, the largest negative feedback on climate change, has been underestimated despite some offsetting of gain by increased ice scouring with more open water. Equivalent survey of Arctic and sub‐Antarctic shelves, for which new projects have started, should reveal the true extent of this feedback and how much its variability contributes to uncertainty in climate models.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Environmental science', 'Oceanography', 'Phytoplankton', 'Sea ice', 'Benthic zone', 'Carbon sequestration', 'Iceberg', 'Ice shelf', 'Cryosphere', 'Carbon dioxide', 'Geology', 'Ecology', 'Nutrient', 'Biology']

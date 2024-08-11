@@ -1,0 +1,12 @@
+ID: W2801051725
+TITLE: The Baltic Sea as a time machine for the future coastal ocean
+AUTHOR: ['Thorsten B. H. Reusch', 'Jan Dierking', 'Helén Andersson', 'Erik Bonsdorff', 'Jacob Carstensen', 'Michèle Casini', 'Mikołaj Czajkowski', 'Berit Hasler', 'Klaus Hinsby', 'Kari Hyytiäinen', 'Kerstin Johannesson', 'Seifeddine Jomaa', 'Veijo Jormalainen', 'Harri Kuosa', 'Sara Kurland', 'Linda Laikre', 'Brian R. MacKenzie', 'Piotr Margoński', 'Frank Melzner', 'Daniel Oesterwind', 'Henn Ojaveer', 'Jens Christian Refsgaard', 'Annica Sandström', 'Gérald Schwarz', 'Karin Tonderski', 'Monika Winder', 'Marianne Zandersen']
+ABSTRACT:
+Science-based, multinational management of the Baltic Sea offers lessons on amelioration of highly disturbed marine ecosystems.
+
+SOURCE: Science advances
+PDF URL: https://www.science.org/doi/pdf/10.1126/sciadv.aar8195?download=true
+CITED BY COUNT: 340
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Environmental resource management', 'Ecosystem', 'Adaptive management', 'Climate change', 'Ecosystem-based management', 'Environmental science', 'Baltic sea', 'Marine ecosystem', 'Watershed', 'Fisheries management', 'Sustainable management', 'Global warming', 'Sustainability', 'Ecology', 'Oceanography', 'Computer science', 'Geology', 'Fishing', 'Machine learning', 'Biology']

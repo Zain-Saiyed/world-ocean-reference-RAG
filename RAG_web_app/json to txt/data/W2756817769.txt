@@ -1,0 +1,12 @@
+ID: W2756817769
+TITLE: A Review of the Methane Hydrate Program in Japan
+AUTHOR: ['Ai Oyama', 'Stephen M. Masutani']
+ABSTRACT:
+In this paper, methane hydrate R&amp;D in Japan was examined in the context of Japan’s evolving energy policies. Methane hydrates have been studied extensively in Japanese national R&amp;D programs since 1993, with the goal of utilizing them as an energy resource. Currently, the Research Consortium for Methane Hydrate Resources in Japan (MH 21) is in the third phase of a project that began in early 2002. Based on publicly available reports and other publications, and presentations made at the ten International Workshops for Methane Hydrate Research and Development, we have attempted to provide a timeline and a succinct summary of the major technical accomplishments of MH 21 during project Phases 1, 2, and 3.
+
+SOURCE: Energies
+PDF URL: https://www.mdpi.com/1996-1073/10/10/1447/pdf?version=1506000801
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2017
+TYPE: review
+CONCEPTS: ['Timeline', 'Methane', 'Hydrate', 'Context (archaeology)', 'Resource (disambiguation)', 'Clathrate hydrate', 'Environmental science', 'Chemistry', 'Computer science', 'Geography', 'Archaeology', 'Computer network', 'Organic chemistry']

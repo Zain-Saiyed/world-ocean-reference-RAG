@@ -1,0 +1,12 @@
+ID: W1972907094
+TITLE: Bad nature: Newspaper representations of ecosystem disservices
+AUTHOR: ['Jari Lyytimäki']
+ABSTRACT:
+Public perceptions and expectations towards ecosystems are an important part of environmental management and planning. This article focuses on the media representations that disseminate information, create framings and influence public attitudes. More specifically, the focus is on print media representations of ecosystem disservices. Ecosystem disservices are functions or properties of ecosystems that cause negative effects on human well-being or that are perceived as harmful, unpleasant or unwanted. Results from a case study focusing on the Finnish newspaper coverage of ecosystem disservices are presented. The results show that a wide variety of harms and nuisances related to ecosystems are brought up and discussed by the media. Implications for environmental management are discussed. The key claim is that taking into account the full repertoire of media representations of ecosystem functions is vital for preventing, anticipating and solving controversies related to environmental management and planning.
+
+SOURCE: Urban forestry & urban greening
+PDF URL: None
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Newspaper', 'Ecosystem', 'Variety (cybernetics)', 'Dissemination', 'Environmental resource management', 'Environmental planning', 'Ecosystem services', 'Ecosystem health', 'Political science', 'Business', 'Public relations', 'Geography', 'Ecology', 'Environmental science', 'Advertising', 'Computer science', 'Biology', 'Artificial intelligence', 'Law']

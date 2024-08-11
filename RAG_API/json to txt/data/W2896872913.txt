@@ -1,0 +1,12 @@
+ID: W2896872913
+TITLE: Spatial and temporal trends of marine litter in the Spanish Mediterranean seafloor
+AUTHOR: ['Santiago García-Rivera', 'José Luis Sánchez-Lizaso', 'Jose María Bellido Millán']
+ABSTRACT:
+Composition, spatial distribution and temporal evolution of marine litter on the Spanish Mediterranean seafloor were assessed. The data derive from Spanish MEDITS surveys over 11 years and were analysed by GIS. A total amount of 2197.8 kg of litter was collected. Marine litter (by weight) was composed of plastics (29.3%), clinker (28.4%), wood (10.2%), metal (9.7%) and glass (6.2%). Its density varied among Areas (Alboran Sea > Valenciana >Alboran Island > Tramontana). For the last 11 years, the marine litter has remained stable or decreases in some case. The information provided by this study is a useful baseline to study such debris on the Spanish seafloor. The MEDITS survey has proven to be an appropriate monitoring tool, also of use to assess future control measures.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Marine debris', 'Litter', 'Seafloor spreading', 'Mediterranean sea', 'Mediterranean climate', 'Environmental science', 'Oceanography', 'Spatial distribution', 'Physical geography', 'Debris', 'Geology', 'Geography', 'Ecology', 'Remote sensing', 'Archaeology', 'Biology']

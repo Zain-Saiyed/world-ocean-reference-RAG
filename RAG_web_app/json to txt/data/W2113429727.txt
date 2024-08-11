@@ -1,0 +1,12 @@
+ID: W2113429727
+TITLE: Extensive Rhodolith Beds Cover the Summits of Southwestern Atlantic Ocean Seamounts
+AUTHOR: ['Guilherme H. Pereira‐Filho', 'Gilberto M. Amado‐Filho', 'Rodrigo L. Moura', 'Alex Cardoso Bastos', 'Sílvia M. P. B. Guimarães', 'Leonardo T. Salgado', 'Ronaldo B. Francini‐Filho', 'Ricardo G. Bahia', 'Douglas P. Abrantes', 'Arthur Z. Güth', 'Poliana S. Brasileiro']
+ABSTRACT:
+PEREIRA-FILHO, G.H.; AMADO-FILHO, G.M.; MOURA, R.L.; BASTOS, A.C.; GUIMARÃES, S.M.P.B.; SALGADO, L.T.; FRANCINI-FILHO, R.B.; BAHIA, R.G.; ABRANTES, D.P.; GUTH, A.Z., and BRASILEIRO, P.S., 2012. Extensive rhodolith beds cover the summits of southwestern Atlantic Ocean seamounts.Calcium carbonate production by marine organisms is an essential process in the global budget of , and coralline reefs are the most important benthic carbonate producers. Crustose coralline algae (CCA) are well recognized as the most important carbonate builders in the tropical Brazilian continental shelf, forming structural reefs and extensive rhodolith beds. However, the distribution of CCA beds, as well as their role in mineralization in mesophotic communities and isolated carbonate banks, is still poorly known. To characterize the bottom features of several seamount summits in the Southwestern Atlantic (SWA), side-scan sonar records, remotely operated vehicle imagery, and benthic samples with mixed-gas scuba diving were acquired during two recent research cruises (March 2009 and February 2011). The tops of several seamounts within this region are relatively shallow (∼60 m), flat, and dominated by rhodolith beds (Vitória, Almirante Saldanha, Davis, and Jaseur seamounts, as well as the Trindade Island shelf). On the basis of abundance, dimensions, vitality, and growth rates of CCA nodules, a mean CaCO3 production was estimated, ranging from 0.4 to 1.8 kg m−2 y−1, with a total production reaching 1.5 × 10−3 Gt y−1. Our results indicate that these SWA seamount summits provide extensive areas of shallow reef area and represent 0.3% of the world's carbonate banks. The importance of this habitat has been highly neglected, and immediate management needs must be fulfilled in the short term to ensure long-term persistence of the ecosystem services provided by these offshore carbonate realms.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Seamount', 'Oceanography', 'Benthic zone', 'Coralline algae', 'Geology', 'Reef', 'Continental shelf', 'Crustose', 'Carbonate', 'Materials science', 'Metallurgy']

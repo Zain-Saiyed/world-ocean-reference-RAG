@@ -1,0 +1,12 @@
+ID: W2900245373
+TITLE: Future Directions in the Research and Management of Marine Snakes
+AUTHOR: ['Vinay Udyawer', 'Peter W. Barnes', 'Xavier Bonnet', 'François Brischoux', 'Jenna M. Crowe‐Riddell', "Blanche R. D'Anastasi", 'Bryan G. Fry', 'Amber Gillett', 'Claire Goiran', 'Michael L. Guinea', 'Harold Heatwole', 'Michelle R. Heupel', 'M. Hourston', 'Mervi Kangas', 'Alan Kendrick', 'Inigo Koefoed', 'Harvey B. Lillywhite', 'Aaron Savio Lobo', 'Vimoksalehi Lukoschek', 'Roger Mcauley', 'Charlotte R. Nitschke', 'Arne Redsted Rasmussen', 'Kate L. Sanders', 'Coleman M. Sheehy', 'Richard Shine', 'Ruchira Somaweera', 'Samuel S. Sweet', 'Harold K. Voris']
+ABSTRACT:
+Marine snakes represent the most speciose group of marine reptiles and are a significant component of reef and coastal ecosystems in tropical oceans. Research on this group has historically been challenging due to the difficulty in capturing, handling and keeping these animals for field- and lab-based research. Inexplicable declines in marine snake populations across global hotspots have highlighted the lack of basic information on this group and elevated multiple species as conservation priorities. With the increased interest in research on marine snakes, we conducted a systematic survey of experts to identify twenty key questions that can direct future research. These questions are framed across a wide array of scientific fields to produce much-needed information relevant to the conservation and management of marine snakes.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00399/pdf
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Marine protected area', 'Great barrier reef', 'Geography', 'Environmental resource management', 'Marine research', 'Key (lock)', 'Ecology', 'Reef', 'Ecosystem', 'Biology', 'Oceanography', 'Habitat', 'Environmental science', 'Geology']

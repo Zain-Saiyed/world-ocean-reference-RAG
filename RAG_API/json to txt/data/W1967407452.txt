@@ -1,0 +1,12 @@
+ID: W1967407452
+TITLE: Oceanic controls on the primary production of the northwest European continental shelf: model experiments under recent past conditions and a potential future scenario
+AUTHOR: ['Jason Holt', 'Momme Butenschön', 'Sarah Wakelin', 'Yuri Artioli', 'J. Icarus Allen']
+ABSTRACT:
+Abstract. In this paper we clearly demonstrate that changes in oceanic nutrients are a first order factor in determining changes in the primary production of the northwest European continental shelf on time scales of 5–10 yr. We present a series of coupled hydrodynamic ecosystem modelling simulations, using the POLCOMS-ERSEM system. These are forced by both reanalysis data and a single example of a coupled ocean-atmosphere general circulation model (OA-GCM) representative of possible conditions in 2080–2100 under an SRES A1B emissions scenario, along with the corresponding present day control. The OA-GCM forced simulations show a substantial reduction in surface nutrients in the open-ocean regions of the model domain, comparing future and present day time-slices. This arises from a large increase in oceanic stratification. Tracer transport experiments identify a substantial fraction of on-shelf water originates from the open-ocean region to the south of the domain, where this increase is largest, and indeed the on-shelf nutrient and primary production are reduced as this water is transported on-shelf. This relationship is confirmed quantitatively by comparing changes in winter nitrate with total annual nitrate uptake. The reduction in primary production by the reduced nutrient transport is mitigated by on-shelf processes relating to temperature, stratification (length of growing season) and recycling. Regions less exposed to ocean-shelf exchange in this model (Celtic Sea, Irish Sea, English Channel, and Southern North Sea) show a modest increase in primary production (of 5–10%) compared with a decrease of 0–20% in the outer shelf, Central and Northern North Sea. These findings are backed up by a boundary condition perturbation experiment and a simple mixing model.
+
+SOURCE: Biogeosciences
+PDF URL: https://bg.copernicus.org/articles/9/97/2012/bg-9-97-2012.pdf
+CITED BY COUNT: 109
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Environmental science', 'Continental shelf', 'Oceanography', 'Stratification (seeds)', 'New production', 'Climatology', 'Nutrient', 'Geology', 'Phytoplankton', 'Ecology', 'Seed dormancy', 'Botany', 'Germination', 'Dormancy', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2588770771
+TITLE: Decline in global oceanic oxygen content during the past five decades
+AUTHOR: ['Sunke Schmidtko', 'Lothar Stramma', 'Martin Visbeck']
+ABSTRACT:
+Ocean models predict a decline in the dissolved oxygen inventory of the global ocean of one to seven per cent by the year 2100, caused by a combination of a warming-induced decline in oxygen solubility and reduced ventilation of the deep ocean. It is thought that such a decline in the oceanic oxygen content could affect ocean nutrient cycles and the marine habitat, with potentially detrimental consequences for fisheries and coastal economies. Regional observational data indicate a continuous decrease in oceanic dissolved oxygen concentrations in most regions of the global ocean, with an increase reported in a few limited areas, varying by study. Prior work attempting to resolve variations in dissolved oxygen concentrations at the global scale reported a global oxygen loss of 550 ± 130 teramoles (1012 mol) per decade between 100 and 1,000 metres depth based on a comparison of data from the 1970s and 1990s. Here we provide a quantitative assessment of the entire ocean oxygen inventory by analysing dissolved oxygen and supporting data for the complete oceanic water column over the past 50 years. We find that the global oceanic oxygen content of 227.4 ± 1.1 petamoles (1015 mol) has decreased by more than two per cent (4.8 ± 2.1 petamoles) since 1960, with large variations in oxygen loss in different ocean basins and at different depths. We suggest that changes in the upper water column are mostly due to a warming-induced decrease in solubility and biological consumption. Changes in the deeper ocean may have their origin in basin-scale multi-decadal variability, oceanic overturning slow-down and a potential increase in biological consumption.
+
+SOURCE: Nature
+PDF URL: https://www.nature.com/articles/nature21399.pdf
+CITED BY COUNT: 844
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Water column', 'Oceanography', 'Ocean heat content', 'Environmental science', 'Global warming', 'Oxygen', 'Effects of global warming on oceans', 'Ocean acidification', 'Pelagic zone', 'Ocean observations', 'Climate change', 'Thermohaline circulation', 'Geology', 'Chemistry', 'Organic chemistry']

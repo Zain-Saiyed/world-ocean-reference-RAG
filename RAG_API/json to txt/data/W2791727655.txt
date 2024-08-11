@@ -1,0 +1,12 @@
+ID: W2791727655
+TITLE: Evidence that the Great Pacific Garbage Patch is rapidly accumulating plastic
+AUTHOR: ['Laurent Lebreton', 'Boyan Slat', 'Francesco Ferrari', 'Bruno Sainte-Rose', 'Jennifer Aitken', 'Robert Marthouse', 'Sara Hajbane', 'Serena Cunsolo', 'Anna Schwarz', 'Aurore Levivier', 'Kim Noble', 'Pavla Debeljak', 'Hannah Maral', 'Rosanna I. Schoeneich-Argent', 'Roberto Brambini', 'Júlia Reisser']
+ABSTRACT:
+Abstract Ocean plastic can persist in sea surface waters, eventually accumulating in remote areas of the world’s oceans. Here we characterise and quantify a major ocean plastic accumulation zone formed in subtropical waters between California and Hawaii: The Great Pacific Garbage Patch (GPGP). Our model, calibrated with data from multi-vessel and aircraft surveys, predicted at least 79 (45–129) thousand tonnes of ocean plastic are floating inside an area of 1.6 million km 2 ; a figure four to sixteen times higher than previously reported. We explain this difference through the use of more robust methods to quantify larger debris. Over three-quarters of the GPGP mass was carried by debris larger than 5 cm and at least 46% was comprised of fishing nets. Microplastics accounted for 8% of the total mass but 94% of the estimated 1.8 (1.1–3.6) trillion pieces floating in the area. Plastic collected during our study has specific characteristics such as small surface-to-volume ratio, indicating that only certain types of debris have the capacity to persist and accumulate at the surface of the GPGP. Finally, our results suggest that ocean plastic pollution within the GPGP is increasing exponentially and at a faster rate than in surrounding waters.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-22939-w.pdf
+CITED BY COUNT: 1115
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microplastics', 'Plastic pollution', 'Debris', 'Marine debris', 'Environmental science', 'Pacific ocean', 'Oceanography', 'Garbage', 'Subtropics', 'Pollution', 'Fishing', 'Commercial fishing', 'Geology', 'Fishery', 'Ecology', 'Biology', 'Engineering', 'Waste management']

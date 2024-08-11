@@ -1,0 +1,12 @@
+ID: W2623318376
+TITLE: A Human Rights-Based Approach in Small-Scale Fisheries: Evolution and Challenges in Implementation
+AUTHOR: ['Rolf Willmann', 'Nicole Franz', 'Carlos Fuentevilla', 'Thomas F. McInerney', 'Lena Westlund']
+ABSTRACT:
+The Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries in the Context of Food Security and Poverty Eradication (SSF Guidelines) call for realizing their six stated objectives through the promotion of a human rights-based approach (HRBA). This chapter will first present the foundations of such an approach and its specific guiding principles. It will then trace the evolution of the adoption of the HRBA in small-scale fisheries through the international community. The paper argues for the benefits of a HRBA in small-scale fisheries that is not confined to responsible fisheries management but also to furthering social development and decent work, gender equality and basic civil and political rights. The paper identifies some principal challenges in the implementation of a HRBA in small-scale fisheries and examines strategies and practical measures to overcome them.
+
+SOURCE: MARE publication series
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Scale (ratio)', 'Fishery', 'Environmental resource management', 'Business', 'Computer science', 'Environmental science', 'Geography', 'Biology', 'Cartography']

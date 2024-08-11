@@ -1,0 +1,12 @@
+ID: W2001847623
+TITLE: Metal concentrations in selected tissues and main prey species of the annulated sea snake (Hydrophis cyanocinctus) in the Hara Protected Area, northeastern coast of the Persian Gulf, Iran
+AUTHOR: ['Mohsen Rezaie‐Atagholipour', 'Alireza Riyahi-Bakhtiari', 'Mir Masoud Sajjadi', 'Chee Kong Yap', 'Sanaz Ghaffari', 'Zohreh Ebrahimi-Sirizi', 'Parviz Ghezellou']
+ABSTRACT:
+This study is the first detailed ecotoxicological study of the annulated sea snake, Hydrophis cyanocinctus. Concentrations of lead, cadmium, nickel and vanadium were evaluated in muscle, liver, kidney, skin and blood of the annulated sea snake (H. cyanocinctus) and in the whole bodies of its main prey species (Periophthalmus waltoni and Boleophthalmus dussumieri) in the Hara Protected Area, the Persian Gulf. The mean concentrations of lead and vanadium were highest in the kidney, which identified the kidney as a target organ for metals in sea snakes as it is in other reptilian groups. Mean concentrations of cadmium and nickel were highest in the liver and skin, respectively. Mean cadmium concentrations were significantly higher in the liver compared to prey species, which indicated that prey items may be a source of cadmium for the annulated sea snake in the study area. Data presented here may be considered as a baseline for further ecotoxicological studies in sea snakes.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Cadmium', 'Predation', 'Heavy metals', 'Biology', 'Vanadium', 'Zoology', 'Fishery', 'Ecology', 'Chemistry', 'Environmental chemistry', 'Inorganic chemistry', 'Organic chemistry']

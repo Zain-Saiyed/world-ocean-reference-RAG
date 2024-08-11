@@ -1,0 +1,13 @@
+ID: W44277568
+TITLE: Methane in the Deep Blue Sea
+AUTHOR: ['Bilal U. Haq']
+ABSTRACT:
+Natural gas hydrates, which form under moderately high pressures and low temperature conditions in marine sediments and arctic permafrost, are a potential energy source and have also been implicated in past climate change and in massive slumps and slides on continental shelfs in the oceans. Haq (page
+ 543) discusses recent research into these gas hydrates and outlines future research directions in this interdisciplinary field.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 50
+PUBLICATION YEAR: 1999
+TYPE: article
+CONCEPTS: ['Oceanography', 'Deep blue', 'Deep sea', 'Methane', 'Environmental science', 'Astrobiology', 'Geology', 'Chemistry', 'Biology', 'Photochemistry', 'Organic chemistry']

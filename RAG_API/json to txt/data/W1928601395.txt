@@ -1,0 +1,12 @@
+ID: W1928601395
+TITLE: Communities and change in the anthropocene: understanding social-ecological vulnerability and planning adaptations to multiple interacting exposures
+AUTHOR: ['Nathan Bennett', 'Jessica Blythe', 'Stephen Tyler', 'Natalie C. Ban']
+ABSTRACT:
+The majority of vulnerability and adaptation scholarship, policies and programs focus exclusively on climate change or global environmental change. Yet, individuals, communities and sectors experience a broad array of multi-scalar and multi-temporal, social, political, economic and environmental changes to which they are vulnerable and must adapt. While extensive theoretical—and increasingly empirical—work suggests the need to explore multiple exposures, a clear conceptual framework which would facilitate analysis of vulnerability and adaptation to multiple interacting socioeconomic and biophysical changes is lacking. This review and synthesis paper aims to fill this gap through presenting a conceptual framework for integrating multiple exposures into vulnerability analysis and adaptation planning. To support applications of the framework and facilitate assessments and comparative analyses of community vulnerability, we develop a comprehensive typology of drivers and exposures experienced by coastal communities. Our results reveal essential elements of a pragmatic approach for local-scale vulnerability analysis and for planning appropriate adaptations within the context of multiple interacting exposures. We also identify methodologies for characterizing exposures and impacts, exploring interactions and identifying and prioritizing responses. This review focuses on coastal communities; however, we believe the framework, typology and approach will be useful for understanding vulnerability and planning adaptation to multiple exposures in various social-ecological contexts.
+
+SOURCE: Regional environmental change
+PDF URL: https://link.springer.com/content/pdf/10.1007/s10113-015-0839-5.pdf
+CITED BY COUNT: 199
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Vulnerability (computing)', 'Typology', 'Vulnerability assessment', 'Environmental resource management', 'Adaptation (eye)', 'Context (archaeology)', 'Conceptual framework', 'Climate change', 'Environmental planning', 'Geography', 'Sociology', 'Ecology', 'Psychological resilience', 'Social science', 'Computer science', 'Psychology', 'Environmental science', 'Computer security', 'Biology', 'Archaeology', 'Neuroscience', 'Psychotherapist']

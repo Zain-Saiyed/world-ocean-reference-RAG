@@ -1,0 +1,12 @@
+ID: W2054964673
+TITLE: Ecophysiology of salt marsh plants and predicted responses to climate change in South Africa
+AUTHOR: ['Pascal Tabi Tabot', 'Janine B. Adams']
+ABSTRACT:
+Salt marshes are fringe ecosystems susceptible to physico-chemical variations and therefore ecophysiological studies are needed to predict responses to climate change. For such studies, selection of plant species across a tidal range is critical, as species responses could be used as a proxy for that of the tidal range. These responses would then inform management options for salt marshes. The responses of Triglochin buchenaui, Bassia diffusa and Limonium linifolium to inundation and salinity were studied in an experiment simulating different conditions. Results showed that the lower intertidal plant T. buchenaui would survive three months of submergence through a suite of quiescence responses but that the upper intertidal plants L. linifolium and B. diffusa would not. Optimum elongation growth occurred in tidal conditions for T. buchenaui and B. diffusa at 0 and 18 ppt respectively, and decreased with increasing salinity. The results show that in permanently open South African estuaries, a landward migration of salt marsh will be possible under predicted conditions, if coastal squeeze is limited and the rate of landward recruitment is on par with sea level rise. In temporarily open/closed estuaries, reduced freshwater inflow will result in die back of salt marsh vegetation due to mouth closure, an increase in water level and sensitivity to prolonged submergence. Reduced salt marsh growth would occur when low freshwater inflow coupled with increased abstraction and drought result in low water levels and high sediment salinity. Overall, increased stress under predicted conditions would reduce species diversity in an already species poor estuarine ecosystem. The results suggest the need for reactive management options such as assisted regeneration and marsh drenching to be incorporated into future integrated salt marsh management plans for South Africa.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 33
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Intertidal zone', 'Freshwater inflow', 'Salinity', 'Marsh', 'Tidal range', 'Estuary', 'Environmental science', 'Brackish marsh', 'Ecosystem', 'Ecology', 'Oceanography', 'Wetland', 'Biology', 'Geology']

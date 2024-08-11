@@ -1,0 +1,12 @@
+ID: W2106188368
+TITLE: Past, present and future nutrient loads of the North Sea: Causes and consequences
+AUTHOR: ['Jan E. Vermaat', 'Abigail McQuatters‐Gollop', 'M.A. Eleveld', 'Alison J. Gilbert']
+ABSTRACT:
+Comprehensive, aggregate nutrient budgets were established for two compartments of the North Sea, the shallow coastal and deeper open regions, and for three different periods, representing pre-eutrophication (∼1950), eutrophication (∼1990) and contemporary (∼2000) phases. The aim was to quantify the major budget components, to identify their sources of variability, to specify the anthropogenic components, and to draw implications for past and future policy. For all three periods, open North Sea budgets were dominated (75%) by fluxes from and to the North-East Atlantic; sediment exchange was of secondary importance (18%). For the coastal North Sea, fluxes during the eutrophication period were dominated by sediment exchange (49% of all inputs), followed by exchange with the open sea (21%), and anthropogenic inputs (19%). Between 1950 and 1990, N-loading of coastal waters increased by a factor of 1.62 and P-loading by 1.45. These loads declined after 1990. Interannual variability in Atlantic inflow was found to correspond to a variability of 11% in nutrient load to the open North Sea. Area-specific external loads of both the open and coastal North Sea were below Vollenweider-type critical loads when expressed relative to depth and flushing. External area-specific load of the coastal North Sea has declined since 1990 from 1.8 to about 1.4 g P m−2 y−1 in 2000, which is close to the estimate of 1.3 for 1950. N-load declined less, leading to an increase in N/P ratio.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Eutrophication', 'Environmental science', 'Sediment', 'Oceanography', 'Nutrient', 'North sea', 'Sea level', 'Current (fluid)', 'Inflow', 'Hydrology (agriculture)', 'Geology', 'Ecology', 'Geomorphology', 'Geotechnical engineering', 'Biology']

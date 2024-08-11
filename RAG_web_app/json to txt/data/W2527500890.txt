@@ -1,0 +1,12 @@
+ID: W2527500890
+TITLE: Microplastics in the Southern Ocean
+AUTHOR: ['Atsuhiko Isobe', 'Kaori Uchiyama-Matsumoto', 'Keiichi Uchida', 'Tadashi Tokai']
+ABSTRACT:
+A field survey to collect microplastics with sizes <5mm was conducted in the Southern Ocean in 2016. We performed five net-tows and collected 44 pieces of plastic. Total particle counts of the entire water column, which is free of vertical mixing, were computed using the surface concentration (particle count per unit seawater volume) of microplastics, wind speed, and significant wave height during the observation period. Total particle counts at two stations near Antarctica were estimated to be in the order of 100,000pieceskm-2.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 303
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Microplastics', 'Environmental science', 'Water column', 'Seawater', 'Oceanography', 'Significant wave height', 'Particle (ecology)', 'Atmospheric sciences', 'Wind wave', 'Geology']

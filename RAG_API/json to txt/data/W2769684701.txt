@@ -1,0 +1,12 @@
+ID: W2769684701
+TITLE: Acceleration in the Global Mean Sea Level Rise: 2005–2015
+AUTHOR: ['Shuang Yi', 'Kosuke Heki', 'Qian An']
+ABSTRACT:
+Abstract Global mean sea level rise has been accelerating for more than 100 years, and the acceleration in the last two decades seems to further increase. The latest development in geodetic and marine observations enables us to scrutinize and understand the sources of the sea level acceleration in the last decade. For this end, observations from satellite altimetry, gravimetry, and in situ measurements of the ocean between 2005 and 2015 are combined, and their closure is examined. Our results show that the acceleration during the last decade (0.27 ± 0.17 mm/yr 2 ) is about 3 times faster than its value during 1993–2014. The acceleration comes from three factors, that is, 0.04 ± 0.01 mm/yr 2 (~15%) by land ice melting, 0.12 ± 0.06 mm/yr 2 (~44%) by thermal expansion of the seawater, and 0.11 ± 0.02 mm/yr 2 (~41%) by declining land water storage. Although these values in 11 years may suffer from natural variabilities, they shed light on the underlying mechanisms of sea level acceleration and reflect its susceptibility to the global warming.
+
+SOURCE: Geophysical research letters
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2017GL076129
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sea level', 'Gravimetry', 'Climatology', 'Acceleration', 'Geodetic datum', 'Sea level rise', 'Satellite altimetry', 'Environmental science', 'Climate change', 'Altimeter', 'Global warming', 'Geology', 'Oceanography', 'Geodesy', 'Atmospheric sciences', 'Physics', 'Geotechnical engineering', 'Classical mechanics', 'Reservoir modeling']

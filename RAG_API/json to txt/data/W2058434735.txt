@@ -1,0 +1,12 @@
+ID: W2058434735
+TITLE: Development and mass movement processes of the north-eastern Storegga Slide
+AUTHOR: ['Aaron Micallef', 'Douglas G. Masson', 'Christian Berndt', 'Dorrik A. V. Stow']
+ABSTRACT:
+The Storegga Slide, which occurred ∼8100 years ago, is one of the world's largest and best studied exposed submarine landslides. In this study we use novel geomorphometric techniques to constrain the submarine mass movements that have shaped the north-eastern Storegga Slide, understand the link between different forms of failure, and propose a revised development model for this region. According to this model, the north-eastern part of the Storegga Slide has developed in four major events. The first event (event 1) was triggered in water depths of 1500–2000 m. In this event, the surface sediments were removed by debris flows and turbidity currents, and deposited in the Norwegian Sea Basin. Loading of the seabed by sediments mobilised by the debris flows and turbidity currents resulted in the development of an evacuation structure. Loss of support associated with this evacuation structure, reactivation of old headwalls and seismic loading activated spreading in the failure surface of event 1 up to the main headwall (event 2). In some areas, spreading blocks have undergone high displacement and remoulding. Parts of the spreading morphology and the underlying sediment have been deformed or removed by numerous debris flows and turbidity currents (event 3). We suggest that the higher displacement and remoulding of the spreading blocks, and their removal by debris flows and turbidity currents, was influenced by increased pore pressures, possibly due to gas hydrate dissolution/dissociation or by lateral variability in the deposition of contourite drifts in palaoeslide scars. The fourth event entailed a large, blocky debris flow that caused localised compression and transpressive shearing in the southern part of the spreading area.
+
+SOURCE: Quaternary science reviews
+PDF URL: None
+CITED BY COUNT: 47
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Geology', 'Debris', 'Debris flow', 'Submarine landslide', 'Mass movement', 'Turbidity current', 'Landslide', 'Geomorphology', 'Deposition (geology)', 'Sediment', 'Structural basin', 'Bioturbation', 'Oceanography', 'Sedimentary depositional environment']

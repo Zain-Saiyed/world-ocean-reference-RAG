@@ -1,0 +1,12 @@
+ID: W2754972898
+TITLE: Seagrass ecosystem trajectory depends on the relative timescales of resistance, recovery and disturbance
+AUTHOR: ['Katherine R. O’Brien', 'Michelle Waycott', 'Paul Maxwell', 'Gary A. Kendrick', 'James Udy', 'A. Ferguson', 'Kieryn Kilminster', 'Peter Scanes', 'Len McKenzie', 'Kathryn McMahon', 'Matthew Adams', 'Jimena Samper‐Villarreal', 'Catherine Collier', 'Mitchell Lyons', 'Peter J. Mumby', 'Lynda Radke', 'Marjolijn J. A. Christianen', 'William C. Dennison']
+ABSTRACT:
+Seagrass ecosystems are inherently dynamic, responding to environmental change across a range of scales. Habitat requirements of seagrass are well defined, but less is known about their ability to resist disturbance. Specific means of recovery after loss are particularly difficult to quantify. Here we assess the resistance and recovery capacity of 12 seagrass genera. We document four classic trajectories of degradation and recovery for seagrass ecosystems, illustrated with examples from around the world. Recovery can be rapid once conditions improve, but seagrass absence at landscape scales may persist for many decades, perpetuated by feedbacks and/or lack of seed or plant propagules to initiate recovery. It can be difficult to distinguish between slow recovery, recalcitrant degradation, and the need for a window of opportunity to trigger recovery. We propose a framework synthesizing how the spatial and temporal scales of both disturbance and seagrass response affect ecosystem trajectory and hence resilience.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 104
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Seagrass', 'Disturbance (geology)', 'Ecosystem', 'Zostera marina', 'Environmental science', 'Zostera', 'Propagule', 'Resistance (ecology)', 'Habitat', 'Ecology', 'Psychological resilience', 'Environmental resource management', 'Biology', 'Psychology', 'Paleontology', 'Psychotherapist']

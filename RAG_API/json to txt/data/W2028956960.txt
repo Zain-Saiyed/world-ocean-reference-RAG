@@ -1,0 +1,12 @@
+ID: W2028956960
+TITLE: <i>Duabanga</i>‐like leaves from the Middle Eocene Princeton chert and comparative leaf histology of Lythraceae sensu lato
+AUTHOR: ['Stefan A. Little', 'Ruth A. Stockey', 'Richard C Keating']
+ABSTRACT:
+A permineralized lythraceous leaf type found in close association with fruits, stems, and roots of Decodon allenbyensis Cevallos‐Ferriz et Stockey in the Middle Eocene Princeton chert of British Columbia, Canada, is described. Midribs have a prominent C‐shaped midvein surrounded by sclerenchyma, with an adaxial epidermis of rectangular to rounded cells lacking enlarged mucilage cells. Leaves are dorsiventral, 180–270 μm thick at the lamina, with a double palisade layer. Abaxial epidermal cells have prominent papillae, and these epidermal cells can be infected by fungi, forming dark sterile stromata. Fossil leaves are similar to those of Myrtales and are compared to those of Lythraceae sensu lato. Although these leaves are thought to belong to the previously described Decodon allenbyensis found in the same chert layer, they lack the diagnostic features of extant Decodon leaves. Instead they share most anatomical similarities with Duabanga grandiflora Roxburgh ex DC Walpers (Lythraceae, subfamily Duabangoideae) including vascular tissues, palisade and spongy mesophyll, bundle fibers, and abaxial epidermal papillae. Duabanga grandiflora differs from the fossil in having mucilaginous cells and a consistently V‐shaped abaxial midrib. Although anatomically similar to Duabanga , the fossil leaves are considered those of D. allenbyensis , based on association and the depositional environment prior to preservation. Recent phylogenetic analyses place Duabanga and Decodon in separate clades within Lythraceae, but relationships between these clades are not well supported, indicating that fossil leaves should provide useful anatomical characters for elucidating relationships within Lythraceae.
+
+SOURCE: American journal of botany
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.3732/ajb.91.7.1126
+CITED BY COUNT: 19
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Lythraceae', 'Biology', 'Sensu', 'Botany', 'Mucilage', 'Paleobotany', 'Genus', 'Plant development', 'Biochemistry', 'Gene']

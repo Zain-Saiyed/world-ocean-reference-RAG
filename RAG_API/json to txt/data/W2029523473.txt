@@ -1,0 +1,12 @@
+ID: W2029523473
+TITLE: Underwater, low-frequency noise in a coastal sea turtle habitat
+AUTHOR: ['Y. Samuel', 'Stephen J. Morreale', 'Christopher W. Clark', 'Correigh Greene', 'Mount Richmond']
+ABSTRACT:
+Underwater sound was recorded in one of the major coastal foraging areas for juvenile sea turtles in the Peconic Bay Estuary system in Long Island, New York. The recording season of the underwater environment coincided with the sea turtle activity season in an inshore area where there is considerable boating and recreational activity, especially during the summer between Independence Day and Labor Day. Within the range of sea turtle hearing, average noise pressure reached 110 dB during periods of high human activity and diminished proportionally, down to 80 dB, with decreasing human presence. Therefore, during much of the season when sea turtles are actively foraging in New York waters, their coastal habitats are flooded with underwater noise. During the period of highest human activity, average noise pressures within the range of frequencies heard by sea turtles were greater by over two orders of magnitude (26 dB) than during the lowest period of human activity. Sea turtles undoubtedly are exposed to high levels of noise, most of which is anthropogenic. Results suggest that continued exposure to existing high levels of pervasive anthropogenic noise in vital sea turtle habitats and any increase in noise could affect sea turtle behavior and ecology.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: None
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Sea turtle', 'Habitat', 'Underwater', 'Environmental science', 'Bay', 'Foraging', 'Estuary', 'Fishery', 'Noise (video)', 'Range (aeronautics)', 'Oceanography', 'Sound (geography)', 'Turtle (robot)', 'Ecology', 'Biology', 'Geology', 'Materials science', 'Composite material', 'Artificial intelligence', 'Computer science', 'Image (mathematics)']

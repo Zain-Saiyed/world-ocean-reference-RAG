@@ -1,0 +1,12 @@
+ID: W3023670589
+TITLE: Harmful Algal Blooms and Tourism: The Economic Impact to Counties in Southwest Florida
+AUTHOR: ['Andrew Béchard']
+ABSTRACT:
+The most recent red tide bloom in the summer of 2018 served as a wake up call to many in the Gulf region of Florida. The algal bloom decimated the coast, killing off scores of fish and marine life. As beaches were forced to close, tourists and residents alike were no longer producing usual economic activity on the shorelines. This, however, has happened before. We consider four major blooms from the past twenty years, two in 2005, one in 2006, and the aforementioned bloom in 2018. All lasted for over three months and had significant impacts on the economy. We examine the effects of two industries, the lodging and restaurant sectors, to determine the magnitude of losses in taxable sales caused by red tide. Using a difference-in-differences model, we compare taxable sales in counties affected by red tide to those that were unaffected. We find that affected counties produce 5-7 percent and 1.5-2.5 percent less in the lodging and restaurant sectors, respectively. If red tide blooms become more frequent and persistent, losses for coastal businesses could also continue to grow. Policy and strategy to mitigate economics losses must take into consideration the harmful effects of these algal blooms.
+
+SOURCE: The review of regional studies/The Review of regional studies
+PDF URL: https://rrs.scholasticahq.com/article/12705.pdf
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Algal bloom', 'Red tide', 'Tourism', 'Shore', 'Taxable income', 'Bloom', 'Fishery', 'Geography', 'Overfishing', 'Oceanography', 'Fish <Actinopterygii>', 'Business', 'Ecology', 'Biology', 'Nutrient', 'Phytoplankton', 'Accounting', 'Archaeology', 'Geology']

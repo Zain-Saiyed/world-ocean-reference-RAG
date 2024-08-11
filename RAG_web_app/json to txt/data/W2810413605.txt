@@ -1,0 +1,12 @@
+ID: W2810413605
+TITLE: A strategy for the conservation of biodiversity on mid-ocean ridges from deep-sea mining
+AUTHOR: ['Daniel C. Dunn', 'C. L. Van Dover', 'Ron J. Etter', 'Craig R. Smith', 'Lisa A. Levin', 'Telmo Morato', 'Ana Colaço', 'Andrew Dale', 'Andrey Gebruk', 'Kristina M. Gjerde', 'Patrick N. Halpin', 'Kerry L. Howell', 'David E. Johnson', 'José Ángel Álvarez Pérez', 'Marta Chantal Ribeiro', 'Heiko Stuckas', 'P. P. E. Weaver']
+ABSTRACT:
+An international initiative takes conservation planning into the deep ocean to inform environmental management of deep-sea mining.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/4/7/eaar4313.full.pdf
+CITED BY COUNT: 89
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Deep sea', 'Biodiversity', 'Environmental resource management', 'Oceanography', 'Earth science', 'Geology', 'Geography', 'Environmental science', 'Environmental planning', 'Ecology', 'Biology']

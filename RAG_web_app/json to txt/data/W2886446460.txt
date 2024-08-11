@@ -1,0 +1,12 @@
+ID: W2886446460
+TITLE: High seas fisheries play a negligible role in addressing global food security
+AUTHOR: ['Laurenne Schiller', 'Megan Bailey', 'Jennifer Jacquet', 'Enric Sala']
+ABSTRACT:
+On the basis of the available data, high seas fisheries do not make a direct or crucial contribution to global food security.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/4/8/eaat8351.full.pdf
+CITED BY COUNT: 61
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishery', 'International waters', 'Pelagic zone', 'Krill', 'Fishing', 'Food security', 'European union', 'Geography', 'Biology', 'Business', 'International trade', 'Ecology', 'Agriculture']

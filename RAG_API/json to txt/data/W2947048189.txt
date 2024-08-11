@@ -1,0 +1,12 @@
+ID: W2947048189
+TITLE: Microplastic removal by Red Sea giant clam (Tridacna maxima)
+AUTHOR: ['Silvia Arossa', 'Cecilia Martin', 'Susann Rossbach', 'Carlos M. Duarte']
+ABSTRACT:
+This study assesses for the first time the ingestion of microplastics by giant clams and evaluates their importance as a sink for this pollutant. A total of 24 individuals of two size classes were collected from the Red Sea and then exposed for 12 days to 4 concentrations of polyethylene microbeads ranging from 53 to 500 μm. Experiments revealed that clams actively take up microplastic from the water column and the average of beads retained inside the animal was ∼7.55 ± 1.89 beads individual -1 day -1 (5.76 ± 1.16 MPs/g dw). However, the digestive tract itself cannot be considered the only sink of microbeads in Tridacnids. Indeed, shells play a key role as well. The abundance of microplastic adhering to the shells, which was estimated directly, was positively correlated to the concentration of beads found in the surrounding seawater. Therefore, clams' shells contribute to the removal of 66.03 ± 2.50% of the microplastic present in the water column. Furthermore, stress responses to the exposure to polyethylene were investigated. Gross Primary Production:Respiration (GPP:R) ratio decreased throughout of the experiment, but no significant difference was found between treatments and controls.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 75
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Microplastics', 'Water column', 'Seawater', 'Sink (geography)', 'Environmental chemistry', 'Bivalvia', 'Animal science', 'Environmental science', 'Biology', 'Oceanography', 'Chemistry', 'Ecology', 'Mollusca', 'Cartography', 'Geography', 'Geology']

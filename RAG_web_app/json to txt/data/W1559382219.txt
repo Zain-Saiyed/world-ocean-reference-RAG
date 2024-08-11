@@ -1,0 +1,12 @@
+ID: W1559382219
+TITLE: A scientific alternative to moratoria for rebuilding depleted international tuna stocks
+AUTHOR: ['Richard Hillary', 'Ann L. Preece', 'Campbell R. Davies', 'Hiroyuki Kurota', 'Osamu Sakai', 'Tomoyuki Itoh', 'Ana M. Parma', 'Doug S Butterworth', 'James N. Ianelli', 'Trevor A. Branch']
+ABSTRACT:
+Abstract There is considerable international concern and scientific debate about the current state and future of tuna stocks worldwide and the capacity of Regional Fisheries Management Organisations to manage the associated fisheries effectively. In some cases, this concern has extended to predictions of imminent collapse with minimal chances of recovery, even under a commercial catch moratorium. As a viable alternative to a full fishery closure, the Commission for the Conservation of Southern Bluefin Tuna ( CCSBT ) has adopted a scientifically tested, adaptive rebuilding strategy for the depleted southern bluefin tuna ( Thunnus maccoyii ) stock. The management procedure ( MP ) adopted involves a harvest control rule that fully specifies the total allowable catch as a function of key indicators of stock status, adjusting future harvest levels every three years so as to meet the rebuilding targets agreed by CCSBT . It was chosen from a subset of candidate MP s selected following extensive simulation testing. This involved first selecting a wide range of plausible scenarios for stock status and input data, ranging from pessimistic to optimistic, against which the alternative candidate MP s were tested to ensure that they were robust to important uncertainties. This is the first time that a comprehensively evaluated MP has been adopted for an internationally managed tuna stock. Both the process and the outcomes have broad applicability to other internationally managed stocks.
+
+SOURCE: Fish and fisheries
+PDF URL: None
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Tuna', 'Stock (firearms)', 'Fishery', 'Business', 'Fisheries management', 'Commission', 'Thunnus', 'Fishing', 'Geography', 'Finance', 'Biology', 'Fish <Actinopterygii>', 'Archaeology']

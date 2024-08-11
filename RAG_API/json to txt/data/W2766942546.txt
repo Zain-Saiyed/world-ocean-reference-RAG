@@ -1,0 +1,12 @@
+ID: W2766942546
+TITLE: Papahānaumokuākea: Integrating Culture in the Design and Management of one of the World's Largest Marine Protected Areas
+AUTHOR: ['Kekuewa Kikiloi', 'Alan M. Friedlander', "'Aulani Wilhelm", 'Nai‘a Lewis', 'Kalani Quiocho', "William 'Āila", "Sol Kaho'ohalahala"]
+ABSTRACT:
+Papahānaumokuākea Marine National Monument is one of the world's largest marine protected areas and was designated the first mixed conservation site in the United States due to its natural and cultural importance. It is also the world's first cultural seascape, being recognized for its continuing connections to indigenous people. As the westernmost place in the Hawaiian universe, many believe these islands and seas are the pathway that Native Hawaiians travel after death, returning to pō (night; realm of the gods). This intimate kinship has profound implications for contemporary management. Current management emphasizes integration of science, policy, cultural knowledge, traditions, and practices to create successful management strategies appropriate for both natural and cultural resources. This management is based on Native Hawaiian values and practices that incorporate observation and understanding of the natural world, indigenous principles and philosophies, cultural norms, community relationships, and unique epistemologies deeply imbedded in and formed by relationships of people with place. A cornerstone of this effort has been the direct involvement of cultural practitioners in policy, management, education, and research. This biocultural approach has led to more effective management of the monument and serves as a model for conservation around the world.
+
+SOURCE: Coastal management
+PDF URL: None
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Indigenous', 'Seascape', 'Realm', 'Environmental ethics', 'Traditional knowledge', 'Natural resource', 'Kinship', 'Cornerstone', 'Natural (archaeology)', 'Geography', 'Natural resource management', 'Environmental resource management', 'Sociology', 'Political science', 'Ecology', 'Anthropology', 'Archaeology', 'Law', 'Philosophy', 'Environmental science', 'Habitat', 'Biology']

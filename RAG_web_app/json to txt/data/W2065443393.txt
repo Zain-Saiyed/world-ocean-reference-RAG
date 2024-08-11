@@ -1,0 +1,12 @@
+ID: W2065443393
+TITLE: Pacific bluefin tuna transport Fukushima-derived radionuclides from Japan to California
+AUTHOR: ['Daniel J. Madigan', 'Zofia Baumann', 'Nicholas S. Fisher']
+ABSTRACT:
+The Fukushima Dai-ichi release of radionuclides into ocean waters caused significant local and global concern regarding the spread of radioactive material. We report unequivocal evidence that Pacific bluefin tuna, Thunnus orientalis, transported Fukushima-derived radionuclides across the entire North Pacific Ocean. We measured γ-emitting radionuclides in California-caught tunas and found (134)Cs (4.0 ± 1.4 Bq kg(-1)) and elevated (137)Cs (6.3 ± 1.5 Bq kg(-1)) in 15 Pacific bluefin tuna sampled in August 2011. We found no (134)Cs and background concentrations (~1 Bq kg(-1)) of (137)Cs in pre-Fukushima bluefin and post-Fukushima yellowfin tunas, ruling out elevated radiocesium uptake before 2011 or in California waters post-Fukushima. These findings indicate that Pacific bluefin tuna can rapidly transport radionuclides from a point source in Japan to distant ecoregions and demonstrate the importance of migratory animals as transport vectors of radionuclides. Other large, highly migratory marine animals make extensive use of waters around Japan, and these animals may also be transport vectors of Fukushima-derived radionuclides to distant regions of the North and South Pacific Oceans. These results reveal tools to trace migration origin (using the presence of (134)Cs) and potentially migration timing (using (134)Cs:(137)Cs ratios) in highly migratory marine species in the Pacific Ocean.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/109/24/9483.full.pdf
+CITED BY COUNT: 130
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Radionuclide', 'Tuna', 'Thunnus', 'Fishery', 'Yellowfin tuna', 'Pacific ocean', 'Environmental science', 'Oceanography', 'Biology', 'Fish <Actinopterygii>', 'Geology', 'Physics', 'Quantum mechanics']

@@ -1,0 +1,12 @@
+ID: W4239027573
+TITLE: Bowhead Whale
+AUTHOR: ['J. C. George', 'David J. Rugh', 'Robert Suydam']
+ABSTRACT:
+Bowhead whales live in Arctic and subarctic areas and are closely associated with sea ice. They are filter feeding baleen whales. The largest population, the Bering-Chukchi Beaufort stock, lives along the coasts of Alaska, Chukotka, and northwest Canada. Bowhead whales have been hunted by indigenous people for roughly 2000 years, but it was historical commercial whaling across all stocks that drove the species to near extinction. Modern threats include entanglement in fishing gear, climate change, and other possible human activities such as commercial shipping and oil and gas activities.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Whaling', 'Fishery', 'Geography', 'Baleen', 'Subarctic climate', 'Arctic', 'Beaufort sea', 'Fishing', 'Whale', 'Population', 'Oceanography', 'Indigenous', 'Ecology', 'Archaeology', 'Geology', 'Biology', 'Demography', 'Sociology']

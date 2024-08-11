@@ -1,0 +1,12 @@
+ID: W2134253128
+TITLE: Marine introductions in the Southern Ocean: an unrecognised hazard to biodiversity
+AUTHOR: ['Patrick N. Lewis', 'Chad L. Hewitt', 'Martin J. Riddle', 'Andrew McMinn']
+ABSTRACT:
+This study investigated the potential for transport of organisms between Hobart, Macquarie Island and the Antarctic continent by ships used in support of Antarctic science and tourism. Northward transport of plankton in ballast water is more likely than southward transport because ballast is normally loaded in the Antarctic and unloaded at the home port. Culturing of ballast water samples revealed that high-latitude hitchhikers were able to reach greater diversities when cultured at temperate thermal conditions than at typical Southern Ocean temperatures, suggesting the potential for establishment in the Tasmanian coastal environment. Several known invasive species were identified among fouling communities on the hulls of vessels that travel between Hobart and the Southern Ocean. Southward transport of hull fouling species is more likely than northward transport due to the accumulation of assemblages during the winter period spent in the home port of Hobart. This study does not prove that non-indigenous marine species have, or will be, transported and established as a consequence of Antarctic shipping but illustrates that the potential exists. Awareness of the potential risk and simple changes to operating procedures may reduce the chance of introductions in the future.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 140
+PUBLICATION YEAR: 2003
+TYPE: article
+CONCEPTS: ['Ballast', 'Oceanography', 'Plankton', 'Temperate climate', 'Biodiversity', 'Water transport', 'Port (circuit theory)', 'Environmental science', 'Fishery', 'Ecology', 'Biology', 'Geology', 'Environmental engineering', 'Engineering', 'Water flow', 'Electrical engineering']

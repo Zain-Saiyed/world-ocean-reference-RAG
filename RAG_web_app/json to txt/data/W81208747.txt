@@ -1,0 +1,12 @@
+ID: W81208747
+TITLE: Shaping Vent and Seep Communities: Habitat Provision and Modification by Foundation Species
+AUTHOR: ['Breea Govenar']
+ABSTRACT:
+Ecologists strive to identify mechanisms that determine the structure or composition of biological communities. Until the past decade, the role of positive species interactions in regulating community structure had been relatively overlooked, compared to negative species interactions, such as competition and predation. While mutualism and commensalism have long been recognized as critically important in pairwise species interactions, the impact of facilitation and habitat provision or modification on community dynamics and species diversity has received increased attention only more recently (Bertness and Callaway 1994; Hacker and Gaines 1997). Part of the reason for the oversight is that positive species interactions are more prevalent in habitats with harsh environmental ­conditions (Bertness et al. 1999; Crain and Bertness 2006) and are more often detectable at regional scales (Bertness and Leonard 1997; van de Koppel et al. 2006). Communities may be structured by facilitation cascades, where foundation species create the habitat or modify the environment that facilitates the settlement of other species, which subsequently interact with one another (Bruno 2000; Altieri et al 2007). Foundation species are large or spatially dominant organisms that create or provide habitats, colonized by other species (Bruno and Bertness 2001; for review).
+
+SOURCE: Topics in geobiology
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2010
+TYPE: book-chapter
+CONCEPTS: ['Foundation species', 'Ecology', 'Habitat', 'Mutualism (biology)', 'Facilitation', 'Biology', 'Community structure', 'Commensalism', 'Geography', 'Genetics', 'Neuroscience', 'Bacteria']

@@ -1,0 +1,12 @@
+ID: W2586701256
+TITLE: Microplastic in the surface waters of the Ross Sea (Antarctica): Occurrence, distribution and characterization by FTIR
+AUTHOR: ['Alessandra Cincinelli', 'Costanza Scopetani', 'David Chelazzi', 'Emilia Lombardini', 'Tania Martellini', 'Athanasios Katsoyiannis', 'María Cristina Fossi', 'Simonetta Corsolini']
+ABSTRACT:
+This is the first survey to investigate the occurrence and extent of microplastic (MPs) contamination in sub surface waters collected near-shore and off-shore the coastal area of the Ross Sea (Antarctica). Moreover, a non-invasive method to analyze MPs, consisting in filtration after water sampling and analysis of the dried filter through Fourier Transform Infrared Spectroscopy (FTIR) 2D Imaging, using an FPA detector, was proposed. The non-invasiveness of analytical set-up reduces potential bias and allows subsequent analysis of the filter sample for determination of other classes of contaminants. MPs ranged from 0.0032 to 1.18 particle per m3 of seawater, with a mean value of 0.17 ± 0.34 particle m-3, showing concentrations lower than those found in the oceans worldwide. MPs included fragments (mean 71.9 ± 21.6%), fibers (mean 12.7 ± 14.3%), and others (mean 15.4 ± 12.8%). The presence of different types of MPs was confirmed by FTIR spectroscopy, with predominant abundance of polyethylene and polypropylene. The potential environmental impact arising from scientific activities, such as marine activities for scientific purposes, and from the sewage treatment plant, was also evidenced.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 471
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Fourier transform infrared spectroscopy', 'Seawater', 'Environmental science', 'Contamination', 'Environmental chemistry', 'Surface water', 'Filtration (mathematics)', 'Shore', 'Oceanography', 'Chemistry', 'Environmental engineering', 'Geology', 'Chemical engineering', 'Biology', 'Ecology', 'Mathematics', 'Statistics', 'Engineering']

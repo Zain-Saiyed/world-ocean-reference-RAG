@@ -1,0 +1,12 @@
+ID: W2515004904
+TITLE: Vertical water mass structure in the North Atlantic influences the bathymetric distribution of species in the deep-sea coral genus Paramuricea
+AUTHOR: ['Veronica Z. Radice', 'Andrea M. Quattrini', 'Vonda E. Wareham', 'Evan Edinger', 'Erik E. Cordes']
+ABSTRACT:
+Deep-sea corals are the structural foundation of their ecosystems along continental margins worldwide, yet the factors driving their broad distribution are poorly understood. Environmental factors, especially depth-related variables including water mass properties, are thought to considerably affect the realized distribution of deep-sea corals. These factors are governed by local and regional oceanographic conditions that directly influence the dispersal of larvae, and therefore affect the ultimate distribution of adult corals. We used molecular barcoding of mitochondrial and nuclear sequences to identify species of octocorals in the genus Paramuricea collected from the Labrador Sea to the Grand Banks of Newfoundland, Canada at depths of 150–1500 m. The results of this study revealed overlapping bathymetric distributions of the Paramuricea species present off the eastern Canadian coast, including the presence of a few cryptic species previously designated as Paramuricea placomus. The distribution of Paramuricea species in the western North Atlantic differs from the Gulf of Mexico, where five Paramuricea species exhibit strong segregation by depth. The different patterns of Paramuricea species in these contrasting biogeographic regions provide insight into how water mass structure may shape species distribution. Investigating Paramuricea prevalence and distribution in conjunction with oceanographic conditions can help demonstrate the factors that generate and maintain deep-sea biodiversity.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: http://manuscript.elsevier.com/S0967063715301941/pdf/S0967063715301941.pdf
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Oceanography', 'Bathymetry', 'Coral', 'Water mass', 'Ecology', 'Species distribution', 'Biodiversity', 'Genus', 'Deep sea', 'Continental shelf', 'Cosmopolitan distribution', 'Geography', 'Biology', 'Geology', 'Habitat', 'Population', 'Demography', 'Sociology']

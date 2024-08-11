@@ -1,0 +1,12 @@
+ID: W2115274344
+TITLE: Environment and Sustainable Development in the Kingdom of Saudi Arabia: Current Status and Future Strategy
+AUTHOR: ['Tahir Husain', 'A. Khalil']
+ABSTRACT:
+Air quality deterioration in urban areas; high energy demand and consumption due to regional population growth and economic development; concerns about safe drinking water supplies due to a scarcity of fresh water; air quality deterioration, industrial pollution, waste management, and pollution in coastal areas; and subsequent stress on marine ecosystems are all major environmental challenges being faced by the Kingdom of Saudi Arabia. For effective protection of the environment, an interdisciplinary approach within a sustainable framework, which integrates human needs with economic development and environmental protection, is required. This paper presents an overview of Saudi Arabia’s major environmental problems and challenges and offers opportunities to use economic growth, social equity, and protection of the environment as interrelated components. The role of active participation by governments, stakeholders, businesses, academic institutions, and individuals in the decision-making process and an inter-disciplinary research approach will be identified for each major environmental issue.
+
+SOURCE: Journal of sustainable development
+PDF URL: None
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Business', 'Environmental planning', 'Scarcity', 'Sustainable development', 'Equity (law)', 'Population growth', 'Natural resource economics', 'Environmental quality', 'Environmental protection', 'Population', 'Environmental resource management', 'Economic growth', 'Geography', 'Environmental science', 'Economics', 'Ecology', 'Political science', 'Law', 'Biology', 'Demography', 'Sociology', 'Microeconomics']

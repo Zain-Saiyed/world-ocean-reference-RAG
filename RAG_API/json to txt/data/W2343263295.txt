@@ -1,0 +1,12 @@
+ID: W2343263295
+TITLE: Patterns of bacteria-host associations suggest different ecological strategies between two reef building cold-water coral species
+AUTHOR: ['Anne-Leïla Meistertzheim', 'Franck Lartaud', 'Sophie Arnaud‐Haond', 'Dimitri Kalenitchenko', 'Manon Bessalam', 'Nadine Le Bris', 'Pierre E. Galand']
+ABSTRACT:
+Cold-water corals (CWC) are main ecosystem engineers of the deep sea, and their reefs constitute hot-spots of biodiversity. However, their ecology remains poorly understood, particularly, the nature of the holobiont formed by corals with their associated bacterial communities. Here, we analyzed Madrepora oculata and Lophelia pertusa samples, collected from one location in a Mediterranean canyon in two different seasons (autumn and spring), in order to test for species specificity and temporal stability of the host-bacteria associations. The 16S rRNA sequencing revealed host-specific patterns of bacterial communities associated with L. pertusa and M. oculata, both in terms of community composition and diversity. All analyzed M. oculata polyps exhibited temporally and spatially similar bacterial communities dominated by haplotypes homologous to the known cnidarians-associated genus Endozoicomonas. In contrast, the bacterial communities associated with L. pertusa varied among polyps from the same colony, as well as among distinct colonies and between seasons. While the resilient consortium formed by M. oculata and its bacterial community fit the definition of holobiont, the versatility of the L. pertusa microbiome suggests that this association is more influenced by the environmental conditions or nutritional status. Our results thus highlight distinct host/microbes association strategies for these two closely related Scleractinians sharing the same habitat, suggesting distinct sensitivity to environmental change.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Holobiont', 'Biology', 'Ecology', 'Reef', 'Anthozoa', 'Coral', 'Microbiome', 'Host (biology)', 'Ecosystem', 'Biodiversity', 'Habitat', 'Gammaproteobacteria', 'Symbiosis', 'Bacteria', '16S ribosomal RNA', 'Bioinformatics', 'Genetics']

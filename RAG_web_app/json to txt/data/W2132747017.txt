@@ -1,0 +1,12 @@
+ID: W2132747017
+TITLE: Biogeochemical variations at the Porcupine Abyssal Plain sustained Observatory in the northeast Atlantic Ocean, from weekly to inter-annual timescales
+AUTHOR: ['Susan E. Hartman', 'Zhiping Jiang', 'Daniela Turk', 'Richard S. Lampitt', 'Helene Frigstad', 'Clare Ostle', 'Ute Schuster']
+ABSTRACT:
+Abstract. We present high-resolution autonomous measurements of carbon dioxide partial pressure p(CO2) taken in situ at the Porcupine Abyssal Plain sustained Observatory (PAP-SO) in the northeast Atlantic (49° N, 16.5° W; water depth of 4850 m) for the period 2010–2012. Measurements of p(CO2) made at 30 m depth on a sensor frame are compared with other autonomous biogeochemical measurements at that depth (including chlorophyll a fluorescence and nitrate concentration data) to analyse weekly to seasonal controls on p(CO2) flux in the inter-gyre region of the North Atlantic. Comparisons are also made with in situ regional time series data from a ship of opportunity and mixed layer depth (MLD) measurements from profiling Argo floats. There is a persistent under-saturation of CO2 in surface waters throughout the year which gives rise to a perennial CO2 sink. Comparison with an earlier data set collected at the site (2003–2005) confirms seasonal and inter-annual changes in surface seawater chemistry. There is year-to-year variability in the timing of deep winter mixing and the intensity of the spring bloom. The 2010–2012 period shows an overall increase in p(CO2) values when compared to the 2003–2005 period as would be expected from increases due to anthropogenic CO2 emissions. The surface temperature, wind speed and MLD measurements are similar for both periods of time. Future work should incorporate daily CO2 flux measurements made using CO2 sensors at 1 m depth and the in situ wind speed data now available from the UK Met Office Buoy.
+
+SOURCE: Biogeosciences
+PDF URL: https://bg.copernicus.org/articles/12/845/2015/bg-12-845-2015.pdf
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Biogeochemical cycle', 'Environmental science', 'Oceanography', 'Argo', 'Ocean gyre', 'Mixed layer', 'Bloom', 'Climatology', 'Atmospheric sciences', 'Geology', 'Subtropics', 'Chemistry', 'Fishery', 'Environmental chemistry', 'Biology']

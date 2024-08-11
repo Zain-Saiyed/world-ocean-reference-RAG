@@ -1,0 +1,12 @@
+ID: W2921436105
+TITLE: Mangrove dynamics and blue carbon sequestration
+AUTHOR: ['Kerrylee Rogers', 'Neil Saintilan', 'Debashish Mazumder', 'Jeffrey J. Kelleway']
+ABSTRACT:
+We monitored coastal wetland vertical accretion, elevation gain and surface carbon (C) at Homebush Bay, Australia over 18 years (2000–2017) in three settings initially characterized by saltmarsh, mixed saltmarsh–mangrove ecotone and mangrove-dominated zones. During this time, the saltmarsh transitioned to mixed saltmarsh–mangrove ecotone, and the mixed saltmarsh–mangrove ecotone transitioned to mangrove, consistent with vegetation transitions observed across the east Australian continent in recent decades. In spite of mangrove recruitment and thickening in the former saltmarsh zone, and the dominance of mangrove root material as a contributing C source, the rate of C accumulation in the former saltmarsh zone did not change over the study period, and there was no significant increase in surface elevation. This contrasted with the response of sites with a longer history of mangrove colonization, which showed strong accretion and C accumulation over the period. The result suggests that the C accumulation and surface elevation gains made as a result of mangrove colonization may not be observable over initial decades, but will be significant in the longer term as forests reach maturity.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2018.0471
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mangrove', 'Ecotone', 'Salt marsh', 'Wetland', 'Ecology', 'Dominance (genetics)', 'Environmental science', 'Biology', 'Habitat', 'Biochemistry', 'Gene']

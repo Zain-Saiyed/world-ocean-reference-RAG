@@ -1,0 +1,12 @@
+ID: W2752363647
+TITLE: Atoll Groundwater Movement and Its Response to Climatic and Sea-Level Fluctuations
+AUTHOR: ['Ferdinand K. J. Oberle', 'Peter W. Swarzenski', 'Curt D. Storlazzi']
+ABSTRACT:
+Groundwater resources of low-lying atoll islands are threatened due to short-term and long-term changes in rainfall, wave climate, and sea level. A better understanding of how these forcings affect the limited groundwater resources was explored on Roi-Namur in the Republic of the Marshall Islands. As part of a 16-month study, a rarely recorded island-overwash event occurred and the island's aquifer's response was measured. The findings suggest that small-scale overwash events cause an increase in salinity of the freshwater lens that returns to pre-overwash conditions within one month. The overwash event is addressed in the context of climate-related local sea-level change, which suggests that overwash events and associated degradations in freshwater resources are likely to increase in severity in the future due to projected rises in sea level. Other forcings, such as severe rainfall events, were shown to have caused a sudden freshening of the aquifer, with salinity levels retuning to pre-rainfall levels within three months. Tidal forcing of the freshwater lens was observed in electrical resistivity profiles, high-resolution conductivity, groundwater-level well measurements and through submarine groundwater discharge calculations. Depth-specific geochemical pore water measurements further assessed and confirmed the distinct boundaries between fresh and saline water masses in the aquifer. The identification of the freshwater lens' saline boundaries is essential for a quantitative evaluation of the aquifers freshwater resources and help understand how these resources may be impacted by climate change and anthropogenic activities.
+
+SOURCE: Water
+PDF URL: https://www.mdpi.com/2073-4441/9/9/650/pdf?version=1504170393
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Overwash', 'Aquifer', 'Groundwater', 'Environmental science', 'Atoll', 'Hydrology (agriculture)', 'Climate change', 'Submarine groundwater discharge', 'Context (archaeology)', 'Geology', 'Sea level', 'Saltwater intrusion', 'Oceanography', 'Barrier island', 'Shore', 'Geotechnical engineering', 'Reef', 'Paleontology']

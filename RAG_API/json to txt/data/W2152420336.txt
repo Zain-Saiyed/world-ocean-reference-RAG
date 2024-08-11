@@ -1,0 +1,12 @@
+ID: W2152420336
+TITLE: Icebergs as Unique Lagrangian Ecosystems in Polar Seas
+AUTHOR: ['Kenneth L. Smith', 'Alana Sherman', 'Timothy Shaw', 'Janet Sprintall']
+ABSTRACT:
+Global warming and its disproportionate impact on polar regions have led to increased iceberg populations. Southern Ocean studies in the northwest Weddell Sea have verified substantial delivery of terrestrial material accompanied by increased primary production and faunal abundance associated with free-drifting icebergs. It is hypothesized that input and utilization of macro- and micronutrients are promoted by conditions unique to free-drifting icebergs, leading to increased production, grazing, and export of organic carbon. In Arctic regions, increased freshwater input from meltwater acts to stratify and stabilize the upper water column. As has been observed in the Southern Ocean, Arctic-region icebergs should drive turbulent upwelling and reduce stratification, potentially leading to increased nitrate delivery to the local ecosystem. Increasing populations of icebergs in polar regions can potentially be important in mediating the drawdown and sequestration of CO(2) and can thus impact the oceanic carbon cycle.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Iceberg', 'Ecosystem', 'Lagrangian', 'Oceanography', 'Polar', 'Geology', 'Environmental science', 'Geography', 'Sea ice', 'Ecology', 'Physics', 'Biology', 'Astronomy', 'Mathematical physics']

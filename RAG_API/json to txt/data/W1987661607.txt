@@ -1,0 +1,12 @@
+ID: W1987661607
+TITLE: Long-term change in the megabenthos of the Porcupine Abyssal Plain (NE Atlantic)
+AUTHOR: ['David Billett', 'Brian J. Bett', 'A.L. Rice', 'Michael H. Thurston', 'Joëlle Galéron', 'Myriam Sibuet', 'George A. Wolff']
+ABSTRACT:
+A radical change in the abundance of invertebrate megafauna on the Porcupine Abyssal Plain is reported over a period of 10 years (1989–1999). Actiniarians, annelids, pycnogonids, tunicates, ophiuroids and holothurians increased significantly in abundance. However, there was no significant change in wet weight biomass. Two holothurian species, Amperima rosea and Ellipinion molle, increased in abundance by more than two orders of magnitude. Samples from the Porcupine Abyssal Plain over a longer period (1977–1999) show that prior to 1996 these holothurian species were always a minor component of the megafauna. From 1996 to 1999 A. rosea was abundant over a wide area of the Porcupine Abyssal Plain indicating that the phenomenon was not a localised event. Several dominant holothurian species show a distinct trend in decreasing body size over the study period. The changes in megafauna abundance may be related to environmental forcing (food supply) rather than to localised stochastic population variations. Inter-annual variability and long-term trends in organic matter supply to the seabed may be responsible for the observed changes in abundance, species dominance and size distributions.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 245
+PUBLICATION YEAR: 2001
+TYPE: article
+CONCEPTS: ['Megafauna', 'Abyssal plain', 'Abyssal zone', 'Abundance (ecology)', 'Oceanography', 'Ecology', 'Dominance (genetics)', 'Population', 'Biology', 'Geology', 'Sediment', 'Paleontology', 'Pleistocene', 'Biochemistry', 'Demography', 'Sociology', 'Gene']

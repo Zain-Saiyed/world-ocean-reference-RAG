@@ -1,0 +1,12 @@
+ID: W2793428009
+TITLE: The “Dirty Ice” of the McMurdo Ice Shelf: Analogues for biological oases during the Cryogenian
+AUTHOR: ['Ian Hawes', 'Anne D. Jungblut', 'E. D. Matys', 'Roger E. Summons']
+ABSTRACT:
+Abstract The Cryogenian (~717–636 Ma) is characterized by widespread glaciation and dramatic fluctuations in biogeochemical cycling during the Sturtian and Marinoan glaciations. The Snowball Earth hypothesis posits that during this period, ice‐covered oceans of more or less global extent shut down or greatly diminished photosynthesis in the marine realm. However, rather than suffering a catastrophic loss of biodiversity, fossil evidence suggests that major eukaryotic lineages survived and, indeed, the end of the Cryogenian marks the onset of a rapid diversification of eukaryotic life. Persistence of diverse life forms through glaciations is thought to have occurred in supraglacial refugia although the exact nature and full extent of such habitats remain uncertain. We present further evidence for the diversity and characteristics of supraglacial ecosystems on the McMurdo Ice Shelf in Antarctica and suggest that refugia analogous to “dirty ice,” that is debris‐covered ice shelf ecosystems, potentially provided nutrient‐rich and long‐lasting biological Cryogenian oases. We also discuss how features of the McMurdo Ice Shelf indicate that mechanisms exist whereby material can be exchanged between the shallow sea floor and the surfaces of ice shelves along continental margins, providing vectors whereby ice shelf ecosystems can nourish underlying seafloor communities and vice versa.
+
+SOURCE: Geobiology
+PDF URL: None
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Snowball Earth', 'Ice shelf', 'Geology', 'Earth science', 'Ice age', 'Ice sheet', 'Glacial period', 'Oceanography', 'Biodiversity', 'Ecology', 'Ecosystem', 'Seafloor spreading', 'Sea ice', 'Paleontology', 'Cryosphere', 'Biology']

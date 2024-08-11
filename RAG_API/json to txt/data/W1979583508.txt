@@ -1,0 +1,12 @@
+ID: W1979583508
+TITLE: Variability in krill biomass links harvesting and climate warming to penguin population changes in Antarctica
+AUTHOR: ['Wayne Z. Trivelpiece', 'Jefferson T. Hinke', 'Aileen K. Miller', 'Christian S. Reiss', 'Susan G. Trivelpiece', 'George M. Watters']
+ABSTRACT:
+The West Antarctic Peninsula (WAP) and adjacent Scotia Sea support abundant wildlife populations, many of which were nearly extirpated by humans. This region is also among the fastest-warming areas on the planet, with 5-6 °C increases in mean winter air temperatures and associated decreases in winter sea-ice cover. These biological and physical perturbations have affected the ecosystem profoundly. One hypothesis guiding ecological interpretations of changes in top predator populations in this region, the "sea-ice hypothesis," proposes that reductions in winter sea ice have led directly to declines in "ice-loving" species by decreasing their winter habitat, while populations of "ice-avoiding" species have increased. However, 30 y of field studies and recent surveys of penguins throughout the WAP and Scotia Sea demonstrate this mechanism is not controlling penguin populations; populations of both ice-loving Adélie and ice-avoiding chinstrap penguins have declined significantly. We argue in favor of an alternative, more robust hypothesis that attributes both increases and decreases in penguin populations to changes in the abundance of their main prey, Antarctic krill. Unlike many other predators in this region, Adélie and chinstrap penguins were never directly harvested by man; thus, their population trajectories track the impacts of biological and environmental changes in this ecosystem. Linking trends in penguin abundance with trends in krill biomass explains why populations of Adélie and chinstrap penguins increased after competitors (fur seals, baleen whales, and some fishes) were nearly extirpated in the 19th to mid-20th centuries and currently are decreasing in response to climate change.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 354
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Krill', 'Sea ice', 'Ecology', 'Population', 'Biomass (ecology)', 'Abundance (ecology)', 'Apex predator', 'Predation', 'Biology', 'Baleen', 'Euphausia', 'Oceanography', 'Antarctic krill', 'Climate change', 'Geology', 'Whale', 'Demography', 'Sociology']

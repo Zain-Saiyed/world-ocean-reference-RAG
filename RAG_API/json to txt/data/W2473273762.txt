@@ -1,0 +1,12 @@
+ID: W2473273762
+TITLE: Ice flow dynamics and mass loss of Totten Glacier, East Antarctica, from 1989 to 2015
+AUTHOR: ['Xin Li', 'Eric Rignot', 'J. Mouginot', 'B. Scheuchl']
+ABSTRACT:
+Abstract Totten Glacier has the largest ice discharge in East Antarctica and a basin grounded mostly below sea level. Satellite altimetry data have revealed ice thinning in areas of fast flow. Here we present a time series of ice velocity measurements spanning from 1989 to 2015 using Landsat and interferometric synthetic‐aperture radar data, combined with ice thickness from Operation IceBridge, and surface mass balance from Regional Atmospheric Climate Model. We find that the glacier speed exceeded its balance speed in 1989–1996, slowed down by 11 ± 12% in 2000 to bring its ice flux in balance with accumulation (65 ± 4 Gt/yr), then accelerated by 18 ± 3% until 2007, and remained constant thereafter. The average ice mass loss (7 ± 2 Gt/yr) is dominated by ice dynamics (73%). Its acceleration (0.6 ± 0.3 Gt/yr 2 ) is dominated by surface mass balance (80%). Ice velocity apparently increased when ocean temperature was warmer, which suggests a linkage between ice dynamics and ocean temperature.
+
+SOURCE: Geophysical research letters
+PDF URL: None
+CITED BY COUNT: 66
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ice stream', 'Geology', 'Glacier ice accumulation', 'Glacier mass balance', 'Sea ice', 'Glacier', 'Iceberg', 'Climatology', 'Cryosphere', 'Thinning', 'Geomorphology', 'Geography', 'Forestry']

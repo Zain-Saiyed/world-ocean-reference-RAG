@@ -1,0 +1,12 @@
+ID: W1594490043
+TITLE: Emerging Concepts Promising New Horizons for Marine Biodiscovery and Synthetic Biology
+AUTHOR: ['F. Jerry Reen', 'José A. Gutiérrez‐Barranquero', 'Alan D. W. Dobson', 'Claire Adams', 'Fergal O’Gara']
+ABSTRACT:
+The vast oceans of the world, which comprise a huge variety of unique ecosystems, are emerging as a rich and relatively untapped source of novel bioactive compounds with invaluable biotechnological and pharmaceutical potential. Evidence accumulated over the last decade has revealed that the diversity of marine microorganisms is enormous with many thousands of bacterial species detected that were previously unknown. Associated with this diversity is the production of diverse repertoires of bioactive compounds ranging from peptides and enzymes to more complex secondary metabolites that have significant bioactivity and thus the potential to be exploited for innovative biotechnology. Here we review the discovery and functional potential of marine bioactive peptides such as lantibiotics, nanoantibiotics and peptidomimetics, which have received particular attention in recent years in light of their broad spectrum of bioactivity. The significance of marine peptides in cell-to-cell communication and how this may be exploited in the discovery of novel bioactivity is also explored. Finally, with the recent advances in bioinformatics and synthetic biology, it is becoming clear that the integration of these disciplines with genetic and biochemical characterization of the novel marine peptides, offers the most potential in the development of the next generation of societal solutions.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/13/5/2924/pdf?version=1431531088
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Biology', 'Computational biology', 'Synthetic biology', 'Drug discovery', 'Peptidomimetic', 'Bioprospecting', 'New horizons', 'Biotechnology', 'Ecology', 'Bioinformatics', 'Biochemistry', 'Engineering', 'Spacecraft', 'Aerospace engineering', 'Peptide']

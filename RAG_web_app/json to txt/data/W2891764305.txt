@@ -1,0 +1,12 @@
+ID: W2891764305
+TITLE: Status and Trends for the World’s Kelp Forests
+AUTHOR: ['Thomas Wernberg', 'Kira A. Krumhansl', 'Karen Filbee‐Dexter', 'Morten Foldager Pedersen']
+ABSTRACT:
+Kelp forests are extensive underwater habitats that range along 25% of the world's coastlines, providing valuable resources, habitat, and services for coastal communities. They grow best in cold, nutrient-rich water, where they attain some of the highest rates of primary production of any natural ecosystem. Kelps exhibit a great diversity of growth forms and life strategies, with the largest individuals reaching lengths of > 30 m and biomasses of 42 kg. In the past half century, threats to kelp forests have increased in number and severity, leading to a global decline of kelp abundances of ~ 2% per year. Trajectories of change vary considerable across regions and include range contractions, range expansions, species replacements, establishment of invasive kelps, replacement by turf algae reefs, or regime shifts to sea urchin barrens. These changes will likely have significant impacts on marine biodiversity and ecosystem functioning because kelps are foundation species for a plethora of habitat-associated plants and animals, many of which are socioeconomically important. Some forms of management have been effective in restoring kelp forests, but in many cases the threats facing kelp forests in the future greatly exceed local conservation strategies, necessitating novel conservation solutions to protect and conserve these ecosystems. Although the diversity of changes to kelp forest globally make it challenging to generalize about their future, it seems almost certain that many kelp forests a few decades from now will differ substantially from what they are today.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 202
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Kelp forest', 'Kelp', 'Habitat', 'Biodiversity', 'Ecology', 'Ecosystem', 'Fishery', 'Range (aeronautics)', 'Geography', 'Biology', 'Materials science', 'Composite material']

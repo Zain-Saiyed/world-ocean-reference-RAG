@@ -1,0 +1,12 @@
+ID: W2918097352
+TITLE: Building Coral Reef Resilience Through Spatial Herbivore Management
+AUTHOR: ['Anne Elizabeth Chung', 'Lisa M. Wedding', 'Alison L. Green', 'Alan M. Friedlander', 'Grace Goldberg', 'Amber Meadows', 'Mark A. Hixon']
+ABSTRACT:
+Coral reef managers currently face the challenge of mitigating global stressors by enhancing local ecological resilience in the face of a changing climate. Effective herbivore management is one tool that managers can use in order to maintain resilience in the midst of severe and frequent bleaching events. One recommended approach is to establish networks of Herbivore Management Areas (HMAs), which prohibit the take of herbivorous reef fishes. However, there is a need to develop design principles to guide planning and implementation of these HMAs as a resilience-building tool. We refine available guidance from fully protected Marine Protected Area (MPA) networks and developed a set of 11 biophysical design principles specifically for HMAs. We then provide a case study of how to apply these principles using the main Hawaiian Islands. We address site-specific considerations in terms of protecting habitats, including ecologically critical areas, incorporating connectivity, and addressing climate and local threats. This synthesis integrates core marine spatial planning concepts with resilience-based management and provides actionable guidance on the design of HMAs. When combined with social considerations, these principles will support spatial planning in Hawai‘i and could guide the future design of HMA networks globally.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00098/pdf
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Resilience (materials science)', 'Coral reef', 'Marine spatial planning', 'Environmental resource management', 'Marine protected area', 'Herbivore', 'Psychological resilience', 'Environmental planning', 'Computer science', 'Ecology', 'Habitat', 'Geography', 'Environmental science', 'Biology', 'Psychology', 'Physics', 'Psychotherapist', 'Thermodynamics']

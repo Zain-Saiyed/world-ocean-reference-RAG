@@ -1,0 +1,12 @@
+ID: W2005054193
+TITLE: Red tides of the dinoflagellate Noctiluca scintillans associated with eutrophication in the Sea of Marmara (the Dardanelles, Turkey)⁎⁎This study contains the findings of various project such as ‘Turkish Scientific and Technical Research Council (TUBITAK, YDABAG, Project No: 101Y081)’ and ‘Çanakkale Onsekiz Mart University Scientific Research Projects (COMU, BAP, Project No: 2000/22)’. This study was presented as an oral presentation at a Workshop on Algal and Jellyfish Blooms in the …
+AUTHOR: ['Muhammet Türkoğlu']
+ABSTRACT:
+This investigation focused on weekly variations in cell density and volume of the dinoflagellate Noctiluca scintillans between March 2001 and January 2004 in the Dardanelles. March–June and October–December periods were excessive bloom periods. During the bloom periods the density of N. scintillans reached 2.20 × 105 cells L− 1 with a volume of 1.32 × 1012 μm3 L− 1. In addition to the high surface density, there was an increase in subsurface waters during the blooms. The bloom of N. scintillans, like that of diatom and other dinoflagellate blooms, was associated not only with eutrophication, but also with stable temperatures and salinities.
+
+SOURCE: Oceanologia
+PDF URL: None
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Dinoflagellate', 'Oceanography', 'Bloom', 'Red tide', 'Eutrophication', 'Diatom', 'Phytoplankton', 'Bay', 'Algal bloom', 'Dinophyceae', 'Environmental science', 'Fishery', 'Biology', 'Ecology', 'Geology', 'Nutrient']

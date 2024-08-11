@@ -1,0 +1,12 @@
+ID: W2105073200
+TITLE: Abyssal food limitation, ecosystem structure and climate change
+AUTHOR: ['Claire Friedemann Smith', 'Fabio Deleo', 'Ângelo F. Bernardino', 'Andrew J. Sweetman', 'Pedro Martínez Arbizu']
+ABSTRACT:
+The abyssal seafloor covers more than 50% of the Earth and is postulated to be both a reservoir of biodiversity and a source of important ecosystem services. We show that ecosystem structure and function in the abyss are strongly modulated by the quantity and quality of detrital food material sinking from the surface ocean. Climate change and human activities (e.g. successful ocean fertilization) will alter patterns of sinking food flux to the deep ocean, substantially impacting the structure, function and biodiversity of abyssal ecosystems. Abyssal ecosystem response thus must be considered in assessments of the environmental impacts of global warming and ocean fertilization.
+
+SOURCE: Trends in ecology & evolution
+PDF URL: None
+CITED BY COUNT: 485
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Ecosystem', 'Environmental science', 'Biodiversity', 'Marine ecosystem', 'Climate change', 'Oceanography', 'Effects of global warming on oceans', 'Global change', 'Ecology', 'Global warming', 'Geology', 'Biology']

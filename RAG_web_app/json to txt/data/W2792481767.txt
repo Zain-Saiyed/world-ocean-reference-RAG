@@ -1,0 +1,12 @@
+ID: W2792481767
+TITLE: Looking into Pandora’s Box: Ecosystem disservices assessment and correlations with ecosystem services
+AUTHOR: ['C. Sylvie Campagne', 'Philip Roche', 'Jean-Michel Salles']
+ABSTRACT:
+The concept of ecosystem disservices (EDS) has received much less attention than the concept of ecosystem services (ES). Using an expert-based matrix approach, we assessed the capacity of ecosystem types of the Scarpe-Escaut Regional Natural Park (France) to both provide ES and generate EDS. The matrix is a look-up table that provide for each ecosystem types a score expressing its ES capacity. Our results point to a lower capacity of the considered ecosystems to provide EDS than ES. On average the EDS scores were 60% lower than the ES scores. Of EDS, those linked to human health are the most critical, with higher capacity scores and higher expert’ confidence scores than other EDS than those linked with economic or ecological impacts. We analysed correlations between ES and EDS, the presence of strong and significant positive correlations suggests that the same ecosystem characteristics, ecological functions or species groups may generate both ES and EDS. We emphasise that it is important to evaluate both EDS and ES to implement management of the ecosystems, while respecting the functioning of the ecosystems, to develop positive effects while limiting negative ones.
+
+SOURCE: Ecosystem services
+PDF URL: None
+CITED BY COUNT: 56
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Ecosystem services', 'Ecosystem management', 'Environmental resource management', 'Limiting', 'Total human ecosystem', 'Ecosystem health', 'Table (database)', 'Geography', 'Ecology', 'Environmental science', 'Computer science', 'Biology', 'Engineering', 'Mechanical engineering', 'Data mining']

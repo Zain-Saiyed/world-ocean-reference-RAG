@@ -1,0 +1,12 @@
+ID: W2594675035
+TITLE: Climate change impacts on southern Ross Sea phytoplankton composition, productivity, and export
+AUTHOR: ['Daniel E. Kaufman', 'Marjorie A. M. Friedrichs', 'Walker O Smith', 'Eileen E. Hofmann', 'Michael S. Dinniman', 'John Hemmings']
+ABSTRACT:
+Abstract The Ross Sea, a highly productive region of the Southern Ocean, is expected to experience warming during the next century along with reduced summer sea ice concentrations and shallower mixed layers. This study investigates how these climatic changes may alter phytoplankton assemblage composition, primary productivity, and export. Glider measurements are used to force a one‐dimensional biogeochemical model, which includes diatoms and both solitary and colonial forms of Phaeocystis antarctica . Model performance is evaluated with glider observations, and experiments are conducted using projections of physical drivers for mid‐21st and late‐21st century. These scenarios reveal a 5% increase in primary productivity by midcentury and 14% by late‐century and a proportional increase in carbon export, which remains approximately 18% of primary production. In addition, scenario results indicate diatom biomass increases while P. antarctica biomass decreases in the first half of the 21st century. In the second half of the century, diatom biomass remains relatively constant and P. antarctica biomass increases. Additional scenarios examining the independent contributions of expected future changes (temperature, mixed layer depth, irradiance, and surface iron inputs from melting ice) demonstrate that earlier availability of low light due to reduction of sea ice early in the growing season is the primary driver of productivity increases over the next century; shallower mixed layer depths additionally contribute to changes of assemblage composition and export. This study further demonstrates how glider data can be effectively used to facilitate model development and simulation, and inform interpretation of biogeochemical observations in the context of climate change.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: None
+CITED BY COUNT: 38
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Diatom', 'Biogeochemical cycle', 'Productivity', 'Phytoplankton', 'Biomass (ecology)', 'Environmental science', 'Context (archaeology)', 'Oceanography', 'Climate change', 'Mixed layer', 'Sea surface temperature', 'Atmospheric sciences', 'Ecology', 'Geology', 'Nutrient', 'Biology', 'Paleontology', 'Economics', 'Macroeconomics']

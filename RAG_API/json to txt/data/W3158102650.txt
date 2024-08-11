@@ -1,0 +1,12 @@
+ID: W3158102650
+TITLE: Computational Ocean Acoustics
+AUTHOR: ['Finn B. Jensen', 'W. A. Kuperman', 'Michael B. Porter', 'Henrik Schmidt']
+ABSTRACT:
+Senior level/graduate level text/reference presenting state-of-the- art numerical techniques to solve the wave equation in heterogeneous fluid-solid media. Numerical models have become standard resear
+
+SOURCE: Modern acoustics and signal processing
+PDF URL: None
+CITED BY COUNT: 1224
+PUBLICATION YEAR: 2011
+TYPE: book
+CONCEPTS: ['Numerical analysis', 'Acoustics', 'Computer science', 'Mathematics', 'Physics', 'Mathematical analysis']

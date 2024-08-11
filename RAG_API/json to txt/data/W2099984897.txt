@@ -1,0 +1,12 @@
+ID: W2099984897
+TITLE: Tidal Marshes: A Global Perspective on the Evolution and Conservation of Their Terrestrial Vertebrates
+AUTHOR: ['Russell Greenberg', 'Jesús E. Maldonado', 'Sam Droege', 'Mary Victoria McDonald']
+ABSTRACT:
+Globally, tidal marshes are found in small pockets or narrow bands totaling only approximately 45,000 square kilometers. The combination of salinity, low floristic and structural complexity, and regular tidal inundation, as well as unpredictable catastrophic flooding, provides a unique selective environment that shapes local adaptations, including those that are morphological, physiological, demographic, and behavioral. Although tidal marshes support a low diversity of nonaquatic vertebrate species, a high proportion of these inhabitants, at least along North American coastlines, are restricted to or have subspecies restricted to tidal marshes. Tidal marshes and their endemic fauna face broad threats from a variety of human-caused environmental changes. Future research should focus on global inventories, intercontinental comparative work, and investigation to determine why almost all presently described endemic taxa appear to be found in North America.
+
+SOURCE: BioScience/Bioscience
+PDF URL: https://academic.oup.com/bioscience/article-pdf/56/8/675/26898296/56-8-675.pdf
+CITED BY COUNT: 174
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Marsh', 'Salt marsh', 'Fauna', 'Ecology', 'Geography', 'Brackish marsh', 'Flooding (psychology)', 'Vertebrate', 'Estuary', 'Wetland', 'Biology', 'Psychology', 'Biochemistry', 'Gene', 'Psychotherapist']

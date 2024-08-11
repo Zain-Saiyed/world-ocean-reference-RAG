@@ -1,0 +1,12 @@
+ID: W2757527560
+TITLE: Tsunami-driven rafting: Transoceanic species dispersal and implications for marine biogeography
+AUTHOR: ['James T. Carlton', 'John W. Chapman', 'Jonathan B. Geller', 'Jessica A. Miller', 'Deborah A. Carlton', 'Megan McCuller', 'Nancy C. Treneman', 'Brian P. Steves', 'Gregory M. Ruiz']
+ABSTRACT:
+The 2011 East Japan earthquake generated a massive tsunami that launched an extraordinary transoceanic biological rafting event with no known historical precedent. We document 289 living Japanese coastal marine species from 16 phyla transported over 6 years on objects that traveled thousands of kilometers across the Pacific Ocean to the shores of North America and Hawai'i. Most of this dispersal occurred on nonbiodegradable objects, resulting in the longest documented transoceanic survival and dispersal of coastal species by rafting. Expanding shoreline infrastructure has increased global sources of plastic materials available for biotic colonization and also interacts with climate change-induced storms of increasing severity to eject debris into the oceans. In turn, increased ocean rafting may intensify species invasions.
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/357/6358/1402.full.pdf
+CITED BY COUNT: 224
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Shore', 'Ecology', 'Biogeography', 'Oceanography', 'Marine life', 'Geography', 'Storm', 'Marine debris', 'Marine biology', 'Debris', 'Biology', 'Geology', 'Population', 'Demography', 'Sociology']

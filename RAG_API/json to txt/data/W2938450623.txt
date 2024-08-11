@@ -1,0 +1,12 @@
+ID: W2938450623
+TITLE: Baseline concentrations of mercury species within sediments from Qatar's coastal marine zone
+AUTHOR: ['Hassan Hassan', 'Ahmed Abou Elezz', 'Mazen Abuasali', 'Hamood Abdulla Alsaadi']
+ABSTRACT:
+Baseline concentration of total mercury (THg), organic extractable mercury and methylmercury (CH3Hg) concentrations in sediments from the northeastern, eastern and southeastern parts of the Arabian Gulf were assessed. Surface sediments were collected from eleven stations from the coastal waters of Qatar. All analyses were performed on homogenised samples. Total mercury analysis was performed by Cold Vapour Atomic Absorption Spectrometry (CVAAS), and methylmercury was analysed by Cold Vapour Atomic Fluorescence spectrometry (CVAFS) after aqueous phase ethylation of the extracted samples. Total mercury (THg) in sediments varied from 8.0 μg/kg to 34.3 μg/kg. Methylmercury was detected in all stations and ranged from 1.46 μg/kg to 3.10 μg/kg accounting for 5.4% to 18.4% of total mercury. Total organic carbon (TOC) ranged from 0.16 to 0.72%, while Organic extractable mercury ranged from 1.55 μg/kg to 13.3 μg/kg. Analysis, the grain size within these sediments, was carried out previously paving the way for studying the influence of these parameters on the sedimentary mercury concentration. Speciation was also assessed, as were relations between the measured mercury fractions.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 8
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Mercury (programming language)', 'Methylmercury', 'Cold vapour atomic fluorescence spectroscopy', 'Environmental chemistry', 'Total organic carbon', 'Atomic absorption spectroscopy', 'MERCURE', 'Chemistry', 'Environmental science', 'Mass spectrometry', 'Bioaccumulation', 'Analytical Chemistry (journal)', 'Chromatography', 'Physics', 'Quantum mechanics', 'Computer science', 'Programming language']

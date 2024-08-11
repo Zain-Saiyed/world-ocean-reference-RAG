@@ -1,0 +1,12 @@
+ID: W2903718187
+TITLE: The first record of active methane (cold) seep ecosystem associated with shallow methane hydrate from the Indian EEZ
+AUTHOR: ['Aninda Mazumdar', 'P. Dewangan', 'Aditya Peketi', 'Sriram Gullapalli', 'M.S. Kalpana', 'G P Naik', 'Diksha Shetty', 'S. Pujari', 'S P K Pillutla', 'Virsen Gaikwad', 'Delcy R. Nazareth', 'Nitisha Sangodkar', 'G. Dakara', 'A. Kumar', 'C.K. Mishra', 'Pabitra Singha', 'Ramakrushana Reddy']
+ABSTRACT:
+Here we report the discovery of cold-seep ecosystem and shallow methane hydrates (2–3 mbsf) associated with methane gas flares in the water column from the Indian EEZ for the first time. The seep-sites are located in the Krishna–Godavari (K–G) basin at water depths of 900–1800 m and are characterized by gas flares in the water-column images. The occurrence of methane gas hydrates at very shallow depths (2–3 mbsf) at some of the seep-sites is attributed to high methane flux and conducive P–T conditions, necessary for the stability of methane hydrate. Chemosymbiont bearing Bivalves (Vesicomidae, Mytilidae, Thyasiridae and Solemyidae families); Polychaetes (Siboglinidae family) and Gastropods (Provannidae family) are also identified from seep-sites.
+
+SOURCE: Proceedings of the Indian Academy of Sciences. Earth and planetary sciences/Journal of earth system science
+PDF URL: None
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Petroleum seep', 'Methane', 'Cold seep', 'Clathrate hydrate', 'Water column', 'Oceanography', 'Geology', 'Ecosystem', 'Environmental science', 'Earth science', 'Hydrate', 'Ecology', 'Chemistry', 'Biology', 'Organic chemistry']

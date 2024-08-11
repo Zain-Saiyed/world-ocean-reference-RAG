@@ -1,0 +1,12 @@
+ID: W2439063595
+TITLE: Nutrition: Fall in fish catch threatens human health
+AUTHOR: ['Christopher D. Golden', 'Edward H. Allison', 'William W. L. Cheung', 'Madan M. Dey', 'Benjamin S. Halpern', 'Douglas J. McCauley', 'Merritt Roe Smith', 'Bapu Vaitla', 'Dirk Zeller', 'Samuel S. Myers']
+ABSTRACT:
+Christopher Golden and colleagues calculate that declining numbers of marine fish will spell more malnutrition in many developing nations.
+
+SOURCE: Nature
+PDF URL: https://www.nature.com/articles/534317a.pdf
+CITED BY COUNT: 448
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Fish <Actinopterygii>', 'Fishery', 'Human health', 'Biology', 'Environmental health', 'Medicine']

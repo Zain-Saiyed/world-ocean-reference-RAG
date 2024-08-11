@@ -1,0 +1,12 @@
+ID: W2047295906
+TITLE: Caribbean-wide decline in carbonate production threatens coral reef growth
+AUTHOR: ['Christopher Perry', 'Gary N. Murphy', 'Paul S. Kench', 'S Smithers', 'Evan Edinger', 'Robert S. Steneck', 'Peter J. Mumby']
+ABSTRACT:
+Global-scale deteriorations in coral reef health have caused major shifts in species composition. One projected consequence is a lowering of reef carbonate production rates, potentially impairing reef growth, compromising ecosystem functionality and ultimately leading to net reef erosion. Here, using measures of gross and net carbonate production and erosion from 19 Caribbean reefs, we show that contemporary carbonate production rates are now substantially below historical (mid- to late-Holocene) values. On average, current production rates are reduced by at least 50%, and 37% of surveyed sites were net erosional. Calculated accretion rates (mm year(-1)) for shallow fore-reef habitats are also close to an order of magnitude lower than Holocene averages. A live coral cover threshold of ~10% appears critical to maintaining positive production states. Below this ecological threshold carbonate budgets typically become net negative and threaten reef accretion. Collectively, these data suggest that recent ecological declines are now suppressing Caribbean reef growth potential.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms2409.pdf
+CITED BY COUNT: 300
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Coral', 'Oceanography', 'Carbonate', 'Resilience of coral reefs', 'Holocene', 'Aquaculture of coral', 'Fringing reef', 'Environmental science', 'Fishery', 'Accretion (finance)', 'Habitat', 'Environmental issues with coral reefs', 'Ecology', 'Geology', 'Biology', 'Materials science', 'Metallurgy', 'Physics', 'Astrophysics']

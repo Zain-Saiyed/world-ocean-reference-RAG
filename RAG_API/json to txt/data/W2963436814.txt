@@ -1,0 +1,12 @@
+ID: W2963436814
+TITLE: The second International Indian Ocean Expedition (IIOE-2): Motivating new exploration in a poorly understood ocean basin (volume 2)
+AUTHOR: ['Raleigh R. Hood', 'L.E. Beckley', 'Jérôme Vialard']
+ABSTRACT:
+This Deep-Sea Research II special issue is the second compendium of scientific papers to emerge from the Second International Indian Ocean Expedition (IIOE-2, Fig. 1). By pulling this diverse body of contemporary Indian Ocean research together (some motivated by IIOE-2 and others not) the IIOE-2 has begun the process of achieving its overarching goal, which is to “… advance our understanding of interactions between geologic, oceanic and atmospheric processes that give rise to the complex physical dynamics of the Indian Ocean region, and determine how those dynamics affect climate, extreme events, marine biogeochemical cycles, ecosystems and human populations”
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 0
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Compendium', 'Oceanography', 'Biogeochemical cycle', 'Structural basin', 'Marine ecosystem', 'Deep sea', 'Earth science', 'Geology', 'Geography', 'Ecosystem', 'Ecology', 'Paleontology', 'Archaeology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2617753608
+TITLE: A review of the impacts of fisheries on open-ocean ecosystems
+AUTHOR: ['Guillermo Ortuño Crespo', 'Daniel C. Dunn']
+ABSTRACT:
+Abstract Open‐ocean fisheries expanded rapidly from the 1960s through the 1980s, when global fish catches peaked, plateaued and possibly began to decline. While catches remain at best stagnant, fishing effort globally continues to increase. The likelihood of ecosystem impacts occurring due to fishing is related to fishing effort and is thus also expected to be increasing. Despite this rapid growth, ecological research into the impacts of fisheries on open‐ocean environments has lagged behind coastal and deep-sea environments. This review addresses this knowledge gap by considering the roles fisheries play in controlling the open-ocean at three ecological scales: (i) species (population or stock); (ii) biological community; and (iii) ecosystem. We find significant evidence for top-down control at the species and community scales. While evidence of ecosystem-level impacts in the open-ocean were not explicit in the literature, we provide examples of these impacts in several marine pelagic systems and encourage further research at this ecological scale. At the species level, fishing can reduce abundance, and alter physiology and life history traits, which, in turn, affect the functional role of the species within the biological community. Fishing may also induce changes to open-ocean community trophodynamics, and reduce biodiversity and resilience in open-ocean ecosystems. Our ability to manage open-ocean ecosystems has significant implications for provisioning of ecosystem services and food security. However, we posit that the monitoring required to assure the sustainability of open-ocean ecosystems is not being undertaken, and will require coordination with the Global Ocean Observing System, industry, and academia.
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/74/9/2283/28641568/fsx084.pdf
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2017
+TYPE: review
+CONCEPTS: ['Pelagic zone', 'Fishing', 'Marine ecosystem', 'Ecosystem', 'Fishery', 'Biodiversity', 'Sustainability', 'Stock assessment', 'Fisheries management', 'Environmental resource management', 'Ecology', 'Geography', 'Environmental science', 'Biology']

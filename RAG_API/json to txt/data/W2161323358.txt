@@ -1,0 +1,12 @@
+ID: W2161323358
+TITLE: Whales as marine ecosystem engineers
+AUTHOR: ['Joe Roman', 'James A. Estes', 'Lyne Morissette', 'Craig R. Smith', 'Daniel P. Costa', 'James J. McCarthy', 'J. B. Nation', 'Stephen Nicol', 'Andrew J. Pershing', 'Victor Smetacek']
+ABSTRACT:
+Baleen and sperm whales, known collectively as the great whales, include the largest animals in the history of life on Earth. With high metabolic demands and large populations, whales probably had a strong influence on marine ecosystems before the advent of industrial whaling: as consumers of fish and invertebrates; as prey to other large‐bodied predators; as reservoirs of and vertical and horizontal vectors for nutrients; and as detrital sources of energy and habitat in the deep sea. The decline in great whale numbers, estimated to be at least 66% and perhaps as high as 90%, has likely altered the structure and function of the oceans, but recovery is possible and in many cases is already underway. Future changes in the structure and function of the world's oceans can be expected with the restoration of great whale populations.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: None
+CITED BY COUNT: 311
+PUBLICATION YEAR: 2014
+TYPE: review
+CONCEPTS: ['Whaling', 'Baleen', 'Marine ecosystem', 'Whale', 'Predation', 'Habitat', 'Invertebrate', 'Fishery', 'Ecosystem', 'Ecology', 'Marine invertebrates', 'Biology', 'Sperm whale', 'Environmental science', 'Oceanography', 'Geography', 'Geology', 'Biochemistry', 'Myoglobin']

@@ -1,0 +1,12 @@
+ID: W2036982176
+TITLE: Urban breakwaters as reef fish habitat in the Persian Gulf
+AUTHOR: ['John A. Burt', 'David A. Feary', 'Geórgenes H. Cavalcante', 'Andrew G. Bauman', 'Paolo Usseglio']
+ABSTRACT:
+Breakwaters and related structures dominate near-shore environments in many Persian Gulf countries, but little is known of their ecology. To examine the influence of wave exposure on fish communities we surveyed exposed and sheltered breakwaters seasonally over 2 years and compared these with natural reef assemblages. Species richness and adult, juvenile, and total abundance were generally comparable among the three habitat types each season. However, differences in multivariate community structure indicated that each habitat contained a distinct assemblage, with strongest difference between sheltered breakwaters and the exposed natural reef. All communities were characterized by marked seasonality; abundance and richness were generally higher in the warmer seasons (summer, fall) than during cooler periods (winter, spring), and there were related seasonal changes in community structure, particularly on the natural reef. Results indicate that breakwaters are important fish habitats, but that breakwater communities vary with wave exposure and are distinct from natural reefs.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Reef', 'Habitat', 'Species richness', 'Abundance (ecology)', 'Fishery', 'Ecology', 'Breakwater', 'Community structure', 'Geography', 'Nursery habitat', 'Seasonality', 'Shore', 'Coastal fish', 'Coral reef fish', 'Oceanography', 'Biology', 'Geology']

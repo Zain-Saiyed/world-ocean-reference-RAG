@@ -1,0 +1,12 @@
+ID: W1994112643
+TITLE: Subannual Temporal Variation in Faunal Distributions at the TAG Hydrothermal Mound (26° N, Mid‐Atlantic Ridge)
+AUTHOR: ['Jonathan T. Copley', 'Paul A. Tyler', 'Cindy Lee Van Dover', 'Adam Schultz', 'Penny Dickson', 'Sandipa Singh', 'Margaret Sulanowska']
+ABSTRACT:
+Abstract. This paper evaluates the dynamics of two faunal assemblages colonizing high‐ and low‐temperature habitats of the TAG hydrothermal mound on the Mid‐Atlantic Ridge. Timelapse video and photographic transects were used to monitor changes in shrimp and anemone populations from June 1994 to March 1995. During this period, holes were drilled in the vicinity of the target populations by the Ocean Drilling Program (ODP). The a priori expectation of a rapid redistribution of motile alvinocaridid shrimp to occupy the optimal thermal and chemical habitat in response to changes in the pattern of hydrothermal activity was met by the observation of an increase in hydrothermal activity and shrimp population density at the site where a timelapse video system was deployed. The importance of hydrothermal activity as a control on the distribution of vent shrimp is suggested by tidal variations in the distribution of shrimp on a minidiffuser chimney. Sediment deposition during ODP drilling resulted in a temporary disturbance of the shrimp occupying the flat part of the mound surface seen by the timelapse video. In contrast to the changes observed in shrimp distribution, little change was observed in the distribution of anemones across the mound in two photographic transects 10 months apart, with the exception of a localized disturbance where anemones were buried by sediment around an ODP hole. Differences in the response of the shrimp and anemones to changes in the hydrothermal system may result from differences in their motility and rates of biological activity, or reflect a lower trophic position in the case of the shrimp.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 29
+PUBLICATION YEAR: 1999
+TYPE: article
+CONCEPTS: ['Shrimp', 'Transect', 'Oceanography', 'Geology', 'Hydrothermal vent', 'Drilling', 'Ridge', 'Population', 'Hydrothermal circulation', 'Habitat', 'Ecology', 'Paleontology', 'Biology', 'Mechanical engineering', 'Demography', 'Engineering', 'Sociology']

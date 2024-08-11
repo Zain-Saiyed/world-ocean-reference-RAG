@@ -1,0 +1,12 @@
+ID: W2099984711
+TITLE: Large mesopelagic fishes biomass and trophic efficiency in the open ocean
+AUTHOR: ['Xabier Irigoien', 'Thor A. Klevjer', 'Anders Røstad', 'Udane Martínez', 'Guillermo Boyra', 'José Luis Acuña', 'Antonio Bode', 'Fidel Echevarrı́a', 'J. Ignacio González-Gordillo', 'Santiago Hernández‐León', 'Susana Agustı́', 'Dag L. Aksnes', 'Carlos M. Duarte', 'Stein Kaartvedt']
+ABSTRACT:
+With a current estimate of ~1,000 million tons, mesopelagic fishes likely dominate the world total fishes biomass. However, recent acoustic observations show that mesopelagic fishes biomass could be significantly larger than the current estimate. Here we combine modelling and a sensitivity analysis of the acoustic observations from the Malaspina 2010 Circumnavigation Expedition to show that the previous estimate needs to be revised to at least one order of magnitude higher. We show that there is a close relationship between the open ocean fishes biomass and primary production, and that the energy transfer efficiency from phytoplankton to mesopelagic fishes in the open ocean is higher than what is typically assumed. Our results indicate that the role of mesopelagic fishes in oceanic ecosystems and global ocean biogeochemical cycles needs to be revised as they may be respiring ~10% of the primary production in deep waters.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/ncomms4271.pdf
+CITED BY COUNT: 562
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Mesopelagic zone', 'Biomass (ecology)', 'Trophic level', 'Pelagic zone', 'Oceanography', 'Environmental science', 'Biogeochemical cycle', 'Phytoplankton', 'Biology', 'Fishery', 'Ecology', 'Geology', 'Nutrient']

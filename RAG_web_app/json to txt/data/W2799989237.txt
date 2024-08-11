@@ -1,0 +1,12 @@
+ID: W2799989237
+TITLE: The duality of ocean acidification as a resource and a stressor
+AUTHOR: ['Sean D. Connell', 'Zoë A. Doubleday', 'Nicole R. Foster', 'Sarah B. Hamlyn', 'Christopher D. G. Harley', 'Brian Helmuth', 'Brendan P. Kelaher', 'Ivan Nagelkerken', 'Kirsten L. Rodgers', 'Gianluca Sarà', 'Bayden D. Russell']
+ABSTRACT:
+Abstract Ecologically dominant species often define ecosystem states, but as human disturbances intensify, their subordinate counterparts increasingly displace them. We consider the duality of disturbance by examining how environmental drivers can simultaneously act as a stressor to dominant species and as a resource to subordinates. Using a model ecosystem, we demonstrate that CO 2 ‐driven interactions between species can account for such reversals in dominance; i.e., the displacement of dominants (kelp forests) by subordinates (turf algae). We established that CO 2 enrichment had a direct positive effect on productivity of turfs, but a negligible effect on kelp. CO 2 enrichment further suppressed the abundance and feeding rate of the primary grazer of turfs (sea urchins), but had an opposite effect on the minor grazer (gastropods). Thus, boosted production of subordinate producers, exacerbated by a net reduction in its consumption by primary grazers, accounts for community change (i.e., turf displacing kelp). Ecosystem collapse, therefore, is more likely when resource enrichment alters competitive dominance of producers, and consumers fail to compensate. By recognizing such duality in the responses of interacting species to disturbance, which may stabilize or exacerbate change, we can begin to understand how intensifying human disturbances determine whether or not ecosystems undergo phase shifts.
+
+SOURCE: Ecology
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/ecy.2209
+CITED BY COUNT: 54
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Kelp', 'Ecology', 'Dominance (genetics)', 'Kelp forest', 'Ocean acidification', 'Disturbance (geology)', 'Resource (disambiguation)', 'Alternative stable state', 'Biology', 'Climate change', 'Paleontology', 'Biochemistry', 'Computer network', 'Computer science', 'Gene']

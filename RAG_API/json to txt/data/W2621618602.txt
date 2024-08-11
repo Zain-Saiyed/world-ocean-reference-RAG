@@ -1,0 +1,12 @@
+ID: W2621618602
+TITLE: The Big Role of Coastal Communities and Small-Scale Fishers in Ocean Conservation
+AUTHOR: ['Anthony Charles']
+ABSTRACT:
+Around the world, many coastal communities and small-scale fishers have proven effective as stewards of their local marine environments and resources. Given these considerable successes, this chapter assesses opportunities to increase the focus in ocean conservation practice and policy on initiatives at the local level of coastal communities and small-scale fishers. The chapter reviews the historical evolution of ocean conservation, with a focus on fundamental shifts to more holistic approaches of ecosystem-based and integrated management, and to a greater focus on participatory governance. These major shifts reinforce the role in ocean conservation of local-level coastal communities and small-scale fishers. Drawing on case studies of the Community Conservation Research Network, the rationale for a focus on local conservation is based on a trio of contributors: local knowledge, participation, and institutions. Four major conclusions are drawn with respect to national and international policy. First, achieving the full ocean conservation potential of coastal communities and small-scale fishers requires greater attention to and mainstreaming of this level of conservation. Second, governmental policy must better connect ocean conservation and coastal communities, so that decisions made by governments about ocean space and resources fully consider effects on communities. Third, the relevant scientific and management agencies must adapt institutionally to new realities, which can require restructuring programs and reassigning resources to better align with communities and ocean users. Fourth, opportunities for "scaling-up" from local initiatives to large-scale ocean management and "scaling down" in the reverse direction need to be better explored.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Marine conservation', 'Environmental resource management', 'Scale (ratio)', 'Environmental planning', 'Marine protected area', 'Geography', 'Community-based conservation', 'Citizen journalism', 'Coastal management', 'Restructuring', 'Corporate governance', 'Business', 'Political science', 'Ecology', 'Environmental science', 'Habitat', 'Cartography', 'Finance', 'Law', 'Biology']

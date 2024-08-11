@@ -1,0 +1,12 @@
+ID: W2605179097
+TITLE: Assessing the Economic Value of Beach Restoration: Case of Song-do Beach, Korea
+AUTHOR: ['Jeong-In Chang', 'Sung-Soon Yoon']
+ABSTRACT:
+Chang, J.-I. and Yoon, S., 2017. Assessing the economic value of beach restoration: Case of Song-do Beach, Korea. In: Lee, J.L.; Griffiths, T.; Lotan, A.; Suh, K.-S., and Lee, J. (eds.), The 2nd International Water Safety Symposium. Journal of Coastal Research, Special Issue No. 79, pp. 6–10. Coconut Creek (Florida), ISSN 0749-0208.In 1913, Song-do beach in Busan was declared the first official public beach in Korea. However, since the 1990s, erosion levels have increased and in 2003, Typhoon Maemi caused extensive damage to the beach and coastal road. It has taken several public restoration projects to restore the capacity of recreation and coastal protection. This study aims to analyze the economic benefits of the Song-do beach restoration by verifying benefit factors of the coastal erosion control and beach restoration, such as recreational services and various coastal ecosystem services. We applied a non-market valuation method, contingent valuation method, which allows the measuring of individual willingness to pay for the beach restoration project. The annual economic value of the restoration is estimated at 2,542 KRW (2.5 USD) per household and its total economic benefit is about 234.7 billion KRW (229.8 million USD). These findings have key implications for policymakers with quantitative information and decision makers related to beach restoration policies.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 9
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Contingent valuation', 'Recreation', 'Beach nourishment', 'Coastal erosion', 'Valuation (finance)', 'Restoration ecology', 'Willingness to pay', 'Typhoon', 'Total economic value', 'Geography', 'Ecosystem services', 'Erosion control', 'Environmental resource management', 'Ecosystem', 'Shore', 'Environmental science', 'Erosion', 'Business', 'Fishery', 'Political science', 'Economics', 'Ecology', 'Paleontology', 'Finance', 'Meteorology', 'Law', 'Biology', 'Microeconomics']

@@ -1,0 +1,12 @@
+ID: W2595145973
+TITLE: Age and Growth of An Outbreaking Acanthaster cf. solaris Population within the Great Barrier Reef
+AUTHOR: ['M. Aaron MacNeil', 'Karen Chong‐Seng', 'Deborah J. Pratchett', 'Cassandra A. Thompson', 'Vanessa Messmer', 'Morgan S. Pratchett']
+ABSTRACT:
+Despite having been studied for more than 40 years, much about the basic life history of crown-of-thorns starfish (CoTS; Acanthaster spp.) remains poorly understood. Size at age—a key metric of productivity for any animal population—has yet to be clearly defined, primarily due to difficulties in obtaining validated ages and potentially indeterminate growth due to factors such as starvation; within-population variability is entirely unknown. Here we develop age and growth estimates for an outbreaking CoTS population in Australian waters by integrating prior information with data from CoTS collected from multiple outbreaking reefs. Age estimates were made from un-validated band counts of 2038 individual starfish. Results from our three-parameter von Bertalanffy Bayesian hierarchical model show that, under 2013–2014 outbreak conditions, CoTS on the GBR grew to a 349 (326, 380) mm (posterior median (95% uncertainty interval)) total diameter at a 0.54 (0.43, 0.66) intrinsic rate of increase. However, we also found substantial evidence (ΔDIC &gt; 200) for inter-reef variability in both maximum size (SD 38 (19, 76)) and intrinsic rate of increase (SD 0.32 (0.20, 0.49)) within the CoTS outbreak initiation area. These results suggest that CoTS demography can vary widely with reef-scale environmental conditions, supporting location-based mechanisms for CoTS outbreaks generally. These findings should help improve population and metapopulation models of CoTS dynamics and better predict the potential damage they may cause in the future.
+
+SOURCE: Diversity
+PDF URL: https://www.mdpi.com/1424-2818/9/1/18/pdf?version=1489500810
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Acanthaster', 'Population', 'Biology', 'Reef', 'Demography', 'Outbreak', 'Metapopulation', 'Ecology', 'Vital rates', 'Population growth', 'Great barrier reef', 'Biological dispersal', 'Virology', 'Sociology']

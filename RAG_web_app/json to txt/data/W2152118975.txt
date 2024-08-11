@@ -1,0 +1,12 @@
+ID: W2152118975
+TITLE: Ten years after: krill as indicator of changes in the macro-zooplankton communities of two Arctic fjords
+AUTHOR: ['Friedrich Búchholz', 'Cornelia Buchholz', 'Jan Marcin Węsławski']
+ABSTRACT:
+A macro-zooplankton study from 1996 was repeated in 2006 and focused on euphausiid species as indicators of advection and warming effects in Kongsfjorden, West Spitsbergen, Svalbard. The influence of warmer Atlantic water in Kongsfjorden was indicated by the findings of three additional euphausiid species of typically Atlantic origin, relative to the previous study 10 years ago. The predominant presence of Thysanoessa inermis in Hornsund suggested persisting cold conditions in this more southerly, but more Arctic influenced fjord. In this species, moult stage analysis showed that trophic effects can override temperature forcing. Histology and lipid analysis suggest that reproductive activity should be monitored as an indication of warming and possibly a shift in food web composition.
+
+SOURCE: Polar biology
+PDF URL: None
+CITED BY COUNT: 56
+PUBLICATION YEAR: 2009
+TYPE: article
+CONCEPTS: ['Fjord', 'Biology', 'Zooplankton', 'Krill', 'Calanus', 'Arctic', 'Oceanography', 'Food web', 'Trophic level', 'Ecology', 'Gelatinous zooplankton', 'Crustacean', 'Copepod', 'Geology']

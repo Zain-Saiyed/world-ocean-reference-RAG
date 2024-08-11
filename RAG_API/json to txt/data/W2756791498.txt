@@ -1,0 +1,12 @@
+ID: W2756791498
+TITLE: Twenty years of ecosystem services: How far have we come and how far do we still need to go?
+AUTHOR: ['Robert Costanza', 'R.S. de Groot', 'L.C. Braat', 'Ida Kubiszewski', 'Lorenzo Fioramonti', 'Paul C. Sutton', 'Steve Farber', 'Monica Grasso']
+ABSTRACT:
+It has been 20 years since two seminal publications about ecosystem services came out: an edited book by Gretchen Daily and an article in Nature by a group of ecologists and economists on the value of the world’s ecosystem services. Both of these have been very highly cited and kicked off an explosion of research, policy, and applications of the idea, including the establishment of this journal. This article traces the history leading up to these publications and the subsequent debates, research, institutions, policies, on-the-ground actions, and controversies they triggered. It also explores what we have learned during this period about the key issues: from definitions to classification to valuation, from integrated modelling to public participation and communication, and the evolution of institutions and governance innovation. Finally, it provides recommendations for the future. In particular, it points to the weakness of the mainstream economic approaches to valuation, growth, and development. It concludes that the substantial contributions of ecosystem services to the sustainable wellbeing of humans and the rest of nature should be at the core of the fundamental change needed in economic theory and practice if we are to achieve a societal transformation to a sustainable and desirable future.
+
+SOURCE: Ecosystem services
+PDF URL: None
+CITED BY COUNT: 1782
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Mainstream', 'Valuation (finance)', 'Corporate governance', 'Millennium Ecosystem Assessment', 'Sustainable development', 'Political science', 'Environmental resource management', 'Public relations', 'Sociology', 'Business', 'Economics', 'Ecosystem', 'Ecology', 'Management', 'Finance', 'Law', 'Biology']

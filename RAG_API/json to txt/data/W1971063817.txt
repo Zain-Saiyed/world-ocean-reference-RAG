@@ -1,0 +1,12 @@
+ID: W1971063817
+TITLE: A generalized equilibrium model for predicting daily to interannual shoreline response
+AUTHOR: ['Kristen D. Splinter', 'Ian L. Turner', 'Mark Davidson', 'Patrick L. Barnard', 'Bruno Castelle', 'Joan Oltman‐Shay']
+ABSTRACT:
+Abstract Coastal zone management requires the ability to predict coastline response to storms and longer‐term seasonal to interannual variability in regional wave climate. Shoreline models typically rely on extensive historical observations to derive site‐specific calibration. To circumvent the challenge that suitable data sets are rarely available, this contribution utilizes twelve 5+ year shoreline data sets from around the world to develop a generalized model for shoreline response. The shared dependency of model coefficients on local wave and sediment characteristics is investigated, enabling the model to be recast in terms of these more readily measurable quantities. Study sites range from microtidal to macrotidal coastlines, spanning moderate‐ to high‐energy beaches. The equilibrium model adopted here includes time varying terms describing both the magnitude and direction of shoreline response as a result of onshore/offshore sediment transport between the surf zone and the beach face. The model contains two coefficients linked to wave‐driven processes: (1) the response factor ( φ ) that describes the “memory” of a beach to antecedent conditions and (2) the rate parameter ( c ) that describes the efficiency with which sand is transported between the beach face and surf zone. Across all study sites these coefficients are shown to depend in a predictable manner on the dimensionless fall velocity ( Ω ), that in turn is a simple function of local wave conditions and sediment grain size. When tested on an unseen data set, the new equilibrium model with generalized forms of φ and c exhibited high skill (Brier Skills Score, BSS = 0.85).
+
+SOURCE: Journal of geophysical research. Earth surface
+PDF URL: None
+CITED BY COUNT: 138
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Shore', 'Submarine pipeline', 'Storm', 'Geology', 'Hindcast', 'Surf zone', 'Sediment transport', 'Range (aeronautics)', 'Tidal range', 'Current (fluid)', 'Environmental science', 'Sediment', 'Meteorology', 'Climatology', 'Oceanography', 'Geomorphology', 'Geography', 'Materials science', 'Estuary', 'Composite material']

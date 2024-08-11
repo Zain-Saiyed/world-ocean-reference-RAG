@@ -1,0 +1,12 @@
+ID: W2130575559
+TITLE: Experimental predator removal causes rapid salt marsh die‐off
+AUTHOR: ['Mark D. Bertness', 'Caitlin P. Brisson', 'Tyler C. Coverdale', 'Matt C. Bevil', 'Sinéad M. Crotty', 'Elena R. Suglia']
+ABSTRACT:
+Abstract Salt marsh habitat loss to vegetation die‐offs has accelerated throughout the western Atlantic in the last four decades. Recent studies have suggested that eutrophication, pollution and/or disease may contribute to the loss of marsh habitat. In light of recent evidence that predators are important determinants of marsh health in New England, we performed a total predator exclusion experiment. Here, we provide the first experimental evidence that predator depletion can cause salt marsh die‐off by releasing the herbivorous crab Sesarma reticulatum from predator control. Excluding predators from a marsh ecosystem for a single growing season resulted in a &gt;100% increase in herbivory and a &gt;150% increase in unvegetated bare space compared to plots with predators. Our results confirm that marshes in this region face multiple, potentially synergistic threats.
+
+SOURCE: Ecology letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.12287
+CITED BY COUNT: 54
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Marsh', 'Predator', 'Predation', 'Ecology', 'Herbivore', 'Eutrophication', 'Habitat', 'Ecosystem', 'Trophic cascade', 'Biology', 'Wetland', 'Nutrient']

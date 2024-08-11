@@ -1,0 +1,12 @@
+ID: W2473225149
+TITLE: The importance of external climate forcing for the variability and trends of coastal upwelling in past and future climate
+AUTHOR: ['Nele Tim', 'Eduardo Zorita', 'Birgit Hünicke', 'Xing Yi', 'Kay‐Christian Emeis']
+ABSTRACT:
+Abstract. The eastern boundary upwelling systems, located in the subtropics at the eastern boundary of the Atlantic and Pacific oceans and mainly driven by the trade winds, are the major coastal upwelling regions. Previous studies have suggested that the intensity of upwelling in these areas in the past centuries may have been influenced by the external radiative forcing, for instance by changes in solar irradiance, and it will also be influenced in the future by the increasing atmospheric greenhouse gases. Here, we analyse the impact of the external climate forcing on these upwelling systems in ensembles of simulations of two Earth system models. The ensembles contain three simulations for each period covering the past millennium (900–1849) and the 20th century (1850–2005). One of these Earth system models additionally includes the near future (2006–2100). Using a set of simulations, differing only in their initial conditions, enables us to test whether the observed variability and trends are driven by the external radiative forcing. Our analysis shows that the variability of the simulated upwelling is largely not affected by the external forcing and that, generally, there are no significant trends in the periods covering the past and future. Only in future simulations with the strongest increase of greenhouse gas concentrations the upwelling trends are significant and appear in all members of the ensemble.
+
+SOURCE: Ocean science
+PDF URL: https://www.ocean-sci.net/12/807/2016/os-12-807-2016.pdf
+CITED BY COUNT: 14
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Upwelling', 'Forcing (mathematics)', 'Radiative forcing', 'Climatology', 'Environmental science', 'Greenhouse gas', 'Cloud forcing', 'Climate model', 'Climate change', 'Subtropics', 'Solar irradiance', 'Atmospheric sciences', 'Oceanography', 'Geology', 'Fishery', 'Biology']

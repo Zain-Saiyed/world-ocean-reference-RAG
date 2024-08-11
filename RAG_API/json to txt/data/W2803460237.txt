@@ -1,0 +1,12 @@
+ID: W2803460237
+TITLE: How to Succeed in Marketing Marine Natural Products for Nutraceutical, Pharmaceutical and Cosmeceutical Markets
+AUTHOR: ['Ricardo Calado', 'Miguel C. Leal', 'Héléna Gaspar', 'Susana Santos', 'António Marques', 'María Leonor Nunes', 'Helena Vieira']
+ABSTRACT:
+The marine ecosystem shelters a vast number of macro- and microorganisms that have developed unique metabolic skills to survive in diverse and hostile habitats. These survival strategies often result in the biosynthesis of an array of secondary metabolites with specific activities and functions in the cellular context. Several metabolites can give origin to high-value commercial products for nutraceutical, pharmaceutical and cosmeceutical markets, among others. This chapter outlines those industries’ paths for marketing marine natural products (MNPs), from discovery and development up to final product marketing. Focus is given on compounds that successfully reached the market and, particularly, the approaches employed by the nutraceutical, pharmaceutical and cosmeceutical companies that succeeded in marketing those products. Some key failures in each market segment are analysed, allowing lessons to be learned and key hurdles to be avoided in MNP development. The main challenges faced during MNP programs are assessed and mapped in the market funnel of common product development routes. Suggestions to surpass these challenges are provided, in order to improve market entry success rates of highly promising marine bioactives in current pipelines, highlighting what can be applied to novel and/or ongoing MNP development programs.
+
+SOURCE: Grand challenges in biology and biotechnology
+PDF URL: None
+CITED BY COUNT: 24
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Cosmeceutical', 'Nutraceutical', 'Business', 'Context (archaeology)', 'Marketing', 'New product development', 'Biotechnology', 'Biology', 'Food science', 'Paleontology']

@@ -1,0 +1,12 @@
+ID: W2782965135
+TITLE: Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World
+AUTHOR: ['Michael P. Jensen', 'Camryn D. Allen', 'Tomoharu Eguchi', 'Ian P. Bell', 'Erin L. LaCasella', 'William A. Hilton', 'Christine A. Madden Hof', 'Peter H. Dutton']
+ABSTRACT:
+Climate change affects species and ecosystems around the globe [1]. The impacts of rising temperature are particularly pertinent in species with temperature-dependent sex determination (TSD), where the sex of an individual is determined by incubation temperature during embryonic development [2]. In sea turtles, the proportion of female hatchlings increases with the incubation temperature. With average global temperature predicted to increase 2.6°C by 2100 [3], many sea turtle populations are in danger of high egg mortality and female-only offspring production. Unfortunately, determining the sex ratios of hatchlings at nesting beaches carries both logistical and ethical complications. However, sex ratio data obtained at foraging grounds provides information on the amalgamation of immature and adult turtles hatched from different nesting beaches over many years. Here, for the first time, we use genetic markers and a mixed-stock analysis (MSA), combined with sex determination through laparoscopy and endocrinology, to link male and female green turtles foraging in the Great Barrier Reef (GBR) to the nesting beach from which they hatched. Our results show a moderate female sex bias (65%-69% female) in turtles originating from the cooler southern GBR nesting beaches, while turtles originating from warmer northern GBR nesting beaches were extremely female-biased (99.1% of juvenile, 99.8% of subadult, and 86.8% of adult-sized turtles). Combining our results with temperature data show that the northern GBR green turtle rookeries have been producing primarily females for more than two decades and that the complete feminization of this population is possible in the near future.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982217315397/pdf
+CITED BY COUNT: 267
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Biology', 'Hatchling', 'Turtle (robot)', 'Sex ratio', 'Rookery', 'Sea turtle', 'Nesting season', 'Fishery', 'Population', 'Ecology', 'Juvenile', 'Zoology', 'Habitat', 'Hatching', 'Demography', 'Sociology']

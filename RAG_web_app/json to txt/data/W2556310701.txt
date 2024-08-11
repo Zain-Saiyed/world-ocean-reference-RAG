@@ -1,0 +1,12 @@
+ID: W2556310701
+TITLE: The codevelopment of coastal fisheries monitoring methods to support local management
+AUTHOR: ['Eva Schemmel', 'Alan M. Friedlander', 'Pelika Andrade', 'Kuʻulei Keakealani', 'Linda M. Castro', 'Chad C. Wiggins', 'Bart A. Wilcox', 'Yumi Yasutake', 'John N. Kittinger']
+ABSTRACT:
+Schemmel, E., A. M. Friedlander, P. Andrade, K. Keakealani, L. M. Castro, C. Wiggins, B. A. Wilcox, Y. Yasutake, and J. N. Kittinger. 2016. The codevelopment of coastal fisheries monitoring methods to support local management. Ecology and Society 21(4):34. https://doi.org/10.5751/ES-08818-210434
+
+SOURCE: Ecology and society
+PDF URL: https://www.ecologyandsociety.org/vol21/iss4/art34/ES-2016-8818.pdf
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Fisheries management', 'Fishery', 'Fisheries science', 'Geography', 'Management strategy', 'Ecology', 'Environmental resource management', 'Environmental science', 'Fishing', 'Business', 'Biology', 'Business administration']

@@ -1,0 +1,12 @@
+ID: W2909688994
+TITLE: Microbial Respiration, the Engine of Ocean Deoxygenation
+AUTHOR: ['Carol Robinson']
+ABSTRACT:
+Microbial plankton respiration is the key determinant in the balance between the storage of organic carbon in the oceans or its conversion to carbon dioxide with accompanying consumption of dissolved oxygen. Over the past fifty years, dissolved oxygen concentrations have decreased in many parts of the world’s oceans, and this trend of ocean deoxygenation is predicted to continue. Yet despite its pivotal role in ocean deoxygenation, microbial respiration remains one of the least constrained microbial metabolic processes. Improved understanding of the magnitude and variability of respiration, including attribution to component plankton groups, and quantification of the respiratory quotient, would enable better predictions and projections of the intensity and extent of ocean deoxygenation and of the integrative impact of ocean deoxygenation, ocean acidification, warming, and changes in nutrient concentration and stoichiometry on marine carbon storage. This study will synthesize current knowledge of respiration in relation to deoxygenation, including the drivers of its variability, identify key unknowns in our ability to project future scenarios and suggest methodological approaches to move the field forward.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2018.00533/pdf
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Deoxygenation', 'Plankton', 'Environmental science', 'Respiration', 'Carbon cycle', 'Photic zone', 'Respiratory quotient', 'Oceanography', 'Carbon dioxide', 'Nutrient', 'Ecology', 'Environmental chemistry', 'Chemistry', 'Biology', 'Phytoplankton', 'Ecosystem', 'Geology', 'Botany', 'Biochemistry', 'Catalysis']

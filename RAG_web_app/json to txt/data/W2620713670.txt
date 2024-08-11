@@ -1,0 +1,12 @@
+ID: W2620713670
+TITLE: Marine microbial diversity
+AUTHOR: ['Guillem Salazar', 'Shinichi Sunagawa']
+ABSTRACT:
+Invisible to the naked eye, yet dominating life with some 1030 cells, bacteria and archaea (referred to herein as 'microbes') play key roles in the global cycling of nutrients, matter and energy in our oceans. Having experimented for over 3.5 billion years since their first appearance, they are true master chemists that are capable of carrying out the most diverse and complex of chemical reactions. One of the most abundant groups, cyanobacteria, converts light into chemical energy by fixing carbon dioxide into organic matter. Part of this fixed carbon is consumed by higher trophic levels, while another fraction sinks to the deep sediments where, over geological time scales, it fossilizes into the natural resources that we tap into for our everyday lives. Despite our knowledge of their global importance and significant recent advances in marine microbiome research (Figure 1), some of the most fundamental questions still remain unanswered, and serve as active drivers of current research in this field: How many microbes are out there, and how many different types? What are they? What are their functional roles? How are they globally distributed? How do they adapt to varying environmental conditions and how will they respond to future environmental changes? This Primer provides a brief overview on how these questions have been addressed in the context of developing technologies. We discuss new insights, as well as new concepts and more refined questions, and we highlight some of the future promises and challenges that lie ahead.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982217300179/pdf
+CITED BY COUNT: 71
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biology', 'Context (archaeology)', 'Ecology', 'Archaea', 'Microbiome', 'Bioinformatics', 'Paleontology', 'Bacteria']

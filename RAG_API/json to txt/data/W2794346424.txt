@@ -1,0 +1,12 @@
+ID: W2794346424
+TITLE: Seasonal resource conditions favor a summertime increase in North Pacific diatom–diazotroph associations
+AUTHOR: ['Christopher L. Follett', 'Stephanie Dutkiewicz', 'David M. Karl', 'Keisuke Inomura', 'Michael J. Follows']
+ABSTRACT:
+In the North Pacific Subtropical Gyre (NPSG), an annual pulse of sinking organic carbon is observed at 4000 m between July and August, driven by large diatoms found in association with nitrogen fixing, heterocystous, cyanobacteria: Diatom-Diazotroph Associations (DDAs). Here we ask what drives the bloom of DDAs and present a simplified trait-based model of subtropical phototroph populations driven by observed, monthly averaged, environmental characteristics. The ratio of resource supply rates favors nitrogen fixation year round. The relative fitness of DDA traits is most competitive in early summer when the mixed layer is shallow, solar irradiance is high, and phosphorus and iron are relatively abundant. Later in the season, as light intensity drops and phosphorus is depleted, the traits of small unicellular diazotrophs become more competitive. The competitive transition happens in August, at the time when the DDA export event occurs. This seasonal dynamic is maintained when embedded in a more complex, global-scale, ecological model, and provides predictions for the extent of the North Pacific DDA bloom. The model provides a parsimonious and testable hypothesis for the stimulation of DDA blooms.
+
+SOURCE: The ISME journal
+PDF URL: https://www.nature.com/articles/s41396-017-0012-x.pdf
+CITED BY COUNT: 43
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Diazotroph', 'Biology', 'Diatom', 'Geomicrobiology', 'Oceanography', 'Ecology', 'Environmental biotechnology', 'Bacteria', 'Microbial ecology', 'Nitrogen fixation', 'Genetics', 'Geology']

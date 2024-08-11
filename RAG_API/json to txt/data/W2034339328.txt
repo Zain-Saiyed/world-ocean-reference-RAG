@@ -1,0 +1,12 @@
+ID: W2034339328
+TITLE: Mytilus on the move: transport of an invasive bivalve to the Antarctic
+AUTHOR: ['J. E. Lee', 'Steven L. Chown']
+ABSTRACT:
+Increasing numbers of scientific and tourist vessels are entering the Antarctic region and have the potential to bring with them a range of organisms that are not currently found in the region.Little is known about the frequency of such introductions or the identity and survivorship of the species associated with them.In this study, we report the findings of an inspection of the sea chests of the South African National Antarctic Programme supply vessel, the SA 'Agulhas', while the vessel was in dry dock in June 2006.Large populations of a known invasive mussel, Mytilus galloprovincialis (Lamarck), were found.By extrapolating from shell length, the age of individuals was estimated, the results of which suggest that some specimens have survived transportation to the Antarctic region on multiple occasions.These findings are cause for concern and demonstrate that Antarctic research and supply vessels are important vectors for marine non-indigenous species into the region.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2007/339/m339p307.pdf
+CITED BY COUNT: 94
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Mytilus', 'Alien', 'Invasive species', 'Biology', 'Fishery', 'Indigenous', 'Ecology', 'Geography', 'Oceanography', 'Population', 'Census', 'Geology', 'Demography', 'Sociology']

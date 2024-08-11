@@ -1,0 +1,12 @@
+ID: W2889737078
+TITLE: Future scenarios of marine resources and ecosystem conditions in the Eastern Mediterranean under the impacts of fishing, alien species and sea warming
+AUTHOR: ['X. Corrales', 'Marta Coll', 'E. Ofir', 'Johanna J. Heymans', 'Jeroen Steenbeek', 'Menachem Goren', 'Dor Edelist', 'Gideon Gal']
+ABSTRACT:
+Using a temporal-dynamic calibrated Ecosim food web model, we assess the effects of future changes on marine resources and ecosystem conditions of the Israeli Mediterranean continental shelf. This region has been intensely invaded by Indo-Pacific species. The region is exposed to extreme environmental conditions, is subjected to high rates of climate change and has experienced intense fishing pressure. We test the impacts of a new set of fishing regulations currently being implemented, a continued increase in sea temperatures following IPCC projections, and a continued increase in alien species biomass. We first investigate the impacts of the stressors separately, and then we combine them to evaluate their cumulative effects. Our results show overall potential future benefits of fishing effort reductions, and detrimental impacts of increasing sea temperature and increasing biomass of alien species. Cumulative scenarios suggest that the beneficial effects of fisheries reduction may be dampened by the impact of increasing sea temperature and alien species when acting together. These results illustrate the importance of including stressors other than fisheries, such as climate change and biological invasions, in an ecosystem-based management approach. These results support the need for reducing local and regional stressors, such as fishing and biological invasions, in order to promote resilience to sea warming.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-32666-x.pdf
+CITED BY COUNT: 86
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Fishing', 'Climate change', 'Ecosystem', 'Environmental science', 'Cumulative effects', 'Marine ecosystem', 'Fishery', 'Biomass (ecology)', 'Mediterranean sea', 'Marine protected area', 'Global warming', 'Mediterranean climate', 'Effects of global warming', 'Effects of global warming on oceans', 'Ocean acidification', 'Commercial fishing', 'Ecology', 'Biology', 'Habitat']

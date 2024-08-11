@@ -1,0 +1,12 @@
+ID: W2051207904
+TITLE: Where does climate fit? Vulnerability to climate change in the context of multiple stressors in Funafuti, Tuvalu
+AUTHOR: ['Sandra McCubbin', 'Barry Smit', 'Tristan Pearce']
+ABSTRACT:
+This paper examines vulnerability to climate change in the context of multiple stressors through a case study of Funafuti, Tuvalu. Climate change research in Pacific Islands has largely focused on biophysical changes such as sea-level rise. Less is known about how livelihoods are affected and what adaptation options are realistic. The research employs a vulnerability framework to identify where climate fits in the suite of forces (socioeconomic, cultural, environmental) already affecting livelihoods. The participatory approach includes semi-structured interviews with community members, initially without reference to climate. Key areas of concern to people in Funafuti are economic, food, water and overcrowding, rather than climate change. Vulnerability to changing climatic conditions is evident in water, land, and food through the interaction of non-climatic forces (e.g. overcrowding, urbanization, few economic opportunities, changing land use, and shifting cultural norms), and climatic forces (e.g. dry spells, extreme sea-levels, strong winds and changing marine conditions). Adaptations, beyond bearing the effects and sharing the burden, are mainly reactive and short-term. Future changes in climate will be experienced in the context of these multiple, interacting forces, and adaptation initiatives will need to be designed in light of these.
+
+SOURCE: Global environmental change
+PDF URL: None
+CITED BY COUNT: 149
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Climate change', 'Vulnerability (computing)', 'Livelihood', 'Context (archaeology)', 'Geography', 'Environmental resource management', 'Environmental planning', 'Political economy of climate change', 'Overcrowding', 'Natural resource economics', 'Political science', 'Environmental science', 'Agriculture', 'Ecology', 'Economics', 'Computer security', 'Archaeology', 'Computer science', 'Biology', 'Law']

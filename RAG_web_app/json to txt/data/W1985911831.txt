@@ -1,0 +1,12 @@
+ID: W1985911831
+TITLE: Failing the high seas: A global evaluation of regional fisheries management organizations
+AUTHOR: ['Sarika Cullis‐Suzuki', 'Daniel Pauly']
+ABSTRACT:
+Regional fisheries management organizations (RFMOs) collectively manage the largest distinct area of the world, the high seas, but their effectiveness in conserving the fish stocks therein has been questioned lately, as many stocks have declined. This study quantitatively assesses the effectiveness of the world's 18 RFMOs, based on a two-tiered approach, concentrating first on their performance 'on paper' and secondly, in practice. The former was determined by assessing how well RFMOs scored against 26 criteria that together reflect current RFMO best practices. The latter assessment referenced the current state of the stocks RFMOs manage, through biomass and fishing mortality reference points and biomass trends through time. Results show low performance of RFMOs for both assessments, i.e., average scores of 57% and 49%, respectively. The latter result is emphasized by findings that reflect two-thirds of stocks fished on the high seas and under RFMO management are either depleted or overexploited. Findings also indicate that there is no connection between the two sets of scores, suggesting a disparity between organization intent and action.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 263
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Fishing', 'Fish stock', 'Fisheries management', 'International waters', 'Fishery', 'Business', 'Exclusive economic zone', 'Environmental resource management', 'Natural resource economics', 'Environmental science', 'Economics', 'Biology']

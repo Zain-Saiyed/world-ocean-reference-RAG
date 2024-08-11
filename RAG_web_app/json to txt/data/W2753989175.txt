@@ -1,0 +1,12 @@
+ID: W2753989175
+TITLE: Accuracy of Global Upper Ocean Heat Content Estimation Expected from Present Observational Data Sets
+AUTHOR: ['Masayoshi Ishii', 'Yoshihiro Fukuda', 'Shoji Hirahara', 'Soichiro Yasui', 'T. Suzuki', 'Kanako Sato']
+ABSTRACT:
+The simplest global mapping method and dense data coverage for the global oceans by the latest observation network ensure an estimate of global ocean heat content (OHC) within a satisfactory uncertainty for the last 60 years. The observational database conditionally presented a level high enough for practical use for the global OHC estimation when applying bias corrections of expendable bathythermograph, assuming that the other severe observational biases are not included in the database. Uncertainties in annual global mean temperatures averaged vertically from the surface to 1,500 m are within 0.01 K for the period from 1955 onward, when only sampling errors are taken into account. Those in annual mean global OHC of an improved objective analysis for 0-1,500 m depth is 16ZJ on average throughout the period. Compared to previous studies, the new objective analysis provides a higher estimation of the global 0-1,500 m OHC trend for a longer period from 1955 to 2015, which is an increase of 350 ± 57ZJ with a 95% confidence interval.
+
+SOURCE: SOLA
+PDF URL: https://www.jstage.jst.go.jp/article/sola/13/0/13_2017-030/_pdf
+CITED BY COUNT: 115
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Bathythermograph', 'Environmental science', 'Observational study', 'Climatology', 'Estimation', 'Confidence interval', 'Sampling (signal processing)', 'Ocean heat content', 'Interval (graph theory)', 'Statistics', 'Meteorology', 'Sea surface temperature', 'Mathematics', 'Geology', 'Computer science', 'Geography', 'Management', 'Economics', 'Filter (signal processing)', 'Combinatorics', 'Computer vision']

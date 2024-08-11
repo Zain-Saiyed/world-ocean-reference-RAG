@@ -1,0 +1,12 @@
+ID: W2130231032
+TITLE: Spreading Dead Zones and Consequences for Marine Ecosystems
+AUTHOR: ['Robert J. Díaz', 'Rutger Rosenberg']
+ABSTRACT:
+Dead zones in the coastal oceans have spread exponentially since the 1960s and have serious consequences for ecosystem functioning. The formation of dead zones has been exacerbated by the increase in primary production and consequent worldwide coastal eutrophication fueled by riverine runoff of fertilizers and the burning of fossil fuels. Enhanced primary production results in an accumulation of particulate organic matter, which encourages microbial activity and the consumption of dissolved oxygen in bottom waters. Dead zones have now been reported from more than 400 systems, affecting a total area of more than 245,000 square kilometers, and are probably a key stressor on marine ecosystems.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 5216
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Environmental science', 'Marine ecosystem', 'Eutrophication', 'Surface runoff', 'Particulates', 'Dead zone', 'Oceanography', 'Ecology', 'Environmental protection', 'Geology', 'Nutrient', 'Biology']

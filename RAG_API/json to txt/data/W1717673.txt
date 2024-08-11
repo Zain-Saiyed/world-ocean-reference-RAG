@@ -1,0 +1,12 @@
+ID: W1717673
+TITLE: Applications of Anthropogenic Radionuclides as Tracers to Investigate Marine Environmental Processes
+AUTHOR: ['Gi Hoon Hong', 'T F Hamilton', 'M. Baskaran', 'T. C. Kenna']
+ABSTRACT:
+Since the 1940, anthropogenic radionuclides have been intentionally and accidentally introduced into the environment through a number of activities including nuclear weapons development, production, and testing, and nuclear power generation. In the ensuing decades, a significant body of research has been conducted that not only addresses the fate and transport of the anthropogenic radionuclides in the marine environment but allows their application as tracers to better understand a variety of marine and oceanic processes. In many cases, the radionuclides are derived entirely from anthropogenic sources and the release histories are well constrained. These attributes, in conjunction with a range of different geochemical characteristics (e.g., half-life, particle affinity, etc.), make the anthropogenic radionuclides extremely useful tools. A number of long-lived and largely soluble radionuclides (e.g., 3H, 14C, 85Kr, 90Sr, 99Tc, 125Sb, 129I, 134Cs, 137Cs) have been utilized for tracking movement of water parcels in horizontal and vertical directions in the sea, whereas more particle-reactive radionuclides (e.g., 54Mn, 55Fe, 103Ru, 106Ru, Pu isotopes) have been utilized for tracking the movement of particulate matter in the marine environment. In some cases, pairs of parent-daughter nuclides (e.g., 3H-3He, 90Sr-90Y and 241Pu-241Am) have been used to provide temporal constraints on processes such as the dynamics of particles in the water column and sediment deposition at the seafloor. Often information gained from anthropogenic radionuclides provides unique/complementary information to that gained from naturally occurring radionuclides or stable constituents, and leads to improved insight into natural marine processes.
+
+SOURCE: Advances in isotope geochemistry
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2011
+TYPE: book-chapter
+CONCEPTS: ['Radionuclide', 'Nuclide', 'Environmental science', 'Deposition (geology)', 'Sediment', 'Oceanography', 'Earth science', 'Environmental chemistry', 'Geology', 'Chemistry', 'Nuclear physics', 'Physics', 'Paleontology']

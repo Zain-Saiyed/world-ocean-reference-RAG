@@ -1,0 +1,12 @@
+ID: W1976348442
+TITLE: Defining coastal squeeze: A discussion
+AUTHOR: ['Nigel Pontee']
+ABSTRACT:
+In the UK the term ‘coastal squeeze’ is commonly used to describe the loss of coastal habitats in front of sea defences. This brief discussion paper explains how the usage of the term has evolved since its origins and how imprecise definitions have led to confusion when discussing changes in coastal habitat extent. The paper clarifies the geomorphological processes responsible for habitat extent and concludes with a more precise definition of coastal squeeze.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 222
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Confusion', 'Habitat', 'Term (time)', 'Front (military)', 'Environmental resource management', 'Geography', 'Oceanography', 'Ecology', 'Environmental science', 'Geology', 'Biology', 'Psychology', 'Physics', 'Quantum mechanics', 'Psychoanalysis']

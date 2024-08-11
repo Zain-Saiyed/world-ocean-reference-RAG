@@ -1,0 +1,12 @@
+ID: W2951003009
+TITLE: Well-being outcomes of marine protected areas
+AUTHOR: ['Natalie C. Ban', 'Georgina G. Gurney', 'Nadine Marshall', 'Charlotte K. Whitney', 'Morena Mills', 'Stefan Gelcich', 'Nathan Bennett', 'Mairi C. Meehan', 'Caroline Butler', 'Stephen S. Ban', 'Tanya C. Tran', 'Michael Cox', 'Sara Jo Breslow']
+ABSTRACT:
+Marine protected areas are advocated as a key strategy for simultaneously protecting marine biodiversity and supporting coastal livelihoods, but their implementation can be challenging for numerous reasons, including perceived negative effects on human well-being. We synthesized research from 118 peer-reviewed articles that analyse outcomes related to marine protected areas on people, and found that half of documented well-being outcomes were positive and about one-third were negative. No-take, well-enforced and old marine protected areas had positive human well-being outcomes, which aligns with most findings from ecological studies. Marine protected areas with single zones had more positive effects on human well-being than areas with multiple zones. Most studies focused on economic and governance aspects of well-being, leaving social, health and cultural domains understudied. Well-being outcomes arose from direct effects of marine protected area governance processes or management actions and from indirect effects mediated by changes in the ecosystem. Our findings illustrate that both human well-being and biodiversity conservation can be improved through marine protected areas, yet negative impacts commonly co-occur with benefits. While marine protected areas are key for supporting biodiversity and coastal communities, the outcomes can be, and can be perceived, as a mixed bag. Synthesizing research from 118 articles, this Analysis draws broad insights about both the effects of marine protected areas as well as which aspects remain understudied.
+
+SOURCE: Nature sustainability
+PDF URL: None
+CITED BY COUNT: 171
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine protected area', 'Livelihood', 'Marine biodiversity', 'Biodiversity', 'Marine reserve', 'Marine ecosystem', 'Corporate governance', 'Environmental resource management', 'Geography', 'Marine conservation', 'Protected area', 'Ecosystem-based management', 'Environmental planning', 'Ecosystem', 'Ecology', 'Business', 'Environmental science', 'Biology', 'Fishing', 'Agriculture', 'Habitat', 'Archaeology', 'Finance']

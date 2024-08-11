@@ -1,0 +1,12 @@
+ID: W2921887850
+TITLE: Plastic debris on Pacific Islands: Ecological and health implications
+AUTHOR: ['Walter Leal Filho', 'Peni Hausia Havea', 'Abdul‐Lateef Balogun', 'Juliane Boenecke', 'Anish Maharaj', 'Michael Otoara Ha’apio', 'Sarah L. Hemstock']
+ABSTRACT:
+Plastic debris is a worldwide problem. This is particularly acute in the Pacific region, where its scale is a reason for serious concerns. There is an obvious need for studies to assess the extent to which plastic debris affects the Pacific. Therefore, this research aims to address this need by undertaking a systematic assessment of the ecological and health impacts of plastic debris on Pacific islands. Using pertinent historical qualitative and quantitative data of the distribution of plastic debris in the region, this study identified pollution and contamination trends and risks to ecosystems, and suggests some measures which may be deployed to address the identified problems. The study illustrates the fact that Pacific Island States are being disproportionately affected by plastic, and reiterates that further studies and integrated strategies are needed, involving public education and empowerment, governmental action, as well as ecologically sustainable industry leadership. It is also clear that more research is needed in respect of developing alternatives to conventional plastic, by the production of bio-plastic, i.e. plastic which is produced from natural (e.g. non-fossil fuel-based sources) materials, and which can be fully biodegradable.
+
+SOURCE: Science of the total environment
+PDF URL: None
+CITED BY COUNT: 44
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Plastic pollution', 'Debris', 'Marine debris', 'Environmental resource management', 'Environmental planning', 'Natural (archaeology)', 'Environmental science', 'Environmental protection', 'Pollution', 'Geography', 'Ecology', 'Biology', 'Meteorology', 'Archaeology']

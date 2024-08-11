@@ -1,0 +1,12 @@
+ID: W2405828326
+TITLE: Bruguiera hainesii, a critically endangered mangrove species, is a hybrid between B. cylindrica and B. gymnorhiza (Rhizophoraceae)
+AUTHOR: ['Junya Ono', 'Jean Wan Hong Yong', 'Kōji Takayama', 'M. Nazre', 'Alison K. S. Wee', 'Takeshi Asakawa', 'Orlex B. Yllano', 'Severino G. Salmo', 'Monica Suleiman', 'Nguyen Xuan Tung', 'Khin Soe', 'Sankararamasubramanian Halasya Meenakshisundaram', 'Yasuyuki Watano', 'Edward L. Webb', 'Tadashi Kajita']
+ABSTRACT:
+Bruguiera hainesii (Rhizophoraceae) is one of the two Critically Endangered mangrove species listed in the IUCN Red List of Threatened Species. Although the species is vulnerable to extinction, its genetic diversity and the evolutionary relationships with other Bruguiera species are not well understood. Also, intermediate morphological characters imply that the species might be of hybrid origin. To clarify the genetic relationship between B. hainesii and other Bruguiera species, we conducted molecular analyses including all six Bruguiera species using DNA sequences of two nuclear genes (CesA and UNK) and three chloroplast regions (intergenic spacer regions of trnL-trnF, trnS-trnG and atpB-rbcL). For nuclear DNA markers, all nine B. hainesii samples from five populations were heterozygous at both loci, with one allele was shared with B. cylindrica, and the other with B. gymnorhiza. For chloroplast DNA markers, the two haplotypes found in B. hainesii were shared only by B. cylindrica. These results suggested that B. hainesii is a hybrid between B. cylindrica as the maternal parent and B. gymnorhiza as the paternal one. Furthermore, chloroplast DNA haplotypes found in B. hainesii suggest that hybridization has occurred independently in regions where the distribution ranges of the parental species meet. As the IUCN Red List of Threatened Species currently excludes hybrids (except for apomictic plant hybrids), the conservation status of B. hainesii should be reconsidered.
+
+SOURCE: Conservation genetics
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biology', 'Rhizophoraceae', 'Bruguiera', 'IUCN Red List', 'Critically endangered', 'Botany', 'Chloroplast DNA', 'Genetic diversity', 'Endangered species', 'Rhizophora', 'Mangrove', 'Genetics', 'Zoology', 'Ecology', 'Phylogenetics', 'Gene', 'Population', 'Habitat', 'Demography', 'Sociology']

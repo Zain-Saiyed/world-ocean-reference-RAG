@@ -1,0 +1,12 @@
+ID: W2126895474
+TITLE: Climate change and fishing: a century of shifting distribution in North Sea cod
+AUTHOR: ['Georg H. Engelhard', 'David Righton', 'John K. Pinnegar']
+ABSTRACT:
+Abstract Globally, spatial distributions of fish stocks are shifting but although the role of climate change in range shifts is increasingly appreciated, little remains known of the likely additional impact that high levels of fishing pressure might have on distribution. For North Sea cod, we show for the first time and in great spatial detail how the stock has shifted its distribution over the past 100 years. We digitized extensive historical fisheries data from paper charts in UK government archives and combined these with contemporary data to a time‐series spanning 1913–2012 (excluding both World Wars). New analysis of old data revealed that the current distribution pattern of cod – mostly in the deeper, northern‐ and north‐easternmost parts of the North Sea – is almost opposite to that during most of the Twentieth Century – mainly concentrated in the west, off England and Scotland. Statistical analysis revealed that the deepening, northward shift is likely attributable to warming; however, the eastward shift is best explained by fishing pressure, suggestive of significant depletion of the stock from its previous stronghold, off the coasts of England and Scotland. These spatial patterns were confirmed for the most recent 3½ decades by data from fisheries‐independent surveys, which go back to the 1970s. Our results demonstrate the fundamental importance of both climate change and fishing pressure for our understanding of changing distributions of commercially exploited fish.
+
+SOURCE: Global change biology
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.12513
+CITED BY COUNT: 173
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Fishing', 'Climate change', 'Stock (firearms)', 'Geography', 'Fish stock', 'Fishery', 'North sea', 'Oceanography', 'Spatial distribution', 'Global warming', 'Distribution (mathematics)', 'Commercial fishing', 'Range (aeronautics)', 'Climatology', 'Geology', 'Archaeology', 'Mathematical analysis', 'Remote sensing', 'Mathematics', 'Biology', 'Materials science', 'Composite material']

@@ -1,0 +1,12 @@
+ID: W2324324611
+TITLE: Metabarcoding of marine zooplankton: prospects, progress and pitfalls
+AUTHOR: ['Ann Bucklin', 'Penelope K. Lindeque', 'Naiara Rodríguez‐Ezpeleta', 'Aitor Albaina', 'Maiju Lehtiniemi']
+ABSTRACT:
+Metabarcoding (large-scale taxonomic identification of complex samples via analysis of one or few orthologous DNA regions, called barcodes) is revolutionizing analysis of biodiversity of marine zooplankton assemblages. Metabarcoding relies on high-throughput DNA sequencing (HTS) technologies, which yield millions of DNA sequences in parallel and allow large-scale analysis of environmental samples. Metabarcoding studies of marine zooplankton have used various regions of nuclear small- (18S) and large-subunit (28S) rRNA, which allow accurate classification of novel sequences and reliable amplification with consensus primers, but- due to their relatively conserved nature- may underestimate species diversity in a community. To discriminate species, more variable genes are needed. A limited number of metabarcoding studies have used mitochondrial cytochrome oxidase I (COI), which ensures detection of species-level diversity, but may require group-specific primers and thus result in inconsistent amplification success rates. Reference databases with sequences for accurately-identified species are critically needed to allow taxonomic designation of molecular operational taxonomic units (MOTU) and comparison with previous studies of zooplankton diversity. Potential and promising applications of metabarcoding include rapid detection of impacts of climate change, monitoring and assessment of ecosystem health, calculation of biotic indices, characterization of food webs and detection of introduced, non-indigenous species.
+
+SOURCE: Journal of plankton research
+PDF URL: https://academic.oup.com/plankt/article-pdf/38/3/393/10831127/fbw023.pdf
+CITED BY COUNT: 158
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biology', 'Zooplankton', 'Biodiversity', 'Operational taxonomic unit', 'DNA barcoding', 'Environmental DNA', 'Taxonomic rank', 'Marine ecosystem', 'Ecology', 'Metagenomics', 'DNA sequencing', 'Cytochrome c oxidase subunit I', 'Evolutionary biology', 'Mitochondrial DNA', 'Ecosystem', 'Computational biology', 'Taxon', 'Genetics', 'Gene', '16S ribosomal RNA']

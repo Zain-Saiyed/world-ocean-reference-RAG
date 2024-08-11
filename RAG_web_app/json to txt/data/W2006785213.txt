@@ -1,0 +1,12 @@
+ID: W2006785213
+TITLE: A global perspective on marine photosynthetic picoeukaryote community structure
+AUTHOR: ['Amy Kirkham', 'Cécile Lepère', 'Ludwig Jardillier', 'Fabrice Not', 'Heather Bouman', 'Andrew Mead', 'David J. Scanlan']
+ABSTRACT:
+A central goal in ecology is to understand the factors affecting the temporal dynamics and spatial distribution of microorganisms and the underlying processes causing differences in community structure and composition. However, little is known in this respect for photosynthetic picoeukaryotes (PPEs), algae that are now recognised as major players in marine CO2 fixation. Here, we analysed dot blot hybridisation and cloning-sequencing data, using the plastid-encoded 16S rRNA gene, from seven research cruises that encompassed all four ocean biomes. We provide insights into global abundance, α- and β-diversity distribution and the environmental factors shaping PPE community structure and composition. At the class level, the most commonly encountered PPEs were Prymnesiophyceae and Chrysophyceae. These taxa displayed complementary distribution patterns, with peak abundances of Prymnesiophyceae and Chrysophyceae in waters of high (25:1) or low (12:1) nitrogen:phosphorus (N:P) ratio, respectively. Significant differences in phylogenetic composition of PPEs were demonstrated for higher taxonomic levels between ocean basins, using Unifrac analyses of clone library sequence data. Differences in composition were generally greater between basins (interbasins) than within a basin (intrabasin). These differences were primarily linked to taxonomic variation in the composition of Prymnesiophyceae and Prasinophyceae whereas Chrysophyceae were phylogenetically similar in all libraries. These data provide better knowledge of PPE community structure across the world ocean and are crucial in assessing their evolution and contribution to CO2 fixation, especially in the context of global climate change.
+
+SOURCE: The ISME journal
+PDF URL: https://www.nature.com/articles/ismej2012166.pdf
+CITED BY COUNT: 73
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Biology', 'Ecology', 'UniFrac', 'Biome', 'Community structure', 'Abundance (ecology)', 'Ecosystem', '16S ribosomal RNA', 'Bacteria', 'Genetics']

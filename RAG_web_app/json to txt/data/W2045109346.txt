@@ -1,0 +1,12 @@
+ID: W2045109346
+TITLE: Investing in nature: Restoring coastal habitat blue infrastructure and green job creation
+AUTHOR: ['Peter Edwards', 'Ariana E. Sutton‐Grier', 'G.E. Coyle']
+ABSTRACT:
+This study examines the economic impact of the expenditures from the American Recovery and Reinvestment Act (ARRA) of 2009 that the National Oceanic and Atmospheric Administration (NOAA) administered for coastal habitat restoration projects around the United States. Estimates of the total jobs created as well as the average number of jobs created per million dollars spent are provided. The study shows that the 50 ARRA projects administered by NOAA in the first year and half generated a total of 1409 jobs. These habitat restoration projects created, on average, 17 jobs per million dollars spent which is similar to other conservation industries such as parks and land conservation, and much higher than other traditional industries including coal, gas, and nuclear energy generation. This suggests that habitat restoration is indeed an effective way to stimulate job creation. In addition, habitat restoration has longer-term economic benefits, including future job creation in rebuilt fisheries and coastal tourism, and benefits to coastal economies including higher property values and better water quality. Therefore, investing in blue infrastructure habitat restoration is a green opportunity benefiting coastal economies and societies in both the short and the long term.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 75
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Habitat', 'Tourism', 'Business', 'Job creation', 'Restoration ecology', 'Natural resource economics', 'Habitat conservation', 'Fishery', 'Geography', 'Economics', 'Ecology', 'Labour economics', 'Archaeology', 'Biology']

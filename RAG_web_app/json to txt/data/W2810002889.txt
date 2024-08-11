@@ -1,0 +1,12 @@
+ID: W2810002889
+TITLE: Promoting Resilience of Tomorrow’s Impermanent Coasts
+AUTHOR: ['L. D. Wright', 'B. G. Thom']
+ABSTRACT:
+There are three categories of actions that humans need to take in order to minimize the detrimental impacts of global change on tomorrow’s coastal systems. The first, of course, is to cause less harm by reducing our carbon footprint and ceasing to do destructive things like polluting, dredging, severing sediment supply, withdrawing groundwater, overdeveloping etc. Much has been written and spoken about this even though we have said relatively little about it in this book. The second category of actions, which has received minimal attention from the popular media but has been the motivating theme of this book, involves promoting deep enough understanding of the myriad complex interconnections of coastal processes to allow long-term predictions of what may lie ahead. Such predictions are essential to evolving effective strategies for adapting and remaining resilient. The third action is to ensure that to the extent possible we embed coastal science, including matters related to future impacts of climate change, into state and federal policies and law. The aim must be to ensure that regional coastal strategies are based on the best available science to reduce risk to built and natural assets from the adverse effects of short-term practices driven by local vested interests.
+
+SOURCE: Coastal research library
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Resilience (materials science)', 'Sociology', 'Geography', 'History', 'Physics', 'Thermodynamics']

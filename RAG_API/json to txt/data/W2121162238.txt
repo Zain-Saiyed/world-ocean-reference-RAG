@@ -1,0 +1,12 @@
+ID: W2121162238
+TITLE: Neighbourhood access to open spaces and the physical activity of residents: A national study
+AUTHOR: ['Karen Witten', 'Rosemary Hiscock', 'Jamie Pearce', 'Tony Blakely']
+ABSTRACT:
+Increasing population levels of physical activity is high on the health agenda in many countries. There is some evidence that neighbourhood access to public open space can increase physical activity by providing easier and more direct access to opportunities for exercise. This national study examines the relationship between travel time access to parks and beaches, BMI and physical activity in New Zealand neighbourhoods. Access to parks and beaches, measured in minutes taken by a car, was calculated for 38,350 neighbourhoods nationally using Geographic Information Systems. Multilevel regression analyses were used to establish the significance of access to these recreational amenities as a predictor of BMI, and levels of physical activity and sedentary behaviour in the 12,529 participants, living in 1178 neighbourhoods, of the New Zealand Health Survey 2002/3. Neighbourhood access to parks was not associated with BMI, sedentary behaviour or physical activity, after controlling for individual-level socio-economic variables, and neighbourhood-level deprivation and urban/rural status. There was some evidence of a relationship between beach access and BMI and physical activity in the expected direction. This study found little evidence of an association between locational access to open spaces and physical activity.
+
+SOURCE: Preventive medicine
+PDF URL: None
+CITED BY COUNT: 175
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Neighbourhood (mathematics)', 'Recreation', 'Public open space', 'Physical activity', 'Multilevel model', 'Walkability', 'Medicine', 'Public health', 'Level design', 'Geography', 'Environmental health', 'Socioeconomics', 'Space (punctuation)', 'Sociology', 'Mathematical analysis', 'Linguistics', 'Philosophy', 'Mathematics', 'Nursing', 'Human–computer interaction', 'Machine learning', 'Game design', 'Political science', 'Computer science', 'Law', 'Physical medicine and rehabilitation']

@@ -1,0 +1,12 @@
+ID: W2105866690
+TITLE: Changing Views of the Interconnections Between the Oceans and Human Health in Europe
+AUTHOR: ['Michael H. Depledge', 'AJ Harvey', 'Colin Brownlee', 'M Frost', 'MN Moore', 'Lora E. Fleming']
+ABSTRACT:
+Early steps in the emergence of the discipline of "Oceans and Human Health" are charted in the USA and discussed in relation to past and present marine environment and human health research activities in Europe. Differences in terminology are considered, as well as differences in circumstances related to the various seas of Europe and the intensity of human coastal activity and impact. Opportunities to progress interdisciplinary research are described, and the value of horizon scanning for the early identification of emerging issues is highlighted. The challenges facing researchers and policymakers addressing oceans and human health issues are outlined and some suggestions offered regarding how further progress in research and training into both the risks and benefits of Oceans and Human Health might be made on both sides of the Atlantic.
+
+SOURCE: Microbial ecology
+PDF URL: https://link.springer.com/content/pdf/10.1007/s00248-012-0173-0.pdf
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Human health', 'Terminology', 'Identification (biology)', 'Environmental planning', 'Relation (database)', 'Environmental resource management', 'Value (mathematics)', 'Biology', 'Public health', 'Environmental ethics', 'Ecology', 'Geography', 'Environmental health', 'Medicine', 'Linguistics', 'Philosophy', 'Environmental science', 'Nursing', 'Database', 'Computer science', 'Machine learning']

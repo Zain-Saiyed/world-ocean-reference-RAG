@@ -1,0 +1,12 @@
+ID: W1993885999
+TITLE: Heterotrophic dinoflagellates: a significant component of microzooplankton biomass and major grazers of diatoms in the sea
+AUTHOR: ['EB Sherr', 'BF Sherr']
+ABSTRACT:
+An association between diatom blooms and heterotrophic dinoflagellates has been noted in many environments.Feeding rate measurements have indicated that heterotrophic dinoflagellates may be significant consumers of diatom blooms.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps2008/352/m352p187.pdf
+CITED BY COUNT: 335
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Microbial food web', 'Biology', 'Ecology', 'Bloom', 'Diatom', 'Biomass (ecology)', 'Plankton', 'Dinoflagellate', 'Zooplankton', 'Algal bloom', 'Heterotroph', 'Food web', 'Microbial loop', 'Algae', 'Oceanography', 'Predation', 'Nutrient', 'Bacteria', 'Genetics', 'Geology']

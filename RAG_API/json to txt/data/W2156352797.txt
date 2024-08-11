@@ -1,0 +1,12 @@
+ID: W2156352797
+TITLE: Observed and predicted effects of climate on Australian seabirds
+AUTHOR: ['Lynda E. Chambers', 'Carol A. Devney', 'Bradley C. Congdon', 'Nic Dunlop', 'Eric J. Woehler', 'Peter Dann']
+ABSTRACT:
+AbstractAbstractAlthough there is growing evidence of climate warming, for many regions the broader effects of climate variation on marine top predators remains unknown owing to the difficulty in obtaining, for synthesis, long-term and short-term datasets on multiple species. In the Australian region, climatic and oceanographic variability and change have been shown to affect marine species, often with profound consequences. Many seabirds are apex predators for which changes in climatic and oceanic dynamics have driven range movements poleward, reduced breeding success and altered breeding timing for some species. Here we review the literature to assess and determine the vulnerability of Australian seabirds to variation and change in climate and identify which species and ecosystems may be more resilient to future climate warming. It is clear from this synthesis that not all Australian seabirds are affected similarly, with responses varying by species and location. In addition, the paucity of information on the distribution and biology of seabird prey, foraging patterns and movements of seabirds, and the ability of seabirds to switch between prey species or adjust timing of life-cycles make generalisations about potential effects of future climate change and adaptive capacity in seabirds difficult. This applies both within Australia and elsewhere, where data are similarly sparse.Additional keywords: climate changeENSOsea-surface temperature
+
+SOURCE: Emu
+PDF URL: None
+CITED BY COUNT: 96
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Seabird', 'Climate change', 'Predation', 'Apex predator', 'Ecology', 'Foraging', 'Global warming', 'Vulnerability (computing)', 'Marine ecosystem', 'Range (aeronautics)', 'Effects of global warming on oceans', 'Ecosystem', 'Geography', 'Biology', 'Materials science', 'Composite material', 'Computer security', 'Computer science']

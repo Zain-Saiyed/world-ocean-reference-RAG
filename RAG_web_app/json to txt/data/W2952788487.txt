@@ -1,0 +1,12 @@
+ID: W2952788487
+TITLE: Current-use halogenated and organophosphorous flame retardants: A review of their presence in Arctic ecosystems
+AUTHOR: ['Katrin Vorkamp', 'Jennifer Balmer', 'Hayley Hung', 'Robert J. Letcher', 'Frank Rigét', 'Cynthia A. de Wit']
+ABSTRACT:
+Since the ban of polybrominated diphenyl ethers (PBDEs) and hexabromocyclododecane (HBCDD), other flame retardants may be increasingly used. Thirty-one current-use halogenated (HFRs) and 24 organophosphorous flame retardants (PFRs) have been sought in Arctic ecosystems so far. Air measurements provide evidence of long-range atmospheric transport for the majority of these compounds, with much higher concentrations for PFRs than for HFRs. Some HFRs, i.e. bis(2-ethylhexyl)-tetrabromophthalate (BEH-TEBP), 2-ethylhexyl-2,3,4,5-tetrabromobenzoate (EH-TBB) and hexabromobenzene (HBBz), had air concentrations comparable to those of PBDEs in some studies. Complementary data for seawater and ice indicate dry deposition of HFRs, while net volatilization from seawater was observed for some PFRs. Studies in the marine environment indicate a wide presence of HFRs in marine biota, but generally at low levels, i.e. typically lower than those of PBDEs. Exceptions exist, namely 2,4,6-tribromophenyl 2,3-dibromopropyl ether (TBP-DBPE) and decabromodiphenyl ethane (DBDPE), which were found in concentrations comparable to PBDEs in some species. The same was the case for 2,4,6-tribromophenyl allyl ether (TBP-AE) in a study from the terrestrial environment. PFRs generally had low concentrations in biota, probably due to metabolic transformation of PFR triesters, as suggested by in vitro studies. Elevated PFR concentrations occurred in some individuals, generally indicating a larger variability of PFRs in biota than found for HFRs. The commercially important tetrabromobisphenol A (TBBPA) was only detected sporadically, and only in abiotic matrices.
+
+SOURCE: Emerging contaminants
+PDF URL: None
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2019
+TYPE: review
+CONCEPTS: ['Polybrominated diphenyl ethers', 'Hexabromocyclododecane', 'Environmental chemistry', 'Tetrabromobisphenol A', 'Biota', 'Seawater', 'Chemistry', 'Abiotic component', 'Diphenyl ether', 'Fire retardant', 'Organophosphate', 'Pollutant', 'Ecology', 'Organic chemistry', 'Pesticide', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2344029424
+TITLE: Biodiversity–ecosystem functioning relationships in long-term time series and palaeoecological records: deep sea as a test bed
+AUTHOR: ['Moriaki Yasuhara', 'Hideyuki Doi', 'Chih‐Lin Wei', 'Roberto Danovaro', 'Sarah E. Myhre']
+ABSTRACT:
+The link between biodiversity and ecosystem functioning (BEF) over long temporal scales is poorly understood. Here, we investigate biological monitoring and palaeoecological records on decadal, centennial and millennial time scales from a BEF framework by using deep sea, soft-sediment environments as a test bed. Results generally show positive BEF relationships, in agreement with BEF studies based on present-day spatial analyses and short-term manipulative experiments. However, the deep-sea BEF relationship is much noisier across longer time scales compared with modern observational studies. We also demonstrate with palaeoecological time-series data that a larger species pool does not enhance ecosystem stability through time, whereas higher abundance as an indicator of higher ecosystem functioning may enhance ecosystem stability. These results suggest that BEF relationships are potentially time scale-dependent. Environmental impacts on biodiversity and ecosystem functioning may be much stronger than biodiversity impacts on ecosystem functioning at long, decadal-millennial, time scales. Longer time scale perspectives, including palaeoecological and ecosystem monitoring data, are critical for predicting future BEF relationships on a rapidly changing planet.
+
+SOURCE: Philosophical transactions - Royal Society. Biological sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2015.0282
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Biodiversity', 'Ecology', 'Abundance (ecology)', 'Environmental science', 'Marine ecosystem', 'Temporal scales', 'Physical geography', 'Geography', 'Biology']

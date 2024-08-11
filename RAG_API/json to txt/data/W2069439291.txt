@@ -1,0 +1,12 @@
+ID: W2069439291
+TITLE: Marine Litter Distribution and Density in European Seas, from the Shelves to Deep Basins
+AUTHOR: ['Christopher K. Pham', 'Eva Ramirez-Llodra', 'Claudia H. S. Alt', 'Teresa Amaro', 'Melanie Bergmann', 'Miquel Canals', 'Joan B. Company', 'Jaime S. Davies', 'G.C.A. Duineveld', 'François Galgani', 'Kerry L. Howell', 'Veerle A.I. Huvenne', 'Eduardo Isidro', 'Daniel O. B. Jones', 'Galderic Lastras', 'Telmo Morato', 'José Nuno Gomes‐Pereira', 'Autun Purser', 'Heather A. Stewart', 'Inês Tojeira', 'Xavier Tubau', 'David Van Rooij', 'Paul A. Tyler']
+ABSTRACT:
+Anthropogenic litter is present in all marine habitats, from beaches to the most remote points in the oceans. On the seafloor, marine litter, particularly plastic, can accumulate in high densities with deleterious consequences for its inhabitants. Yet, because of the high cost involved with sampling the seafloor, no large-scale assessment of distribution patterns was available to date. Here, we present data on litter distribution and density collected during 588 video and trawl surveys across 32 sites in European waters. We found litter to be present in the deepest areas and at locations as remote from land as the Charlie-Gibbs Fracture Zone across the Mid-Atlantic Ridge. The highest litter density occurs in submarine canyons, whilst the lowest density can be found on continental shelves and on ocean ridges. Plastic was the most prevalent litter item found on the seafloor. Litter from fishing activities (derelict fishing lines and nets) was particularly common on seamounts, banks, mounds and ocean ridges. Our results highlight the extent of the problem and the need for action to prevent increasing accumulation of litter in marine environments.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0095839&type=printable
+CITED BY COUNT: 513
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Marine debris', 'Litter', 'Seamount', 'Oceanography', 'Seafloor spreading', 'Continental shelf', 'Environmental science', 'Fishery', 'Ridge', 'Fishing', 'Geology', 'Ecology', 'Biology', 'Paleontology', 'Debris']

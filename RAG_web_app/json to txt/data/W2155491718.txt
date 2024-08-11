@@ -1,0 +1,12 @@
+ID: W2155491718
+TITLE: Relationship between container ship underwater noise levels and ship design, operational and oceanographic conditions
+AUTHOR: ['Megan F. McKenna', 'Sean M. Wiggins', 'John A. Hildebrand']
+ABSTRACT:
+Low-frequency ocean ambient noise is dominated by noise from commercial ships, yet understanding how individual ships contribute deserves further investigation. This study develops and evaluates statistical models of container ship noise in relation to design characteristics, operational conditions and oceanographic settings. Five-hundred ship passages and nineteen covariates were used to build generalized additive models. Opportunistic acoustic measurements of ships transiting offshore California were collected using seafloor acoustic recorders. A 5–10 dB range in broadband source level was found for ships depending on the transit conditions. For a ship recorded multiple times traveling at different speeds, cumulative noise was lowest at 8 knots, 65% reduction in operational speed. Models with highest predictive power, in order of selection, included ship speed, size and time of year. Uncertainty in source depth and propagation affected model fit. These results provide insight on the conditions that produce higher levels of underwater noise from container ships.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep01760.pdf
+CITED BY COUNT: 107
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Marine engineering', 'Container (type theory)', 'Noise (video)', 'Environmental science', 'Underwater', 'Range (aeronautics)', 'Broadband', 'Naval architecture', 'Submarine pipeline', 'Sea trial', 'Computer science', 'Oceanography', 'Geology', 'Telecommunications', 'Engineering', 'Aerospace engineering', 'Mechanical engineering', 'Artificial intelligence', 'Image (mathematics)']

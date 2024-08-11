@@ -1,0 +1,12 @@
+ID: W2893191913
+TITLE: Quantities of Marine Debris Ingested by Sea Turtles: Global Meta-Analysis Highlights Need for Standardized Data Reporting Methods and Reveals Relative Risk
+AUTHOR: ['Jennifer M. Lynch']
+ABSTRACT:
+Because of their propensity to ingest debris, sea turtles are excellent bioindicators of the global marine debris problem. This review covers five decades of research on debris ingestion in sea turtles from 131 studies with a novel focus on quantities. Previous reviews have focused solely on presence/absence data. Past reviews have called for standardization and highlight biases in the literature, yet none thoroughly describe improvements needed at the data reporting stage. Consequences of three reporting choices are discussed: not reporting quantities of ingested debris (32% of sea turtle studies reported only frequency of occurrence), excluding animals that did not ingest debris (64%), and not normalizing quantities to animal size (95%). Ingestion quantities, corrected for these factors, allowed a first-ever global meta-analysis on the units of grams/kilogram, revealing that hawksbill and green turtles rank highest among sea turtle species, and that the Central and Northwest Pacific and Southwest Atlantic Oceans are hotspots. Furthermore, this review discovered that monitoring efforts are disproportionate to the magnitude of the problem. Large efforts are focused in the Mediterranean Sea where international policies are hotly discussed versus the Central Pacific that has 5-fold greater debris ingestion quantities but represents only 3% of the global research effort. Future studies are recommended to report quantities of ingested debris using units described herein and make use of the pilot database provided.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Debris', 'Marine debris', 'Sea turtle', 'Bioindicator', 'Environmental science', 'Oceanography', 'Turtle (robot)', 'Fishery', 'Geography', 'Ecology', 'Biology', 'Geology']

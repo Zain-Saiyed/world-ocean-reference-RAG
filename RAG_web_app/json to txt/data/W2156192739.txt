@@ -1,0 +1,12 @@
+ID: W2156192739
+TITLE: River loads of suspended solids, nitrogen, phosphorus and herbicides delivered to the Great Barrier Reef lagoon
+AUTHOR: ['Frederieke J. Kroon', 'Petra M. Kuhnert', 'Brent Henderson', 'Scott N. Wilkinson', 'Anne Kinsey‐Henderson', 'Brett N. Abbott', 'Jon Brodie', 'Ryan Turner']
+ABSTRACT:
+Degradation of coastal ecosystems in the Great Barrier Reef (GBR) lagoon, Australia, has been linked with increased land-based runoff of suspended solids, nutrients and pesticides since European settlement. This study estimated the increase in river loads for all 35 GBR basins, using the best available estimates of pre-European and current loads derived from catchment modelling and monitoring. The mean-annual load to the GBR lagoon for (i) total suspended solids has increased by 5.5 times to 17,000ktonnes/year, (ii) total nitrogen by 5.7 times to 80,000tonnes/year, (iii) total phosphorus by 8.9 times to 16,000tonnes/year, and (iv) PSII herbicides is 30,000kg/year. The increases in river loads differ across the 10 pollutants and 35 basins examined, reflecting differences in surface runoff, urbanisation, deforestation, agricultural practices, mining and retention by reservoirs. These estimates will facilitate target setting for water quality and desired ecosystem states, and enable prioritisation of critical sources for management.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 344
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Environmental science', 'Total suspended solids', 'Surface runoff', 'Suspended solids', 'Water quality', 'Deforestation (computer science)', 'Nutrient', 'Hydrology (agriculture)', 'Phosphorus', 'Drainage basin', 'Ecosystem', 'Pollutant', 'Environmental engineering', 'Ecology', 'Sewage treatment', 'Wastewater', 'Geography', 'Geology', 'Chemical oxygen demand', 'Geotechnical engineering', 'Materials science', 'Cartography', 'Computer science', 'Metallurgy', 'Biology', 'Programming language']

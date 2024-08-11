@@ -1,0 +1,12 @@
+ID: W2609341379
+TITLE: Occurrence of Marine Litter in the Marine Environment: A World Panorama of Floating and Seafloor Plastics
+AUTHOR: ['Christos Ioakeimidis', 'François Galgani', 'George Papatheodorou']
+ABSTRACT:
+The marine environment is directly linked to human life. Healthy oceans have always been important to mankind as all life depends on them. Nowadays, marine litter, mainly plastic, is found widespread in the environment, in all sea compartments, posing one of the major threats for the marine environment. To date, the fate of this litter is still questionable and the identification of areas where litter permanently accumulates is a major challenge. In the present chapter, a world panorama is given in respect to the occurrence of floating and seafloor plastics. Information on floating micro-, meso-, and macro-plastics is given, as well as information on plastics of size bigger than 10 mm lying on the seafloor (shallow waters, continental shelf, deep-sea environments) of world’s seas.
+
+SOURCE: The handbook of environmental chemistry
+PDF URL: None
+CITED BY COUNT: 11
+PUBLICATION YEAR: 2017
+TYPE: book-chapter
+CONCEPTS: ['Seafloor spreading', 'Marine life', 'Marine debris', 'Panorama', 'Litter', 'Oceanography', 'Environmental science', 'Geology', 'Ecology', 'Biology', 'Computer science', 'Debris', 'Computer vision']

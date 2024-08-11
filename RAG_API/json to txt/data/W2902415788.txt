@@ -1,0 +1,12 @@
+ID: W2902415788
+TITLE: Managing a sustainable deep-sea ‘blue economy’ requires knowledge of what actually lives there
+AUTHOR: ['Adrian G. Glover', 'Helena Wiklund', 'Chong Cheng', 'Thomas G. Dahlgren']
+ABSTRACT:
+Ensuring that the wealth of resources contained in our oceans are managed and developed in a sustainable manner is a priority for the emerging 'blue economy'. However, modern ecosystem-based management approaches do not translate well to regions where we know almost nothing about the individual species found in the ecosystem. Here, we propose a new taxon-focused approach to deep-sea conservation that includes regulatory oversight to set targets for the delivery of taxonomic data. For example, a five-year plan to deliver taxonomic and genomic knowledge on a thousand species in regions of the ocean earmarked for industrial activity is an achievable target. High-throughput, integrative taxonomy can, therefore, provide the data that is needed to monitor various ecosystem services (such as the natural history, connectivity, value and function of species) and to help break the regulatory deadlock of high-seas conservation.
+
+SOURCE: eLife
+PDF URL: None
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Ecosystem', 'Environmental resource management', 'Business', 'Function (biology)', 'Ecosystem services', 'Plan (archaeology)', 'Ecology', 'Biology', 'Economics', 'Evolutionary biology', 'Paleontology']

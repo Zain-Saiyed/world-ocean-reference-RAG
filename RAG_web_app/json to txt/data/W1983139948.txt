@@ -1,0 +1,12 @@
+ID: W1983139948
+TITLE: Seamount Sciences: Quo Vadis?
+AUTHOR: ['Hubert Staudigel', 'A. A. Koppers', 'J. W. Lavelle', 'Tony J. Pitcher', 'Timothy M. Shank']
+ABSTRACT:
+Author Posting. © Oceanography Society, 2010. This article is posted here by permission of Oceanography Society for personal use, not for redistribution. The definitive version was published in Oceanography 23, 1 (2010): 212-213.
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/23-1_staudigel4.pdf
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seamount', 'Geology', 'Oceanography']

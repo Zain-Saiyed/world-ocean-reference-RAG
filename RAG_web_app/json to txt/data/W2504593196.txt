@@ -1,0 +1,12 @@
+ID: W2504593196
+TITLE: A quantitative assessment of Arctic shipping in 2010–2014
+AUTHOR: ['Vı́ctor M. Eguı́luz', 'Juan Fernández-Gracia', 'Xabier Irigoien', 'Carlos M. Duarte']
+ABSTRACT:
+Rapid loss of sea ice is opening up the Arctic Ocean to shipping, a practice that is forecasted to increase rapidly by 2050 when many models predict that the Arctic Ocean will largely be free of ice toward the end of summer. These forecasts carry considerable uncertainty because Arctic shipping was previously considered too sparse to allow for adequate validation. Here, we provide quantitative evidence that the extent of Arctic shipping in the period 2011-2014 is already significant and that it is concentrated (i) in the Norwegian and Barents Seas, and (ii) predominantly accessed via the Northeast and Northwest Passages. Thick ice along the forecasted direct trans-Arctic route was still present in 2014, preventing transit. Although Arctic shipping remains constrained by the extent of ice coverage, during every September, this coverage is at a minimum, allowing the highest levels of shipping activity. Access to Arctic resources, particularly fisheries, is the most important driver of Arctic shipping thus far.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep30682.pdf
+CITED BY COUNT: 151
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Arctic', 'The arctic', 'Arctic ice pack', 'Environmental science', 'Sea ice', 'Norwegian', 'Oceanography', 'Climatology', 'Physical geography', 'Geography', 'Geology', 'Philosophy', 'Linguistics']

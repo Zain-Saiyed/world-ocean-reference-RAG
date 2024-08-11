@@ -1,0 +1,12 @@
+ID: W2155583539
+TITLE: Contemporary Sediment-Transport Processes in Submarine Canyons
+AUTHOR: ['Pere Puig', 'Albert Palanqués', 'Jacobo Martín']
+ABSTRACT:
+Submarine canyons are morphological incisions into continental margins that act as major conduits of sediment from shallow- to deep-sea regions. However, the exact mechanisms involved in sediment transfer within submarine canyons are still a subject of investigation. Several studies have provided direct information about contemporary sedimentary processes in submarine canyons that suggests different modes of transport and various triggering mechanisms. Storm-induced turbidity currents and enhanced off-shelf advection, hyperpycnal flows and failures of recently deposited fluvial sediments, dense shelf-water cascading, canyon-flank failures, and trawling-induced resuspension largely dominate present-day sediment transfer through canyons. Additionally, internal waves periodically resuspend ephemeral deposits within canyons and contribute to dispersing particles or retaining and accumulating them in specific regions. These transport processes commonly deposit sediments in the upper- and middle-canyon reaches for decades or centuries before being completely or partially flushed farther down-canyon by large sediment failures.
+
+SOURCE: Annual review of marine science
+PDF URL: None
+CITED BY COUNT: 187
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Canyon', 'Submarine canyon', 'Geology', 'Sediment transport', 'Turbidity current', 'Sediment', 'Oceanography', 'Continental shelf', 'Sedimentary rock', 'Turbidite', 'Continental margin', 'Bedform', 'Bottom trawling', 'Fluvial', 'Geomorphology', 'Sedimentary depositional environment', 'Paleontology', 'Structural basin', 'Tectonics', 'Trawling', 'Fishery', 'Biology', 'Fish <Actinopterygii>']

@@ -1,0 +1,12 @@
+ID: W2898395683
+TITLE: Consistent microplastic ingestion by deep-sea invertebrates over the last four decades (1976–2015), a study from the North East Atlantic
+AUTHOR: ['Winnie Courtene‐Jones', 'Brian Quinn', 'Ciaran Ewins', 'Stefan Gary', 'Bhavani E. Narayanaswamy']
+ABSTRACT:
+Although evidence suggests the ubiquity of microplastics in the marine environment, our knowledge of its occurrence within remote habitats, such as the deep sea, is scarce. Furthermore, long term investigations of microplastic abundances are even more limited. Here we present a long-term study of the ingestion of microplastics by two deep-sea benthic invertebrates (Ophiomusium lymani and Hymenaster pellucidus) sampled over four decades. Specimens were collected between the years 1976–2015 from a repeat monitoring site >2000 m deep in the Rockall Trough, North East Atlantic. Microplastics were identified at a relatively consistent level throughout and therefore may have been present at this locality prior to 1976. Considering the mass production of plastics began in the 1940s - 50s our data suggest the relatively rapid occurrence of microplastics within the deep sea. Of the individuals examined (n = 153), 45% had ingested microplastics, of which fibres were most prevalent (95%). A total of eight different polymer types were isolated; polyamide and polyester were found in the highest concentrations and in the majority of years, while low-density polystyrene was only identified in 2015. This study provides an assessment of the historic occurrence of microplastics on the deep seafloor and presents a detailed quantification and characterisation of microplastics ingested by benthic species. Furthermore these data advance our knowledge on the long-term fate of microplastic in marine systems.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 88
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Microplastics', 'Benthic zone', 'Invertebrate', 'Oceanography', 'Environmental science', 'Deep sea', 'Plastic pollution', 'Marine life', 'Marine invertebrates', 'Marine ecosystem', 'Marine habitats', 'Habitat', 'Ecology', 'Ecosystem', 'Biology', 'Geology']

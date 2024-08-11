@@ -1,0 +1,12 @@
+ID: W2604447230
+TITLE: The dilemmas of normalising losses from climate change: Towards hope for Pacific atoll countries
+AUTHOR: ['Jon Barnett']
+ABSTRACT:
+Abstract The idea that climate change may cause the loss of atoll countries is now taken for granted in much of climate change science, policy and media coverage. This normalisation of loss means atoll countries now face a future that is apparently finite, which is a grievous situation no other country has to contend with. This paper explains the dilemmas this presents to atoll countries. If there is a risk of forced migration, then strategic planning can minimise its social impacts. Yet, doing so may bring future dangers into the present by undermining efforts to facilitate adaptation to climate change, creating new identities and deterring investments in sustainable resource management. To overcome this dilemma, the paper argues for a more hopeful approach to the future of atoll countries, because for as long as the science of loss remains uncertain, and the limits to adaptation are unknown, forced migration cannot be taken as a matter of fact and could possibly be averted through emission reductions and a vastly improved and significantly more creative approach to adaptation.
+
+SOURCE: Asia Pacific viewpoint
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1111/apv.12153
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Atoll', 'Dilemma', 'Climate change', 'Adaptation (eye)', 'Face (sociological concept)', 'Natural resource economics', 'Political economy', 'Development economics', 'Political science', 'Environmental ethics', 'Economics', 'Sociology', 'Ecology', 'Social science', 'Psychology', 'Philosophy', 'Epistemology', 'Neuroscience', 'Reef', 'Biology']

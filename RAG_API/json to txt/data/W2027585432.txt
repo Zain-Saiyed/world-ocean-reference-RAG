@@ -1,0 +1,12 @@
+ID: W2027585432
+TITLE: Wave attenuation over coastal salt marshes under storm surge conditions
+AUTHOR: ['Iris Möller', 'Matthias Kudella', 'Franziska Rupprecht', 'Tom Spencer', 'Maike Paul', 'Bregje K. van Wesenbeeck', 'Guido Wolters', 'Kai Jensen', 'Tjeerd J. Bouma', 'Martin Miranda-Lange', 'Stefan Schimmels']
+ABSTRACT:
+Salt marshes protect coastlines against waves. Wave flume experiments show that marsh vegetation causes substantial wave dissipation and prevents erosion of the underlying surface, even during extreme storm surge conditions. Coastal communities around the world face an increasing risk from flooding as a result of rising sea level, increasing storminess and land subsidence1,2. Salt marshes can act as natural buffer zones, providing protection from waves during storms3,4,5,6,7. However, the effectiveness of marshes in protecting the coastline during extreme events when water levels are at a maximum and waves are highest is poorly understood8,9. Here we experimentally assess wave dissipation under storm surge conditions in a 300-metre-long wave flume tank that contains a transplanted section of natural salt marsh. We find that the presence of marsh vegetation causes considerable wave attenuation, even when water levels and waves are highest. From a comparison with experiments without vegetation, we estimate that up to 60% of observed wave reduction is attributed to vegetation. We also find that although waves progressively flatten and break vegetation stems and thereby reduce dissipation, the marsh substrate remained stable and resistant to surface erosion under all conditions. The effectiveness of storm wave dissipation and the resilience of tidal marshes even at extreme conditions suggest that salt marsh ecosystems can be a valuable component of coastal protection schemes.
+
+SOURCE: Nature geoscience
+PDF URL: None
+CITED BY COUNT: 662
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Marsh', 'Environmental science', 'Storm', 'Storm surge', 'Vegetation (pathology)', 'Coastal erosion', 'Hydrology (agriculture)', 'Splash', 'Erosion', 'Wind wave', 'Brackish marsh', 'Geology', 'Oceanography', 'Wetland', 'Ecology', 'Geomorphology', 'Meteorology', 'Geography', 'Geotechnical engineering', 'Biology', 'Medicine', 'Pathology']

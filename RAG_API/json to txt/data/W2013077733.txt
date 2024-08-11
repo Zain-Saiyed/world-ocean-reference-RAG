@@ -1,0 +1,12 @@
+ID: W2013077733
+TITLE: Impacts of Atmospheric Anthropogenic Nitrogen on the Open Ocean
+AUTHOR: ['Robert A. Duce', 'Julie LaRoche', 'Katye Altieri', 'Kevin R. Arrigo', 'Alex R. Baker', 'Douglas G. Capone', 'Sarah Cornell', 'Frank Dentener', 'James N. Galloway', 'Raja S. Ganeshram', 'Richard J. Geider', 'Tim Jickells', 'M. M. Kuypers', 'Rebecca Langlois', 'Peter S. Liss', 'S. M. Liu', 'Jack J. Middelburg', 'C. Mark Moore', 'Slobodan Ničković', 'Andreas Oschlies', 'T. F. Pedersen', 'Joseph M. Prospero', 'Reiner Schlitzer', 'Sybil P. Seitzinger', 'L.L. Sørensen', 'Mitsuo Uematsu', 'Osvaldo Ulloa', 'Maren Voß', 'Bess B. Ward', 'Lauren Zamora']
+ABSTRACT:
+Increasing quantities of atmospheric anthropogenic fixed nitrogen entering the open ocean could account for up to about a third of the ocean's external (nonrecycled) nitrogen supply and up to approximately 3% of the annual new marine biological production, approximately 0.3 petagram of carbon per year. This input could account for the production of up to approximately 1.6 teragrams of nitrous oxide (N2O) per year. Although approximately 10% of the ocean's drawdown of atmospheric anthropogenic carbon dioxide may result from this atmospheric nitrogen fertilization, leading to a decrease in radiative forcing, up to about two-thirds of this amount may be offset by the increase in N2O emissions. The effects of increasing atmospheric nitrogen deposition are expected to continue to grow in the future.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 981
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Environmental science', "Carbon dioxide in Earth's atmosphere", 'Nitrogen', 'Nitrous oxide', 'Carbon dioxide', 'Oceanography', 'Atmospheric sciences', 'Radiative forcing', 'Drawdown (hydrology)', 'Climate change', 'Ecology', 'Chemistry', 'Geology', 'Groundwater', 'Geotechnical engineering', 'Organic chemistry', 'Aquifer', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2059465580
+TITLE: Persistent organic pollutants in marine fish from Yongxing Island, South China Sea: Levels, composition profiles and human dietary exposure assessment
+AUTHOR: ['Yuxin Sun', 'Qing Hao', 'Xiangrong Xu', 'Xiao-Jun Luo', 'Shuailong Wang', 'Zaiwang Zhang', 'Bi‐Xian Mai']
+ABSTRACT:
+Little data is available on the bioaccumulation of persistent organic pollutants (POPs) in marine organisms from South China Sea (SCS). Five marine fish species were collected from Yongxing Island, SCS to investigate the presence of polybrominated diphenyl ethers (PBDEs), polychlorinated biphenyls (PCBs), dichlorodiphenyltrichloroethane and its metabolites (DDTs). PBDEs, PCBs, and DDTs concentrations ranged from 2.0–117, 6.3–199, and 9.7–5831 ng g−1 lw, respectively. In general, contaminants measured in this study were at the lower end of the global range. Concentrations of PBDEs and PCBs were significantly correlated in fish samples, implying that PBDEs are as prevalent as PCBs in Yongxing Island. Among the five fish species studied, yellow striped goatfish had the highest concentrations of PBDEs, PCBs, and DDTs, probably attributed to its different living and feeding habits. The contaminant distribution pattern indicated that agrochemical source is more important than industrial source in Yongxing Island, SCS. The average estimated daily intakes of PBDEs, PCBs, and DDTs via fish consumption by local residents in the coastal areas of South China ranged from 1.42–5.91, 3.20–13.3, and 8.08–33.6 ng d−1, which were lower than those in previous studies, suggesting that consumption of marine fish in Yongxing Island, SCS, might not subject local residents to significant health risk as far as POPs are concerned. This is the first study to report the occurrence of POPs in marine biota from SCS.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Pollutant', 'Environmental science', 'Environmental chemistry', 'Fish <Actinopterygii>', 'Persistent organic pollutant', 'Composition (language)', 'Water pollutants', 'Fishery', 'Microplastics', 'Ecology', 'Biology', 'Chemistry', 'Linguistics', 'Philosophy']

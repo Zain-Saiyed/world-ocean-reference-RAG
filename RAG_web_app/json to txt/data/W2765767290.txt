@@ -1,0 +1,12 @@
+ID: W2765767290
+TITLE: Uncertain recovery of the North Atlantic right whale in a changing ocean
+AUTHOR: ['Erin Meyer‐Gutbrod', 'Charles H. Greene']
+ABSTRACT:
+Human activities have placed populations of many endangered species at risk and mitigation efforts typically focus on reducing anthropogenic sources of mortality. However, failing to recognize the additional role of environmental factors in regulating birth and mortality rates can lead to erroneous demographic analyses and conclusions. The North Atlantic right whale population is currently the focus of conservation efforts aimed at reducing mortality rates associated with ship strikes and entanglement in fishing gear. Consistent monitoring of the population since 1980 has revealed evidence that climate-associated changes in prey availability have played an important role in the population's recovery. The considerable interdecadal differences observed in population growth coincide with remote Arctic and North Atlantic oceanographic processes that link to the Gulf of Maine ecosystem. Here, we build capture-recapture models to quantify the role of prey availability on right whale demographic transitional probabilities and use a corresponding demographic model to project population growth rates into the next century. Contrary to previous predictions, the right whale population is projected to recover in the future as long as prey availability and mortality rates remain within the ranges observed during 1980-2012. However, recent events indicate a northward range shift in right whale prey, potentially resulting in decreased prey availability and/or an expansion of right whale habitat into unprotected waters. An annual increase in the number of whale deaths comparable to that observed during the summer 2017 mass mortality event may cause a decline to extinction even under conditions of normal prey availability. This study highlights the importance of understanding the oceanographic context for observed population changes when evaluating the efficacy of conservation management plans for endangered marine species.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 84
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Right whale', 'Whale', 'Endangered species', 'Population', 'Predation', 'Fishery', 'Habitat', 'Commercial fishing', 'Geography', 'Ecology', 'Fishing', 'Population growth', 'Biology', 'Demography', 'Sociology']

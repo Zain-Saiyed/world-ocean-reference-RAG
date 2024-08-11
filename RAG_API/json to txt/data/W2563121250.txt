@@ -1,0 +1,12 @@
+ID: W2563121250
+TITLE: A Central Indian Ocean Mode and Heavy Precipitation during the Indian Summer Monsoon
+AUTHOR: ['Lei Zhou', 'Raghu Murtugudde', 'Dake Chen', 'Youmin Tang']
+ABSTRACT:
+A central Indian Ocean (CIO) mode is found to play a critical role in driving the heavy precipitation during the Indian summer monsoon (ISM). It is typically denoted with a combination of intraseasonal sea surface temperature (SST) anomalies and intraseasonal wind anomalies over the central Indian Ocean, and it preserves the mechanistic links among various dynamic and thermodynamic fields. Like a T junction, it controls the propagation direction of the intraseasonal variabilities (ISVs) originating in the western Indian Ocean. During the ISM, the CIO mode creates an environment favorable for the northward-propagating mesoscale variabilities. These results unveil the relation between the subseasonal monsoonal precipitation and the CIO mode in the ocean–atmosphere system in the Indian Ocean. The identification of the CIO mode deepens our understanding of the coupled monsoon system and brightens the prospects for better simulation and prediction of monsoonal precipitation in the affected countries.
+
+SOURCE: Journal of climate
+PDF URL: None
+CITED BY COUNT: 27
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Monsoon', 'Climatology', 'Precipitation', 'Mesoscale meteorology', 'Indian ocean', 'Mode (computer interface)', 'Sea surface temperature', 'Monsoon of South Asia', 'Environmental science', 'Geology', 'Atmospheric sciences', 'Oceanography', 'Meteorology', 'Geography', 'Computer science', 'Operating system']

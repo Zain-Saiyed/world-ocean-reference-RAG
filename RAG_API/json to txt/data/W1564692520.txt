@@ -1,0 +1,12 @@
+ID: W1564692520
+TITLE: Zoogeography of the Abyssal and Hadal Zones
+AUTHOR: ['N.G. Vinogradova']
+ABSTRACT:
+Deep-sea bottom-living macroinvertebrates occurring below 3000 m depth include some species with a broad cosmopolitan geographical distribution and others with more limited, sometimes local, ranges. Taxa containing a large number of species with a wide vertical range (eurybathic) have a wider horizontal distribution than those dominated by species with narrow vertical ranges (stenobathic abyssal forms). Examination of distribution records of more than 1000 species from different taxa, mainly from Russian collections, confirms that the extent of species' ranges is related to their degree of eurybathy. Groups with a high proportion of truly abyssal species show a high level of endemism. Taxonomic links vary between the main ocean areas. A hierarchical scheme of regionation of the abyssal fauna, comprising regions, subregions and provinces, is provided, based on quantitative analysis of the fauna from different areas. This scheme is compared with other known schemes. The Arctic, the Caribbean and the Mediterranean are discussed in more detail. In analysing relationships between adjacent regions and factors controlling distribution, special attention is given to the near-continental (ring-like) species ranges, determined by nutritional conditions at the base of the continental slope. Bipolar and amphi-oceanic species ranges are analysed, together with the probable determining factors. The hadal or ultra-abyssal fauna (deeper than 6000 m) demonstrates restriction of species to local areas within an ocean; 95% of hadal species occur only in a single trench or a group of adjacent trenches. This separation of the trench faunas gives them the status of independent zoogeographic provinces in a joint scheme of abyssal and hadal regionation.
+
+SOURCE: Advances in marine biology
+PDF URL: None
+CITED BY COUNT: 94
+PUBLICATION YEAR: 1997
+TYPE: book-chapter
+CONCEPTS: ['Abyssal zone', 'Fauna', 'Abyssal plain', 'Zoogeography', 'Cosmopolitan distribution', 'Endemism', 'Ecology', 'Taxon', 'Range (aeronautics)', 'Geography', 'Oceanography', 'Paleontology', 'Geology', 'Biology', 'Structural basin', 'Materials science', 'Composite material']

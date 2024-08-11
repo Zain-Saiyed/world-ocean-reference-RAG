@@ -1,0 +1,12 @@
+ID: W2969647919
+TITLE: Offshore Oil and Gas Platforms as Novel Ecosystems: A Global Perspective
+AUTHOR: ['Sean van Elden', 'Jessica J. Meeuwig', 'Richard J. Hobbs', 'Jan M. Hemmi']
+ABSTRACT:
+Offshore oil and platforms are found on continental shelves throughout the world’s oceans. Over the course of their decades-long life-spans, these platforms become ecologically important artificial reefs, supporting a variety of marine life. When offshore platforms are no longer active they are decommissioned, which usually requires the removal of the entire platform from the marine environment, destroying the artificial reef that has been created and potentially resulting in the loss of important ecosystem services. While some countries allow for these platforms to be converted into artificial reefs under Rigs-to-Reefs programs, they face significant resistance from various stakeholders. The presence of offshore platforms and the associated marine life alters the ecosystem from that which existed prior to the installation of the platform, and there may be factors which make restoration of the ecosystem unfeasible or even detrimental to the environment. In these cases, a novel ecosystem has emerged with potentially significant ecological value. In restoration ecology, ecosystems altered in this way can be classified and managed using the novel ecosystems concept, which recognises the value of the new ecosystem functions and services and allows for the ecosystem to be managed in its novel state, instead of being restored. Offshore platforms can be assessed under the novel ecosystems concept using existing decommissioning decision analysis models as a base. With thousands of platforms to be decommissioned around the world in coming decades, the novel ecosystems concept provides a mechanism for recognising the ecological role played by offshore platforms.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00548/pdf
+CITED BY COUNT: 61
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Ecosystem', 'Submarine pipeline', 'Nuclear decommissioning', 'Ecosystem services', 'Environmental resource management', 'Marine life', 'Environmental science', 'Biodiversity', 'Ecology', 'Oceanography', 'Engineering', 'Geology', 'Biology', 'Waste management']

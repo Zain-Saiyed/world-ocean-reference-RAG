@@ -1,0 +1,12 @@
+ID: W2056452765
+TITLE: HAUSGARTEN: Multidisciplinary Investigations at a Deep-Sea, Long-Term Observatory in the Arctic Ocean
+AUTHOR: ['Thomas Soltwedel', 'Eduard Bauerfeind', 'Melanie Bergmann', 'Nataliya Budaeva', 'E. Hoste', 'Nina Jaeckisch', 'K. v. Juterzenka', 'Jens Matthiesson', 'Vadim Moekievsky', 'Eva‐Maria Nöthig', 'N. Quéric', 'Burkhard Sablotny', 'Eberhard-Jürgen Sauter', 'Ingo Schewe', 'Barbara Urban-Malinga', 'Jan Dirk Wegner', 'Maria Włodarska‐Kowalczuk', 'Michaël Klages']
+ABSTRACT:
+A R C T I C has played an essential role in the history of our planet over the past 130 million years and contributes considerably to the present functioning of Earth and its life.The global cycles of a variety of materials fundamental to atmospheric conditions
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/18-3_soltwedel.pdf
+CITED BY COUNT: 126
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Observatory', 'Term (time)', 'Multidisciplinary approach', 'The arctic', 'Arctic', 'Oceanography', 'Climatology', 'Environmental science', 'Meteorology', 'Geology', 'Geography', 'Astronomy', 'Physics', 'Political science', 'Law']

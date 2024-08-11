@@ -1,0 +1,12 @@
+ID: W2131164662
+TITLE: Coastal urbanization leads to remarkable seaweed species loss and community shifts along the SW Atlantic
+AUTHOR: ['Fernando Scherner', 'Paulo Antunes Horta', 'Eurico C. Oliveirã', 'José Carlos Simonassi', 'Jason M. Hall‐Spencer', 'Fungyi Chow', 'José Marcos C. Nunes', 'Sônia Maria Barreto Pereira']
+ABSTRACT:
+Coastal urbanization is rapidly expanding worldwide while its impacts on seaweed communities remain poorly understood. We assessed the impact of urbanization along an extensive latitudinal gradient encompassing three phycogeographical regions in the SW Atlantic. Human population density, number of dwellings, and terrestrial vegetation cover were determined for each survey area and correlated with diversity indices calculated from seaweed percent cover data. Urban areas had significantly lower calcareous algal cover (−38%), and there was significantly less carbonate in the sediment off urban areas than off reference areas. Seaweed richness averaged 26% less in urban areas than in areas with higher vegetation cover. We observed a remarkable decline in Phaeophyceae and a substantial increase of Chlorophyta in urban areas across a wide latitudinal gradient. Our data show that coastal urbanization is causing substantial loss of seaweed biodiversity in the SW Atlantic, and is considerably changing seaweed assemblages.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 114
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Urbanization', 'Species richness', 'Biodiversity', 'Ecology', 'Geography', 'Vegetation (pathology)', 'Environmental science', 'Physical geography', 'Biology', 'Medicine', 'Pathology']

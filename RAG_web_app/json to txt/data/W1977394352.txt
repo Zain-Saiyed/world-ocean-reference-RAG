@@ -1,0 +1,12 @@
+ID: W1977394352
+TITLE: Timing and Climatic Consequences of the Opening of Drake Passage
+AUTHOR: ['Howie D. Scher', 'E. E. Martin']
+ABSTRACT:
+Age estimates for the opening of Drake Passage range from 49 to 17 million years ago (Ma), complicating interpretations of the relationship between ocean circulation and global cooling. Secular variations of neodymium isotope ratios at Agulhas Ridge (Southern Ocean, Atlantic sector) suggest an influx of shallow Pacific seawater approximately 41 Ma. The timing of this connection and the subsequent deepening of the passage coincide with increased biological productivity and abrupt climate reversals. Circulation/productivity linkages are proposed as a mechanism for declining atmospheric carbon dioxide. These results also indicate that Drake Passage opened before the Tasmanian Gateway, implying the late Eocene establishment of a complete circum-Antarctic pathway.
+
+SOURCE: Science
+PDF URL: None
+CITED BY COUNT: 502
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Oceanography', 'Ridge', 'Productivity', 'Ocean current', 'Geology', 'Range (aeronautics)', 'Climatology', 'Climate change', 'Primary productivity', 'Period (music)', 'Environmental science', 'Paleontology', 'Ecosystem', 'Ecology', 'Biology', 'Materials science', 'Physics', 'Acoustics', 'Economics', 'Composite material', 'Macroeconomics']

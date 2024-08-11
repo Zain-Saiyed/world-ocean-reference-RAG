@@ -1,0 +1,12 @@
+ID: W2892391584
+TITLE: Cold seep systems in the South China Sea: An overview
+AUTHOR: ['Feng Dong', 'Jian‐Wen Qiu', 'Yu Hu', 'Jörn Peckmann', 'Hairong Guan', 'Hui Tong', 'Chong Chen', 'Jiangxin Chen', 'Shanggui Gong', 'Niu Li', 'Duofu Chen']
+ABSTRACT:
+Three decades after the discovery of cold seep systems, various sites of hydrocarbon seepage have been found in the South China Sea (SCS). Over the past decade, these sites have become model systems for understanding the variability of hydrocarbon seepage and associated biogeochemical processes. In this review, we describe the cold seep systems of the SCS with an emphasis on seafloor manifestations, fluid sources, biogeochemical processes, and macroecology. Seafloor features associated with seeps include mud volcanoes, pockmarks, and carbonate deposits. A common characteristic of cold seeps is the occurrence of authigenic (i.e., in situ precipitated) carbonate minerals. These carbonates commonly exhibit low δ13C and high δ18O values, suggesting the incorporation of methane-derived carbon and oxygen derived from gas hydrate water. Biogeochemical processes such as sulfate-driven anaerobic oxidation of methane (SD-AOM), the key process at seeps, have been studied in detail with the aim of establishing geochemical proxies to trace these processes into the geological past. We also detail the features characterizing seep ecosystems. Understanding the impact of decomposing methane hydrate on the marine carbon budget remains challenging and requires additional seafloor observations as well as models predicting how gas hydrate responds to changing conditions such as temperature increase, sea level rise, and episodic mass wasting.
+
+SOURCE: Journal of Asian earth sciences
+PDF URL: None
+CITED BY COUNT: 190
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Cold seep', 'Authigenic', 'Geology', 'Biogeochemical cycle', 'Clathrate hydrate', 'Petroleum seep', 'Methane', 'Seafloor spreading', 'Earth science', 'Carbonate', 'Anaerobic oxidation of methane', 'Oceanography', 'Geochemistry', 'Sedimentary rock', 'Hydrate', 'Environmental chemistry', 'Ecology', 'Chemistry', 'Organic chemistry', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2944386985
+TITLE: Maritime Continent water cycle regulates low-latitude chokepoint of global ocean circulation
+AUTHOR: ['Tong Lee', 'Séverine Fournier', 'Arnold L. Gordon', 'Janet Sprintall']
+ABSTRACT:
+Abstract The Maritime Continent (MC) is a low-latitude chokepoint of the world oceans with the Indonesian throughflow (ITF) linking the Indo-Pacific oceans, influencing global ocean circulation, climate, and biogeochemistry. While previous studies suggested that South-China-Sea freshwaters north of the MC intruding the Indonesian Seas weaken the ITF during boreal winter, the impact of the MC water cycle on the ITF has not been investigated. Here we use ocean-atmosphere-land satellite observations to reveal the dominant contribution of the MC monsoonal water cycle to boreal winter−spring freshening in the Java Sea through local precipitation and runoff from Kalimantan, Indonesia. We further demonstrate that the freshening corresponds to a reduced southward pressure gradient that would weaken the ITF. Therefore, the MC water cycle plays a critical role regulating ITF seasonality. The findings have strong implications to longer-term variations of the ITF associated with the variability and change of Indo-Pacific climate and MC water cycle.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-019-10109-z.pdf
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Throughflow', 'Oceanography', 'Climatology', 'Water cycle', 'Environmental science', 'Precipitation', 'Boreal', 'Latitude', 'Monsoon', 'Geology', 'Geography', 'Ecology', 'Paleontology', 'Geodesy', 'Meteorology', 'Soil science', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2315975872
+TITLE: From pole to pole: the potential for the Arctic seastar <i>Asterias amurensis</i> to invade a warming Southern Ocean
+AUTHOR: ['Maria Byrne', 'Mailie Gall', 'Kennedy Wolfe', 'Antonio Agüera']
+ABSTRACT:
+Abstract Due to climatic warming, Asterias amurensis , a keystone boreal predatory seastar that has established extensive invasive populations in southern Australia, is a potential high‐risk invader of the sub‐Antarctic and Antarctic. To assess the potential range expansion of A. amurensis to the Southern Ocean as it warms, we investigated the bioclimatic envelope of the adult and larval life stages. We analysed the distribution of adult A. amurensis with respect to present‐day and future climate scenarios using habitat temperature data to construct species distribution models ( SDM s). To integrate the physiological response of the dispersive phase, we determined the thermal envelope of larval development to assess their performance in present‐day and future thermal regimes and the potential for success of A. amurensis in poleward latitudes. The SDM indicated that the thermal ‘niche’ of the adult stage correlates with a 0–17 °C and 1–22.5 °C range, in winter and summer, respectively. As the ocean warms, the range of A. amurensis in Australia will contract, while more southern latitudes will have conditions favourable for range expansion. Successful fertilization occurred from 3 to 23.8 °C. By day 12, development to the early larval stage was successful from 5.5 to 18 °C. Although embryos were able to reach the blastula stage at 2 °C, they had arrested development and high mortality. The optimal thermal range for survival of pelagic stages was 3.5–19.2 °C with a lower and upper critical limit of 2.6 and 20.3 °C, respectively. Our data predict that A. amurensis faces demise in its current invasive range while more favourable conditions at higher latitudes would facilitate invasion of both larval and adult stages to the Southern Ocean. Our results show that vigilance is needed to reduce the risk that this ecologically important Arctic carnivore may invade the Southern Ocean and Antarctica.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Biology', 'Range (aeronautics)', 'Effects of global warming on oceans', 'Ecology', 'Latitude', 'Climate change', 'Asterias', 'Pelagic zone', 'Global warming', 'Oceanography', 'Starfish', 'Geography', 'Materials science', 'Geodesy', 'Geology', 'Composite material']

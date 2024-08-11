@@ -1,0 +1,12 @@
+ID: W2056409771
+TITLE: On some hypotheses of diversity of animal life at great depths on the sea floor
+AUTHOR: ['Craig R. McClain', 'Thomas A. Schlacher']
+ABSTRACT:
+Abstract Multiple hypotheses have emerged to explain the apparent paradox of high diversity of the deep‐sea benthos when the environmental conditions are often predicted to inhibit rather than promote diversity. Many fundamental facets of these paradigms remain incompletely understood despite being central to understanding how deep‐sea ecosystems, and more generally all ecosystems, function. Here, we examine nine major paradigms of deep‐sea diversity that deserve, in our opinion, a fresh research impetus. We purposely challenge many of these ideas to generate dialogue and encourage further research. Some of the axiomatic predictions of these paradigms are: (i) the deep sea is highly diverse; (ii) stable environments reduce competition; (iii) species have finely partitioned niches; (iv) biological cropping promotes diversity; (v) disturbance controls diversity; (vi) patch mosaics structure assemblages; (vii) productivity controls diversity; (viii) recovery from disturbance is slow; and (ix) the deep sea is notoriously under‐sampled. We critically examine the evidence for each of these predictions and highlight areas where knowledge gaps exist and linkages to general ecological theory should occur. We conclude each section with ideas about questions and hypotheses that may fruitfully be tackled in future projects.
+
+SOURCE: Marine ecology
+PDF URL: None
+CITED BY COUNT: 88
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Diversity (politics)', 'Ecology', 'Disturbance (geology)', 'Benthos', 'Ecosystem', 'Deep sea', 'Ecological niche', 'Competition (biology)', 'Biology', 'Benthic zone', 'Sociology', 'Fishery', 'Paleontology', 'Habitat', 'Anthropology']

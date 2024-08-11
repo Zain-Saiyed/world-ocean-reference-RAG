@@ -1,0 +1,12 @@
+ID: W2051925766
+TITLE: Acoustic Ambient Noise in the Ocean: Spectra and Sources
+AUTHOR: ['Gordon M. Wenz']
+ABSTRACT:
+The results of recent ambient-noise investigations, after appropriate processing, are compared on the basis of pressure spectra in the frequency band 1 cps to 20 kc. Several possible sources are discussed to determine the most probable origin of the observed noise. It is concluded that, in general, the ambient noise is a composite of at least three overlapping components: turbulent-pressure fluctuations effective in the band 1 cps to 100 cps; wind-dependent noise from bubbles and spray resulting, primarily, from surface agitation, 50 cps to 20 kc; and, in many areas, oceanic traffic, 10 cps to 1000 cps. Spectrum characteristics of each component and of the composite are shown. Additional sources, including those of intermittent and local effects, are also discussed. Guidelines for the estimation of noise levels are given.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: None
+CITED BY COUNT: 1195
+PUBLICATION YEAR: 1962
+TYPE: article
+CONCEPTS: ['Ambient noise level', 'Noise (video)', 'Spectral line', 'Environmental science', 'Acoustics', 'Ambient pressure', 'Noise spectrum', 'Turbulence', 'Atmospheric sciences', 'Computational physics', 'Physics', 'Meteorology', 'Noise reduction', 'Computer science', 'Sound (geography)', 'Astronomy', 'Artificial intelligence', 'Image (mathematics)']

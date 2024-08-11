@@ -1,0 +1,12 @@
+ID: W2477072176
+TITLE: Productivity and Sustainable Management of the Humboldt Current Large Marine Ecosystem under climate change
+AUTHOR: ['Dimitri Gutiérrez', 'Michael Akester', 'Laura Naranjo']
+ABSTRACT:
+The Humboldt Current Large Marine Ecosystem (HCLME) covers 95% of the southeast Pacific seaboard of which the area of influence from the Humboldt Current and associated upwelling areas in the Humboldt Current System (HCS) stretches from around 4° to 40° south. Global warming will likely affect marine circulation and land-atmosphere-ocean exchanges at the regional level, affecting the productivity and biodiversity patterns along the HCLME. The expected decrease of upwelling productivity in the HCS could be amplified by worldwide trends of oxygen depletion and lower pH. In addition, higher frequency of extreme climatic events, such as El Niño in a warmer ocean, might augment the risks for the recruitment success of anchovy and other short-lived fish resources, especially in the Northern HCLME. A range of non-climatic anthropogenic stressors also combines to reduce productivity and biomass yields. Transboundary Diagnostic Analysis (TDA) work has shown that overfishing and pollution are the main contributing factors in addition to the shared problem between Chile and Peru of high levels of fisheries bycatch and discards. An economic valuation of the HCLME and HCS has been finalized with an estimated annual delivery of around USD19.5 billion in goods and services. With many knowledge gaps this is evidently an underestimate but indicates which mitigating activities under a recently developed bi-national Strategic Action Programme (SAP) need to be prioritized. Fisheries landings are declining and demand for products is increasing. Improvement of ecosystem planning and management tools with value addition options for marine products is needed to adapt to climate change.
+
+SOURCE: Environmental development
+PDF URL: http://manuscript.elsevier.com/S2211464515300397/pdf/S2211464515300397.pdf
+CITED BY COUNT: 61
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Productivity', 'Upwelling', 'Overfishing', 'Climate change', 'Marine ecosystem', 'Environmental science', 'Ecosystem', 'Fishery', 'Bycatch', 'Oceanography', 'Fishing', 'Ecology', 'Biology', 'Economics', 'Macroeconomics', 'Geology']

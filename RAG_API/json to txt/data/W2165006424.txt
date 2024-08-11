@@ -1,0 +1,12 @@
+ID: W2165006424
+TITLE: Spatial patterns and predictors of trophic control in marine ecosystems
+AUTHOR: ['Daniel G. Boyce', 'Kenneth T. Frank', 'Boris Worm', 'William C. Leggett']
+ABSTRACT:
+A key question in ecology is under which conditions ecosystem structure tends to be controlled by resource availability vs. consumer pressure. Several hypotheses derived from theory, experiments and observational field studies have been advanced, yet a unified explanation remains elusive. Here, we identify common predictors of trophic control in a synthetic analysis of 52 observational field studies conducted within marine ecosystems across the Northern Hemisphere and published between 1951 and 2014. Spatial regression analysis of 45 candidate variables revealed temperature to be the dominant predictor, with unimodal effects on trophic control operating both directly (r(2) = 0.32; P < 0.0001) and indirectly through influences on turnover rate and quality of primary production, biodiversity and omnivory. These findings indicate that temperature is an overarching determinant of the trophic dynamics of marine ecosystems, and that variation in ocean temperature will affect the trophic structure of marine ecosystems through both direct and indirect mechanisms.
+
+SOURCE: Ecology letters
+PDF URL: None
+CITED BY COUNT: 53
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Trophic level', 'Ecology', 'Ecosystem', 'Marine ecosystem', 'Biodiversity', 'Environmental science', 'Biology']

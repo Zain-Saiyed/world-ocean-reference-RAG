@@ -1,0 +1,12 @@
+ID: W2016702459
+TITLE: Biodiversity's Big Wet Secret: The Global Distribution of Marine Biological Records Reveals Chronic Under-Exploration of the Deep Pelagic Ocean
+AUTHOR: ['Thomas J. Webb', 'E. Vanden Berghe', 'R. K. O’Dor']
+ABSTRACT:
+Understanding the distribution of marine biodiversity is a crucial first step towards the effective and sustainable management of marine ecosystems. Recent efforts to collate location records from marine surveys enable us to assemble a global picture of recorded marine biodiversity. They also effectively highlight gaps in our knowledge of particular marine regions. In particular, the deep pelagic ocean--the largest biome on Earth--is chronically under-represented in global databases of marine biodiversity.We use data from the Ocean Biogeographic Information System to plot the position in the water column of ca 7 million records of marine species occurrences. Records from relatively shallow waters dominate this global picture of recorded marine biodiversity. In addition, standardising the number of records from regions of the ocean differing in depth reveals that regardless of ocean depth, most records come either from surface waters or the sea bed. Midwater biodiversity is drastically under-represented.The deep pelagic ocean is the largest habitat by volume on Earth, yet it remains biodiversity's big wet secret, as it is hugely under-represented in global databases of marine biological records. Given both its value in the provision of a range of ecosystem services, and its vulnerability to threats including overfishing and climate change, there is a pressing need to increase our knowledge of Earth's largest ecosystem.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0010223&type=printable
+CITED BY COUNT: 230
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Pelagic zone', 'Marine ecosystem', 'Overfishing', 'Marine conservation', 'Biome', 'Ecosystem', 'Geography', 'Oceanography', 'Environmental science', 'Environmental resource management', 'Ecology', 'Biology', 'Geology', 'Fishing']

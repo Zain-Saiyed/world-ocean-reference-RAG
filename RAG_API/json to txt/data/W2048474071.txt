@@ -1,0 +1,12 @@
+ID: W2048474071
+TITLE: Spatial variations of sea-level rise and impacts: An application of DIVA
+AUTHOR: ['Sally Brown', 'Robert J. Nicholls', 'Jason Lowe', 'Jochen Hinkel']
+ABSTRACT:
+Due to complexities of creating sea-level rise scenarios, impacts of climate-induced sea-level rise are often produced from a limited number of models assuming a global uniform rise in sea level. A greater number of models, including those with a pattern reflecting regional variations would help to assure reliability and a range of projections, indicating where models agree and disagree. This paper determines how nine new patterned-scaled sea-level rise scenarios (plus the uniform and patterned ensemble mean rises) influence global and regional coastal impacts (wetland loss, dry land loss due to erosion and the expected number of people flooded per year by extreme sea levels). The DIVA coastal impacts model was used under an A1B scenario, and assumed defences were not upgraded as conditions evolved. For seven out of nine climate models, impacts occurred at a proportional rate to global sea-level rise. For the remaining two models, higher than average rise in sea level was projected in northern latitudes or around populated coasts thus skewing global impact projections compared with the ensemble global mean. Regional variability in impacts were compared using the ensemble mean uniform and patterned scenarios: The largest relative difference in impacts occurred around the Mediterranean coast, and the largest absolute differences around low-lying populated coasts, such as south, south-east and east Asia. Uniform projections of sea-level rise impacts remain a useful method to determine global impacts, but improved regional scale models of sea-level rise, particularly around semi-enclosed seas and densely populated low-lying coasts will provide improved regional impact projections and a characterisation of their uncertainties.
+
+SOURCE: Climatic change
+PDF URL: None
+CITED BY COUNT: 56
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Sea level', 'Environmental science', 'Range (aeronautics)', 'Latitude', 'Climatology', 'Climate change', 'Sea level rise', 'Representative Concentration Pathways', 'Climate model', 'Future sea level', 'Geography', 'Physical geography', 'Oceanography', 'Geology', 'Sea ice', 'Materials science', 'Geodesy', 'Antarctic sea ice', 'Arctic ice pack', 'Composite material']

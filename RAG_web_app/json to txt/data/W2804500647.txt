@@ -1,0 +1,12 @@
+ID: W2804500647
+TITLE: El Niño–Southern Oscillation and Associated Climatic Conditions around the World during the Latter Half of the Twenty-First Century
+AUTHOR: ['Scott B. Power', 'François Delage']
+ABSTRACT:
+Increases in greenhouse gas emissions are expected to cause changes both in climatic variability in the Pacific linked to El Niño–Southern Oscillation (ENSO) and in long-term average climate. While mean state and variability changes have been studied separately, much less is known about their combined impact or relative importance. Additionally, studies of projected changes in ENSO have tended to focus on changes in, or adjacent to, the Pacific. Here we examine projected changes in climatic conditions during El Niño years and in ENSO-driven precipitation variability in 36 CMIP5 models. The models are forced according to the RCP8.5 scenario in which there are large, unmitigated increases in greenhouse gas concentrations during the twenty-first century. We examine changes over much of the globe, including 25 widely spread regions defined in the IPCC special report Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (SREX). We confirm that precipitation variability associated with ENSO is projected to increase in the tropical Pacific, consistent with earlier research. We also find that the enhanced tropical Pacific variability drives ENSO-related variability increases in 19 SREX regions during DJF and in 18 during JJA. This externally forced increase in ENSO-driven precipitation variability around the world is on the order of 15%–20%. An increase of this size, although substantial, is easily masked at the regional level by internally generated multidecadal variability in individual runs. The projected changes in El Niño–driven precipitation variability are typically much smaller than projected changes in both mean state and ENSO neutral conditions in nearly all regions.
+
+SOURCE: Journal of climate
+PDF URL: None
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Climatology', 'Precipitation', 'El Niño Southern Oscillation', 'Environmental science', 'Pacific decadal oscillation', 'Climate change', 'Greenhouse gas', 'Climate model', 'Multivariate ENSO index', 'Climatic variability', 'Southern oscillation', 'Atmospheric sciences', 'Geography', 'Geology', 'Oceanography', 'Meteorology']

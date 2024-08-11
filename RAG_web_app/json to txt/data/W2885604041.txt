@@ -1,0 +1,12 @@
+ID: W2885604041
+TITLE: Discussion on Marine Spatial Planning in China: Role and Prospect
+AUTHOR: ['Minjie Kang', 'Bin Zhang', 'Lin Xia']
+ABSTRACT:
+Marine spatial planning (MSP) is world widely recognized as a practical approach to manage conflicts and protect ecology and environment of the sea. In China, marine functional zoning (MFZ) application is into the second period and it is facing some challenges in managing conflicts and protecting marine ecology and environment. This article compared MFZ with MSP, discussed the role of MSP in China and provide some perspectives on the prospect of MSP in the land sea overall strategy. It is concluded that current MFZ management framework needs improvement, MSP would be a good practice for China to improve sea utilization management, it would play an important role to cope with the challenges from land areas and achieve goals and objectives, prospectively it would be a possible way to implement MSP in the land sea overall strategy.
+
+SOURCE: DEStech transactions on environment, energy and earth sciences
+PDF URL: http://dpi-proceedings.com/index.php/dteees/article/download/14323/13841
+CITED BY COUNT: 1
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine spatial planning', 'China', 'Zoning', 'Environmental resource management', 'Environmental planning', 'Marine conservation', 'Business', 'Geography', 'Engineering', 'Environmental science', 'Civil engineering', 'Archaeology']

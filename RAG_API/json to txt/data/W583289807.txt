@@ -1,0 +1,12 @@
+ID: W583289807
+TITLE: Where do you draw the line? Determining the transition thresholds between estuarine salt marshes and terrestrial vegetation
+AUTHOR: ['D.A. Veldkornet', 'Janine B. Adams', 'Alastair Potts']
+ABSTRACT:
+The aim of this study was to determine if abiotic thresholds are responsible for maintaining the salt marsh–terrestrial vegetation boundary. In eight estuaries along the South African coast, sediment and groundwater characteristics were measured in quadrats spanning the salt marsh, ecotone and terrestrial habitats. The cover of salt marsh vegetation showed no obvious limitation to any of the recorded environmental variables. This supports Purer's hypothesis that the upper boundary of estuaries is limited by competition. In contrast, terrestrial vegetation cover declined with increasing sediment electrical conductivity (threshold ~ 20–30 mS/cm), groundwater electrical conductivity (threshold ~ 60–80 mS/cm), and groundwater salinity (threshold ~ 20–40 ppt) and sediment moisture content (threshold ~ 20–25%). These variables were strongly correlated, and may be operating synergistically or a subset of these may be responsible for restricting terrestrial vegetation from occurring in the salt marsh. In the absence of landuse changes at the salt marsh–terrestrial boundary, salt marshes are unlikely to be unaffected by rising sea-levels as a landward migration will not be constrained by abiotic factors.
+
+SOURCE: South African journal of botany
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Salt marsh', 'Marsh', 'Environmental science', 'Vegetation (pathology)', 'Estuary', 'Abiotic component', 'Sediment', 'Ecology', 'Ecotone', 'Wetland', 'Habitat', 'Hydrology (agriculture)', 'Oceanography', 'Geology', 'Biology', 'Geomorphology', 'Medicine', 'Pathology', 'Geotechnical engineering']

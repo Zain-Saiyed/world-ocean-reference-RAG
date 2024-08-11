@@ -1,0 +1,12 @@
+ID: W2121947862
+TITLE: Effects of sea-ice extent and krill or salp dominance on the Antarctic food web
+AUTHOR: ['Valerie J. Loeb', 'Volker Siegel', 'Osmund Holm‐Hansen', 'Roger P. Hewitt', 'William R. Fraser', 'Wayne Z. Trivelpiece', 'Susan G. Trivelpiece']
+ABSTRACT:
+Krill (Euphausia superba) provide a direct link between primary producers and higher trophic levels in the Antarctic marine food web1,2,3,4,5,6. The pelagic tunicate Salpa thompsoni can also be important during spring and summer through the formation of extensive and dense blooms6,7,8,9. Although salps are not a major dietary item for Antarctic vertebrate predators7,10, their blooms can affect adult krill reproduction and survival of krill larvae. Here we provide data from 1995 and 1996 that support hypothesized relationships between krill, salps and region-wide sea-ice conditions11,12. We have assessed salp consumption as a proportion of net primary production, and found correlations between herbivore densities and integrated chlorophyll-a that indicate that there is a degree of competition between krill and salps. Our analysis of the relationship between annual sea-ice cover and a longer time series of air temperature measurements12,13 indicates a decreased frequency of winters with extensive sea-ice development over the last five decades. Our data suggest that decreased krill availability may affect the levels of their vertebrate predators. Regional warming and reduced krill abundance therefore affect the marine food web and krill resource management.
+
+SOURCE: Nature
+PDF URL: https://www.nature.com/articles/43174.pdf
+CITED BY COUNT: 639
+PUBLICATION YEAR: 1997
+TYPE: article
+CONCEPTS: ['Krill', 'Antarctic krill', 'Euphausia', 'Food web', 'Biology', 'Trophic level', 'Sea ice', 'Pelagic zone', 'Euphausiacea', 'Dominance (genetics)', 'Fishery', 'Oceanography', 'Predation', 'Ecology', 'Biochemistry', 'Gene', 'Geology']

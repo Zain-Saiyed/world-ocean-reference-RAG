@@ -1,0 +1,12 @@
+ID: W2605898378
+TITLE: Ambient Sound at Challenger Deep, Mariana Trench
+AUTHOR: ['Robert P. Dziak', 'J. H. Haxel', 'H. Matsumoto', 'Tai‐Kwan Lau', 'Sara L. Heimlich', 'Sharon L. Nieukirk', 'David K. Mellinger', 'James Osse', 'Christian Meinig', 'Nicholas Delich', 'Scott Stalin']
+ABSTRACT:
+We present a record of ambient sound obtained using a unique deep-ocean instrument package and mooring that was successfully deployed in 2015 at Challenger Deep in the Mariana Trench.The 45 m long mooring contained a hydrophone and an RBR™ pressure-temperature sensor.The hydrophone recorded continuously for 24 days at a 32 kHz sample rate.The pressure logger recorded a maximum pressure of 11,161.4decibars, corresponding to a depth of 10,829.7 m, where actual anchor depth was 10,854.7 m.Observed sound sources included earthquake acoustic signals (T phases), baleen and odontocete cetacean vocalizations, ship propeller sounds, airguns, active sonar, and the passing of a Category 4 typhoon.Overall, Challenger Deep sound levels in the ship traffic band (20-100 Hz) can be as high as noise levels caused by moderate shipping, which is likely due to persistent commercial and military ship traffic in the region.Challenger Deep sound levels due to sea surface wind/waves (500 Hz to 1 kHz band) are as high as sea state 2, but can also be very low, equivalent to sea state 0. To our knowledge, this is the first long-term (multiday to week) broadband sound record, and only the fifth in situ measurement of depth, ever made at Challenger Deep.Our study indicates that Challenger Deep, the ultimate hadal (>6,000 m) environment, can be relatively quiet but is not as acoustically isolated as previously thought, and weatherrelated surface processes can influence the soundscape in the deepest parts of the ocean.
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/30-2_dziak.pdf
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sound (geography)', 'Trench', 'Geology', 'Oceanography', 'Acoustics', 'Physics', 'Materials science', 'Layer (electronics)', 'Composite material']

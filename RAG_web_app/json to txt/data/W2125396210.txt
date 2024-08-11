@@ -1,0 +1,12 @@
+ID: W2125396210
+TITLE: Comparative biogeochemistry–ecosystem–human interactions on dynamic continental margins
+AUTHOR: ['Lisa A. Levin', 'Kon‐Kee Liu', 'Kay‐Christian Emeis', 'Denise L. Breitburg', 'James E. Cloern', 'Curtis Deutsch', 'Michele Giani', 'Anne Goffart', 'Eileen E. Hofmann', 'Zouhair Lachkar', 'Karin E. Limburg', 'Su Mei Liu', 'Enrique Montes', 'Wajih Naqvi', 'Olivier Ragueneau', 'Christophe Rabouille', 'Santosh Kumar Sarkar', 'Dennis P. Swaney', 'Paul Wassman', 'Karen F. Wishner']
+ABSTRACT:
+The oceans' continental margins face strong and rapid change, forced by a combination of direct human activity, anthropogenic CO2-induced climate change, and natural variability. Stimulated by discussions in Goa, India at the IMBER IMBIZO III, we (1) provide an overview of the drivers of biogeochemical variation and change on margins, (2) compare temporal trends in hydrographic and biogeochemical data across different margins, (3) review ecosystem responses to these changes, (4) highlight the importance of margin time series for detecting and attributing change and (5) examine societal responses to changing margin biogeochemistry and ecosystems. We synthesize information over a wide range of margin settings in order to identify the commonalities and distinctions among continental margin ecosystems. Key drivers of biogeochemical variation include long-term climate cycles, CO2-induced warming, acidification, and deoxygenation, as well as sea level rise, eutrophication, hydrologic and water cycle alteration, changing land use, fishing, and species invasion. Ecosystem responses are complex and impact major margin services. These include primary production, fisheries production, nutrient cycling, shoreline protection, chemical buffering, and biodiversity. Despite regional differences, the societal consequences of these changes are unarguably large and mandate coherent actions to reduce, mitigate and adapt to multiple stressors on continental margins.
+
+SOURCE: Journal of marine systems
+PDF URL: None
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Biogeochemistry', 'Biogeochemical cycle', 'Climate change', 'Environmental science', 'Continental margin', 'Ecosystem', 'Biodiversity', 'Marine ecosystem', 'Oceanography', 'Environmental change', 'Ecosystem services', 'Ecology', 'Geology', 'Biology', 'Paleontology', 'Tectonics']

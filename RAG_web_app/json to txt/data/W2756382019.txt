@@ -1,0 +1,12 @@
+ID: W2756382019
+TITLE: Exposure to seismic air gun signals causes physiological harm and alters behavior in the scallop <i>Pecten fumatus</i>
+AUTHOR: ['Ryan D. Day', 'Robert D. McCauley', 'Quinn P. Fitzgibbon', 'Klaas Hartmann', 'JM Semmens']
+ABSTRACT:
+Seismic surveys map the seabed using intense, low-frequency sound signals that penetrate kilometers into the Earth's crust. Little is known regarding how invertebrates, including economically and ecologically important bivalves, are affected by exposure to seismic signals. In a series of field-based experiments, we investigate the impact of exposure to seismic surveys on scallops, using measurements of physiological and behavioral parameters to determine whether exposure may cause mass mortality or result in other sublethal effects. Exposure to seismic signals was found to significantly increase mortality, particularly over a chronic (months postexposure) time scale, though not beyond naturally occurring rates of mortality. Exposure did not elicit energetically expensive behaviors, but scallops showed significant changes in behavioral patterns during exposure, through a reduction in classic behaviors and demonstration of a nonclassic "flinch" response to air gun signals. Furthermore, scallops showed persistent alterations in recessing reflex behavior following exposure, with the rate of recessing increasing with repeated exposure. Hemolymph (blood analog) physiology showed a compromised capacity for homeostasis and potential immunodeficiency, as a range of hemolymph biochemistry parameters were altered and the density of circulating hemocytes (blood cell analog) was significantly reduced, with effects observed over acute (hours to days) and chronic (months) scales. The size of the air gun had no effect, but repeated exposure intensified responses. We postulate that the observed impacts resulted from high seabed ground accelerations driven by the air gun signal. Given the scope of physiological disruption, we conclude that seismic exposure can harm scallops.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/114/40/E8537.full.pdf
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Scallop', 'Hemolymph', 'Biology', 'Poison control', 'Toxicology', 'Physiology', 'Ecology', 'Medicine', 'Environmental health']

@@ -1,0 +1,12 @@
+ID: W2095789486
+TITLE: Current Status and Future Prospects for the Assessment of Marine and Coastal Ecosystem Services: A Systematic Review
+AUTHOR: ['Camino Liquete', 'Chiara Piroddi', 'Evangelia G. Drakou', 'L. Gurney', 'Stelios Katsanevakis', 'Aymen Charef', 'Benis N. Egoh']
+ABSTRACT:
+Research on ecosystem services has grown exponentially during the last decade. Most of the studies have focused on assessing and mapping terrestrial ecosystem services highlighting a knowledge gap on marine and coastal ecosystem services (MCES) and an urgent need to assess them.We reviewed and summarized existing scientific literature related to MCES with the aim of extracting and classifying indicators used to assess and map them. We found 145 papers that specifically assessed marine and coastal ecosystem services from which we extracted 476 indicators. Food provision, in particular fisheries, was the most extensively analyzed MCES while water purification and coastal protection were the most frequently studied regulating and maintenance services. Also recreation and tourism under the cultural services was relatively well assessed. We highlight knowledge gaps regarding the availability of indicators that measure the capacity, flow or benefit derived from each ecosystem service. The majority of the case studies was found in mangroves and coastal wetlands and was mainly concentrated in Europe and North America. Our systematic review highlighted the need of an improved ecosystem service classification for marine and coastal systems, which is herein proposed with definitions and links to previous classifications.This review summarizes the state of available information related to ecosystem services associated with marine and coastal ecosystems. The cataloging of MCES indicators and the integrated classification of MCES provided in this paper establish a background that can facilitate the planning and integration of future assessments. The final goal is to establish a consistent structure and populate it with information able to support the implementation of biodiversity conservation policies.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0067737&type=printable
+CITED BY COUNT: 486
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Environmental resource management', 'Recreation', 'Ecosystem', 'Marine ecosystem', 'Marine spatial planning', 'Ecosystem health', 'Business', 'Ecology', 'Environmental science', 'Biology']

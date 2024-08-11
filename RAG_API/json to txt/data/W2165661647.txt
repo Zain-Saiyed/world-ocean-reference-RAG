@@ -1,0 +1,12 @@
+ID: W2165661647
+TITLE: Oceans governance and marine spatial planning in Australia
+AUTHOR: ['Joanna Vince']
+ABSTRACT:
+Australian ocean governance faces the challenge of sustaining a balance between marine resource use and conservation while dealing with pressing threats resulting from climate change such as sea level rise, fisheries food security, IUU fishing and ocean acidification. Marine spatial planning (MSP) is a way forward for dealing with these challenges in oceans governance. This paper examines a recent Commonwealth MSP initiative in Australia: Marine Bioregional Plans (MBPs) that are based on large marine ecosystems and provide the framework for the establishment of the National Representative System of Marine Protected Areas. Four MSP conditions are introduced: use of ecosystem-based approaches; spatial orientation; integration; and a multilevel policy framework. By analysing MBPs utilising these conditions, this paper outlines the challenges and accomplishments of this MSP process.
+
+SOURCE: Australian journal of maritime and ocean affairs
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Marine spatial planning', 'Marine protected area', 'Corporate governance', 'Marine conservation', 'Environmental resource management', 'Environmental planning', 'Marine ecosystem', 'Fishing', 'Ecosystem-based management', 'Business', 'Spatial planning', 'Commonwealth', 'Resilience (materials science)', 'Process (computing)', 'Resource (disambiguation)', 'Geography', 'Ecosystem', 'Political science', 'Environmental science', 'Ecology', 'Habitat', 'Computer science', 'Finance', 'Law', 'Computer network', 'Physics', 'Archaeology', 'Biology', 'Operating system', 'Thermodynamics']

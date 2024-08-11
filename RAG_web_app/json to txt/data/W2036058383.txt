@@ -1,0 +1,12 @@
+ID: W2036058383
+TITLE: Comparison of produced water toxicity to Arctic and temperate species
+AUTHOR: ['Lionel Camus', 'Steven J. Brooks', 'Perrine Geraudie', 'Morten Hjorth', 'Jasmine Nahrgang', 'Gro Harlaug Olsen', 'Mathijs G.D. Smit']
+ABSTRACT:
+Produced water is the main discharge stream from oil and gas production. For offshore activities this water is usually discharged to the marine environment. Produced water contains traces of hydrocarbons such as polycyclic aromatic hydrocarbons as well as alkylphenols, which are relatively resistant to biodegradation and have been reported to cause adverse effects to marine organisms in laboratory studies. For management of produced water, risk-based tools have been developed using toxicity data for mainly non-Arctic species. Reliable risk assessment approaches for Arctic environments are requested to manage potential impacts of produced water associated with increased oil and gas activities in Arctic regions. In order to assess the applicability of existing risk tools for Arctic areas, basic knowledge on the sensitivity of Arctic species has to be developed. In the present study, acute and chronic toxicity of artificial produced water for 6 Arctic and 6 temperate species was experimentally tested and evaluated. The hazardous concentrations affecting 5% and 50% of the species were calculated from species sensitivity distribution curves. Hazardous concentrations were compared to elucidate whether temperate toxicity data used in risk assessment are sufficiently representative for Arctic species. From the study it can be concluded that hazardous concentration derived from individual species' toxicity data of temperate and Arctic species are comparable. However, the manner in which Arctic and non-Arctic populations and communities respond to exposure levels above established thresholds remains to be investigated. Hence, responses at higher levels of biological organization should be studied to reveal potential differences in sensitivities to produced water between Arctic and non-Arctic ecosystems.
+
+SOURCE: Ecotoxicology and environmental safety
+PDF URL: None
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Arctic', 'Temperate climate', 'Environmental science', 'Hazardous waste', 'Produced water', 'Environmental chemistry', 'Ecology', 'Biology', 'Chemistry', 'Environmental engineering']

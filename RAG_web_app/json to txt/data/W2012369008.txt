@@ -1,0 +1,12 @@
+ID: W2012369008
+TITLE: The distribution and partitioning of common antibiotics in water and sediment of the Pearl River Estuary, South China
+AUTHOR: ['Ximei Liang', 'Baowei Chen', 'Xiaoqin Nie', 'Zhènglì Shí', 'Xiaoping Huang', 'Xiangdong Li']
+ABSTRACT:
+Antibiotics released into the aquatic environment play an important role in the spread of antibiotic resistance. In the Pearl River Estuary (PRE) and the coastal zone, the concentrations of antibiotics decreased from the Pearl River to the estuary, suggesting that antibiotics primarily originated from river tributaries and terrigenous sources. Within the PRE area, the concentrations of antibiotics in water were higher in the west coast than the east side, reflecting the high density of anthropogenic activities and hydraulic conditions along the west riverbank. Seasonal variations were also observed for most of detected antibiotics in water. The pseudo-partitioning coefficient of norfloxacin had a good correlation with the TOC content of sediments, as did erythromycin-H2O with the pH of water. The results suggest that environmental conditions can significantly affect the distribution of antibiotics between water and sediment.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 222
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Estuary', 'Tributary', 'Pearl', 'Sediment', 'Environmental science', 'Terrigenous sediment', 'Hydrology (agriculture)', 'Oceanography', 'Geology', 'Geography', 'Geotechnical engineering', 'Archaeology', 'Paleontology', 'Cartography']

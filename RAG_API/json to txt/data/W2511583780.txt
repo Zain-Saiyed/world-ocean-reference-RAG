@@ -1,0 +1,12 @@
+ID: W2511583780
+TITLE: Ocean acidification changes the male fitness landscape
+AUTHOR: ['Anna L. Campbell', 'Don R. Levitan', 'David J. Hosken', 'Ceri Lewis']
+ABSTRACT:
+Sperm competition is extremely common in many ecologically important marine taxa. Ocean acidification (OA) is driving rapid changes to the marine environments in which freely spawned sperm operate, yet the consequences of OA on sperm performance are poorly understood in the context of sperm competition. Here, we investigated the impacts of OA (+1000 μatm pCO2) on sperm competitiveness for the sea urchin Paracentrotus lividus. Males with faster sperm had greater competitive fertilisation success in both seawater conditions. Similarly, males with more motile sperm had greater sperm competitiveness, but only under current pCO2 levels. Under OA the strength of this association was significantly reduced and there were male sperm performance rank changes under OA, such that the best males in current conditions are not necessarily best under OA. Therefore OA will likely change the male fitness landscape, providing a mechanism by which environmental change alters the genetic landscape of marine species.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep31250.pdf
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Paracentrotus lividus', 'Sperm', 'Ocean acidification', 'Sperm competition', 'Sea urchin', 'Context (archaeology)', 'Biology', 'Ecology', 'Competition (biology)', 'Zoology', 'Climate change', 'Botany', 'Paleontology']

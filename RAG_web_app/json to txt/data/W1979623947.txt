@@ -1,0 +1,12 @@
+ID: W1979623947
+TITLE: Evaluation of ecological engineering of “armoured” shorelines to improve their value as habitat
+AUTHOR: ['M. G. Chapman', 'A. J. Underwood']
+ABSTRACT:
+People have caused major impacts on nearshore and intertidal habitats by building infrastructure associated with shipping, recreation, residential and commercial developments. Together with the desire or need to control erosion, these have led to increased “armouring” of intertidal shorelines, with seawalls, revetments, onshore and offshore groynes and other defence systems, piers and docks replacing natural habitats. Despite the long history of such changes, until relatively recently there had been limited research on the impacts of such alterations to shorelines, especially when compared to research into effects of urbanisation on terrestrial habitats. In addition, most research to date has focussed on the impacts of such changes on the ecological structure of assemblages, i.e. the numbers and types of organisms affected, rather than on ecological processes. With the realisation that most coastal infrastructure cannot be removed, there is now an increasing research effort into ways that infrastructure can be built to meet engineering requirements, but to also increase its value as habitat – ecological engineering. In this review, we discuss the major impacts and the experimental research that has been and is being done to build coastal infrastructure in a more biodiversity-friendly manner. Much of the review has focussed on seawalls, which is where most of the experimental work has been done to date. Finally, we raise some concerns about the types of research effort that are still needed and caution against wholesale implementation of what seem like simple remedies, without evidence that they will have the desired effect in the long term.
+
+SOURCE: Journal of experimental marine biology and ecology
+PDF URL: None
+CITED BY COUNT: 282
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Intertidal zone', 'Habitat', 'Urbanization', 'Shore', 'Ecology', 'Rocky shore', 'Biodiversity', 'Environmental resource management', 'Tide pool', 'Coastal erosion', 'Recreation', 'Submarine pipeline', 'Natural (archaeology)', 'Environmental planning', 'Biology', 'Fishery', 'Geography', 'Engineering', 'Environmental science', 'Paleontology', 'Geotechnical engineering']

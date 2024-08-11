@@ -1,0 +1,12 @@
+ID: W2085577064
+TITLE: Elasmobranch egg capsules associated with modern and ancient cold seeps: a nursery for marine deep-water predators
+AUTHOR: ['Tina Treude', 'Steffen Kiel', 'Петер Линке', 'Jörn Peckmann', 'James L. Goedert']
+ABSTRACT:
+At 2 modern deep-water cold-seep sites, the North Alex Mud Volcano (eastern Mediterranean Sea, water depth ~500 m) and the Concepción Methane Seep Area (south-east Pacific Ocean, water depth ~700 m), we found abundant catshark (Chondrichthyes: Scyliorhinidae) and skate (Chondrichthyes: Rajidae) egg capsules, respectively, associated with carbonates and tubeworms.Fossilized catshark egg capsules were found at the 35 million year old Bear River Cold-Seep Deposit (Washington State, USA) closely associated with remains of tubeworms and sponges.We suggest that cold-seep ecosystems have served as nurseries for predatory elasmobranch fishes since at least late Eocene time and therewith possibly play an important role for the functioning of deep-water ecosystems.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: https://www.int-res.com/articles/meps_oa/m437p175.pdf
+CITED BY COUNT: 56
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Chondrichthyes', 'Cold seep', 'Oceanography', 'Predation', 'Geology', 'Biology', 'Ecology', 'Methane']

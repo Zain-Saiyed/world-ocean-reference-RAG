@@ -1,0 +1,12 @@
+ID: W2901337895
+TITLE: Connectivity modelling of areas closed to protect vulnerable marine ecosystems in the northwest Atlantic
+AUTHOR: ['Ellen Kenchington', 'Zeliang Wang', 'Camille Lirette', 'F. Javier Murillo', 'Javier Guijarro', 'Igor Yashayaev', 'Manuel Maldonado']
+ABSTRACT:
+Over the course of the past decade, in response to United Nations General Assembly resolutions calling for the protection of vulnerable marine ecosystems (VMEs), the Northwest Atlantic Fisheries Organization has closed 14 areas around the high-seas portion of Grand Bank and Flemish Cap to protect deep-sea coral and sponge habitats from impacts by bottom-contact fishing gears. Structural and functional connectivity for those areas were not explicitly considered in the area-selection process. We applied a particle-tracking model in each of four seasons to produce dispersal trajectories at the surface and 100 m from start points within the closed areas. These were run in forecast and hindcast modes to identify dispersal kernels. Currents at the surface, 100 m, 1000 m and “on bottom” were examined under an independent model (NEMO) to infer structural connectivity among the areas at relevant depths not available in the particle-tracking model. Spawning times and planktonic larval duration of the dominant sponges, sea pens and gorgonian corals were then considered to evaluate the trajectories as bio-physical models, while species distribution models identified potential source populations from hindcast projections. Five of the 14 areas, including the three largest closures, showed particle retention, with three others showing retention within 10 km of their boundaries. The regional pattern of currents and their topographic forcing emerged as a strong structuring agent. A system of weakly-connected closed areas to protect sea pen VMEs on Flemish Cap was identified. The conducted approach illustrates the added value of assessing/modelling networking properties when designing MPAs.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 28
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Marine ecosystem', 'Marine protected area', 'Hindcast', 'Ecosystem', 'Geography', 'Plankton', 'Ecology', 'Oceanography', 'Environmental science', 'Habitat', 'Fishery', 'Population', 'Biology', 'Geology', 'Demography', 'Sociology', 'Meteorology']

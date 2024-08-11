@@ -1,0 +1,12 @@
+ID: W4253311816
+TITLE: Epidemiological study of swimming-associated illnesses relating to bathing-beach water quality
+AUTHOR: ['C. S. W. Kueh', 'T.-Y. Tam', 'T. Lee', 'SL Wong', 'O L Lloyd', 'Ignatius Ts Yu', 'Terry Tin‐Yau Wong', 'Johnny Tam', 'D. C. J. Bassett']
+ABSTRACT:
+The water quality objective or indicator of bathing beaches is established on the basis of epidemiological data of swimming-related illnesses in the local population. It needs to be updated and refined in light of changes in the composition, health status and recreational activities of the community. A major epidemiological study was conducted in Hong Kong in 1992 involving interviewing 25000 beach-goers on the health effects of exposure to bathing water. The results indicated that the total incidence of swimming-related illness symptoms was 41 per 1000, higher than the 30 per 1000 found in 1987. Eye, skin and respiratory symptoms were 2-20 times more prevalent in swimmers than in non-swimmers. Only gastrointestinal (GI) symptoms were directly related to the pollution level and bacterial content of beach water. Turbidity of beach water was closely linked with GI and highly credible GI symptoms and might be used as a monitoring tool and a parameter in the beach water quality objective. There was also a direct correlation between GI symptoms and the number of Clostridium perfringens, Aeromonas spp., Vibrio cholerae (non-O1) in beach water. No direct relationship between GI symptoms and E. coli or faecal coliforms could be identified in this study.
+
+SOURCE: Water science & technology
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 1995
+TYPE: article
+CONCEPTS: ['Bathing', 'Epidemiology', 'Environmental health', 'Water quality', 'Waterborne diseases', 'Medicine', 'Turbidity', 'Population', 'Ecology', 'Biology', 'Pathology']

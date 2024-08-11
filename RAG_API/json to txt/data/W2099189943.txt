@@ -1,0 +1,12 @@
+ID: W2099189943
+TITLE: Ocean's least productive waters are expanding
+AUTHOR: ['Jeffrey J. Polovina', 'Evan A. Howell', 'Mélanie Abécassis']
+ABSTRACT:
+A 9‐year time series of SeaWiFS remotely‐sensed ocean color data is used to examine temporal trends in the ocean's most oligotrophic waters, those with surface chlorophyll not exceeding 0.07 mg chl/m 3 . In the North and South Pacific, North and South Atlantic, outside the equatorial zone, the areas of low surface chlorophyll waters have expanded at average annual rates from 0.8 to 4.3%/yr and replaced about 0.8 million km 2 /yr of higher surface chlorophyll habitat with low surface chlorophyll water. It is estimated that the low surface chlorophyll areas in these oceans combined have expanded by 6.6 million km 2 or by about 15.0% from 1998 through 2006. In both hemispheres, evidence shows a more rapid expansion of the low surface chlorophyll waters during the winter. The North Atlantic, which has the smallest oligotrophic gyre is expanding most rapidly, both annually at 4.3%/yr and seasonally, in the first quarter at 8.5%/yr. Mean sea surface temperature in each of these 4 subtropical gyres also increased over the 9‐year period. The expansion of the low chlorophyll waters is consistent with global warming scenarios based on increased vertical stratification in the mid‐latitudes, but the rates of expansion we observe already greatly exceed recent model predictions.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2007GL031745
+CITED BY COUNT: 675
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Ocean gyre', 'SeaWiFS', 'Oceanography', 'Environmental science', 'Chlorophyll a', 'Chlorophyll', 'Subtropics', 'Latitude', 'Surface water', 'Stratification (seeds)', 'Climatology', 'Geology', 'Phytoplankton', 'Nutrient', 'Fishery', 'Biology', 'Seed dormancy', 'Ecology', 'Botany', 'Germination', 'Geodesy', 'Environmental engineering', 'Dormancy']

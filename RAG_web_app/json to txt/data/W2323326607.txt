@@ -1,0 +1,12 @@
+ID: W2323326607
+TITLE: The North Atlantic Spring-Bloom System—Where the Changing Climate Meets the Winter Dark
+AUTHOR: ['Svein Sundby', 'Kenneth F. Drinkwater', 'Olav Sigurd Kjesbu']
+ABSTRACT:
+The North Atlantic with its spring-bloom ecosystem has its particular responses to climate change, many of them different from the other parts of the world’s oceans. The system is strongly influenced by anthropogenic climate change as well as to strong decadal to multidecadal natural climate variability. In particular, the northernmost part of the system and the Arctic is exposed to higher increase in temperature than any other ocean region. The most pronounced examples of poleward migration of marine species are found in the North Atlantic, and comprise the recent warming phase after the 1970s. The latitudinal asymmetric position of the Arctic Front and its nature of change result in a considerably larger migration distance and migration speed of species in the Northeast Atlantic part of the system. However, we here hypothesize that there is a limit to the future extent of poleward migration of species constrained by the latitudinal region adjacent the Polar Circle. We define this region the critical latitudes. This is because the seasonal light cycle at high latitudes sets particular demands on the life cycle of planktivore species. Presently, boreal planktivore species at high latitudes deposit lipids during the short spring bloom period and overwinter when phytoplankton production is insufficient for feeding. Unless invading temperate species from farther south are able to adapt by developing a similar life cycle future poleward migration of such species will be unlikely.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2016.00028/pdf
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Spring bloom', 'Oceanography', 'Climate change', 'Arctic ecology', 'Temperate climate', 'Bloom', 'Environmental science', 'Planktivore', 'Tundra', 'Latitude', 'Ecosystem', 'Arctic', 'Climatology', 'Phytoplankton', 'Ecology', 'Geography', 'Geology', 'Biology', 'Nutrient', 'Geodesy']

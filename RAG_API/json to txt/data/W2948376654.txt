@@ -1,0 +1,12 @@
+ID: W2948376654
+TITLE: Effects of scrubber washwater discharge on microplankton in the Baltic Sea
+AUTHOR: ['Erik Ytreberg', 'Ida‐Maja Hassellöv', 'Amanda T. Nylund', 'Mikael Hedblom', 'Adil Y. Al‐Handal', 'Angela Wulff']
+ABSTRACT:
+In 2020, the global cap of maximum allowable sulphur content in marine fuel will be reduced from the current 3.5% to 0.5%. Another way to reduce the sulphur emissions is to install a seawater scrubber that cleans exhausts but instead release acidic water containing nutrients and contaminants back to the marine environment. In the current study, scrubber washwater was tested on a Baltic Sea microplankton community. A significant increase in chlorophyll a, particulate organic phosphorus (POP), carbon (POC) and nitrogen (PON) were observed when the community was exposed to 10% scrubber washwater for 13 days as compared to the control. A laboratory experiment with the filamentous cyanobacteria Nodularia spumigena and the chain-forming diatom Melosira cf. arctica showed negative responses in photosynthetic activity (EC10 = 8.6% for N. spumigena) and increased primary productivity (EC10 = 5.5% for M. cf. arctica), implying species-specific responses to scrubber washwater discharge.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 31
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Scrubber', 'Environmental chemistry', 'Seawater', 'Nutrient', 'Bacterioplankton', 'Chlorophyll a', 'Environmental science', 'Sulfur', 'Diatom', 'Baltic sea', 'Colored dissolved organic matter', 'Particulates', 'Chemistry', 'Botany', 'Biology', 'Ecology', 'Oceanography', 'Phytoplankton', 'Organic chemistry', 'Geology']

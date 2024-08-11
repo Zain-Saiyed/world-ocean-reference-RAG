@@ -1,0 +1,12 @@
+ID: W2625241797
+TITLE: Consensuses and discrepancies of basin-scale ocean heat content changes in different ocean analyses
+AUTHOR: ['Gongjie Wang', 'Lijing Cheng', 'John Abraham', 'Chongyin Li']
+ABSTRACT:
+Inconsistent global/basin ocean heat content (OHC) changes were found in different ocean subsurface temperature analyses, especially in recent studies related to the slowdown in global surface temperature rise. This finding challenges the reliability of the ocean subsurface temperature analyses and motivates a more comprehensive inter-comparison between the analyses. Here we compare the OHC changes in three ocean analyses (Ishii, EN4 and IAP) to investigate the uncertainty in OHC in four major ocean basins from decadal to multi-decadal scales. First, all products show an increase of OHC since 1970 in each ocean basin revealing a robust warming, although the warming rates are not identical. The geographical patterns, the key modes and the vertical structure of OHC changes are consistent among the three datasets, implying that the main OHC variabilities can be robustly represented. However, large discrepancies are found in the percentage of basinal ocean heating related to the global ocean, with the largest differences in the Pacific and Southern Ocean. Meanwhile, we find a large discrepancy of ocean heat storage in different layers, especially within 300–700 m in the Pacific and Southern Oceans. Furthermore, the near surface analysis of Ishii and IAP are consistent with sea surface temperature (SST) products, but EN4 is found to underestimate the long-term trend. Compared with ocean heat storage derived from the atmospheric budget equation, all products show consistent seasonal cycles of OHC in the upper 1500 m especially during 2008 to 2012. Overall, our analyses further the understanding of the observed OHC variations, and we recommend a careful quantification of errors in the ocean analyses.
+
+SOURCE: Climate dynamics
+PDF URL: https://link.springer.com/content/pdf/10.1007%2Fs00382-017-3751-5.pdf
+CITED BY COUNT: 44
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Ocean heat content', 'Climatology', 'Oceanic basin', 'Sea surface temperature', 'Environmental science', 'Structural basin', 'Effects of global warming on oceans', 'Pacific ocean', 'Pacific decadal oscillation', 'Global warming', 'Oceanography', 'Ocean current', 'Climate change', 'Geology', 'Paleontology']

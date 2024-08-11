@@ -1,0 +1,12 @@
+ID: W2365622094
+TITLE: Fishes of the hadal zone including new species, in situ observations and depth records of Liparidae
+AUTHOR: ['Thomas D. Linley', 'Mackenzie E. Gerringer', 'Paul H. Yancey', 'Jeffrey C. Drazen', 'Chloe L. Weinstock', 'Alan J. Jamieson']
+ABSTRACT:
+Observations and records for fish exceeding 6000 m deep are few and often spurious. Recent developments in accessing and sampling the hadal zone 6000–11,000 m) have led to an acceleration in new findings in the deep subduction trenches, particularly in the Pacific Ocean. This study describes the discovery of two new species of snailfish (Liparidae) from the Mariana Trench; the 'Mariana snailfish' (6198–8076 m) and the 'Ethereal snailfish' (7939–8145 m). These new findings represent respectively the deepest known specimen caught with corroborating depth data, and the deepest fish seen alive. Further specimens and observations of the Kermadec Trench snailfish, Notoliparis kermadecensis, are also presented, as well as the first hadal records of Synaphobranchidae and Zoarcidae (6068 and 6145 m respectively) and a depth extension for the Macrouridae (maximum depth now 7012 m). Details of these new snailfish specimens caught by baited trap and behaviour observations filmed by baited cameras are presented. An updated assessment of fishes from hadal depths is also reported.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 91
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Geology', 'Fish <Actinopterygii>', 'Trench', 'Oceanography', 'Subduction', 'Deep sea', 'Paleontology', 'Fishery', 'Biology', 'Tectonics', 'Chemistry', 'Organic chemistry', 'Layer (electronics)']

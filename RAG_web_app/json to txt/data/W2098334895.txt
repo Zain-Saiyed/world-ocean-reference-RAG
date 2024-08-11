@@ -1,0 +1,12 @@
+ID: W2098334895
+TITLE: Natural Products from the Lithistida: A Review of the Literature since 2000
+AUTHOR: ['Priscilla L. Winder', 'Shirley A. Pomponi', 'Amy E. Wright']
+ABSTRACT:
+Lithistid sponges are known to produce a diverse array of compounds ranging from polyketides, cyclic and linear peptides, alkaloids, pigments, lipids, and sterols. A majority of these structurally complex compounds have very potent and interesting biological activities. It has been a decade since a thorough review has been published that summarizes the literature on the natural products reported from this amazing sponge order. This review provides an update on the current taxonomic classification of the Lithistida, describes structures and biological activities of 131 new natural products, and discusses highlights from the total syntheses of 16 compounds from marine sponges of the Order Lithistida providing a compilation of the literature since the last review published in 2002.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/9/12/2643/pdf?version=1424781360
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2011
+TYPE: review
+CONCEPTS: ['Sponge', 'Biology', 'Natural product', 'Computational biology', 'Biochemistry', 'Botany']

@@ -1,0 +1,12 @@
+ID: W1989589640
+TITLE: Near-Surface Salinity as Nature’s Rain Gauge to Detect Human Influence on the Tropical Water Cycle
+AUTHOR: ['Laurent Terray', 'Lola Corre', 'Sophie Cravatte', 'Thierry Delcroix', 'Gilles Reverdin', 'Aurélien Ribes']
+ABSTRACT:
+Abstract Changes in the global water cycle are expected as a result of anthropogenic climate change, but large uncertainties exist in how these changes will be manifest regionally. This is especially the case over the tropical oceans, where observed estimates of precipitation and evaporation disagree considerably. An alternative approach is to examine changes in near-surface salinity. Datasets of observed tropical Pacific and Atlantic near-surface salinity combined with climate model simulations are used to assess the possible causes and significance of salinity changes over the late twentieth century. Two different detection methodologies are then applied to evaluate the extent to which observed large-scale changes in near-surface salinity can be attributed to anthropogenic climate change. Basin-averaged observed changes are shown to enhance salinity geographical contrasts between the two basins: the Pacific is getting fresher and the Atlantic saltier. While the observed Pacific and interbasin-averaged salinity changes exceed the range of internal variability provided from control climate simulations, Atlantic changes are within the model estimates. Spatial patterns of salinity change, including a fresher western Pacific warm pool and a saltier subtropical North Atlantic, are not consistent with internal climate variability. They are similar to anthropogenic response patterns obtained from transient twentieth- and twenty-first-century integrations, therefore suggesting a discernible human influence on the late twentieth-century evolution of the tropical marine water cycle. Changes in the tropical and midlatitudes Atlantic salinity levels are not found to be significant compared to internal variability. Implications of the results for understanding of the recent and future marine tropical water cycle changes are discussed.
+
+SOURCE: Journal of climate
+PDF URL: https://journals.ametsoc.org/downloadpdf/journals/clim/25/3/jcli-d-10-05025.1.pdf
+CITED BY COUNT: 126
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Salinity', 'Climatology', 'Subtropics', 'Precipitation', 'Tropical Atlantic', 'Climate change', 'Water cycle', 'Environmental science', 'Oceanography', 'Geology', 'Sea surface temperature', 'Geography', 'Ecology', 'Meteorology', 'Biology']

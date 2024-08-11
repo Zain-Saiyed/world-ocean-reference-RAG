@@ -1,0 +1,12 @@
+ID: W2517187963
+TITLE: Gridded population projections for the coastal zone under the Shared Socioeconomic Pathways
+AUTHOR: ['Jan-Ludolf Merkens', 'Lena Reimann', 'Jochen Hinkel', 'Athanasios T. Vafeidis']
+ABSTRACT:
+Existing quantifications of the Shared Socioeconomic Pathways (SSP) used for climate impact assessment do not account for subnational population dynamics such as coastward-migration that can be critical for coastal impact assessment. This paper extends the SSPs by developing spatial projections of global coastal population distribution for the five basic SSPs. Based on a series of coastal migration drivers we develop coastal narratives for each SSP. These narratives account for differences in coastal and inland population developments in urban and rural areas. To spatially distribute population, we use the International Institute for Applied Systems Analysis (IIASA) national population and urbanisation projections and employ country-specific growth rates, which differ for coastal and inland as well as for urban and rural regions, to project coastal population for each SSP. These rates are derived from spatial analysis of historical population data and adjusted for each SSP based on the coastal narratives. Our results show that, compared to the year 2000 (638 million), the population living in the Low Elevated Coastal Zone (LECZ) increases by 58% to 71% until 2050 and exceeds one billion in all SSPs. By the end of the 21st century, global coastal population declines to 830–907 million in all SSPs except for SSP3, where coastal population growth continues and reaches 1.184 billion. Overall, the population living in the LECZ is higher by 85 to 239 million compared to the original IIASA projections. Asia expects the highest absolute growth (238–303 million), Africa the highest relative growth (153% to 218%). Our results highlight regions where high coastal population growth is expected and will therefore face an increased exposure to coastal flooding.
+
+SOURCE: Global and planetary change
+PDF URL: None
+CITED BY COUNT: 193
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Urbanization', 'Population', 'Geography', 'Population growth', 'Socioeconomic status', 'Projections of population growth', 'Distribution (mathematics)', 'Physical geography', 'Demography', 'Ecology', 'Biology', 'Sociology', 'Mathematical analysis', 'Mathematics']

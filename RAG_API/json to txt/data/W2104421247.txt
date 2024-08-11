@@ -1,0 +1,12 @@
+ID: W2104421247
+TITLE: Cnidarians as a Source of New Marine Bioactive Compounds—An Overview of the Last Decade and Future Steps for Bioprospecting
+AUTHOR: ['Júlio César Rocha', 'Luı́sa Peixe', 'Newton C. M. Gomes', 'Ricardo Calado']
+ABSTRACT:
+Marine invertebrates are rich sources of bioactive compounds and their biotechnological potential attracts scientific and economic interest worldwide.Although sponges are the foremost providers of marine bioactive compounds, cnidarians are also being studied with promising results.This diverse group of marine invertebrates includes over 11,000 species, 7500 of them belonging to the class Anthozoa.We present an overview of some of the most promising marine bioactive compounds from a therapeutic point of view isolated from cnidarians in the first decade of the 21st century.Anthozoan orders Alcyonacea and Gorgonacea exhibit by far the highest number of species yielding promising compounds.Antitumor activity has been the major area of interest in the screening of cnidarian compounds, the most promising ones being terpenoids (monoterpenoids, diterpenoids, sesquiterpenoids).We also discuss the future of bioprospecting for new marine bioactive compounds produced by cnidarians.
+
+SOURCE: Marine drugs
+PDF URL: https://www.mdpi.com/1660-3397/9/10/1860/pdf?version=1424781271
+CITED BY COUNT: 215
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Bioprospecting', 'Anthozoa', 'Marine invertebrates', 'Cnidaria', 'Biology', 'Octocorallia', 'Ecology', 'Coelenterata', 'Coral']

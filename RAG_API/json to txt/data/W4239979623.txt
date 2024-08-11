@@ -1,0 +1,12 @@
+ID: W4239979623
+TITLE: Zostera asiatica: Short, F.T. &amp; Waycott, M.
+AUTHOR: []
+ABSTRACT:
+Established in 1964, the IUCN Red List of Threatened Species has evolved to become the world’s most comprehensive information source on the global conservation status of animal, fungi and plant species.
+
+SOURCE: IUCN Red List of Threatened Species
+PDF URL: None
+CITED BY COUNT: 2
+PUBLICATION YEAR: 2008
+TYPE: dataset
+CONCEPTS: ['IUCN Red List', 'Threatened species', 'Geography', 'Zostera marina', 'Near-threatened species', 'Conservation-dependent species', 'Biology', 'Botany', 'Ecology', 'Ecosystem', 'Habitat', 'Seagrass']

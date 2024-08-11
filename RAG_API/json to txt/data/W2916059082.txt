@@ -1,0 +1,12 @@
+ID: W2916059082
+TITLE: Rapid progression and future of environmental DNA research
+AUTHOR: ['Mathew Seymour']
+ABSTRACT:
+Environmental DNA based research is a new field within molecular ecology that is seeing an amazing increase in research activity. In our Communications Biology article, we studied the degradation of eDNA in variable systems. Presented here is a short overview of eDNA science and current research activities underway in North Wales.
+
+SOURCE: Communications biology
+PDF URL: https://www.nature.com/articles/s42003-019-0330-9.pdf
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Environmental DNA', 'Environmental research', 'Ecology', 'Field (mathematics)', 'Biology', 'Environmental science', 'Engineering ethics', 'Environmental resource management', 'Engineering', 'Biodiversity', 'Mathematics', 'Pure mathematics']

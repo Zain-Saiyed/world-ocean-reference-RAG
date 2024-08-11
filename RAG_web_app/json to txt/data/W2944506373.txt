@@ -1,0 +1,12 @@
+ID: W2944506373
+TITLE: Coastal habitat squeeze: A review of adaptation solutions for saltmarsh, mangrove and beach habitats
+AUTHOR: ['Kelly L. Leo', 'Chris L. Gillies', 'James Fitzsimons', 'Lynne Zeitlin Hale', 'Michael W. Beck']
+ABSTRACT:
+Important intertidal coastal habitats – particularly mangroves, saltmarshes and beaches – are particularly threatened by the impacts of climate change-driven sea-level rise. Coastal development and coastal armoring present physical barriers for the natural inland migration of coastal habitats, and changes in hydrological connectivity reduce sediment inputs and the potential for vertical accretion. We identify mechanisms and enabling conditions to accommodate migration of these habitats in Australia and the United States. A range of financial, policy, planning and on-the-ground management tools in both countries that already exist, often for a different purpose, can be implemented or modified to also enable inland habitat migration. Awareness of approaches/solutions can assist land managers and policy makers to accommodate migration of habitats as a necessary component of coastal management in an era of increasing rates of sea level rise.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 61
+PUBLICATION YEAR: 2019
+TYPE: review
+CONCEPTS: ['Habitat', 'Mangrove', 'Salt marsh', 'Intertidal zone', 'Threatened species', 'Coastal management', 'Climate change', 'Accretion (finance)', 'Geography', 'Marine habitats', 'Wetland', 'Marsh', 'Blue carbon', 'Ecology', 'Environmental science', 'Environmental resource management', 'Fishery', 'Oceanography', 'Seagrass', 'Geology', 'Business', 'Biology', 'Finance']

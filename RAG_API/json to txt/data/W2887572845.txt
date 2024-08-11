@@ -1,0 +1,12 @@
+ID: W2887572845
+TITLE: The environmental niche of the global high seas pelagic longline fleet
+AUTHOR: ['Guillermo Ortuño Crespo', 'Daniel C. Dunn', 'Gabriel Reygondeau', 'Kristina Boerder', 'Boris Worm', 'William Cheung', 'Derek P. Tittensor', 'Patrick N. Halpin']
+ABSTRACT:
+International interest in the protection and sustainable use of high seas biodiversity has grown in recent years. There is an opportunity for new technologies to enable improvements in management of these areas beyond national jurisdiction. We explore the spatial ecology and drivers of the global distribution of the high seas longline fishing fleet by creating predictive models of the distribution of fishing effort from newly available automatic identification system (AIS) data. Our results show how longline fishing effort can be predicted using environmental variables, many related to the expected distribution of the species targeted by longliners. We also find that the longline fleet has seasonal environmental preferences (for example, increased importance of cooler surface waters during boreal summer) and may only be using 38 to 64% of the available environmentally suitable fishing habitat. Possible explanations include misclassification of fishing effort, incomplete AIS coverage, or how potential range contractions of pelagic species may have reduced the abundance of fishing habitats in the open ocean.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/4/8/eaat3681.full.pdf
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Pelagic zone', 'Fishing', 'Fishery', 'Habitat', 'Environmental science', 'Biodiversity', 'Range (aeronautics)', 'Boreal', 'International waters', 'Abundance (ecology)', 'Distribution (mathematics)', 'Geography', 'Ecology', 'Biology', 'Mathematical analysis', 'Materials science', 'Mathematics', 'Composite material']

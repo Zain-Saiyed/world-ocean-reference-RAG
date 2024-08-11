@@ -1,0 +1,12 @@
+ID: W2783234930
+TITLE: The U.S. Geological Survey’s Gas Hydrates Project
+AUTHOR: ['C. Ruppel']
+ABSTRACT:
+First posted January 17, 2018 For additional information, contact: Coastal and Marine Geology Program Coordinator Energy Resources Program Coordinator U.S. Geological Survey 12201 Sunrise Valley Drive Reston, VA 20192 The Gas Hydrates Project at the U.S. Geological Survey (USGS) focuses on the study of methane hydrates in natural environments. The project is a collaboration between the USGS Energy Resources and the USGS Coastal and Marine Geology Programs and works closely with other U.S. Federal agencies, some State governments, outside research organizations, and international partners. The USGS studies the formation and distribution of gas hydrates in nature, the potential of hydrates as an energy resource, and the interaction between methane hydrates and the environment. The USGS Gas Hydrates Project carries out field programs and participates in drilling expeditions to study marine and terrestrial gas hydrates. USGS scientists also acquire new geophysical data and sample sediments, the water column, and the atmosphere in areas where gas hydrates occur. In addition, project personnel analyze datasets provided by partners and manage unique laboratories that supply state-of-the-art analytical capabilities to advance national and international priorities related to gas hydrates.
+
+SOURCE: Fact sheet
+PDF URL: https://pubs.usgs.gov/fs/2017/3079/fs20173079.pdf
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Geological survey', 'Clathrate hydrate', 'Resource (disambiguation)', 'Earth science', 'Methane', 'Geology', 'Chemistry', 'Geophysics', 'Computer science', 'Hydrate', 'Computer network', 'Organic chemistry']

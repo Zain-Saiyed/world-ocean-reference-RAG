@@ -1,0 +1,12 @@
+ID: W2116233135
+TITLE: REQUIREMENTS FOR STRATEGIC ENVIRONMENTAL ASSESSMENT IN CHINA
+AUTHOR: ['Tong Zhu', 'Jing Wu', 'I‐Shin Chang']
+ABSTRACT:
+The Environmental Impact Assessment Law (EIA Law) of the People's Republic of China was adopted on 28 October 2002. It is the most progressive legislation addressing environmental issues in China to be developed over the past decade. The new EIA Law explicitly states that environmental impact assessment (EIA) is required for both new construction projects and plans. The types of plans covered by the new EIA Law include: (1) integrated plans for land use and regional development, development of drainage areas and marine areas; (2) specific plans for industry, agriculture, animal husbandry, forestry, energy, water management, transportation, urban construction, tourism and the development of natural resources. EIA for construction projects has been implemented in China for more than 20 years. Through this new EIA Law, the legal status of EIA for construction projects has been elevated from administrative legislation to State Law. EIA for plans is a type of strategic environmental assessment (SEA) where the concept of SEA is for the first time being advocated by the State at this level. This paper emphasises the legal requirements of SEA set forth by this new EIA Law, such as major purposes, key elements and procedures of EIA for plans.
+
+SOURCE: Journal of environmental assessment policy and management
+PDF URL: None
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Strategic environmental assessment', 'Legislation', 'Environmental impact assessment', 'Environmental planning', 'China', 'Environmental law', 'Business', 'Tourism', 'Environmental resource management', 'Environmental protection', 'Political science', 'Law', 'Geography', 'Environmental science']

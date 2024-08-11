@@ -1,0 +1,12 @@
+ID: W2883922750
+TITLE: Genomes From Uncultivated Microorganisms
+AUTHOR: ['Tanja Woyke', 'Devin F. R. Doud', 'Emiley A. Eloe‐Fadrosh']
+ABSTRACT:
+Over the past decade two key technologies, single-cell genomics and genome-resolved metagenomics, have enabled the access and analysis of genomes from uncultivated environmental microbes in an organism-centric manner. Here we provide a brief history of how these key technologies arose from microbial genomics and summarize some of the scientific achievements they facilitated. Technical aspects and the uniqueness of each methodology are addressed, and synergies between the two approaches are discussed. Lastly, we provide an exciting outlook in which novel functional approaches will complement the genomics toolkit for the uncultivated majority and move us towards a greater understanding of ecosystem functioning.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Metagenomics', 'Genomics', 'Organism', 'Genome', 'Biology', 'Computational biology', 'Key (lock)', 'Data science', 'Ecology', 'Computer science', 'Genetics', 'Gene']

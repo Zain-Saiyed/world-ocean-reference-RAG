@@ -1,0 +1,12 @@
+ID: W2733321167
+TITLE: Submersed Aquatic Vegetation in Chesapeake Bay: Sentinel Species in a Changing World
+AUTHOR: ['Robert J. Orth', 'William C. Dennison', 'Jonathan S. Lefcheck', 'Cassie Gurbisz', 'Michael Hannam', 'Jennifer Keisman', 'J. Brooke Landry', 'Kenneth A. Moore', 'Rebecca R. Murphy', 'Christopher J. Patrick', 'Jeremy M. Testa', 'Donald E. Weller', 'David J. Wilcox']
+ABSTRACT:
+Chesapeake Bay has undergone profound changes since European settlement. Increases in human and livestock populations, associated changes in land use, increases in nutrient loadings, shoreline armoring, and depletion of fish stocks have altered the important habitats within the Bay. Submersed aquatic vegetation (SAV) is a critical foundational habitat and provides numerous benefits and services to society. In Chesapeake Bay, SAV species are also indicators of environmental change because of their sensitivity to water quality and shoreline development. As such, SAV has been deeply integrated into regional regulations and annual assessments of management outcomes, restoration efforts, the scientific literature, and popular media coverage. Even so, SAV in Chesapeake Bay faces many historical and emerging challenges. The future of Chesapeake Bay is indicated by and contingent on the success of SAV. Its persistence will require continued action, coupled with new practices, to promote a healthy and sustainable ecosystem.
+
+SOURCE: BioScience/Bioscience
+PDF URL: https://academic.oup.com/bioscience/article-pdf/67/8/698/19425773/bix058.pdf
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Chesapeake bay', 'Bay', 'Aquatic ecosystem', 'Fishery', 'Habitat', 'Ecosystem', 'Aquatic plant', 'Vegetation (pathology)', 'Shore', 'Environmental science', 'Ecology', 'Estuary', 'Geography', 'Biology', 'Macrophyte', 'Archaeology', 'Pathology', 'Medicine']

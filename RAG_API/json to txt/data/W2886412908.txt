@@ -1,0 +1,12 @@
+ID: W2886412908
+TITLE: Coastal morphology explains global blue carbon distributions
+AUTHOR: ['Robert R. Twilley', 'André Rovai', 'Pablo Riul']
+ABSTRACT:
+Because mangroves store greater amounts of carbon (C) per area than any other terrestrial ecosystem, conservation of mangrove forests on a global scale represents a potentially meaningful strategy for mitigating atmospheric greenhouse‐gas ( GHG ) emissions. However, analyses of how coastal ecosystems influence the global C cycle also require the mapping of ecosystem area across the Earth's surface to estimate C storage and flux (movement) in order to compare how different ecosystem types may mitigate GHG enrichment in the atmosphere. In this paper, we propose a new framework based on diverse coastal morphology (that is, different coastal environmental settings resulting from how rivers, tides, waves, and climate have shaped coastal landforms) to explain global variations in mangrove C storage, using soil organic carbon ( SOC ) as a model to more accurately determine mangrove contributions to global C dynamics. We present, to the best of our knowledge, the first global mangrove area estimate occupying distinct coastal environmental settings, comparing the role of terrigenous and carbonate settings as global “blue carbon” hotspots. C storage in deltaic settings has been overestimated, while SOC stocks in carbonate settings have been underestimated by up to 50%. We encourage the scientific community, which has largely focused on blue carbon estimates, to incorporate coastal environmental settings into their evaluations of C stocks, to obtain more robust estimates of global C stocks.
+
+SOURCE: Frontiers in ecology and the environment
+PDF URL: https://rss.onlinelibrary.wiley.com/doi/am-pdf/10.1002/fee.1937
+CITED BY COUNT: 125
+PUBLICATION YEAR: 2018
+TYPE: review
+CONCEPTS: ['Mangrove', 'Blue carbon', 'Environmental science', 'Greenhouse gas', 'Ecosystem', 'Carbon cycle', 'Global warming', 'Landform', 'Terrestrial ecosystem', 'Terrigenous sediment', 'Carbon flux', 'Climate change', 'Ecology', 'Oceanography', 'Geography', 'Sediment', 'Geology', 'Paleontology', 'Cartography', 'Seagrass', 'Biology']

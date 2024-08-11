@@ -1,0 +1,12 @@
+ID: W2345466445
+TITLE: The Role of Living Shorelines as Estuarine Habitat Conservation Strategies
+AUTHOR: ['Donna Marie Bilkovic', 'Molly Mitchell', 'Pam Mason', 'Karen Duhring']
+ABSTRACT:
+Globally, shoreline protection approaches are evolving towards the incorporation of natural and nature-based features (living shorelines henceforth) as a preferred alternative to shoreline armoring. Emerging research suggests that living shorelines may be a viable approach to conserving coastal habitats (marshes, beaches, shallows, seagrasses) along eroding shorelines. Living shorelines typically involve the use of coastal habitats, such as wetlands, that have a natural capacity to stabilize the shore, restore or conserve habitat, and maintain coastal processes. They provide stability while still being dynamic components of the ecosystem, but due to their dynamic nature, careful designs and some maintenance will be required if habitat conservation is a goal. Living shorelines may represent a singular opportunity for habitat conservation in urban and developing estuaries because of their value to society as a shoreline protection approach and resilience to sea level rise. However, enhanced public acceptance and coordination among regulatory and advisory authorities will be essential to expand their use. To fully understand their significance as habitat conservation strategies, systematic and standardized monitoring at both regional and national scales is vital to evaluate the evolution, persistence, and maximum achievable functionality (e.g., ecosystem service provision) of living shoreline habitats.
+
+SOURCE: Coastal management
+PDF URL: None
+CITED BY COUNT: 109
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Shore', 'Habitat', 'Environmental resource management', 'Coastal management', 'Marsh', 'Wetland', 'Ecosystem services', 'Ecology', 'Natural (archaeology)', 'Geography', 'Salt marsh', 'Ecosystem', 'Fishery', 'Environmental science', 'Biology', 'Archaeology']

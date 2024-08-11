@@ -1,0 +1,12 @@
+ID: W2039631047
+TITLE: Key principles of marine ecosystem-based management
+AUTHOR: ['Rachel D. Long', 'Anthony Charles', 'Robert L. Stephenson']
+ABSTRACT:
+Ecosystem-Based Management (EBM) has gained international popularity in recent years, but the lack of consensus on its definition has precluded the use of a universal implementation framework. The large number and variety of principles that make up EBM, and the diversity in perspectives among key management players, has impeded the practical application of EBM. Agreement on a list of the essential ingredients of EBM is vital to successful application. A frequency analysis of EBM principles was conducted to identify the Key Principles that currently define EBM, from a list of twenty-six principles extracted from a subset of the EBM theoretical/conceptual literature (covering a range of published sources across disciplines and application types). Fifteen Key Principles were identified (in descending frequency of appearance in the literature): Consider Ecosystem Connections, Appropriate Spatial & Temporal Scales, Adaptive Management, Use of Scientific Knowledge, Integrated Management, Stakeholder Involvement, Account for Dynamic Nature of Ecosystems, Ecological Integrity & Biodiversity, Sustainability, Recognise Coupled Social-Ecological Systems, Decisions reflect Societal Choice, Distinct Boundaries, Interdisciplinarity, Appropriate Monitoring, and Acknowledge Uncertainty. This paper also examines the development of EBM principles over time, leading to predictions on the directions EBM will take in the future. The frequency analysis methodology used here can be replicated to update the Key Principles of EBM in the future. Indeed, further research on potential emerging Key Principles such as ‘Consider Cumulative Impacts’, ‘Apply the Precautionary Approach’ and ‘Explicitly Acknowledge Trade Offs’ will help shape EBM and its successful application in the management of marine activities.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 397
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Key (lock)', 'Variety (cybernetics)', 'Popularity', 'Stakeholder', 'Ecosystem-based management', 'Adaptive management', 'Computer science', 'Sustainability', 'Conceptual framework', 'Environmental resource management', 'Management science', 'Ecosystem', 'Ecology', 'Political science', 'Sociology', 'Economics', 'Social science', 'Public relations', 'Artificial intelligence', 'Law', 'Computer security', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2746248202
+TITLE: Outdoor blue spaces, human health and well-being: A systematic review of quantitative studies
+AUTHOR: ['Mireia Gascón', 'Wilma L. Zijlema', 'Cristina Vert', 'Mathew P. White', 'Mark Nieuwenhuijsen']
+ABSTRACT:
+A growing number of quantitative studies have investigated the potential benefits of outdoor blue spaces (lakes, rivers, sea, etc) and human health, but there is not yet a systematic review synthesizing this evidence.To systematically review the current quantitative evidence on human health and well-being benefits of outdoor blue spaces.Following PRISMA guidelines for reporting systematic reviews and meta-analysis, observational and experimental quantitative studies focusing on both residential and non-residential outdoor blue space exposure were searched using specific keywords.In total 35 studies were included in the current systematic review, most of them being classified as of "good quality" (N=22). The balance of evidence suggested a positive association between greater exposure to outdoor blue spaces and both benefits to mental health and well-being (N=12 studies) and levels of physical activity (N=13 studies). The evidence of an association between outdoor blue space exposure and general health (N=6 studies), obesity (N=8 studies) and cardiovascular (N=4 studies) and related outcomes was less consistent.Although encouraging, there remains relatively few studies and a large degree of heterogeneity in terms of study design, exposure metrics and outcome measures, making synthesis difficult. Further research is needed using longitudinal research and natural experiments, preferably across a broader range of countries, to better understand the causal associations between blue spaces, health and wellbeing.
+
+SOURCE: International journal of hygiene and environmental health
+PDF URL: None
+CITED BY COUNT: 434
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Systematic review', 'Observational study', 'Environmental health', 'Meta-analysis', 'Human health', 'Mental health', 'Gerontology', 'Psychology', 'Medicine', 'MEDLINE', 'Pathology', 'Political science', 'Law', 'Psychotherapist']

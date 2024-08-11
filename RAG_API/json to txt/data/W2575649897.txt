@@ -1,0 +1,12 @@
+ID: W2575649897
+TITLE: Trace elements in oceanic pelagic communities in the western Indian Ocean
+AUTHOR: ['Nathalie Bodin', 'Dora Lesperance', 'Rona Albert', 'Stéphanie Hollanda', 'Philippe Michaud', 'Maxime Degroote', 'Carine Churlaud', 'Paco Bustamante']
+ABSTRACT:
+The mineral composition of target and non-target pelagic fish caught by purse-seiners and longliners in the western-central Indian Ocean was determined. From the 10 essential elements analysed, selenium and zinc showed the highest concentrations in swordfish and blue marlin while Indian mackerel appeared as a good source of copper, iron and chrome. All catch had levels of lead and cadmium, two toxic elements, below the maximum sanitary limits. Although some concerns were raised regarding mercury concentrations in the largest species (wahoo, swordfish and blue marlin), molar ratios of mercury and selenium indicate that all oceanic pelagic fish from the western-central Indian Ocean are safe for human consumption. This study also gives insights on the relationships between the levels of essential and toxic elements in fish muscle and the size, trophic position and diet sources of the studied pelagic species.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Swordfish', 'Pelagic zone', 'Fishery', 'Mercury (programming language)', 'Tuna', 'Trophic level', 'Mackerel', 'Fishing', 'Cadmium', 'Environmental science', 'Biology', 'Ecology', 'Fish <Actinopterygii>', 'Chemistry', 'Computer science', 'Programming language', 'Organic chemistry']

@@ -1,0 +1,12 @@
+ID: W2902284581
+TITLE: Home sweet suboxic home: remarkable hypoxia tolerance in two demersal fish species in the Gulf of California
+AUTHOR: ['Natalya D. Gallo', 'Lisa A. Levin', 'Maryanne Beckwith', 'James Barry']
+ABSTRACT:
+Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.
+
+SOURCE: Ecology
+PDF URL: None
+CITED BY COUNT: 10
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Demersal fish', 'Demersal zone', 'Hypoxia (environmental)', 'Fish <Actinopterygii>', 'Ecology', 'Fishery', 'Geography', 'Biology', 'Chemistry', 'Organic chemistry', 'Oxygen']

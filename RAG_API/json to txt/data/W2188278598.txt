@@ -1,0 +1,12 @@
+ID: W2188278598
+TITLE: Small-Boat Noise Impacts Natural Settlement Behavior of Coral Reef Fish Larvae
+AUTHOR: ['Stephen D. Simpson', 'Andrew N. Radford', 'Sophie Holles', 'Maud C. O. Ferarri', 'Douglas P. Chivers', 'Mark I. McCormick', 'Mark G. Meekan']
+ABSTRACT:
+After a pelagic larval phase, settlement-stage coral reef fish must locate a suitable reef habitat for juvenile life. Reef noise, produced by resident fish and invertebrates, provides an important cue for orientation and habitat selection during this process, which must often occur in environments impacted by anthropogenic noise. We adapted an established field-based protocol to test whether recorded boat noise influenced the settlement behavior of reef fish. Fewer fish settled to patch reefs broadcasting boat + reef noise compared with reef noise alone. This study suggests that boat noise, now a common feature of many reefs, can compromise critical settlement behavior of reef fishes.
+
+SOURCE: Advances in experimental medicine and biology
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2016
+TYPE: book-chapter
+CONCEPTS: ['Reef', 'Coral reef', 'Coral reef fish', 'Fishery', 'Pelagic zone', 'Fringing reef', 'Environmental science', 'Geography', 'Oceanography', 'Ecology', 'Biology', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2131857499
+TITLE: Coastal proximity and physical activity: Is the coast an under-appreciated public health resource?
+AUTHOR: ['Mathew P. White', 'Benedict W. Wheeler', 'Stephen Herbert', 'Ian Alcock', 'Michael H. Depledge']
+ABSTRACT:
+Recent findings suggest that individuals living near the coast are healthier than those living inland. Here we investigated whether this may be related to higher levels of physical activity among coastal dwellers in England, arising in part as a result of more visits to outdoor coastal settings. Participants (n = 183,755) were drawn from Natural England's Monitor of Engagement with the Natural Environment Survey (2009–2012). Analyses were based on self-reported physical activity for leisure and transport. A small, but significant coastal proximity gradient was seen for the likelihood of achieving recommended guidelines of physical activity a week after adjusting for relevant area and individual level controls. This effect was statistically mediated by the likelihood of having visited the coast in the last seven days. Stratification by region, however, suggested that while the main effect was relatively strong for west coast regions, it was not significant for those in the east. In general, our findings replicate and extend work from Australia and New Zealand. Further work is needed to explain the marked regional differences in the relationship between coastal proximity and physical activity in England to better understand the coast's potential role as a public health resource.
+
+SOURCE: Preventive medicine
+PDF URL: None
+CITED BY COUNT: 105
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Physical activity', 'Medicine', 'Resource (disambiguation)', 'West coast', 'Public health', 'East coast', 'Work (physics)', 'Stratification (seeds)', 'Replicate', 'Geography', 'Oceanography', 'Physical geography', 'Mechanical engineering', 'Computer network', 'Nursing', 'Computer science', 'Engineering', 'Physical medicine and rehabilitation', 'Geology', 'Seed dormancy', 'Botany', 'Germination', 'Statistics', 'Mathematics', 'Dormancy', 'Biology']

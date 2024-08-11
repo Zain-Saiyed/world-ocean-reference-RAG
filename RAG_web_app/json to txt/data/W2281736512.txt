@@ -1,0 +1,12 @@
+ID: W2281736512
+TITLE: The impact of the giant iceberg B09B on population size and breeding success of Adélie penguins in Commonwealth Bay, Antarctica
+AUTHOR: ['Kerry‐Jayne Wilson', 'Chris Turney', 'Christopher J. Fogwill', 'Estelle Blair']
+ABSTRACT:
+Abstract The arrival of iceberg B09B in Commonwealth Bay, East Antarctica, and subsequent fast ice expansion has dramatically increased the distance Adélie penguins ( Pygoscelis adeliae ) breeding at Cape Denison must travel in search of food. This has provided a natural experiment to investigate the impact of iceberg stranding events and sea ice expansion along the East Antarctic coast. As part of the Australasian Antarctic Expedition 2013–14, the Adélie penguin colony at Cape Denison was censused to compare to historic counts. Whilst some 5520 pairs still bred at Cape Denison there has been an order of magnitude decline in Adélie numbers in the area in comparison to the first counts a century ago and, critically, recent estimates based on satellite images and a census in 1997. In contrast, an Adélie population on the eastern fringe of Commonwealth Bay just 8 km from the fast ice edge was thriving, indicating the arrival of B09B and fast ice expansion was probably responsible for the observed recent population decline. In conclusion, the Cape Denison population could be extirpated within 20 years unless B09B relocates or the now perennial fast ice within the bay breaks out. Our results have important implications for wider East Antarctic if the current increasing sea ice trend continues.
+
+SOURCE: Antarctic science
+PDF URL: None
+CITED BY COUNT: 18
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Pygoscelis', 'Iceberg', 'Bay', 'Population', 'Oceanography', 'Cape', 'Geography', 'Sea ice', 'Commonwealth', 'Geology', 'Archaeology', 'Paleontology', 'Demography', 'Foraging', 'Sociology']

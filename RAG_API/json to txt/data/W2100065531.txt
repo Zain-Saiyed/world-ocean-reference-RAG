@@ -1,0 +1,12 @@
+ID: W2100065531
+TITLE: Global latitudinal variations in marine copepod diversity and environmental factors
+AUTHOR: ['Isabelle Rombouts', 'Grégory Beaugrand', 'Frédéric Ibañez', 'Stéphane Gasparini', 'Sanae Chiba', 'Louis Legendre']
+ABSTRACT:
+Latitudinal gradients in diversity are among the most striking features in ecology. For terrestrial species, climate (i.e. temperature and precipitation) is believed to exert a strong influence on the geographical distributions of diversity through its effects on energy availability. Here, we provide the first global description of geographical variation in the diversity of marine copepods, a key trophic link between phytoplankton and fish, in relation to environmental variables. We found a polar-tropical difference in copepod diversity in the Northern Hemisphere where diversity peaked at subtropical latitudes. In the Southern Hemisphere, diversity showed a tropical plateau into the temperate regions. This asymmetry around the Equator may be explained by climatic conditions, in particular the influence of the Inter-Tropical Convergence Zone, prevailing mainly in the northern tropical region. Ocean temperature was the most important explanatory factor among all environmental variables tested, accounting for 54 per cent of the variation in diversity. Given the strong positive correlation between diversity and temperature, local copepod diversity, especially in extra-tropical regions, is likely to increase with climate change as their large-scale distributions respond to climate warming.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: None
+CITED BY COUNT: 117
+PUBLICATION YEAR: 2009
+TYPE: preprint
+CONCEPTS: ['Ecology', 'Latitude', 'Climate change', 'Temperate climate', 'Northern Hemisphere', 'Geography', 'Southern Hemisphere', 'Copepod', 'Equator', 'Environmental science', 'Climatology', 'Biology', 'Geology', 'Geodesy', 'Crustacean']

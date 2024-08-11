@@ -1,0 +1,12 @@
+ID: W1608939421
+TITLE: Sewage pollution: mitigation is key for coral reef stewardship
+AUTHOR: ['Stephanie L. Wear', 'Rebecca Vega Thurber']
+ABSTRACT:
+Coral reefs are in decline worldwide, and land-derived sources of pollution, including sewage, are a major force driving that deterioration. This review presents evidence that sewage discharge occurs in waters surrounding at least 104 of 112 reef geographies. Studies often refer to sewage as a single stressor. However, we show that it is more accurately characterized as a multiple stressor. Many of the individual agents found within sewage, specifically freshwater, inorganic nutrients, pathogens, endocrine disrupters, suspended solids, sediments, and heavy metals, can severely impair coral growth and/or reproduction. These components of sewage may interact with each other to create as-yet poorly understood synergisms (e.g., nutrients facilitate pathogen growth), and escalate impacts of other, non-sewage-based stressors. Surprisingly few published studies have examined impacts of sewage in the field, but those that have suggest negative effects on coral reefs. Because sewage discharge proximal to sensitive coral reefs is widespread across the tropics, it is imperative for coral reef-focused institutions to increase investment in threat-abatement strategies for mitigating sewage pollution.
+
+SOURCE: Annals of the New York Academy of Sciences
+PDF URL: None
+CITED BY COUNT: 158
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Reef', 'Sewage', 'Coral reef', 'Coral', 'Environmental science', 'Resilience of coral reefs', 'Pollution', 'Nutrient pollution', 'Ecology', 'Biology', 'Environmental engineering']

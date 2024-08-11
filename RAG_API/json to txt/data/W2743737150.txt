@@ -1,0 +1,12 @@
+ID: W2743737150
+TITLE: Shipping and the environment: Smokestack emissions, scrubbers and unregulated oceanic consequences
+AUTHOR: ['David R. Turner', 'Ida‐Maja Hassellöv', 'Erik Ytreberg', 'Anna Rutgersson']
+ABSTRACT:
+While shipping has long been recognised as a very carbon-efficient transport medium, there is an increasing focus on its broader environmental consequences. The International Maritime Organisation is responsible for the regulation of ship emissions arising from fuel combustion. Their current regulations are, however, much less strict than those applying to land-based transport within the European Union. Five different groups of pollutant emission from ship smokestacks are addressed in this paper: sulphur oxides, nitrogen oxides, particulate matter, organic matter and metals. The reduction of sulphur oxide emissions into the atmosphere using scrubber technology adds another dimension to the discussion, as this approach results in focused discharge of some pollutants to the surface water. A scoping calculation shows that an open-loop scrubber on a medium-sized ship could discharge more copper and zinc daily to the surface water than the ship’s antifouling paint. The use of antifouling paint in the European Union is subject to a prior risk assessment, but scrubber discharges are not subject to any such risk assessment. This situation presents a problem from the perspective of the Marine Strategy Framework Directive, as environmental monitoring programmes in some coastal areas of the Baltic Sea have shown that levels of both copper and zinc exceed environmental quality standards. To fulfil the Marine Strategy Framework Directive requirements and achieve Good Environmental Status, having knowledge of the magnitude of different anthropogenic pressures is important. Metal inputs from open-loop scrubbers have been largely neglected until now: some metals have the potential to serve as tracers for monitoring scrubber discharges.
+
+SOURCE: Elementa
+PDF URL: http://www.elementascience.org/articles/10.1525/elementa.167/galley/939/download/
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Environmental science', 'Scrubber', 'European union', 'Pollutant', 'Environmental impact assessment', 'Environmental protection', 'Particulates', 'Directive', 'Environmental engineering', 'Environmental planning', 'Environmental resource management', 'Waste management', 'Business', 'Engineering', 'Computer science', 'Chemistry', 'Ecology', 'Organic chemistry', 'Biology', 'Economic policy', 'Programming language']

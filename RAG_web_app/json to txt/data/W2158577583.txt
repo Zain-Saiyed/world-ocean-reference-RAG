@@ -1,0 +1,12 @@
+ID: W2158577583
+TITLE: Recreation in coastal waters: health risks associated with bathing in sea water
+AUTHOR: ['María Dolores Prieto']
+ABSTRACT:
+Study objective-To find out whether bathing in sewage polluted waters implies a danger to bathers' health and to determine the best microbiological indicator to predict the relation between bathing and the appearance of some symptoms.Design-Cohort study.Setting-City of Santander (north of Spain).Participants-From the people going to four Santander beaches in the period from 1 July to 16 September 1998, a cohort of 2774 persons was recruited who agreed to participate in this study.Of those, 1858 successfully completed a follow up interview conducted in seven days.Respiratory, gastrointestinal, eye, and ear symptoms, and fever occurring during the seven day follow up were recorded.Main results-A total of 136 participants (7.5%) reported symptoms.Visitors reported experiencing symptoms with more frequency than residents.Incidence rates of gastrointestinal, cutaneous and high respiratory tract symptoms were higher in bathers, but the diVerences were not significant.Total symptoms were related with the amount of total coliforms, faecal coliforms, and faecal streptococci in the water.Gastrointestinal and skin symptoms kept a positive trend with the degree of water pollution by total coliforms in both crude and adjusted analyses.An increased risk was observed in 2500-9999 total coliforms per 100 ml, a figure over the proposed standard, although below the European Union mandatory limit.Conclusions-The results of this study suggest that total coliforms are the best predictors of the symptoms.
+
+SOURCE: Journal of epidemiology and community health
+PDF URL: https://jech.bmj.com/content/jech/55/6/442.full.pdf
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2001
+TYPE: article
+CONCEPTS: ['Bathing', 'Medicine', 'Cohort', 'Cohort study', 'Incidence (geometry)', 'Environmental health', 'Internal medicine', 'Pathology', 'Physics', 'Optics']

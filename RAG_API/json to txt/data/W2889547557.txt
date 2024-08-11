@@ -1,0 +1,12 @@
+ID: W2889547557
+TITLE: Water chemistry reveals a significant decline in coral calcification rates in the southern Red Sea
+AUTHOR: ['Zvi Steiner', 'Alexandra V. Turchyn', 'Eyal Harpaz', 'Jacob Silverman']
+ABSTRACT:
+Experimental and field evidence support the assumption that global warming and ocean acidification is decreasing rates of calcification in the oceans. Local measurements of coral growth rates in reefs from various locations have suggested a decline of ~6-10% per decade since the late 1990's. Here, by measuring open water strontium-to-alkalinity ratios along the Red Sea, we show that the net contribution of hermatypic corals to the CaCO3 budget of the southern and central Red Sea declined by ~100% between 1998 and 2015 and remained low between 2015 and 2018. Measured differences in total alkalinity of the Red Sea surface water indicate a 26 ± 16% decline in total CaCO3 deposition rates along the basin. These findings suggest that coral reefs of the southern Red Sea are under severe stress and demonstrate the strength of geochemical measurements as cost-effective indicators for calcification trends on regional scales.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-06030-6.pdf
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Hermatypic coral', 'Alkalinity', 'Oceanography', 'Coral', 'Coral reef', 'Ocean acidification', 'Reef', 'Environmental science', 'Strontium', 'Coral bleaching', 'Effects of global warming on oceans', 'Climate change', 'Geology', 'Global warming', 'Chemistry', 'Organic chemistry']

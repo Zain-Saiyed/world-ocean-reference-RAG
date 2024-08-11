@@ -1,0 +1,12 @@
+ID: W2762658595
+TITLE: A century of introductions by coastal sessile marine invertebrates in Angola, South East Atlantic Ocean
+AUTHOR: ['Lueji Barros Pestana', 'Gustavo Muniz Dias', 'Antonio C. Marques']
+ABSTRACT:
+South Atlantic studies referring to non-native taxa are mostly restricted to Argentinean, Brazilian, and South African coasts. In this study we examined the literature to provide a list of sessile marine invertebrates along the Angolan coast, to infer its introduction status according to their biogeographical distribution and natural history. We reported 29 non-native and 7 cryptogenic species, a small number when compared to other South Atlantic regions of similar extension. Half of the non-native species were reported for Luanda. The majority of the introduced species had a northern hemisphere origin, a consequence of the main introduction route being from the North Atlantic/Mediterranean Sea during the Portuguese colonization. This is the first comprehensive assessment of this kind for the Angolan coast and the diversity of introduced species is certainly underestimated. Regular and rigorous assessments and monitoring of introduced marine species will help to understand the vectors, routes and time of introductions.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Marine invertebrates', 'Invertebrate', 'Mediterranean climate', 'Geography', 'Mediterranean sea', 'Taxon', 'Ecology', 'Colonization', 'Southern Hemisphere', 'Fishery', 'Introduced species', 'Oceanography', 'Biology', 'Geology']

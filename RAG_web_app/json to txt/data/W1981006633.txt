@@ -1,0 +1,12 @@
+ID: W1981006633
+TITLE: The increasing impact of food production on nutrient export by rivers to the Bay of Bengal 1970–2050
+AUTHOR: ['Abdus Sattar', 'Carolien Kroeze', 'Maryna Strokal']
+ABSTRACT:
+The objective of this study is to assess the impact of food production on river export of nutrients to the coastal waters of the Bay of Bengal in the past (1970 and 2000) and the future (2030 and 2050), and the associated potential for coastal eutrophication. We model nutrient export from land to sea, using the Global NEWS (Nutrient Export from WaterSheds) approach. We calculate increases in river export of N and P over time. Agricultural sources account for about 70–80% of the N and P in rivers. The coastal eutrophication potential is high in the Bay. In 2000, nutrient discharge from about 85% of the basin area of the Bay drains into coastal seas contributes to the risk of coastal eutrophication. By 2050, this may be 96%. We also present an alternative scenario in which N and P inputs to the Bay are 20–35% lower than in the baseline.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Bay', 'Eutrophication', 'Nutrient', 'BENGAL', 'Environmental science', 'Baseline (sea)', 'Drainage basin', 'Structural basin', 'Oceanography', 'Water resource management', 'Fishery', 'Geography', 'Ecology', 'Geology', 'Biology', 'Paleontology', 'Cartography']

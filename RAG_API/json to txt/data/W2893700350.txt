@@ -1,0 +1,12 @@
+ID: W2893700350
+TITLE: Predicting global killer whale population collapse from PCB pollution
+AUTHOR: ['Jean‐Pierre Desforges', 'Ailsa J. Hall', 'Bernie McConnell', 'Aqqalu Rosing‐Asvid', 'Jonathan L. Barber', 'Andrew Brownlow', 'Sylvain De Guise', 'Igor Eulaers', 'Paul D. Jepson', 'Robert J. Letcher', 'Milton Levin', 'Peter S. Ross', 'Filipa I. P. Samarra', 'Gísli Víkingson', 'Christian Sonne', 'Runé Dietz']
+ABSTRACT:
+PCB—still a problem Until they were recognized as highly toxic and carcinogenic, polychlorinated biphenyls (PCBs) were once used widely. Their production was banned in the United States in 1978, though they are still produced globally and persist in the environment. Persistent organic compounds, like PCBs, magnify across trophic levels, and thus apex predators are particularly susceptible to their ill effects. Desforges et al. looked at the continuing impact of PCBs on one of the largest marine predators, the killer whale. Using globally available data, the authors found high concentrations of PCBs within killer whale tissues. These are likely to precipitate declines across killer whale populations, particularly those that feed at high trophic levels and are the closest to industrialized areas. Science , this issue p. 1373
+
+SOURCE: Science
+PDF URL: https://science.sciencemag.org/content/sci/361/6409/1373.full.pdf
+CITED BY COUNT: 260
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Whale', 'Trophic level', 'Apex predator', 'Predation', 'Population', 'Pollution', 'Environmental pollution', 'Ecology', 'Biology', 'Food chain', 'Environmental science', 'Fishery', 'Environmental protection', 'Environmental health', 'Medicine']

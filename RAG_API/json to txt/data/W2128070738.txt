@@ -1,0 +1,12 @@
+ID: W2128070738
+TITLE: Preliminary Assessment of Water Quality along the Red Sea Coast near Jeddah, Saudi Arabia
+AUTHOR: ['Abdullah M. Mohorjy', 'Ahmed M. Khan']
+ABSTRACT:
+Abstract This paper presents the results of preliminary assessment of water quality along Red Sea coast adjoining Jeddah, Saudi Arabia. Jeddah is a major city with a population of over 2.6 million and an area 1,200 km2.. To study the impacts, samples of the Red Sea were collected from 24 important locations near Jeddah and analyzed in the laboratory for various water quality parameters. These parameters included: biological oxygen demand (BOD), chemical oxygen demand (COD), phosphorus, dissolved oxygen, ammonia nitrogen, nitrates, sulfates, total alkalinity, chlorides, and pH. The results of the study show considerable variations in water quality depending upon the location along the Red Sea coast. The BOD values in the sea water are negligible except in the Balad downtown lake near treatment plant where the values are quite high ranging from 51 to 812 mg/l. Here, the total phosphorus is also high with value of 3.81 mg/l. Dissolved oxygen values along the coast vary from 2.5 to 6.4 mg/l. The variations in nitrate concentration in the Red Sea water along the coast are observed to range from 6.90 to 26.61 mg/l. This study provides a preliminary assessment of the coastal pollution and will act as a data base for future investigations and monitoring of the Red Sea coastal waters. Keywords: environmentimpact assessmentRed Seawater qualityJeddah City
+
+SOURCE: Water international
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Biochemical oxygen demand', 'Alkalinity', 'Environmental science', 'Seawater', 'Water quality', 'Population', 'Chemical oxygen demand', 'Nitrate', 'Sea coast', 'Suspended solids', 'Hydrology (agriculture)', 'Oceanography', 'Environmental engineering', 'Sewage treatment', 'Wastewater', 'Geology', 'Chemistry', 'Ecology', 'Biology', 'Demography', 'Organic chemistry', 'Geotechnical engineering', 'Sociology']

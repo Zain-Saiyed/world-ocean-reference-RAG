@@ -1,0 +1,12 @@
+ID: W2198590280
+TITLE: Intermittent Noise Induces Physiological Stress in a Coastal Marine Fish
+AUTHOR: ['Tye A. Nichols', 'Todd W. Anderson', 'Ana Širović']
+ABSTRACT:
+Anthropogenic noise in the ocean has increased substantially in recent decades, and motorized vessels produce what is likely the most common form of underwater noise pollution. Noise has the potential to induce physiological stress in marine fishes, which may have negative ecological consequences. In this study, physiological effects of increased noise (playback of boat noise recorded in the field) on a coastal marine fish (the giant kelpfish, Heterostichus rostratus) were investigated by measuring the stress responses (cortisol concentration) of fish to increased noise of various temporal dynamics and noise levels. Giant kelpfish exhibited acute stress responses when exposed to intermittent noise, but not to continuous noise or control conditions (playback of recorded natural ambient sound). These results suggest that variability in the acoustic environment may be more important than the period of noise exposure for inducing stress in a marine fish, and provide information regarding noise levels at which physiological responses occur.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0139157&type=printable
+CITED BY COUNT: 79
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Noise (video)', 'Ambient noise level', 'Environmental science', 'Noise pollution', 'Fish <Actinopterygii>', 'Biology', 'Noise effects', 'Ecology', 'Fishery', 'Background noise', 'Oceanography', 'Sound (geography)', 'Acoustics', 'Noise reduction', 'Geology', 'Physics', 'Computer science', 'Artificial intelligence', 'Image (mathematics)']

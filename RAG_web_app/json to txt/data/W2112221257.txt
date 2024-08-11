@@ -1,0 +1,12 @@
+ID: W2112221257
+TITLE: Plastic ingestion by Flesh-footed Shearwaters (Puffinus carneipes): Implications for fledgling body condition and the accumulation of plastic-derived chemicals
+AUTHOR: ['Jennifer L. Lavers', 'Alexander L. Bond', 'I. Hutton']
+ABSTRACT:
+To provide much needed quantitative data on the lethal and sublethal effects of plastic pollution on marine wildlife, we sampled breast feathers and stomach contents from Flesh-footed Shearwater (Puffinus carneipes) fledglings in eastern Australia. Birds with high levels of ingested plastic exhibited reduced body condition and increased contaminant load (p < 0.05). More than 60% of fledglings exceed international targets for plastic ingestion by seabirds, with 16% of fledglings failing these targets after a single feeding (range: 0.13–3.21 g of plastic/feeding). As top predators, seabirds are considered sentinels of the marine environment. The amount of plastic ingested and corresponding damage to Flesh-footed Shearwater fledglings is the highest reported for any marine vertebrate, suggesting the condition of the Australian marine environment is poor. These findings help explain the ongoing decline of this species and are worrying in light of increasing levels of plastic pollution in our oceans.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 222
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Plastic pollution', 'Shearwater', 'Biology', 'Flesh', 'Marine debris', 'Puffinus', 'Microplastics', 'Feather', 'Predation', 'Fishery', 'Ecology', 'Ingestion', 'Zoology', 'Seabird', 'Oceanography', 'Biochemistry', 'Debris', 'Geology']

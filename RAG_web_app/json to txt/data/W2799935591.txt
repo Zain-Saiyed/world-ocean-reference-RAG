@@ -1,0 +1,12 @@
+ID: W2799935591
+TITLE: Cumulative Human Impacts on Coral Reefs: Assessing Risk and Management Implications for Brazilian Coral Reefs
+AUTHOR: ['Rafael A. Magris', 'Alana Grech', 'Robert L. Pressey']
+ABSTRACT:
+Effective management of coral reefs requires strategies tailored to cope with cumulative disturbances from human activities. In Brazil, where coral reefs are a priority for conservation, intensifying threats from local and global stressors are of paramount concern to management agencies. Using a cumulative impact assessment approach, our goal was to inform management actions for coral reefs in Brazil by assessing their exposure to multiple stressors (fishing, land-based activities, coastal development, mining, aquaculture, shipping, and global warming). We calculated an index of the risk to cumulative impacts: (i) assuming uniform sensitivity of coral reefs to stressors; and (ii) using impact weights to reflect varying tolerance levels of coral reefs to each stressor. We also predicted the index in both the presence and absence of global warming. We found that 16% and 37% of coral reefs had high to very high risk of cumulative impacts, without and with information on sensitivity respectively, and 42% of reefs had low risk to cumulative impacts from both local and global stressors. Our outputs are the first comprehensive spatial dataset of cumulative impact on coral reefs in Brazil, and show that areas requiring attention mostly corresponded to those closer to population centres. We demonstrate how the relationships between risks from local and global stressors can be used to derive strategic management actions.
+
+SOURCE: Diversity
+PDF URL: https://www.mdpi.com/1424-2818/10/2/26/pdf?version=1525349626
+CITED BY COUNT: 22
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Reef', 'Coral reef', 'Coral', 'Fishery', 'Cumulative effects', 'Resilience of coral reefs', 'Climate change', 'Geography', 'Fishing', 'Environmental science', 'Coral reef protection', 'Ecology', 'Biology']

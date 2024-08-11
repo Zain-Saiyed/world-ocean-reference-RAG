@@ -1,0 +1,12 @@
+ID: W2558457431
+TITLE: Impact of the Deepwater Horizon oil spill on loggerhead turtle Caretta caretta nest densities in northwest Florida
+AUTHOR: ['Ann Marie Lauritsen', 'Philip M. Dixon', 'Dave Cacela', 'Beth Brost', 'Robert Hardy', 'Sandra L. MacPherson', 'Anne B. Meylan', 'Bryan P. Wallace', 'Blair Witherington']
+ABSTRACT:
+The 2010 Deepwater Horizon (DWH) oil spill and associated response activities overlapped with habitats for multiple life stages of federally protected sea turtles in the northern Gulf of Mexico.Although most assessment efforts focused on documenting the presence, abundance, and exposure of sea turtles to DWH oil in marine habitats, oil also washed ashore on sand beaches used by nesting turtles, specifically in NW Florida and Alabama, USA.In addition, extensive and highly mechanized beach cleanup efforts were conducted in NW Florida as well as Alabama, Louisiana, and Mississippi.Thus, the DWH oil spill negatively affected sea turtle nesting directly (e.g.adverse effects of oil exposure) and indirectly (e.g.beach cleanup activities deterring nesting) in several ways.In this study, we used a before-after, control-impact statistical modeling approach to examine long-term (1997-2012) historical records of loggerhead turtle (Caretta caretta) nest densities in 2 segments of the Florida Gulf coastline, one that was heavily affected by the oil spill (NW Florida) and one that was relatively unaffected (SW Florida).Loggerhead nest densities on NW Florida beaches in 2010 were reduced by 43.7% (95% confidence interval: 10-65%) relative to expected nesting rates in the absence of DWH oil and cleanup efforts.When we applied this reduction to all nesting habitat in NW Florida, this equated to a loss of approximately 251 unrealized nests from the 2010 nesting season -a loss we attribute to direct (e.g.mortality) and indirect (e.g.deterrence of nesting) effects related to the DWH incident.
+
+SOURCE: Endangered species research
+PDF URL: https://www.int-res.com/articles/esr2017/33/n033p083.pdf
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Fishery', 'Wildlife', 'Endangered species', 'Turtle (robot)', 'Habitat', 'Geography', 'Oil spill', 'Nest (protein structural motif)', 'Deepwater horizon', 'Sea turtle', 'Archaeology', 'Ecology', 'Environmental protection', 'Biology', 'Biochemistry']

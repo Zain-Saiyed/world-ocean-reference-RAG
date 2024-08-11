@@ -1,0 +1,12 @@
+ID: W2020177829
+TITLE: SeamountsOnline: A Desktop Window Into the Lives of Seamounts
+AUTHOR: ['Karen Stocks']
+ABSTRACT:
+Knowledge is key to good science and good management.But, what do you do when the information you need is scattered among hundreds of journals and reports, in dozens of languages?Or worse, data are sitting on floppy disks in the back of someone's filing cabinet?SeamountsOnline (http://seamounts.sdsc.edu) is a Web site where scientists and data managers can get information on what species live on different seamounts.SeamountsOnline staff access high-quality data by requesting data sets directly from seamount researchers globally, and entering data from publications, then make these data searchable and available in an integrated electronic format.Although not complete, it is becoming "one-stop shopping" for data on seamount biodiversity.The core data held are records that a particular organism was observed or collected from a particular seamount, including when and how.These data can be searched by organism name, by seamount name, or by region.Data are returned as distribution maps, downloadable tables, and hierarchical taxonomic trees.SeamountsOnline is designed to support scientific research and to inform management.Researchers can look at the distribution of a species of interest, or at community patterns across seamounts (e.g., Braga et al. 2008;Brewin et al., 2009).It can also help them plan new expeditions-highlighting interesting or understudied areas to explore (e.g., Ingole and Koslow, 2005;Johnston et al., 2008).Natural resource managers can discover which seamounts have species of special concern, such as deep-water corals (see Box 7 on page 128 of this issue [Etnoyer, 2010]), commercial fishes (see Pitcher et al., 2010), or endangered species (e.g., Clark et al., 2006; CBD, 2008).And, perhaps the thing for which SeamountsOnline has proved the most useful is highlighting how little we know about the vast majority of seamounts.
+
+SOURCE: Oceanography
+PDF URL: https://tos.org/oceanography/assets/docs/23-1_stocks.pdf
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Seamount', 'Window (computing)', 'Geology', 'Computer graphics (images)', 'Computer science', 'Oceanography', 'World Wide Web']

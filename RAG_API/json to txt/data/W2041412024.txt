@@ -1,0 +1,12 @@
+ID: W2041412024
+TITLE: Bioavailable iron in the Southern Ocean: the significance of the iceberg conveyor belt
+AUTHOR: ['R. Raiswell', 'Liane G. Benning', 'Martyn Tranter', 'S. M. Tulaczyk']
+ABSTRACT:
+Productivity in the Southern Oceans is iron-limited, and the supply of iron dissolved from aeolian dust is believed to be the main source from outside the marine reservoir. Glacial sediment sources of iron have rarely been considered, as the iron has been assumed to be inert and non-bioavailable. This study demonstrates the presence of potentially bioavailable Fe as ferrihydrite and goethite in nanoparticulate clusters, in sediments collected from icebergs in the Southern Ocean and glaciers on the Antarctic landmass. Nanoparticles in ice can be transported by icebergs away from coastal regions in the Southern Ocean, enabling melting to release bioavailable Fe to the open ocean. The abundance of nanoparticulate iron has been measured by an ascorbate extraction. This data indicates that the fluxes of bioavailable iron supplied to the Southern Ocean from aeolian dust (0.01-0.13 Tg yr(-1)) and icebergs (0.06-0.12 Tg yr(-1)) are comparable. Increases in iceberg production thus have the capacity to increase productivity and this newly identified negative feedback may help to mitigate fossil fuel emissions.
+
+SOURCE: Geochemical transactions
+PDF URL: https://geochemicaltransactions.biomedcentral.com/counter/pdf/10.1186/1467-4866-9-7
+CITED BY COUNT: 214
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Iceberg', 'Aeolian processes', 'Oceanography', 'Ferrihydrite', 'Iron fertilization', 'Sediment', 'Meltwater', 'Glacier', 'Bioavailability', 'Glacial period', 'Environmental science', 'Environmental chemistry', 'Geology', 'Sea ice', 'Chemistry', 'Nutrient', 'Geomorphology', 'Phytoplankton', 'Bioinformatics', 'Biology', 'Organic chemistry', 'Adsorption']

@@ -1,0 +1,12 @@
+ID: W2139657187
+TITLE: Ocean Research Enabled by Underwater Gliders
+AUTHOR: ['Daniel L. Rudnick']
+ABSTRACT:
+Underwater gliders are autonomous underwater vehicles that profile vertically by changing their buoyancy and use wings to move horizontally. Gliders are useful for sustained observation at relatively fine horizontal scales, especially to connect the coastal and open ocean. In this review, research topics are grouped by time and length scales. Large-scale topics addressed include the eastern and western boundary currents and the regional effects of climate variability. The accessibility of horizontal length scales of order 1 km allows investigation of mesoscale and submesoscale features such as fronts and eddies. Because the submesoscales dominate vertical fluxes in the ocean, gliders have found application in studies of biogeochemical processes. At the finest scales, gliders have been used to measure internal waves and turbulent dissipation. The review summarizes gliders' achievements to date and assesses their future in ocean observation.
+
+SOURCE: Annual review of marine science
+PDF URL: https://www.annualreviews.org/doi/pdf/10.1146/annurev-marine-122414-033913
+CITED BY COUNT: 224
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Underwater glider', 'Buoyancy', 'Mesoscale meteorology', 'Underwater', 'Glider', 'Internal wave', 'Oceanography', 'Geology', 'Internal tide', 'Eddy', 'Environmental science', 'Turbulence', 'Meteorology', 'Marine engineering', 'Geography', 'Engineering', 'Physics', 'Quantum mechanics']

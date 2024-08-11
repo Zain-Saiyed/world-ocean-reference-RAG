@@ -1,0 +1,12 @@
+ID: W2560795629
+TITLE: Critical Factors Influencing Viability of Wave Energy Converters in Off-Grid Luxury Resorts and Small Utilities
+AUTHOR: ['Aksel Botne Sandberg', 'Eirik Klementsen', 'Gerrit Müller', 'Adrián de Andrés', 'Jéromine Maillet']
+ABSTRACT:
+This paper examines technical and non-technical factors that are critical to the viability of commercialization of wave energy converters in off-grid luxury resorts and small utilities. Critical factors are found by investigating Levelized Cost of Energy, and using the tools PESTEL and Porter’s five competitive forces. Identified factors are then applied on three business cases to investigate their impact on viability. The results show that one of the main challenges facing off-grid commercialization is the few wave energy converter units installed per location, negating the economy of scale that large wave energy farms count on to achieve competitive cost levels. In addition, factors like current cost of energy, available wave resources, distance from shore, infrastructure, supply chain logistics, and electricity demand are found to be deciding factors for viability. Despite these challenges, it is found that there are potentially viable off-grid business cases for commercialization of wave energy converters.
+
+SOURCE: Sustainability
+PDF URL: https://www.mdpi.com/2071-1050/8/12/1274/pdf?version=1481123747
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Commercialization', 'Cost of electricity by source', 'Environmental economics', 'Grid', 'Electricity', 'Business', 'Wave energy converter', 'Converters', 'Energy market', 'Energy (signal processing)', 'Economics', 'Electricity generation', 'Engineering', 'Electrical engineering', 'Marketing', 'Mathematics', 'Power (physics)', 'Physics', 'Statistics', 'Geometry', 'Quantum mechanics', 'Voltage']

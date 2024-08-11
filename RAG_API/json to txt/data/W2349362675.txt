@@ -1,0 +1,12 @@
+ID: W2349362675
+TITLE: Exploration of polymetallic nodules in the Area: Reporting practices, data management and transparency
+AUTHOR: ['Pedro Madureira', 'Harald Brekke', 'Georgy Cherkashov', 'Marzia Rovere']
+ABSTRACT:
+The International Seabed Authority (ISA) regulates the activities related with the exploration and exploitation of seabed mineral resources in the Area, which are considered as the "common heritage of mankind" under the United Nations Convention on the Law of the Sea. The ISA has also the mandate to ensure the protection of the marine environment. The development of good practices for the annual reporting and data submission by Contractors is crucial for the ISA to comply with the sustainable development of the mineral marine resources. In 2015, the ISA issued a new template for reporting on exploration activities, which includes the definition of the format for all geophysical, geological and environmental data to be collected and analysed during exploration. The availability of reliable data contributes to improve the assessment of the ISA on the activities in the Area while promoting transparency, which is considered as a major principle of industry best practices.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 15
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Mandate', 'Transparency (behavior)', 'United Nations Convention on the Law of the Sea', 'Convention', 'Sustainable development', 'Business', 'Best practice', 'Environmental resource management', 'Environmental planning', 'Seabed', 'Sustainability', 'Political science', 'Environmental science', 'Oceanography', 'Geology', 'Law', 'Ecology', 'Biology']

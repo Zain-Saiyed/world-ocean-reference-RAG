@@ -1,0 +1,12 @@
+ID: W2890611581
+TITLE: The Baltic Sea
+AUTHOR: ['Beata Szymczycha', 'Agata Zaborska', 'Jacek Bełdowski', 'Karol Kuliński', 'Agnieszka Beszczyńska-Möller', 'Monika Kędra', 'Janusz Pempkowiak']
+ABSTRACT:
+The Baltic Sea is one of the largest brackish seas in the world with a total surface area of 415,240 km2 (including the Danish Straits and Kattegat) with water volume of 21,706 km3. Its environmental conditions depend on the hydrological processes in the catchment area, meteorological forcing, oceanographic processes in the sea, and the interactions between these. The water body of the central Baltic is permanently stratified, with an upper layer of low-salinity (6–8 psu) water and a more saline (10–14 psu) deepwater layer, both separated by a strong halocline. Strong environmental gradients create a variety of habitats with different biota in different subbasins. Due to its young age and reduced salinity the biological structure of the Baltic Sea is relatively restricted. Low species richness is often associated with strong dominance of a few species and high productivity. Being a semienclosed sea surrounded by densely populated and highly industrialized countries, the Baltic Sea is highly vulnerable to anthropogenic pressure. Currently, the major threats to the Baltic Sea are chemical contamination, eutrophication, and hypoxia. Therefore, anthropogenic pressure along with related climate change should be taken into account for assessment of the environmental status of the Baltic Sea and its future changes.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 4
+PUBLICATION YEAR: 2019
+TYPE: book-chapter
+CONCEPTS: ['Halocline', 'Oceanography', 'Brackish water', 'Environmental science', 'Salinity', 'Baltic sea', 'Biota', 'Dominance (genetics)', 'Bottom water', 'Geology', 'Ecology', 'Biochemistry', 'Chemistry', 'Gene', 'Biology']

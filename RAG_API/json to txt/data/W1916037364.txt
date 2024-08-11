@@ -1,0 +1,12 @@
+ID: W1916037364
+TITLE: Cold-water coral reefs and adjacent sponge grounds: hotspots of benthic respiration and organic carbon cycling in the deep sea
+AUTHOR: ['Cécile Cathalot', 'Dick van Oevelen', 'Tom J. S. Cox', 'Tina Kutti', 'Marc Lavaleye', 'G.C.A. Duineveld', 'Filip J. R. Meysman']
+ABSTRACT:
+Cold-water coral reefs and adjacent sponge grounds are distributed widely in the deep ocean, where only a small fraction of the surface productivity reaches the seafloor as detritus. It remains elusive how these hotspots of biodiversity can thrive in such a food-limited environment, as data on energy flow and organic carbon utilization are critically lacking. Here we report in situ community respiration rates for cold-water coral and sponge ecosystems obtained by the non-invasive aquatic Eddy Correlation technique. Oxygen uptake rates over coral reefs and adjacent sponge grounds in the Træna Coral Field (Norway) were 9-20 times higher than those of the surrounding soft sediments. These high respiration rates indicate strong organic matter consumption, and hence suggest a local focusing onto these ecosystems of the downward flux of organic matter that is exported from the surface ocean. Overall, our results show that coral reefs and adjacent sponge grounds are hotspots of carbon processing in the food-limited deep ocean, and that these deep-sea ecosystems play a more prominent role in marine biogeochemical cycles than previously recognized.
+
+SOURCE: Frontiers in marine science
+PDF URL: None
+CITED BY COUNT: 153
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Coral reef', 'Benthic zone', 'Oceanography', 'Environmental science', 'Environmental issues with coral reefs', 'Reef', 'Ecosystem', 'Carbon cycle', 'Resilience of coral reefs', 'Organic matter', 'Ecology', 'Geology', 'Biology']

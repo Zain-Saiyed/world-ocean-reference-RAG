@@ -1,0 +1,12 @@
+ID: W2747683728
+TITLE: The warmer the ocean surface, the shallower the mixed layer. How much of this is true?
+AUTHOR: ['R. Somavilla', 'C. González‐Pola', 'J. M. Fernández‐Díaz']
+ABSTRACT:
+Abstract Ocean surface warming is commonly associated with a more stratified, less productive, and less oxygenated ocean. Such an assertion is mainly based on consistent projections of increased near‐surface stratification and shallower mixed layers under global warming scenarios. However, while the observed sea surface temperature (SST) is rising at midlatitudes, the concurrent ocean record shows that stratification is not unequivocally increasing nor is MLD shoaling. We find that while SST increases at three study areas at midlatitudes, stratification both increases and decreases, and MLD deepens with enhanced deepening of winter MLDs at rates over . These results rely on the estimation of several MLD and stratification indexes of different complexity on hydrographic profiles from long‐term hydrographic time‐series, ocean reanalysis, and Argo floats. Combining this information with estimated MLDs from buoyancy fluxes and the enhanced deepening/attenuation of the winter MLD trends due to changes in the Ekman pumping, MLD variability involves a subtle interplay between circulation and atmospheric forcing at midlatitudes. Besides, it is highlighted that the density difference between the surface and 200 m, the most widely used stratification index, should not be expected to reliably inform about changes in the vertical extent of mixing.
+
+SOURCE: Journal of geophysical research. Oceans
+PDF URL: None
+CITED BY COUNT: 72
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Stratification (seeds)', 'Mixed layer', 'Argo', 'Hydrography', 'Middle latitudes', 'Climatology', 'Environmental science', 'Sea surface temperature', 'Ekman transport', 'Atmospheric sciences', 'Geology', 'Oceanography', 'Upwelling', 'Seed dormancy', 'Botany', 'Germination', 'Dormancy', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2920982460
+TITLE: Dynamic marine viral infections and major contribution to photosynthetic processes shown by spatiotemporal picoplankton metatranscriptomes
+AUTHOR: ['Ella T. Sieradzki', 'J. Cesar Ignacio‐Espinoza', 'David M. Needham', 'Erin B. Fichot', 'Jed A. Fuhrman']
+ABSTRACT:
+Abstract Viruses provide top-down control on microbial communities, yet their direct study in natural environments was hindered by culture limitations. The advance of bioinformatics enables cultivation-independent study of viruses. Many studies assemble new viral genomes and study viral diversity using marker genes from free viruses. Here we use cellular metatranscriptomics to study active community-wide viral infections. Recruitment to viral contigs allows tracking infection dynamics over time and space. Our assemblies represent viral populations, but appear biased towards low diversity viral taxa. Tracking relatives of published T4-like cyanophages and pelagiphages reveals high genomic continuity. We determine potential hosts by matching dynamics of infection with abundance of particular microbial taxa. Finally, we quantify the relative contribution of cyanobacteria and viruses to photosystem-II psbA (reaction center) expression in our study sites. We show sometimes &gt;50% of all cyanobacterial+viral psbA expression is of viral origin, highlighting the contribution of viruses to photosynthesis and oxygen production.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-019-09106-z.pdf
+CITED BY COUNT: 63
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Biology', 'Bacterial virus', 'Evolutionary biology', 'Viral evolution', 'Genome', 'Genetics', 'Gene', 'Bacteriophage', 'Escherichia coli']

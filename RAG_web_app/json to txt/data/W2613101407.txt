@@ -1,0 +1,12 @@
+ID: W2613101407
+TITLE: Coral disease hotspots in the Caribbean
+AUTHOR: ['Robert van Woesik', 'Carly J. Randall']
+ABSTRACT:
+Abstract Recent outbreaks of coral diseases in the Caribbean have been linked to increasingly stressful sea‐surface temperatures (SSTs). Yet, ocean warming is spatially heterogeneous and therefore has the potential to lead to hotspots of disease activity. Here, we take an epidemiological approach to examine spatial differences in the risk of white‐band disease on Acropora spp. and yellow‐band disease on Orbicella spp. in the Caribbean. Our analysis involved examining the spatial patterns of disease prevalence, and creating a Bayesian‐risk model that tested for regional differences in disease risk. The spatial examination of disease prevalence showed several clusters of white‐band disease, including high prevalence in the Turks and Caicos, Jamaica, Puerto Rico, the Virgin Islands, and Belize, whereas yellow‐band disease seemed most prevalent along the Yucatan Peninsula. The Bayesian‐risk model showed regional clusters of white‐band disease near the southern Dominican Republic, Puerto Rico, the Virgin Islands, and the Lesser Antilles, whereas the risk of yellow‐band disease was highest in the southern Caribbean. The relative risk of both diseases increased with warmer SSTs. The Bayesian‐risk model allowed us to predict where we should expect future outbreaks of coral diseases at a regional scale, and suggests regions where the implementation of disease mitigation plans may be most urgent.
+
+SOURCE: Ecosphere
+PDF URL: https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecs2.1814
+CITED BY COUNT: 36
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Coral', 'Geography', 'Outbreak', 'Disease', 'Caribbean region', 'Ecology', 'Biology', 'Medicine', 'Latin Americans', 'Linguistics', 'Philosophy', 'Pathology', 'Virology']

@@ -1,0 +1,12 @@
+ID: W2053713060
+TITLE: The global distribution of seamounts based on 30 arc seconds bathymetry data
+AUTHOR: ['Chris Yesson', 'Malcolm R. Clark', 'Michelle L. Taylor', 'Alex D. Rogers']
+ABSTRACT:
+Seamounts and knolls are ‘undersea mountains’, the former rising more than 1000 m from the seafloor. These features provide important habitats for aquatic predators, demersal deep-sea fish and benthic invertebrates. However most seamounts have not been surveyed and their numbers and locations are not well known. Previous efforts to locate and quantify seamounts have used relatively coarse bathymetry grids. Here we use global bathymetric data at 30 arc-sec resolution to identify seamounts and knolls. We identify 33,452 seamounts and 138,412 knolls, representing the largest global set of identified seamounts and knolls to date. We compare estimated seamount numbers, locations, and depths with validation sets of seamount data from New Zealand and Azores. This comparison indicates the method we apply finds 94% of seamounts, but may overestimate seamount numbers along ridges and in areas where faulting and seafloor spreading creates highly complex topography. The seamounts and knolls identified herein are significantly geographically biased towards areas surveyed with ship-based soundings. As only 6.5% of the ocean floor has been surveyed with soundings it is likely that new seamounts will be uncovered as surveying improves. Seamount habitats constitute approximately 4.7% of the ocean floor, whilst knolls cover 16.3%. Regional distribution of these features is examined, and we find a disproportionate number of productive knolls, with a summit depth of <1.5 km, located in the Southern Ocean. Less than 2% of seamounts are within marine protected areas and the majority of these are located within exclusive economic zones with few on the High Seas. The database of seamounts and knolls resulting from this study will be a useful resource for researchers and conservation planners.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 244
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Seamount', 'Geology', 'Seafloor spreading', 'Bathymetry', 'Oceanography', 'Seabed', 'Benthic zone', 'Paleontology', 'Seismology']

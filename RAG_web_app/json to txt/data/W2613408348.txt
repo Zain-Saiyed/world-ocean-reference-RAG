@@ -1,0 +1,12 @@
+ID: W2613408348
+TITLE: Acute Illness Among Surfers After Exposure to Seawater in Dry- and Wet-Weather Conditions
+AUTHOR: ['Benjamin F. Arnold', 'Kenneth Schiff', 'Ayşe Ercümen', 'Jade Benjamin‐Chung', 'Joshua A. Steele', 'John F. Griffith', 'Steven J. Steinberg', 'Paul Smith', 'Charles D. McGee', 'Richard W. Wilson', 'Chad E. Nelsen', 'Stephen B. Weisberg', 'John M. Colford']
+ABSTRACT:
+Rainstorms increase levels of fecal indicator bacteria in urban coastal waters, but it is unknown whether exposure to seawater after rainstorms increases rates of acute illness.Our objective was to provide the first estimates of rates of acute illness after seawater exposure during both dry-and wet-weather periods and to determine the relationship between levels of indicator bacteria and illness among surfers, a population with a high potential for exposure after rain.We enrolled 654 surfers in San Diego, California, and followed them longitudinally during the 2013-2014 and 2014-2015 winters (33,377 days of observation, 10,081 surf sessions).We measured daily surf activities and illness symptoms (gastrointestinal illness, sinus infections, ear infections, infected wounds).Compared with no exposure, exposure to seawater during dry weather increased incidence rates of all outcomes (e.g., for earache or infection, adjusted incidence rate ratio (IRR) = 1.86, 95% confidence interval (CI): 1.27, 2.71; for infected wounds, IRR = 3.04, 95% CI: 1.54, 5.98); exposure during wet weather further increased rates (e.g., for earache or infection, IRR = 3.28, 95% CI: 1.95, 5.51; for infected wounds, IRR = 4.96, 95% CI: 2.18, 11.29).Fecal indicator bacteria measured in seawater (Enterococcus species, fecal coliforms, total coliforms) were strongly associated with incident illness only during wet weather.Urban coastal seawater exposure increases the incidence rates of many acute illnesses among surfers, with higher incidence rates after rainstorms.
+
+SOURCE: American journal of epidemiology
+PDF URL: https://academic.oup.com/aje/article-pdf/186/7/866/24330347/kwx019.pdf
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Seawater', 'Incidence (geometry)', 'Medicine', 'Indicator bacteria', 'Rate ratio', 'Confidence interval', 'Feces', 'Population', 'Fecal coliform', 'Animal science', 'Veterinary medicine', 'Environmental health', 'Biology', 'Internal medicine', 'Microbiology', 'Ecology', 'Water quality', 'Physics', 'Optics']

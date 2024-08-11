@@ -1,0 +1,12 @@
+ID: W2966845811
+TITLE: 262 Voyages Beneath the Sea: a global assessment of macro- and megafaunal biodiversity and research effort at deep-sea hydrothermal vents
+AUTHOR: ['Andrew David Thaler', 'Diva J. Amon']
+ABSTRACT:
+For over 40 years, hydrothermal vents and the communities that thrive on them have been a source of profound discovery for deep-sea ecologists. These ecosystems are found throughout the world on active plate margins as well as other geologically active features. In addition to their ecologic interest, hydrothermal vent fields are comprised of metallic ores, sparking a nascent industry that aims to mine these metal-rich deposits for their mineral wealth. Here, we provide the first systematic assessment of macrofaunal and megafaunal biodiversity at hydrothermal vents normalized against research effort. Cruise reports from scientific expeditions as well as other literature were used to characterize the extent of exploration, determine the relative biodiversity of different biogeographic provinces, identify knowledge gaps related to the distribution of research effort, and prioritize targets for additional sampling to establish biodiversity baselines ahead of potential commercial exploitation. The Northwest Pacific, Southwest Pacific, and Southern Ocean biogeographic provinces were identified as high biodiversity using rarefaction of family-level incidence data, whereas the North East Pacific Rise, Northern East Pacific, Mid-Atlantic Ridge, and Indian Ocean provinces had medium biodiversity, and the Mid-Cayman Spreading Center was identified as a province of relatively low biodiversity. A North/South divide in the extent of biological research and the targets of hydrothermal vent mining prospects was also identified. Finally, we provide an estimate of sampling completeness for each province to inform scientific and stewardship priorities.
+
+SOURCE: PeerJ
+PDF URL: https://peerj.com/articles/7397.pdf
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Biodiversity', 'Hydrothermal vent', 'Megafauna', 'Oceanography', 'Geography', 'Earth science', 'Ecology', 'Geology', 'Archaeology', 'Paleontology', 'Hydrothermal circulation', 'Pleistocene', 'Biology']

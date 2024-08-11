@@ -1,0 +1,12 @@
+ID: W1975576303
+TITLE: The recreational value of coral reefs: A meta-analysis
+AUTHOR: ['Luke Brander', 'Pieter van Beukering', 'H.S.J. Cesar']
+ABSTRACT:
+Coral reefs are highly productive ecosystems that provide a variety of valuable goods and services, including recreational opportunities. The open-access nature and public good characteristics of coral reefs often result in them being undervalued in decision making related to their use and conservation. In response to this, there now exists a substantial economic valuation literature on coral reefs. For the purposes of conducting a meta-analysis of this literature, we collected 166 coral reef valuation studies, 52 of which provided sufficient information for a statistical meta-analysis, yielding 100 separate value observations in total. Focusing on recreational values, we use US$ per visit as the dependent variable in our meta-analysis. The meta-regression results reveal a number of important factors in explaining variation in coral reef recreational values, notably the area of dive sites and the number of visitors. Different valuation methods are shown to produce widely different values, with the contingent valuation method producing significantly lower value estimates. Using a multi-level modelling approach we also control for authorship effects, which proves to be highly significant in explaining variation in value estimates. We assess the prospects for using this analysis for out-of-sample value transfer, and find average transfer errors of 186%. We conclude that there is a need for further high-quality valuation research on coral reefs.
+
+SOURCE: Ecological economics
+PDF URL: None
+CITED BY COUNT: 307
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Coral reef', 'Valuation (finance)', 'Recreation', 'Coral', 'Contingent valuation', 'Reef', 'Meta-regression', 'Meta-analysis', 'Geography', 'Environmental resource management', 'Fishery', 'Economics', 'Ecology', 'Willingness to pay', 'Biology', 'Microeconomics', 'Medicine', 'Finance', 'Internal medicine']

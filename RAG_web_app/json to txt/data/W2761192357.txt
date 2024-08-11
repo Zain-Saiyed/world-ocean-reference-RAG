@@ -1,0 +1,12 @@
+ID: W2761192357
+TITLE: Tangled and drowned: a global review of penguin bycatch in fisheries
+AUTHOR: ['Rory Crawford', 'Ursula Ellenberg', 'Esteban Frere', 'Christina Hagen', 'Karen Baird', 'Paul E. Brewin', 'Sarah Crofts', 'James Glass', 'Thomas Mattern', 'J. Pompert', 'Karen Ross', 'Jessica Kemper', 'Katrin Ludynia', 'Richard B. Sherley', 'Antje Steinfurth', 'Cristián G. Suazo', 'Pablo Yorio', 'L. Tamini', 'Jeffrey C. Mangel', 'Leandro Bugoni', 'Gustavo Jiménez Uzcátegui', 'Alejandro Simeone', 'Guillermo Luna‐Jorquera', 'Patricia Gandini', 'Eric J. Woehler', 'Klemens Pütz', 'Peter Dann', 'André Chiaradia', 'Cleo Small']
+ABSTRACT:
+Penguins are the most threatened group of seabirds after albatrosses.Although penguins are regularly captured in fishing gear, the threat to penguins as a group has not yet been assessed.We reviewed both published and grey literature to identify the fishing gear types that penguins are most frequently recorded in, the most impacted species and, for these susceptible species, the relative importance of bycatch compared to other threats.While quantitative estimates of overall bycatch levels are difficult to obtain, this review highlights that, of the world's 18 species of penguins, 14 have been recorded as bycatch in fishing gear and that gillnets, and to a lesser extent trawls, are the gear types that pose the greatest threats to penguins.Bycatch is currently of greatest concern for yellow-eyed Megadyptes antipodes (Endangered), Humboldt Spheniscus humboldti (Vulnerable) and Magellanic Spheniscus magellanicus penguins (Near Threatened).Penguins face many threats; reducing bycatch mortality in fishing gear will greatly enhance the resilience of penguin populations to threats from habitat loss and climate change that are more difficult to address in the short term.Additional data are required to quantify the true extent of penguin bycatch, particularly for the most susceptible species.In the meantime, it is crucially important to manage the fisheries operating within known penguin foraging areas to reduce the risks to this already threatened group of seabirds.
+
+SOURCE: Endangered species research
+PDF URL: https://www.int-res.com/articles/esr2017/34/n034p373.pdf
+CITED BY COUNT: 57
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Bycatch', 'Fishing', 'Fishery', 'Endangered species', 'Geography', 'Threatened species', 'Art history', 'Library science', 'History', 'Ecology', 'Sociology', 'Biology', 'Demography', 'Computer science', 'Population', 'Habitat']

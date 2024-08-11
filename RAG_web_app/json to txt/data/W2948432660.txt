@@ -1,0 +1,12 @@
+ID: W2948432660
+TITLE: Hydrothermal vents trigger massive phytoplankton blooms in the Southern Ocean
+AUTHOR: ['Mathieu Ardyna', 'Léo Lacour', 'Sara Sergi', 'Francesco d’Ovidio', 'Jean Baptiste Sallée', 'Mathieu Rembauville', 'Stéphane Blain', 'Alessandro Tagliabue', 'Reiner Schlitzer', 'Catherine Jeandel', 'Kevin R. Arrigo', 'Hervé Claustre']
+ABSTRACT:
+Abstract Hydrothermal activity is significant in regulating the dynamics of trace elements in the ocean. Biogeochemical models suggest that hydrothermal iron might play an important role in the iron-depleted Southern Ocean by enhancing the biological pump. However, the ability of this mechanism to affect large-scale biogeochemistry and the pathways by which hydrothermal iron reach the surface layer have not been observationally constrained. Here we present the first observational evidence of upwelled hydrothermally influenced deep waters stimulating massive phytoplankton blooms in the Southern Ocean. Captured by profiling floats, two blooms were observed in the vicinity of the Antarctic Circumpolar Current, downstream of active hydrothermal vents along the Southwest Indian Ridge. These hotspots of biological activity are supported by mixing of hydrothermally sourced iron stimulated by flow-topography interactions. Such findings reveal the important role of hydrothermal vents on surface biogeochemistry, potentially fueling local hotspot sinks for atmospheric CO 2 by enhancing the biological pump.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-019-09973-6.pdf
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Biogeochemistry', 'Biogeochemical cycle', 'Hydrothermal vent', 'Oceanography', 'Phytoplankton', 'Hydrothermal circulation', 'Ocean current', 'Geology', 'Environmental science', 'Earth science', 'Ecology', 'Biology', 'Nutrient', 'Paleontology']

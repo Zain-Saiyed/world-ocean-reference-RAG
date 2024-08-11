@@ -1,0 +1,12 @@
+ID: W2916415143
+TITLE: Global Disease Outbreaks Associated with the 2015–2016 El Niño Event
+AUTHOR: ['Assaf Anyamba', 'Jean-Paul Chrétien', 'Seth C. Britch', 'Radina P. Soebiyanto', 'Jennifer Small', 'R L Jepsen', 'Brett M. Forshey', 'José L. Sánchez', 'Ryan Smith', 'Ryan Harris', 'Compton J. Tucker', 'William B. Karesh', 'Kenneth J. Linthicum']
+ABSTRACT:
+Abstract Interannual climate variability patterns associated with the El Niño-Southern Oscillation phenomenon result in climate and environmental anomaly conditions in specific regions worldwide that directly favor outbreaks and/or amplification of variety of diseases of public health concern including chikungunya, hantavirus, Rift Valley fever, cholera, plague, and Zika. We analyzed patterns of some disease outbreaks during the strong 2015–2016 El Niño event in relation to climate anomalies derived from satellite measurements. Disease outbreaks in multiple El Niño-connected regions worldwide (including Southeast Asia, Tanzania, western US, and Brazil) followed shifts in rainfall, temperature, and vegetation in which both drought and flooding occurred in excess (14–81% precipitation departures from normal). These shifts favored ecological conditions appropriate for pathogens and their vectors to emerge and propagate clusters of diseases activity in these regions. Our analysis indicates that intensity of disease activity in some ENSO-teleconnected regions were approximately 2.5–28% higher during years with El Niño events than those without. Plague in Colorado and New Mexico as well as cholera in Tanzania were significantly associated with above normal rainfall (p &lt; 0.05); while dengue in Brazil and southeast Asia were significantly associated with above normal land surface temperature (p &lt; 0.05). Routine and ongoing global satellite monitoring of key climate variable anomalies calibrated to specific regions could identify regions at risk for emergence and propagation of disease vectors. Such information can provide sufficient lead-time for outbreak prevention and potentially reduce the burden and spread of ecologically coupled diseases.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/s41598-018-38034-z.pdf
+CITED BY COUNT: 103
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Rift Valley fever', 'Outbreak', 'Geography', 'Flooding (psychology)', 'Climate change', 'Dengue fever', 'Monsoon', 'Climatology', 'Ecology', 'Biology', 'Virology', 'Geology', 'Meteorology', 'Psychology', 'Psychotherapist']

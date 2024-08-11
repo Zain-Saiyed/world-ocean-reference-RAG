@@ -1,0 +1,12 @@
+ID: W2211445997
+TITLE: Persistent natural acidification drives major distribution shifts in marine benthic ecosystems
+AUTHOR: ['Cristina Linares', 'Montserrat Vidal', 'Miquel Canals', 'Diego K. Kersting', 'David Amblàs', 'Eneko Aspillaga', 'Emma Cebrián', 'António Delgado Huertas', 'David Díaz', 'Joaquim Garrabou', 'Bernat Hereu', 'Laura Castells Navarro', 'Núria Teixidó', 'Enric Ballesteros']
+ABSTRACT:
+Ocean acidification is receiving increasing attention because of its potential to affect marine ecosystems. Rare CO 2 vents offer a unique opportunity to investigate the response of benthic ecosystems to acidification. However, the benthic habitats investigated so far are mainly found at very shallow water (less than or equal to 5 m depth) and therefore are not representative of the broad range of continental shelf habitats. Here, we show that a decrease from pH 8.1 to 7.9 observed in a CO 2 vent system at 40 m depth leads to a dramatic shift in highly diverse and structurally complex habitats. Forests of the kelp Laminaria rodriguezii usually found at larger depths (greater than 65 m) replace the otherwise dominant habitats (i.e. coralligenous outcrops and rhodolith beds), which are mainly characterized by calcifying organisms. Only the aragonite-calcifying algae are able to survive in acidified waters, while high-magnesium-calcite organisms are almost completely absent. Although a long-term survey of the venting area would be necessary to fully understand the effects of the variability of pH and other carbonate parameters over the structure and functioning of the investigated mesophotic habitats, our results suggest that in addition of significant changes at species level, moderate ocean acidification may entail major shifts in the distribution and dominance of key benthic ecosystems at regional scale, which could have broad ecological and socio-economic implications.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2015.0587
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Ocean acidification', 'Kelp forest', 'Ecosystem', 'Habitat', 'Ecology', 'Marine ecosystem', 'Dominance (genetics)', 'Environmental science', 'Marine habitats', 'Oceanography', 'Kelp', 'Biology', 'Geology', 'Seawater', 'Biochemistry', 'Gene']

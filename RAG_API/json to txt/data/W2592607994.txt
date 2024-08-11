@@ -1,0 +1,12 @@
+ID: W2592607994
+TITLE: The cumulative effects assessment of a coastal ecological restoration project in China: An integrated perspective
+AUTHOR: ['Deqiang Ma', 'Liyu Zhang', 'Qinhua Fang', 'Yuwu Jiang', 'Michael Elliott']
+ABSTRACT:
+Large scale coastal land-claim and sea-enclosing (CLASE) activities have caused habitat destruction, biodiversity losses and water deterioration, thus the local governments in China have recently undertaken seabed dredging and dyke opening (SDADO) as typical ecological restoration projects. However, some projects focus on a single impact on hydrodynamic conditions, water quality or marine organisms. In a case study in Xiamen, China, an integrated effects assessment framework centres on ecohydrology, using modeling of hydrodynamic conditions and statistical analysis of water quality, was developed to assess the effects of ecological restoration projects. The benefits of SDADO projects include improving hydrodynamic conditions and water quality, as a precursor to further marine biological improvements. This study highlights the need to comprehensively consider ecological effects of SDADO projects in the planning stage, and an integrative assessment method combining cumulative effects of hydrodynamic conditions, water quality and biological factors.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Dredging', 'Environmental science', 'Cumulative effects', 'Restoration ecology', 'Water quality', 'Habitat', 'Environmental resource management', 'China', 'Biodiversity', 'Environmental planning', 'Ecology', 'Geography', 'Archaeology', 'Biology']

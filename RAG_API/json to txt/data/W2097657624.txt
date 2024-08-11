@@ -1,0 +1,12 @@
+ID: W2097657624
+TITLE: Vulnerable Islands: Climate Change, Tectonic Change, and Changing Livelihoods in the Western Pacific
+AUTHOR: ['John Connell']
+ABSTRACT:
+Small Pacific islands, especially atolls, have been widely argued to be in the forefront of climate change. Recent degradation of island environments has primarily been attributed to the impact of sea-level rise. However, physical changes to several small islands can be linked to a range of physical influences and to human modification. La Niña events, cyclones, and wind waves have caused localized flooding and storm damage. Most atoll islands have not significantly changed in size, as deposition balances erosion. Many islands have experienced broadly similar environmental problems in earlier times, at different scales, and over different time periods, now accentuated by human pressures on scarce land areas and resources. Local human factors (including construction and mining), tectonic subsidence, and La Niña events have created some iconic sites that have become symbols of sea-level rise, sometimes erroneously attributed solely to global warming. Limited economic prospects in most small islands, rising expectations, and growing populations have contributed to a culture of migration, marked by international migration and urbanization, that has diversified impoverished livelihoods, extended island geographies, and resulted in accentuated population concentrations. Contemporary climate change exacerbates present environmental changes, stimulates further migration, and points to diasporic futures.
+
+SOURCE: The Contemporary Pacific/The contemporary Pacific (Online)
+PDF URL: None
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Atoll', 'Geography', 'Climate change', 'Urbanization', 'Livelihood', 'Population', 'Environmental change', 'Storm', 'Desertification', 'Oceanography', 'Reef', 'Ecology', 'Geology', 'Archaeology', 'Agriculture', 'Demography', 'Sociology', 'Meteorology', 'Biology']

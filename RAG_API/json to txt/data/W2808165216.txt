@@ -1,0 +1,12 @@
+ID: W2808165216
+TITLE: Microplastic contamination in benthic organisms from the Arctic and sub-Arctic regions
+AUTHOR: ['Chao Fang', 'Ronghui Zheng', 'Yusheng Zhang', 'Fukun Hong', 'Jingli Mu', 'Mengyun Chen', 'Puqing Song', 'Longshan Lin', 'Heshan Lin', 'Fengfeng Le', 'Jun Bo']
+ABSTRACT:
+The seafloor is recognized as one of the major sinks for microplastics (MPs). However, to date there have been no studies reported the MP contamination in benthic organisms from the Arctic and sub-Arctic regions. Therefore, this study provided the first data on the abundances and characteristics of MPs in a total of 413 dominant benthic organisms representing 11 different species inhabiting in the shelf of Bering and Chukchi Seas. The mean abundances of MP uptake by the benthos from all sites ranged from 0.02 to 0.46 items g-1 wet weight (ww) or 0.04-1.67 items individual-1, which were lower values than those found in other regions worldwide. The highest value appeared at the northernmost site, implying that the sea ice and the cold current represent possible transport mediums. Interestingly, the predator A. rubens ingested the maximum quantities of MPs, suggesting that the trophic transfer of MPs through benthic food webs may play a critical role. Fibers constituted the major type (87%) in each species, followed by film (13%). The colors of fibers were classified as red (46%) and transparent (41%), and the film was all gray. The predominant composition was polyamide (PA) (46%), followed by polyethylene (PE) (23%), polyester (PET) (18%) and cellophane (CP) (13%). The most common sizes of MPs concentrated in the interval from 0.10 to 1.50 mm, and the mean size was 1.45 ± 0.13 mm. Further studies about the temporal trends and detrimental effects of MPs remain to be carried out in benthic organisms from the Arctic and sub-Arctic regions.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 161
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Benthic zone', 'Benthos', 'Arctic', 'Trophic level', 'Plastic pollution', 'Microplastics', 'Environmental science', 'Contamination', 'Environmental chemistry', 'Ecology', 'Oceanography', 'Chemistry', 'Biology', 'Geology']

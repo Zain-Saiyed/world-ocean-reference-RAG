@@ -1,0 +1,12 @@
+ID: W2914243986
+TITLE: Marine snakes of Indian coasts: historical resume, systematic checklist, toxinology, status, and identification key
+AUTHOR: ['S. R. Ganesh', 'T. Nandhini', 'V. Deepak Samuel', 'Chemmencheri Ramakrishnan Sreeraj', 'K. R. Abhilash', 'R. Ramesh', 'R. Ramesh']
+ABSTRACT:
+We compile an up-to-date checklist of 26 species of marine snakes known from the Indian coastlines. We furnish information on the original orthography, authorship, date of publication, current binominal representation, synonymy and chresonymy lists for each recognized taxon. In addition, we provide details of name-bearing types, repository and type locality (both original and subsequent restrictions where applicable) of the prevailing nomen for all recognized species. We summarise the history of research on Indian marine snakes from Linnaeus to the present day, including taxonomic and regional treatises, and highlight the taxonomic flux. We also provide a revised key for this group to facilitate easier identification and support effective conservation.
+
+SOURCE: Journal of threatened taxa
+PDF URL: None
+CITED BY COUNT: 3
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Checklist', 'Taxon', 'Identification (biology)', 'Key (lock)', 'Type locality', 'Identification key', 'Geography', 'Taxonomy (biology)', 'Biology', 'Zoology', 'Ecology', 'Paleontology']

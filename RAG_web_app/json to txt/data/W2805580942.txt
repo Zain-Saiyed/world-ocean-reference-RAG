@@ -1,0 +1,12 @@
+ID: W2805580942
+TITLE: Corporate control and global governance of marine genetic resources
+AUTHOR: ['Robert Blasiak', 'Jean‐Baptiste Jouffray', 'Colette C.C. Wabnitz', 'Emma Sundström', 'Henrik Österblom']
+ABSTRACT:
+Who owns ocean biodiversity? This is an increasingly relevant question, given the legal uncertainties associated with the use of genetic resources from areas beyond national jurisdiction, which cover half of the Earth's surface. We accessed 38 million records of genetic sequences associated with patents and created a database of 12,998 sequences extracted from 862 marine species. We identified >1600 sequences from 91 species associated with deep-sea and hydrothermal vent systems, reflecting commercial interest in organisms from remote ocean areas, as well as a capacity to collect and use the genes of such species. A single corporation registered 47% of all marine sequences included in gene patents, exceeding the combined share of 220 other companies (37%). Universities and their commercialization partners registered 12%. Actors located or headquartered in 10 countries registered 98% of all patent sequences, and 165 countries were unrepresented. Our findings highlight the importance of inclusive participation by all states in international negotiations and the urgency of clarifying the legal regime around access and benefit sharing of marine genetic resources. We identify a need for greater transparency regarding species provenance, transfer of patent ownership, and activities of corporations with a disproportionate influence over the patenting of marine biodiversity. We suggest that identifying these key actors is a critical step toward encouraging innovation, fostering greater equity, and promoting better ocean stewardship.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/4/6/eaar5237.full.pdf
+CITED BY COUNT: 111
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Stewardship (theology)', 'Corporate governance', 'Business', 'Jurisdiction', 'Biodiversity', 'Genetic resources', 'Equity (law)', 'Negotiation', 'Intellectual property', 'Transparency (behavior)', 'Commercialization', 'Environmental resource management', 'Biology', 'Political science', 'Ecology', 'Finance', 'Biotechnology', 'Economics', 'Marketing', 'Law', 'Politics']

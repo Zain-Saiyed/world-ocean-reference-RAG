@@ -1,0 +1,12 @@
+ID: W2070450736
+TITLE: Determination of selected pharmaceuticals and caffeine in sewage and seawater from Tromsø/Norway with emphasis on ibuprofen and its metabolites
+AUTHOR: ['Stefan Weigel', 'Urs Berger', 'Einar Jensen', 'Roland Kallenborn', 'Hilde Thoresen', 'Heinrich Hühnerfuß']
+ABSTRACT:
+Selected pharmaceuticals, among them analgesics, ss-blockers and anti-depressants as well as caffeine, the anti-bacterial triclosan and the insect repellent N,N-diethyl-3-toluamide (DEET) were determined in different sewage samples (sewage treatment plants, hospital effluents) from Tromsø/Norway and in seawater from Tromsø-Sound, into which the sewage is discharged. While caffeine, triclosan, ibuprofen and its major metabolites hydroxy- and carboxy-ibuprofen were present in all sewage samples, additional pharmaceuticals were observed in sewage containing hospital effluents. Concentrations were in the range of 20-293 microg/l (caffeine), 0.2-2.4 microg/l (triclosan) and 0.1-20 microg/l (sum ibuprofen + metabolites). In seawater, only caffeine (7-87 ng/l), DEET (0.4-13 ng/l) and ibuprofen + metabolites (sum concentration < LOQ-7.7 ng/l) were detected. Ibuprofen and its metabolites hydroxy- and carboxy-ibuprofen were quantified individually by use of the respective reference compounds. Relative amounts of the three compounds were determined in different types of water showing characteristic patterns, with hydroxy-ibuprofen being the major component in sewage whereas carboxy-ibuprofen was dominant in seawater samples. The patterns which were compared to those observed in similar samples from Germany indicated different transformation behaviour under limnic and marine conditions.
+
+SOURCE: Chemosphere
+PDF URL: None
+CITED BY COUNT: 417
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Ibuprofen', 'Triclosan', 'DEET', 'Effluent', 'Sewage', 'Seawater', 'Chemistry', 'Environmental chemistry', 'Caffeine', 'Insect repellent', 'Toxicology', 'Pharmacology', 'Environmental engineering', 'Biology', 'Environmental science', 'Ecology', 'Medicine', 'Pathology', 'Endocrinology']

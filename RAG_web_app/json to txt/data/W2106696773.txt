@@ -1,0 +1,12 @@
+ID: W2106696773
+TITLE: Hidden impacts of ocean acidification to live and dead coral framework
+AUTHOR: ['Sebastian Hennige', 'Laura C. Wicks', 'Nicholas A. Kamenos', 'Gabriela Perna', 'Helen S. Findlay', 'J. Murray Roberts']
+ABSTRACT:
+Cold-water corals, such as Lophelia pertusa, are key habitat-forming organisms found throughout the world's oceans to 3000 m deep. The complex three-dimensional framework made by these vulnerable marine ecosystems support high biodiversity and commercially important species. Given their importance, a key question is how both the living and the dead framework will fare under projected climate change. Here, we demonstrate that over 12 months L. pertusa can physiologically acclimate to increased CO2, showing sustained net calcification. However, their new skeletal structure changes and exhibits decreased crystallographic and molecular-scale bonding organization. Although physiological acclimatization was evident, we also demonstrate that there is a negative correlation between increasing CO2 levels and breaking strength of exposed framework (approx. 20-30% weaker after 12 months), meaning the exposed bases of reefs will be less effective 'load-bearers', and will become more susceptible to bioerosion and mechanical damage by 2100.
+
+SOURCE: Proceedings - Royal Society. Biological sciences/Proceedings - Royal Society. Biological Sciences
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2015.0990
+CITED BY COUNT: 120
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Bioerosion', 'Ocean acidification', 'Coral reef', 'Reef', 'Biodiversity', 'Ecology', 'Marine biodiversity', 'Ecosystem', 'Coral', 'Acclimatization', 'Key (lock)', 'Habitat', 'Climate change', 'Marine ecosystem', 'Biology', 'Oceanography', 'Geology']

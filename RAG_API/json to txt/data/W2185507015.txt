@@ -1,0 +1,12 @@
+ID: W2185507015
+TITLE: A gravel-covered iceberg provides an offshore breeding site for ivory gulls Pagophila eburnea off Northeast Greenland
+AUTHOR: ['Dominik Nachtsheim', 'Claude R. Joiris', 'Diederik D’Hert']
+ABSTRACT:
+The ivory gull Pagophila eburnea is an Arctic seabird species whose distribution is tightly coupled to the availability of sea ice. During the last decades, strong declines have been reported for breeding colonies in Canada and Greenland, which are usually located on nunataks or remote coastal islands. Here, we report the observation of a colony of ivory gulls breeding on a gravel-covered iceberg 70 km off Northeast Greenland in August 2014. It concerned approximately 60 adults, including two ringed individuals, and many chicks. This represents an unusual breeding site for the species, to be compared with a few cases of colonies on gravel-covered sea ice. Breeding on an offshore iceberg may be advantageous since it provides ultimate protection from predators. Furthermore, the proximity to the productive North East Water polynya may have been attractive to these gulls. As a consequence of this and previous observations, colony surveys should not solely focus on inland and coastal breeding habitats, but should be extended towards the ocean.
+
+SOURCE: Polar biology
+PDF URL: None
+CITED BY COUNT: 7
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Iceberg', 'Seabird', 'Arctic', 'Biology', 'Sea ice', 'Habitat', 'Oceanography', 'Submarine pipeline', 'Charadriiformes', 'Fishery', 'Ecology', 'Predation', 'Geology']

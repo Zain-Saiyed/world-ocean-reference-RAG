@@ -1,0 +1,12 @@
+ID: W2216246815
+TITLE: Deepwater Horizon oil spill impacts on sea turtles could span the Atlantic
+AUTHOR: ['Nathan F. Putman', 'F. Alberto Abreu‐Grobois', 'Iñaky Iturbe-Darkistade', 'Emily M. Putman', 'Paul M. Richards', 'Philippe Verley']
+ABSTRACT:
+We investigated the extent that the 2010 Deepwater Horizon oil spill potentially affected oceanic-stage sea turtles from populations across the Atlantic. Within an ocean-circulation model, particles were backtracked from the Gulf of Mexico spill site to determine the probability of young turtles arriving in this area from major nesting beaches. The abundance of turtles in the vicinity of the oil spill was derived by forward-tracking particles from focal beaches and integrating population size, oceanic-stage duration and stage-specific survival rates. Simulations indicated that 321 401 (66 199-397 864) green (Chelonia mydas), loggerhead (Caretta caretta) and Kemp's ridley (Lepidochelys kempii) turtles were likely within the spill site. These predictions compared favourably with estimates from in-water observations recently made available to the public (though our initial predictions for Kemp's ridley were substantially lower than in-water estimates, better agreement was obtained with modifications to mimic behaviour of young Kemp's ridley turtles in the northern Gulf). Simulations predicted 75.2% (71.9-76.3%) of turtles came from Mexico, 14.8% (11-18%) from Costa Rica, 5.9% (4.8-7.9%) from countries in northern South America, 3.4% (2.4-3.5%) from the United States and 1.6% (0.6-2.0%) from West African countries. Thus, the spill's impacts may extend far beyond the current focus on the northern Gulf of Mexico.
+
+SOURCE: Biology letters
+PDF URL: None
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Biology', 'Deepwater horizon', 'Oil spill', 'Fishery', 'Oceanography', 'Ecology', 'Environmental science', 'Environmental protection', 'Geology']

@@ -1,0 +1,12 @@
+ID: W2152871567
+TITLE: Energetics of life on the deep seafloor
+AUTHOR: ['Craig R. McClain', 'Andrew P. Allen', 'Derek P. Tittensor', 'Michael A. Rex']
+ABSTRACT:
+With frigid temperatures and virtually no in situ productivity, the deep oceans, Earth's largest ecosystem, are especially energy-deprived systems. Our knowledge of the effects of this energy limitation on all levels of biological organization is very incomplete. Here, we use the Metabolic Theory of Ecology to examine the relative roles of carbon flux and temperature in influencing metabolic rate, growth rate, lifespan, body size, abundance, biomass, and biodiversity for life on the deep seafloor. We show that the relative impacts of thermal and chemical energy change across organizational scales. Results suggest that individual metabolic rates, growth, and turnover proceed as quickly as temperature-influenced biochemical kinetics allow but that chemical energy limits higher-order community structure and function. Understanding deep-sea energetics is a pressing problem because of accelerating climate change and the general lack of environmental regulatory policy for the deep oceans.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/109/38/15366.full.pdf
+CITED BY COUNT: 125
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Energetics', 'Ecosystem', 'Biomass (ecology)', 'Seafloor spreading', 'Deep sea', 'Ecology', 'Biodiversity', 'Abundance (ecology)', 'Productivity', 'Relative species abundance', 'Marine life', 'Oceanography', 'Environmental science', 'Biology', 'Geology', 'Economics', 'Macroeconomics']

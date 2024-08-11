@@ -1,0 +1,12 @@
+ID: W4249512089
+TITLE: Prochlorococcus
+AUTHOR: ['Sallie W. Chisholm']
+ABSTRACT:
+Move over plants-make way for tiny Prochlorococcus, the smallest and most abundant photosynthetic cell on earth! Penny Chisholm tells us all about this powerhouse marine bacterium.
+
+SOURCE: CB/Current biology
+PDF URL: http://www.cell.com/article/S0960982217302130/pdf
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biology', 'Prochlorococcus', 'Computational biology', 'Evolutionary biology', 'Genetics', 'Bacteria', 'Cyanobacteria', 'Synechococcus']

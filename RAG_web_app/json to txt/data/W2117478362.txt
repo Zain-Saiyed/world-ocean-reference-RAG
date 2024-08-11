@@ -1,0 +1,12 @@
+ID: W2117478362
+TITLE: Modelling the effects of climate change on the distribution and production of marine fishes: accounting for trophic interactions in a dynamic bioclimate envelope model
+AUTHOR: ['José António Fernandes', 'William W. L. Cheung', 'Simon Jennings', 'Momme Butenschön', 'L. De Mora', 'Thomas L. Frölicher', 'Manuel Barangé', 'Alastair Grant']
+ABSTRACT:
+Climate change has already altered the distribution of marine fishes. Future predictions of fish distributions and catches based on bioclimate envelope models are available, but to date they have not considered interspecific interactions. We address this by combining the species-based Dynamic Bioclimate Envelope Model (DBEM) with a size-based trophic model. The new approach provides spatially and temporally resolved predictions of changes in species' size, abundance and catch potential that account for the effects of ecological interactions. Predicted latitudinal shifts are, on average, reduced by 20% when species interactions are incorporated, compared to DBEM predictions, with pelagic species showing the greatest reductions. Goodness-of-fit of biomass data from fish stock assessments in the North Atlantic between 1991 and 2003 is improved slightly by including species interactions. The differences between predictions from the two models may be relatively modest because, at the North Atlantic basin scale, (i) predators and competitors may respond to climate change together; (ii) existing parameterization of the DBEM might implicitly incorporate trophic interactions; and/or (iii) trophic interactions might not be the main driver of responses to climate. Future analyses using ecologically explicit models and data will improve understanding of the effects of inter-specific interactions on responses to climate change, and better inform managers about plausible ecological and fishery consequences of a changing environment.
+
+SOURCE: Global change biology
+PDF URL: None
+CITED BY COUNT: 109
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Trophic level', 'Interspecific competition', 'Climate change', 'Ecology', 'Environmental science', 'Species distribution', 'Abundance (ecology)', 'Pelagic zone', 'Anchovy', 'Fishery', 'Biology', 'Fish <Actinopterygii>', 'Habitat']

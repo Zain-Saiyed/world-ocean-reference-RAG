@@ -1,0 +1,12 @@
+ID: W2070834795
+TITLE: Radioactive status of seawater in the northwest Pacific more than one year after the Fukushima nuclear accident
+AUTHOR: ['Wu Men', 'Jizhou He', 'Fenfen Wang', 'Wen Ye', 'Yiliang Li', 'Jiang Huang', 'Xi Yu']
+ABSTRACT:
+To understand the impact of Fukushima Nuclear Accident(FNA), eight cruises were performed from 2011-2014. This paper reports the seawater monitoring results of the third cruise, which was conducted in May-June 2012.The northwest Pacific was clearly influenced even more than one year after FNA. However, compared to the monitoring results of the first and second cruises, which were performed in 2011, the seawater radioactivity of the third cruise decreased greatly. The highest value and the highest average of 137Cs and 134Cs were found in the 200 m layer, which suggested that 137Cs and 134Cs were most likely transported to a depth of 200 m or deeper. At 21.50°N, 125.00°E, 134Cs was found at a depth of 200 m, which is 430 km away from the southernmost point of Taiwan Island. The formation and subduction of Subtropical Mode Water is the most reasonable explanation for this process. The coastal water of China was not impacted by the radioactive pollutants released from the FNA. The radiation increments from 137Cs, 134Cs and 90Sr are only one-thousandth to one-millionth of the screening rate (10 μGy/h) according to the estimation using ERICA tools.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep07757.pdf
+CITED BY COUNT: 48
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Seawater', 'Environmental science', 'Cruise', 'Subtropics', 'Radioactive contamination', 'Fukushima Nuclear Accident', 'Oceanography', 'Pollutant', 'Radionuclide', 'Pacific ocean', 'Geology', 'Nuclear power plant', 'Ecology', 'Biology', 'Physics', 'Nuclear physics']

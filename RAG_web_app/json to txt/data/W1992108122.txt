@@ -1,0 +1,12 @@
+ID: W1992108122
+TITLE: It’s time to sharpen our definition of sustainable fisheries management
+AUTHOR: ['Peter A. Shelton', 'A. F. Sinclair']
+ABSTRACT:
+We review and evaluate the sustainability paradigm as it applies to wild capture fisheries in the context of a recently developed harvest strategy framework that, if implemented, will meet Canada’s national and international obligations with regard to sustainable fisheries. This framework is based on an operationally explicit definition of sustainability that includes a commitment to managing for maximum sustainable yield. Although Canadian policy strongly supports sustainable fisheries management in principle, usage of the term has been vague and implementation of sustainable fisheries management strategies has lagged. Fisheries managed under the recently developed framework would be better able to meet new ecocertification and ecolabelling standards. An emerging governance structure discussed herein with respect to fisheries management is conducive to implementing sustainable management practices that meet long-term public good objectives.
+
+SOURCE: Canadian journal of fisheries and aquatic sciences
+PDF URL: None
+CITED BY COUNT: 30
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Sustainability', 'Fisheries management', 'Maximum sustainable yield', 'Business', 'Context (archaeology)', 'Fisheries law', 'Corporate governance', 'Fishery', 'Sustainable management', 'Environmental resource management', 'Fisheries science', 'Environmental planning', 'Economics', 'Ecology', 'Fishing', 'Environmental science', 'Geography', 'Biology', 'Archaeology', 'Finance']

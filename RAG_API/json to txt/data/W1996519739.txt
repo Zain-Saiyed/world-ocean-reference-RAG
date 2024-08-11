@@ -1,0 +1,12 @@
+ID: W1996519739
+TITLE: Ontogenetic vertical distribution and diel migration of the copepod Eucalanus inermis in the oxygen minimum zone off northern Chile (20–21° S)
+AUTHOR: ['Pamela Hidalgo', 'Rubén Escribano', 'Carmen E. Morales']
+ABSTRACT:
+The vertical and ontogenetic distribution, and diel vertical migration (DVM), of Eucalanus inermis in relation to the strong vertical gradient in oxygen concentration associated with an intense oxygen minimum zone (OMZ) were studied at a coastal area off northern Chile (20–21° S). A close relationship between the abundance of the whole copepod population and low oxygen waters was found, with most developmental stages remaining near the base of the oxycline (30–80 m) and within the upper zone of the OMZ (30–200 m). All stages performed DVM but not at all the stations, mainly between the 30–60 and 60–200 m strata; a small fraction (<20%) appeared in the surface layer (0–30 m) mostly at night. This strategy of movement would result in a better utilization of food resources since the strong physical and chemical gradients at the base of the oxycline and upper OMZ boundary might serve as a site of particle accumulation. A secondary fluorescence peak was, in fact, found at all the stations, coinciding with minimal dissolved oxygen (DO, <1 mL O2 L−1) at the base of the oxycline or in the upper OMZ boundary. The relevance of the biogeochemical flux involved in this diel migration pattern was assessed by calculating the potential active input of carbon and nitrogen from the upper layers into deeper the OMZ.
+
+SOURCE: Journal of plankton research
+PDF URL: https://academic.oup.com/plankt/article-pdf/27/6/519/4322449/fbi025.pdf
+CITED BY COUNT: 49
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Diel vertical migration', 'Oxygen minimum zone', 'Oceanography', 'Copepod', 'Population', 'Biogeochemical cycle', 'Abundance (ecology)', 'Ecology', 'Biology', 'Environmental science', 'Geology', 'Crustacean', 'Upwelling', 'Demography', 'Sociology']

@@ -1,0 +1,12 @@
+ID: W2543017719
+TITLE: Influence of Pile Driving on the Clearance Rate of the Blue Mussel, Mytilus edulis (L.)
+AUTHOR: ['Ilaria Spiga', 'Gary S. Caldwell', 'Rick Bruintjes']
+ABSTRACT:
+Underwater pile driving is typically undertaken during construction of offshore oil and gas platforms and wind farms and harbours. These structures generally need solid foundations – provided by large steel piles – that are driven into the seabed. Impact pile driving generates water-borne pressure and particle motions, which propagate through the water column and the seabed. Few studies have investigated the potential effects of underwater noise stimuli on bivalves. In current study, the influence of impact pile driving on clearance rate of the blue mussel (Mytilus edulis) was investigated in a semi-open field experiment. An experimental pile driving setup was constructed using a pile-driver and a steel pile. Under controlled conditions, individual mussels were exposed to experimental pile driving and ambient conditions, with the possibility to feed upon microalgae (Tetraselmis suecica). Mussels had significantly higher clearance rates during exposure to pile driving compared with individuals tested in ambient conditions. We suggest that mussels under pile driving conditions moved from a physiologically maintenance state to active metabolism to compensate for the stress caused by pile driving.
+
+SOURCE: Proceedings of meetings on acoustics
+PDF URL: https://asa.scitation.org/doi/pdf/10.1121/2.0000277
+CITED BY COUNT: 21
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Pile', 'Mytilus', 'Blue mussel', 'Underwater', 'Seabed', 'Clearance rate', 'Environmental science', 'Submarine pipeline', 'Mussel', 'Marine engineering', 'Geotechnical engineering', 'Fishery', 'Engineering', 'Geology', 'Oceanography', 'Biology', 'Endocrinology']

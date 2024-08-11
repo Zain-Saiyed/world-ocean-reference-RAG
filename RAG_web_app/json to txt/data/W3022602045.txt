@@ -1,0 +1,12 @@
+ID: W3022602045
+TITLE: The ocean genome and future prospects for conservation and equity
+AUTHOR: ['Robert Blasiak', 'Rachel Wynberg', 'Kirsten Grorud‐Colvert', 'Sivaramjani Thambisetty', 'Narcisa M. Bandarra', 'Adelino V.M. Canário', 'Jessica M. da Silva', 'Carlos M. Duarte', 'Marcel Jaspars', 'AD Rogers', 'Kerry Sink', 'Colette C.C. Wabnitz']
+ABSTRACT:
+Life has evolved in the ocean for 3.7 billion years, resulting in a rich 'ocean genome', the ensemble of genetic material present in all marine biodiversity, including both the physical genes and the information they encode. Rapid advances in sequencing technologies and bioinformatics have enabled exploration of the ocean genome and are informing innovative approaches to conservation and a growing number of commercial biotechnology applications. However, the capacity to undertake genomic research and to access and use sequence data is inequitably distributed among countries, highlighting an urgent need to build capacity, promote inclusive innovation and increase access to affordable technologies. The ocean genome is the genetic material present in marine biodiversity. While technological advances are enabling exploration, conservation and innovation of this resource, the associated capacities are inequitably distributed among countries.
+
+SOURCE: Nature sustainability
+PDF URL: https://www.nature.com/articles/s41893-020-0522-9.pdf
+CITED BY COUNT: 40
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['ENCODE', 'Genome', 'Biodiversity', 'Equity (law)', 'Resource (disambiguation)', 'Marine conservation', 'Biology', 'Business', 'Geography', 'Environmental resource management', 'Computational biology', 'Natural resource economics', 'Gene', 'Computer science', 'Ecology', 'Political science', 'Genetics', 'Economics', 'Law', 'Computer network']

@@ -1,0 +1,12 @@
+ID: W2489589427
+TITLE: Pharmaceuticals in the environment – A short review on options to minimize the exposure of humans, animals and ecosystems
+AUTHOR: ['Stephanie Klatte', 'Hans‐Christian Schaefer', 'Maximilian Hempel']
+ABSTRACT:
+Pharmaceuticals are indispensable for human and animal health. After use, the active agents and their metabolites are excreted and enter the environment via different pathways. For decades, pharmaceuticals and metabolites have been found in the environment, e.g. surface water, groundwater, drinking water, sediment, sewage sludge and manure. About half of the 2300 active ingredients used in Germany are considered to be potentially of environmental relevance. Monitoring in the environment is still under way, but an impact on living organisms has already been detected. There is still a lack of knowledge concerning: quantities of pharmaceuticals entering the environment, origin of the pharmaceutical active agents, metabolism and transformation pathways, the effects of the active substances, metabolites and transformation products on aquatic organisms, as well as their persistence or degradability in the environment. Sporadically, traces of drugs are detected in drinking water. The concentrations are usually far below the µg per liter range and below concentration levels, which might have an effect on humans. Long-term effects cannot be excluded, though, and should be investigated. Moreover, antibacterial agents and antibiotic-resistant bacteria enter the environment in different ways. They are widely distributed. There is an urgent need for concepts and priorities in order to eliminate the exposure by pharmaceuticals in the environment. The authors suggest short-, medium- and long-term measures for the reduction of pharmaceuticals in the environment, with a clear prioritization of preventive measures.
+
+SOURCE: Sustainable chemistry and pharmacy
+PDF URL: None
+CITED BY COUNT: 122
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Aquatic environment', 'Aquatic ecosystem', 'Environmental chemistry', 'Sewage', 'Contamination', 'Human health', 'Environmental science', 'Chemistry', 'Biology', 'Ecology', 'Environmental engineering', 'Environmental health', 'Medicine']

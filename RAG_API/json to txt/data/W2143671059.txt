@@ -1,0 +1,12 @@
+ID: W2143671059
+TITLE: Deep ocean communities impacted by changing climate over 24 y in the abyssal northeast Pacific Ocean
+AUTHOR: ['Kenneth L. Smith', 'Henry A. Ruhl', 'Mati Kahru', 'Christine L. Huffard', 'Alana Sherman']
+ABSTRACT:
+Significance Global warming is now a well-documented phenomenon that is influencing every aspect of our world, from increased storm intensity to melting of polar ice sheets and rising sea level. The impact of such changes in climate is least known for the deep ocean, which covers over 60% of the earth’s surface. An unprecedented 24-y time series measuring changes in food supply and utilization by benthic communities at 4,000-m depth in the deep northeast Pacific reveal strong connectivity with changing surface ocean conditions, which have broad implications for the global carbon cycle.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/110/49/19838.full.pdf
+CITED BY COUNT: 104
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Oceanography', 'Deep sea', 'Effects of global warming on oceans', 'Environmental science', 'Benthic zone', 'Climate change', 'Global warming', 'Sea surface temperature', 'Geology', 'Pacific decadal oscillation', 'Climatology']

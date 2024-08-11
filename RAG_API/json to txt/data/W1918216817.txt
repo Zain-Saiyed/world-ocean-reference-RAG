@@ -1,0 +1,12 @@
+ID: W1918216817
+TITLE: Supporting Local and Traditional Knowledge with Science for Adaptation to Climate Change: Lessons Learned from Participatory Three-Dimensional Modeling in BoeBoe, Solomon Islands
+AUTHOR: ['Javier X. Leon', 'James Hardcastle', 'Robyn James', 'Simon Albert', 'Jimmy Kereseka', 'Colin D. Woodroffe']
+ABSTRACT:
+Coastal communities in the Coral Triangle are increasingly threatened by climate change. Sea-level rise (SLR) will result in biophysical and socioeconomic impacts that could increase the loss of livelihoods, cultural heritage and infrastructure. Effective adaptation requires a holistic approach that incorporates scientific knowledge together with local and traditional knowledge. Community-based adaptation built on local knowledge is of great value for environmental management, particularly when scientific data are lacking. This article reports a case study that integrated traditional and scientific knowledge using participatory three-dimensional modeling (P3DM) in BoeBoe village, Solomon Islands. P3DM is a process by which members of the local community build a physical terrain model and overlay it with the location of important resources such as protected areas or harvesting sites. Additionally, SLR inundation scenarios based on surveyed elevations were incorporated into a geographic information system (GIS), allowing for a real-time integration of science with local knowledge. Despite discrepancies in scales and accuracy, information from both the P3DM and GIS were complementary. The process, itself, provided a forum for discussion between many members of the village who would normally not be involved and highlighted the importance of community engagement when building capacity for adaptation to climate change.
+
+SOURCE: Coastal management
+PDF URL: None
+CITED BY COUNT: 29
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Environmental resource management', 'Citizen science', 'Traditional knowledge', 'Terrain', 'Citizen journalism', 'Adaptation (eye)', 'Livelihood', 'Climate change', 'Sociology of scientific knowledge', 'Local community', 'Participatory GIS', 'Geography', 'Environmental planning', 'Geographic information system', 'Computer science', 'Remote sensing', 'Sociology', 'Environmental science', 'Political science', 'Cartography', 'Ecology', 'Indigenous', 'World Wide Web', 'Biology', 'Botany', 'Social science', 'Law', 'Agriculture', 'Archaeology', 'Optics', 'Physics']

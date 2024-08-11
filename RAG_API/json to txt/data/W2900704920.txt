@@ -1,0 +1,12 @@
+ID: W2900704920
+TITLE: Experimental assessment of the effects of coldwater coral patches on water flow
+AUTHOR: ['Furu Mienis', 'Tjeerd J. Bouma', 'Rob Witbaard', 'Dick van Oevelen', 'G.C.A. Duineveld']
+ABSTRACT:
+Despite the importance for ecosystem functioning, little is known about flow patterns at the cold-water coral-patch scale (i.e., centimetre-meter).In-situ flow speed measurements using moorings or landers only provide general near reef flow patterns and experimental studies so far focussed on single coral branches for feeding and behavioural studies.We address this knowledge gap by means of a flume study.The effect of different coral patches (4, 10 and 25 cm height, respectively) created from dead coral branches on the ambient flow field and the refreshment rate of water within a patch was assessed, using three realistic current speeds (0.05, 0.15 and 0.3 m s -1 ).High bottom roughness in combination with strong currents increased current velocity and turbulence in the wake of all patches, even with very low relief.The formation of two dynamically different environments was observed.The frameworkwater interface was characterised by high turbulence and enhanced vertical turbulent transport of momentum, while in the wake reduced turbulence and vertical mixing activity was observed, characterised by near stagnant flows.Subsequently, water-refreshment rates within a patch drastically decreased at current speeds less than 0.2 m s -1 , while near to unobstructed stream conditions were observed at current speeds above 0.2 m s -1 .Combining flume observations with available in-situ data suggest that heterogeneity and patchiness of coldwater coral growth is likely induced by flow patterns at the coral patch scale, influencing the fate of particulate and dissolved matter as well as oxygen exchange rates in and around the reef.
+
+SOURCE: Marine ecology. Progress series
+PDF URL: None
+CITED BY COUNT: 26
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Coral', 'Coral reef', 'Oceanography', 'Reef', 'Current (fluid)', 'Flume', 'Water flow', 'Environmental science', 'Flow (mathematics)', 'Anthozoa', 'Hydrology (agriculture)', 'Geology', 'Ecology', 'Biology', 'Geometry', 'Soil science', 'Mathematics', 'Geotechnical engineering']

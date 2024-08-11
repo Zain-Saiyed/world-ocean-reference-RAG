@@ -1,0 +1,12 @@
+ID: W1575953746
+TITLE: A framework for understanding climate change impacts on coral reef social–ecological systems
+AUTHOR: ['Joshua E. Cinner', 'Morgan S. Pratchett', 'Nicholas A. J. Graham', 'Vanessa Messmer', 'Mariana M. P. B. Fuentes', 'Tracy D. Ainsworth', 'Natalie C. Ban', 'Line K. Bay', 'Jessica Blythe', 'Delphine Dissard', 'Simon R. Dunn', 'Louisa Evans', 'Michael Fabinyi', 'Pedro Fidelman', 'Joana Figueiredo', 'Ashley J. Frisch', 'Christopher J. Fulton', 'Christina C. Hicks', 'Vimoksalehi Lukoschek', 'Jennie Mallela', 'Aurélie Moya', 'Lucie Penin', 'Jodie L. Rummer', 'Stefan P. W. Walker', 'David H. Williamson']
+ABSTRACT:
+Corals and coral-associated species are highly vulnerable to the emerging effects of global climate change. The widespread degradation of coral reefs, which will be accelerated by climate change, jeopardizes the goods and services that tropical nations derive from reef ecosystems. However, climate change impacts to reef social–ecological systems can also be bi-directional. For example, some climate impacts, such as storms and sea level rise, can directly impact societies, with repercussions for how they interact with the environment. This study identifies the multiple impact pathways within coral reef social–ecological systems arising from four key climatic drivers: increased sea surface temperature, severe tropical storms, sea level rise and ocean acidification. We develop a novel framework for investigating climate change impacts in social–ecological systems, which helps to highlight the diverse impacts that must be considered in order to develop a more complete understanding of the impacts of climate change, as well as developing appropriate management actions to mitigate climate change impacts on coral reef and people.
+
+SOURCE: Regional environmental change
+PDF URL: None
+CITED BY COUNT: 42
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Climate change', 'Coral reef', 'Resilience of coral reefs', 'Coral bleaching', 'Ocean acidification', 'Reef', 'Ecology', 'Global warming', 'Ecosystem', 'Global change', 'Effects of global warming', 'Ecosystem services', 'Environmental resource management', 'Environmental science', 'Geography', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2012742294
+TITLE: Numerical Assessment of the Impacts of Potential Future Sea‐Level Rise on Hydrodynamics of the Yangtze River Estuary, China
+AUTHOR: ['Chunxiang Kuang', 'Wei Chen', 'Jie Gu', 'David Z. Zhu', 'Lulu He', 'Hongcheng Huang', 'Chunxiang Kuang', 'Wei Chen', 'Jie Gu', 'David Z. Zhu', 'Lulu He', 'Hongcheng Huang']
+ABSTRACT:
+Kuang, C.; Chen, W.; Gu, J.; Zhu, D.Z.; He, L., and Huang, H., 2014. Numerical assessment of the impacts of potential future sea‐level rise on hydrodynamics of the Yangtze River Estuary, China. Recent research suggests that sea levels are rising even faster than projected by the Intergovernmental Panel on Climate Change (IPCC). Under a sea level rise (SLR) scenario, estuarine and coastal areas would be affected first. In this paper, the effects on the Yangtze River Estuary (YRE) by potential future SLR are studied using a hydrodynamic (MIKE21) model. The model is calibrated with field data. Scenarios of 0.5, 1, and 2 m SLR in the flood season are simulated with the calibrated model. The predicted results show that under SLR (1) the tidal level of the YRE increases and its increase rate decreases gradually upstream along the channel; (2) the tidal wave propagates at a faster speed upstream, which leads to the advancement of a tidal limit and tidal current limit to the upstream; (3) the increases in flood and ebb velocities occur around the Nanhui Tidal Flat, the Hengsha Eastern Shoal, the Jiuduansha Shoal, the upper reach of the North Branch, the North Channel, the South Channel, the South Branch, and the “South Branch above”; the ebb velocity decreases in the North Passage and the South Passage; and the flood and ebb velocity in shoals have the highest increasing rate; and (4) the ebb discharge of the North Branch has the highest increasing rate, with the ebb flow split ratio increasing up to almost 5% under the 2 m SLR scenario. Hence, SLR will reduce the protective capacity of embankments and may aggravate erosion in shoals, which is not good for maintenance of the Deepwater Navigation Channel and formation of potential land resources in the YRE.
+
+SOURCE: Journal of coastal research
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Shoal', 'Estuary', 'Flood myth', 'Oceanography', 'Current (fluid)', 'Channel (broadcasting)', 'Environmental science', 'Hydrology (agriculture)', 'Geology', 'Yangtze river', 'China', 'Geography', 'Archaeology', 'Geotechnical engineering', 'Engineering', 'Electrical engineering']

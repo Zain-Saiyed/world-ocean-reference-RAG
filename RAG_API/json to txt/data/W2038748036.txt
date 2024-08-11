@@ -1,0 +1,12 @@
+ID: W2038748036
+TITLE: The occurrence and distribution of pharmaceutical compounds in the effluents of a major sewage treatment plant in Northern Taiwan and the receiving coastal waters
+AUTHOR: ['Tien-Hsi Fang', 'Fan‐Hua Nan', 'Tzong-Shean Chin', 'Huimin Feng']
+ABSTRACT:
+The pharmaceutical residues in waste water from the largest sewage treatment plant (STP) in Northern Taiwan and in seawater around the effluent discharged area were determined. An environmental risk assessment for the marine environment was conducted based on the environment risk quotient (ERQ). The concentrations of the analyzed compounds in STP influent and effluent were generally higher than those found in coastal seawater. Relatively higher values were found at the estuarine mouth and the discharged area, suggesting that the STP effluent is a point source. The removal efficiency and half life of the analyzed compounds were 6.3-46.8% and 3-18 days, respectively. The ERQ value theoretical calculation was generally greater than 1. However, when the measured concentrations replaced the predicated concentrations, the ERQ values were considerably lower than 1. Therefore, our results call for a re-evaluation of the risks posed by pharmaceuticals to coastal marine ecosystems in Northern Taiwan.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 117
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Effluent', 'Environmental science', 'Sewage', 'Distribution (mathematics)', 'Sewage treatment', 'Water resource management', 'Environmental engineering', 'Mathematical analysis', 'Mathematics']

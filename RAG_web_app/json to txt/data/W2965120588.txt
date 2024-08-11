@@ -1,0 +1,12 @@
+ID: W2965120588
+TITLE: Amid fields of rubble, scars, and lost gear, signs of recovery observed on seamounts on 30- to 40-year time scales
+AUTHOR: ['Amy R. Baco', 'E. Brendan Roark', 'Nicole B. Morgan']
+ABSTRACT:
+We report signs of recovery on protected seamounts on 30- to 40-year time scales.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/5/8/eaaw4513.full.pdf
+CITED BY COUNT: 34
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Rubble', 'Seamount', 'Scars', 'Geology', 'Forensic engineering', 'Computer science', 'Geotechnical engineering', 'Medicine', 'Surgery', 'Engineering', 'Oceanography']

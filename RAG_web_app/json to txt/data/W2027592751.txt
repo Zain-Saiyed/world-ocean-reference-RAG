@@ -1,0 +1,12 @@
+ID: W2027592751
+TITLE: Speaking up: Killer whales (<i>Orcinus orca</i>) increase their call amplitude in response to vessel noise
+AUTHOR: ['Marla M. Holt', 'Dawn P. Noren', 'Val Veirs', 'Candice K. Emmons', 'Scott Veirs']
+ABSTRACT:
+This study investigated the effects of anthropogenic sound exposure on the vocal behavior of free-ranging killer whales. Endangered Southern Resident killer whales inhabit areas including the urban coastal waters of Puget Sound near Seattle, WA, where anthropogenic sounds are ubiquitous, particularly those from motorized vessels. A calibrated recording system was used to measure killer whale call source levels and background noise levels (1-40 kHz). Results show that whales increased their call amplitude by 1 dB for every 1 dB increase in background noise levels. Furthermore, nearby vessel counts were positively correlated with these observed background noise levels.
+
+SOURCE: The Journal of the Acoustical Society of America/The journal of the Acoustical Society of America
+PDF URL: https://asa.scitation.org/doi/pdf/10.1121/1.3040028
+CITED BY COUNT: 225
+PUBLICATION YEAR: 2008
+TYPE: article
+CONCEPTS: ['Whale', 'Noise (video)', 'Ambient noise level', 'Sound (geography)', 'Acoustics', 'Environmental science', 'Endangered species', 'Bioacoustics', 'Background noise', 'Noise pollution', 'Noise exposure', 'Fishery', 'Biology', 'Ecology', 'Habitat', 'Physics', 'Audiology', 'Computer science', 'Noise reduction', 'Artificial intelligence', 'Image (mathematics)', 'Medicine', 'Hearing loss']

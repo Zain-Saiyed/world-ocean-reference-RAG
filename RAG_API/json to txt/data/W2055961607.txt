@@ -1,0 +1,12 @@
+ID: W2055961607
+TITLE: Population connectivity: recent advances and new perspectives
+AUTHOR: ['Johnathan Kool', 'Atte Moilanen', 'Eric A. Treml']
+ABSTRACT:
+Connectivity is a vital component of metapopulation and landscape ecology, influencing fundamental processes such as population dynamics, evolution, and community responses to climate change. Here, we review ongoing developments in connectivity science, providing perspectives on recent advances in identifying, quantifying, modelling and analysing connectivity, and highlight new applications for conservation. We also address ongoing challenges for connectivity research, explore opportunities for addressing them and highlight potential linkages with other fields of research. Continued development of connectivity science will provide insights into key aspects of ecology and the evolution of species, and will also contribute significantly towards achieving more effective conservation outcomes.
+
+SOURCE: Landscape ecology
+PDF URL: None
+CITED BY COUNT: 271
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Metapopulation', 'Landscape ecology', 'Ecology', 'Climate change', 'Population', 'Conservation biology', 'Environmental resource management', 'Geography', 'Biology', 'Sociology', 'Habitat', 'Environmental science', 'Biological dispersal', 'Demography']

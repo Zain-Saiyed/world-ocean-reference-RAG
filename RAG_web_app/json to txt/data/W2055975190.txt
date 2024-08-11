@@ -1,0 +1,12 @@
+ID: W2055975190
+TITLE: Have we neglected the societal importance of sand dunes? An ecosystem services perspective
+AUTHOR: ['Mark Everard', 'Laurence Jones', 'Bill Watts']
+ABSTRACT:
+Abstract Coastal sand dunes are widespread worldwide, including around the coasts of the British Isles and Europe, providing a wide range of functions some of which are recognized for their socio‐economic benefits. In some localities, their contribution to coastal defence and to tourism and regional character have been acknowledged in local plans, but this is far from ubiquitous. A rapid assessment was undertaken of the range of ecosystem services provided by coastal sand dune systems, using the Millennium Ecosystem Assessment ecosystem services classification augmented with habitat‐ and locally‐appropriate additions. Sand dunes were shown to provide a wide range of provisioning, regulatory, cultural and supporting services, many of which remain substantially overlooked. Although the importance of coastal sand dune for a diversity of characteristic and often rare organisms from a variety of taxa has been addressed, many of the broader ecosystem services that these habitats provide to society have been overlooked. This suggests that coastal sand dune systems are neglected ecosystems of significant and often under‐appreciated societal value. Copyright © 2010 John Wiley &amp; Sons, Ltd.
+
+SOURCE: Aquatic conservation
+PDF URL: None
+CITED BY COUNT: 204
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Ecosystem', 'Tourism', 'Habitat', 'Provisioning', 'Sand dune stabilization', 'Geography', 'Environmental resource management', 'Range (aeronautics)', 'Ecology', 'Environmental science', 'Biology', 'Engineering', 'Telecommunications', 'Archaeology', 'Aerospace engineering']

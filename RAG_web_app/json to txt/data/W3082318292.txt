@@ -1,0 +1,12 @@
+ID: W3082318292
+TITLE: Responding to global warming: New fisheries management measures in the Arctic
+AUTHOR: ['Lis Lindal Jørgensen', 'Gunnstein Bakke', 'Alf Håkon Hoel']
+ABSTRACT:
+The northernmost commercial fisheries in the world take place in the northern Barents Sea up to around 80° N. This is an area where global warming is particularly intense and where large, previously ice-covered areas are now more accessible to fishing vessels. This raised questions whether existing conservation and management measures are adequate. In this paper, we discuss the process of developing new regulatory measures, including four large preliminary closed areas covering 442,022 km2 and an additional ten closed areas covering more than 3260 km2 that protects sites with biodiversity, specific to the region. The new measures, an amendment to an old regulation related to the management of impacts from bottom fisheries on ecosystems, is based on knowledge derived from more than 10 years of scientific surveys of the seabed ecology. A key finding here is that cost-efficient, large-scale mapping and monitoring of seabed ecosystems is important for the development of area-based regulations of fishing activities. In the process of developing the regulation the Directorate of Fisheries made its own analysis of the data from the scientific surveys by a novel approach using commercially available software. Such area-based measures also contribute to the achievement of Aichi target 11 and UN Sustainable Development Goal 14.5 on protecting maritime areas.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 12
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Fishing', 'Fishery', 'Fisheries management', 'Environmental resource management', 'Arctic', 'Marine protected area', 'Climate change', 'Biodiversity', 'Ecosystem', 'Global warming', 'Geography', 'Commercial fishing', 'Marine ecosystem', 'Fisheries science', 'Sustainable management', 'Oceanography', 'Environmental science', 'Sustainability', 'Ecology', 'Habitat', 'Geology', 'Biology']

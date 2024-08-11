@@ -1,0 +1,12 @@
+ID: W2750631453
+TITLE: Future Reef Growth Can Mitigate Physical Impacts of Sea‐Level Rise on Atoll Islands
+AUTHOR: ['Edward Beetham', 'Paul S. Kench', 'Stéphane Popinet']
+ABSTRACT:
+Abstract We present new detail on how future sea‐level rise (SLR) will modify nonlinear wave transformation processes, shoreline wave energy, and wave driven flooding on atoll islands. Frequent and destructive wave inundation is a primary climate‐change hazard that may render atoll islands uninhabitable in the near future. However, limited research has examined the physical vulnerability of atoll islands to future SLR and sparse information are available to implement process‐based coastal management on coral reef environments. We utilize a field‐verified numerical model capable of resolving all nonlinear wave transformation processes to simulate how future SLR will modify wave dissipation and overtopping on Funafuti Atoll, Tuvalu, accounting for static and accretionary reef adjustment morphologies. Results show that future SLR coupled with a static reef morphology will not only increase shoreline wave energy and overtopping but will fundamentally alter the spectral composition of shoreline energy by decreasing the contemporary influence of low‐frequency infragravity waves. “ Business‐as‐usual ” emissions (RCP 8.5) will result in annual wave overtopping on Funafuti Atoll by 2030, with overtopping at high tide under mean wave conditions occurring from 2090. Comparatively, vertical reef accretion in response to SLR will prevent any significant increase in shoreline wave energy and mitigate wave driven flooding volume by 72%. Our results provide the first quantitative assessment of how effective future reef accretion can be at mitigating SLR‐associated flooding on atoll islands and endorse active reef conservation and restoration for future coastal protection.
+
+SOURCE: Earth's future
+PDF URL: None
+CITED BY COUNT: 54
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Atoll', 'Reef', 'Shore', 'Flooding (psychology)', 'Accretion (finance)', 'Coastal flood', 'Geology', 'Oceanography', 'Coral reef', 'Environmental science', 'Coastal hazards', 'Climate change', 'Sea level rise', 'Physics', 'Psychology', 'Astrophysics', 'Psychotherapist']

@@ -1,0 +1,12 @@
+ID: W2155790957
+TITLE: Sagitta friderici Ritter-Záhony (Chaetognatha) from South Atlantic waters: abundance, population structure, and life cycle
+AUTHOR: ['María Cristina Daponte', 'Fabiana L. Capitanio', 'Daniel E. Nahabedian', 'María Delia Viñas', 'Rubén M. Negri']
+ABSTRACT:
+Abstract The life cycle of Sagitta friderici, a neritic species from Pacific, Atlantic, and Mediterranean waters, has been poorly studied. Aiming at increasing our knowledge of this species in the Argentine Sea, the size structure, dry weight, distribution of maturity stages (ovarian, testicular, and seminal vesicles development), and life-cycle duration were studied from samples obtained at a permanent station (EPEA STATION, 38°28′S 57°41′W) from 9 March 2000 to 10 April 2001. The almost permanent presence of juveniles and the extended period during which mature adults (stage III) were detected suggest that reproduction occurs continuously with two main peaks, the main one in the summer (December–February) and a lesser one in the fall (April–May). Significant (p&lt;0.05) inverse correlations between water temperature and the mean size of stages 0 (juveniles), I, and II were found in this data set. Owing to the influence of temperature, those individuals that develop during the warm season and mature in the fall attain smaller sizes (7.6–12.4 mm) than those that develop during the coldest period of the year and mature in the spring (10.0–15.2 mm). The life-cycle duration is approximately 15 months, and the growth rate ca. 0.03 mm d−1. The weight increase as a function of individual size was similar in the fall and in the spring (Fisher Test, p&gt;0.05).
+
+SOURCE: ICES journal of marine science
+PDF URL: https://academic.oup.com/icesjms/article-pdf/61/4/680/29122791/61-4-680.pdf
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2004
+TYPE: article
+CONCEPTS: ['Sagitta', 'Reproduction', 'Abundance (ecology)', 'Population', 'Animal science', 'Biology', 'Annual cycle', 'Ecology', 'Fishery', 'Demography', 'Otolith', 'Sociology', 'Fish <Actinopterygii>']

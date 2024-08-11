@@ -1,0 +1,12 @@
+ID: W2939158413
+TITLE: Securing a Just Space for Small-Scale Fisheries in the Blue Economy
+AUTHOR: ['Philippa J. Cohen', 'Edward H. Allison', 'Neil Andrew', 'Joshua E. Cinner', 'Louisa Evans', 'Michael Fabinyi', 'Len R. Garcés', 'Stephen J. Hall', 'Christina C. Hicks', 'Terry P. Hughes', 'Svein Jentoft', 'David J. Mills', 'Rosalie Masu', 'Emmanuel K. Mbaru', 'Blake D. Ratner']
+ABSTRACT:
+The vast development opportunities offered by the world’s coasts and oceans have attracted the attention of governments, private enterprises, philanthropic organizations and international conservation organizations. High-profile dialogue and policy decisions on ocean futures are informed largely by economic and ecological research. Key insights from the social sciences raise concerns for food and nutrition security, livelihoods and social justice but these have yet to gain traction with investors and the policy discourse on transforming ocean governance. The largest group of ocean-users – women and men who service, fish and trade from small-scale fisheries – argue they have been marginalized from dialogue between international environmental and economic actors determining strategies for ocean futures. Blue Economy or Blue Growth initiatives see the ocean as the new economic frontier and imply there is alignment with social objectives and small-scale fisheries concerns. Deeper analysis reveals fundamental differences in ideologies, priorities and approaches. We argue that small-scale fisheries are being subtly and overtly squeezed for geographic, political and economic space by larger scale economic and environmental conservation interests, jeopardizing the substantial benefits small-scale fisheries provide through livelihoods of millions of women and men, food for around four billion consumers globally, and in the developing world, a key source of micro-nutrients and protein for over a billion low-income consumers. Here we bring insights from social science and small-scale fisheries to explore how ocean governance might better account for social dimensions of fisheries.
+
+SOURCE: Frontiers in marine science
+PDF URL: https://www.frontiersin.org/articles/10.3389/fmars.2019.00171/pdf
+CITED BY COUNT: 227
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Livelihood', 'Food security', 'Corporate governance', 'Fishery', 'Scale (ratio)', 'Fisheries law', 'Futures contract', 'Politics', 'Fisheries management', 'Fishing', 'Business', 'Political science', 'Geography', 'Agriculture', 'Finance', 'Biology', 'Cartography', 'Archaeology', 'Law']

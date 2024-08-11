@@ -1,0 +1,12 @@
+ID: W1968189765
+TITLE: Spatial and temporal variability of carbon dioxide and methane fluxes over semi-diurnal and spring–neap–spring timescales in a mangrove creek
+AUTHOR: ['Mitchell Call', 'Damien T. Maher', 'Isaac R. Santos', 'Sergio Ruíz‐Halpern', 'Perrine Mangion', 'Christian J. Sanders', 'Dirk V. Erler', 'Joanne M. Oakes', 'Judith A. Rosentreter', 'Rachel Murray', 'Bradley D. Eyre']
+ABSTRACT:
+Automated in situ instrumentation captured high-resolution surface water pCO2, CH4 and 222Rn data at the creek mouth, and ∼500 m upstream in a sub-tropical mangrove ecosystem (Southern Moreton Bay, Australia, S27.78°, E153.38°) over a spring-neap-spring tidal cycle (∼15 days) during November 2013. The partial pressure of CO2 (pCO2) ranged from 385 to 26,106 μatm, CH4 from 1.8 to 889 nM, and 222Rn from 280 to 108,172 dpm m−3. Average surface water pCO2, CH4 and 222Rn were 4-fold higher at the upstream station. Surface water fluxes of CO2 and CH4 ranged from 9.4 to 629.2 mmol CO2 m−2 d−1 and 13.1 to 632.9 μmol CH4 m−2 d−1 depending upon the gas transfer model used and station location. Creek pCO2, CH4 and 222Rn displayed changes over both semi-diurnal and spring–neap–spring tidal scales. Semi-diurnally, all gases had a significant inverse relationship with water depth. Over the spring–neap–spring cycle, all gases exhibited an inverse relationship with tidal amplitude, with higher values during neap tides than spring tides. Estimated fluxes, porewater observations, and the significant positive relationship between surface water pCO2 and CH4, and 222Rn suggests groundwater exchange (i.e., tidal pumping) drives pCO2 and CH4 within the mangrove creek. We hypothesize that a combination of hourly and weekly groundwater–surface water exchange processes drive surface water pCO2 and CH4 in mangrove creeks. Semi-diurnally, flushing of crab burrows leads to high pCO2 and CH4 concentrations at low tide. During the spring–neap–spring cycle, older groundwater enriched in CO2, CH4 and 222Rn seeps into the creek as tidal amplitude decreases, leading to higher concentrations at neap tides.
+
+SOURCE: Geochimica et cosmochimica acta
+PDF URL: None
+CITED BY COUNT: 169
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Spring (device)', 'Environmental science', 'Hydrology (agriculture)', 'Mangrove', 'Surface water', 'Carbon dioxide', 'Groundwater', 'Methane', 'Bay', 'Oceanography', 'Atmospheric sciences', 'Geology', 'Ecology', 'Biology', 'Mechanical engineering', 'Geotechnical engineering', 'Engineering', 'Environmental engineering']

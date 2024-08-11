@@ -1,0 +1,12 @@
+ID: W4235482437
+TITLE: Tourism
+AUTHOR: ['Erich Hoyt']
+ABSTRACT:
+Marine mammal tourism is a popular segment of the marine tourism industry focused on the more than 130 species of cetaceans, sirenians, pinnipeds, otters, and the polar bear. Marine mammal tourism is a sister category to bird, shark and other wildlife watching by the shore or at sea, and it offers substantial socioeconomic benefits for coastal communities. These activities, because of their focus on charismatic animals, can help to educate and attract human interest toward protecting marine wildlife and their habitats while at the same time having the potential for disturbance and long-term detrimental effects to the very species that are being watched. Marine mammal tourism can be for recreational, educational and/or scientific purposes (sometimes all three). The largest component of marine mammal tourism is taken up by the whale watching industry. Well managed, sustainable marine mammal tourism begins with a government policy protective of marine mammals and their habitats with a regulatory and enforcement regime to control the numbers of operators and boats on the water and to limit the closeness of their approach and the amount of time they spend with marine mammals.
+
+SOURCE: Elsevier eBooks
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2018
+TYPE: book-chapter
+CONCEPTS: ['Marine mammal', 'Tourism', 'Wildlife', 'Geography', 'Habitat', 'Ecotourism', 'Wildlife tourism', 'Fishery', 'Ecology', 'Environmental planning', 'Biology', 'Archaeology']

@@ -1,0 +1,12 @@
+ID: W2515150038
+TITLE: Benefits, costs and taxonomic distribution of marine phytoplankton body size
+AUTHOR: ['Ulrich Sommer', 'Evangelia Charalampous', 'Savvas Genitsaris', 'Maria Moustaka‐Gouni']
+ABSTRACT:
+Phytoplankton cell or colony sizes range from <1 µm to several cm, i.e. 4–5 orders of magnitude in linear dimensions, which is roughly equivalent to the log-size span within terrestrial vegetation. It is commonplace to assume that smaller phytoplankton have an advantage in growth related traits while larger ones are more resistant to losses. However, the current state of literature calls for a more differentiated view. It is still controversial, whether smaller phytoplankton have higher maximal growth rates (µmax) or if there is a peak of µmax at intermediate size (102 µm3 cell volume). Smaller phytoplankton have an advantage in nutrient acquisition at low concentrations while larger phytoplankton have an advantage in utilizing nutrient pulses and exploiting vertical gradients. At equal density, larger phytoplankton experience bigger sinking losses. Small phytoplankton (<5–10 µm) are more affected mostly from grazing by protists and tunicates, while larger phytoplankton are more affected by copepod and krill grazing. Size spectra within the most important higher taxa show some conspicuous differences between marine and lake phytoplankton, e.g. the absence of very large diatoms (>105 µm3) in lake phytoplankton and the absence of large (>103 µm3) green algae in marine plankton. Overall, size is one of the most important traits for the performance of phytoplankton, but it is overly simplistic to equate small size with metabolic advantages.
+
+SOURCE: Journal of plankton research
+PDF URL: https://academic.oup.com/plankt/article-pdf/39/3/494/17630296/fbw071.pdf
+CITED BY COUNT: 60
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Phytoplankton', 'Plankton', 'Biology', 'Copepod', 'Algae', 'Range (aeronautics)', 'Ecology', 'Oceanography', 'Nutrient', 'Environmental science', 'Crustacean', 'Geology', 'Materials science', 'Composite material']

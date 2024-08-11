@@ -1,0 +1,12 @@
+ID: W2122511023
+TITLE: Robust Responses of the Hydrological Cycle to Global Warming
+AUTHOR: ['Isaac M. Held', 'Brian J. Soden']
+ABSTRACT:
+Abstract Using the climate change experiments generated for the Fourth Assessment of the Intergovernmental Panel on Climate Change, this study examines some aspects of the changes in the hydrological cycle that are robust across the models. These responses include the decrease in convective mass fluxes, the increase in horizontal moisture transport, the associated enhancement of the pattern of evaporation minus precipitation and its temporal variance, and the decrease in the horizontal sensible heat transport in the extratropics. A surprising finding is that a robust decrease in extratropical sensible heat transport is found only in the equilibrium climate response, as estimated in slab ocean responses to the doubling of CO2, and not in transient climate change scenarios. All of these robust responses are consequences of the increase in lower-tropospheric water vapor.
+
+SOURCE: Journal of climate
+PDF URL: None
+CITED BY COUNT: 3832
+PUBLICATION YEAR: 2006
+TYPE: article
+CONCEPTS: ['Climatology', 'Environmental science', 'Extratropical cyclone', 'Climate change', 'Climate model', 'Sensible heat', 'Precipitation', 'Troposphere', 'Water cycle', 'Latent heat', 'Atmospheric sciences', 'Diurnal cycle', 'Global warming', 'Convection', 'Meteorology', 'Geology', 'Geography', 'Ecology', 'Oceanography', 'Biology']

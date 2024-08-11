@@ -1,0 +1,12 @@
+ID: W2792864618
+TITLE: Marine environment microfiber contamination: Global patterns and the diversity of microparticle origins
+AUTHOR: ['Abigail P.W. Barrows', 'Sara E. Cathey', 'Christopher W. Petersen']
+ABSTRACT:
+Microplastic and microfiber pollution has been documented in all major ocean basins. Microfibers are one of the most common microparticle pollutants along shorelines. Over 9 million tons of fibers are produced annually; 60% are synthetic and ∼25% are non-synthetic. Non-synthetic and semi-synthetic microfibers are infrequently documented and not typically included in marine environment impact analyses, resulting in underestimation of a potentially pervasive and harmful pollutant. We present the most extensive worldwide microparticle distribution dataset using 1-liter grab samples (n = 1393). Our citizen scientist driven study shows a global microparticle average of 11.8 ± 24.0 particles L-1 (mean ± SD), approximately three orders of magnitude higher than global model predictions. Open ocean samples showed consistently higher densities than coastal samples, with the highest concentrations found in the polar oceans (n = 51), confirming previous empirical and theoretical studies. Particles were predominantly microfibers (91%) and 0.1-1.5 mm in length (77%), a smaller size than those captured in the majority of surface studies. Using μFT-IR we determined the material types of 113 pieces; 57% were classified as synthetic, 12% as semi-synthetic, and 31% as non-synthetic. Samples were taken globally, including from coastal environments and understudied ocean regions. Some of these sites are emerging as areas of concentrated floating plastic and anthropogenic debris, influenced by distant waste mismanagement and/or deposition of airborne particles. Incorporation of smaller-sized microfibers in oceanographic models, which has been lacking, will help us to better understand the movement and transformation of synthetic, semi-synthetic and non-synthetic microparticles in regional seas and ocean basins.
+
+SOURCE: Environmental pollution
+PDF URL: None
+CITED BY COUNT: 332
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Microfiber', 'Environmental science', 'Microparticle', 'Microplastics', 'Pollution', 'Pollutant', 'Contamination', 'Oceanography', 'Environmental chemistry', 'Geology', 'Materials science', 'Chemistry', 'Ecology', 'Chemical engineering', 'Biology', 'Composite material', 'Engineering']

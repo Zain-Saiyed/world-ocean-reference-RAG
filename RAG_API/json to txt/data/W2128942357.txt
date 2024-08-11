@@ -1,0 +1,12 @@
+ID: W2128942357
+TITLE: What lies underneath: Conserving the oceans’ genetic resources
+AUTHOR: ['Jesús M. Arrieta', 'Sophie Arnaud‐Haond', 'Carlos M. Duarte']
+ABSTRACT:
+The marine realm represents 70% of the surface of the biosphere and contains a rich variety of organisms, including more than 34 of the 36 living phyla, some of which are only found in the oceans. The number of marine species used by humans is growing at unprecedented rates, including the rapid domestication of marine species for aquaculture and the discovery of natural products and genes of medical and biotechnological interest in marine biota. The rapid growth in the human appropriation of marine genetic resources (MGRs), with over 18,000 natural products and 4,900 patents associated with genes of marine organisms, with the latter growing at 12% per year, demonstrates that the use of MGRs is no longer a vision but a growing source of biotechnological and business opportunities. The diversification of the use of marine living resources by humans calls for an urgent revision of the goals and policies of marine protected areas, to include the protection of MGRs and address emerging issues like biopiracy or benefit sharing. Specific challenges are the protection of these valuable resources in international waters, where no universally accepted legal framework exists to protect and regulate the exploitation of MGRs, and the unresolved issues on patenting components of marine life. Implementing steps toward the protection of MGRs is essential to ensure their sustainable use and to support the flow of future findings of medical and biotechnological interest.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: https://www.pnas.org/content/pnas/107/43/18318.full.pdf
+CITED BY COUNT: 121
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Marine life', 'Marine conservation', 'Biodiversity', 'Marine protected area', 'Sustainability', 'Marine reserve', 'Phylum', 'Business', 'Biosphere', 'Natural resource', 'Fishing', 'Environmental resource management', 'Biota', 'Bioprospecting', 'Natural resource economics', 'Biology', 'Environmental planning', 'Ecology', 'Geography', 'Habitat', 'Environmental science', 'Economics', 'Genetics', 'Bacteria']

@@ -1,0 +1,12 @@
+ID: W2745485346
+TITLE: The Expanding Role of Traceability in Seafood: Tools and Key Initiatives
+AUTHOR: ['Sara G. Lewis', 'Mariah Boyle']
+ABSTRACT:
+In the last decade, a range of drivers within the seafood sector have incentivized the application of traceability to issues beyond food safety and inventory management. Some of the issues motivating the expanded use of traceability within the global seafood sector include: increased media attention on the legal and social risks within some seafood supply chains, governmental traceability requirements, private-sector sustainability commitments, and others. This article begins with an overview of these topics in the seafood industry, and why many nongovernment organizations (NGOs), companies, and government actors have turned to traceability as a tool to address them. We discuss how traceability connects to key requirements of environmental sustainability and social responsibility. Later, we review the range of traceability services, tools, software solutions, and the due diligence measures that are currently being leveraged within the seafood sector. The paper concludes with a discussion of several NGO- and industry-led traceability initiatives that are examples of seafood traceability improvements.
+
+SOURCE: Journal of food science
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1750-3841.13743
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Traceability', 'Sustainability', 'Business', 'Government (linguistics)', 'Due diligence', 'Requirements traceability', 'Key (lock)', 'Risk analysis (engineering)', 'Environmental resource management', 'Process management', 'Engineering', 'Software', 'Computer science', 'Computer security', 'Economics', 'Software development', 'Finance', 'Ecology', 'Linguistics', 'Philosophy', 'Software engineering', 'Biology', 'Programming language', 'Requirement']

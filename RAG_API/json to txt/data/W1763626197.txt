@@ -1,0 +1,12 @@
+ID: W1763626197
+TITLE: Island morphology, reef resources, and development paths in the Maldives
+AUTHOR: ['Alexander K. Naylor']
+ABSTRACT:
+Maldivian paths for economic development have historically been constrained by the morphology of atoll islands and the availability of material resources. These constraints are most evident when examining the development of Male’, the Maldives’ capital and most populous island. Before the 1970s, Male’ was a rather typical atoll island, consisting of accumulated rubble and sand with an underlying lagoonal reef (faro) structure. Rising population and standard-of-living expectations in Male’ led to accelerated coral mining of Male’s reefs in the 1970s and 80s for both landfill and construction material, extending the island’s land surface across Male’s lagoon and reef flats, close to the edge of its underlying faro. This combination of mining and fill degraded the island’s natural defenses against wave events, resulting in disastrous floods in April 1987 and the fortification of the coastline with seawalls shortly thereafter. The degree of degradation to natural defenses and amount of investment in urban building stock have jointly locked Male’ into a “hard path” for coastal resilience engineering, and both the damage patterns and response to the 2004 Indian Ocean tsunami demonstrate that the Male’ model of development and degradation has spread to smaller Maldivian islands. While hard measures have proven successful in preventing further damage, their expense has led to greater interest in “soft path,” ecosystem-based resilience measures. The degree of local ecosystem damage, combined with high vulnerability to climate change and Male’s continued growth, means that such measures can only be seen as supplements to heavier fortification in the future, including raised (Th. Vilufushi) or artificial islands (Hulhumale’). The intersecting role hydrological stress on Maldivian groundwater has played in Male’s development path is also discussed.
+
+SOURCE: Progress in physical geography
+PDF URL: None
+CITED BY COUNT: 35
+PUBLICATION YEAR: 2015
+TYPE: article
+CONCEPTS: ['Atoll', 'Coral reef', 'Reef', 'Geography', 'Rubble', 'Population', 'Ecosystem', 'Ecology', 'Fishery', 'Biology', 'Demography', 'Archaeology', 'Sociology']

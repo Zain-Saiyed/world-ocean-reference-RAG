@@ -1,0 +1,12 @@
+ID: W2108274925
+TITLE: Observed decline of the Atlantic meridional overturning circulation 2004–2012
+AUTHOR: ['David A. Smeed', 'Gerard McCarthy', 'Stuart A. Cunningham', 'Eleanor Frajka‐Williams', 'D. Rayner', 'William E. Johns', 'Christopher S. Meinen', 'Molly O. Baringer', 'Ben Moat', 'Aurélie Duchez', 'Harry L. Bryden']
+ABSTRACT:
+Abstract. The Atlantic meridional overturning circulation (AMOC) has been observed continuously at 26° N since April 2004. The AMOC and its component parts are monitored by combining a transatlantic array of moored instruments with submarine-cable-based measurements of the Gulf Stream and satellite derived Ekman transport. The time series has recently been extended to October 2012 and the results show a downward trend since 2004. From April 2008 to March 2012, the AMOC was an average of 2.7 Sv (1 Sv = 106 m3 s−1) weaker than in the first four years of observation (95% confidence that the reduction is 0.3 Sv or more). Ekman transport reduced by about 0.2 Sv and the Gulf Stream by 0.5 Sv but most of the change (2.0 Sv) is due to the mid-ocean geostrophic flow. The change of the mid-ocean geostrophic flow represents a strengthening of the southward flow above the thermocline. The increased southward flow of warm waters is balanced by a decrease in the southward flow of lower North Atlantic deep water below 3000 m. The transport of lower North Atlantic deep water slowed by 7% per year (95% confidence that the rate of slowing is greater than 2.5% per year).
+
+SOURCE: Ocean science
+PDF URL: https://os.copernicus.org/articles/10/29/2014/os-10-29-2014.pdf
+CITED BY COUNT: 281
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Geology', 'Ekman transport', 'Geostrophic wind', 'Oceanography', 'Gulf Stream', 'Thermocline', 'Thermohaline circulation', 'North Atlantic Deep Water', 'Climatology', 'Ocean current', 'Shutdown of thermohaline circulation', 'Upwelling']

@@ -1,0 +1,12 @@
+ID: W2755210001
+TITLE: Ecotourism, climate change and reef fish consumption in Palau: Benefits, trade-offs and adaptation strategies
+AUTHOR: ['Colette C.C. Wabnitz', 'Andrés M. Cisneros‐Montemayor', 'Quentin Hanich', 'Yoshitaka Ota']
+ABSTRACT:
+Marine ecosystems play a central role in economic and social life in the Republic of Palau, a Small Island Developing State in the Western Pacific. Marine resources underpin subsistence and commercial fisheries, as well as tourism activities, contributing substantially to Palau's GDP and employment. Since 1992, Palau has been actively developing conservation initiatives to protect marine resources, promote ecotourism, and ensure revenue generation. Marine reserves represent a particularly important tool in the country's sustainable development strategy. In 2015, Palau designated 80% of its marine EEZ as a National Marine Sanctuary, with the remaining 20% slated for domestic fisheries. That same year, Palau received 160 thousand tourists, over 9 times the country's population. In early 2017, the President proposed a bill effectively limiting budget travel and actively promoting high-end tourism. This study uses a quantitative social-ecological model to explore policy scenarios involving tourism, marine conservation and local food security. While climate change had the largest expected impact on local ecosystems, reef fish consumption contributes considerably to future projected declines in marine resources. Therefore, for Palau to achieve its goals of boosting revenues while sustainably stewarding marine resources, it will be necessary to transfer some level of consumption from reef fish on to tuna and other pelagics. Such changes, which align with the current proposal of developing an offshore national fishery as part of the Sanctuary's management plan, may allow Palau to meet future seafood demand, while protecting reef systems and the industries that rely on them.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 58
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Marine conservation', 'Fishery', 'Marine protected area', 'Tourism', 'Sustainability', 'Marine ecosystem', 'Fishing', 'Business', 'Ecotourism', 'Geography', 'Ecosystem', 'Ecology', 'Archaeology', 'Biology', 'Habitat']

@@ -1,0 +1,12 @@
+ID: W2119832545
+TITLE: Microevolution and mega-icebergs in the Antarctic
+AUTHOR: ['Lara D. Shepherd', 'Craig D. Millar', 'Grant Ballard', 'David G. Ainley', 'Peter R. Wilson', 'Gwilym D. Haynes', 'Carlo Baroni', 'David M. Lambert']
+ABSTRACT:
+Microevolution is regarded as changes in the frequencies of genes in populations over time. Ancient DNA technology now provides an opportunity to demonstrate evolution over a geological time frame and to possibly identify the causal factors in any such evolutionary event. Using nine nuclear microsatellite DNA loci, we genotyped an ancient population of Adélie penguins ( Pygoscelis adeliae ) aged ≈6,000 years B.P. Subfossil bones from this population were excavated by using an accurate stratigraphic method that allowed the identification of individuals even within the same layer. We compared the allele frequencies in the ancient population with those recorded from the modern population at the same site in Antarctica. We report significant changes in the frequencies of alleles between these two time points, hence demonstrating microevolutionary change. This study demonstrates a nuclear gene-frequency change over such a geological time frame. We discuss the possible causes of such a change, including the role of mutation, genetic drift, and the effects of gene mixing among different penguin populations. The latter is likely to be precipitated by mega-icebergs that act to promote migration among penguin colonies that typically show strong natal return.
+
+SOURCE: Proceedings of the National Academy of Sciences of the United States of America
+PDF URL: None
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2005
+TYPE: article
+CONCEPTS: ['Microevolution', 'Pygoscelis', 'Population', 'Subfossil', 'Ancient DNA', 'Biology', 'Genetic drift', 'Population genetics', 'Evolutionary biology', 'Paleontology', 'Ecology', 'Genetics', 'Genetic variation', 'Gene', 'Demography', 'Holocene', 'Foraging', 'Sociology']

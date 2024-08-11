@@ -1,0 +1,12 @@
+ID: W2771569803
+TITLE: Natural hybridization in mangroves – an overview
+AUTHOR: ['P. Ragavan', 'Renchao Zhou', 'Wei Lun Ng', 'T. S. Rana', 'T. Mageswaran', 'P. M. Mohan', 'A. Saxena']
+ABSTRACT:
+Natural hybridization and its evolutionary significance in seven genera of mangrove species is reviewed and discussed. Overlapping geographical distributions, habitats and flowering time and shared pollinators are the major factors contributing to natural hybridization in mangroves. Natural hybrids in mangroves are often first recognized based on morphological inferences. This sometimes throws the identity and parentage of the natural hybrids into dispute due to plasticity in their morphology. Molecular methods have successfully confirmed the identities of some putative hybrids in mangroves. The hybrids are often simple F1s and have low pollen viability and seed germination. The restriction of most hybrids to F1s shows the existence of strong post-zygotic isolation between hybridizing species (i.e. F1 sterility or hybrid breakdown). However, the detection of introgression in Avicennia, Bruguiera, Ceriops and Rhizophora through recent molecular studies also indicates gene flow between species in mangroves. Since natural hybridization plays a significant role in evolution, more molecular studies are needed to test various evolutionary hypotheses in mangrove species, which will further contribute to better understanding and conservation of these organisms.
+
+SOURCE: Botanical journal of the Linnean Society
+PDF URL: None
+CITED BY COUNT: 13
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biology', 'Mangrove', 'Hybrid', 'Rhizophora', 'Introgression', 'Botany', 'Avicennia marina', 'Rhizophoraceae', 'Ecology', 'Evolutionary biology', 'Gene', 'Genetics']

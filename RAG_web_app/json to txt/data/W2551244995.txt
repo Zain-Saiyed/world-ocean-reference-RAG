@@ -1,0 +1,12 @@
+ID: W2551244995
+TITLE: Ocean acidification can mediate biodiversity shifts by changing biogenic habitat
+AUTHOR: ['Jennifer M. Sunday', 'Katharina Fabricius', 'Kristy J. Kroeker', 'Kathryn M. Anderson', 'Norah Brown', 'James Barry', 'Sean D. Connell', 'Sam Dupont', 'Brian Gaylord', 'Jason M. Hall‐Spencer', 'Terrie Klinger', 'Marco Milazzo', 'Philip L. Munday', 'Bayden D. Russell', 'Eric Sanford', 'Vengatesen Thiyagarajan', 'Megan L. H. Vaughan', 'Stephen Widdicombe', 'Christopher D. G. Harley']
+ABSTRACT:
+The effects of ocean acidification (OA) on the structure and complexity of coastal marine biogenic habitat have been broadly overlooked. Here we explore how declining pH and carbonate saturation may affect the structural complexity of four major biogenic habitats. Our analyses predict that indirect effects driven by OA on habitat-forming organisms could lead to lower species diversity in coral reefs, mussel beds and some macroalgal habitats, but increases in seagrass and other macroalgal habitats. Available in situ data support the prediction of decreased biodiversity in coral reefs, but not the prediction of seagrass bed gains. Thus, OA-driven habitat loss may exacerbate the direct negative effects of OA on coastal biodiversity; however, we lack evidence of the predicted biodiversity increase in systems where habitat-forming species could benefit from acidification. Overall, a combination of direct effects and community-mediated indirect effects will drive changes in the extent and structural complexity of biogenic habitat, which will have important ecosystem effects. How ocean acidification will impact coastal biogenic habitats is unclear. This study predicts that indirect effects on habitat-forming organisms, combined with direct effects on biodiversity, will cause changes in structural complexity and extent of these habitats.
+
+SOURCE: Nature climate change
+PDF URL: None
+CITED BY COUNT: 166
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Seagrass', 'Biodiversity', 'Habitat', 'Ocean acidification', 'Ecosystem', 'Ecology', 'Coral reef', 'Marine habitats', 'Environmental science', 'Reef', 'Climate change', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2734696605
+TITLE: From shared socio-economic pathways (SSPs) to oceanic system pathways (OSPs): Building policy-relevant scenarios for global oceanic ecosystems and fisheries
+AUTHOR: ['Olivier Maury', 'Liam Campling', 'Haritz Arrizabalaga', 'Olivier Aumont', 'Laurent Bopp', 'Gorka Merino', 'Dale Squires', 'William W. L. Cheung', 'M. Goujon', 'Céline Guivarch', 'Stelly Lefort', 'Francis Marsac', 'Pedro Pablo Chevalier Monteagudo', 'Raghu Murtugudde', 'Henrik Österblom', 'Jean-François Pulvenis', 'Y. Ye', 'Bas van Ruijven']
+ABSTRACT:
+There is an urgent need for developing policy-relevant future scenarios of biodiversity and ecosystem services. This paper is a milestone toward this aim focusing on open ocean fisheries. We develop five contrasting Oceanic System Pathways (OSPs), based on the existing five archetypal worlds of Shared Socioeconomic Pathways (SSPs) developed for climate change research (e.g., Nakicenovic et al., 2014 and Riahi et al., 2016). First, we specify the boundaries of the oceanic social-ecological system under focus. Second, the two major driving forces of oceanic social-ecological systems are identified in each of three domains, viz., economy, management and governance. For each OSP (OSP1 “sustainability first”, OSP2 “conventional trends”, OSP3 “dislocation”, OSP4 “global elite and inequality”, OSP5 “high tech and market”), a storyline is outlined describing the evolution of the driving forces with the corresponding SSP. Finally, we compare the different pathways of oceanic social-ecological systems by projecting them in the two-dimensional spaces defined by the driving forces, in each of the economy, management and governance domains. We expect that the OSPs will serve as a common basis for future model-based scenario studies in the context of the Intergovernmental Panel on Climate Change (IPCC) and the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES).
+
+SOURCE: Global environmental change
+PDF URL: None
+CITED BY COUNT: 52
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Sustainability', 'Context (archaeology)', 'Corporate governance', 'Environmental resource management', 'Ecosystem services', 'Ecosystem-based management', 'Marine ecosystem', 'Ecosystem', 'Business', 'Ecology', 'Geography', 'Economics', 'Biology', 'Archaeology', 'Finance']

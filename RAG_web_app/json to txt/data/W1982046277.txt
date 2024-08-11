@@ -1,0 +1,12 @@
+ID: W1982046277
+TITLE: Characterization and Function of the First Antibiotic Isolated from a Vent Organism: The Extremophile Metazoan Alvinella pompejana
+AUTHOR: ['Aurélie Tasiemski', 'Sascha Jung', 'Céline Boidin‐Wichlacz', 'Didier Jollivet', 'Virginie Cuvillier-Hot', 'Florence Pradillon', 'Costantino Vetriani', 'Oliver Hecht', 'Frank D. Sönnichsen', 'Christoph Gelhaus', 'Chien‐Wen Hung', 'Andreas Tholey', 'Matthias Leippe', 'Joachim Grötzinger', 'Françoise Gaill']
+ABSTRACT:
+The emblematic hydrothermal worm Alvinella pompejana is one of the most thermo tolerant animal known on Earth. It relies on a symbiotic association offering a unique opportunity to discover biochemical adaptations that allow animals to thrive in such a hostile habitat. Here, by studying the Pompeii worm, we report on the discovery of the first antibiotic peptide from a deep-sea organism, namely alvinellacin. After purification and peptide sequencing, both the gene and the peptide tertiary structures were elucidated. As epibionts are not cultivated so far and because of lethal decompression effects upon Alvinella sampling, we developed shipboard biological assays to demonstrate that in addition to act in the first line of defense against microbial invasion, alvinellacin shapes and controls the worm's epibiotic microflora. Our results provide insights into the nature of an abyssal antimicrobial peptide (AMP) and into the manner in which an extremophile eukaryote uses it to interact with the particular microbial community of the hydrothermal vent ecosystem. Unlike earlier studies done on hydrothermal vents that all focused on the microbial side of the symbiosis, our work gives a view of this interaction from the host side.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0095737&type=printable
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Biology', 'Extremophile', 'Hydrothermal vent', 'Organism', 'Extreme environment', 'Ecology', 'Archaea', 'Model organism', 'Evolutionary biology', 'Microbiology', 'Zoology', 'Astrobiology', 'Gene', 'Bacteria', 'Genetics', 'Hydrothermal circulation', 'Microorganism', 'Paleontology']

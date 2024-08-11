@@ -1,0 +1,12 @@
+ID: W2413625889
+TITLE: Threatened by mining, polymetallic nodules are required to preserve abyssal epifauna
+AUTHOR: ['Ann Vanreusel', 'Ana Belén Ríos Hilario', 'Pedro A. Ribeiro', 'Lénaïck Menot', 'Pedro Martínez Arbizu']
+ABSTRACT:
+Abstract Polymetallic nodule mining at abyssal depths in the Clarion Clipperton Fracture Zone (Eastern Central Pacific) will impact one of the most remote and least known environments on Earth. Since vast areas are being targeted by concession holders for future mining, large-scale effects of these activities are expected. Hence, insight into the fauna associated with nodules is crucial to support effective environmental management. In this study video surveys were used to compare the epifauna from sites with contrasting nodule coverage in four license areas. Results showed that epifaunal densities are more than two times higher at dense nodule coverage (&gt;25 versus ≤10 individuals per 100 m 2 ) and that taxa such as alcyonacean and antipatharian corals are virtually absent from nodule-free areas. Furthermore, surveys conducted along tracks from trawling or experimental mining simulations up to 37 years old, suggest that the removal of epifauna is almost complete and that its full recovery is slow. By highlighting the importance of nodules for the epifaunal biodiversity of this abyssal area, we urge for cautious consideration of the criteria for determining future preservation zones.
+
+SOURCE: Scientific reports
+PDF URL: https://www.nature.com/articles/srep26808.pdf
+CITED BY COUNT: 229
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Abyssal plain', 'Abyssal zone', 'Nodule (geology)', 'Threatened species', 'Trawling', 'Albatross', 'Geology', 'Seabed', 'Oceanography', 'Fauna', 'Earth science', 'Fishery', 'Environmental science', 'Paleontology', 'Fishing', 'Ecology', 'Biology', 'Structural basin', 'Habitat']

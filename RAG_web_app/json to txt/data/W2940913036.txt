@@ -1,0 +1,12 @@
+ID: W2940913036
+TITLE: Drivers and impacts of water level fluctuations in the Mississippi River delta: Implications for delta restoration
+AUTHOR: ['Matthew Hiatt', 'Gregg A. Snedden', 'John W. Day', 'Robert V. Rohli', 'John A. Nyman', 'Robert R. Lane', 'Leigh Anne Sharp']
+ABSTRACT:
+This review synthesizes the knowledge regarding the environmental forces affecting water level variability in the coastal waters of the Mississippi River delta and relates these fluctuations to planned river diversions. Water level fluctuations vary significantly across temporal and spatial scales, and are subject to influences from river flow, tides, vegetation, atmospheric forcing, climate change, and anthropogenic activities. Human impacts have strongly affected water level variability in the Mississippi River delta and other deltas worldwide. Collectively, the research reviewed in this article is important for enhancing environmental, economic, and social resilience and sustainability by assessing, mitigating, and adapting to geophysical changes that will cascade to societal systems in the coming decades in the economically and environmentally important Mississippi River delta. Specifically, this information provides a context within which to evaluate the impacts of diversions on the hydrology of the Mississippi delta and creates a benchmark for the evaluation of the impact of water level fluctuations on coastal restoration projects worldwide.
+
+SOURCE: Estuarine, coastal and shelf science
+PDF URL: None
+CITED BY COUNT: 59
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Delta', 'River delta', 'Environmental science', 'Context (archaeology)', 'Forcing (mathematics)', 'Water level', 'Hydrology (agriculture)', 'Climate change', 'Streamflow', 'Sustainability', 'Vegetation (pathology)', 'Water resource management', 'Environmental resource management', 'Geography', 'Oceanography', 'Ecology', 'Climatology', 'Drainage basin', 'Geology', 'Cartography', 'Geotechnical engineering', 'Archaeology', 'Aerospace engineering', 'Medicine', 'Pathology', 'Biology', 'Engineering']

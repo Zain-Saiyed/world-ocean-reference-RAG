@@ -1,0 +1,12 @@
+ID: W2797541543
+TITLE: Longer and more frequent marine heatwaves over the past century
+AUTHOR: ['Eric C. J. Oliver', 'Markus G. Donat', 'Michael T. Burrows', 'Pippa J. Moore', 'Dan A. Smale', 'Lisa V. Alexander', 'Jessica A. Benthuysen', 'Ming Feng', 'Alex Sen Gupta', 'Alistair J. Hobday', 'Neil J. Holbrook', 'Sarah E. Perkins‐Kirkpatrick', 'Hillary A. Scannell', 'Sandra C. Straub', 'Thomas Wernberg']
+ABSTRACT:
+Abstract Heatwaves are important climatic extremes in atmospheric and oceanic systems that can have devastating and long-term impacts on ecosystems, with subsequent socioeconomic consequences. Recent prominent marine heatwaves have attracted considerable scientific and public interest. Despite this, a comprehensive assessment of how these ocean temperature extremes have been changing globally is missing. Using a range of ocean temperature data including global records of daily satellite observations, daily in situ measurements and gridded monthly in situ-based data sets, we identify significant increases in marine heatwaves over the past century. We find that from 1925 to 2016, global average marine heatwave frequency and duration increased by 34% and 17%, respectively, resulting in a 54% increase in annual marine heatwave days globally. Importantly, these trends can largely be explained by increases in mean ocean temperatures, suggesting that we can expect further increases in marine heatwave days under continued global warming.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-03732-9.pdf
+CITED BY COUNT: 1100
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Geography', 'Biology']

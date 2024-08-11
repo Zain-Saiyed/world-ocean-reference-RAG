@@ -1,0 +1,12 @@
+ID: W2066068569
+TITLE: Deep-sea sampling on CMarZ cruises in the Atlantic Ocean – an Introduction
+AUTHOR: ['Peter H. Wiebe', 'Ann Bucklin', 'Laurence P. Madin', 'Martín Angel', 'Tracey Sutton', 'Francesc Pagès', 'Russell R. Hopcroft', 'Dhugal J. Lindsay']
+ABSTRACT:
+The deep-sea zooplankton assemblage is hypothesized to have high species diversity, with low abundances of each species. However, even rare species may have huge population sizes and play a critical role in the dynamics of deep-sea environments. The Census of Marine Zooplankton (CMarZ) study sought to accurately assess zooplankton diversity in the mesopelagic and bathypelagic zones of the subtropical/tropical of the northwest and eastern sections of the Atlantic Ocean using integrated morphological and molecular analysis of large-volume samples to depths of 5,000 m. The field surveys in April 2006 and November 2007 included scientists and students associated with the CMarZ. The cruise field work entailed at-sea analysis of samples and identification of specimens by expert taxonomists, with at-sea DNA sequencing to determine a barcode (i.e., a short DNA sequence for species recognition) for selected species. Environmental data and zooplankton samples were collected with 1-m2 and 10-m2 opening/closing MOCNESS (0–1000 m and 1000–5000 m, respectively), and with either a 0.25-m2 MOCNESS or a 0.5-m2 Multi-net above 1000 m. More than 500 species were identified and more than 1000 specimens placed in a queue for barcoding on each cruise; several hundred species were barcoded at sea. For several taxonomic groups, a significant fraction of the region’s known species were collected and identified. For example, in the northwest Atlantic 93 of 140 known ostracod species for the Atlantic Ocean were collected, 6 undescribed species were found, and the first DNA barcode for a planktonic ostracod was obtained. The deployment of trawls with fine-mesh nets to sample large volumes at great depths for small zooplankton confirmed that there is considerable species diversity at depth, with more species yet to be discovered.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2010
+TYPE: article
+CONCEPTS: ['Mesopelagic zone', 'Zooplankton', 'DNA barcoding', 'Deep sea', 'Oceanography', 'Biology', 'Population', 'Bathyal zone', 'Fishery', 'Ecology', 'Geography', 'Pelagic zone', 'Geology', 'Demography', 'Sociology', 'Benthic zone']

@@ -1,0 +1,12 @@
+ID: W2033442581
+TITLE: Spreading of the Labrador Sea Water to the Irminger and Iceland basins
+AUTHOR: ['Igor Yashayaev', 'Manfred Bersch', 'Hendrik M. van Aken']
+ABSTRACT:
+Labrador Sea Water (LSW) is a principal convectively‐formed water mass of the subpolar North Atlantic (SPNA). Using extensive oceanographic archives we demonstrate striking changes in SPNA caused by massive LSW production during 1987–1994 and document recent salinification and warming, imminently bringing SPNA to the state last time seen in the 1960s. Two prominent LSW classes are spreading across SPNA since the 1980s. The first, record dense, deep, and voluminous, class has been progressively built by intense winter convection through 1987–1994. Even though most of this LSW has left SPNA, its remnants are still present there. The second, shallower, class strengthens in 2000; over subsequent years its core becomes slightly thicker and deepens. The anomalous signals acquired by these LSW classes in their formation region arrive in the Irminger and Iceland basins with the characteristic delays of two and five years for deeper LSW and a year and four years for shallower LSW.
+
+SOURCE: Geophysical research letters
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2006GL028999
+CITED BY COUNT: 126
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Geology', 'Oceanography', 'Water mass', 'Climatology']

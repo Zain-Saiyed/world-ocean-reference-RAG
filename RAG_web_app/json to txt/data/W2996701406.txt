@@ -1,0 +1,12 @@
+ID: W2996701406
+TITLE: Impulsive pile driving noise elicits alarm responses in squid (Doryteuthis pealeii)
+AUTHOR: ['Ian T. Jones', 'Jenni A. Stanley', 'T. Aran Mooney']
+ABSTRACT:
+Pile driving occurs during construction of marine platforms, including offshore windfarms, producing intense sounds that can adversely affect marine animals. We quantified how a commercially and economically important squid (Doryteuthis pealeii: Lesueur 1821) responded to pile driving sounds recorded from a windfarm installation within this species' habitat. Fifteen-minute portions of these sounds were played to 16 individual squid. A subset of animals (n = 11) received a second exposure after a 24-h rest period. Body pattern changes, inking, jetting, and startle responses were observed and nearly all squid exhibited at least one response. These responses occurred primarily during the first 8 impulses and diminished quickly, indicating potential rapid, short-term habituation. Similar response rates were seen 24-h later, suggesting squid re-sensitized to the noise. Increased tolerance of anti-predatory alarm responses may alter squids' ability to deter and evade predators. Noise exposure may also disrupt normal intraspecific communication and ecologically relevant responses to sound.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 25
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Squid', 'ALARM', 'Cephalopod', 'Habituation', 'Noise (video)', 'Predation', 'Biology', 'Environmental science', 'Zoology', 'Ecology', 'Neuroscience', 'Materials science', 'Image (mathematics)', 'Artificial intelligence', 'Computer science', 'Composite material']

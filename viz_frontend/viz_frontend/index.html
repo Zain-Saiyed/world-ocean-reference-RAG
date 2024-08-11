@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ocean Research Tool</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <svg width="850" height="1000"></svg>
+  
+  <!-- UI Elements -->
+  <div class="ui-container">
+    <label for="mode">Mode:</label>
+    <select id="mode">
+      <option value="chat">Chat</option>
+      <option value="summary">Summary</option>
+    </select>
+
+    <label for="model">Model:</label>
+    <select id="model">
+      <option value="llama3">Llama3</option>
+      <option value="phi3">Phi3</option>
+    </select>
+    <label for="user-query">Ask:</label>
+    <input type="text" id="user-query" placeholder="Enter your query here">
+    <button id="go-button">Go</button>
+  </div>
+
+  <!-- Loading Icon -->
+  <div class="loading-icon" id="loading-icon"></div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

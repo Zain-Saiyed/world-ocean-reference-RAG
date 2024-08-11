@@ -1,0 +1,12 @@
+ID: W2620898890
+TITLE: The economic contribution of the muck dive industry to tourism in Southeast Asia
+AUTHOR: ['Maarten De Brauwer', 'Euan S. Harvey', 'Jennifer L. McIlwain', 'Jean‐Paul A. Hobbs', 'Jamaluddin Jompa', 'Michael Burton']
+ABSTRACT:
+Scuba diving tourism has the potential to be a sustainable source of income for developing countries. Around the world, tourists pay significant amounts of money to see coral reefs or iconic, large animals such as sharks and manta rays. Scuba diving tourism is broadening and becoming increasingly popular, a novel type of scuba diving which little is known about, is muck diving. Muck diving focuses on finding rare, cryptic species that are seldom seen on coral reefs. This study investigates the value of muck diving, its participant and employee demographics and potential threats to the industry. Results indicate that muck dive tourism is worth more than USD$ 150 million annually in Indonesia and the Philippines combined. It employs over 2200 people and attracts more than 100,000 divers per year. Divers participating in muck dive tourism are experienced, well-educated, have high incomes, and are willing to pay for the protection of species crucial to the industry. Overcrowding of dive sites, pollution and conflicts with fishermen are reported as potential threats to the industry, but limited knowledge on these impacts warrants further research. This study shows that muck dive tourism is a sustainable form of nature based tourism in developing countries, particularly in areas where little or no potential for traditional coral reef scuba diving exists.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Muck', 'Tourism', 'Scuba diving', 'Reef', 'Business', 'Fishery', 'Geography', 'Ecology', 'Archaeology', 'Oceanography', 'Biology', 'Geology']

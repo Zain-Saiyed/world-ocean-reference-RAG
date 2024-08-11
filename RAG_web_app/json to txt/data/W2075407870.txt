@@ -1,0 +1,12 @@
+ID: W2075407870
+TITLE: How Can We Identify and Communicate the Ecological Value of Deep-Sea Ecosystem Services?
+AUTHOR: ['Niels Jobstvogt', 'Michael Townsend', 'Ursula Witte', 'Nick Hanley']
+ABSTRACT:
+Submarine canyons are considered biodiversity hotspots which have been identified for their important roles in connecting the deep sea with shallower waters. To date, a huge gap exists between the high importance that scientists associate with deep-sea ecosystem services and the communication of this knowledge to decision makers and to the wider public, who remain largely ignorant of the importance of these services. The connectivity and complexity of marine ecosystems makes knowledge transfer very challenging, and new communication tools are necessary to increase understanding of ecological values beyond the science community. We show how the Ecosystem Principles Approach, a method that explains the importance of ocean processes via easily understandable ecological principles, might overcome this challenge for deep-sea ecosystem services. Scientists were asked to help develop a list of clear and concise ecosystem principles for the functioning of submarine canyons through a Delphi process to facilitate future transfers of ecological knowledge. These ecosystem principles describe ecosystem processes, link such processes to ecosystem services, and provide spatial and temporal information on the connectivity between deep and shallow waters. They also elucidate unique characteristics of submarine canyons. Our Ecosystem Principles Approach was successful in integrating ecological information into the ecosystem services assessment process. It therefore has a high potential to be the next step towards a wider implementation of ecological values in marine planning. We believe that successful communication of ecological knowledge is the key to a wider public support for ocean conservation, and that this endeavour has to be driven by scientists in their own interest as major deep-sea stakeholders.
+
+SOURCE: PloS one
+PDF URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0100646&type=printable
+CITED BY COUNT: 39
+PUBLICATION YEAR: 2014
+TYPE: article
+CONCEPTS: ['Ecosystem services', 'Ecosystem', 'Environmental resource management', 'Submarine canyon', 'Marine ecosystem', 'Ecology', 'Ecosystem health', 'Ecosystem-based management', 'Geography', 'Environmental science', 'Canyon', 'Biology', 'Cartography']

@@ -1,0 +1,12 @@
+ID: W2734900266
+TITLE: Renewable energy and energy storage systems
+AUTHOR: ['A.G. Olabi']
+ABSTRACT:
+With the increase of the production of power/energy from renewables it becomes much important to look at methods and techniques to store this energy. In principle, the renewable energy can be transformed into another form of storable energy and to be transformed back when needed. The main Energy storage techniques can be classified as: 1) Magnetic systems: Superconducting Magnetic Energy Storage, 2) Electrochemical systems: Batteries, fuel cells, Super-capacitors, 3) Hydro Systems: Water pumps, 4) Pneumatic systems: Air compressors, 5) Mechanical systems: Flywheels, 6) Thermal systems: Molten Salt, Water or oil heaters. When we are talking about energy storage systems, we should consider the criteria of selection for method and technique of storing this energy. Researchers and scientists have classified different criteria in selecting the energy storage techniques, the main points to be considered are: 1) the available energy resources, 2) energy requirement and application, 3) energy storage efficiency, 4) energy storage cost, 5) energy storage infrastructure, 6) other factors. This editorial describes articles presented at the 8th International Conference on Sustainable Energy and Environmental Protection SEEP2015. Main topics include renewable energy and energy storage systems and various articles related to the conference scope.
+
+SOURCE: Energy
+PDF URL: None
+CITED BY COUNT: 257
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Energy storage', 'Renewable energy', 'Flywheel', 'Pumped-storage hydroelectricity', 'Process engineering', 'Energy engineering', 'Environmental science', 'Engineering', 'Electrical engineering', 'Distributed generation', 'Automotive engineering', 'Power (physics)', 'Physics', 'Quantum mechanics']

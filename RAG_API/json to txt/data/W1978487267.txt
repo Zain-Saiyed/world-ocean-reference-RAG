@@ -1,0 +1,12 @@
+ID: W1978487267
+TITLE: Hyperspectral Data for Mangrove Species Mapping: A Comparison of Pixel-Based and Object-Based Approach
+AUTHOR: ['Muhammad Kamal', 'Stuart Phinn']
+ABSTRACT:
+Visual image interpretation and digital image classification have been used to map and monitor mangrove extent and composition for decades. The presence of a high-spatial resolution hyperspectral sensor can potentially improve our ability to differentiate mangrove species. However, little research has explored the use of pixel-based and object-based approaches on high-spatial hyperspectral datasets for this purpose. This study assessed the ability of CASI-2 data for mangrove species mapping using pixel-based and object-based approaches at the mouth of the Brisbane River area, southeast Queensland, Australia. Three mapping techniques used in this study: spectral angle mapper (SAM) and linear spectral unmixing (LSU) for the pixel-based approaches, and multi-scale segmentation for the object-based image analysis (OBIA). The endmembers for the pixel-based approach were collected based on existing vegetation community map. Nine targeted classes were mapped in the study area from each approach, including three mangrove species: Avicennia marina, Rhizophora stylosa, and Ceriops australis. The mapping results showed that SAM produced accurate class polygons with only few unclassified pixels (overall accuracy 69%, Kappa 0.57), the LSU resulted in a patchy polygon pattern with many unclassified pixels (overall accuracy 56%, Kappa 0.41), and the object-based mapping produced the most accurate results (overall accuracy 76%, Kappa 0.67). Our results demonstrated that the object-based approach, which combined a rule-based and nearest-neighbor classification method, was the best classifier to map mangrove species and its adjacent environments.
+
+SOURCE: Remote sensing
+PDF URL: https://www.mdpi.com/2072-4292/3/10/2222/pdf?version=1403129350
+CITED BY COUNT: 155
+PUBLICATION YEAR: 2011
+TYPE: article
+CONCEPTS: ['Hyperspectral imaging', 'Pixel', 'Mangrove', 'Remote sensing', 'Artificial intelligence', 'Computer science', 'Cartography', 'Pattern recognition (psychology)', 'Segmentation', 'Geography', 'Ecology', 'Biology']

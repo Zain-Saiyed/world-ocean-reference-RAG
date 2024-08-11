@@ -1,0 +1,12 @@
+ID: W2967146418
+TITLE: Seaweed resources of Brazil: what has changed in 20 years?
+AUTHOR: ['Carmen Simioni', 'Leila Hayashi', 'Mariana Cabral de Oliveira']
+ABSTRACT:
+Abstract In 1998 Critchley and Ohno published the book Seaweed resources of the world presenting a synthesis of knowledge on the subject from different regions and countries globally. One chapter by E.C. Oliveira was focused on Brazil. In this article, we present an update of the economically relevant species of Brazilian seaweeds, and their distribution along the coastline, and what has changed over 20 years in the status of the exploited resources, the new species with commercial potential, and relevant legislation. The only introduced commercial species, Kappaphycus alvarezii , was economically exploited for a while in Rio de Janeiro State, but nowadays there are no commercial activities on a large scale. Gracilaria farms in the northeast are still on an artisanal scale, but the expansion of activity is compromised by legal and bureaucratic barriers. Regulations related to the exploitation of natural beds and to the introduction of new strains of K. alvarezii were created between 2006 and 2008. At the end of this article, we present a reflection of what lessons have been learned and what are the prospects for seaweed cultivation in Brazil.
+
+SOURCE: Botanica marina
+PDF URL: https://www.ibama.gov.br/phocadownload/agrotoxicos/reavaliacao-ambiental/2019/2019-01-23-Ibama-IN27-2018.pdf
+CITED BY COUNT: 16
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Kappaphycus alvarezii', 'Legislation', 'Geography', 'Gracilaria', 'Scale (ratio)', 'Algae', 'Bureaucracy', 'Natural resource', 'Distribution (mathematics)', 'Environmental protection', 'Business', 'Environmental planning', 'Ecology', 'Political science', 'Biology', 'Cartography', 'Politics', 'Law', 'Mathematical analysis', 'Mathematics']

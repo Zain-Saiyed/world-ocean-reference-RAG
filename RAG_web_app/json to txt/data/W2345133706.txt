@@ -1,0 +1,12 @@
+ID: W2345133706
+TITLE: Impacts of climate change on mangrove ecosystems: a region by region overview
+AUTHOR: ['Raymond D. Ward', 'Daniel A. Friess', 'Richard H. Day', 'Richard A. MacKenzie']
+ABSTRACT:
+Abstract Inter-related and spatially variable climate change factors including sea level rise, increased storminess, altered precipitation regime and increasing temperature are impacting mangroves at regional scales. This review highlights extreme regional variation in climate change threats and impacts, and how these factors impact the structure of mangrove communities, their biodiversity and geomorphological setting. All these factors interplay to determine spatially variable resiliency to climate change impacts, and because mangroves are varied in type and geographical location, these systems are good models for understanding such interactions at different scales. Sea level rise is likely to influence mangroves in all regions although local impacts are likely to be more varied. Changes in the frequency and intensity of storminess are likely to have a greater impact on N and Central America, Asia, Australia, and East Africa than West Africa and S. America. This review also highlights the numerous geographical knowledge gaps of climate change impacts, with some regions particularly understudied (e.g., Africa and the Middle East). While there has been a recent drive to address these knowledge gaps especially in South America and Asia, further research is required to allow researchers to tease apart the processes that influence both vulnerability and resilience to climate change. A more globally representative view of mangroves would allow us to better understand the importance of mangrove type and landscape setting in determining system resiliency to future climate change.
+
+SOURCE: Ecosystem health and sustainability
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1002/ehs2.1211?needAccess=true
+CITED BY COUNT: 385
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Mangrove', 'Climate change', 'Geography', 'Vulnerability (computing)', 'Psychological resilience', 'Biodiversity', 'Ecosystem', 'Environmental resource management', 'Ecology', 'Physical geography', 'Environmental science', 'Climatology', 'Geology', 'Biology', 'Psychology', 'Computer security', 'Computer science', 'Psychotherapist']

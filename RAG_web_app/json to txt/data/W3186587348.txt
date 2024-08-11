@@ -1,0 +1,12 @@
+ID: W3186587348
+TITLE: Abyssal fauna of the UK-1 polymetallic nodule exploration area, Clarion-Clipperton Zone, central Pacific Ocean: Mollusca
+AUTHOR: ['Helena Wiklund', 'John D. Taylor', 'Thomas G. Dahlgren', 'Christiane Todt', 'Chiho Ikebe', 'Muriel Rabone', 'Adrian G. Glover']
+ABSTRACT:
+We present the first DNA taxonomy publication on abyssal Mollusca from the Clarion-Clipperton Zone (CCZ), central Pacific ocean, using material collected as part of the Abyssal Baseline (ABYSSLINE) environmental survey cruise 'AB01' to the UK Seabed Resources Ltd (UKSRL) polymetallic-nodule exploration area 'UK-1' in the eastern CCZ.This is the third paper in a series to provide regional taxonomic data for a region that is undergoing intense deep-sea mineral exploration for high-grade polymetallic nodules.Taxonomic data are presented for 21 species from 42 records identified by a combination of morphological and genetic data, including molecular phylogenetic analyses.These included 3 heterodont bivalves, 5 protobranch bivalves, 4 pteriomorph bivalves, 1 caudofoveate, 1 monoplacophoran, 1 polyplacophoran, 4 scaphopods and 2 solenogastres.Gastropoda were recovered but will be the subject of a future study.Seven taxa matched published morphological descriptions for species with deep Pacific type localities, and our sequences provide the first genetic data for these taxa.One taxon morphologically matched a known cosmopolitan species but with a type locality in a different ocean basin and was assigned the open nomenclature 'cf' as a precautionary approach in taxon assignments to avoid over-estimating species ranges.One taxon is here described as a new species, Ledella knudseni sp.n.For the remaining 12 taxa, we have
+
+SOURCE: ZooKeys
+PDF URL: https://zookeys.pensoft.net/article/13042/download/pdf/
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Abyssal zone', 'Taxon', 'Abyssal plain', 'Taxonomy (biology)', 'Type locality', 'Seamount', 'Paleontology', 'Geology', 'Oceanography', 'Biology', 'Ecology', 'Structural basin']

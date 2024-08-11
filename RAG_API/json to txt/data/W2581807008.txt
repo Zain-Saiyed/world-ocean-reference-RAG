@@ -1,0 +1,12 @@
+ID: W2581807008
+TITLE: Terrestrial discharges mediate trophic shifts and enhance methylmercury accumulation in estuarine biota
+AUTHOR: ['Sofi Jonsson', 'Agneta Andersson', 'Mats Nilsson', 'Ulf Skyllberg', 'Erik Lundberg', 'Jeffra K. Schaefer', 'Staffan Åkerblom', 'Erik Björn']
+ABSTRACT:
+Terrestrial discharge can cause pelagic zone trophic shifts and enhance methylmercury accumulation in plankton three- to sixfold.
+
+SOURCE: Science advances
+PDF URL: https://advances.sciencemag.org/content/advances/3/1/e1601239.full.pdf
+CITED BY COUNT: 88
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Methylmercury', 'Food web', 'Environmental science', 'Biota', 'Trophic level', 'Ecosystem', 'Mesocosm', 'Bioaccumulation', 'Environmental chemistry', 'Pelagic zone', 'Zooplankton', 'Biogeochemical cycle', 'Terrestrial ecosystem', 'Estuary', 'Aquatic ecosystem', 'Ecology', 'Chemistry', 'Biology']

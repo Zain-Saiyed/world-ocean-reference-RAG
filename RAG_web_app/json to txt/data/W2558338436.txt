@@ -1,0 +1,12 @@
+ID: W2558338436
+TITLE: Population genetic structure of two congeneric deep-sea amphipod species from geographically isolated hadal trenches in the Pacific Ocean
+AUTHOR: ['Heather Ritchie', 'Alan J. Jamieson', 'Stuart B. Piertney']
+ABSTRACT:
+The deep ocean trenches that comprise the hadal zone have traditionally been perceived as a series of geographically isolated and demographically independent features likely to promote local species endemism through potent natural selection and restricted dispersal. Here we provide the first descriptions of intraspecific population genetic structure among trenches from which the levels of genetic connectivity can be examined explicitly. A total of 109 individuals across two species of Paralicella amphipods (Lysianassoidea: Alicellidae) were genotyped at 16 microsatellite DNA loci. An analysis of molecular variance identified that 22% of the overall genetic variance was attributable to differences between the species and a further 7% was attributable to differences between populations. The two species showed different patterns of genetic structure, with the levels of genetic differentiation between trenches explained by geographical proximity, the geological ages of the trenches, contemporary bottom current patterns and seabed topography around the Pacific Ocean. Overall, the inferred levels of gene flow among trenches was sufficient to reject the hypothesis that they are evolutionarily independent units.
+
+SOURCE: Deep-sea research. Part 1. Oceanographic research papers/Deep sea research. Part I, Oceanographic research papers
+PDF URL: None
+CITED BY COUNT: 37
+PUBLICATION YEAR: 2017
+TYPE: article
+CONCEPTS: ['Biological dispersal', 'Biology', 'Genetic structure', 'Ecology', 'Population', 'Gene flow', 'Intraspecific competition', 'Endemism', 'Genetic variation', 'Evolutionary biology', 'Gene', 'Genetics', 'Demography', 'Sociology']

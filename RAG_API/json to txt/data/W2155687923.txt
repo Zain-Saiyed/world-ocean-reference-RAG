@@ -1,0 +1,12 @@
+ID: W2155687923
+TITLE: Autophagy and lysosomal dysfunction as emerging mechanisms of nanomaterial toxicity
+AUTHOR: ['Stęphan T. Stern', 'Pavan P. Adiseshaiah', 'Rachael M. Crist']
+ABSTRACT:
+The study of the potential risks associated with the manufacture, use, and disposal of nanoscale materials, and their mechanisms of toxicity, is important for the continued advancement of nanotechnology. Currently, the most widely accepted paradigms of nanomaterial toxicity are oxidative stress and inflammation, but the underlying mechanisms are poorly defined. This review will highlight the significance of autophagy and lysosomal dysfunction as emerging mechanisms of nanomaterial toxicity. Most endocytic routes of nanomaterial cell uptake converge upon the lysosome, making the lysosomal compartment the most common intracellular site of nanoparticle sequestration and degradation. In addition to the endo-lysosomal pathway, recent evidence suggests that some nanomaterials can also induce autophagy. Among the many physiological functions, the lysosome, by way of the autophagy (macroautophagy) pathway, degrades intracellular pathogens, and damaged organelles and proteins. Thus, autophagy induction by nanoparticles may be an attempt to degrade what is perceived by the cell as foreign or aberrant. While the autophagy and endo-lysosomal pathways have the potential to influence the disposition of nanomaterials, there is also a growing body of literature suggesting that biopersistent nanomaterials can, in turn, negatively impact these pathways. Indeed, there is ample evidence that biopersistent nanomaterials can cause autophagy and lysosomal dysfunctions resulting in toxicological consequences.
+
+SOURCE: Particle and fibre toxicology
+PDF URL: https://particleandfibretoxicology.biomedcentral.com/counter/pdf/10.1186/1743-8977-9-20
+CITED BY COUNT: 688
+PUBLICATION YEAR: 2012
+TYPE: article
+CONCEPTS: ['Autophagy', 'Lysosome', 'Cell biology', 'Endocytic cycle', 'Intracellular', 'Biology', 'Chemistry', 'Endocytosis', 'Cell', 'Biochemistry', 'Enzyme', 'Apoptosis']

@@ -1,0 +1,12 @@
+ID: W2904748709
+TITLE: Macrofaunal assemblages in canyon and adjacent slope of the NW and Central Mediterranean systems
+AUTHOR: ['Anabella Covazzi Harriague', 'Roberto Danovaro', 'Cristina Misic']
+ABSTRACT:
+Macrofaunal assemblages were studied along bathymetric transects in six canyons and four adjacent open slopes of the Mediterranean Sea. The different areas investigated were located approximately along a longitudinal gradient at similar latitudes. Three regions were investigated: the Catalan (from 334 to 1887 m depth), the Ligurian (from 222 to 2005 m depth) and the South Adriatic margins (from 196 to 908 m depth). The analysis of the meso-scale distribution of assemblage structure and biomass showed significant differences among regions, which resulted in high values of δ-diversity. Clear differences in trophic composition were also observed, and a decreasing pattern in the individual body size of macrofaunal organisms moving Eastward. These patterns were apparently linked to changes in food supply, whereas macrofaunal abundance and number of taxa showed a decrease pattern with increasing water depth. When the assemblage structure was compared between canyons and adjacent open slope, a very high β-diversity was observed, indicating that the bottom topography exerted a strong effect on the assemblage characteristics.
+
+SOURCE: Progress in oceanography/Progress in Oceanography
+PDF URL: None
+CITED BY COUNT: 6
+PUBLICATION YEAR: 2019
+TYPE: article
+CONCEPTS: ['Canyon', 'Transect', 'Geology', 'Mediterranean climate', 'Bathymetry', 'Oceanography', 'Mediterranean sea', 'Assemblage (archaeology)', 'Trophic level', 'Submarine canyon', 'Ecology', 'Paleontology', 'Geomorphology', 'Biology']

@@ -1,0 +1,12 @@
+ID: W2277497547
+TITLE: Changes in Climate Extremes and their Impacts on the Natural Physical Environment
+AUTHOR: ['Sonia I. Seneviratne', 'Neville Nicholls', 'David R. Easterling', 'C. M. Goodess', 'Shinjiro Kanae', 'James P. Kossin', 'Yali Luo', 'José A. Marengo', 'Kathleen Mc Innes', 'Mehdi Rahimi', 'Markus Reichstein', 'Asgeir Sorteberg', 'Carolina Vera', 'Xuebin Zhang', 'Matilde Rusticucci', 'В. Н. Семенов', 'Lisa V. Alexander', 'Simon Allen', 'Gerardo Benito', 'Tereza Cavazos', 'John J. Clague', 'Declan Conway', 'P. M. Della‐Marta', 'Marlène Gerber', 'Sunling Gong', 'B. N. Goswami', 'Mark Hemer', 'Christian Huggel', 'Bart van den Hurk', 'Viatcheslav Kharin', 'Akio Kitoh', 'Albert Klein Tank', 'Guilong Li', 'Simon J. Mason', 'William Mc Guire', 'Geert Jan van Oldenborgh', 'Boris Orlowsky', 'Sharon L. Smith', 'Wassila M. Thiaw', 'Adonis F. Velegrakis', 'Pascal Yiou', 'Tingjun Zhang', 'Tianjun Zhou', 'Francis W. Zwiers']
+ABSTRACT:
+This chapter addresses changes in weather and climate events relevant to extreme impacts and disasters. An extreme (weather or climate) event is generally defined as the occurrence of a value of a weather or climate variable above (or below) a threshold value near the upper (or lower) ends (‘tails’) of the range of observed values of the variable. Some climate extremes (e.g., droughts, floods) may be the result of an accumulation of weather or climate events that are, individually, not extreme themselves (though their accumulation is extreme). As well, weather or climate events, even if not extreme in a statistical sense, can still lead to extreme conditions or impacts, either by crossing a critical threshold in a social, ecological, or physical system, or by occurring simultaneously with other events. A weather system such as a tropical cyclone can have an extreme impact, depending on where and when it approaches landfall, even if the specific cyclone is not extreme relative to other tropical cyclones. Conversely, not all extremes necessarily lead to serious impacts. [3.1]
+
+SOURCE: Cambridge University Press eBooks
+PDF URL: None
+CITED BY COUNT: 1225
+PUBLICATION YEAR: 2012
+TYPE: book-chapter
+CONCEPTS: ['Extreme weather', 'Extreme value theory', 'Climatology', 'Environmental science', 'Climate change', 'Tropical cyclone', 'Natural disaster', 'Meteorology', 'Geography', 'Mathematics', 'Geology', 'Oceanography', 'Statistics']

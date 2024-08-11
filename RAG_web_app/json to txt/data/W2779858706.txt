@@ -1,0 +1,12 @@
+ID: W2779858706
+TITLE: Spatio-temporal variation of anthropogenic marine debris on Chilean beaches
+AUTHOR: ['Valeria Hidalgo‐Ruz', 'Daniela Honorato‐Zimmer', 'Magdalena Gatta‐Rosemary', 'Paloma Eza Núñez', 'Iván A. Hinojosa', 'Martín Thiel']
+ABSTRACT:
+We examined the hypothesis that in an emerging economy such as Chile the abundances of Anthropogenic Marine Debris (AMD) on beaches are increasing over time. The citizen science program Científicos de la Basura (“Litter Scientists”) conducted three national surveys (2008, 2012 and 2016) to determine AMD composition, abundance, spatial patterns and temporal trends. AMD was found on all beaches along the entire Chilean coast. Highest percentages of AMD in all surveys were plastics and cigarette butts, which can be attributed to local sources (i.e. beach users). The Antofagasta region in northern Chile had the highest abundance of AMD compared with all other zones. Higher abundances of AMD were found at the upper stations from almost all zones. No significant tendency of increasing or decreasing AMD densities was observed during the 8 years covered by our study, which suggests that economic development alone cannot explain temporal trends in AMD densities.
+
+SOURCE: Marine pollution bulletin
+PDF URL: None
+CITED BY COUNT: 113
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Variation (astronomy)', 'Debris', 'Marine debris', 'Environmental science', 'Oceanography', 'Geography', 'Fishery', 'Geology', 'Biology', 'Physics', 'Astrophysics']

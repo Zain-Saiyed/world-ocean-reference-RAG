@@ -1,0 +1,12 @@
+ID: W2435379313
+TITLE: Characterization and environmental impact analysis of sea land reclamation activities in China
+AUTHOR: ['Huabo Duan', 'Hui Zhang', 'Qifei Huang', 'Yukui Zhang', 'Mingwei Hu', 'Yongning Niu', 'Jiasong Zhu']
+ABSTRACT:
+With rapid urbanization and soaring land prices, many coastal cities in China have turned their eyes to the ocean and built airports or factories on reclaimed land. However, sea land reclamation activities have brought about serious environmental impacts. This study therefore combines qualitative and quantitative information to focus on reclamation activities in China and to highlight the major impacts: eco-system damage and geological disasters, and the deterioration of marine environmental quality resulting from polluted air, water, soil, and sediment. The realized and potential environmental damages are substantial. A resultant policy recommendation is for local Chinese governments to limit land reclamation and to strengthen environmental assessment systems, especially in fragile coastal regions containing important oceanic resources such as mangroves and protected wildlife. Our study can also serve as a reference for the better management of land reclamation in densely populated coastal regions of the world.
+
+SOURCE: Ocean & coastal management
+PDF URL: None
+CITED BY COUNT: 82
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Land reclamation', 'Urbanization', 'China', 'Environmental science', 'Environmental protection', 'Mangrove', 'Environmental planning', 'Environmental impact assessment', 'Environmental resource management', 'Land use', 'Coastal management', 'Geography', 'Ecology', 'Archaeology', 'Biology']

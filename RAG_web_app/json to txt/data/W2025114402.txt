@@ -1,0 +1,12 @@
+ID: W2025114402
+TITLE: Variability of zooplankton communities at Condor seamount and surrounding areas, Azores (NE Atlantic)
+AUTHOR: ['Vanda Carmo', 'Mariana Santos', 'Gui Menezes', 'Clara Magalhães Loureiro', 'Paolo Lambardi', 'Ana Martins']
+ABSTRACT:
+Seamounts are common topographic features around the Azores archipelago (NE Atlantic). Recently there has been increasing research effort devoted to the ecology of these ecosystems. In the Azores, the mesozooplankon is poorly studied, particularly in relation to these seafloor elevations. In this study, zooplankton communities in the Condor seamount area (Azores) were investigated during March, July and September 2010. Samples were taken during both day and night with a Bongo net of 200 µm mesh that towed obliquely within the first 100 m of the water column. Total abundance, biomass and chlorophyll a concentrations did not vary with sampling site or within the diel cycle but significant seasonal variation was observed. Moreover, zooplankton community composition showed the same strong seasonal pattern regardless of spatial or daily variability. Despite seasonal differences, the zooplankton community structure remained similar for the duration of this study. Seasonal variability better explained our results than mesoscale spatial variability. Spatial homogeneity is probably related with island proximity and local dynamics over Condor seamount. Zooplankton literature for the region is sparse, therefore a short review of the most important zooplankton studies from the Azores is also presented.
+
+SOURCE: Deep-sea research. Part 2. Topical studies in oceanography/Deep sea research. Part II, Topical studies in oceanography
+PDF URL: None
+CITED BY COUNT: 20
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Zooplankton', 'Seamount', 'Diel vertical migration', 'Oceanography', 'Archipelago', 'Spatial variability', 'Community structure', 'Environmental science', 'Geography', 'Ecology', 'Geology', 'Biology', 'Statistics', 'Mathematics']

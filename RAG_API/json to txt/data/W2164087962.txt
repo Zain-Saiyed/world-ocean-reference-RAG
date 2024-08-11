@@ -1,0 +1,12 @@
+ID: W2164087962
+TITLE: Global analysis of nitrogen and phosphorus limitation of primary producers in freshwater, marine and terrestrial ecosystems
+AUTHOR: ['James J. Elser', 'Matthew E. S. Bracken', 'Elsa E. Cleland', 'Daniel S. Gruner', 'W. Stanley Harpole', 'Helmut Hillebrand', 'Jacqueline T. Ngai', 'Eric W. Seabloom', 'Jonathan B. Shurin', 'Jennifer E. Smith']
+ABSTRACT:
+The cycles of the key nutrient elements nitrogen (N) and phosphorus (P) have been massively altered by anthropogenic activities. Thus, it is essential to understand how photosynthetic production across diverse ecosystems is, or is not, limited by N and P. Via a large-scale meta-analysis of experimental enrichments, we show that P limitation is equally strong across these major habitats and that N and P limitation are equivalent within both terrestrial and freshwater systems. Furthermore, simultaneous N and P enrichment produces strongly positive synergistic responses in all three environments. Thus, contrary to some prevailing paradigms, freshwater, marine and terrestrial ecosystems are surprisingly similar in terms of N and P limitation.
+
+SOURCE: Ecology letters
+PDF URL: None
+CITED BY COUNT: 3604
+PUBLICATION YEAR: 2007
+TYPE: article
+CONCEPTS: ['Terrestrial ecosystem', 'Ecosystem', 'Ecology', 'Marine ecosystem', 'Freshwater ecosystem', 'Habitat', 'Nutrient', 'Phosphorus', 'Terrestrial plant', 'Marine habitats', 'Environmental science', 'Primary producers', 'Biology', 'Chemistry', 'Phytoplankton', 'Organic chemistry']

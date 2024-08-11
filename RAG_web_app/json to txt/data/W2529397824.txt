@@ -1,0 +1,12 @@
+ID: W2529397824
+TITLE: Arctic communities perceive climate impacts on access as a critical challenge to availability of subsistence resources
+AUTHOR: ['Todd J. Brinkman', 'Winslow D. Hansen', 'F. Stuart Chapin', 'Gary Kofinas', 'Shauna BurnSilver', 'T. Scott Rupp']
+ABSTRACT:
+Amplified climate change in the Arctic has altered interactions between rural communities and local wild resources. Shifting interactions warrant analysis because they can influence cultural practices and food security of northern societies. We collaborated with four indigenous communities in Alaska and conducted semi-directed interviews with 71 experienced harvesters to identify local perceptions of climate-driven trends in the environment, and describe the effects of those trends on the availability (i.e., abundance, distribution, accessibility) of subsistence resources. We then linked local perceptions with scientific climate projections to forecast how availability of subsistence resources may change in the future. Hunters identified 47 important relationships between climate-driven changes in the environment and availability of subsistence resources. Of those relationships, 60, 28, and 13 % focused on changes in harvester access, resource distribution, and resource abundance, respectively. Our forecast model indicated a net reduction in the availability of subsistence resources over the next 30 years. The reduction was caused primarily by climate-related challenges in access, rather than changes in abundance or distribution of resources. Our study demonstrates how giving insufficient attention to harvester access may produce misleading conclusions when assessing the impacts of climate change on future subsistence opportunities.
+
+SOURCE: Climatic change
+PDF URL: None
+CITED BY COUNT: 78
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Subsistence agriculture', 'Climate change', 'Arctic', 'Indigenous', 'Environmental resource management', 'Abundance (ecology)', 'Distribution (mathematics)', 'Resource (disambiguation)', 'Natural resource economics', 'Geography', 'Ecology', 'Agriculture', 'Environmental science', 'Economics', 'Biology', 'Mathematical analysis', 'Computer network', 'Mathematics', 'Archaeology', 'Computer science']

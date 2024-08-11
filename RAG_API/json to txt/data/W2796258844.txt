@@ -1,0 +1,12 @@
+ID: W2796258844
+TITLE: Emerging risks from marine heat waves
+AUTHOR: ['Thomas L. Frölicher', 'Charlotte Laufkötter']
+ABSTRACT:
+Recent marine heat waves have caused devastating impacts on marine ecosystems. Substantial progress in understanding past and future changes in marine heat waves and their risks for marine ecosystems is needed to predict how marine systems, and the goods and services they provide, will evolve in the future.
+
+SOURCE: Nature communications
+PDF URL: https://www.nature.com/articles/s41467-018-03163-6.pdf
+CITED BY COUNT: 389
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Marine ecosystem', 'Heat wave', 'Ecosystem', 'Environmental science', 'Environmental resource management', 'Oceanography', 'Marine conservation', 'Climate change', 'Business', 'Ecology', 'Geology', 'Biology']

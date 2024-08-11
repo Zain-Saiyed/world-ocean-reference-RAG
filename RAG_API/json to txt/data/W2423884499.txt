@@ -1,0 +1,12 @@
+ID: W2423884499
+TITLE: Organophosphate Esters in Canadian Arctic Air: Occurrence, Levels and Trends
+AUTHOR: ['Roxana Sühring', 'Miriam L. Diamond', 'Martin Scheringer', 'Fiona Wong', 'Monika Pućko', 'Gary A. Stern', 'A. Burt', 'Hayley Hung', 'Phil Fellin', 'Henrik Li', 'Liisa M. Jantunen']
+ABSTRACT:
+Fourteen organophosphate esters (OPEs) were measured in the filter fraction of 117 active air samples from yearly ship-based sampling campaigns (2007–2013) and two land-based stations in the Canadian Arctic, to assess trends and long-range transport potential of OPEs. Four OPEs were detected in up to 97% of the samples, seven in 50% or less of the samples, and three were not detected. Median concentrations of ∑OPEs were 237 and 50 pg m–3 for ship- and land-based samples, respectively. Individual median concentrations ranged from below detection to 119 pg m–3 for ethanol, 2-chloro-, phosphate (3:1) (TCEP). High concentrations of up to 2340 pg m–3 were observed for Tri-n-butyl phosphate (TnBP) at a land-based sampling location in Resolute Bay from 2012, whereas it was only detected in one ship-based sample at a concentration below 100 pg m–3. Concentrations of halogenated OPEs seemed to be driven by river discharge from the Nelson and Churchill Rivers (Manitoba) and Churchill River and Lake Melville (Newfoundland and Labrador). In contrast, nonhalogenated OPE concentrations appeared to have diffuse sources or local sources close to the land-based sampling stations. Triphenyl phosphate (TPhP) showed an apparent temporal trend with a doubling-time of 11 months (p = 0.044). The results emphasize the increasing relevance of halogenated and nonhalogenated OPEs as contaminants in the Arctic.
+
+SOURCE: Environmental science & technology
+PDF URL: None
+CITED BY COUNT: 147
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Arctic', 'Organophosphate', 'Bay', 'Environmental science', 'The arctic', 'Triphenyl phosphate', 'Environmental chemistry', 'Sampling (signal processing)', 'Phosphate', 'Chemistry', 'Hydrology (agriculture)', 'Oceanography', 'Pesticide', 'Geology', 'Filter (signal processing)', 'Ecology', 'Fire retardant', 'Geotechnical engineering', 'Organic chemistry', 'Computer science', 'Computer vision', 'Biology']

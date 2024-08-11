@@ -1,0 +1,12 @@
+ID: W2999891757
+TITLE: Factors influencing the performance of regional fisheries management organizations
+AUTHOR: ['Bianca Haas', 'Jeffrey McGee', 'Aysha Fleming', 'Marcus Haward']
+ABSTRACT:
+A key challenge for humanity is to conserve and sustainably use the earth's oceans and marine resources as millions of people rely on fish for food, income, and well-being. Regional fisheries management organizations (RFMOs) are key players in international fisheries management. However, despite their importance, the ability of these institutions to manage fisheries in a sustainable way and to prevent overfishing has often been questioned. This article aims to provide an overview of issues which impact the RFMOs performance. We conducted an extensive literature review to summarize issues which were mentioned in the peer-reviewed literature. Moreover, we also discuss the impact of new international agreements and processes, such as the Sustainable Development Goals and the currently negotiated agreement for biodiversity beyond national jurisdiction, due to the overlap of themes such as biodiversity protection and sustainable fisheries management. We identified 17 issues which were mentioned in the literature, with the most frequent ones being precautionary and ecosystem approach and decision-making. RFMOs are slowly making progress regarding these issues and some organizations are already applying good practices. This highlights the importance of RFMOs to learn from each other. While the agreement for biodiversity beyond national jurisdiction might potentially impact RFMOs and speed up to the process of applying best practices, the sustainable development goals are less likely to influence RFMOs.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 32
+PUBLICATION YEAR: 2020
+TYPE: article
+CONCEPTS: ['Fisheries management', 'Overfishing', 'Business', 'Sustainability', 'Jurisdiction', 'Environmental resource management', 'Fisheries law', 'Precautionary principle', 'Ecosystem-based management', 'International waters', 'Environmental planning', 'Sustainable development', 'Exclusive economic zone', 'Fishery', 'Fishing', 'Political science', 'Economics', 'Ecosystem', 'Geography', 'Ecology', 'Biology', 'Law']

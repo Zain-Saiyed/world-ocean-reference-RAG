@@ -1,0 +1,12 @@
+ID: W2802049503
+TITLE: From sea-level rise to seabed grabbing: The political economy of climate change in Kiribati
+AUTHOR: ['Felix Mallin']
+ABSTRACT:
+This paper presents a critical political economy perspective on recent and ongoing developments in the Pacific atoll country of Kiribati, where the issue of rising sea levels has become an incrementally politicised concern. Semi-structured interviews (n = 30) with decision-makers, policy advisors, scholars, and community elders were conducted in multiple sites to scrutinise the politics that frame the country's environmental predicament. Findings indicate that: (1) irrespective of considerable scientific uncertainties and data inconsistencies, previous governments have fervently abided by a ‘sinking nation paradigm’, unreasonably constraining political visions of the nation's future; (2) consequentially, ‘adaptation’ has become a metaphor for economic development conceptions, which are tied to mounting budgetary requirements; (3) climate aid is sought for adaptation initiatives irrespective of the needs and desires of island communities; (4) incentives to develop a blue-green economy have facilitated the emergence of highly problematic deep-sea mineral (DSM) initiatives, which this study regards as precursors to seabed grabbing. The paper, therefore, posits that marine policy makers in Kiribati – and other small-island developing states (SIDS) – need to be more vigilant to wider political economic agendas when considering options for ocean and coastal governance. Researchers and practitioners have an important role to play in this regard by privileging preferences and perceptions from coastal communities, to ensure well-informed policy decisions in times of ecological uncertainty.
+
+SOURCE: Marine policy
+PDF URL: None
+CITED BY COUNT: 23
+PUBLICATION YEAR: 2018
+TYPE: article
+CONCEPTS: ['Politics', 'Vision', 'Small Island Developing States', 'Incentive', 'Corporate governance', 'Political science', 'Political economy', 'Climate change', 'Political economy of climate change', 'Economics', 'Sociology', 'Ecology', 'Law', 'Finance', 'Anthropology', 'Microeconomics', 'Biology']

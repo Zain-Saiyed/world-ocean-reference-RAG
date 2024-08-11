@@ -1,0 +1,12 @@
+ID: W2519605515
+TITLE: Distribution of macrophyte species and habitats in South African estuaries
+AUTHOR: ['Janine B. Adams', 'D.A. Veldkornet', 'Pascal Tabi Tabot']
+ABSTRACT:
+This study investigated the area coverage and species composition of different habitat types in all estuaries and bioclimatic regions along the coast of South Africa. Estuary habitat covers a total area of 95,657 ha. Reeds and sedges (14,732.6 ha) were the dominant habitat type overall. Supratidal salt marsh was dominant in the cool temperate region (4869.7 ha), intertidal salt marsh in the warm temperate region (2509 ha) and reeds and sedges in the subtropical region (10,484 ha). In the cool temperate, warm temperate and subtropical regions, the estuaries with the largest areas were the Berg (6799 ha), Knysna (2038.7 ha) and St Lucia estuaries (40,832.8 ha), respectively. The number of macrophyte species per estuary varied from one to 53. Macrophyte species richness was higher in estuaries of the cool and warm temperate zone than that in the subtropical zone. Macrophyte species are distributed in 47 families and the dominant families are the Cyperaceae (18), Chenopodiaceae (14), Juncaceae (5), while 15 other families had only one representative species. The number of species in temporarily open/closed estuaries (TOCEs) and permanently open estuaries (POEs) was higher than that found in other estuary types (river mouths, estuarine bays and lakes). Only Juncus kraussii and Phragmites australis occurred in more than half of South African estuaries. The data are collated in an estuary botanical database that can be accessed for monitoring and conservation planning purposes. These findings have already found application in the management of estuaries in South Africa, the National Biodiversity Assessment and the National Estuary Biodiversity Plan.
+
+SOURCE: South African journal of botany
+PDF URL: None
+CITED BY COUNT: 45
+PUBLICATION YEAR: 2016
+TYPE: article
+CONCEPTS: ['Estuary', 'Salt marsh', 'Ecology', 'Temperate climate', 'Macrophyte', 'Species richness', 'Subtropics', 'Habitat', 'Intertidal zone', 'Geography', 'Biology']

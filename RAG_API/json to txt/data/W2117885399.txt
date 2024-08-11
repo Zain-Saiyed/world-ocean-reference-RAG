@@ -1,0 +1,12 @@
+ID: W2117885399
+TITLE: First direct measurements of behavioural responses by Cuvier's beaked whales to mid-frequency active sonar
+AUTHOR: ['Stacy L. DeRuiter', 'Brandon L. Southall', 'John Calambokidis', 'Walter Zimmer', 'Dinara Sadykova', 'Erin A. Falcone', 'Ari S. Friedlaender', 'John E. Joseph', 'David Moretti', 'Gregory S. Schorr', 'Len Thomas', 'Peter L. Tyack']
+ABSTRACT:
+Most marine mammal­ strandings coincident with naval sonar exercises have involved Cuvier's beaked whales ( Ziphius cavirostris ). We recorded animal movement and acoustic data on two tagged Ziphius and obtained the first direct measurements of behavioural responses of this species to mid-frequency active (MFA) sonar signals. Each recording included a 30-min playback (one 1.6-s simulated MFA sonar signal repeated every 25 s); one whale was also incidentally exposed to MFA sonar from distant naval exercises. Whales responded strongly to playbacks at low received levels (RLs; 89–127 dB re 1 µPa): after ceasing normal fluking and echolocation, they swam rapidly, silently away, extending both dive duration and subsequent non-foraging interval. Distant sonar exercises (78–106 dB re 1 µPa) did not elicit such responses, suggesting that context may moderate reactions. The observed responses to playback occurred at RLs well below current regulatory thresholds; equivalent responses to operational sonars could elevate stranding risk and reduce foraging efficiency.
+
+SOURCE: Biology letters
+PDF URL: https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2013.0223
+CITED BY COUNT: 204
+PUBLICATION YEAR: 2013
+TYPE: article
+CONCEPTS: ['Sonar', 'Human echolocation', 'Marine mammals and sonar', 'Foraging', 'Beaked whale', 'Marine mammal', 'Biology', 'Whale', 'Context (archaeology)', 'Bioacoustics', 'Oceanography', 'Acoustics', 'Fishery', 'Ecology', 'Neuroscience', 'Geology', 'Paleontology', 'Physics']
