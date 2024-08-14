@@ -63,4 +63,11 @@ The `RAG_API/` folder contains the FAST API Python REST API for serving the RAG 
 
 D3.js web application which gets model responses from teh FastAPI backend api.
 
+1. `openalexworks.json`: Contains metadata about academic papers, including their titles, abstracts, authors, and related institutions.
+2. `ac.py`: A Python script for clustering academic paper abstracts using TF-IDF vectorization and k-means clustering, and saving the results as JSON.
+3. `cluster_output.json`: JSON file storing the results of clustering academic papers, including cluster labels, top terms, and associated paper IDs.
+4. `file_convert.py`: Python script that converts cluster_output.json into a hierarchical structure for visualization.
+5. `hierarchical_output.json`: Hierarchical JSON file used for creating the D3.js visualization.
+6. `script.js`: JavaScript file containing D3.js code for creating an interactive circle packing visualization.
+7. `index.html`: HTML file that structures the web page and includes necessary scripts and UI elements.
 
